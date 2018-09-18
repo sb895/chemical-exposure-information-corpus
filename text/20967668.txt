@@ -1,0 +1,9 @@
+This study concerns the validation of an analytical method for the measurement of occupational exposure to trace levels of polycyclic aromatic hydrocarbons ( PAHs ) in airborne particulate matter ( APM ) .
+Personal exposure to selected PAHs of five workers occupationally exposed to urban pollution in Rome , Italy , was evaluated .
+The samples were collected over 10 days evenly distributed during winter and summer of 2008 .
+Polycyclic aromatic hydrocarbons were collected by a sampling pump and trapped in polytetrafluoroethylene filters ; ultrasonic extraction was applied to extract PAH species from the matrix with toluene , and the concentrated extract was quantitatively analyzed by GC/MS .
+The analytical method was optimized and validated using a standard reference material of urban dust ( SRM 1649a ) .
+Detection limits ranged from 0.8 ng per sample for indeno [ 1,2,3-cd ] pyrene to 20.4 ng for sample for anthracene .
+Experimental results of the 50 personal samples collected showed that phenanthrene was the predominant polycyclic aromatic hydrocarbon [ 95% CI ( 32.42-41.13 ng m(-3)) ] ; the highest benzo[a]pyrene concentration was 2.58 ng m(-3) , approximately 2-fold higher than European annual target values ( 1 ng m(-3) ) .
+Seasonal variations of personal exposure to selected PAHs suggested higher emissions and reduced atmospheric reactivity of PAH compounds in winter .
+The analytical method was a suitable procedure for the determination of 13 of the 16 priority PAHs in APM personal samples and can be considered a useful tool to evaluate occupational exposure to low PAH levels .

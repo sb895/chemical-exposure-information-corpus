@@ -1,0 +1,13 @@
+Extensive uranium extraction took place from 1946 until 1990 at the former Wismut mining company in East Germany .
+A total of 58,987 male former employees of this company form the largest single uranium miners cohort that has been followed up for causes of mortality occurring from the beginning of 1946 to the end of 2003 .
+The purpose of this study was to investigate and evaluate different forms of models for the radon exposure-related lung cancer mortality risk based on 3,016 lung cancer deaths and 2 million person years .
+Other exposure covariables such as occupational exposure to external gamma radiation , long-lived radionuclides , arsenic , fine dust and silica dust are available .
+The standardized mortality ratio for lung cancer is 2.03 ( 95% CI : 1.96 ; 2.10 ) .
+The simple cohort excess relative risk ( ERR/WLM ) for lung cancer is estimated as 0.0019 ( 95% CI : 0.0016 ; 0.0022 ) .
+The BEIR VI model produced risks similar to those obtained with a selected mathematically continuous ERR model for lung cancer .
+The continuous model is linear in radon exposure with exponential effect modifiers that depend on the whole range of age at median exposure , time since median exposure , and radon exposure rate .
+In this model the central estimate of ERR/WLM is 0.0054 ( 95% CI : 0.0040 ; 0.0068 ) for an age at median exposure of 30 years , a time since median exposure of 20 years , and a mean exposure rate of 3 WL .
+The ERR decreases by 5% for each unit of exposure-rate increase .
+The ERR decreases by 28% with each decade increase in age at median exposure and also decreases by 51% with each decade increase in time since median exposure .
+The method of determination of radon exposure ( i.e. , whether the exposures were estimated or measured ) did not play an important role in the determination of the ERR .
+The other exposure covariables were found to have only minor confounding influences on the ERR/WLM for the finally selected continuous model when included in an additive way .

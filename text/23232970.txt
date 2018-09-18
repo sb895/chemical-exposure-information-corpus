@@ -1,0 +1,10 @@
+Several epidemiological studies have reported conflicting results on the effect of traffic-related pollutants on markers of inflammation .
+In a Bayesian framework , we examined the effect of traffic pollution on inflammation using structural equation models ( SEMs ) .
+We studied measurements of C-reactive protein ( CRP ) , soluble vascular cell adhesion molecule-1 ( sVCAM-1 ) , and soluble intracellular adhesion molecule-1 ( sICAM-1 ) for 749 elderly men from the Normative Aging Study .
+Using repeated measures SEMs , we fit a latent variable for traffic pollution that is reflected by levels of black carbon , carbon monoxide , nitrogen monoxide and nitrogen dioxide to estimate its effect on a latent variable for inflammation that included sICAM-1 , sVCAM-1 and CRP .
+Exposure periods were assessed using 1- , 2- , 3- , 7- , 14- and 30-day moving averages previsit .
+We compared our findings using SEMs with those obtained using linear mixed models .
+Traffic pollution was related to increased inflammation for 3- , 7- , 14- and 30-day exposure periods .
+An inter-quartile range increase in traffic pollution was associated with a 2.3% ( 95% posterior interval ( PI ) : 0.0-4.7% ) increase in inflammation for the 3-day moving average , with the most significant association observed for the 30-day moving average ( 23.9% ; 95% PI : 13.9-36.7% ) .
+Traffic pollution adversely impacts inflammation in the elderly .
+SEMs in a Bayesian framework can comprehensively incorporate multiple pollutants and health outcomes simultaneously in air pollution-cardiovascular epidemiological studies .

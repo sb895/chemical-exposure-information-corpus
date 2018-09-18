@@ -1,0 +1,8 @@
+Arsenic is a highly dangerous metal that has been linked to a number of adverse health effects in both adults and children , including birth defects .
+Yet few epidemiologic studies have examined the relationship between arsenic levels in the soil and the risk of birth defects .
+The purpose of the authors ' study was to examine this association among people exposed to environmental pollution in a developed area of China .
+The authors used global positioning system to locate the coordinates of 80 villages in 40 towns for soil sampling .
+Soil samples were analyzed for arsenic content .
+Logistic regression was used to investigate the relationship between exposure to arsenic and birth defects , controlling for potentially confounding factors .
+The authors found that exposure to arsenic in any amount increased the risk of birth defects .
+The positive association found between arsenic exposure and birth defects warrants further study , and future large-scale population-based studies are needed with an emphasis on individual-level exposure and confounding variables .

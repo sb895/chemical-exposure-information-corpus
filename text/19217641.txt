@@ -1,0 +1,13 @@
+Polybrominated diphenyl ethers ( PBDEs ) are emerging persistent organic pollutants ( POPs ) .
+Since the 1970s , PBDEs have been widely used as additive flame retardants in furniture and electronic equipment .
+Due to their wide use and persistent nature , these chemicals are found in the environment , human blood , breast milk and other tissues in increasing levels in recent decades .
+PBDEs are similar to polychlorinated biphenyls ( PCBs ) in structure and toxicity .
+However , unlike PCBs and PCDDs/PCDFs , the route of PBDE exposure is not almost exclusively through food .
+PBDE levels in US food are not markedly higher than in Europe , although US human blood and milk levels are an order of magnitude higher .
+For these reasons , other possible routes of PBDE exposure have been investigated to understand PBDE intake into humans .
+PBDE contaminated clothes dryer lint and household dust are indicators of indoor contamination and may be sources of human exposure through hand-to-mouth contact or dermal absorption .
+There are very few publications about PBDEs in US or European lint .
+Household dryer lint from 12 US and seven German homes were analyzed for PBDEs by gas chromatography coupled to high-resolution mass spectrometry .
+We found the median US total PBDE levels were more than 10 times higher than median German levels and the mean US levels were two times higher than mean German levels .
+The US levels ranged from 321 to 3073ngg(-1) ( median : 803ngg(-1) , mean : 1138ngg(-1) ) and the German levels were from 330 to 2069ngg(-1) ( median : 71ngg(-1) , mean : 361ngg(-1) ) .
+PBDE contamination of lint was found in all samples ; the source of the PBDEs may be from dryer electrical components and/or dust deposition onto clothing .

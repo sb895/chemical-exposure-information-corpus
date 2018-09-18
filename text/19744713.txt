@@ -1,0 +1,11 @@
+Farmworkers ' children may have increased pesticide exposure through dermal absorption and non-dietary ingestion , routes that are difficult to measure and model .
+The Cumulative Aggregate Simulation of Exposure ( CASE ) model , integrates the complexity of human behavior and variability of exposure processes by combining micro-level activity time series ( MLATS ) and mechanistic exposure equations .
+CASE was used to estimate residential non-dietary organophosphate pesticide exposure ( i.e. , inhalation , dermal , and non-dietary ingestion ) to California farmworker children and evaluate the micro-activity approach .
+MLATS collected from children and distributions developed from pesticide measurements in farmworkers ' residences served as inputs .
+While estimated diazinon exposure was greater for inhalation , chlorpyrifos exposure was greater for the other routes .
+Greater variability existed between children ( sigma(B)(2)=0.22-0.39 ) than within each child's simulations ( sigma(W)(2)=0.01-0.02 ) for dermal and non-dietary ingestion .
+Dermal exposure simulations were not significantly different than measured values from dosimeters worn by the children .
+Non-dietary ingestion exposure estimates were comparable to duplicate diet measurements , indicating this route may contribute substantially to aggregate exposure .
+The results suggest the importance of the micro-activity approach for estimating non-dietary exposure .
+Other methods may underestimate exposure via these routes .
+Model simulations can be used to identify at-risk children and target intervention strategies .

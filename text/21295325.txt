@@ -1,0 +1,6 @@
+Air samples containing gaseous and particulate phases were collected from e-waste workplaces and residential areas of an intensive e-waste recycling area and compared with a reference site .
+The highest total concentration of PCBs was detected at transformer recycling workshops ( 17.6 ng m(-3) ) , followed by the residential area ( 3.37 ng m(-3) ) at Taizhou , and the lowest was obtained at the residential area of the reference site , Lin'an ( 0.46 ng m(-3) ) .
+The same trend was also observed with regards to PCB levels in dust samples .
+The highest average PCBs level of 2824 ng g(-1) ( dry wt ) was found in the transformer recycling workshops , and was significantly higher than that of residential areas of Taizhou ( 572 ng g(-1) dry wt ) and Lin'an ( 42.4 ng g(-1) dry wt ) .
+WHO-PCB-TEQ level in the workshops of Taizhou was 2216 pg TEQ(1998)g(-1) dry wt or 2159 pg TEQ(2005)g(-1) dry wt , due to the high abundance of PCB 126 ( 21.5 ng g(-1) dry wt ) , which contributed 97% or 99% of WHO-PCB-TEQs .
+The estimated intake of PCBs via dust ingestion and dermal absorption by transformer recycling workers were 77.5×10(-5) and 36.0×10(-5) pg WHO-PCB-TEQ(1998)kg(-1)d(-1) , and 67.3×10(-5) and 31.3×10(-5) pg WHO-PCB-TEQ(2005)kg(-1)d(-1) , respectively .

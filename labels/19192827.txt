@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--blood-- AND biomonitoring--exposure biomarker--blood--pregnant women<exposure routes--oral intake--food--pregnant women<biomonitoring--exposure biomarker--blood--pregnant women<exposure routes--oral intake--food--< < < < <exposure routes--oral intake--food--pregnant women

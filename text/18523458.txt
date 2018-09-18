@@ -1,0 +1,11 @@
+OBJECTIVE To provide levels of total and speciated urinary arsenic in a representative sample of the US population .
+METHODS For the first time , total arsenic and seven inorganic and organic arsenic species were measured in the urine of participants ( n=2557 ) for the 2003-2004 National Health and Nutrition Examination Survey ( NHANES ) .
+Data were compiled as geometric means and selected percentiles of urinary arsenic concentrations ( microg/l ) and creatinine-corrected urinary arsenic ( microg/g creatinine ) for total arsenic , dimethylarsinic acid , arsenobetaine , and a sum of the inorganic related species .
+RESULTS Arsenic acid , arsenous acid , arsenocholine , and trimethylarsine oxide were detected in 7.6% , 4.6% , 1.8% , and 0.3% of the participants , respectively ( the limits of detection of 0.6-1.2 microg/l ) .
+Monomethylarsonic acid was detected in 35% of the overall population .
+For all participants aged > or =6 years , dimethylarsinic acid ( geometric mean of 3.71 microg/l ) and arsenobetaine ( geometric mean of 1.55 microg/l ) had the greatest contribution to the total urinary arsenic levels .
+A relatively greater percentage contribution from arsenobetaine is seen at higher total urinary arsenic levels and from dimethylarsinic acid at lower total urinary arsenic levels .
+For all participants aged > or =6 years , the 95th percentiles for total urinary arsenic and the sum of inorganic-related arsenic ( arsenic acid , arsenous acid , dimethylarsinic acid , and monomethylarsonic acid ) were 65.4 and 18.9 microg/l , respectively .
+For total arsenic and dimethylarsinic acid , covariate-adjusted geometric means demonstrated several slight differences due to age , gender , and race/ethnicity .
+CONCLUSIONS The data reflect relative background contributions of inorganic and seafood-related arsenic exposures in the US population .
+Arsenobetaine and dimethylarsinic acid are the major arsenic species present with arsenobetaine , accounting for a greater proportion of total arsenic as total arsenic levels increase .

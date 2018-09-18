@@ -1,0 +1,13 @@
+Polybrominated diphenyl ethers ( PBDEs ) causing thyroidal effects have been demonstrated in in vivo and in vitro studies .
+PBDEs with structural similarities to thyroid hormones have increased recently , but the health effects for thyroid hormones have not been well studied .
+The study aimed to determine PBDE levels in cord blood and further to explore associations between prenatal PBDE exposures and thyroid hormones in cord blood .
+Fifty-four cord blood samples were collected after delivery .
+Cord-blood levels of BDE-15 , 28 , 47 , 99 , 100 , 153 , 154 , and 183 were analyzed using a high resolution gas chromatograph with a high resolution mass spectrometer .
+Thyroid hormones were determined by an automated chemiluminescence analyzer .
+The mean , median , and standard deviation of \u03a3PBDEs were 4.72 , 3.49 , and 6.36 ng/g lipid , respectively .
+To adjust for confounding by maternal age , pre-pregnant BMI and gestational age , stepwise multiple linear regression was used after log(2) transformation of the exposure variables .
+A doubling of BDE-154 was associated with 0.043 ng/mL lower triiodothyronine ( T3 ) values ( adjusted r=-0.245 , p=0.043 ) .
+Likewise a doubling of BDE-153 was associated with 0.143 ng/mL lower free T3 ( FT3 ) values and a doubling of BDE-183 with 0.084 ng/mL lower FT3 values ( adjusted r=-0.487 , p=0.023 ) .
+In contrast , the T4 ( thyroxine)/T3 ratio increased by 4.93 ( adjusted r=0.277 , p=0.017 ) when doubling BDE-100 exposure .
+No significant associations with BDE-47 or any other of the PBDEs was found .
+Our findings of an inverse relationship between BDE-153 , BDE-154 or BDE-184 and thyroid hormones confirm the results of animal experiments but are in contrast to most epidemiological studies .

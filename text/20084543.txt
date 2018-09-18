@@ -1,0 +1,9 @@
+OBJECTIVE Arsenic in drinking water has been linked with the risk of urinary bladder cancer , but the dose-response relationships for arsenic exposures below 100 microg/L remain equivocal .
+We conducted a population-based case-control study in southeastern Michigan , USA , where approximately 230,000 people were exposed to arsenic concentrations between 10 and 100 microg/L .
+METHODS This study included 411 bladder cancer cases diagnosed between 2000 and 2004 , and 566 controls recruited during the same period .
+Individual lifetime exposure profiles were reconstructed , and residential water source histories , water consumption practices , and water arsenic measurements or modeled estimates were determined at all residences .
+Arsenic exposure was estimated for 99% of participants ' person-years .
+RESULTS Overall , an increase in bladder cancer risk was not found for time-weighted average lifetime arsenic exposure >10 microg/L when compared with a reference group exposed to <1 microg/L ( odds ratio ( OR ) = 1.10 ; 95% confidence interval ( CI ) : 0.65 , 1.86 ) .
+Among ever-smokers , risks from arsenic exposure >10 microg/L were similarly not elevated when compared to the reference group ( OR = 0.94 ; 95% CI : 0.50 , 1.78 ) .
+CONCLUSIONS We did not find persuasive evidence of an association between low-level arsenic exposure and bladder cancer .
+Selecting the appropriate exposure metric needs to be thoughtfully considered when investigating risk from low-level arsenic exposure .

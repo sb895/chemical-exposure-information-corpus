@@ -1,0 +1,1 @@
+<  Biomonitoring--effect marker--<  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--effect marker--biomarker--molecule--protein<  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--effect marker--< <exposure routes--oral intake--food-- AND exposure routes--oral intake--products--<  Biomonitoring--exposure biomarker--urine--workers< 

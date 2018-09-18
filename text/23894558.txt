@@ -1,0 +1,11 @@
+BACKGROUND The bed is commonly regarded as the main site of house dust mite exposure ; however this has not been directly established by continuous measurements .
+The objective of this study was to determine the pattern of personal exposure to mite aeroallergen over 24 hours .
+METHODS 12 adults each collected 9 sequential samples ( 8 during the day , mean 115 mins , and one overnight , mean 514 mins ) over 24 hours using a portable air-pump ( 2L/min ) connected to an IOM filter located on the shoulder during the day and on the bed head overnight .
+Samples were analysed for mite allergen Der p 1 by ELISA .
+Location and activity were recorded .
+A mixed model analysis was performed to determine exposure as a function of 14 categories of activity .
+RESULTS Personal aeroallergen exposure differed widely over time , both within and between subjects .
+The highest average exposure ( 1117 pg/m(3) , 95% CI : 289-4314 ) occurred on public transport and the lowest overnight in bed ( 45 pg/m(3) , 95% CI : 17-17 ) , which contributed only 9.8% ( 95% CI : 4.4%-15.1% ) of total daily exposure .
+Aeroallergens were not related to bed reservoirs .
+CONCLUSION The study challenges the current paradigm that the bed is the main site of HDM exposure and instead suggests most exposure occurs in association with domestic activity and proximity to other people .
+Effective mite interventions , designed to improve asthma outcomes , need to first identify and then address the multiple sources of aeroallergen exposure .

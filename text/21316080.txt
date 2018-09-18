@@ -1,0 +1,13 @@
+BACKGROUND Extensive epidemiological studies have provided evidence of an association between elevated outdoor particulate air pollution and adverse health effects .
+However , while people typically spend majority of time indoors , there is limited knowledge on airborne indoor particles and on the correlation between the concentrations of indoor particles and health effects .
+Even insights into the influence of differently sized indoor particles on human health are still rare .
+OBJECTIVE The association between differentially sized indoor air particles and the development of respiratory diseases was studied for three year aged children .
+METHODS Short-term measurements of particle mass and number concentrations were carried out in children's rooms .
+Information on possible particle sources ( smoking habits , type of heating , and traffic ) and respiratory outcomes were obtained from questionnaires .
+Measured indoor particle concentrations were correlated with possible sources of indoor particles and with respiratory health impacts .
+RESULTS Daily smoking , smoking more than 5 cigarettes per day at home and traffic density in front of the window of children's room were found to be related to indoor exposure by particles of different diameters .
+High indoor particle exposures were associated with an increased risk for the development of obstructive bronchitis and in some extent of non-obstructive bronchitis .
+The strongest impact was observed for the mass concentration of particles <1 \u03bcm and the number concentration of particles >0.5 \u03bcm .
+The risk increases still remain significant if tested for stability changing the number of adjustment variables or omitting randomly selected cases , respectively .
+CONCLUSION Our results show significant associations between indoor particle concentrations and the risks for respiratory diseases in young children .
+The applied short-term measurements can help to assess the health risks of indoor particles with different sizes within epidemiological studies .

@@ -1,0 +1,11 @@
+RATIONALE Information on how ambient air pollution affects susceptible populations is needed to ensure protective air quality standards .
+OBJECTIVES To estimate the effect of community-level ambient particulate matter ( PM ) and ozone ( O ) on respiratory symptoms among primarily African-American and Latino , lower-income asthmatic children living in Detroit , Michigan and to evaluate factors associated with heterogeneity in observed health effects .
+METHODS A cohort of 298 children with asthma was studied prospectively from 1999 to 2002 .
+For 14days each season over 11 seasons , children completed a respiratory symptom diary .
+Simultaneously , ambient pollutant concentrations were measured at two community-level monitoring sites .
+Logistic regression models using generalized estimating equations were fit for each respiratory symptom in single pollutant models , looking for interactions by area or by corticosteroid use , a marker of more severe asthma .
+Exposures of interest were : daily concentrations of PM<10\u03bcm , <2.5\u03bcm , and between 10 and 2.5\u03bcm in aerodynamic diameter ( PM , PM , and PM respectively ) , the daily 8-hour maximum concentration of O ( 8HrPeak ) , and the daily 1-hour maximum concentration of O ( 1HrPeak ) .
+RESULTS Outdoor PM , PM , 8HrPeak , and 1HrPeak O concentrations were associated with increased odds of respiratory symptoms , particularly among children using corticosteroid medication and among children living in the southwest community of Detroit .
+Similar patterns of associations were not seen with PM .
+CONCLUSIONS PM and O at levels near or below annual standard levels are associated with negative health impact in this population of asthmatic children .
+Variation in effects within the city of Detroit and among the subgroup using steroids emphasizes the importance of spatially refined exposure assessment and the need for further studies to elucidate mechanisms and effective risk reduction interventions .

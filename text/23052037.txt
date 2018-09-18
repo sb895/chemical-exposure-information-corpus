@@ -1,0 +1,12 @@
+BACKGROUND Elemental mercury ( Hg0 ) is widely used in small-scale gold mining .
+Persons working or living in mining areas have high urinary concentrations of Hg ( U-Hg ) .
+Differences in genes encoding potential Hg-transporters may affect uptake and elimination of Hg .
+OBJECTIVE We aimed to identify single nucleotide polymorphisms ( SNPs ) in Hg-transporter genes that modify U-Hg .
+METHODS Men and women ( 1,017 ) from Indonesia , the Philippines , Tanzania , and Zimbabwe were classified either as controls ( no Hg exposure from gold mining ) or as having low ( living in a gold-mining area ) or high exposure ( working as gold miners ) .
+U-Hg was analyzed by cold-vapor atomic absorption spectrometry .
+Eighteen SNPs in eight Hg-transporter genes were analyzed .
+RESULTS U-Hg concentrations were higher among ABCC2/MRP2 rs1885301 A-allele carriers than among GG homozygotes in all populations , though differences were not statistically significant in most cases .
+MRP2 SNPs showed particularly strong associations with U-Hg in the subgroup with highest exposure ( miners in Zimbabwe ) , whereas rs1885301 A-allele carriers had higher U-Hg than GG homozygotes [ geometric mean ( GM ) : 36.4 µg/g creatinine vs. 21.9 ; p = 0.027 ] , rs2273697 GG homozygotes had higher U-Hg than A-allele carriers ( GM : 37.4 vs. 16.7 ; p = 0.001 ) , and rs717620 A-allele carriers had higher U-Hg than GG homozygotes ( GM : 83 vs. 28 ; p = 0.084 ) .
+The SLC7A5/LAT1 rs33916661 GG genotype was associated with higher U-Hg in all populations ( statistically significant for all Tanzanians combined ) .
+SNPs in SLC22A6/OAT1 ( rs4149170 ) and SLC22A8/OAT3 ( rs4149182 ) were associated with U-Hg mainly in the Tanzanian study groups .
+CONCLUSIONS SNPs in putative Hg-transporter genes may influence U-Hg concentrations .

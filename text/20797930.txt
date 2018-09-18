@@ -1,0 +1,11 @@
+BACKGROUND Phthalates are metabolized and eliminated in urine within hours after exposure .
+Several reports suggest that concentrations of phthalate metabolites in a spot urine sample can provide a reliable estimation of exposure to phthalates for up to several months .
+OBJECTIVES We examined inter- and intraperson and inter- and intraday variability in the concentrations of monoethyl phthalate ( MEP ) , the major metabolite of diethyl phthalate , commonly used in personal care products , and mono(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , a metabolite of di(2-ethylhexyl) phthalate ( DEHP ) , a polyvinyl chloride plasticizer of which diet is the principal exposure source , among eight adults who collected all urine voids ( average , 7.6 samples/person/day ) for 1 week .
+METHODS We analyzed the urine samples using online solid-phase extraction coupled to isotope dilution-high-performance liquid chromatography-tandem mass spectrometry .
+RESULTS Regardless of the type of void ( spot , first morning , 24-hr collection ) , for MEP , interperson variability in concentrations accounted for > 75% of the total variance .
+By contrast , for MEHHP , within-person variability was the main contributor ( 69-83% ) of the total variance .
+Furthermore , we observed considerable intraday variability in the concentrations of spot samples for MEHHP ( 51% ) and MEP ( 21% ) .
+CONCLUSIONS MEP and MEHHP urinary concentrations varied considerably during 1 week , but the main contributors to the total variance differed ( interday variability , MEHHP ; interperson variability , MEP ) regardless of the sampling strategy ( spot , first morning , 24-hr collection ) .
+The nature of the exposure ( diet vs. other lifestyle factors ) and timing of urine sampling to evaluate exposure to phthalates should be considered .
+For DEHP and phthalates to which people are mostly exposed through diet , collecting 24-hr voids for only 1 day may not be advantageous compared with multiple spot collections .
+When collecting multiple spot urine samples , changing the time of collection may provide the most complete approach to assess exposure to diverse phthalates .

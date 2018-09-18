@@ -1,0 +1,12 @@
+Automobile drivers are exposed to several organic hydrocarbons .
+Concentrations measured in passenger compartments have been reported to range between 13 and 560 microg/m(3) for benzene , 33-258 microg/m(3) for toluene , 20-250 microg/m(3) for xylene ( mixed isomers ) and 3-23 microg/m(3) for trimethylbenzene ( mixed isomers ) .
+These aromatic hydrocarbons are emitted from gasoline and from materials inside a car .
+In the present study we evaluated , whether these exposures pose a potential risk to the health of drivers .
+Therefore , we derived maximum exposure levels inside cars for chronic ( ELIA(chronic) ) and short-term ( STELIA ) exposure .
+The lowest ELIA's(chronic) for benzene , toluene , xylene and trimethylbenzene were 0.083 , 1.2 , 8.8 and 0.31 mg/m(3) , respectively .
+The respective STELIA's were 16 , 30 , 29 and 25 mg/m(3) .
+Obviously concentrations of toluene , xylene and trimethylbenzene inside cars do not exceed their individual STELIA's .
+In contrast , benzene seems to be problematic , since concentrations inside cars amount up to 0.56 mg/m(3) , which exceeds the ELIA(chronic) derived for benzene .
+This should not be underestimated , since benzene is a genotoxic carcinogen that probably acts by non-threshold mechanisms .
+In conclusion , concentrations of toluene , xylene and trimethylbenzene usually observed inside cars are unlikely to pose a risk to the health of drivers .
+A systematic toxicological evaluation of the risk associated with benzene exposure in cars seems to be necessary .

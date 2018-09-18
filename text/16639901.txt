@@ -1,0 +1,8 @@
+Data on Polybrominated diphenylether ( PBDE ) concentrations in individual U.S. women were compiled .
+PBDE levels in adipose tissue , serum , and breast milk from individual U.S. women were found to follow similar lognormal distributions , which exhibited a high degree of variability .
+The distribution of lipid-normalized PBDE concentrations for all media combined had a median of 47.9 ng/g and a 95th percentile estimate of 302 ng/g .
+Estimates of congener-specific kinetic parameters were used to calculate the total daily intake of the PBDEs ( sum of 5 PBDE prominent congeners , PBDE-47 , -99 , -100 , -153 , and -154 ) that would be required to achieve the measured body burdens .
+PBDE intake estimates from all routes of exposure were 8.5 ng/kg/d ( median ) and 54 ng/kg/d ( 95th percentile ) .
+The potential health risks posed by the PBDEs were examined by comparing 95th percentile tissue concentrations in humans ( C(human) ) to modeled and measured tissue concentrations in rodents that caused no developmental neurotoxicity and reproductive effects ( C(rodent) ) .
+The ratio of rodent-to-human PBDE concentrations ( C(rodent):C(human) ) was <1 for alterations of male and female reproductive organs in rats , <10 for neurodevelopmental effects in mice , and <100 for neurodevelopmental effects in rats .
+If humans are as sensitive as animals to PBDE-induced developmental toxicity , the current margin of safety appears low for a fraction of the population .

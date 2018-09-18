@@ -1,0 +1,11 @@
+BACKGROUND Chlorpyrifos ( CPF ) , a widely used organophosphorus pesticide ( OP ) , is metabolized to CPF-oxon , a potent cholinesterase ( ChE ) inhibitor , and trichloro-2-pyridinol ( TCPy ) .
+Urinary TCPy is often used as a biomarker for CPF exposure , whereas blood ChE activity is considered an indicator of CPF toxicity .
+However , whether these biomarkers are dose related has not been studied extensively in populations with repeated daily OP exposures .
+OBJECTIVE We sought to determine the relationship between blood ChE and urinary TCPy during repeated occupational exposures to CPF .
+METHODS Daily urine samples and weekly blood samples were collected from pesticide workers ( n=38 ) in Menoufia Governorate , Egypt , before , during , and after 9-17 consecutive days of CPF application to cotton fields .
+We compared blood butyrylcholinesterase ( BuChE ) and acetylcholinesterase ( AChE ) activities with the respective urinary TCPy concentrations in each worker .
+RESULTS Average TCPy levels during the middle of a 1- to 2-week CPF application period were significantly higher in pesticide applicators ( 6,437 µg/g creatinine ) than in technicians ( 184 µg/g ) and engineers ( 157 µg/g ) , both of whom are involved in supervising the application process .
+We observed a statistically significant inverse correlation between urinary TCPy and blood BuChE and AChE activities .
+The no-effect level ( or inflection point ) of the exposure-effect relationships has an average urinary TCPy level of 114 µg/g creatinine for BuChE and 3,161 µg/g creatinine for AChE .
+CONCLUSIONS Our findings demonstrate a dose-effect relationship between urinary TCPy and both plasma BuChE and red blood cell AChE in humans exposed occupationally to CPF .
+These findings will contribute to future risk assessment efforts for CPF exposure .

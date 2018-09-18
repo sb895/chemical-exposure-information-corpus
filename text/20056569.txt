@@ -1,0 +1,14 @@
+BACKGROUND Some authors have reported higher blood mercury ( Hg ) levels in persons with autism , relative to unaffected controls .
+OBJECTIVES We compared blood total Hg concentrations in children with autism or autism spectrum disorder ( AU/ASD ) and typically developing ( TD ) controls in population-based samples , and determined the role of fish consumption in differences observed .
+METHODS The Childhood Autism Risk from Genetics and the Environment ( CHARGE ) Study enrolled children 2-5 years of age .
+After diagnostic evaluation , we analyzed three groups : AU/ASD , non-AU/ASD with developmental delay ( DD ) , and population-based TD controls .
+Mothers were interviewed about household , medical , and dietary exposures .
+Blood Hg was measured by inductively coupled plasma mass spectrometry .
+Multiple linear regression analysis was conducted ( n = 452 ) to predict blood Hg from diagnostic status controlling for Hg sources .
+RESULTS Fish consumption strongly predicted total Hg concentration .
+AU/ASD children ate less fish .
+After adjustment for fish and other Hg sources , blood Hg levels in AU/ASD children were similar to those of TD children ( p = 0.75 ) ; this was also true among non-fish eaters ( p = 0.73 ) .
+The direct effect of AU/ASD diagnosis on blood Hg not through the indirect pathway of altered fish consumption was a 12% reduction .
+DD children had lower blood Hg concentrations in all analyses .
+Dental amalgams in children with gum-chewing or teeth-grinding habits predicted higher levels .
+CONCLUSIONS After accounting for dietary and other differences in Hg exposures , total Hg in blood was neither elevated nor reduced in CHARGE Study preschoolers with AU/ASD compared with unaffected controls , and resembled those of nationally representative samples .

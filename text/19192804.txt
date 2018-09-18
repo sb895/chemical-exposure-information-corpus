@@ -1,0 +1,11 @@
+Exposure to diesel exhaust ( DE ) has been associated with acute cardiopulmonary and vascular responses , chronic noncancer health effects , and respiratory cancers in humans .
+To better understand DE exposures and eventually their related health effects , we established a controlled chamber experiment wherein human volunteer subjects were exposed to approximately 100 microg/m3 DE .
+In general , human exposure assessment for DE is based on ambient air measurements of surrogates such as elemental carbon ( EC ) or total organic carbon ( OC ) collected on filters .
+As specific health effect mechanisms and dose-response are obscured bythe complex composition of DE , the linkage from exposure to internal dose can presumably be improved by use of specific biomarkers and metabolites in blood , breath , or urine .
+Because EC and OC are not suitable as biomarkers , in this study , we focus on identifying compounds that are demonstrated indicators of DE and can also be found in biological fluids .
+We measured an assortment of volatile , semivolatile , and particle-bound aromatic compounds in the chamber air and report their airborne concentrations in DE and purified air , as well as the estimated values of the corresponding exposure ratios ( mean DE air concentration:mean purified air concentration ) .
+These estimated exposure ratios were used to identify naphthalene ( Nap ) and phenanthrene ( Phe ) as potentially useful surrogates for DE exposure that could also serve as biomarkers .
+Estimated mean levels of Nap and Phe associated with the nominal 100 microg/m3 DE were 2600 and 765 ng/m3 with estimated exposure ratios of 252 and 92.4 , respectively .
+Nap levels were significantly correlated with OC and total particle-bound polycyclic aromatic hydrocarbons ( PAHs ) ; Phe levels were significantly correlated with total volatile + semivolatile PAHs .
+These results suggest that Nap and Phe may be particularly useful surrogates for DE concentrations .
+While Nap and Phe are not validated here as internal biomarkers of DE exposure , we are currently assessing human biological specimens collected during this study and will discuss those results in ensuing papers .

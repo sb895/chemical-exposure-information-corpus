@@ -1,0 +1,11 @@
+This study evaluated the possible existence of subclinical sensory nerve defects in residents of blackfoot disease ( BFD)-hyperendemic villages in Taiwan characterized by long-term arsenic exposure from drinking water .
+Eighty-five seemingly normal subjects living in BFD villages and 75 external normal controls without exposure were recruited .
+All subjects were 30-75 years old , without possible causes of peripheral neuropathy and suffered from no symptoms of peripheral neuropathy .
+Current perception threshold ( CPT ) was measured by Neurometer at the trigeminal , median and superficial peroneal nerves with frequencies of 5 , 250 and 2000 Hz .
+Results showed that the two groups were comparable in age , sex , body height and body weight .
+However , BFD residents had significantly 1.28-2.23-fold higher CPT than normal controls for all frequencies at the 3 nerves .
+If the mean values + 3 standard deviations ( S.D. ) derived from normal controls were used as cutoff points for defining abnormalities , 36 of the 85 ( 42.4% ) residents in the BFD villages had at least one abnormal measurement .
+Site and frequency preferences were noted in the abnormal CPT of the BFD residents .
+Longer nerves ( superficial peroneal and median nerves ) were involved more commonly than shorter one ( trigeminal ) ; and lower frequencies ( 5 and 250 Hz ) were more commonly involved than the higher one ( 2000 Hz ) .
+Stepwise regression analyses consistently showed that residency in BFD villages was significantly associated with higher CPT values after adjusting for age , sex , body height and body weight .
+In conclusion , abnormal CPT was observed in seemingly normal subjects without clinical neuropathy in the arseniasis-hyperendemic villages in Taiwan .

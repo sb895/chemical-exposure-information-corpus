@@ -1,0 +1,11 @@
+Diet is an important source of perfluorinated compound ( PFC ) exposure and seafood is an important diet component for coastal populations .
+Therefore , it is necessary to monitor the concentrations of PFCs in seafood .
+In this study , we measured thirteen PFCs in 47 fatty fish and 45 shellfish samples collected from six coastal provinces in China ( Liaoning , Shandong , Jiangsu , Zhejiang , Fujian , and Guangdong ) , using an ultra-performance liquid chromatography and tandem mass spectrometry ( UPLC-MS/MS ) .
+Perfluorooctanesulfonate ( PFOS ) was the dominant PFC in fatty fish which accounted for 38% of total PFCs , whereas perfluoroctanoic acid ( PFOA ) was the predominant PFC in shellfish .
+Concentrations of PFOS were ranged from less than 1.4 to 1627 pg/g wet weight in fatty fish , with the highest concentration in red drum from Jiangsu .
+Concentrations of PFOA in shellfish ranged from less than 5.4 to 7543 pg/g wet weight , with the maximum concentration found in briny clam also from Jiangsu .
+Compared with other studies , the PFC levels in seafood collected from our studied areas are relatively low .
+The estimated dietary intakes ( EDI , pg/kg body weight /day ) of PFOA , PFOS and total PFCs for the reference man ( 63 kg body weight ) were calculated by multiplying the mean concentrations ( pg/g wet weight ) of PFOA , PFOS and total PFCs in six coastal provinces with the daily consumption data ( g/day ) from the fourth Chinese total diet study carried out in 2007 .
+The highest EDI of PFOS and PFOA were found to be 694 pg/kg body weight/day and 914 pg/kg body weight/day in Guangdong and Jiangsu , respectively .
+However , the highest EDI of total PFCs was found in Fujian at 2513 pg/kg body weight/day .
+The EDI from seafood is much lower than the tolerable daily intake ( TDI ) recommended by the European Food Safety Authority in 2008 indicating low health risk of PFC exposure via eating seafood among the coastal populations in China .

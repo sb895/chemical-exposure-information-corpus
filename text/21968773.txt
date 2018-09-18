@@ -1,0 +1,8 @@
+BACKGROUND Animal studies have demonstrated that timing of pubertal onset can be altered by prenatal exposure to dioxins or polychlorinated biphenyls ( PCBs ) , but studies of human populations have been quite limited .
+METHODS We assessed the association between maternal serum concentrations of dioxins and PCBs and the sons ' age of pubertal onset in a prospective cohort of 489 mother-son pairs from Chapaevsk , Russia , a town contaminated with these chemicals during past industrial activity .
+The boys were recruited at ages 8 to 9 years , and 4 years of annual follow-up data were included in the analysis .
+Serum samples were collected at enrollment from both mothers and sons for measurement of dioxin and PCB concentrations using high-resolution mass spectrometry .
+The sons ' pubertal onset--defined as pubertal stage 2 or higher for genitalia ( G ) or pubic hair ( P ) , or testicular volume >3 mL--was assessed annually by the same physician .
+RESULTS In multivariate Cox models , elevated maternal serum PCBs were associated with earlier pubertal onset defined by stage G2 or higher ( 4th quartile hazard ratio = 1.7 [ 95% confidence interval = 1.1- 2.5] ) , but not for stage P2 or higher or for testicular volume >3 mL .
+Maternal serum concentrations of dioxin toxic equivalents were not consistently associated with the sons ' pubertal onset , although a dose-related delay in pubertal onset ( only for G2 or higher ) was seen among boys who breast-fed for 6 months or more .
+CONCLUSIONS Maternal PCB serum concentrations measured 8 or 9 years after sons ' births--which may reflect sons ' prenatal and early-life exposures--were associated with acceleration in some , but not all , measures of pubertal onset .

@@ -1,0 +1,8 @@
+OBJECTIVE Arsenic is associated with numerous health effects .
+We investigated the association between arsenic exposure from drinking water and anemia during pregnancy .
+METHODS We conducted a prospective cohort pregnancy study in two Chilean cities with contrasting drinking water arsenic levels : 40 microg/L versus <1 microg/L .
+This analysis included 810 women who gave birth to live , singleton infants and had at least one hemoglobin determination during pregnancy .
+RESULTS Arsenic exposed women were more likely to be anemic during pregnancy after adjusting for other factors .
+Furthermore , as pregnancy progressed , the prevalence of anemia rose more sharply among those in the exposed versus unexposed city : 49% versus 17% .
+CONCLUSION This study suggests an association between moderate arsenic in drinking water and anemia during pregnancy .
+Further research is needed to identify the specific types of anemia underlying the association .

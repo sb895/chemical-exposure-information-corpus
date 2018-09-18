@@ -1,0 +1,10 @@
+BACKGROUND The association between chronic exposure to air pollution and adverse health outcomes has not been well studied .
+OBJECTIVE This project investigated the impact of chronic exposure to high ozone levels on childhood asthma admissions in New York State .
+METHODS We followed a birth cohort born in New York State during 1995-1999 to first asthma admission or until 31 December 2000 .
+We identified births and asthma admissions through the New York State Integrated Child Health Information System and linked these data with ambient ozone data ( 8-hr maximum ) from the New York State Department of Environmental Conservation .
+We defined chronic ozone exposure using three indicators : mean concentration during the follow-up period , mean concentration during the ozone season , and proportion of follow-up days with ozone levels > 70 ppb .
+We performed logistic regression analysis to adjust for child's age , sex , birth weight , and gestational age ; maternal race/ethnicity , age , education , insurance status , smoking during pregnancy , and poverty level ; and geographic region , temperature , and co-pollutants .
+RESULTS Asthma admissions were significantly associated with increased ozone levels for all chronic exposure indicators ( odds ratios , 1.16-1.68 ) , with a positive dose-response relationship .
+We found stronger associations among younger children , low sociodemographic groups , and New York City residents as effect modifiers .
+CONCLUSION Chronic exposure to ambient ozone may increase the risk of asthma admissions among children .
+Younger children and those in low socioeconomic groups have a greater risk of asthma than do other children at the same ozone level .

@@ -1,0 +1,9 @@
+Mercury is still used in developing countries to extract gold from the ore in small-scale gold mining areas .
+This is a major health hazard for people living in mining areas .
+The concentration of mercury in urine was analysed in different mining areas in Zimbabwe , Indonesia and Tanzania .
+First the urine samples were analysed by CV-AAS ( cold vapour atomic absorption spectrometry ) during the field projects with a mobile mercury analyser ( Lumex(®) or Seefelder(®) ) and secondly , in a laboratory with a stationary CV-AAS mercury analyser ( PerkinElmer(®) ) .
+Caused by the different systems ( reduction agent either SnCl(2) ( Lumex(®) or Seefelder(®)) ) or NaBH(4) ( PerkinElmer(®) ) , with the mobile analysers only the inorganic mercury was obtained and with the stationary system the total mercury concentration was measured .
+The aims of the study were whether the results obtained in field with the mobile equipments can be compared with the stationary reference method in the laboratory and allow the application of these mobile analysers in screening studies on concerned populations to select those , who are exposed to critical mercury levels .
+Overall , the concentrations obtained with the two mobile systems were approximately 25% lower than determined with the stationary system .
+Nevertheless , both mobile systems seem to be very useful for screening of volunteers in field .
+Moreover , regional staff may be trained on such analysers to perform screening tests by themselves .

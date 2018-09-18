@@ -1,0 +1,10 @@
+Toluene diisocyanate , or TDI ( CAS 584-84-9 ) is a well-known asthmagen and respiratory irritant .
+TDI is also known for its ability to irritate the skin and mucous membranes .
+To further investigate the dermal effects of TDI , NIOSH investigators conducted a cross-sectional study at a flexible foam manufacturing plant .
+A total of 114 workers participated in the study .
+Participants completed a medical questionnaire , provided blood for antibody testing to TDI and other allergens , and a subset of participants reporting skin symptoms underwent skin patch testing to a standard diisocyanate panel .
+Production line workers were more than twice as likely to report skin problems as those working in nonproduction areas ( PRR = 2.66 ; 95% CI = 1.14-16.32 ; P = 0.02 ) .
+Age , gender and duration of employment at the plant were comparable among participants working in production and nonproduction areas .
+Of the 100 participants who provided blood samples for antibody testing , specific IgG antibody to TDI was detected in two individuals , and none of the samples demonstrated specific IgE antibody to TDI .
+Of the 26 workers who underwent skin patch testing , none developed reactions to the diisocyanate allergens .
+These results suggest that the skin symptoms among study participants represent an irritant rather than an immunologic reaction to TDI , or to an unidentified allergen present in the foam .

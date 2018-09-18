@@ -1,0 +1,7 @@
+Organochlorines are environmentally persistent contaminants that readily cross the placenta , posing a potential risk to the developing fetus .
+Evidence for neurodevelopmental effects at low levels of these compounds is growing , though few studies have focused on behavioral outcomes .
+The authors investigated the association between prenatal polychlorinated biphenyl ( PCB ) and p,p'-dichlorodiphenyl dichloroethylene ( p,p'-DDE ) levels and behaviors associated with attention deficit hyperactivity disorder ( ADHD ) , measured with the Conners ' Rating Scale for Teachers ( CRS-T ) , in a cohort of 607 children aged 7-11 years ( median age , 8.2 years ) born in 1993-1998 to mothers residing near a PCB-contaminated harbor in New Bedford , Massachusetts .
+The median umbilical cord serum level of the sum of 4 prevalent PCB congeners ( 118 , 138 , 153 , and 180 ) was 0.19 ng/g serum ( range , 0.01-4.41 ng/g serum ) .
+The authors found higher risk for ADHD-like behaviors assessed with the CRS-T at higher levels of PCBs and p,p'-DDE .
+For example , the authors found higher risk of atypical behavior on the Conners ' ADHD Index for the highest quartile of the sum of 4 PCB congeners versus the lowest quartile ( risk ratio = 1.76 , 95% confidence interval : 1.06 , 2.92 ) and a similar relation for p,p'-DDE .
+These results support an association between low-level prenatal organochlorine exposure and ADHD-like behaviors in childhood .

@@ -1,0 +1,9 @@
+The secondary sex ratio is the ratio of male to female live births and historically has ranged from 102 to 106 males to 100 females .
+Temporal declines have been reported in many countries prompting authors to hypothesize an environmental etiology .
+Blood specimens were obtained from 99 women aged 24-34 prior to attempting pregnancy and quantified for 76 polychlorinated biphenyl ( PCB ) congeners using dual column gas chromatography with electron capture detection .
+Women were prospectively followed until pregnancy or 12 cycles of trying .
+The odds of a male birth for three PCB groupings ( total , estrogenic , anti-estrogenic ) controlling for maternal characteristics were estimated using logistic regression .
+Among the 50 women with live births and PCB data , 26 female and 24 male infants were born ( ratio 0.92 ) .
+After adjusting for age and body mass index , odds of a male birth were elevated among women in the second ( OR=1.29 ) and third ( OR=1.48 ) tertiles of estrogenic PCBs ; odds ( OR=0.70 ) were reduced among women in the highest tertile of anti-estrogenic PCBs .
+All confidence intervals included one .
+The direction of the odds ratios in this preliminary study varied by PCB groupings , supporting the need to study specific PCB patterns when assessing environmental influences on the secondary sex ratio .

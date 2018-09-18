@@ -1,0 +1,6 @@
+Di-(2-ethylhexyl) phthalate ( DEHP ) is a plasticizer used in consumer and medical products that can cross the placenta , disrupt steroid hormone synthesis , and activate peroxisome proliferator-activated receptor gamma .
+The authors examined DEHP exposure in relation to the timing of labor in a pregnancy cohort study of 283 women recruited in 4 US states ( California , Iowa , Minnesota , and Missouri ) between 2000 and 2004 .
+The authors estimated associations between concentrations of DEHP metabolites and gestational age at delivery using linear regression models and associations between DEHP metabolites and clinical outcomes using logistic regression models .
+After covariate adjustment , women at the 75th percentile of DEHP metabolite concentrations had a 2-day-longer mean length of gestation than women at the 25th percentile ( 95% confidence interval : 1.4 , 3.3 ) .
+Log-unit increases in mono-2-ethylhexyl phthalate and mono-2-ethyl-5-oxohexyl phthalate concentrations were associated with increased odds of cesarean section delivery ( 30% and 50% increased odds , respectively ) , increased odds of delivering at 41 weeks or later ( 100% and 120% increased odds ) , and reduced odds of preterm delivery ( 50% and 60% decreased odds ) .
+These data suggest that DEHP may interfere with signaling related to the timing of parturition .

@@ -1,0 +1,10 @@
+BACKGROUND The interindividual variation in metabolism of inorganic arsenic ( iAs ) , involving methylation via one-carbon metabolism , has been well documented , but the reasons remain unclear .
+OBJECTIVES In this population-based study we aimed to elucidate the effect of nutrition on As methylation among women in Matlab , Bangladesh , where people are chronically exposed to iAs via drinking water .
+METHODS We studied effects of macronutrient status using body mass index ( BMI ) among 442 women in early pregnancy ( gestational week 8 ) , and effects of micronutrient status ( plasma folate , vitamin B12 , zinc , ferritin , and selenium ) among 753 women at gestational week 14 .
+Arsenic metabolites in urine were measured by HPLC combined with hydride generation inductively coupled plasma mass spectrometry .
+RESULTS The median concentration of As in urine was 97 microg/L ( range , 5-1,216 microg/L , adjusted by specific gravity ) .
+The average proportions of iAs , monomethylarsonic acid , and dimethylarsinic acid in urine in gestational week 8 were 15% , 11% , and 74% , respectively .
+Thus , the women had efficient As methylation in spite of being poorly nourished ( one-third had BMIs < 18.5 kg/m2 ) and having elevated As exposure , both of which are known to decrease As methylation .
+The metabolism of iAs was only marginally influenced by micronutrient status , probably because women , especially in pregnancy and with low folate intake , have an efficient betaine-mediated remethylation of homocysteine , which is essential for an efficient As methylation .
+CONCLUSIONS In spite of the high As exposure and prevalent malnutrition , overall As methylation in women in early pregnancy was remarkably efficient .
+The As exposure level had the greatest impact on As methylation among the studied factors .

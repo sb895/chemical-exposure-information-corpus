@@ -1,0 +1,10 @@
+Inorganic arsenic ( i-As ) is a known human carcinogen ; however , humans continue to be exposed to i-As in drinking water and in certain occupational settings .
+In this study , we used the Comet assay to evaluate DNA damage in the somatic cells of workers from three Polish copper smelters who were occupationally exposed to i-As .
+Blood samples were collected from 72 male workers and 83 unexposed male controls and used for the detection of DNA damage , oxidative DNA damage , and DNA damage after a 3-hr incubation in culture .
+Urine samples were collected to assess the level of exposure .
+The mean concentration of arsenic metabolites in urine [ the sum of arsenite ( AsIII ) , arsenate ( AsV ) , monomethylarsenate ( MMA ) and dimethylarsenate ( DMA) ] and the concentrations of DMA ( the main metabolite in urine ) were higher in workers than in controls , but the differences were not statistically significant .
+By contrast , the level of DNA damage , expressed as the median tail moment , was significantly higher in the leukocytes of workers than in the controls .
+Comet assays conducted with formamidopyrimidine glycosylase ( FPG ) digestion to detect oxidative DNA damage indicated that oxidative lesions were present in leukocytes from both the exposed and control groups , but the levels of damage were significantly higher among the workers .
+Incubation of the cells in culture resulted in a significant reduction in the levels of DNA damage , especially among leukocytes from the workers , suggesting that the DNA damage was subject to repair .
+Our findings indicate that copper smelter workers have increased levels of DNA damage in somatic cells , suggesting a potential health risk for the workers .
+Although i-As was present in air samples from the smelters and in urine samples from workers , no clear association could be made between i-As exposure and the DNA damage .

@@ -1,0 +1,10 @@
+Diet is a primary source of exposure for high-molecular-weight phthalates and bisphenol A ( BPA ) , but little is known about the efficacy of various interventions to reduce exposures .
+We conducted a randomized trial with 10 families to test the efficacy of a 5-day complete dietary replacement ( Arm 1 ; n=21 ) versus written recommendations to reduce phthalate and BPA exposures ( Arm 2 ; n=19 ) .
+We measured phthalate and BPA concentrations in urine samples at baseline , intervention , and post-intervention periods .
+We used Wilcoxon paired signed-rank tests to assess change in concentrations across time and multi-level mixed effects regression models to assess differences between Arms 1 and 2 .
+Urinary di(2-ethylhexyl) phthalate ( DEHP ) metabolite concentrations increased unexpectedly from a median of 283.7\u2009nmol/g at baseline to 7027.5\u2009nmol/g during the intervention ( P<0.0001 ) among Arm 1 participants , and no significant changes were observed for Arm 2 participants .
+We observed a statistically significant increase in total BPA concentration between baseline and intervention periods in Arm 1 but no significant changes in Arm 2 .
+Arm 1 food ingredient testing for DEHP revealed concentrations of 21,400\u2009ng/g in ground coriander and 673\u2009ng/g in milk .
+Food contamination with DEHP led to unexpected increases in urinary phthalate concentrations in a trial intended to minimize exposure .
+In the absence of regulation to reduce phthalate and BPA concentrations in food production , it may be difficult to develop effective interventions that are feasible in the general population .
+An estimate of DEHP daily intake for children in the dietary replacement Arm was above the US Environmental Protection Agency oral reference dose and the European Food Safety Authority's tolerable daily intake , suggesting that food contamination can be a major source of DEHP exposure .

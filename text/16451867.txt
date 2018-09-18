@@ -1,0 +1,11 @@
+UNLABELLED We examined the association of infant bronchiolitis with acute exposure to ambient air pollutants .
+DESIGN We employed a time-stratified case-crossover method and based the exposure windows on a priori , biologically based hypotheses .
+PARTICIPANTS We evaluated effects in 19,901 infants in the South Coast Air Basin of California in 1995-2000 with a hospital discharge record for bronchiolitis in the first year of life ( International Classification of Diseases , 9th Revision , CM466.1 ) .
+EVALUATIONS/MEASUREMENTS Study subjects ' ZIP code was linked to ambient air pollution monitors to derive exposures .
+We estimated the risk of bronchiolitis hospitalization associated with increases in wintertime ambient air pollutants using conditional logistic regression .
+RESULTS We observed no increased risk after acute exposure to particulate matter < or = 2.5 microm in aerodynamic diameter ( PM2.5 ) , carbon monoxide , or nitrogen dioxide .
+PM2.5 exposure models suggested a 26-41% increased risk in the most premature infants born at gestational ages between 25 and 29 weeks ; however , these findings were based on very small numbers .
+CONCLUSIONS We found little support for a link between acute increases in ambient air pollution and infant bronchiolitis except modestly increased risk for PM2.5 exposure among infants born very prematurely .
+In these infants , the periods of viral acquisition and incubation concurred with the time of increased risk .
+RELEVANCE TO PROFESSIONAL PRACTICE : We present novel data for the infant period and the key respiratory disease of infancy , bronchiolitis .
+Incompletely explained trends in rising bronchiolitis hospitalization rates and increasing number of infants born prematurely underscore the importance of evaluating the impact of ambient air pollution in this age group in other populations and studies .

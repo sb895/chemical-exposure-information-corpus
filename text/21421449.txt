@@ -1,0 +1,9 @@
+BACKGROUND Ingestion of inorganic arsenic in drinking water is recognized as a cause of bladder cancer when levels are relatively high ( \u2265 150 µg/L ) .
+The epidemiologic evidence is less clear at the low-to-moderate concentrations typically observed in the United States .
+Accurate retrospective exposure assessment over a long time period is a major challenge in conducting epidemiologic studies of environmental factors and diseases with long latency , such as cancer .
+OBJECTIVE We estimated arsenic concentrations in the water supplies of 2,611 participants in a population-based case-control study in northern New England .
+METHODS Estimates covered the lifetimes of most study participants and were based on a combination of arsenic measurements at the homes of the participants and statistical modeling of arsenic concentrations in the water supply of both past and current homes .
+We assigned a residential water supply arsenic concentration for 165,138 ( 95% ) of the total 173,361 lifetime exposure years ( EYs ) and a workplace water supply arsenic level for 85,195 EYs ( 86% of reported occupational years ) .
+RESULTS Three methods accounted for 93% of the residential estimates of arsenic concentration : direct measurement of water samples ( 27% ; median , 0.3 µg/L ; range , 0.1-11.5 ) , statistical models of water utility measurement data ( 49% ; median , 0.4 µg/L ; range , 0.3-3.3 ) , and statistical models of arsenic concentrations in wells using aquifers in New England ( 17% ; median , 1.6 µg/L ; range , 0.6-22.4 ) .
+CONCLUSIONS We used a different validation procedure for each of the three methods , and found our estimated levels to be comparable with available measured concentrations .
+This methodology allowed us to calculate potential drinking water exposure over long periods .

@@ -1,0 +1,8 @@
+Exposure to arsenic ( As)-contaminated drinking water affects millions of people worldwide .
+Arsenic exposure is associated with skin lesions , skin , lung , kidney and liver cancers , neurologic and cardiovascular effects .
+Past studies involving biomarkers of As exposure have typically examined urinary As ( UAs ) ( adjusted for urinary creatinine ) , hair or toenail As , but not blood As ( BAs ) since blood concentrations are exceedingly low and are not detectable by conventional atomic absorption spectrophotometric techniques .
+In a case-cohort analysis of 303 newly diagnosed cases of skin lesions , and 849 subcohort members randomly selected from 8092 participants in the health effects of as longitudinal study ( HEALS ) in Araihazar , Bangladesh , we measured blood , urine and water As concentrations , and examined their associations with each other , and with the risk for skin lesions .
+BAs concentrations were highly correlated with creatinine-adjusted UAs concentrations ( r=0.85 ) and with water As ( WAs ) ( r=0.75 ) .
+We observed consistent dose-response relationships between the risk of skin lesions and all the measures of As exposure .
+Rate ratios ( RRs ) for skin lesions by quintile of As exposure , adjusted for age and gender , revealed that the two highest quintiles were significantly related to an increased risk of skin lesions for each measure of exposure : BAs , UAs , WAs and a time-weighted water As variable .
+This prospective study confirms the increased risk of skin lesions in relation to As concentrations in blood , urine and water and also establishes that BAs is a useful biomarker of As exposure in this study population .

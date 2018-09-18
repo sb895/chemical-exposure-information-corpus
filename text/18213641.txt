@@ -1,0 +1,11 @@
+OBJECTIVES To identify occupational factors associated with non-Hodgkin's lymphoma ( NHL ) .
+METHODS A population-based case-control study was conducted in which incident cases of high-malignancy NHL ( NHL(high) ) , low-malignancy NHL ( NHL(low) ) , and chronic lymphocytic leukemia ( CLL ) were ascertained during the period 1986-1998 among men and women aged 15-75 years residing in six German counties ; controls were drawn from population registries .
+Occupational histories were collected and agent-specific exposures were estimated via a job-exposure-matrix .
+Odds ratios were estimated by conditional logistic regression .
+RESULTS A total of 858 cases were included in these analyses .
+Agricultural workers [ odds ratio ( OR ) = 2.67 , 95% confidence interval ( CI ) : 0.99 , 7.21 ) and farmers ( OR = 1.98 , 95% CI : 0.98 , 3.98 ] had elevated risk of NHL(high) .
+Risk of NHL(low) was elevated among agricultural workers ( OR = 2.46 , 95% CI : 1.17 , 5.16 ) , and among blacksmiths , toolmakers , and machine tool operators ( OR = 3.12 , 95% CI : 1.31 , 7.47 ) .
+Workers in sales and construction had elevated risks of NHL(high) and NHL(low) .
+Exposure to arsenic compounds , chlorophenols , diesel fuel , herbicides , nitrites/nitrates/nitrosamines , and organic dusts were associated with NHL(high) and NHL(low) , while exhibiting little association with CLL .
+A positive monotonic trend in NHL(low) risk across tertiles of cumulative diesel fuel exposure was observed [ P-value for test of linear trend ( P ) = 0.03 ] .
+CONCLUSIONS These findings provide insights into several potential occupational risk factors for NHL and suggest some specific occupational agents for further investigation .

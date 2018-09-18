@@ -1,0 +1,10 @@
+BACKGROUND Epidemiologists often assess lifetime pesticide exposure by questioning participants about use of specific pesticides and associated work practices .
+Recently , Dosemeci and colleagues proposed an algorithm to estimate lifetime average exposure intensity from questionnaire information .
+We evaluated this algorithm against measured urinary pesticide concentrations for farmers who applied glyphosate ( n = 48 ) , 2,4-D ( n = 34 ) , or chlorpyrifos ( n = 34 ) .
+METHODS Algorithm scores were calculated separately based on trained field observers ' and farmers ' evaluations of application conditions .
+Statistical analyses included nonparametric correlations , assessment of categorical agreement , and categorical evaluation of exposure distributions .
+RESULTS Based on field observers ' assessments , there were moderate correlations between algorithm scores and urine concentrations for glyphosate ( r = 0.47 ; 95% confidence interval [ CI ] = 0.21 to 0.66 ) and 2,4-D ( 0.45 ; 0.13 to 0.68 ) .
+Correlations were lower when algorithm scores were based on participants ' self-reports ( for glyphosate , r = 0.23 [ CI = -0.07 to 0.48 ] ; for 2,4-D , r = 0.25 [ -0.10 to 0.54] ) .
+For chlorpyrifos , there were contrasting correlations for liquid ( 0.42 ; 0.01 to 0.70 ) and granular formulations ( -0.44 ; -0.83 to 0.29 ) based on both observers ' and participants ' inputs .
+Percent agreement in categorical analyses for the 3 pesticides ranged from 20% to 44% , and there was appreciable overlap in the exposure distributions across categories .
+CONCLUSIONS Our results demonstrate the importance of collecting type of pesticide formulation and suggest a generic exposure assessment is likely to result in appreciable exposure misclassification for many pesticides .

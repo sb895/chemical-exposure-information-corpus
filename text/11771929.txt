@@ -1,0 +1,9 @@
+This report covers part of the assessment of a site in northern France polluted by industrial metal emissions .
+Our objectives were to assess the cadmium burden in children aged 8 to 11 years and look for factors that affected it .
+A cross-sectional population-based study took place in 1996-1997 and included 400 children ( 200 in the metal-polluted area ) .
+The geometric mean of the blood cadmium ( CdB ) levels of children living on the polluted site was 0.51 microg/L ( 95% CI=[0.49-0.53] ) ; that of the nonexposed children was 0.47 microg/L ( 95% CI=[0.45-0.49] ) ( P<0.01 ) .
+The geometric mean of the urinary cadmium ( CdU ) levels of children living on the polluted site was 1.16 microg/g creatinine ( 95% CI=[1.01-1.34] ) ; that of the nonexposed children was 0.99 microg/g creatinine ( 95% CI=[0.86-1.14] ) ( P=0.10 ) .
+Mean CdB was higher among children within 4 km of a zinc smelter and consuming > or =500 ml of tap water daily ( x1.34 ; 95% CI=[1.14-1.51] ) compared with children living more than 4 km away and consuming <500 ml of tap water daily .
+Independently of this association , consumption of fish and shellfish ( > or =once a week vs. <once a week ) and homegrown vegetables ( > or =once daily vs. <once daily ) was associated with higher mean CdB levels , respectively : x 1.14 ; 95% CI=[1.07-1.21] and x 1.25 ; 95% CI=[1.04-1.50] .
+Neither sex nor age was associated with CdB .
+Mean CdU was associated with paternal occupational cadmium exposure .

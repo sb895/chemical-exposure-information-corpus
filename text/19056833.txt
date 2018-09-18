@@ -1,0 +1,8 @@
+A population-based case-control study involving 601 incident cases of non-Hodgkin lymphoma ( NHL ) and 717 controls was conducted in 1996-2000 among Connecticut women to examine associations with exposure to organic solvents .
+A job-exposure matrix was used to assess occupational exposures .
+Increased risk of NHL was associated with occupational exposure to chlorinated solvents ( odds ratio ( OR ) = 1.4 , 95% confidence interval ( CI ) : 1.1 , 1.8 ) and carbon tetrachloride ( OR = 2.3 , 95% CI : 1.3 , 4.0 ) .
+Those ever exposed to any organic solvent in work settings had a borderline increased risk of NHL ( OR = 1.3 , 95% CI : 1.0 , 1.6 ) ; moreover , a significantly increased risk was observed for those with average probability of exposure to any organic solvent at medium-high level ( OR = 1.5 , 95% CI : 1.1 , 1.9 ) .
+A borderline increased risk was also found for ever exposure to formaldehyde ( OR = 1.3 , 95% CI : 1.0 , 1.7 ) in work settings .
+Risk of NHL increased with increasing average intensity ( P = 0.01 ) , average probability ( P < 0.01 ) , cumulative intensity ( P = 0.01 ) , and cumulative probability ( P < 0.01 ) level of organic solvent and with average probability level ( P = 0.02 ) and cumulative intensity level of chlorinated solvent ( P = 0.02 ) .
+Analyses by NHL subtype showed a risk pattern for diffuse large B-cell lymphoma similar to that for overall NHL , with stronger evidence of an association with benzene exposure .
+Results suggest an increased risk of NHL associated with occupational exposure to organic solvents for women .

@@ -1,0 +1,11 @@
+The incidence of type 2 diabetes mellitus ( T2DM ) is increasing worldwide and diverse environmental and genetic risk factors are well recognized .
+Single nucleotide polymorphisms ( SNPs ) in the calpain-10 gene ( CAPN-10 ) , which encodes a protein involved in the secretion and action of insulin , and chronic exposure to inorganic arsenic ( iAs ) through drinking water have been independently associated with an increase in the risk for T2DM .
+In the present work we evaluated if CAPN-10 SNPs and iAs exposure jointly contribute to the outcome of T2DM .
+Insulin secretion ( beta-cell function ) and insulin sensitivity were evaluated indirectly through validated indexes ( HOMA2 ) in subjects with and without T2DM who have been exposed to a gradient of iAs in their drinking water in northern Mexico .
+The results were analyzed taking into account the presence of the risk factor SNPs SNP-43 and -44 in CAPN-10 .
+Subjects with T2DM had significantly lower beta-cell function and insulin sensitivity .
+An inverse association was found between beta-cell function and iAs exposure , the association being more pronounced in subjects with T2DM .
+Subjects without T2DM who were carriers of the at-risk genotype SNP-43 or -44 , also had significantly lower beta-cell function .
+The association of SNP-43 with beta-cell function was dependent on iAs exposure , age , gender and BMI , whereas the association with SNP-44 was independent of all of these factors .
+Chronic exposure to iAs seems to be a risk factor for T2DM in humans through the reduction of beta-cell function , with an enhanced effect seen in the presence of the at-risk genotype of SNP-43 in CAPN-10 .
+Carriers of CAPN-10 SNP-44 have also shown reduced beta-cell function .

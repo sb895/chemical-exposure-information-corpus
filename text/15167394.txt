@@ -1,0 +1,14 @@
+This mortality study extends the period of observation of an article published in 1988 of 5414 workers in Vermont granite sheds and quarries to assess whether previously reported reductions in silicosis and tuberculosis mortality were maintained .
+The relationship between lung cancer and quartz exposure is also examined by comparing mortality in workers hired before and after 1940 , when dust controls were introduced and exposures were reduced by 80% to 90% .
+Before 1940 , general stone shed air contained 20 million particles/cubic foot ( mppcf ) ( approximately equivalent to 0.2 mg/m of quartz ) , and pneumatic chisel workers were exposed on average to 60 mppcf ( approximately equivalent to 0.6 mg/m of quartz ) .
+Other workers had variable exposures .
+After 1940 , a period of decline occurred in dust levels and then stabilized in approximately 1955 , when average dust levels were 5 to 6 mppcf ( equivalent to 0.05-.06 mg/m of quartz ) .
+Dust exposures in the Vermont industry is considered to be free of confounding occupational substances such as arsenic , although cigarette smoking was common .
+By the end of 1996 , 2539 workers , or 46.9% of the cohort , had died .
+There were no silicosis deaths in workers hired after 1940 who were exposed only in the Vermont granite industry , illustrating the effect of lowering quartz exposures .
+Tuberculosis caused 2 deaths in those hired after 1940 ( standardized mortality ratio [ SMR ] = 0.52 ; not significant ) .
+Overall lung cancer mortality was elevated in shed workers who had been exposed both to high levels of quartz before 1940 and to the lower levels prevailing after 1940 ( SMR = 1.32 ; P < 0.01 ) .
+Quarry workers did not show an excess of lung cancer ( SMR = 0.73 ; not significant ) .
+When shed workers with high and low exposure histories ( before and after 1940 ) but with comparable latency and tenure were contrasted , lung cancer mortality was similar .
+Differing levels of quartz exposure , which resulted in large differences in the mortality experience from silicosis , did not result in differences in lung cancer mortality .
+The results do not support the hypothesis that granite dust exposure has a causal association with lung cancer .

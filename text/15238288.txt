@@ -1,0 +1,11 @@
+We reported previously that insecticide exposures were widespread among minority women in New York City during pregnancy and that levels of the organophosphate chlorpyrifos in umbilical cord plasma were inversely associated with birth weight and length .
+Here we expand analyses to include additional insecticides ( the organophosphate diazinon and the carbamate propoxur ) , a larger sample size ( n = 314 mother-newborn pairs ) , and insecticide measurements in maternal personal air during pregnancy as well as in umbilical cord plasma at delivery .
+Controlling for potential confounders , we found no association between maternal personal air insecticide levels and birth weight , length , or head circumference .
+For each log unit increase in cord plasma chlorpyrifos levels , birth weight decreased by 42.6 g [ 95% confidence interval ( CI ) , -81.8 to -3.8 , p = 0.03 ] and birth length decreased by 0.24 cm ( 95% CI , -0.47 to -0.01 , p = 0.04 ) .
+Combined measures of ( ln)cord plasma chlorpyrifos and diazinon ( adjusted for relative potency ) were also inversely associated with birth weight and length ( p < 0.05 ) .
+Birth weight averaged 186.3 g less ( 95% CI , -375.2 to -45.5 ) among newborns with the highest compared with lowest 26% of exposure levels ( p = 0.01 ) .
+Further , the associations between birth weight and length and cord plasma chlorpyrifos and diazinon were highly significant ( p < or = 0.007 ) among newborns born before the 2000-2001 U.S. Environmental Protection Agency's regulatory actions to phase out residential use of these insecticides .
+Among newborns born after January 2001 , exposure levels were substantially lower , and no association with fetal growth was apparent ( p > 0.8 ) .
+The propoxur metabolite 2-isopropoxyphenol in cord plasma was inversely associated with birth length , a finding of borderline significance ( p = 0.05 ) after controlling for chlorpyrifos and diazinon .
+Results indicate that prenatal chlorpyrifos exposures have impaired fetal growth among this minority cohort and that diazinon exposures may have contributed to the effects .
+Findings support recent regulatory action to phase out residential uses of the insecticides .

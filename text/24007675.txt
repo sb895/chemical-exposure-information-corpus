@@ -1,0 +1,14 @@
+BACKGROUND Longitudinal monitoring studies of persistent organic pollutants ( POPs ) in human populations are important to better understand changes with time and age , and for future predictions .
+OBJECTIVES We sought to describe serum POP time trends on an individual level , investigate age-period-cohort effects , and compare predicted polychlorinated biphenyl ( PCB ) concentrations to measured values .
+METHODS Serum was sampled in 1979 , 1986 , 1994 , 2001 , and 2007 from a cohort of 53 men in Northern Norway and analyzed for 41 POPs .
+Time period , age , and birth cohort effects were assessed by graphical analyses and mixed-effect models .
+We derived the predicted concentrations of four PCBs for each sampling year using the CoZMoMAN model .
+RESULTS The median decreases in summed serum POP concentrations ( lipid-adjusted ) in 1986 , 1994 , 2001 , and 2007 relative to 1979 were -22% , -52% , -54% , and -68% , respectively .
+We observed substantial declines in all POP groups with the exception of chlordanes .
+Time period ( reflected by sampling year ) was the strongest descriptor of changes in PCB-153 concentrations .
+Predicted PCB-153 concentrations were consistent with measured concentrations in the study population .
+CONCLUSIONS Our results suggest substantial intraindividual declines in serum concentrations of legacy POPs from 1979 to 2007 in men from Northern Norway .
+These changes are consistent with reduced environmental exposure during these 30 years and highlight the relation between historic emissions and POP concentrations measured in humans .
+Observed data and interpretations are supported by estimates from the CoZMoMAN emission-based model .
+A longitudinal decrease in concentrations with age was evident for all birth cohorts .
+Overall , our findings support the relevance of age-period-cohort effects to human biomonitoring of environmental contaminants .

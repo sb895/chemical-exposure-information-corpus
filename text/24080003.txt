@@ -1,0 +1,9 @@
+Increasing evidence supports that harmful chemicals accumulating in the human body may pose a significant threat to infant health through foetal exposure .
+Persistent organic pollutants ( POPs ) are thought to enhance the risk for later development of allergic disease like atopic dermatitis ( AD ) .
+However , few studies have evaluated the effect of foetal exposure to various POPs on the development of AD in early infancy .
+Here , we describe the impact of foetal exposure to a number of POPs on the occurrence of AD in 7-month-old infants .
+The participants were 81 infants with or without AD who participated in a birth cohort study , where the concentrations of 15 polychlorinated biphenyl ( PCBs ) congeners , dichlorodiphenyltrichloroethane ( p,p'-DDT ) , dichlorodiphenyldichloroethylene ( p,p'-DDE ) , \u03b2-hexachlorocyclohexane ( \u03b2-HCH ) , hexachlorobenzene ( HCB ) , cis-nonachlor , trans-nonachlor , mirex , oxychlordane , and 27 polybrominated diphenyl ether ( PBDEs ) congeners were measured in the umbilical cord tissues collected immediately after birth .
+At 7 months , 27 of the 81 infants ( 33.8% ) were diagnosed with AD .
+Of all POPs examined , total concentrations of 27 PBDE congeners were associated with a significantly decreased incidence of AD .
+Notably , the concentration of 27 PBDEs was significantly lower in AD infants than in non-AD infants ( P<0.01 ) , and the risk of AD development decreased with increasing PBDE levels .
+These results suggest that foetal exposure to PBDEs is a possible contributing factor to reducing AD in early infancy .

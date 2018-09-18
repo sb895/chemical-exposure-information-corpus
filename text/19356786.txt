@@ -1,0 +1,7 @@
+Ingestion of indoor dust has been highlighted as an important pathway of exposure to brominated flame retardants .
+Hence , polychlorinated biphenyls ( PCBs ) were determined in indoor dust from homes in Amarillo/Austin , TX , USA ( n=20 ; median concentration=200 ng Sigma PCB g(-1) ) ; Birmingham , UK ( n=20 ; 48 ng Sigma PCB g(-1) ) ; Toronto , Canada ( n=10 ; 260 ng Sigma PCB g(-1) ) ; and Wellington , New Zealand ( n=20 ; 46 ng Sigma PCB g(-1) ) .
+Concentrations in Canadian and US samples were statistically indistinguishable , but exceeded significantly ( p<0.05 ) those in both New Zealand and UK dust .
+Principal component analysis revealed that while UK samples were enriched comparatively in lower molecular weight congeners ; samples from other countries contained proportionally more mid-to-high molecular weight congeners .
+Concentrations of PCBs determined in air from the same 10 Canadian homes showed concentrations ( median=4.9 ng Sigma PCB m(-3) ) higher than those reported previously for UK homes ( 1.8 ng Sigma PCB m(-3) ) .
+Interpretation of these data alongside that for dietary exposure from other studies suggest that indoor exposures ( i.e. air and dust combined ) may be a significant contributor to overall exposure for the majority of the population - ranging from 4.3% to 87% in adults and 1.6-73% in toddlers .
+While inhalation is the principal indoor pathway under a typical dust ingestion scenario , exposure via dust ingestion exceeds that from either inhalation or diet for a small proportion of North American toddlers .

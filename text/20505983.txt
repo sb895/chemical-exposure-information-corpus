@@ -1,0 +1,10 @@
+Remediation aimed at reducing human exposure to groundwater arsenic in West Bengal , one of the regions most impacted by this environmental hazard , are currently largely focussed on reducing arsenic in drinking water .
+Rice and cooking of rice , however , have also been identified as important or potentially important exposure routes .
+Quantifying the relative importance of these exposure routes is critically required to inform the prioritisation and selection of remediation strategies .
+The aim of our study , therefore , was to determine the relative contributions of drinking water , rice and cooking of rice to human exposure in three contrasting areas of West Bengal with different overall levels of exposure to arsenic , viz. high ( Bhawangola-I Block , Murshidibad District ) , moderate ( Chakdha Block , Nadia District ) and low ( Khejuri-I Block , Midnapur District ) .
+Arsenic exposure from water was highly variable , median exposures being 0.02\u03bcg/kg/d ( Midnapur ) , 0.77\u03bcg/kg/d ( Nadia ) and 2.03\u03bcg/kg/d ( Murshidabad ) .
+In contrast arsenic exposure from cooked rice was relatively uniform , with median exposures being 0.30\u03bcg/kg/d ( Midnapur ) , 0.50\u03bcg/kg/d ( Nadia ) and 0.84\u03bcg/kg/d ( Murshidabad ) .
+Cooking rice typically resulted in arsenic exposures of lower magnitude , indeed in Midnapur , median exposure from cooking was slightly negative .
+Water was the dominant route of exposure in Murshidabad , both water and rice were major exposure routes in Nadia , whereas rice was the dominant exposure route in Midnapur .
+Notwithstanding the differences in balance of exposure routes , median excess lifetime cancer risk for all the blocks were found to exceed the USEPA regulatory threshold target cancer risk level of 10(-4)-10(-6) .
+The difference in balance of exposure routes indicate a difference in balance of remediation approaches in the three districts .

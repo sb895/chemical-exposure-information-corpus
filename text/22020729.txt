@@ -1,0 +1,10 @@
+BACKGROUND Diabetes increases the risk of hypertension and orthostatic hypotension and raises the risk of cardiovascular death during heat waves and high pollution episodes .
+OBJECTIVE We examined whether short-term exposures to air pollution ( fine particles , ozone ) and heat resulted in perturbation of arterial blood pressure ( BP ) in persons with type 2 diabetes mellitus ( T2DM ) .
+METHODS We conducted a panel study in 70 subjects with T2DM , measuring BP by automated oscillometric sphygmomanometer and pulse wave analysis every 2 weeks on up to five occasions ( 355 repeated measures ) .
+Hourly central site measurements of fine particles , ozone , and meteorology were conducted .
+We applied linear mixed models with random participant intercepts to investigate the association of fine particles , ozone , and ambient temperature with systolic , diastolic , and mean arterial BP in a multipollutant model , controlling for season , meteorological variables , and subject characteristics .
+RESULTS An interquartile increase in ambient fine particle mass [ particulate matter ( PM ) with an aerodynamic diameter of \u2264 2.5 \u03bcm ( PM2.5) ] and in the traffic component black carbon in the previous 5 days ( 3.54 and 0.25 \u03bcg/m3 , respectively ) predicted increases of 1.4 mmHg [ 95% confidence interval ( CI ) : 0.0 , 2.9 mmHg ] and 2.2 mmHg ( 95% CI : 0.4 , 4.0 mmHg ) in systolic BP ( SBP ) at the population geometric mean , respectively .
+In contrast , an interquartile increase in the 5-day mean of ozone ( 13.3 ppb ) was associated with a 5.2 mmHg ( 95% CI : -8.6 , -1.8 mmHg ) decrease in SBP .
+Higher temperatures were associated with a marginal decrease in BP .
+CONCLUSIONS In subjects with T2DM , PM was associated with increased BP , and ozone was associated with decreased BP .
+These effects may be clinically important in patients with already compromised autoregulatory function .

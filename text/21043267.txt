@@ -1,0 +1,11 @@
+Heavy metal pollutants in soils can usually enter the human body and pose heath risks through a soil-crop-human body pathway ( indirect exposure ) or soil-human body pathway ( direct exposure ) .
+Previous studies often neglected the direct exposure in human health risk assessment , especially for children .
+We collected surface soil samples from urban and suburb areas in Changsha City , China , to analyze the content ofAs , Cd , Hg , Ni , Pb , and Zn .
+A combination of principal component analysis , geostatistics , and triangulated irregular network ( TIN ) model was successfully used to discriminate the sources of heavy metals .
+The direct exposure method , sequential indicator simulation , and geographical information system ( GIS ) technologies were used to perform a health risk assessment of heavy metal exposure to children living in the study area .
+Results show that heavy metal contamination in Changsha may originate from coal usage and industrial activities .
+One thousand equiprobable realizations suggest that not all sites within the study area may be suitable for housing or allotments without remediation .
+Most high hazard indexes are located in the suburb and mining areas .
+Moreover , arsenic presents a high health risk in comparison with other elements .
+Compared with inhalation and dermal contact in direct soil exposure , soil ingestion is the largest contribution to potential health risks for children .
+This study indicates that we should attach great importance to the direct soil exposure for children's health .

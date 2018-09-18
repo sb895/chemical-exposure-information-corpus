@@ -1,0 +1,10 @@
+Relationships between prenatal exposure to fine particles ( PM2.5 ) and birth weight have been observed previously .
+Few studies have investigated specific constituents of PM2.5 , which may identify sources and major contributors of risk .
+We examined the effects of trimester and full gestational prenatal exposures to PM2.5 mass and 23 PM2.5 constituents on birth weight among 646,296 term births in California between 2000 and 2006 .
+We used linear and logistic regression models to assess associations between exposures and birth weight and risk of low birth weight ( LBW ; <2500g ) , respectively .
+Models were adjusted for individual demographic characteristics , apparent temperature , month and year of birth , region , and socioeconomic indicators .
+Higher full gestational exposures to PM2.5 mass and several PM2.5 constituents were significantly associated with reductions in term birth weight .
+The largest reductions in birth weight were associated with exposure to vanadium , sulfur , sulfate , iron , elemental carbon , titanium , manganese , bromine , ammonium , zinc , and copper .
+Several of these PM2.5 constituents were associated with increased risk of term LBW .
+Reductions in birth weight were generally larger among younger mothers and varied by race/ethnicity .
+Exposure to specific constituents of PM2.5 , especially traffic-related particles , sulfur constituents , and metals , were associated with decreased birth weight in California .

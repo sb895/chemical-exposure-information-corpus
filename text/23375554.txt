@@ -1,0 +1,20 @@
+BACKGROUND Although short-term exposure to ambient particulate matter has increasingly been linked with cardiovascular diseases , it is not quite clear how physical characteristics of particles , such as particle size may be responsible for the association .
+This study aimed at investigating whether daily changes in number or mass concentrations of accurately size-segregated particles in the range of 3nm-10\u03bcm are associated with daily cardiovascular emergency room visits in Beijing , China .
+METHODS Cardiovascular emergency room visit counts , particle size distribution data , and meteorological data were collected from Mar. 2004 to Dec. 2006 .
+Particle size distribution data was used to calculate particle number concentration in different size fractions , which were then converted to particle mass concentration assuming spherical particles .
+We applied a time-series analysis approach .
+We evaluated lagged associations between cardiovascular emergency room visits and particulate number and mass concentration using distributed lag non-linear models up to lag 10 .
+We calculated percentage changes of cardiovascular emergency room visits , together with 95% confidence intervals ( CI ) , in association with an interquartile range ( IQR , difference between the third and first quartile ) increase of 11-day or 2-day moving average number or mass concentration of particulate matter within each size fraction , assuming linear effects .
+We put interaction terms between season and 11-day or 2-day average particulate concentration in the models to estimate the modification of the particle effects by season .
+RESULTS We observed delayed associations between number concentration of ultrafine particles and cardiovascular emergency room visits , mainly from lag 4 to lag 10 , mostly contributed by 10-30nm and 30-50nm particles .
+An IQR ( 9040cm(-3) ) increase in 11-day average number concentration of ultrafine particles was associated with a 7.2% ( 1.1-13.7% ) increase in total , and a 7.9% ( 0.5-15.9% ) increase in severe cardiovascular emergency room visits .
+The delayed effects of particulate mass concentration were small .
+Regarding immediate effects , 2-day average number concentration of Aitken mode ( 30-100nm ) particles had strongest effects .
+An IQR ( 2269cm(-3) ) increase in 2-day average number concentration of 30-50nm particles led to a 2.4% ( -1.5-6.5% ) increase in total , and a 1.7% ( -2.9-6.5% ) increase in severe cardiovascular emergency room visits .
+The immediate effects of mass concentration came mainly from 1000-2500nm particles .
+An IQR ( 11.7\u03bcgm(-3) ) increase in 2-day average mass concentration of 1000-2500nm particles led to an around 2.4% ( 0.4-4.4% ) increase in total , and a 1.7% ( -0.8-4.2% ) increase in severe cardiovascular emergency room visits .
+The lagged effect curves of number and mass concentrations of 100-300nm particles or 300-1000nm particles were quite similar , indicating that using particulate number or mass concentrations seemed not to affect the cardiovascular effect ( of particles within one size fraction ) .
+The effects of number concentration of ultrafine particles , sub-micrometer particles ( 3-1000nm ) and 10-30nm particles were substantially higher in winter comparing with in summer .
+CONCLUSIONS Elevated concentration levels of sub-micrometer particles were associated with increased cardiovascular morbidity .
+Ultrafine particles showed delayed effects , while accumulation mode ( 100-1000nm ) particles showed immediate effects .
+Using number or mass concentrations did not affect the particle effects .

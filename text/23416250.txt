@@ -1,0 +1,12 @@
+Di(2-ethylhexyl) phthalate ( DEHP ) is one of the common phthalate plasticizers used primarily in soft polyvinyl chloride , which is a plastic polymer that makes up the total weight of goods from 1% up to 40% in many consumer products .
+The aims of this study were to examine the urinary DEHP metabolites in South Korean children and to investigate the correlation between mother and child DEHP urine excretion .
+Three kinds of urinary DEHP metabolites : mono(2-ethylhexyl) phthalate ( MEHP ) , mono(2-ethyl-5-hydroxyhexyl) phthalate ( 5-OH-MEHP ) and mono(2-ethyl-5-oxohexyl) phthalate ( 5-oxo-MEHP ) , were analyzed .
+The total of 954 samples ( nChildren=392 , nMothers=265 , nAadults=297 ) , including 258 mother and child pairs , were analyzed using isotope dilution gas chromatography-mass spectrometry .
+Many studies present higher concentration of DEHP metabolites detected from adults in reproductive age than adults in other ages .
+Therefore , adults who are age-matched to mothers were evaluated to serve as a standard of comparison against mothers .
+All statistical analysis was made by adjusting detected volume concentrations ( \u03bcg/L ) with respect to creatinine concentrations ( mg/dL ) since urinary DEHP metabolites were studied using human reference .
+The difference in median levels of sum of urinary DEHP metabolites was only significant when children were analyzed in relation to region ( p-value\u22640.005 ) .
+Among the three DEHP metabolites , only MEHP of children was significantly correlated to that of paired mothers ( p-value\u22640.01 ) .
+The present paper defines the relative metabolic rate ( RMR ) of DEHP metabolism for the first time in study on phthalates .
+Children had faster RMR than mothers and adults , specifically in the first step of DEHP metabolism ( RMR1 : MEHP hydroxylation to 5-OH-MEHP ) , and RMR1 of children between 1 and 24 months was the fastest .
+The above results may be used to study and assess human health risk from DEHP exposures , especially among mothers and children in Korea .

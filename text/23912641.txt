@@ -1,0 +1,10 @@
+BACKGROUND Although the association between PM2.5 mass and mortality has been extensively studied , few national-level analyses have estimated mortality effects of PM2.5 chemical constituents .
+Epidemiologic studies have reported that estimated effects of PM2.5 on mortality vary spatially and seasonally .
+We hypothesized that associations between PM2.5 constituents and mortality would not vary spatially or seasonally if variation in chemical composition contributes to variation in estimated PM2.5 mortality effects .
+OBJECTIVES We aimed to provide the first national , season-specific , and region-specific associations between mortality and PM2.5 constituents .
+METHODS We estimated short-term associations between nonaccidental mortality and PM2.5 constituents across 72 urban U.S. communities from 2000 to 2005 .
+Using U.S. Environmental Protection Agency ( EPA ) Chemical Speciation Network data , we analyzed seven constituents that together compose 79-85% of PM2.5 mass : organic carbon matter ( OCM ) , elemental carbon ( EC ) , silicon , sodium ion , nitrate , ammonium , and sulfate .
+We applied Poisson time-series regression models , controlling for time and weather , to estimate mortality effects .
+RESULTS Interquartile range increases in OCM , EC , silicon , and sodium ion were associated with estimated increases in mortality of 0.39% [ 95% posterior interval ( PI ) : 0.08 , 0.70% ] , 0.22% ( 95% PI : 0.00 , 0.44 ) , 0.17% ( 95% PI : 0.03 , 0.30 ) , and 0.16% ( 95% PI : 0.00 , 0.32 ) , respectively , based on single-pollutant models .
+We did not find evidence that associations between mortality and PM2.5 or PM2.5 constituents differed by season or region .
+CONCLUSIONS Our findings indicate that some constituents of PM2.5 may be more toxic than others and , therefore , regulating PM total mass alone may not be sufficient to protect human health .

@@ -1,0 +1,12 @@
+BACKGROUND Exposure to arsenic via drinking water has been associated with adverse pregnancy outcomes and infant morbidity and mortality .
+Little is known , however , about the effects of arsenic on child growth .
+OBJECTIVE We assessed potential effects of early-life arsenic exposure on weight and length of children from birth to 2 years of age .
+METHODS We followed 2,372 infants born in a population-based intervention trial in rural Bangladesh .
+Exposure was assessed by arsenic concentrations in urine ( U-As ) of mothers ( gestational weeks 8 and 30 ) and children ( 18 months old ) .
+Child anthropometry was measured monthly in the first year and quarterly in the second .
+Linear regression models were used to examine associations of U-As ( by quintiles ) with child weight and length , adjusted for age , maternal body mass index , socioeconomic status , and sex ( or stratified by sex ) .
+RESULTS Median ( 10th-90th percentiles ) U-As concentrations were about 80 ( 25-400 ) µg/L in the mothers and 34 ( 12-159 ) µg/L in the children .
+Inverse associations of maternal U-As with child's attained weight and length at 3-24 months were markedly attenuated after adjustment .
+However , associations of U-As at 18 months with weight and length at 18-24 months were more robust , particularly in girls .
+Compared with girls in the first quintile of U-As ( < 16 µg/L ) , those in the fourth quintile ( 26-46 µg/L ) were almost 300 g lighter and 0.7 cm shorter , and had adjusted odds ratios ( 95% confidence interval ) for underweight and stunting of 1.57 ( 1.02-2.40 ) and 1.58 ( 1.05-2.37 ) , respectively , at 21 months .
+CONCLUSIONS Postnatal arsenic exposure was associated with lower body weight and length among girls , but not boys .

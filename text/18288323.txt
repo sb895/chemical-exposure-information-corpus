@@ -1,0 +1,11 @@
+BACKGROUND Arsenic is a well-known carcinogen , which is often found in drinking-water .
+Epidemiologic studies have shown increased cancer risks among individuals exposed to high concentrations of arsenic in drinking-water , whereas studies of the carcinogenic effect of low doses have had inconsistent results .
+OBJECTIVE Our aim was to determine if exposure to low levels of arsenic in drinking-water in Denmark is associated with an increased risk for cancer .
+METHODS The study was based on a prospective Danish cohort of 57,053 persons in the Copenhagen and Aarhus areas .
+Cancer cases were identified in the Danish Cancer Registry , and the Danish civil registration system was used to trace and geocode residential addresses of the cohort members .
+We used a geographic information system to link addresses with water supply areas , then estimated individual exposure to arsenic using residential addresses back to 1970 .
+Average exposure for the cohort ranged between 0.05 and 25.3 microg/L ( mean = 1.2 microg/L ) .
+Cox's regression models were used to analyze possible relationships between arsenic and cancer .
+RESULTS We found no significant association between exposure to arsenic and risk for cancers of the lung , bladder , liver , kidney , prostate , or colorectum , or melanoma skin cancer ; however , the risk for non-melanoma skin cancer decreased with increasing exposure ( incidence rate ratio = 0.88/microg/L average exposure ; 95% confidence interval , 0.84-0.94 ) .
+Results adjusted for enrollment area showed no association with non-melanoma skin cancer .
+CONCLUSIONS The results indicate that exposure to low doses of arsenic might be associated with a reduced risk for skin cancer .

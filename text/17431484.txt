@@ -1,0 +1,12 @@
+BACKGROUND Perchlorate is a common contaminant of drinking water and food .
+It competes with iodide for uptake into the thyroid , thus interfering with thyroid hormone production .
+The U.S. Environmental Protection Agency's Office of Solid Waste and Emergency Response ( OSWER ) set a groundwater preliminary remediation goal ( PRG ) of 24.5 microg/L to prevent exposure of pregnant women that would affect the fetus .
+This does not account for the greater exposure that is possible in nursing infants or for the relative source contribution ( RSC ) , a factor normally used to lower the PRG due to nonwater exposures .
+OBJECTIVES Our goal was to assess whether the OSWER PRG protects infants against exposures from breast-feeding , and to evaluate the perchlorate RSC .
+METHODS We used Monte Carlo analysis to simulate nursing infant exposures associated with the OSWER PRG when combined with background perchlorate .
+RESULTS The PRG can lead to a 7-fold increase in breast milk concentration , causing 90% of nursing infants to exceed the reference dose ( RfD ) ( average exceedance , 2.8-fold ) .
+Drinking-water perchlorate must be < 6.9 microg/L to keep the median , and < 1.3 microg/L to keep the 90th-percentile nursing infant exposure below the RfD .
+This is 3.6- to 19-fold below the PRG .
+Analysis of biomonitoring data suggests an RSC of 0.7 for pregnant women and of 0.2 for nursing infants .
+Recent data from the Centers for Disease Control and Prevention ( CDC ) suggest that the RfD itself needs to be reevaluated because of hormonal effects in the general population .
+CONCLUSIONS The OSWER PRG for perchlorate can be improved by considering infant exposures , by incorporating an RSC , and by being responsive to any changes in the RfD resulting from the new CDC data .

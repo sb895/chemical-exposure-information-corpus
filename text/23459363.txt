@@ -1,0 +1,11 @@
+BACKGROUND Prenatal exposure to bisphenol A ( BPA ) has been associated with adverse birth outcomes , but findings of previous studies have been inconsistent .
+OBJECTIVE We investigated the relation of prenatal BPA exposure with intrauterine growth and evaluated the effect of the number of measurements per subject on observed associations .
+METHODS This study was embedded in a Dutch population-based prospective cohort study , with urine samples collected during early , mid- , and late pregnancy .
+The study comprised 219 women , of whom 99 had one measurement , 40 had two measurements , and 80 had three measurements of urinary BPA .
+Fetal growth characteristics were repeatedly measured by ultrasound during pregnancy and combined with measurements at birth .
+Linear regression models for repeated measurements of both BPA and fetal growth were used to estimate associations between urinary concentrations of creatinine-based BPA ( BPACB ) and intrauterine growth .
+RESULTS The relationship between BPACB and fetal growth was sensitive to the number of BPA measurements per woman .
+Among 80 women with three BPA measurements , women with BPACB > 4.22 \u03bcg/g crea ( creatinine ) had lower growth rates for fetal weight and head circumference than did women with BPACB < 1.54 \u03bcg/g crea , with estimated differences in mean values at birth of -683 g ( 20.3% of mean ) and -3.9 cm ( 11.5% of mean ) , respectively .
+When fewer measurements were available per woman , the exposure-response relationship became progressively attenuated and statistically nonsignificant .
+CONCLUSION Our findings suggest that maternal urinary BPA may impair fetal growth .
+Because previous studies have shown contradictory findings , further evidence is needed to corroborate these findings in the general population .

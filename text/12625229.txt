@@ -1,0 +1,16 @@
+The determination of cumulative exposures for individual workers is necessary for research and practice of occupational health and hygiene .
+Reconstruction of exposures for a study of respiratory morbidity was needed to study the effects of exposure to carbon black production .
+Approximately 15,800 exposure estimates were needed .
+There were 22 plants , a 40-year time span , six job categories , and three types of dust-exposure metrics ( respirable , inhalable , and " total " dust ) .
+Three information sources were used : 1 ) Industrial hygiene air level measurements where available ( several industry-wide surveys had been conducted ) .
+2 ) A formal process survey identifying specific dates and types of process and control changes .
+3 ) An Historical Relative Exposure Rating Scale ; plant health and safety personnel used this spreadsheet-based rating scheme to quantify exposures before and between years of actual measurement relative to a reference year in which measurements were available .
+A job-exposure matrix was calculated by integrating these three methods .
+Linear scaling factors were identified to interconvert geometric to arithmetic means and to interconvert total and inhalable dust .
+Individual worker cumulative exposures were then calculated based upon job histories linked with the job-exposure matrix .
+The nine-step process for integrating all available relevant data was effective in estimating the exposures for each of the cells of the job-exposure matrix .
+Among the 1680 workers participating , the mean cumulative inhalable dust exposure was 48.4 mg-years/m3 .
+Early years contribute disproportionately to the cumulative exposures of individuals since levels have declined significantly over time .
+The use of multiple sources of information , including a relative exposure rating instrument , significantly facilitates reconstruction of historical exposures .
+Inadequate adjustment for temporal trends can lead to underestimation of cumulative exposures and significantly affect estimation of dose-effect relationships .
+These methods are applicable to other situations requiring estimation of cumulative exposure with sparse industrial hygiene data in early years .

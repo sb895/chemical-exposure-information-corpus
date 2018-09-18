@@ -1,0 +1,8 @@
+This paper reports the results of an investigation of the acute effects of air pollution in 321 nonsmoking adults residing in Southern California .
+Previous epidemiologic investigations of effects of acute exposure to ozone have focused on groups who may not be representative of the general public , such as asthmatics or student nurses .
+For this study , participants recorded the daily incidence of several respiratory symptoms over a 6-month period between 1978 and 1979 .
+The authors examined the impact of ambient concentrations of ozone , particulate sulfates , and other air pollutants on the incidence of respiratory morbidity , measured as either upper or lower respiratory tract symptoms .
+Using a logistic regression model , the authors found a significant association between the incidence of lower respiratory tract symptoms and 1-hour daily maximum ozone levels ( odds ratio ( OR ) = 1.22 , 95% confidence interval ( Cl ) 1.11-1.34 , for a 10 parts per hundred million ( pphm ) change ) , 7-hour average ozone levels ( OR = 1.32 , 95% Cl 1.14-1.52 ) , and ambient sulfates ( OR = 1.30 , 95% Cl 1.09-1.54 , for a 10-micrograms/m3 change ) , but no association was found with coefficient of haze , a more general measure of particulates .
+The existence of a gas stove in the home was also associated with lower respiratory tract symptoms ( OR = 1.23 , 95% Cl 1.03-1.47 ) .
+The effects of ozone were greater in the subpopulation without a residential air conditioner .
+In addition , ozone appears to have had a greater effect among individuals with a preexisting respiratory infection .

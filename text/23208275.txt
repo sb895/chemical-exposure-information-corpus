@@ -1,0 +1,10 @@
+A number of studies have linked exposure to long-term outdoor air pollution with cardiopulmonary disease ; however , the evidence for stroke is limited .
+Furthermore , evidence with the risk for lung cancer ( LC ) is still inconsistent .
+We , therefore , evaluated the association between long-term exposure to traffic-related air pollution and cause-specific mortality .
+Individual data were extracted from participants of an ongoing cohort study in Shizuoka , Japan .
+A total of 14,001 elderly residents completed questionnaires and were followed from December 1999 to January 2009 .
+Annual individual nitrogen dioxide ( NO(2) ) exposure data , as an index for traffic-related exposure , were modeled using a Land Use Regression model and assigned to the participants .
+We then estimated the adjusted hazard ratios ( HRs ) and their confidence intervals ( CIs ) associated with a 10 \u03bcg/m(3) elevation in NO(2) for all-cause or cause-specific mortality using time-varying Cox proportional hazards models .
+We found positive associations of NO(2) levels with all-cause ( HR=1.12 , 95% CI : 1.07-1.18 ) , cardiopulmonary disease ( HR=1.22 , 95% CI : 1.15-1.30 ) , and LC mortality ( HR=1.20 , 95% CI : 1.03-1.40 ) .
+Among cardiopulmonary disease mortality , not only the risk for ischemic heart disease ( HR=1.27 , 95% CI : 1.11-1.47 ) but also the risks for stroke were elevated : intracerebral hemorrhage ( HR=1.28 , 95% CI : 1.05-1.57 ) and ischemic stroke ( HR=1.20 , 95% CI : 1.04-1.39 ) .
+The present study supports the existing evidence that long-term exposure to traffic-related air pollution increases the risk of cardiopulmonary as well as LC mortality , and provides additional evidence for adverse effects on intracerebral hemorrhage as well as ischemic stroke .

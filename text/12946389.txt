@@ -1,0 +1,11 @@
+Polychlorinated dibenzo-p-dioxin , polychlorinated dibenzofuran and dioxin-like polychlorinated biphenyl concentrations in human liver , kidney , fat , blood , muscle , richly perfused tissue ( brain , lung etc. ) and skin were simulated to assess the health risk for Japanese fetuses .
+A 40-year time course of dioxin accumulation via food ingestion was simulated using a physiologically based pharmacokinetic ( PBPK ) model .
+In richly perfused tissue , the concentration estimated by the PBPK model showed better agreement with measured concentrations than that calculated by the one-compartment model .
+Fetal dioxin concentration was simulated based on the assumption that the fetal concentration was almost equal to the concentration in the mother's richly perfused tissue .
+To assess the reproductive risk , the estimated concentration in human fetus was compared with that in rat fetus in which reproductive function showed signs of alteration by 2,3,7,8-TCDD in previous reports [ Toxicol .
+Appl .
+Pharmacol. 114 ( 1992 ) 118 ; 146 ( 1997 ) 11 ; Toxicol .
+Sci. 53 ( 2000 ) 411 ; 57 ( 2000 ) 275 ] .
+The present daily intake of 2,3,7,8-TCDD is approximately 1/50 of the amount that leads to possible reproductive toxicity in the next generation .
+However , when 29 kinds of dioxin congeners are considered , the present level is 1/5 of the hazardous levels .
+For species extrapolation of dioxin risk , further study on tissue concentration versus toxicity is required .

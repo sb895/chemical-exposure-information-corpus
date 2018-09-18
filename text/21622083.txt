@@ -1,0 +1,10 @@
+BACKGROUND Cooking with biomass fuels on open fires results in exposure to health-damaging pollutants such as carbon monoxide ( CO ) , polycyclic aromatic hydrocarbons ( PAHs ) , and particulate matter .
+OBJECTIVE We compared CO exposures and urinary PAH biomarkers pre- and postintervention with an improved biomass stove , the Patsari stove .
+METHODS In a subsample of 63 women participating in a randomized controlled trial in central Mexico , we measured personal CO exposure for 8 hr during the day using continuous monitors and passive samplers .
+In addition , first-morning urine samples obtained the next day were analyzed for monohydroxylated PAH metabolites by gas chromatography/isotope dilution/high-resolution mass spectrometry .
+Exposure data were collected during the use of an open fire ( preintervention ) and after installation of the improved stove ( postintervention ) for 47 women , enabling paired comparisons .
+RESULTS Median pre- and postintervention values were 4 and 1 ppm for continuous personal CO and 3 and 1 ppm for passive sampler CO , respectively .
+Postintervention measurements indicated an average reduction of 42% for hydroxylated metabolites of naphthalene , fluorene , phenanthrene , and pyrene on a whole-weight concentration basis ( micrograms per liter of urine ) , and a 34% reduction on a creatinine-adjusted basis ( micrograms per gram of creatinine ) .
+Pre- and postintervention geometric mean values for 1-hydroxypyrene were 3.2 and 2.0 \u03bcg/g creatinine , respectively .
+CONCLUSION Use of the Patsari stove significantly reduced CO and PAH exposures in women .
+However , levels of many PAH biomarkers remained higher than those reported among smokers .

@@ -1,0 +1,11 @@
+BACKGROUND Damp building-related respiratory illnesses are an important public health issue .
+OBJECTIVE We compared three respiratory case groups defined by questionnaire responses [ 200 respiratory cases , 123 of the respiratory cases who met the epidemiologic asthma definition , and 49 of the epidemiologic asthma cases who had current physician-diagnosed asthma with post-occupancy onset ] to a comparison group of 152 asymptomatic employees in an office building with a history of water damage .
+METHODS We analyzed dust samples collected from floors and chairs of 323 cases and comparisons for culturable fungi , ergosterol , endotoxin , and cat and dog allergens .
+We examined associations of total fungi , hydrophilic fungi ( requiring water activity > or = 0.9 ) , and ergosterol with the health outcomes using logistic regression models .
+RESULTS In models adjusted for demographics , respiratory illnesses showed significant linear exposure-response relationships to total culturable fungi [ interquartile range odds ratios ( IQR-OR ) = 1.37-1.72 ] , hydrophilic fungi ( IQR-OR = 1.45-2.19 ) , and ergosterol ( IQR-OR = 1.54-1.60 ) in floor and chair dusts .
+Of three outcomes analyzed , current asthma with postoccupancy physician diagnosis was most strongly associated with exposure to hydrophilic fungi in models adjusted for ergosterol , endotoxin , and demographics ( IQR-OR = 2.09 for floor and 1.79 for chair dusts ) .
+Ergosterol levels in floor dust were significantly associated with epidemiologic asthma independent of culturable fungi ( IQR-OR = 1.54-1.55 ) .
+CONCLUSIONS Our findings extend the 2004 conclusions of the Institute of Medicine [ Human health effects associated with damp indoor environments .
+In : Damp Indoor Spaces and Health .
+Washington DC:National Academies Press , 183-269 ] by showing that mold levels in dust were associated with new-onset asthma in this damp indoor environment .
+Hydrophilic fungi and ergosterol as measures of fungal biomass may have promise as markers of risk of building-related respiratory diseases in damp indoor environments .

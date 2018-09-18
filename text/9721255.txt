@@ -1,0 +1,7 @@
+Controversy exists concerning the fetal risk associated with exposure to low-dose methylmercury from maternal fish consumption .
+Previous studies of the effects of acute prenatal mercury exposure identified delays in achieving developmental milestones among exposed children .
+This led to public health concern that prenatal low-dose exposure from fish consumption could adversely affect the fetus .
+We evaluated the effects of prenatal methylmercury exposure ( through maternal fish consumption ) on the age that children walked and first said words in the main study cohort of the Seychelles Child Development Study .
+We used semiparametric generalized additive models to identify nonlinearities in the relationships between prenatal exposure and developmental outcomes , after adjusting for covariates , and to evaluate their importance .
+Very slight delays ( <1 day ) in walking were seen as mercury levels increased from 0 to 7 ppm , but this effect did not persist at the higher exposure levels represented by the cohort , making it difficult to conclude that a cause and effect relationship existed at the exposure levels seen in this cohort .
+There was no evidence for any association between prenatal exposure and age at talking .

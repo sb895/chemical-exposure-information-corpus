@@ -1,0 +1,10 @@
+Prostate cancer associated with cadmium exposure may indicate a link between prostate specific antigen ( PSA ) and levels of blood cadmium ( BCd ) and urinary cadmium ( UCd ) .
+Thus , these associations were investigated .
+We recruited 295 men , 50 years of age and above from a health check-up program at a health center as subjects of the study .
+They completed a self-reported questionnaire and provided fasting samples of blood and urine for cadmium assay .
+The assay was performed using atomic absorption spectrophotometry .
+Blood samples were also collected for the assays of total cholesterol and high-density lipoprotein measures .
+The means of BCd and UCd increased with age and the means of all subjects were 1.19±1.04 \u03bcg L(-1) and 1.37±1.76 \u03bcg g(-1) creatinine , respectively .
+The PSA levels were positively associated with the lipid levels , but reversely associated with BCd and UCd levels .
+The multivariate logistic regression analysis showed that men with PSA\u22654.0 ng m L(-1) had an odds ratio ( OR ) of 0.4 ( 95% CI=0.1-0.9 ) to have BCd>0.49 \u03bcg L(-1) , and an OR of 0.4 ( 95% CI=0.2-1.0 ) to have UCd>0.45 \u03bcg g(-1) creatinine .
+In conclusion , the PSA levels are reversely associated with BCd and UCd levels .

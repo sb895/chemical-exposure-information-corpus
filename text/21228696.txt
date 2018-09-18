@@ -1,0 +1,11 @@
+BACKGROUND Concentrated animal feeding operations emit air pollutants that may affect health .
+We examined associations of reported hog odor and of monitored air pollutants with physical symptoms and lung function in people living within 1.5 miles of hog operations .
+METHODS Between September 2003 and September 2005 , we measured hydrogen sulfide ( H2S ) , endotoxin , and particulate matter ( PM10 , PM2.5 , and PM2.5-10 ) for approximately 2-week periods in each of 16 eastern North Carolina communities .
+During the same time periods , 101 adults sat outside their homes twice a day for 10 minutes , reported hog odor and physical symptoms , and measured their lung function .
+Conditional fixed-effects logistic and linear regression models were used to derive estimates of associations .
+RESULTS The log odds ( ±1 standard error ) of acute eye irritation following 10 minutes outdoors increased by 0.53 ( ±0.06 ) for every unit increase in odor , by 0.15 ( ±0.06 ) per 1 ppb of H2S , and by 0.36 ( ±0.11 ) per 10 \u03bcg/m of PM10 .
+Odor and H2S were also associated with irritation and respiratory symptoms in the previous 12 hours .
+The log odds of difficulty breathing increased by 0.50 ( ±0.15 ) per unit of odor .
+A 10 \u03bcg/m increase in mean 12-hour PM2.5 was associated with increased log odds of wheezing ( 0.84 ± 0.29 ) and declines in forced expiratory volume in 1 second ( -0.04 ± 0.02 L ) .
+A 10 EU/mg increase in endotoxin was associated with increased log odds of sore throat ( 0.10 ± 0.05 ) , chest tightness ( 0.09 ± 0.04 ) , and nausea ( 0.10 ± 0.05 ) .
+CONCLUSIONS Pollutants measured near hog operations are related to acute physical symptoms in a longitudinal study using analyses that preclude confounding by time-invariant characteristics of individuals .

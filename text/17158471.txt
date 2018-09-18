@@ -1,0 +1,8 @@
+Ambient air pollutant exposure has been linked to childhood respiratory disease , but infants have received little study .
+The authors tested the hypotheses that subchronic and chronic exposure to fine particulate matter ( particulate matter < or = 2.5 microm in aerodynamic diameter ( PM2.5) ) , nitrogen dioxide , carbon monoxide , and ozone increases risk of severe infant bronchiolitis requiring hospitalization .
+Study subjects were derived from linked birth-hospital-discharge records of infants born in 1995-2000 in the South Coast Air Basin of California .
+Cases with a hospital discharge for bronchiolitis in infancy were matched to 10 age- and gestational-age-matched controls .
+Exposures in the month prior to hospitalization ( subchronic ) and mean lifetime exposure ( chronic ) referenced to the case diagnosis date were assessed on the basis of data derived from the California Air Resources Board .
+In conditional logistic regression , only subchronic and chronic PM2.5 exposures were associated with increased risk of bronchiolitis hospitalization after adjustment for confounders ( per 10-microg/m3 increase , adjusted odds ratio = 1.09 ( 95% confidence interval : 1.04 , 1.14 ) for both ) .
+Ozone was associated with reduced risk in the single-pollutant model , but this relation did not persist in multipollutant models including PM2.5 .
+These unique US data suggest that infant bronchiolitis may be added to the list of adverse effects of PM2.5 exposure .

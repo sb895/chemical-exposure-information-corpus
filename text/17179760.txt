@@ -1,0 +1,7 @@
+BACKGROUND Organochlorines , including polychlorinated biphenyls ( PCBs ) and pesticides , are environmentally persistent contaminants that concentrate in the food chain as well in human adipose tissue and readily cross the placenta .
+METHODS To follow up on studies suggesting an association of organochlorine exposure with reduced birth size , we investigated the association of PCBs and organochlorine pesticides ( including p,p'-dichlorodiphenyl dichloroethene [ p,p'-DDE ] , the major degradation product of p,p'-dichlorodiphenyl trichloroethane [ p,p'-DDT ] , and hexachlorobenzene [ HCB] ) , with birth weight , crown-heel length , and head circumference .
+We evaluated a cohort of 722 infants born between 1993 and 1998 to mothers residing near a PCB-contaminated harbor and Superfund site in New Bedford , Massachusetts .
+RESULTS Small negative associations were observed for PCBs and birth weight ; associations were weaker for birth length and head circumference .
+There was evidence for effect modification by smoking during pregnancy on the association between PCBs and birth weight .
+No associations were found with p,p'-DDE or HCB for any measures of birth size .
+CONCLUSIONS This study supports the growing literature that demonstrates at most a weak association between very low-level organochlorine exposure and birth size .

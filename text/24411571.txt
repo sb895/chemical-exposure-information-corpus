@@ -1,0 +1,9 @@
+BACKGROUND To date , there is scarce data on levels of exposure to bisphenol A ( BPA ) in the general population in Israel and the region .
+The goal of the current study was to measure urinary levels of BPA in the general adult population in Israel and to determine the demographic and dietary predictors of exposure .
+METHODS We recruited 249 individuals ( ages 20-74 ) from five different regions in Israel .
+We collected urine samples and questionnaire data including detailed dietary data and analyzed urine samples for BPA concentrations .
+RESULTS Eighty nine percent of the study population had urinary BPA concentrations equal to or above the level of quantification ( 0.3\u03bcg/L ) .
+Median creatinine adjusted BPA urinary concentrations in the study population ( 2.3\u03bcg/g ) were slightly higher than those reported for the general population in the US ( 1.76\u03bcg/g ) and Canada ( 1.47\u03bcg/g ) , and were comparable to those reported for the general population in Belgium ( 2.25\u03bcg/g ) and Korea ( 2.09\u03bcg/g ) .
+BPA concentrations were higher in Jews compared to Arab and Druze ( prevalence ratio ( PR)=2.34 ; 95%CI 1.56-3.49 ) , in individuals with higher education ( PR=1.70 , 1.11-2.62 ) , in individuals consuming mushrooms ( PR=2.08 , 1.07-4.05 ) , and in smokers ( PR=1.43 , 1.00-2.05 ) .
+CONCLUSIONS We found that the general adult population in Israel is widely exposed to BPA .
+Our findings on higher BPA levels in Jews compared to Arabs and Druze and in individuals with higher education highlights the fact that predictors of BPA exposure vary across populations .

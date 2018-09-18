@@ -1,0 +1,9 @@
+Exposure to arsenic in drinking water is associated with increased respiratory disease .
+Alpha-1 antitrypsin ( AAT ) protects the lung against tissue destruction .
+The objective of this study was to determine whether arsenic exposure is associated with changes in airway AAT concentration and whether this relationship is modified by selenium .
+A total of 55 subjects were evaluated in Ajo and Tucson , Arizona .
+Tap water and first morning void urine were analyzed for arsenic species , induced sputum for AAT and toenails for selenium and arsenic .
+Household tap-water arsenic , toenail arsenic and urinary inorganic arsenic and metabolites were significantly higher in Ajo ( 20.6±3.5 μg/l , 0.54±0.77 μg/g and 27.7±21.2 μg/l , respectively ) than in Tucson ( 3.9±2.5 μg/l , 0.16±0.20 μg/g and 13.0±13.8 μg/l , respectively ) .
+In multivariable models , urinary monomethylarsonic acid ( MMA ) was negatively , and toenail selenium positively associated with sputum AAT ( P=0.004 and P=0.002 , respectively ) .
+In analyses stratified by town , these relationships remained significant only in Ajo , with the higher arsenic exposure .
+Reduction in AAT may be a means by which arsenic induces respiratory disease , and selenium may protect against this adverse effect .

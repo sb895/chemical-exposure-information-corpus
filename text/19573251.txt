@@ -1,0 +1,12 @@
+BACKGROUND The deleterious biological effects of low-level , long-term exposure to heavy metals are well known , and children are the most susceptible population .
+Dabaoshan Mine in the southeast of Guangdong Province is at high risk of discharging multi-metals pollutants into a local river ( Hengshihe ) and the surrounding area .
+The present study aimed to estimate relationships between measured multi-metal exposures and the presence of behavioural problems for the school-aged children in the polluted area .
+METHODS A cross-sectional study was performed .
+Children aged 7-16 years living in three villages of the Hengshihe area with different degrees of heavy-metal pollution participated in this study .
+Local environmental samples ( water and crops ) and children's hair were collected , and concentrations of heavy metals were determined .
+The Child Behaviour Check-list ( CBCL ) was used to assess the presence of behaviour problems .
+General linear regression was used to analyze the contribution of hair metals to each CBCL subscale with adjustment for socio-demographic confounding factors .
+RESULTS Multiple regression analyses revealed significant effects of hair lead , cadmium and zinc levels on CBCL subscales .
+Log-transformed hair lead , cadmium and zinc levels accounted for an incremental of 8% to 15% variance in anxious/depressed , withdrawn , somatic complaints , social problems , thought problems , attention problems , delinquent behaviour and aggressive behaviour .
+The concurrent log-transformed hair lead and zinc levels were strongly associated with all subscales while the concurrent log-transformed hair cadmium was only significantly associated with withdrawn , social problems and attention problems .
+CONCLUSION This study reveals that heavy metal exposure was associated with increased risk of behavioral problems for school-aged children .

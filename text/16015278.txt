@@ -1,0 +1,10 @@
+Using gas chromatography/mass spectrometry , we measured lipid-adjusted serum levels for all 2,3,7,8-substituted dioxins and furans , and four coplanar polychlorinated biphenyls in 62 workers with chlorophenol exposure and 36 workers without chlorophenol exposures working at the same plant during the same time .
+We oversampled among workers diagnosed with chloracne .
+Mean dioxin background levels from 36 nonchlorophenol workers were estimated as 6.0 parts-per-trillion ( ppt ) for 2,3,7,8 tetrachlorodibenzo-p-dioxin ( 2,3,7,8-TCDD ) and 67.5 ppt for 1,2,3,4,6,7,8 heptachlorodibenzo-p-dioxin ( Hepta-CDD ) .
+We found different dioxin and furan profiles for trichlorophenol and pentachlorophenol ( PCP ) workers .
+Among trichlorophenol workers with chloracne , we found 2,3,7,8-TCDD ( mean=30.5 ppt ) above background levels and among PCP workers with chloracne , we found high levels of Hepta-CDD ( mean=312.5 ppt ) and other higher chlorinated dioxins and furans .
+Cumulative exposure estimates for dioxins for both 2,3,7,8-TCDD and the higher chlorinated dioxins created in the early 1980s for our epidemiology studies were highly correlated with serum dioxin levels when age and body mass index were taken into account .
+While workers previously diagnosed with chloracne had high serum dioxin levels , some workers without diagnosed chloracne also had high levels .
+Among tradesworkers with plant-wide responsibilities , we observed serum dioxins and PCB levels higher than background indicating workplace exposures .
+We estimate that the mean level of 2,3,7,8-TCDD present in the serum of workers on the date workplace exposure terminated was 267 ppt ( ranging from 8 to 1184 ppt ) assuming a 9-year half-life , 582 ppt ( ranging from 10 to 2,641 ppt ) assuming a 7-year half-life , and 1928 ppt ( ranging from 22 to 17,847 ) when a toxicokinetic model is used .
+We conclude that our findings are consistent with other studies reporting high serum dioxin levels among chlorophenol workers after occupational exposures .

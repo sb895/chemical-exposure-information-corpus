@@ -1,0 +1,10 @@
+Samples from different tissues were collected from autopsies of individuals of the general population of the Stockholm area , Sweden .
+The samples were analysed for total mercury content using radiochemical neutron activation analysis .
+Average concentrations of mercury in occipital cortex , abdominal muscle , pituitary gland and kidney cortex were , 10.6 ( 2.4-28.7 ) , 3.3 ( 0.9-5.4 ) , 25.0 ( 6.3-77 ) and 229 ( 21.1-810 ) micrograms/kg wet weight , respectively .
+Possible predictor variables for mercury concentrations were tested in multiple linear regression models .
+An effect of a number of tooth surfaces with amalgam was seen in occipital lobe cortex , abdominal muscle and pituitary gland , but not in kidney cortex .
+In occipital lobe cortex and abdominal muscle , concentrations of mercury increased with age .
+Explanations discussed include : that a significant fraction of the mercury retained from amalgam fillings has a very long biological half-life ; a decreasing capacity of mercury excretion with age ; or higher fish consumption in the older individuals .
+In kidney cortex mercury concentrations decreased with age .
+The reason for this remains unclear , but it might indicate a decreasing capacity of mercury excretion with age .
+Chronic alcohol abuse was associated with decreased concentrations of mercury in occipital cortex .

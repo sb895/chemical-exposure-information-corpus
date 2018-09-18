@@ -1,0 +1,9 @@
+Human serum samples ( n=61 ) were collected in Attika , Greece between June and October 2007 and analyzed for polybrominated diphenyl ethers ( PBDEs ) , hexabromocyclododecane ( HBCD ) , polychlorinated biphenyls ( PCBs ) and organochlorine pesticides ( OCPs ) .
+Thirty samples were collected from computer clerks of a large computer company in Athens working full-time with computers , and thirty-one from a control population in the Attika region with no computer use. \u03a3(5)PBDE concentrations ( sum of tri- to hexa-BDEs ) in all samples ( n=61 ) ranged from 0.68 to 13.3 ng g(-1) lipid , with a median of 1.07 ng g(-1) lipid .
+These concentrations are on the lower end of those reported from other countries , probably reflecting lower usage of PBDE-containing products or lower exposures to these chemicals .
+Individual and \u03a3(5)PBDE concentrations did not statistically differ between the two groups of computer clerks and non-computer users ( p>0.05 ) , with the exception of BDE 153 ( p=0.033 ) .
+The predominant congener was BDE 153 , followed by BDEs 47 , 100 , 99 , 183 , 154 and 28 .
+HBCD was also detected in 70% of the samples .
+BDE 209 was detected in 8 out 61 samples ( 13% ) , with concentrations ranging from 1.18 to 19.1 ng g(-1) lipid , and a median of 2.94 ng g(-1) lipid .
+No age dependency was found for PBDEs. \u03a3(11)PCB ( sum of PCBs 74 , 99 , 118 , 138 , 146 , 153 , 156 , 170 , 180 , 183 and 187, ) in all samples ( n=61 ) ranged from 36 to 402 ng g(-1) lipid , with a median of 110 ng g(-1) lipid. pp'-DDE concentrations ranged from 53.8 to 1649 ng g(-1) lipid , with a median of 268 ng g(-1) lipid .
+This is the first study to report levels of PBDEs in a possibly occupationally exposed subset of the Greek population .

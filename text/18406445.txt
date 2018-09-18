@@ -1,0 +1,11 @@
+BACKGROUND Exposure to elemental mercury ( Hg0 ) in residential buildings can occur from accidental spills , broken objects ( thermometers , fluorescent fixtures , thermostats ) , and deliberate introduction , one mode of which involves cultural practices by individuals who believe dispersal of mercury in a residence will bring luck , enhance health or ward off harm .
+OBJECTIVES To determine whether mercury vapor levels in common areas of residential buildings is higher in a community where cultural uses are likely ( study areas S1 , S2 ) than in a reference community ( C1 ) where cultural use is unlikely , and whether levels can serve as a signal of significant cultural mercury use .
+METHODS We monitored Hg0 vapor with a portable spectrophotometer in the three communities .
+We randomly selected sites in S1 and C1 community , and also include sites in S2 specified by local health officials who suspected cultural mercury use .
+We evaluated 122 multifamily buildings and 116 outdoor locations .
+FINDINGS We found >25 ng/m3 Hg0 in 14% of buildings in study areas compared to only one reference building .
+In the latter we identified an accidental mercury spill from a bottle that had been brought into the building .
+Both the mean and maximum indoor mercury vapor levels were greater in the study communities than in the reference community .
+In all communities , we observed mean indoor Hg0 vapor concentration greater than outdoors , although in two-thirds of buildings , indoor levels did not exceed the area-specific outdoor upper-limit concentration .
+CONCLUSION After controlling for factors that might influence Hg0 vapor levels , the most plausible explanation for greater Hg0 levels in the study area is a relationship to cultural use of mercury .
+None of the measured levels exceeded the ATSDR minimum risk level for residences of 200 ng/m3 Hg0 although levels in living quarters might be greater than those in the common areas .

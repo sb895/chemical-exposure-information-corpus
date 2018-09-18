@@ -1,0 +1,10 @@
+BACKGROUND We report the concentrations and distributions of urinary arsenic ( As ) metabolites in 233 residents exposed to 20 , 90 , or 160 microg/L inorganic arsenic ( iAs ) in drinking water from three villages in Hohhot , Inner Mongolia , China , that formed one control and two exposed groups .
+METHODS We used hydride generation-atomic absorption spectrometry ( HGAAS ) to determine iAs , monomethylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA ) .
+RESULTS The concentrations of each urinary As species in the two exposed groups were significantly higher than in the control group for both children and adults .
+Both children and adults in exposed groups had higher percent iAs and MMA and lower percent DMA , and low primary and secondary methylation indices ( PMI and SMI , respectively ) than those in the control group .
+However , children showed significant increases in percent DMA and the SMI as well as decreases in the percent MMA when the iAs exposure level increased from 90 to 160 microg/L .
+In addition , children in the two exposed groups showed lower percent MMA but higher percent DMA and higher SMI than adults in the same exposed group .
+No significant differences in As metabolite concentrations and distributions were found between males and females in each group .
+A significant correlation was also found in the SMI between 11 pairs of children and their mothers from the 160-microg/L-exposed group .
+CONCLUSIONS Children had higher a capacity for secondary methylation of As than adults when exposed to the same concentrations of iAs in drinking water .
+Exposure to As may increase the capacity for methylation in children to some extent .

@@ -1,0 +1,17 @@
+BACKGROUND Environmental exposure to cadmium causes renal dysfunction and bone damage .
+Cadmium contamination in food is regarded as the main environmental source of non-occupational exposure .
+The aim of this study was to assess the contribution of dietary cadmium exposure in environmental cadmium exposure and its health risk among adults in Shanghai , China .
+METHODS A cross-sectional survey about food consumption was conducted in 2008 among 207 citizens aged over 40 years in Shanghai , China .
+The food frequency questionnaire was combined with food , tobacco and water cadmium exposure to estimate the daily environmental cadmium exposure in both point and probabilistic estimations .
+Urine and blood samples of the participants were analyzed for internal exposure to total cadmium .
+Correlation analysis was conducted between the internal cadmium exposure and environmental cadmium exposure .
+RESULTS According to the point estimation , average daily environmental cadmium exposure of the participants was 16.7 \u03bcg/day and approached 33.8% of the provisional tolerable daily intake ( PTDI ) .
+Dietary and tobacco cadmium exposure approached 25.8% and 7.9% of the PTDI , respectively .
+Males had higher levels of dietary cadmium exposure than females ( p?=?0.002 ) .
+The probabilistic model showed that 93.4% of the population did not have any health risks from dietary cadmium exposure .
+By sensitivity analysis , tobacco consumption , tobacco cadmium level , cadmium in vegetables and cadmium in rice accounted for 27.5% , 24.9% , 20.2% and 14.6% of the total cadmium exposure , respectively .
+The mean values of urinary and blood cadmium among the study population were 0.5 \u03bcg/L and 1.9 \u03bcg/L , respectively .
+Positive correlations were observed between environmental cadmium exposure and blood cadmium ( R?=?0.52 , P<0.01 ) , tobacco cadmium intake and blood cadmium excluding non-smokers ( R?=?0.26 , P?=?0.049<0.05 ) , and urine cadmium and age ( R?=?0.15 , P?=?0.037 ) .
+CONCLUSIONS It has been suggested that there is no increased health risk among adult residents in Shanghai , China because of recent total cadmium exposure .
+Vegetables and rice were the main sources of dietary cadmium intake .
+Tobacco cadmium exposure , which accounted for approximately 25% of the total dietary cadmium exposure , was another important source of non-occupational cadmium exposure .

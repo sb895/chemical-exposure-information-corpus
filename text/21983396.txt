@@ -1,0 +1,16 @@
+Phthalates are used ubiquitously and human exposure is widespread .
+Some phthalates are anti-androgens and have to be regarded as reproductive and developmental toxicants .
+In the Duisburg birth cohort study we examine the associations between hormonally active environmental agents and child development .
+Here we report the concentrations of 21 primary and secondary phthalate metabolites from seven low molecular weight ( LMW ) phthalates ( DMP , DEP , BBzP , DiBP , DnBP , DCHP , DnPeP ) and five high-molecular weight ( HMW ) phthalates ( DEHP , DiNP , DiDP , DPHP , DnOP ) in 208 urine samples from 104 mothers and their school-aged children .
+Analysis was performed by multidimensional liquid chromatography coupled to tandem mass spectrometry ( LC/LC-MS/MS ) , using internal isotope-labeled standards .
+In both children and mothers , 18 out of 21 phthalate metabolites were detected above the limits of quantification ( between 0.2 and 1.0 \u03bcg/l ) in nearly all urine samples .
+Among the LMW phthalates , the excretion level ( geometric mean ) of the \u03a3DiBP metabolites was most prominent in children ( 103.9 \u03bcg/l ) , followed by \u03a3DnBP ( 56.5 \u03bcg/l ) , and MEP ( 39.1 \u03bcg/l ) .
+In mothers \u03a3DiBP ( 66.6 \u03bcg/l ) was highest , followed by MEP ( 50.5 \u03bcg/l ) , and \u03a3DnBP ( 36.0 \u03bcg/l ) .
+Among the HMW phthalates , \u03a3DEHP was highest in children and mothers ( 55.7/28.9 \u03bcg/l ) .
+Compared to reference values derived from the German Human Biomonitoring Commission , children's metabolite concentrations were within background levels , whereas for mothers considerably higher exposure to the LMW phthalates DnBP and DiBP , and the HMW phthalate DEHP was detected ( MiBP : 10.7% ; MnBP : 11.7% ; \u03a3DEHP : 23.3% of the samples were above the reference values ) .
+The LMW metabolites from DMP , DiBP , and DnBP , and the HMW metabolites from DEHP and DiNP were correlated between the mothers and children , probably indicating shared exposure in the immediate surrounding environment .
+Children showed higher excretion levels for most of the secondary metabolites than mothers , confirming previous findings on higher oxidized metabolite levels in children .
+The LMW metabolites \u03a3DiBP , \u03a3DnBP , and MMP , and the HMW metabolites \u03a3DEHP were negatively associated with children's age .
+The LMW metabolites \u03a3DiBP , \u03a3DnBP , and MBzP were inversely associated with body mass index of the children .
+The LMW \u03a3DiBP metabolites revealed a significant association with nicotine metabolites in urine from both children and mothers .
+Further analyses are ongoing to study long-term phthalate exposure and the associations with puberty outcome in these children .

@@ -1,0 +1,7 @@
+This study was intended to determine the background levels of PCDD/PCDFs and PCBs in the Taiwanese population and to investigate factors potentially related to PCDD/PCDF and PCB levels .
+The levels of seventeen PCDD/PCDFs in the 251 serum samples collected from the general population in Taiwan ranged from 4.92 to 26.7 pg WHO(1998)-TEQ/g lipid ( median : 11.5 ) and those of the twelve dioxin-like PCBs ranged between 1.74 and 21.6 pg WHO(1998)-TEQ/g lipid ( median : 6.14 ) .
+Five factors , age , gender , region of residence , dietary status , and smoking status , showed statistically significant association with the TEQ level of PCDD/PCDFs .
+The TEQ level of PCBs was statistically associated with age only , but not with the other four factors .
+The trends observed between age and the levels of PCDD/PCDFs and PCBs were not parallel in young subjects ( <30 years old ) and old subjects ( >30 years old ) .
+The levels of PCDD/PCDFs and PCBs increased by 0.16 and 0.03 WHO(1998)-TEQ/g lipid per year for subjects above the age of 30 , but there was no evidence of any association between age and the levels for subjects below the age of 30 years .
+These factors should be considered when investigating relationships between background serum levels of persistent organic pollutants and parameters associated with exposure sources or health outcomes .

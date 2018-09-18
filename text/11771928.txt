@@ -1,0 +1,9 @@
+It has been suggested that selenium ( Se ) exhibits protective effects against mercury ( Hg ) toxicity in humans due to formation of a Hg-Se complex bound to selenoprotein P in blood .
+The aim of the present study was to investigate Se concentrations in persons who had been examined with respect to general health problems associated with dental amalgam fillings .
+The Se concentrations were determined in whole-blood samples of 80 individuals by hydride generation atomic absorption spectrometry .
+The subjects comprised two main groups : 21 healthy controls with amalgam fillings and 20 patients who claimed symptoms from existing amalgam fillings .
+The median concentration of Se in blood ( 119.2 microg/L ) was statistically significantly lower in subjects who claimed symptoms of mercury amalgam illness than in healthy subjects with amalgam ( 130.3 microg/L ) .
+The difference was more evident in individuals with more than 35 amalgam surfaces ( P=0.003 ) .
+Additional control groups without amalgam fillings comprised 19 healthy controls without amalgam experience and 20 subjects who have had amalgam fillings removed due to suspected symptoms associated with amalgam .
+The Se concentrations in these groups were not different from those with amalgam .
+It is indicated that persons with ill health self-related to dental amalgam might have a Se metabolism different from that of healthy people .

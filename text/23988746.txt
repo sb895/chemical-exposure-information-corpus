@@ -1,0 +1,9 @@
+The risk of students to develop elevated blood lead from drinking water consumption at schools was assessed , which is a different approach from predictions of geometric mean blood lead levels .
+Measured water lead levels ( WLLs ) from 63 elementary schools in Seattle and 601 elementary schools in Los Angeles were acquired before and after voluntary remediation of water lead contamination problems .
+Combined exposures to measured school WLLs ( first-draw and flushed , 50% of water consumption ) and home WLLs ( 50% of water consumption ) were used as inputs to the Integrated Exposure Uptake Biokinetic ( IEUBK ) model for each school .
+In Seattle an average 11.2% of students were predicted to exceed a blood lead threshold of 5 \u03bcg/dL across 63 schools pre-remediation , but predicted risks at individual schools varied ( 7% risk of exceedance at a " low exposure school " , 11% risk at a " typical exposure school " , and 31% risk at a " high exposure school" ) .
+Addition of water filters and removal of lead plumbing lowered school WLL inputs to the model , and reduced the predicted risk output to 4.8% on average for Seattle elementary students across all 63 schools .
+The remnant post-remediation risk was attributable to other assumed background lead sources in the model ( air , soil , dust , diet and home WLLs ) , with school WLLs practically eliminated as a health threat .
+Los Angeles schools instead instituted a flushing program which was assumed to eliminate first-draw WLLs as inputs to the model .
+With assumed benefits of remedial flushing , the predicted average risk of students to exceed a BLL threshold of 5 \u03bcg/dL dropped from 8.6% to 6.0% across 601 schools .
+In an era with increasingly stringent public health goals ( e.g. , reduction of blood lead safety threshold from 10 to 5 \u03bcg/dL ) , quantifiable health benefits to students were predicted after water lead remediation at two large US school systems .

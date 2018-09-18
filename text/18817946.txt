@@ -1,0 +1,11 @@
+Mercury [ Hg ] emissions from old plant collections treated with mercuric chloride ( HgCl(2) ) may present a high health risk for staff working in certain herbaria .
+The present study evaluated Hg concentrations in ambient air , plant specimens and biological samples from staff working in the Pretoria National Herbarium ( PRE ) and the H.G.W.J. Schweickerdt Herbarium ( PRU ) , University of Pretoria .
+Biological samples from a group of 15 people exposed to HgCl(2) in herbaria and a non-exposed control group of five people were studied .
+Additionally , plant samples from herbarium specimens treated and non-treated with HgCl(2) were analysed .
+Plant materials treated with HgCl(2) had persistent high concentrations of Hg in the range of 114-432 microg g(-1) , whereas untreated materials were in the range of 0.20-0.45 microg g(-1) .
+The HgCl(2)-treated plant specimens induced elevated concentrations of Hg into the herbarium rooms near storage cabinets , where up to 1 microg m(-3) of Hg was measured in the air of both herbaria .
+However , no significant difference in mean Hg concentrations in hair was found between herbarium workers and members of the control group , 0.46 and 0.64 microg g(-1) respectively ( p0.05 , Student's t-test ) .
+For both groups , Hg concentrations were lower than that indicated by the World Health Organization [ WHO ] for non-exposed adults , namely 2 microg g(-1) .
+The mean concentration of total Hg in urine from the mercury-exposed herbarium group , 2.28 microg g(-1) creatinine , was significantly higher than in the control group , 1.05 microg g(-1) of creatinine .
+For both populations , the concentrations of Hg in their urine were below the threshold Hg values set by the WHO , i.e. , 5 microg g(-1) creatinine .
+We concluded that there was no strong response by individual herbarium staff from long-term exposure to Hg concentrations in the range of 0.28-1.1 microg m(-3) .

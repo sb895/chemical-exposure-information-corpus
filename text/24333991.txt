@@ -1,0 +1,15 @@
+Environmental exposures typically involve mixtures of pollutants , which must be understood to evaluate cumulative risks , that is , the likelihood of adverse health effects arising from two or more chemicals .
+This study uses several powerful techniques to characterize dependency structures of mixture components in personal exposure measurements of volatile organic compounds ( VOCs ) with aims of advancing the understanding of environmental mixtures , improving the ability to model mixture components in a statistically valid manner , and demonstrating broadly applicable techniques .
+We first describe characteristics of mixtures and introduce several terms , including the mixture fraction which represents a mixture component's share of the total concentration of the mixture .
+Next , using VOC exposure data collected in the Relationship of Indoor Outdoor and Personal Air ( RIOPA ) study , mixtures are identified using positive matrix factorization ( PMF ) and by toxicological mode of action .
+Dependency structures of mixture components are examined using mixture fractions and modeled using copulas , which address dependencies of multiple variables across the entire distribution .
+Five candidate copulas ( Gaussian , t , Gumbel , Clayton , and Frank ) are evaluated , and the performance of fitted models was evaluated using simulation and mixture fractions .
+Cumulative cancer risks are calculated for mixtures , and results from copulas and multivariate lognormal models are compared to risks calculated using the observed data .
+Results obtained using the RIOPA dataset showed four VOC mixtures , representing gasoline vapor , vehicle exhaust , chlorinated solvents and disinfection by-products , and cleaning products and odorants .
+Often , a single compound dominated the mixture , however , mixture fractions were generally heterogeneous in that the VOC composition of the mixture changed with concentration .
+Three mixtures were identified by mode of action , representing VOCs associated with hematopoietic , liver and renal tumors .
+Estimated lifetime cumulative cancer risks exceeded 10(-3) for about 10% of RIOPA participants .
+Factors affecting the likelihood of high concentration mixtures included city , participant ethnicity , and house air exchange rates .
+The dependency structures of the VOC mixtures fitted Gumbel ( two mixtures ) and t ( four mixtures ) copulas , types that emphasize tail dependencies .
+Significantly , the copulas reproduced both risk predictions and exposure fractions with a high degree of accuracy , and performed better than multivariate lognormal distributions .
+Copulas may be the method of choice for VOC mixtures , particularly for the highest exposures or extreme events , cases that poorly fit lognormal distributions and that represent the greatest risks .

@@ -1,0 +1,9 @@
+BACKGROUND Reliance on biomass for cooking and heating exposes many women and young children in developing countries to high levels of air pollution indoors .
+This study investigated the association between household use of biomass fuels for cooking and acute respiratory infections ( ARI ) in preschool age children ( <5 years ) in Zimbabwe .
+METHODS Analysis is based on 3559 children age 0-59 months included in the 1999 Zimbabwe Demographic and Health Survey ( ZDHS ) .
+Children who suffered from cough accompanied by short , rapid breathing during the 2 weeks preceding the survey were defined as having suffered from ARI .
+Logistic regression was used to estimate the odds of suffering from ARI among children from households using biomass fuels ( wood , dung , or straw ) relative to children from households using cleaner fuels ( liquid petroleum gas [ LPG]/natural gas , or electricity ) , after controlling for potentially confounding factors .
+RESULTS About two-thirds ( 66% ) of children lived in households using biomass fuels and 16% suffered from ARI during the 2 weeks preceding the survey interview .
+After adjusting for child's age , sex , birth order , nutritional status , mother's age at childbirth , education , religion , household living standard , and region of residence , children in households using wood , dung , or straw for cooking were more than twice as likely to have suffered from ARI as children from households using LPG/natural gas or electricity ( OR = 2.20 ; 95% CI : 1.16 , 4.19 ) .
+CONCLUSIONS Household use of high pollution biomass fuels is associated with ARI in children in Zimbabwe .
+The relationship needs to be further investigated using more direct measures of smoke exposure and clinical measures of ARI .

@@ -1,0 +1,11 @@
+BACKGROUND AND GOALS As part of the authorization process for the solid waste incinerator ( SWI ) in Modena , Italy , a human biomonitoring cross-sectional pilot study was conducted to investigate the degree to which people living and working in the proximity of the plant were exposed to SWI emissions .
+METHODS Between May and June 2010 , 65 subjects living and working within 4km of the incinerator ( exposed ) and 103 subjects living and working outside this area ( unexposed ) were enrolled in the study .
+Blood , serum and urinary metals ( Pb , Cd , Cu , Zn , Hg , Mn , Ni ) , urinary benzene , toluene , xylene ( BTEX ) , S-phenylmercapturic acid ( SPMA ) , and urinary polycyclic aromatic hydrocarbons ( PAHs ) were analysed .
+Information about lifestyle , anthropometric characteristics , residence , and health status was collected by a self-administered questionnaire .
+Exposure to particulate matter ( PM ) emitted from the SWI was estimated using fall-out maps from a quasi-Gaussian dispersion model .
+A multiple linear regression analysis investigated the relationship between biomarkers and the distance of a subject's place of residence from the SWI plant or the exposure to PM .
+RESULTS Urinary BTEX and SPMA and blood , serum and urinary metals showed no differences between exposed and unexposed subjects .
+PAHs were higher in exposed than in unexposed subjects for phenanthrene , anthracene , and pyrene ( median levels : 9.5 vs. 7.2ng/L , 0.8 vs. <0.5ng/L and 1.6 vs. 1.3ng/L , respectively , p<0.05 ) .
+Multiple linear regression analysis showed that blood Cd and Hg and urinary Mn , fluorene , phenanthrene , anthracene and pyrene were inversely correlated to the distance of a subject's residence from the SWI .
+Urinary Mn , fluorene and phenanthrene were directly correlated to PM exposure .
+CONCLUSIONS This study , although not representative of the general population , suggests that specific biomarkers may provide information about the degree of exposure the subjects working and living in the proximity of the SWI plant may have to emissions from that facility .

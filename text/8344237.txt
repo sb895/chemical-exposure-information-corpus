@@ -1,0 +1,9 @@
+To investigate the relationship between chronic exposure to organic solvents and changes in central nervous system function , industrial painters were compared with an age- and education-matched referent group of nonexposed workers .
+Eighty-one male painters completed a symptom questionnaire .
+Twenty painters underwent both questionnaire and neuropsychological examinations .
+From the results of pairwise comparisons of the symptoms , dry and scaly skin , being easily depressed without reason , coldness of hands and legs , being easily irritated without reason , loss of appetite , dizziness , and unsteadiness occurred statistically significantly more often among the exposed subjects than among the referents .
+Performances on the Digit symbol test and vocabulary test scores ( synonyms ) in exposed subjects were significantly lower than those of controls .
+In multiple regression models , controlling for age , education , and alcohol intake , a significant relation was found between the duration of the solvent exposure and poor performance in both the Block design and Digit span tests .
+The relation between toluene exposure and poor performance in both the Santa Ana coordination test and the Benton visual retention test was also significant .
+The results suggest that a symptom inquiry and some behavioral tests are helpful for detecting the possible effects of exposure to low levels of organic solvents .
+However , no consistent pattern was observed in regard to the effects of organic solvent exposure on neurobehavioral function , which is coincident with the type I toxic central nervous system disorder as classified by the World Health Organization .

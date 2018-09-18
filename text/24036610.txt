@@ -1,0 +1,13 @@
+BACKGROUND Increasing experimental evidence suggests that prenatal bisphenol A ( BPA ) exposure induces offspring weight gain , but these effects remain largely unexplored in humans .
+We examined the effects of prenatal BPA exposure on postnatal growth and obesity .
+METHODS BPA concentrations were measured in two spot-urine samples collected in the 1st and 3rd trimesters of pregnancy from mothers in a Spanish birth cohort study ( n = 402 ) .
+We used the average of the two creatinine-adjusted BPA concentrations as the exposure variable .
+Rapid child growth was defined as a weight gain Z score >0.67 in the first 6 months of life .
+Age- and sex-specific Z scores for body mass index ( BMI ) were calculated at age 14 months and 4 years , based on the World Health Organization referent ; overweight was defined as a BMI Z score greater than or equal to the 85th percentile .
+Age- and sex-specific waist circumference Z scores were calculated at age 14 months and 4 years using the analysis population mean .
+RESULTS Twenty-six percent of children were rapid growers ; 25% were overweight at 14 months and 21% at 4 years .
+Geometric mean BPA concentrations were 2.6 \u03bcg/g creatinine ( standard deviation = 2.3 ) in 1st trimester and 2.0 ( 2.3 ) in 3rd trimester samples ( Pearson r = 0.13 ) .
+At 4 years , BPA exposure was associated with increased waist circumference ( \u03b2 per log10 \u03bcg/g = 0.28 [ 95% confidence interval = 0.01 to 0.57] ) and BMI ( \u03b2 = 0.28 [ -0.06 to 0.63] ) .
+BPA was not associated with obesity-related outcomes at earlier ages .
+CONCLUSIONS This study provides some evidence for an association between prenatal BPA exposure and obesity-related outcomes in childhood , although not in infancy .
+The large uncertainties in BPA exposure assessment require that findings be interpreted with caution .

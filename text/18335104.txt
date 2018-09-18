@@ -1,0 +1,10 @@
+BACKGROUND Over the past decade there has been mounting evidence that ambient air pollution during pregnancy influences fetal growth .
+OBJECTIVES This study was designed to examine possible associations between fetal ultrasonic measurements collected from 15,623 scans ( 13-26 weeks gestation ) and ambient air pollution during early pregnancy .
+METHODS We calculated mothers ' average monthly exposures over the first 4 months of pregnancy for the following pollutants : particulate matter < 10 microm aerodynamic diameter ( PM10 ) , ozone , nitrogen dioxide , and sulfur dioxide .
+We examined associations with fetal femur length ( FL ) , biparietal diameter ( BPD ) , head circumference ( HC ) , and abdominal circumference ( AC ) .
+Final analyses included scans from only those women within 2 km of an air pollution monitoring site .
+We controlled for long-term trend , season , temperature , gestation , mother's age , socioeconomic status , and fetal sex .
+RESULTS A reduction in fetal AC was associated with O3 during days 31-60 [ -1.42 mm ; 95% confidence interval ( CI ) , -2.74 to -0.09 ] , SO2 during days 61-90 ( -1.67 mm ; 95% CI , -2.94 to -0.40 ) , and PM10 during days 91-120 ( -0.78 mm ; 95% CI , -1.49 to -0.08 ) .
+Other results showed a reduction in BPD ( -0.68 mm ; 95% CI , -1.09 to -0.27 ) associated with SO2 during days 0-30 , a reduction in HC ( -1.02 mm ; 95% CI , -1.78 to -0.26 ) associated with PM10 during days 91-120 , and a reduction in FL associated with PM10 during days 0-30 ( -0.28 mm ; 95% CI , -0.48 to -0.08 ) and 91-120 ( -0.23 ; 95% CI , -0.42 to -0.04 ) .
+CONCLUSION We found strong effects of ambient air pollution on ultrasound measures .
+Future research , including more individually detailed data , is needed to confirm our results .

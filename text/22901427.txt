@@ -1,0 +1,9 @@
+Epidemiological studies suggest that fine particulate matter ( PM2.5 ) may increase the risk for developing diabetes mellitus ( DM ) .
+To evaluate possible mechanisms explaining these associations , we investigated if sub-acute ambient-level exposures can impair insulin sensitivity .
+Twenty-five healthy adults living in rural Michigan were transported to an urban location for 5 consecutive days ( exposure-block ) of daily 4- to 5-hour-long ambient air pollution exposures .
+Health outcomes , including the homeostasis model assessment of insulin resistance ( HOMA-IR ) the primary outcome of insulin sensitivity , were measured at 3 time points in relation to exposure-blocks : 7days prior to start ; on the last exposure-day ; and 7days after completion .
+PM2.5 was monitored at the urban exposure site and at community monitors near subjects ' residences .
+We calculated 3 " sub-acute " exposure periods ( approximately 5-days-long ) starting retrospective from the time of health outcome measurements ( PM2.5 ranges : 9.7±3.9 to 11.2±3.9μg·m(-3) ) .
+A 10μg·m(-3) increase in sub-acute PM2.5 exposures was associated with increased HOMA-IR ( +0.7 , 95% confidence interval ( CI ) 0.1 to 1.3 ; p=0.023 ) and reduced heart rate variability ( standard deviation of normal-to-normal intervals [ -13.1ms , 95%CI -25.3 to -0.9 ; p=0.035] ) .
+No alterations in other outcomes ( inflammatory markers , vascular function ) occurred in relation to PM2.5 exposures .
+Our findings suggest that ambient PM2.5 , even at low levels , may reduce metabolic insulin sensitivity supporting the plausibility that air pollution could potentiate the development of DM .

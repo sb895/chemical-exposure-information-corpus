@@ -1,0 +1,9 @@
+The objective of this study was to assess the levels of soil contamination and child exposure in areas next to a primary smelter ( arsenic-copper metallurgical ) located in the community of Morales in San Luis Potosi , Mexico .
+In Morales , 90% of the soil samples studied in this work were above 400 mg/kg of lead , and above 100 mg/kg of arsenic , which are guidelines recommended by the United States Environmental Protection Agency ( EPA ) .
+Bioaccessibility of these metals was studied in vitro in 10 soil samples ; the median values of bioaccessibility obtained in these samples were 46.5% and 32.5% for arsenic and lead .
+Since the concentrations of arsenic and lead in soil were above normal values , and taking into account the bioaccessibility results , exposure to these metals was evaluated in children .
+Regarding lead , children aged 3-6 years had the highest mean blood lead levels ; furthermore , 90% of them had concentrations above 10 microg/dl ( CDC's action level ) .
+Total urinary arsenic was higher in children aged 8-9 yr ; however , the percentage of children with concentrations above 50 microg/g creatinine ( CDC's action level ) or 100 microg/g creatinine ( World Health Organization [ WHO ] action level ) was similar among different age groups .
+Using the EPAs integrated exposure uptake biokinetic model for lead in children ( IEUBK ) , we estimated that 87% of the total lead in blood is obtained from the soil/dust pathway .
+The exposure dose to arsenic , estimated for the children living in Morales using Monte Carlo analysis and the arsenic concentrations found in soil , was above the EPA's reference dose .
+With all these results , it is evident that studies are needed in order to identify adverse health effects in children living in Morales ; nevertheless , it is more important to develop a risk reduction program as soon as possible .

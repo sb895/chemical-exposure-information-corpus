@@ -1,0 +1,9 @@
+Community health studies of traffic-related air pollution have been hampered by the cost and participant burden associated with collecting household-level exposure data .
+The current study utilized a participant-based approach to collect indoor and outdoor air monitoring data from 92 asthmatic and nonasthmatic children ( 9-13 years old ) enrolled in two concurrent health studies in Detroit , Michigan ( Mechanistic Indicators of Childhood Asthma and Detroit Children's Health Study ) conducted by the US Environmental Protection Agency ( EPA ) .
+Passive samplers were shipped to participating households and deployed by parents of study participants to collect indoor and outdoor measurements of nitrogen dioxide ( NO(2) ) , volatile organic compounds ( VOCs ) , and polycyclic aromatic hydrocarbons ( PAHs ) including naphthalene .
+Half of the households deployed VOC and NO(2) samplers for 7 days ; the other half deployed PAH and NO(2) samplers for 2 days and additional PAH samplers for 1 day .
+Approximately 88% of the households that received air sampling kits completed the air monitoring .
+Compliance was significantly higher among participants asked to deploy all samplers for 7 days ( 85% ) compared with participants asked to deploy some samplers for 2 days and others for 1 day ( 56% ) .
+The 7-day homes were also more likely to provide usable data ( 96% ) compared with the 1- and 2-day homes ( 73% ) .
+Compliance and providing usable data did not vary between parents of asthmatic versus nonasthmatic study participants and were not reduced among households deploying duplicate samplers .
+These results suggest that participant-based sampling may be a feasible and cost-effective alternative to traditional exposure assessment approaches that can be applied in future epidemiological and community-based health studies .

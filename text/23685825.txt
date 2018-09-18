@@ -1,0 +1,10 @@
+BACKGROUND Several epidemiological cross-sectional studies have found positive associations between serum concentrations of lipids and perfluorooctanoic acid ( PFOA , or C8 ) .
+A longitudinal study should be less susceptible to biases from uncontrolled confounding or reverse causality .
+METHODS We investigated the association between within-individual changes in serum PFOA and perfluorooctanesulfonic acid ( PFOS ) and changes in serum lipid levels ( low-density lipoprotein [ LDL ] cholesterol , high-density lipoprotein cholesterol , total cholesterol , and triglycerides ) over a 4.4-year period .
+The study population consisted of 560 adults living in parts of Ohio and West Virginia where public drinking water had been contaminated with PFOA .
+They had participated in a cross-sectional study in 2005-2006 , and were followed up in 2010 , by which time exposure to PFOA had been substantially reduced .
+RESULTS Overall serum concentrations of PFOA and PFOS fell by half from initial geometric means of 74.8 and 18.5 ng/mL , respectively , with little corresponding change in LDL cholesterol ( mean increase 1.8% , standard deviation 26.6% ) .
+However , there was a tendency for people with greater declines in serum PFOA or PFOS to have greater LDL decrease .
+For a person whose serum PFOA fell by half , the predicted fall in LDL cholesterol was 3.6% ( 95% confidence interval = 1.5-5.7% ) .
+The association with a decline in PFOS was even stronger , with a 5% decrease in LDL ( 2.5-7.4% ) .
+CONCLUSIONS Our findings from this longitudinal study support previous evidence from cross-sectional studies of positive associations between PFOA and PFOS in serum and LDL cholesterol .

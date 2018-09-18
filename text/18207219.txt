@@ -1,0 +1,9 @@
+The bactericide triclosan has found wide-spread use in e.g. soaps , deodorants and toothpastes .
+Recent in vitro and in vivo studies indicate that triclosan might exert adverse effects in humans .
+Triclosan has previously been shown to be present in human plasma and milk at concentrations that are well correlated to the use of personal care products containing triclosan .
+In this study we investigated the influence of age , gender , and the region of residence on triclosan concentrations in pooled samples of Australian human blood serum .
+The results showed no influence of region of residence on the concentrations of triclosan .
+There was a small but significant influence of age and gender on the serum triclosan concentrations , which were higher in males than in females , and highest in the group of 31-45 year old males and females .
+However , overall there was a lack of pronounced differences in the triclosan concentrations within the dataset , which suggests that the exposure to triclosan among different groups of the Australian population is relatively homogenous .
+A selection of the dataset was compared with previous measurements of triclosan concentrations in human plasma from Sweden , where the use of triclosan is expected to be low due to consumer advisories .
+The triclosan concentrations were a factor of 2 higher in Australian serum than in Swedish plasma .

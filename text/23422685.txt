@@ -1,0 +1,13 @@
+BACKGROUND Several studies have reported negative associations of polychlorinated biphenyls ( PCBs ) , hexachlorobenzene ( HCB ) and mercury ( Hg ) with duration of gestation and fetal growth in fish eating populations .
+Docosahexaenoic acid ( DHA ) from fish , seafood and marine mammal intake has been reported to be positively related with pregnancy duration and fetal growth .
+So far , it remains unclear , however , if the associations of environmental contaminants ( ECs ) with growth are direct or mediated through their relation with the duration of gestation and the degree to which DHA intake during pregnancy attenuates the negative association of ECs with fetal growth .
+OBJECTIVES To investigate direct and indirect associations of in utero exposure to ECs with fetal growth and pregnancy duration while taking into account the possible positive effects of DHA .
+METHODS Pregnant Inuit women ( N=248 ) from Arctic Quebec were recruited and cord blood samples were analyzed for PCBs , HCB , Hg and DHA .
+Anthropometric measurements were assessed at birth .
+Path models were used to evaluate direct and indirect associations .
+RESULTS Cord concentrations of PCB 153 , HCB and Hg were significantly associated with shorter duration of pregnancy ( \u03b2 varying from -0.17 to -0.20 , p<0.05 ) .
+Path models indicated that the associations of PCBs , HCB and Hg with reduced fetal growth ( \u03b2 varying from -0.09 to -0.13 , p<0.05 ) were mediated through their relations with shorter gestation duration .
+Cord DHA was indirectly related to greater growth parameters ( \u03b2 varying from 0.17 to 0.20 , p<0.05 ) through its positive association with gestation duration .
+CONCLUSION Prenatal exposure to ECs was associated with reduced gestation duration , which is a recognized determinant of fetal growth .
+DHA intake during pregnancy appeared to have independent positive association with fetal growth by prolonging gestation .
+Whether these associations are causal remains to be elucidated .

@@ -1,0 +1,11 @@
+BACKGROUND There is concern about possible effects of disinfection by-products on reproductive outcomes .
+The purpose of this study was to evaluate the association between maternal exposure to chlorination by-products and the risk of delivering a small for-gestational-age ( SGA ) neonate .
+METHODS We conducted a population-based case-control study in the Québec City ( Canada ) area .
+Term newborn cases with birth weights <10th percentile ( n = 571 ) were compared with 1925 term controls with birth weights \u226510th percentile .
+Concentrations of trihalomethanes and haloacetic acids in the water-distribution systems of participants were monitored during the study period , and a phone interview on maternal habits was completed within 3 months after childbirth .
+We estimated chlorination by-products ingestion during the last trimester of pregnancy and trihalomethanes doses resulting from inhalation and dermal exposure .
+We evaluated associations between chlorination by-products in utero exposure and SGA by means of unconditional logistic regression with control of potential confounders .
+RESULTS When total trihalomethanes and the 5 regulated haloacetic acids concentrations were divided into quartiles , no clear dose-response relationship was found with SGA .
+However , increased risk was observed when haloacetic concentrations were above the fourth quartile and when either trihalomethanes or haloacetic acids concentrations were above current water standards ( adjusted OR= 1.5 [ 95% confidence interval = 1.1-1.9 ] and 1.4 [ 1.1-1.9 ] , respectively ) .
+Inhalation and dermal absorption of trihalomethanes did not contribute to this risk , but a monotonic dose-response was found with haloacetic acids ingestion .
+CONCLUSION Oral exposure to high levels of chlorination by-products in drinking water could be a risk factor for term SGA .

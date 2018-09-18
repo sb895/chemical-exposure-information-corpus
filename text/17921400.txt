@@ -1,0 +1,11 @@
+BACKGROUND Studies in cell culture and animal models indicate that arsenic exposure induces modifications in DNA methylation , including genome-wide DNA hypomethylation .
+It is not known whether arsenic exposure influences genomic DNA methylation in human populations chronically exposed to arsenic-contaminated drinking water .
+OBJECTIVE The objective of this study was to determine whether arsenic is associated with genomic hypomethylation of peripheral blood leukocyte ( PBL ) DNA in Bangladeshi adults who are chronically exposed to arsenic .
+We also investigated whether arsenic-induced alterations in DNA methylation may be influenced by folate nutritional status .
+DESIGN PBL DNA methylation and concentrations of plasma folate , plasma arsenic , and urinary arsenic were assessed in 294 adults in Araihazar , Bangladesh .
+Genomic PBL DNA methylation was measured by using a [ (3)H]-methyl incorporation assay .
+RESULTS Urinary arsenic , plasma arsenic , and plasma folate were positively associated with the methylation of PBL DNA ( P = 0.009 , 0.03 , and 0.03 , respectively ) .
+Stratification of participants by folate nutritional status [ <9 nmol/L ( n = 190 ) or >or=9 nmol/L ( n = 104) ] showed that the associations between arsenic exposure and methylation of PBL DNA were restricted to persons with folate concentrations >or= 9 nmol/L .
+CONCLUSIONS Contrary to our a priori hypothesis , arsenic exposure was positively associated with genomic PBL DNA methylation in a dose-dependent manner .
+This effect is modified by folate , which suggests that arsenic-induced increases in DNA methylation cannot occur in the absence of adequate folate .
+The underlying mechanisms and physiologic implications of increased genomic DNA methylation are unclear , and they warrant further study .

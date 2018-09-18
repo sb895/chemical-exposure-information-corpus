@@ -1,0 +1,11 @@
+BACKGROUND Lab studies have suggested that ubiquitous phthalate exposures are related to obesity , but relevant epidemiological studies are scarce , especially for children .
+OBJECTIVE To investigate the association of phthalate exposures with body mass index ( BMI ) and waist circumference ( WC ) in Chinese school children .
+METHODS A cross-sectional study was conducted in three primary and three middle schools randomly selected from Changning District of Shanghai City of China in 2011-2012 .
+According to the physical examination data in October , 2011 , 124 normal weight , 53 overweight , and 82 obese students 8-15 years of age were randomly chosen from these schools on the basis of BMI-based age- and sex-specific criterion .
+First morning urine was collected in January , 2012 , and fourteen urine phthalate metabolites ( free plus conjugated ) were determined by ultra-performance liquid chromatography coupled to tandem mass spectrometry .
+Multiple linear regression was used to explore the associations between naturally log-transformed urine phthalate metabolites and BMI or WC .
+RESULTS The urine specific gravity-corrected concentrations of nine urine phthalate metabolites and five molar sums were positively associated with BMI or WC in Chinese school children after adjustment for age and sex .
+However , when other urine phthalate metabolites were included in the models together with age and sex as covariables , most of these significant associations disappeared except for mono ( 2-ethylhexyl ) phthalate ( MEHP ) and monoethyl phthalate ( MEP ) .
+Additionally , some associations showed sex- or age-specific differences .
+CONCLUSIONS Some phthalate exposures were associated with BMI or WC in Chinese school children .
+Given the cross-sectional nature of this study and lack of some important obesity-related covariables , further studies are needed to confirm the associations .

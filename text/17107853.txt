@@ -1,0 +1,11 @@
+BACKGROUND We previously reported widespread insecticide exposure during pregnancy among inner-city women from New York City .
+Here we report on a pilot intervention using integrated pest management ( IPM ) to reduce pest infestations and residential insecticide exposures among pregnant New York City African-American and Latina women ( 25 intervention and 27 control homes ) .
+METHODS The IPM consisted of professional cleaning , sealing of pest entry points , application of low-toxicity pesticides , and education .
+Cockroach infestation levels and 2-week integrated indoor air samples were collected at baseline and one month postintervention .
+The insecticides detected in the indoor air samples were also measured in maternal and umbilical cord blood collected at delivery .
+RESULTS Cockroach infestations decreased significantly ( p = 0.016 ) after the intervention among intervention cases but not control households .
+Among the intervention group , levels of piperonyl butoxide ( a pyrethroid synergist ) were significantly lower in indoor air samples after the intervention ( p = 0.016 ) .
+Insecticides were detected in maternal blood samples collected at delivery from controls but not from the intervention group .
+The difference was significant for trans-permethrin ( p = 0.008 ) and of borderline significance ( p = 0.1 ) for cis-permethrin and 2-isopropoxyphenol ( a propoxur metabolite ) .
+CONCLUSION To our knowledge , this is the first study to use biologic dosimeters of prenatal pesticide exposure for assessing effectiveness of IPM .
+These pilot data suggest that IPM is an effective strategy for reducing pest infestation levels and the internal dose of insecticides during pregnancy .

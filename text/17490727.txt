@@ -1,0 +1,13 @@
+The purpose of the study was to evaluate the environmental and occupational exposure to mercury ( Hg ) , and to examine the various parameters , which contribute to high levels of mercury of Iranian dentists in Tehran .
+One-hundred hair and nail samples were collected from dentists .
+In addition , fifty samples from a control group and twenty-five additional samples from dental nurses were taken for comparison .
+The survey included a structured questionnaire designed to provide information about the parameters that influenced their occupational and environmental exposure to Hg .
+Overall mean concentrations in the hair and nails of the dentists was 2.84+/-0.47 and 3.56+/-0.53 mg/kg dry wt respectively .
+The equivalent values were 0.61+/-0.07 mg/kg in hair and 0.39+/-0.06 mg/kg in nails for the control group .
+In addition , mean concentrations in the dental nurses were 0.92+/-0.23 and 1.77+/-0.51 mg/kg in hair and nails respectively .
+The study showed that use of masks had a significant effect on Hg levels ( p=0.02 for hair and p=0.03 for nails ) and use of gloves only had significant effect on nails Hg ( p=0.05 ) .
+Hg concentrations in nails were significantly lower among the dentists who always used gloves and masks .
+Also , fish consumption and number of patients visited per day had a significant effect on hair ( p=0.02 and p=0.02 respectively ) and nails ( p=0.03 and p=0.02 respectively ) Hg .
+On the other hand , there was a significant effect of age in relation to Hg concentration in the hair and nails of the dentists ( p=0.006 for hair and p=0.01 for nails ) .
+Multiple regressions were computed between hair Hg and the various assessed variables .
+The only positive results were between Hg concentration and masks for the dentists ( p=0.03 ) , and Hg concentration and the number of fish meals for the control group ( p=0.009 ) .

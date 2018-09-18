@@ -1,0 +1,8 @@
+OBJECTIVE Evidence demonstrates that occupational exposures are causally linked with chronic obstructive pulmonary disease ( COPD ) .
+This case-control study evaluated the association between occupational exposures and prevalent COPD based on lifetime occupational history .
+METHODS Cases ( n = 388 ) aged 45 years and older with COPD were compared with controls ( n = 356 ) , frequency matched on age , sex , and cigarette smoking history .
+Odds ratios for exposure to each of eight occupational hazard categories and three composite measures of exposure were computed using logistic regression .
+RESULTSOccupational exposures most strongly associated with COPD were diesel exhaust , irritant gases and vapors , mineral dust , and metal dust .
+The composite measures describing aggregate exposure to gases , vapors , solvents , or sensitizers ( GVSS ) and aggregate exposure to dust , GVSS , or diesel exhaust were also associated with COPD .
+In the small group of never-smokers , a similar pattern was evident .
+CONCLUSION These population-based findings add to the literature linking occupational exposures to COPD .

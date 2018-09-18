@@ -1,0 +1,6 @@
+The concentrations of trihalomethanes ( THMs ) , including chloroform , bromodichloromethane , dibromochloromethane , and bromoform , and haloacetic acids ( HAAs ; monochloroacetic acid , monobromoacetic acid , dibromoacetic acid , dichloroacetic acid , and trichloroacetic acid ) were measured in tap waters passing through water distribution systems of six water treatment plants in Seoul , Korea , and their associated health risks from exposure to THMs through ingestion , dermal contact , and inhalation were estimated using a probabilistic approach .
+The concentration ranges for total THMs and HAA5 were 3.9-53.5 and <LOD-49.5 \u03bcg/L , respectively .
+Among DBPs , chloroform , bromodichloromethane , dichloroacetic acid , and trichloroacetic acid were the most frequently detected .
+Spatial and seasonal variations in concentrations of THMs and HAAs in the six water distribution systems were significant ( P < 0.001).The mean lifetime cancer risks through ingestion , dermal contact , and inhalation during showering ranged as 7.23-10.06 × 10(-6) , 2.19-3.63 × 10(-6) , and 5.22-7.35 × 10(-5) , respectively .
+The major exposure route to THMs was inhalation during showering .
+Sensitivity analysis showed that shower time and shower frequency had a great impact on the lifetime cancer risk by the exposure to THMs in tap water .

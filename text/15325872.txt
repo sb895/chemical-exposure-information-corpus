@@ -1,0 +1,13 @@
+The objective of this study was to determine arsenic exposure via drinking water and to characterize urinary arsenic excretion among adults in the Yaqui Valley , Sonora , Mexico .
+A cross-sectional study was conducted from July 2001 to May 2002 .
+Study subjects were from the Yaqui Valley , Sonora , Mexico , residents of four towns with different arsenic concentrations in their drinking water .
+Arsenic exposure was estimated through water intake over 24 h .
+Arsenic excretion was assessed in the first morning void urine .
+Total arsenic concentrations and their species arsenate ( As V ) , arsenite ( As III ) , monomethyl arsenic ( MMA ) , and dimethyl arsenic ( DMA ) were determined by HPLC/ICP-MS .
+The town of Esperanza with the highest arsenic concentration in water had the highest daily mean intake of arsenic through drinking water , the mean value was 65.5 microg/day .
+Positive correlation between total arsenic intake by drinking water/day and the total arsenic concentration in urine ( r = 0.50 , P < 0.001 ) was found .
+Arsenic excreted in urine ranged from 18.9 to 93.8 microg/L .
+The people from Esperanza had the highest geometric mean value of arsenic in urine , 65.1 microg/L , and it was statistically significantly different from those of the other towns ( P < 0.005 ) .
+DMA was the major arsenic species in urine ( 47.7-67.1% ) , followed by inorganic arsenic ( 16.4-25.4% ) , and MMA ( 7.5-15% ) .
+In comparison with other reports the DMA and MMA distribution was low , 47.7-55.6% and 7.5-9.7% , respectively , in the urine from the Yaqui Valley population ( except the town of Cocorit ) .
+The difference in the proportion of urinary arsenic metabolites in those towns may be due to genetic polymorphisms in the As methylating enzymes of these populations .

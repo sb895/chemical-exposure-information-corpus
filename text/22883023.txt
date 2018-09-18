@@ -1,0 +1,9 @@
+BACKGROUND Arsenic is a natural drinking water contaminant affecting 26 million people in West Bengal , India .
+Chronic arsenic exposure causes cancer , cardiovascular disease , liver disease , neuropathies and ocular diseases .
+The aims of the present study were to assess bioindicators of hepatocellular injury as indicated by the levels of liver enzymes , to determine the auto immune status , as indicated by the amounts of anti-nuclear antibodies ( ANA ) and anti-dsDNA antibodies in their serum , and to predict cardiovascular risk in the arsenic exposed population .
+METHODS Effect of chronic arsenic exposure on liver was determined by liver function tests .
+Autoimmune status was measured by measuring ANA and anti-dsDNA in serum .
+Inflammatory cytokines associated with increased cardiovascular disease risk , IL6 , IL8 and MCP-1 were determined .
+RESULTS Our results indicated that serum levels of bilirubin , alanine transaminase , aspartate transaminase , alkaline phosphatase and ANA were increased in the arsenic exposed population .
+Serum levels of IL6 and IL8 also increased in the arsenic exposed group .
+CONCLUSIONS Chronic arsenic exposure causes liver injury , increases the serum levels of autoimmune markers and imparts increased cardiovascular risk .

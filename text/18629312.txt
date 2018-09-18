@@ -1,0 +1,14 @@
+BACKGROUND Biomarkers of systemic inflammation have been associated with risk of cardiovascular morbidity and mortality .
+OBJECTIVES We aimed to clarify associations of particulate matter ( PM ) air pollution with systemic inflammation using models based on size-fractionated PM mass and markers of primary and secondary aerosols .
+METHODS We followed a panel of 29 nonsmoking elderly subjects with a history of coronary artery disease ( CAD ) living in retirement communities in the Los Angeles , California , air basin .
+Blood plasma biomarkers were measured weekly over 12 weeks and included C-reactive protein ( CRP ) , fibrinogen , tumor necrosis factor-alpha ( TNF-alpha ) and its soluble receptor-II ( sTNF-RII ) , interleukin-6 ( IL-6 ) and its soluble receptor ( IL-6sR ) , fibrin D-dimer , soluble platelet selectin ( sP-selectin ) , soluble vascular cell adhesion molecule-1 ( sVCAM-1 ) , intracellular adhesion molecule-1 ( sICAM-1 ) , and myeloperoxidase ( MPO ) .
+To assess changes in antioxidant capacity , we assayed erythrocyte lysates for glutathione peroxidase-1 ( GPx-1 ) and copper-zinc superoxide dismutase ( Cu,Zn-SOD ) activities .
+We measured indoor and outdoor home daily size-fractionated PM mass , and hourly pollutant gases , total particle number ( PN ) , fine PM elemental carbon ( EC ) and organic carbon ( OC ) , estimated secondary organic aerosol ( SOA ) and primary OC ( OCpri ) from total OC , and black carbon ( BC ) .
+We analyzed data with mixed models controlling for temperature and excluding weeks with infections .
+RESULTS We found significant positive associations for CRP , IL-6 , sTNF-RII , and sP-selectin with outdoor and/or indoor concentrations of quasi-ultrafine PM < or = 0.25 microm in diameter , EC , OCpri , BC , PN , carbon monoxide , and nitrogen dioxide from the current-day and multiday averages .
+We found consistent positive but largely nonsignificant coefficients for TNF-alpha , sVCAM-1 , and sICAM-1 , but not fibrinogen , IL-6sR , or D-dimer .
+We found inverse associations for erythrocyte Cu,Zn-SOD with these pollutants and other PM size fractions ( 0.25-2.5 and 2.5-10 microm ) .
+Inverse associations of GPx-1 and MPO with pollutants were largely nonsignificant .
+Indoor associations were often stronger for estimated indoor EC , OCpri , and PN of outdoor origin than for uncharacterized indoor measurements .
+There was no evidence for positive associations with SOA .
+CONCLUSIONS Results suggest that traffic emission sources of OCpri and quasi-ultrafine particles lead to increased systemic inflammation and platelet activation and decreased antioxidant enzyme activity in elderly people with CAD .

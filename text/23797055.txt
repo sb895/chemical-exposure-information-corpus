@@ -1,0 +1,15 @@
+Increased use of flame-retardants in office furniture may increase exposure to PBDEs in the office environment .
+However , partitioning of PBDEs within the office environment is not well understood .
+Our objectives were to examine relationships between concurrent measures of PBDEs in office air , floor dust , and surface wipes .
+We collected air , dust , and surface wipe samples from 31 offices in Boston , MA .
+Correlation and linear regression were used to evaluate associations between variables .
+Geometric mean ( GM ) concentrations of individual BDE congeners in air and congener specific octanol-air partition coefficients ( Koa ) were used to predict GM concentrations in dust and surface wipes and compared to the measured concentrations .
+GM concentrations of PentaBDEs in office air , dust , and surface wipes were 472pg/m(3) , 2411ng/g , and 77pg/cm(2) , respectively .
+BDE209 was detected in 100% of dust samples ( GM=4202ng/g ) , 93% of surface wipes ( GM=125pg/cm(2) ) , and 39% of air samples .
+PentaBDEs in dust and air were moderately correlated with each other ( r=0.60 , p=0.0003 ) , as well as with PentaBDEs in surface wipes ( r=0.51 , p=0.003 for both dust and air ) .
+BDE209 in dust was correlated with BDE209 in surface wipes ( r=0.69 , p=0.007 ) .
+Building ( three categories ) and PentaBDEs in dust were independent predictors of PentaBDEs in both air and surface wipes , together explaining 50% ( p=0.0009 ) and 48% ( p=0.001 ) of the variation respectively .
+Predicted and measured concentrations of individual BDE congeners were highly correlated in dust ( r=0.98 , p<0.0001 ) and surface wipes ( r=0.94 , p=002 ) .
+BDE209 provided an interesting test of this equilibrium partitioning model as it is a low volatility compound .
+Associations between PentaBDEs in multiple sampling media suggest that collecting dust or surface wipes may be a convenient method of characterizing exposure in the indoor environment .
+The volatility of individual congeners , as well as physical characteristics of the indoor environment , influence relationships between PBDEs in air , dust , and surface wipes .

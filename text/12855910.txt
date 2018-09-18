@@ -1,0 +1,7 @@
+This pilot study examined the relationships of organochlorine pesticides ( OCPs ) and polychlorinated biphenyls ( PCBs ) with prostate cancer .
+Ninety-nine controls were frequency matched by age in 5-year increments to 58 prostate cancer patients .
+Thirty PCBs and 18 OCPs were measured in serum by gas chromatography .
+Multiple logistic regression was used to assess the magnitude of association .
+Seven organochlorines , dieldrin , p,p'-DDE , trans-nonachlor , oxychlordane , heptachlor epoxide , and PCBs 153 and 180 were detected in at least 20% of all study participants .
+Adjusting for age , body mass index , and a history of prostatitis , oxychlordane and PCB 180 were associated with an increased risk of prostate cancer .
+This study suggests that long-term , low-dose exposure to specific OCPs and PCBs in the general population may contribute to an increased risk of prostate cancer and supports further investigation in this area .

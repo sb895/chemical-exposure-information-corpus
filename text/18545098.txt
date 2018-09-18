@@ -1,0 +1,7 @@
+OBJECTIVE To measure manicurists ' exposure to dibutyl phthalate ( DBP ) at work and to determine whether workplace characteristics influence this exposure .
+DBP is a reproductive and developmental toxicant in rats and is used in nail polish to hold color and prevent chipping .
+METHODS Pre- and postshift spot urine samples were collected from 40 manicurists .
+Linear regression compared the relationship between the log of the cross-shift differences in urinary phthalate monoester metabolite concentrations and use of workplace exposure control methods .
+RESULTS There was a statistically significant cross-shift increase of 17.4 ng/mL in the urinary concentration of mono-n-butyl phthalate , the major metabolite of DBP .
+Use of gloves reduced mono-n-butyl phthalate concentrations by 15.1 ng/mL below the preshift concentration compared with a 20.5 ng/mL increase if gloves were not worn .
+CONCLUSIONS Manicurists are occupationally exposed to DBP and glove use may minimize this exposure .

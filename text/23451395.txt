@@ -1,0 +1,9 @@
+A method has been developed for the determination of arsenic ( As ) in pharmaceutical and scalp hair samples of kidney failure patients by cloud point extraction ( CPE ) .
+The scalp hair samples were subjected to microwave-assisted digestion in nitric acid-hydrogen peroxide ( 2 + 1 , v/v ) .
+Then , dialysate and digested scalp hair solutions were preconcentrated by CPE using pyronine B as a complexing agent .
+The resulting complex was entrapped in nonionic surfactant ( Triton X-114 ) prior to its determination by electrothermal atomic absorption spectroscopy .
+The validity of the CPE method for As was checked by analysis of a certified reference material of human hair and a standard addition method for dialysate solution .
+The chemical variables affecting the analytical performance of the CPE methods were studied and optimized .
+After optimization of the complexation and extraction conditions , a preconcentration factor of 52 was obtained for As in 10 mL of dialysate solution and acid digested samples of scalp hair .
+Under the optimum experimental conditions , the LOD and LOQ of As for the preconcentration of 10 mL of solution were 0.022 and 0.073 microg/L , respectively .
+The level of As in scalp hair samples of kidney failure patients was higher than in healthy controls .

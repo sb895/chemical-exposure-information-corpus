@@ -1,0 +1,10 @@
+Exposure to traffic-related pollutants poses a serious health threat to residents of major urban centers around the world .
+In El Paso , Texas , this problem is exacerbated by the region's arid weather , frequent temperature inversions , heavy border traffic , and an aged , poorly maintained vehicle fleet .
+The impact of exposure to traffic pollution , particularly on children with asthma , is poorly understood .
+Tracking the environmental health burden related to traffic pollution in El Paso is difficult , especially within school microenvironments , because of the lack of sensitive environmental health indicator data .
+The Asthma Control Questionnaire ( ACQ ) is a survey tool for the measurement of overall asthma control , yet has not previously been considered as an outcome in air pollution health effect research .
+We conducted a repeated measure panel study to examine weekly associations between ACQ scores and traffic- and non-traffic air pollutants among asthmatic schoolchildren in El Paso .
+In the main one- and two-pollutant epidemiologic models , we found non-significant , albeit suggestive , positive associations between ACQ scores and respirable particulate matter ( PM10 ) , coarse particulate matter ( PM10-2.5 ) , fine particulate matter ( PM2.5 ) , black carbon ( BC ) , nitrogen dioxide ( NO2 ) , benzene , toluene , and ozone ( O3 ) .
+Notably , associations were stronger and significant for some subgroups , in particular among subjects taking daily inhaled corticosteroids .
+This pattern may indicate heightened immune system response in more severe asthmatics , those with worse asthma " control " and higher ACQ scores at baseline .
+If the ACQ is appropriately used in the context of air pollution studies , it could reflect clinically measurable and biologically relevant changes in lung function and asthma symptoms that result from poor air quality and may increase our understanding of how air pollution influences asthma exacerbation .

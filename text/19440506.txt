@@ -1,0 +1,10 @@
+BACKGROUND Concerns have recently been raised regarding the safety of potential human exposure to bisphenol A ( BPA ) , an industrial chemical found in some polycarbonate plastics and epoxy resins .
+Of particular interest is the exposure of young children to BPA via food stored in BPA-containing packaging .
+OBJECTIVES In this study we assessed the age dependence of the toxicokinetics of BPA and its glucuronidated metabolite , BPA-Glu , using a coupled BPA-BPA-Glu physiologically based toxicokinetic ( PBTK ) model .
+METHODS Using information gathered from toxicokinetic studies in adults , we built a PBTK model .
+We then scaled the model to children < 2 years of age based on the age dependence of physiologic parameters relevant for absorption , distribution , metabolism , and excretion .
+RESULTS We estimated the average steady-state BPA plasma concentration in newborns to be 11 times greater than that in adults when given the same weight-normalized dose .
+Because of the rapid development of the glucuronidation process , this ratio dropped to 2 by 3 months of age .
+Simulation of typical feeding exposures , as estimated by regulatory authorities , showed a 5-fold greater steady-state BPA plasma concentration in 3- and 6-month-olds compared with adults , reflecting both a reduced capacity for BPA metabolism and a greater weight-normalized BPA exposure .
+Because of uncertainty in defining the hepatic BPA intrinsic clearance in adults , these values represent preliminary estimates .
+CONCLUSIONS Simulations of the differential BPA dosimetry between adults and young children point to the need for more sensitive analytical methods for BPA to define , with greater certainty , the adult hepatic BPA intrinsic clearance , as well as a need for external exposure data in young children .

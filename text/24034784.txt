@@ -1,0 +1,14 @@
+Community and environmental exposure to volatile organic compounds ( VOCs ) has been associated with a number of emission sources and activities , e.g. , environmental tobacco smoke and pumping gasoline .
+Such factors have been identified from mostly small studies with relatively limited information regarding influences on VOC levels .
+This study uses data from the Relationship of Indoor Outdoor and Personal Air ( RIOPA ) study to investigate environmental , individual and social determinants of VOC concentrations .
+RIOPA included outdoor , indoor and personal measurements of 18 VOCs from 310 non-smoking households and adults in three cities and two seasons , and collected a wide range of information pertaining to participants , family members , households , and neighborhoods .
+Exposure determinants were identified using stepwise regressions and linear mixed-effect models .
+Most VOC exposure ( 66 to 78% of the total exposure , depending on VOC ) occurred indoors , and outdoor VOC sources accounted for 5 ( d-limonene ) to 81% ( carbon tetrachloride ) of the total exposure .
+Personal exposure and indoor measurements had similar determinants , which depended on the VOC .
+Gasoline-related VOCs ( e.g. , benzene , methyl tertiary butyl ether ) were associated with city , residences with attached garages , self-pumping of gas , wind speed , and house air exchange rate ( AER ) .
+Odorant and cleaning-related VOCs ( e.g. , 1,4-dichlorobenzene and chloroform ) also were associated with city and AER , and with house size and family members showering .
+Dry-cleaning and industry-related VOCs ( e.g. , tetrachloroethylene and trichloroethylene ) were associated with city , residence water supply type , and dry-cleaner visits .
+These and other relationships were significant , explained from 10 to 40% of the variation , and are consistent with known emission sources and the literature .
+Outdoor concentrations had only two common determinants : city and wind speed .
+Overall , personal exposure was dominated by the home setting , although a large fraction of VOC concentrations were due to outdoor sources .
+City , personal activities , household characteristics and meteorology were significant determinants .

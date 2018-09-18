@@ -1,0 +1,9 @@
+Commercial fishers are exposed to unburned hydrocarbon vapors and combustion products present in the emissions from their boat engines .
+The objective of this study was to measure personal exposure to benzene as a marker of fuel exposure , and to predict exposure levels across categories of carbureted two-stroke , four-stroke and diesel engines .
+A self-monitoring approach , employing passive monitors , was used to obtain measurements of personal exposure to benzene over time .
+Mixed-effect linear regression models were used to predict exposure levels , identify significant effects and determine restricted maximum likelihood estimates for within- and between-person variance components .
+Significant fixed effects for engine type and refueling a car or truck were identified .
+After controlling for refueling , predicted benzene exposure levels to fishers on boats equipped with two-stroke , four-stroke and diesel engines were 58.4 , 38.9 and 15.7 microg/m3 , respectively .
+The logged within-person variance component was 1.43 , larger than the between-person variance component of 1.13 , indicating that the total variation may be attributable to monitor placement , environmental conditions and other factors that change over time as well as differences between individual work practices .
+The health consequences of exposure to marine engine emissions are not known .
+The predicted levels are well below those at which health effects have been attributed , however .

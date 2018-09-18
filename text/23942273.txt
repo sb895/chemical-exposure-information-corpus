@@ -1,0 +1,12 @@
+BACKGROUND Maternal urinary biomarkers are often used to assess fetal exposure to phenols and their precursors .
+Their effectiveness as a measure of exposure in epidemiological studies depends on their variability during pregnancy and their ability to accurately predict fetal exposure .
+OBJECTIVES We assessed the relationship between urinary and amniotic fluid concentrations of nine environmental phenols , and the reproducibility of urinary concentrations , among pregnant women .
+METHODS Seventy-one women referred for amniocentesis were included .
+Maternal urine was collected at the time of the amniocentesis appointment and on two subsequent occasions .
+Urine and amniotic fluid were analyzed for 2,4- and 2,5-dichlorophenols , bisphenol A , benzophenone-3 , triclosan , and methyl- , ethyl- , propyl- , and butylparabens using online solid phase extraction-high performance liquid chromatography-isotope dilution tandem mass spectrometry .
+RESULTS Only benzophenone-3 and propylparaben were detectable in more than half of the amniotic fluid samples ; for these phenols , concentrations in amniotic fluid and maternal urine collected on the same day were positively correlated ( \u03c1 = 0.53 and 0.32 , respectively ) .
+Other phenols were detected infrequently in amniotic fluid ( e.g. , bisphenol A was detected in only two samples ) .
+The intraclass correlation coefficients ( ICCs ) of urinary concentrations in samples from individual women ranged from 0.48 and 0.62 for all phenols except bisphenol A ( ICC = 0.11 ) .
+CONCLUSION Amniotic fluid detection frequencies for most phenols were low .
+The reproducibility of urine measures was poor for bisphenol A , but good for the other phenols .
+Although a single sample may provide a reasonable estimate of exposure for some phenols , collecting multiple urine samples during pregnancy is an option to reduce exposure measurement error in studies regarding the effects of phenol prenatal exposure on health .

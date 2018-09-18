@@ -1,0 +1,12 @@
+BACKGROUND The current , continuous National Health and Nutrition Examination Survey ( NHANES ) has included blood mercury ( BHg ) and fish/shellfish consumption since it began in 1999 .
+NHANES 1999-2004 data form the basis for these analyses .
+OBJECTIVES This study was designed to determine BHg distributions within U.S. Census regions and within coastal and noncoastal areas among women of childbearing age , their association with patterns of fish consumption , and changes from 1999 through 2004 .
+METHODS We performed univariate and bivariate analyses to determine the distribution of BHg and fish consumption in the population and to investigate differences by geography , race/ethnicity , and income .
+We used multivariate analysis ( regression ) to determine the strongest predictors of BHg among geography , demographic factors , and fish consumption .
+RESULTS Elevated BHg occurred more commonly among women of childbearing age living in coastal areas of the United States ( approximately one in six women ) .
+Regionally , exposures differ across the United States : Northeast > South and West > Midwest .
+Asian women and women with higher income ate more fish and had higher BHg .
+Time-trend analyses identified reduced BHg and reduced intake of Hg in the upper percentiles without an overall reduction of fish consumption .
+CONCLUSIONS BHg is associated with income , ethnicity , residence ( census region and coastal proximity ) .
+From 1999 through 2004 , BHg decreased without a concomitant decrease in fish consumption .
+Data are consistent with a shift over this time period in fish species in women's diets .

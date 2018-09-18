@@ -1,0 +1,17 @@
+The chemical composition of persistent organic pollutants ( POPs ) in the environment is not uniform throughout the world , and these contaminants contain many structurally different lipophilic compounds .
+In a well-defined study cohort in the Slovak Republic , the POP chemicals present in the peripheral blood of exposed children were chemically analyzed .
+The chemical analysis data revealed that the relative concentration and profile of structurally different organic pollutants , including polychlorinated biphenyls ( PCBs ) , 2,2'-bis(4-chlorophenyl)-1,1-dichloroethylene ( p,p'-DDE ) , 2,2'-bis(4-chlorophenyl)-1,1,1-trichloro-ethane ( p,p'-DDT ) , hexachlorobenzene ( HCB ) and \u03b2-hexachlorocyclohexane ( \u03b2-HCH ) , may vary from individual to individual , even within the same exposure area .
+These chemicals can be broadly classified into two groups .
+The first group , the PCB congeners , primarily originated from industrial compounds and their byproducts .
+The second group of compounds originated from or was commonly used in the agricultural sector ( e.g. , DDT , HCB ) .
+The objective of this study was to examine the effects of the two POP exposure profiles on gene expression .
+For the study population , we selected pre-pubertal girls ( mean age of 46.2±1.4 months ) with high POP concentrations in their blood ( >75% tile of total POP ) and classified them in the high ' PCB ' group when the total PCB concentration was significantly higher than the total concentration of other POP components and in the ' Other Than PCB ' ( OTP ) group , when the total PCB concentration was significantly lower than the concentration of the other major POP constituents .
+A matched control group of girls ( <25% tile of total POP ) was selected for comparison purpose ( n=5 per group ) .
+Our aims were to determine whether there were any common effects of high POP exposure at a toxicogenomic level and to investigate how exposure may affect physiological functions of the children in two different exposure scenarios .
+Global gene expression analysis using a microarray ( Affymetrix Gene Chip Human genome U133 Plus 2.0 Array ) platform was conducted on the total RNA of peripheral blood mononuclear cells from the girls .
+The results were analyzed by Partek GS , Louis , MI , which identified twelve genes ( ATAD2B , BIVM , CD96 , CXorf39 , CYTH1 ETNK1 , FAM13A , HIRA , INO80B , ODG1 , RAD23B , and TSGA14 ) and two unidentified probe sets , as regulated differentially in both the PCB and OTP groups against the control group .
+The qRT-PCR method was used to validate the microarray results .
+The Ingenuity Pathway Analysis ( IPA ) software package identified the possible molecular impairments and disease risks associated with each gene set .
+Connective tissue disorders , genetic disorders , skeletal muscular disorders and neurological diseases were associated with the 12 common genes .
+The data therefore identified the potential molecular effects of POP exposure on a genomic level .
+This report underscores the importance of further study to validate the results in a random population and to evaluate the use of the identified genes as biomarkers for POP exposure .

@@ -1,0 +1,1 @@
+<exposure routes--inhalation--< < < <Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--effect marker--physiological parameter<Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--exposure biomarker--hair nail--<exposure routes--inhalation--< 

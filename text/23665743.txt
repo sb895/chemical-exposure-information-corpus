@@ -1,0 +1,12 @@
+BACKGROUND Ambient air pollution may have neurotoxic effects in children .
+Data examining associations between traffic-related air pollution and attention domains remain sparse .
+OBJECTIVES We examined associations between black carbon ( BC ) , a marker of traffic particles , and attention measures ascertained at 7-14 years of age among 174 children in a birth cohort based in the Boston , Massachusetts , area .
+METHODS We estimated BC levels using a validated spatial-temporal land-use regression model based on residence during children's lifetime .
+Children completed the Conner's Continuous Performance Test ( CPT ) measuring omission errors , commission errors , and hit reaction time ( HRT ) , with higher scores indicating increased errors or slower reaction time .
+Multivariable-adjusted linear regression analyses were used to examine associations between BC and each attention outcome .
+RESULTS Children were primarily Hispanic ( 56% ) and Caucasian ( 41% ) ; 53% were boys .
+We found a positive association between higher BC levels with increased commission errors and slower HRT , adjusting for child IQ , age , sex , blood lead level , maternal education , pre- and postnatal tobacco smoke exposure , and community-level social stress .
+Notably , the association was weaker , though still positive , for the highest BC quartile relative to the middle two quartiles .
+Sex-stratified analysis demonstrated statistically significant associations between BC and both commission errors and HRT in boys , but BC was not significantly associated with any of the CPT outcomes in girls .
+CONCLUSIONS In this population of urban children , we found associations between BC exposure and higher commission errors and slower reaction time .
+These associations were overall more apparent in boys than girls .

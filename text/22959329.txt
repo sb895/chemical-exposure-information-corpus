@@ -1,0 +1,8 @@
+BACKGROUND Epidemiological studies of the health effects of air pollution have traditionally relied upon ground-monitoring stations to measure ambient concentrations .
+Satellite derived air pollution measures offer the advantage of providing global coverage .
+OBJECTIVE To undertake a global assessment of mortality associated with long-term exposure to fine particulate air pollution using remote sensing data .
+METHODS Global PM(2.5) exposure levels were derived from the MODIS and MISR satellite instruments .
+Relative risks and attributable fractions of mortality were modeled using previously developed concentration-response functions for the association between PM(2.5) and mortality .
+RESULTS The global fraction of adult mortality attributable to the anthropogenic component of PM(2.5) ( 95% CI ) was 8.0% ( 5.3-10.5 ) for cardiopulmonary disease , 12.8% ( 5.9-18.5 ) for lung cancer , and 9.4% ( 6.6-11.8 ) for ischemic heart disease .
+CONCLUSION This study demonstrates the feasibility of using satellite derived pollution concentrations in assessing the population health impacts of air pollution at the global scale .
+This approach leads to global estimates of mortality attributable to PM(2.5) that are greater than those based on fixed site ground-level measures of urban PM(2.5) , but more similar to estimates based on global chemical transport model simulations of anthropogenic PM(2.5) .

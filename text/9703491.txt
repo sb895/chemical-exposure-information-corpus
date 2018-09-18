@@ -1,0 +1,9 @@
+Ingestion of arsenic-contaminated drinking water is associated with an increased risk of several cancers , including skin and bladder malignancies ; but it is not yet clear whether such adverse effects are present at levels to which the U.S. population is exposed .
+In New Hampshire , detectable levels of arsenic have been reported in drinking water supplies throughout the state .
+Therefore , we have begun a population-based epidemiologic case-control study in which residents of New Hampshire diagnosed with primary squamous cell ( n = 900 ) and basal cell ( n = 1200 ) skin cancers are being selected from a special statewide skin cancer incidence survey ; patients diagnosed with primary bladder cancers ( n = 450 ) are being identified through the New Hampshire State Cancer Registry .
+Exposure histories of these patients will be compared to a control group of individuals randomly selected from population lists ( n = 1200 ) .
+Along with a detailed personal interview , arsenic and other trace elements are being measured in toenail clipping samples using instrumental neutron activation analysis .
+Household water samples are being tested on selected participants using a hydride generation technique with high-resolution inductively coupled plasma mass spectrometry .
+In the first 793 households tested arsenic concentrations ranged from undetectable ( 0.01 microgram/l ) to 180 microgram/l .
+Over 10% of the private wells contained levels above 10 microgram/l and 2.5% were above 50 microgram/l .
+Based on our projected sample size , we expect at least 80% power to detect a 2-fold risk of basal cell or squamous cell skin cancer or bladder cancer among individuals with the highest 5% toenail concentrations of arsenic .

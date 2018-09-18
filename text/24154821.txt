@@ -1,0 +1,10 @@
+Inorganic arsenic is methylated in the body by arsenic ( III ) methyltransferase ( AS3MT ) .
+Arsenic methylation is thought to play a role in arsenic-related epigenetic phenomena , including aberrant DNA and histone methylation .
+However , it is unclear whether the promoter of the AS3MT gene , which codes for AS3MT , is differentially methylated as a function of arsenic exposure .
+In this study , we evaluated AS3MT promoter methylation according to exposure , assessed by urinary arsenic excretion in a stratified random sample of 48 participants from the Strong Heart Study who had urine arsenic measured at baseline and DNA available from 1989 to 1991 and 1998-1999 .
+For this study , all data are from the 1989-1991 visit .
+We measured AS3MT promoter methylation at its 48 CpG loci by bisulphite sequencing .
+We compared mean % methylation at each CpG locus by arsenic exposure group using linear regression adjusted for study centre , age and sex .
+A hypomethylated region in the AS3MT promoter was associated with higher arsenic exposure .
+In vitro , arsenic induced AS3MT promoter hypomethylation , and it increased AS3MT expression in human peripheral blood mononuclear cells .
+These findings may suggest that arsenic exposure influences the epigenetic regulation of a major arsenic metabolism gene .

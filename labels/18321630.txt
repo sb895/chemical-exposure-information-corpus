@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--mothers milk AND exposure routes--oral intake--food--< <  Biomonitoring--exposure biomarker--mothers milk< <  Biomonitoring--effect marker--physiological parameter<exposure routes--oral intake--food--<exposure routes--oral intake--food--<exposure routes--oral intake--food--< 

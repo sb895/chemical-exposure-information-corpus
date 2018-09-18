@@ -1,0 +1,6 @@
+The levels of BDE-28 , BDE-47 , BDE-99 , BDE-100 , BDE-153 , BDE-154 , BDE-183 , and BDE-209 were determined in the dust sampled from 60 automobiles that were available for resale at U.S. dealerships .
+The dominant congener in automobile dust was BDE-209 comprising 95% of the total PBDE levels with a median level of 48.1 microg g(-1) .
+Statistical analysis of the vehicle attributes indicates that the BDE-209 levels are different ( p<0.05 ) with respect to groupings by vehicle model year , vehicle manufacturer , and the country of manufacture .
+Vehicle dust samples contained the characteristic profile of the PBDE congeners that comprise the PentaBDE formulation .
+While DecaBDE use is banned in Maine and Washington and is targeted for restriction in the near future by six U.S. states , vehicles and airplanes are exempt from the ban .
+It is anticipated that the human exposure potential to PBDEs from automobile dust ingestion will continue for an indefinite future period in the U.S. population .

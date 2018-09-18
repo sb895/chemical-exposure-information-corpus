@@ -1,0 +1,9 @@
+Phthalates are suspected of having adverse effects on androgen-regulated reproductive development in animals and may be toxic for human sperm .
+The purposes of our study were to investigate the general exposure of a Chinese reproductive age cohort to these ubiquitous pollutants and to assess their potential effect on semen quality .
+Six phthalate metabolites , monomethyl phthalate ( MMP ) , monoethyl phthalate ( MEP ) , monobutyl phthalate ( MBP ) , monobenzyl phthalate ( MBzP ) , mono-2-ethylhexyl phthalate ( MEHP ) , and mono-2-ethyl-5-oxohexyl phthalate ( MEOHP ) were measured in spot urines of 150 individuals recruited from a Chongqing , China , reproductive institute .
+The questionnaire and clinical data were evaluated , and the correlations of phthalate exposure and semen qualities like semen volume , sperm concentration , motility and sperm motion parameters , were determined by multiple logistic regression analysis .
+The creatinine adjusted average concentrations for MMP , MEP , MBP , MBzP , MEHP and MEOHP were 41.3 , 300 , 41.0 , 0.78 , 2.99 and 3.90 \u03bcg/g , respectively .
+After adjustment for age , body mass index ( BMI ) , abstinence , smoking , drinking , and education , there was a borderline-significant dose-response relationship between MBP and sperm concentration , with odd ratios ( ORs ) 1.0 , 6.8 and 12.0 for increasing exposure tertiles ( p=0.05 ) .
+Although the dose-response relationships for MMP and MEP versus sperm concentration were not significant , a significant positive correlation between MEP and straight-line velocity of sperm motion was observed .
+The present data may imply some effects of phthalate exposure on semen .
+However , due to the small sample size , our finding needs to be confirmed on a larger population .

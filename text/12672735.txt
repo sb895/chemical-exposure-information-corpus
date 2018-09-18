@@ -1,0 +1,14 @@
+CONTEXT Humans are exposed to methylmercury , a well-established neurotoxin , through fish consumption .
+The fetus is most sensitive to the adverse effects of exposure .
+The extent of exposure to methylmercury in US women of reproductive age is not known .
+OBJECTIVE To describe the distribution of blood mercury levels in US children and women of childbearing age and the association with sociodemographic characteristics and fish consumption .
+DESIGN AND SETTING The 1999-2000 data from the National Health and Nutrition Examination Survey , a cross-sectional survey of the noninstitutionalized US population .
+PARTICIPANTS In 1999-2000 , 1250 children aged 1 to 5 years and 2314 women aged 16 to 49 years were selected to participate in the survey .
+Household interviews , physical examinations , and blood mercury levels assessments were performed on 705 children ( 56% response rate ) and 1709 women ( 74% response rate ) .
+MAIN OUTCOME MEASURE Blood concentration of total mercury .
+RESULTS Blood mercury levels were approximately 3-fold higher in women compared with children .
+The geometric mean concentration of total blood mercury was 0.34 micro g/L ( 95% confidence interval [ CI ] , 0.30-0.39 microg/L ) in children and 1.02 microg/L ( 95% CI , 0.85-1.20 microg/L ) in women .
+Geometric mean mercury levels were almost 4-fold higher among women who ate 3 or more servings of fish in the past 30 days compared with women who ate no fish in that period ( 1.94 microg/L vs 0.51 microg/L ; P<.001 ) .
+CONCLUSIONS Measures of mercury exposure in women of childbearing age and young children generally fall below levels of concern .
+However , approximately 8% of women had concentrations higher than the US Environmental Protection Agency's recommended reference dose ( 5.8 microg/L ) , below which exposures are considered to be without adverse effects .
+Women who are pregnant or who intend to become pregnant should follow federal and state advisories on consumption of fish .

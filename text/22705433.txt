@@ -1,0 +1,10 @@
+Iron deficiency was absent in a recent population assessment of rural Bangladeshi women exhibiting anemia ( 57% ) , suggesting other causes of low hemoglobin .
+We assessed the relative influence on anemia of thalassemia , groundwater arsenic and iron , and diet among women of reproductive age living in rural Bangladesh .
+Women ( n=207 ) sampled from a previous antenatal nutrient intervention trial in rural Bangladesh were visited during two seasons in 2008 .
+Collected data included 7-day dietary and 24-hour drinking water intake recalls , 7-day morbidity recall , anthropometry , and drinking water arsenic and iron concentrations .
+Capillary blood was analyzed for iron ( plasma ferritin , soluble transferrin receptor ) , inflammation ( C-reactive protein ) and thalassemia ( \u03b2 thalassemia and Hb E ) status .
+In stratified , adjusted analyses , only parity was associated with anemia ( odds ratio , OR ( 95% CI ) : 11.34 ( 1.94 , 66.15) ) for those with thalassemia ( 28% prevalent ) .
+In contrast , groundwater iron intake ( >30 mg/d , 0.48 ( 0.24 , 0.96) ) and wasting ( 2.32 ( 1.17 , 4.62) ) were associated with anemia among those without thalassemia .
+Elevated groundwater arsenic ( >50 \u03bcg/L , 12% of tubewells ) and a diverse diet were unrelated to anemia regardless of thalassemia diagnosis ( p>0.70 and >0.47 , respectively ) .
+Among women in this typical rural Bangladeshi area , the prevalence of thalassemia was high and , unlike iron deficiency which was absent most likely due to high iron intake from groundwater , contributed to the risk of anemia .
+In such settings , the influence of environmental sources of iron and the role of thalassemias in contributing to anemia at the population level may be underappreciated .

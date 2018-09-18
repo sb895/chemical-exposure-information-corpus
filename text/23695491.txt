@@ -1,0 +1,12 @@
+Few studies have measured the effect of short-term exposure to industrial emissions on the respiratory health of children .
+Here we estimate the risk of hospitalization for asthma and bronchiolitis in young children associated with their recent exposure to emissions from an aluminum smelter .
+We used a case-crossover design to assess the risk of hospitalization , February 1999-December 2008 , in relation to short-term variation in levels of exposure among children 0-4 years old living less than 7.5 km from the smelter .
+The percentage of hours per day that the residence of a hospitalized child was in the shadow of winds crossing the smelter was used to estimate the effect of wind-borne emissions on case and crossover days .
+Community-wide pollutant exposure was estimated through daily mean and daily maximum SO2 and PM2.5 concentrations measured at a fixed monitoring site near the smelter .
+Odds ratios ( OR ) were estimated using conditional logistic regressions .
+The risk of same-day hospitalization for asthma or bronchiolitis increased with the percentage of hours in a day that a child's residence was downwind of the smelter .
+For children aged 2-4 years , the OR was 1.27 ( 95% CI=1.03-1.56 ; n=103 hospitalizations ) , for an interquartile range ( IQR ) of 21% of hours being downwind .
+In this age group , the OR with PM2.5 daily mean levels was slightly smaller than with the hours downwind ( OR : 1.22 for an IQR of 15.7 \u03bcg/m(3) , 95% CI=1.03-1.44 ; n=94 hospitalizations ) .
+Trends were observed between hospitalizations and levels of SO2 for children 2-4 years old .
+Increasing short-term exposure to emissions from a Quebec aluminum smelter was associated with an increased risk of hospitalization for asthma and bronchiolitis in young children who live nearby .
+Estimating exposure through records of wind direction allows for the integration of exposure to all pollutants carried from the smelter stack .

@@ -1,0 +1,9 @@
+The organosilicon compounds octamethylcyclotetrasiloxane ( D4 ) , decamethylcyclopentasiloxane ( D5 ) , and dodecamethylcyclohexasiloxane ( D6 ) are high production volume chemicals that are widely used in household goods and personal care products .
+Due to their prevalence and chemical characteristics , cyclic siloxanes are being assessed as possible persistent organic pollutants .
+D4 , D5 , and D6 were measured in indoor and outdoor air to quantify and compare siloxane concentrations and compound ratios depending on location type .
+Indoor air samples had a median concentration of 2200 ng m(-3) for the sum of D4 , D5 , and D6 .
+Outdoor sampling locations included downtown Chicago , Cedar Rapids , IA , and West Branch , IA , and had median sum siloxane levels of 280 , 73 , and 29 ng m(-3) respectively .
+A diurnal trend is apparent in the samples taken in downtown Chicago .
+Nighttime samples had a median 2.7 times higher on average than daytime samples , which is due , in part , to the fluctuations of the planetary boundary layer .
+D5 was the dominant siloxane in both indoor and outdoor air .
+Ratios of D5 to D4 averaged 91 and 3.2 for indoor and outdoor air respectively .

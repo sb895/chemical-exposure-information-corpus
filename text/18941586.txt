@@ -1,0 +1,13 @@
+BACKGROUND Hexachlorobenzene ( HCB ) and other organochlorines induce porphyria cutanea tarda ( PCT ) in animal studies .
+Evidence in humans , however , is contradictory .
+In neonates and adults from a population historically highly exposed to HCB ( Flix , Catalonia , Spain ) , no relation with PCT or with porphyrin excretion was found .
+OBJECTIVES We aimed to analyze the association between urinary porphyrin excretion and exposure to HCB and other organochlorinated compounds in children 4 years of age .
+METHODS Our birth cohort included all newborns from Flix and the five surrounding towns ( where no airborne pollution occurred ) .
+Among the 68 children with porphyrins we measured in cord blood , 52 children 4 years of age provided blood to measure organochlorine compounds , hair for methylmercury , and urine for porphyrin excretion pattern .
+RESULTS Quantitative porphyrin excretion was within the normal values .
+However , total porphyrins , coproporphyrin I ( CPI ) , and coproporphyrin III ( CPIII ) adjusted to creatinine excretion increased with increasing levels of HCB , 1,1-dichloro-2,2-bis(4-chlorophenyl)ethylene ( p,p'-DDE ) , 1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane ( p,p'-DDT ) , and polychlorinated biphenyl congener 153 ( PCB-153 ) .
+We found no association with methylmercury .
+When we fitted multiple pollutant models , p,p'-DDE had the strongest association .
+We found these associations in children from both Flix and other towns , and they were independent of breast-feeding and of organochlorine and porphyrin levels at birth .
+CONCLUSION HCB at current levels did not induce porphyria or increase uroporphyrins .
+However , the increase of urinary coproporphyrins suggests an incipient toxic effect of the organochlorines , especially for p,p'-DDE , on the hepatic heme-synthesis pathway that differs from the major effects seen in PCT .

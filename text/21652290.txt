@@ -1,0 +1,12 @@
+BACKGROUND A growing body of evidence indicates a relationship between household indoor air pollution from cooking fires and adverse neonatal outcomes , such as low birth weight ( LBW ) , in resource-poor countries .
+OBJECTIVE We examined the effect of reduced wood smoke exposure in pregnancy on LBW of Guatemalan infants in RESPIRE ( Randomized Exposure Study of Pollution Indoors and Respiratory Effects ) .
+METHODS Pregnant women ( n = 266 ) either received a chimney stove ( intervention ) or continued to cook over an open fire ( control ) .
+Between October 2002 and December 2004 we weighed 174 eligible infants ( 69 to mothers who used a chimney stove and 105 to mothers who used an open fire during pregnancy ) within 48 hr of birth .
+Multivariate linear regression and adjusted odds ratios ( ORs ) were used to estimate differences in birth weight and LBW ( < 2,500 g ) associated with chimney-stove versus open-fire use during pregnancy .
+RESULTS Pregnant women using chimney stoves had a 39% reduction in mean exposure to carbon monoxide compared with those using open fires .
+LBW prevalence was high at 22.4% .
+On average , infants born to mothers who used a stove weighed 89 g more [ 95% confidence interval ( CI ) , -27 to 204 g ] than infants whose mothers used open fires after adjusting for maternal height , diastolic blood pressure , gravidity , and season of birth .
+The adjusted OR for LBW was 0.74 ( 95% CI , 0.33-1.66 ) among infants of stove users compared with open-fire users .
+Average birth weight was 296 g higher ( 95% CI , 109-482 g ) in infants born during the cold season ( after harvest ) than in other infants ; this unanticipated finding may reflect the role of maternal nutrition on birth weight in an impoverished region .
+CONCLUSIONS A chimney stove reduced wood smoke exposures and was associated with reduced LBW occurrence .
+Although not statistically significant , the estimated effect was consistent with previous studies .

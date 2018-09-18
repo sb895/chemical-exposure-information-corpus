@@ -1,0 +1,9 @@
+PURPOSE Noninfectious comorbidities such as cardiovascular diseases have become increasingly prevalent and occur earlier in life in persons with HIV infection .
+Despite the emerging body of literature linking environmental exposures to chronic disease outcomes in the general population , the impacts of environmental exposures have received little attention in HIV-infected population .
+The aim of this study is to investigate whether individuals living with HIV have elevated prevalence of heavy metals compared to non-HIV infected individuals in United States .
+METHODS We used the National Health and Nutrition Examination Survey ( NHANES ) 2003-2010 to compare exposures to heavy metals including cadmium , lead , and total mercury in HIV infected and non-HIV infected subjects .
+RESULTS In this cross-sectional study , we found that HIV-infected individuals had higher concentrations of all heavy metals than the non-HIV infected group .
+In a multivariate linear regression model , HIV status was significantly associated with increased blood cadmium ( p=0.03 ) after adjusting for age , sex , race , education , poverty income ratio , and smoking .
+However , HIV status was not statistically associated with lead or mercury levels after adjusting for the same covariates .
+CONCLUSIONS Our findings suggest that HIV-infected patients might be significantly more exposed to cadmium compared to non-HIV infected individuals which could contribute to higher prevalence of chronic diseases among HIV-infected subjects .
+Further research is warranted to identify sources of exposure and to understand more about specific health outcomes .

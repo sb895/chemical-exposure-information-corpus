@@ -1,0 +1,11 @@
+BACKGROUND Studies estimating health effects of long-term air pollution exposure often use a two-stage approach : building exposure models to assign individual-level exposures , which are then used in regression analyses .
+This requires accurate exposure modeling and careful treatment of exposure measurement error .
+OBJECTIVE To illustrate the importance of accounting for exposure model characteristics in two-stage air pollution studies , we considered a case study based on data from the Multi-Ethnic Study of Atherosclerosis ( MESA ) .
+METHODS We built national spatial exposure models that used partial least squares and universal kriging to estimate annual average concentrations of four PM2.5 components : elemental carbon ( EC ) , organic carbon ( OC ) , silicon ( Si ) , and sulfur ( S ) .
+We predicted PM2.5 component exposures for the MESA cohort and estimated cross-sectional associations with carotid intima-media thickness ( CIMT ) , adjusting for subject-specific covariates .
+We corrected for measurement error using recently developed methods that account for the spatial structure of predicted exposures .
+RESULTS Our models performed well , with cross-validated R2 values ranging from 0.62 to 0.95 .
+Naïve analyses that did not account for measurement error indicated statistically significant associations between CIMT and exposure to OC , Si , and S. EC and OC exhibited little spatial correlation , and the corrected inference was unchanged from the naïve analysis .
+The Si and S exposure surfaces displayed notable spatial correlation , resulting in corrected confidence intervals ( CIs ) that were 50% wider than the naïve CIs , but that were still statistically significant .
+CONCLUSION The impact of correcting for measurement error on health effect inference is concordant with the degree of spatial correlation in the exposure surfaces .
+Exposure model characteristics must be considered when performing two-stage air pollution epidemiologic analyses because naïve health effect inference may be inappropriate .

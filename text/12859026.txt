@@ -1,0 +1,12 @@
+BACKGROUND There is scientific and public concern about commonly used chemicals , including phthalates , that are associated with reproductive toxicity in laboratory animals and are hormonally active .
+People are exposed to phthalates through diet , consumer products and medical devices .
+The present study explored whether environmental levels of phthalates are associated with altered semen quality in humans .
+METHODS We recruited 168 men who were part of subfertile couples and who presented to the Massachusetts General Hospital andrology laboratory for semen analysis between January 2000 and April 2001 .
+Semen parameters were dichotomized based on 1999 World Health Organization reference values for sperm concentration ( < 20 million/ml ) and motility ( < 50% motile ) , as well as Tygerberg Strict criteria for morphology ( < 4% normal ) .
+The comparison group was men for whom these semen parameters were all above the reference values .
+In urine , eight phthalate metabolites were measured with high-performance liquid chromatography and tandem mass spectrometry .
+Specific gravity-adjusted phthalate metabolite levels were categorized into tertiles .
+RESULTS There was a dose-response relation between tertiles of mono-butyl phthalate and sperm motility ( odds ratio per tertile = 1.0 , 1.8 , 3.0 ; P-value for trend = 0.02 ) and sperm concentration ( 1.0 , 1.4 , 3.3 ; P-value for trend = 0.07 ) .
+In addition , there was a dose-response relation between tertiles of mono-benzyl phthalate and sperm concentration ( 1.0 , 1.4 , 5.5 ; P-value for trend = 0.02 ) .
+CONCLUSIONS There were dose-response relations for monobutyl phthalate and monobenzyl phthalate with one or more semen parameters , and suggestive evidence for monomethyl phthalate with sperm morphology .
+The lack of a relation for other phthalates may indicate a difference in spermatotoxicity among phthalates .

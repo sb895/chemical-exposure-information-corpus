@@ -1,0 +1,8 @@
+BACKGROUND Cumulative lead exposure is associated with a widened pulse pressure ( PP ; the -difference between systolic and diastolic blood pressure ) , a marker of arterial stiffness and a predictor of cardiovascular disease .
+Polymorphisms in the hemochromatosis gene ( HFE ) have been shown to modify the impact of cumulative lead exposure on measures of adult cognition and cardiac function .
+OBJECTIVES We examined whether the HFE mutations modify the impact of lead on PP in -community-dwelling older men .
+METHODS We examined 619 participants with a total of 1,148 observations of PP from a substudy of bone lead levels ( a measure of cumulative exposure , measured by in vivo K-shell X-ray fluorescence ) and health in the Normative Aging Study between 1991 and 2001 .
+Linear mixed-effects regression models with random intercepts were constructed .
+RESULTS Of the 619 subjects , 138 and 72 carried the HFE H63D and C282Y variants , respectively .
+After adjusting for age ; education ; alcohol intake ; smoking ; daily intakes of calcium , sodium , and potassium ; total calories ; family history of hypertension ; diabetes ; height ; heart rate ; high-density lipoprotein ( HDL ) ; total cholesterol:HDL ratio ; and waist circumference , baseline bone lead levels were associated with steeper increases in PP in men with at least one H63D allele ( p-interaction = 0.03 for tibia and 0.02 for patella ) compared with men with only the wild types or C282Y variant .
+CONCLUSIONS The HFE H63D polymorphism , but not the C282Y mutation , appears to enhance susceptibility to the deleterious impact of cumulative lead on PP , possibly via prooxidative or pro-inflammatory mechanisms .

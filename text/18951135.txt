@@ -1,0 +1,6 @@
+The aim of this study is to indicate the significance of air quality monitoring and to determine the air quality fields for the assessment of air pollution health effects , with special attention to risk population .
+Radial basis function network was used for air quality index mapping .
+Between 1991 and 2005 , on the territory of Nis , several epidemiological studies were performed on risk groups ( pre-school children , school children , pregnant women and persons older than 65 ) .
+The total number of subjects was 5837 .
+The exposed group comprised individuals living in the areas with unhealthy AQI , while the control group comprised individuals living in city areas with good or moderate AQI .
+It was determined that even relatively low levels of air pollution had impact on respiratory system and the occurrence of anaemia , allergy and skin symptoms .

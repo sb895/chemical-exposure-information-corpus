@@ -1,0 +1,11 @@
+We aimed to investigate the role of indoor office air on exposure to polyfluorinated compounds ( PFCs ) among office workers .
+Week-long , active air sampling was conducted during the winter of 2009 in 31 offices in Boston , MA .
+Air samples were analyzed for fluorotelomer alcohols ( FTOHs ) , sulfonamides ( FOSAs ) , and sulfonamidoethanols ( FOSEs ) .
+Serum was collected from each participant ( n = 31 ) and analyzed for 12 PFCs including PFOA and PFOS .
+In air , FTOHs were present in the highest concentrations , particularly 8:2-FTOH ( GM = 9920 pg/m(3) ) .
+FTOHs varied significantly by building with the highest levels observed in a newly constructed building .
+PFOA in serum was significantly correlated with air levels of 6:2-FTOH ( r = 0.43 ) , 8:2-FTOH ( r = 0.60 ) , and 10:2-FTOH ( r = 0.62 ) .
+Collectively , FTOHs in air significantly predicted PFOA in serum ( p < 0.001 ) and explained approximately 36% of the variation in serum PFOA concentrations .
+PFOS in serum was not associated with air levels of FOSAs/FOSEs .
+In conclusion , FTOH concentrations in office air significantly predict serum PFOA concentrations in office workers .
+Variation in PFC air concentrations by building is likely due to differences in the number , type , and age of potential sources such as carpeting , furniture , and/or paint .

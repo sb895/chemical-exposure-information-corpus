@@ -1,0 +1,12 @@
+Organophosphorous pesticides ( OPs ) are suspected of altering reproductive function by reducing brain acetylcholinesterase activity and monoamine levels , thus impairing hypothalamic and/or pituitary endocrine functions and gonadal processes .
+Our objective was to evaluate in a longitudinal study the association between OP exposure and serum levels of pituitary and sex hormones .
+Urinary OP metabolite levels were measured by gas-liquid chromatography , and serum pituitary and sex hormone levels by enzymatic immunoassay and radioimmunoassay in 64 men .
+A total of 147 urine and blood samples were analyzed for each parameter .
+More than 80% of the participants had at least one OP metabolite in their urine samples .
+The most frequent metabolite found was diethylthiophosphate ( DETP ; 55% ) , followed by diethylphosphate ( DEP ; 46% ) , dimethylthiophosphate ( DMTP ; 32% ) , and dimethyldithiophosphate ( DMDTP ; 31% ) .
+However , the metabolites detected at higher concentrations were DMTP , DEP , DMDTP , and dimethylphosphate .
+There was a high proportion of individuals with follicle-stimulating hormone ( FSH ) concentrations outside the range of normality ( 48% ) .
+The average FSH serum levels were higher during the heavy pesticide spraying season .
+However , a multivariate analysis of data collected in all periods showed that serum FSH levels were negatively associated with urinary concentrations of both DMTP and DMDTP , whereas luteinizing hormone ( LH ) was negatively associated with DMTP .
+We observed no significant associations between estradiol or testosterone serum levels with OP metabolites .
+The hormonal disruption in agricultural workers presented here , together with results from experimental animal studies , suggests that OP exposure disrupts the hypothalamic-pituitary endocrine function and also indicates that FSH and LH are the hormones most affected .

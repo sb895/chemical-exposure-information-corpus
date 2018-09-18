@@ -1,0 +1,10 @@
+BACKGROUND Although strong exposure to arsenic has been shown to be carcinogenic , its contribution to lung cancer incidence in the United States is not well characterized .
+We sought to determine if the low-level exposures to arsenic seen in the U.S. are associated with lung cancer incidence after controlling for possible confounders , and to assess the interaction with smoking behavior .
+METHODOLOGY Measurements of arsenic stream sediment and soil concentration obtained from the USGS National Geochemical Survey were combined , respectively , with 2008 BRFSS estimates on smoking prevalence and 2000 U.S. Census county level income to determine the effects of these factors on lung cancer incidence , as estimated from respective state-wide cancer registries and the SEER database .
+Poisson regression was used to determine the association between each variable and age-adjusted county-level lung cancer incidence .
+ANOVA was used to assess interaction effects between covariates .
+PRINCIPAL FINDINGS Sediment levels of arsenic were significantly associated with an increase in incident cases of lung cancer ( P<0.0001 ) .
+These effects persisted after controlling for smoking and income ( P<0.0001 ) .
+Across the U.S. , exposure to arsenic may contribute to up to 5,297 lung cancer cases per year .
+There was also a significant interaction between arsenic exposure levels and smoking prevalence ( P<0.05 ) .
+CONCLUSIONS/SIGNIFICANCE Arsenic was significantly associated with lung cancer incidence rates in the U.S. after controlling for smoking and income , indicating that low-level exposure to arsenic is responsible for excess cancer cases in many parts of the U.S. Elevated county smoking prevalence strengthened the association between arsenic exposure and lung cancer incidence rate , an effect previously unseen on a population level .

@@ -1,0 +1,9 @@
+OBJECTIVE We previously reported an increased risk of stillbirth associated with increases in trimester-specific ambient air pollutant concentrations .
+Here , we consider whether sudden increase in the mean ambient air pollutant concentration immediately before delivery triggers stillbirth .
+METHODS We used New Jersey linked fetal death and hospital discharge data and hourly ambient air pollution measurements from particulate matter \u2264 2.5 mm ( PM2.5 ) , carbon monoxide ( CO ) , nitrogen dioxide ( NO2 ) , and sulfur dioxide ( SO2 ) monitors across New Jersey for the years 1998-2004 .
+For each stillbirth , we assigned the concentration of air pollutants from the closest monitoring site within 10 km of the maternal residence .
+Using a time-stratified case-crossover design and conditional logistic regression , we estimated the relative odds of stillbirth associated with interquartile range ( IQR ) increases in the mean pollutant concentrations on lag day 2 and lag days 2 through 6 before delivery , and whether these associations were modified by maternal risk factors .
+RESULTS The relative odds of stillbirth increased with IQR increases in the mean concentrations of CO ( odds ratio [ OR ] = 1.20 , 95% confidence interval [ CI ] = 1.05-1.37 ) , SO2 ( OR = 1.11 , 95% CI = 1.02-1.22 ) , NO2 ( OR = 1.11 , 95% CI = 0.97-1.26 ) , and PM2.5 ( OR = 1.07 , 95% CI = 0.93-1.22 ) 2 days before delivery .
+We found similar associations with increases in pollutants 2 through 6 days before delivery .
+These associations were not modified by maternal risk factors .
+CONCLUSION Short-term increases in ambient air pollutant concentrations immediately before delivery may trigger stillbirth .

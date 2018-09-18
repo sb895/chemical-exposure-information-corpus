@@ -1,0 +1,15 @@
+BACKGROUND Bisphenol A ( BPA ) is used to manufacture polymeric materials , such as polycarbonate plastics , and is found in a variety of consumer products .
+Recent data show widespread BPA exposure among the U.S. population .
+OBJECTIVE Our goal in the present study was to determine the temporal variability and predictors of BPA exposure .
+METHODS We measured urinary concentrations of BPA among male and female patients from the Massachusetts General Hospital Fertility Center .
+RESULTS Between 2004 and 2006 , 217 urine samples were collected from 82 subjects : 45 women ( 145 samples ) and 37 men ( 72 samples ) .
+Of these , 24 women and men were partners and contributed 42 pairs of samples collected on the same day .
+Ten women became pregnant during the follow-up period .
+Among the 217 urine samples , the median BPA concentration was 1.20 microg/L , ranging from below the limit of detection ( 0.4 microg/L ) to 42.6 microg/L .
+Age , body mass index , and sex were not significant predictors of urinary BPA concentrations .
+BPA urinary concentrations among pregnant women were 26% higher ( -26% , +115% ) than those among the same women when not pregnant ( p > 0.05 ) .
+The urinary BPA concentrations of the female and male partner on the same day were correlated ( r = 0.36 ; p = 0.02 ) .
+The sensitivity of classifying a subject in the highest tertile using a single urine sample was 0.64 .
+CONCLUSION We found a nonsignificant increase in urinary BPA concentrations in women while pregnant compared with nonpregnant samples from the same women .
+Samples collected from partners on the same day were correlated , suggesting shared sources of exposure .
+Finally , a single urine sample showed moderate sensitivity for predicting a subject's tertile categorization .

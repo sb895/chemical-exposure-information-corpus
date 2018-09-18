@@ -1,0 +1,9 @@
+BACKGROUND Phthalates can alter steroidogenesis and peroxisome proliferator-activated receptor gamma ( PPARgamma)mediated transcription in rodent tissues .
+The placenta offers a rich source of biomarkers to study these relationships in humans .
+OBJECTIVE We evaluated whether gestational phthalate exposures in humans were associated with altered human placental steroidogenesis and trophoblast differentiation as measured by markers of mRNA transcription .
+METHODS We measured seven target genes in placentas collected from 54 Dominican and African-American women at delivery in New York City using quantitative real-time polymerase chain reaction ( qPCR ) , normalized to 18S rRNA. qPCR results for the target genes were log-transformed , converted to Z-scores , and grouped into two functional pathways : steroidogenesis ( aromatase , cholesterol side chain cleavage enzyme , 17beta-hydroxysteroid dehydrogenase type 1 , and cytochrome P450 1B1 ) and trophoblast differentiation ( PPARgamma , aryl hydrocarbon receptor , and human chorionic gonadotropin ) .
+Repeated measures models were used to evaluate the association of phthalate metabolites measured in third-trimester urine samples with each group of target genes , accounting for correlation among the genes within a pathway .
+RESULTS Higher urinary concentrations of five phthalate metabolites were associated with lower expression of the target genes reflecting trophoblast differentiation .
+Results were less consistent for genes in the steroidogenesis pathway and suggested a nonlinear dose-response pattern for some phthalate metabolites .
+CONCLUSIONS We observed a significant association between prenatal exposure to phthalates and placental gene expression within two pathways .
+Further studies are warranted to understand the significance of this association with respect to fetal development and placental function .

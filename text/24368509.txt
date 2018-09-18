@@ -1,0 +1,7 @@
+Exposure to arsenic ( As ) has been associated with a number of diseases such as cancers , cardiovascular diseases ( CVD ) , and neurological disorders .
+To explore the possible underlying epigenetic mechanisms , a nested case-control study was conducted within the Coronary Artery Risk Development in Young Adults ( CARDIA ) study by randomly selecting 46 non-smoker and non-diabetic White participants with low ( N=23 ) and high ( N=23 ) As exposure based on toenail total As measures at examination year 2 .
+We conducted methylomic profiling of white blood cell ( WBC ) DNA collected at examination year 15 using the Illumina HumanMethylation450 BeadChip , and performed association tests using multiple linear regression models adjusting for age , sex , and estimated WBC proportions .
+We observed 22 CpG sites with methylation levels associated with high As exposure at a nominal significance level of 10(-4) .
+However , the statistical significance disappeared after correction for multiple testing .
+Some genes annotated by these 22 CpG sites are known to be involved in As-associated diseases .
+Replication in larger samples of individuals with low levels of As exposure will be required .

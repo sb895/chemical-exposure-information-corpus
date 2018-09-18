@@ -1,0 +1,9 @@
+The relation between exposure to low levels of polychlorinated biphenyls ( PCBs ) , a class of persistent organic pollutants , and cognitive and motor development in young children has been examined in several studies , and results have varied .
+The authors evaluated the association between prenatal exposure to PCBs and children's neurodevelopment using data from the Collaborative Perinatal Project .
+Pregnant women were enrolled from 1959 to 1965 from 12 sites across the United States .
+PCBs were measured in maternal serum taken during pregnancy .
+To measure children's mental and psychomotor development at 8 months of age , the authors administered the Bayley Scales of Infant Development ( means , 87 ( standard deviation , 15 ) and 88 ( standard deviation , 18 ) , respectively ) .
+Overall , they did not observe a relation between prenatal PCB exposure and children's mental or psychomotor scores ( n = 1,207 ; multivariate adjusted beta = 0.1 point per micro g/liter increase of PCB , p = 0.71 , and beta = 0.5 , p = 0.14 , respectively ) .
+The PCB-psychomotor score relation varied by study center ( p < 0.05 ) : The association was direct in some centers , inverse in others .
+This could not be attributed to variation in the timing or measurement of the child's neurodevelopment or analysis of PCBs because these were standardized across centers .
+The reasons for variation in results within this study and across other studies remain unclear .

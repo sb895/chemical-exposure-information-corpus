@@ -1,0 +1,10 @@
+Selenium ( Se ) in a large-scale human supplementation trial has been shown to significantly reduce the incidence of prostate cancer in elderly men .
+Because Se is known to interact with cadmium ( Cd ) , it has been suggested that its cancer protective action could be attributable in part to its interaction with Cd , a toxic and suspected carcinogenic element , which is found in many foods , in drinking water , and in the environment .
+Cadmium is considered a significant prostate cancer risk factor as it stimulates the growth of prostate epithelial cells and promotes their malignant transformation .
+Accordingly , prostate cancer risk is determined not only by Se status , but also the degree of Cd exposure .
+Determinations of Se and Cd in 129 prostates of deceased men aged 15-99 yr revealed Cd to accumulate in the prostate .
+Whereas the atomic Se/Cd ratios of the prostates of young men were invariably >1 , indicating a stoichiometric excess of Se over Cd , they were found to decline with age , approaching the 1:1 ratio in elderly nonsmokers , a fact suggestive of the formation of a 1:1 Cd-Se complex .
+The associated physiological inactivation of Se could account for the increase of the prostate cancer risk with advancing age .
+The Se/Cd ratios dropped more steeply and consistently with age in smokers than in nonsmokers .
+In the prostates of some smokers , Se/Cd ratios even reached values <1 , indicating a stoichiometric excess of Cd over Se .
+The excessive accumulation of Cd in the prostates of smokers along with sub-optimal Se intakes could explain why smokers develop more aggressive and lethal forms of prostate cancer than nonsmokers .

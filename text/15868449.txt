@@ -1,0 +1,8 @@
+OBJECTIVE Arsenic exposure and environmental tobacco smoke ( ETS ) have been suspected to be associated with bladder cancer risk .
+We hypothesize that interaction between ETS and the ability to methylate arsenic , a detoxification pathway , modifies the risk of bladder cancer .
+METHODS From January 1996 to December 1999 , we identified 41 newly diagnosed bladder cancer patients and 202 fracture and cataract patients at the National Cheng-Kung University ( NCKU ) Medical Center .
+The levels of urinary arsenic species [ As(III) , As(V) , MMA(V) , and DMA(V) ] were determined in all subjects .
+RESULTS We found significant interaction between ETS and secondary methylation index ( SMI ) on the risk of bladder cancer ( p=0.02 ) .
+Among non-smokers with a high primary methylation index ( PMI ) , the risk of bladder cancer was lower in subjects exposed to ETS ( OR , 0.37 ; 95% CI , 0.14-0.96 ) than in subjects without exposure to ETS .
+Among non-smokers without ETS , the risk of bladder cancer was 4.7 times higher in subjects with a low SMI ( 95% CI , 1.30-16.81 ) than in subjects with a high SMI .
+CONCLUSIONS Ability to methylate arsenic plays an important role in reducing the risk of bladder cancer attributable to the continuation of arsenic exposure from drinking water and from ETS exposure .

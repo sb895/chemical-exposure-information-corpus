@@ -1,0 +1,8 @@
+In ecologic studies , participants are studied by groups , and the exposure status of each group is usually represented by a single indicator , mostly the mean exposure .
+In this paper , we propose using multiple variables derived from dummy variables at the individual level to describe the exposure .
+An analysis of the association between arsenic in drinking water and skin cancer was used as an example .
+Well water arsenic levels and skin cancer incidence from 1980 to 1987 were assessed for 243 townships in Taiwan .
+We first analyzed the data using the mean arsenic concentration in each township as the only exposure variable .
+The second analysis used multiple variables to describe arsenic exposure ; each variable denoted the percentage of wells with arsenic levels within a specific range in each township .
+Although the first approach did not identify associations between arsenic levels and skin cancer , the multiple-variable approach identifies a positive association at the highest arsenic exposure category ( >0.64 mg/L ) in both men and women .
+Therefore , using multiple variables to describe an exposure in ecologic studies may facilitate a better description of the exposure status and thereby lead to more accurate risk assessment , especially when the dose-response relationship is not linear .

@@ -1,0 +1,20 @@
+Many people , including people with asthma , experience short-term exposure to diesel exhaust ( DE* ) during daily activities .
+The health effects of such exposures , however , remain poorly understood .
+The present study utilized a real-world setting to examine whether short-term DE exposure would ( 1 ) worsen asthma symptoms , ( 2 ) augment airway inflammation , or ( 3 ) increase oxidative stress burdens .
+The study also examined exposure-response relations for several DE components and the contribution of background asthma severity to individuals ' respiratory responses to DE exposure .
+Sixty people participated in the study ; 31 had mild asthma and 29 had moderate asthma .
+Each participant completed an exposure and a control session .
+During the exposure session , participants walked for 2 hours along a heavily trafficked city street where motor vehicle access was restricted to buses and official taxicabs .
+These vehicles were powered by diesel engines .
+During the control session , participants walked for the same duration and at the same speed in a public park where motor vehicle traffic was prohibited .
+The concentrations of elemental carbon ( EC ) , NO2 , ultrafine particles ( UFP ) , and particulate matter less than or equal to 2.5 microm in aerodynamic diameter ( PM2.5 ) during exposure sessions were , on average , 4.8 , 4.0 , 3.4 , and 2.0 times higher , respectively , than during control sessions .
+Increases in asthma symptom score and in the daily use of asthma reliever medication within the 7-day measurement period after exposure were not significant .
+Some effects on lung function were statistically significant .
+Compared with control sessions , forced expiratory volume in the first second ( FEV1 ) was reduced 3.0% to 4.1% , and forced vital capacity ( FVC ) was reduced 2.8% to 3.7% in the 5 hours immediately after the exposure sessions .
+Analyses of biomarkers showed that the exposure sessions led to a significant reduction in exhaled breath condensate ( EBC ) pH and to significant increases in induced sputum neutrophils and myeloperoxidase ( MPO ) .
+The changes in lung function indices ( FEV1 , FVC , and forced expiratory flow during the middle half of the FVC [ FEF25-75] ) were most consistently associated with UFP and EC exposures , whereas the changes in EBC pH were most consistently associated with NO2 exposure .
+In addition , NO2 had a significant effect on bronchial reactivity and on the amount of interleukin-8 ( IL-8 ) in induced sputum ; it also modified the UFP effect on EBC pH and the EC effect on exhaled nitric oxide ( eNO ) .
+However , our findings cannot be taken as demonstrating a causal association with any measured pollutant , because the measured pollutant concentrations may simply represent the entire roadside diesel-traffic exposure that comprises not only the pollutants measured in this study but also other pollutants in the complex DE mixture and resuspended coarse particles from road dust , engine debris , and tire debris .
+The effects of exposure appeared to be larger in the more severe asthmatic group for most outcomes measured .
+In conclusion , short-term exposure to urban roadside diesel traffic led to consistent and significant reductions in lung function , accompanied by airway acidification and neutrophilic inflammation .
+Our findings help to explain the epidemiologic evidence on diesel traffic health effects in persons with asthma .

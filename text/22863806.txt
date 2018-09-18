@@ -1,0 +1,10 @@
+Mercury release after breakage of compact fluorescent lamps ( CFLs ) has recently become an issue of public health concern , especially in the case of early life infants .
+Preliminary , screening type calculations have indicated that there is potential for increased intake of mercury vapor by inhalation after breakage of a CFL .
+Several experimental and computational studies have shown that , when modeling the breakage of a CFL , the room space must be segregated into different zones , according to the potential of mercury vapor to accumulate in them after accidental release .
+In this study , a detailed two-zone model that captures the physicochemical processes that govern mercury vapor formation and dispersion in the indoor environment was developed .
+The mercury fate model was coupled to a population exposure model that accounts for age and gender-related differences in time-activity patterns , as well as country differences in body weight and age distribution .
+The parameters above are used to determine the intake through inhalation ( gas phase and particles ) and non-dietary ingestion ( settled dust ) for each age , gender group and ethnicity .
+Results showed that the critical period for intake covers the first 4h after the CFL breaks and that room air temperature significantly affects the intake rate .
+Indoor air concentration of mercury vapor may exceed toxicological thresholds of concern such as the acute Reference Exposure Limit ( REL ) for mercury vapor set by the Environmental Protection Agency of California .
+Ingestion intake through hand-to-mouth behavior is significant for infants and toddlers , counting for about 20% of the overall intake .
+Simple risk reduction measures including increased indoor ventilation followed by careful clean-up of the accident site , may limit dramatically the estimated health risk .

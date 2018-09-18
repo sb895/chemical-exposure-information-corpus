@@ -1,0 +1,13 @@
+This study characterized exposures of eight children living in an agricultural community near potato fields that were treated by aerial application with the organophosphorus ( OP ) insecticide , methamidophos ( O,S-dimethyl phosphoramidothioate ) .
+Exposure monitoring included air and deposition samples in the outdoor community environment , outdoor and indoor air samples at each residence , wipe samples of playground equipment , toys , indoor surfaces , and children's hands , and periodic urine samples .
+Monitoring occurred prior to , the day of , and 1 day following applications .
+Methamidophos deposition in the community was very low compared to deposition inside the boundaries of the treated fields .
+Community air concentrations increased from 0.05 microg/m3 ( prespray ) to 0.11 and 0.48 microg/m3 ( spray day morning and afternoon , respectively ) , decreasing to 0.10 microg/m3 on the postspray day .
+Air concentrations outside residences followed a similar pattern ; indoor levels did not exceed 0.03 pg/m3 .
+Methamidophos residues were found on playground equipment following applications , but not on indoor residential surfaces .
+The median hand wipe levels increased from < 0.02 ( prespray ) to 0.08 microg/sample ( spray day ) , decreasing to 0.05 microg/sample ( postspray day ) .
+Median concentrations of the primary methamidophos urinary metabolite were 61 microg/l before 1100 hours on the spray day , 170 microg/l after 1100 hours on the spray day , and 114 microg/l on the postspray day .
+Spray day metabolite levels were correlated with time outside on the spray day ( rs = 0.68 ) , with spray day hand wipe levels ( rs = 0.67 ) , and with postspray day metabolite levels ( rs = 0.64 ) .
+Postspray day metabolites levels were also positively associated with postspray day hand wipe levels ( rs = 0.66 ) .
+The documentation of children's exposure in this study does not necessarily mean that risks for these children were significantly altered , since nearly all children in the United States are exposed to some level of OP pesticides through dietary intake and other pathways .
+The association of metabolite levels with time spent outside , and the absence of methamidophos in homes indicates that children's exposures occurred primarily outdoors .

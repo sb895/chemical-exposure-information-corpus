@@ -1,0 +1,9 @@
+The shift in pesticide usage patterns demands a better understanding of the occurrence , fate and exposure risk of atmospheric current-use pesticides ( CUPs ) .
+Air samples collected in different seasons from an urban community in Guangzhou , China were analyzed to investigate seasonal variation , gas-particle partitioning and inhalation exposure of atmospheric organophosphate and pyrethroid pesticides .
+Chlorpyrifos and eight pyrethroids were detected in the air samples and the total concentrations of the nine CUPs ranged from 150 to 3816 pg m(-3) .
+Chlorpyrifos and cypermethrin were the most dominant CUPs detected in the atmosphere , accounting for 68% and 15% of the total CUPs , respectively .
+Seasonal variation in concentration was observed for most CUPs , with peak concentrations occurring in summer and fall , which was consistent with their application patterns .
+Partitioning of chlorpyrifos between gas and particle phases was also seasonally-dependent , with more chlorpyrifos found in the gas phase in summer and fall .
+Additionally , gas-particle partitioning analysis suggested that chlorpyrifos might experience long-range transport .
+Evaluation of potential exposure from inhalation of atmospheric CUPs suggested that children , toddlers and infants had the highest exposure , but the risk quotients were low for all age groups when annual average concentrations were used as exposure metrics .
+Exposure risk was higher in summer and fall than the annual average level due to higher atmospheric pesticide concentrations , longer exposure times and more pesticides being in the gaseous form .

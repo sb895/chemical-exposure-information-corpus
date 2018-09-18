@@ -1,0 +1,11 @@
+OBJECTIVE Toxic heavy metals are released to the environment constantly from unregulated electronic waste ( e-waste ) recycling in Guiyu , China , and thus may contribute to the elevation of mercury ( Hg ) and other heavy metals levels in human hair .
+We aimed to investigate concentrations of mercury in hair from Guiyu and potential risk factors and compared them with those from a control area where no e-waste processing occurs .
+METHODS A total of 285 human hair samples were collected from three villages ( including Beilin , Xianma , and Huamei ) of Guiyu ( n=205 ) and the control area , Jinping district of Shantou city ( n=80 ) .
+All the volunteers were administered a questionnaire regarding socio-demographic characteristics and other possible factors contributed to hair mercury concentration .
+Hair mercury concentration was analyzed by hydride generation atomic fluorescence spectrometry ( AFS ) .
+RESULTS Our results suggested that hair mercury concentrations in volunteers of Guiyu ( median , 0.99 ; range , 0.18-3.98\u03bcg/g ) were significantly higher than those of Jinping ( median , 0.59 ; range , 0.12-1.63\u03bcg/g ) .
+We also observed a higher over-limit ratio ( >1\u03bcg/g according to USEPA ) in Guiyu than in Jinping ( 48.29% vs. 11.25% , P<0.001 ) .
+Logistic regression model showed that the variables of living house also served as an e-waste workshop , work related to e-waste , family income , time of residence in Guiyu , the distance between home and waste incineration , and fish intake were associated with hair mercury concentration .
+After multiple stepwise regression analysis , in the Guiyu samples , hair mercury concentration was found positively associated with the time residence in Guiyu ( \u03b2=0.299 , P<0.001 ) , and frequency of shellfish intake ( \u03b2=0.184 , P=0.016 ) ; and negatively associated with the distance between home and waste incineration ( \u03b2=-0.190 , P=0.015 ) and whether house also served as e-waste workshop ( \u03b2=-0.278 , P=0.001 ) .
+CONCLUSIONS This study investigated human mercury exposure and suggested elevated hair mercury concentrations in an e-waste recycling area , Guiyu , China .
+Living in Guiyu for a long time and work related to e-waste may primarily contribute to the high hair mercury concentrations .

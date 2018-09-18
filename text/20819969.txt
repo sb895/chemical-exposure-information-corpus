@@ -1,0 +1,13 @@
+BACKGROUND Perfluorooctanoic acid ( PFOA ) and perfluorooctanesulfonate ( PFOS ) are man-made compounds with widespread presence in human sera .
+In previous occupational and adult studies , PFOA and PFOS were positively associated with serum lipid levels .
+OBJECTIVE To interrogate associations between PFOA and PFOS and serum lipids in children and adolescents .
+DESIGN Cross-sectional community-based study .
+SETTING Mid-Ohio River Valley .
+PARTICIPANTS A total of 12 476 children and adolescents included in the C8 Health Project , which resulted from the pretrial settlement of a class action lawsuit pursuant to PFOA contamination of the drinking water supply .
+MAIN OUTCOME MEASURES Serum lipids ( total , high-density lipoprotein [ HDL-C ] , and low-density lipoprotein [ LDL-C ] cholesterol and fasting triglycerides ) .
+RESULTS Mean ( SD ) serum PFOA and PFOS concentrations were 69.2 ( 111.9 ) ng/mL and 22.7 ( 12.6 ) ng/mL , respectively .
+In linear regression after adjustment for covariables , PFOA was significantly associated with increased total cholesterol and LDL-C , and PFOS was significantly associated with increased total cholesterol , HDL-C , and LDL-C .
+Using general linear model analysis of covariance , between the first and fifth quintiles of PFOA there was a 4.6-mg/dL and a 3.8-mg/dL increase in the adjusted mean levels of total cholesterol and LDL-C levels , respectively , and an 8.5-mg/dL and a 5.8-mg/dL increase in the adjusted mean levels of total cholesterol and LDL-C , respectively , between the first and fifth quintiles of PFOS .
+Increases were 10 mg/dL for some age- and sex-group strata .
+Observed effects were nonlinear , with larger increases in total cholesterol and LDL-C levels occurring at the lowest range , particularly of PFOA .
+CONCLUSION Although the epidemiologic and cross-sectional natures of this study limit causal inferences , the consistently observed associations between increasing PFOA and PFOS and elevated total cholesterol and LDL-C levels warrant further study .

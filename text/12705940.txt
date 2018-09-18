@@ -1,0 +1,13 @@
+This study examined the exposure level of aromatic volatile organic compounds ( VOCs ) in public transportation modes in Guangzhou , China .
+A total of 40 VOC samples were conducted in four popular public commuting modes ( subway , taxis , non-air-conditioned buses and air-conditioned buses ) while traversing in urban areas of Guangzhou .
+Traffic-related VOCs ( benzene , toluene , ethylbenzene , m/p-xylene and o-xylene ) were collected on adsorbent tubes and analyzed by thermal desorption ( TD ) and gas chromatography/mass-selective detector ( GC/MSD ) technique .
+The results indicate that commuter exposure to VOCs is greatly influenced by the choice of public transport .
+For the benzene measured , the mean exposure level in taxis ( 33.6 microg/m(3) ) was the highest and was followed by air-conditioned buses ( 13.5 microg/m(3) ) and non-air-conditioned buses ( 11.3 microg/m(3) ) .
+The exposure level in the subway ( 7.6 microg/m(3) ) is clearly lower than that in roadway transports .
+The inter-microenvironment variations of other target compounds were similar to that of benzene .
+The target VOCs were well correlated to each other in all the measured transports .
+The concentration profile of the measured transport was also investigated and was found to be similar to each other .
+Based on the experiment results , the average B/T/E/X found in this study was about ( 1.0/4.3/0.7/1.4 ) .
+In this study , the VOC levels measured in evening peak hours were only slightly higher than those in afternoon non-peak hours .
+This is due to the insignificant change of traffic volume on the measured routes between these two set times .
+The out-dated vehicle emission controls and slow-moving traffic conditions may be the major reasons leading elevated in-vehicle exposure level in some public commuting journeys .

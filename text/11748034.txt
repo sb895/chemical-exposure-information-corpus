@@ -1,0 +1,9 @@
+Spot urine samples were collected from the inhabitants of two rural communities in northwestern Bangladesh .
+We compared arsenic levels in the urine samples ( [ As](u) ; n = 346 ) with those in water from tube wells ( [ As](tw) ; range < 1-535 microg/L ; n = 86 ) on an individual basis .
+The small variation of [ As](u) within subjects and highly positive correlation with [ As](tw) indicate that [ As](u) is a useful indicator of exposure .
+Analyses of [ As](u) showed that creatinine correction was necessary , that [ As](u) only reflected recent exposure , and that there were substantial interindividual differences for a given [ As](tw) level .
+To evaluate the toxic effects of arsenic exposure , we constructed a system for rating skin manifestations , which revealed distinct sex-related differences .
+Comparison of males and females in the same households confirmed that skin manifestations were more severe in the males , and in the males of one community a dose-response relationship between [ As](u) and the degree of skin manifestation was evident .
+The results of this study indicate that [ As](u) in spot urine samples can be used as an exposure indicator for As .
+They suggest that there might be sex-related , and perhaps community-related , differences in the relationship between [ As](u) and skin manifestations , although several confounding factors , including sunlight exposure and smoking habits , might contribute to the observed sex difference .
+The existence of such differences should be further confirmed and examined in other populations to identify the subpopulations sensitive to chronic arsenic toxicity .

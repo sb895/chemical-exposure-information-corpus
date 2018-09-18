@@ -1,0 +1,10 @@
+We tested the hypothesis that exposure of healthy volunteers to concentrated ambient air particles ( CAPS ) between 0.1 and 2.5 microm in diameter is associated with modulation of human alveolar macrophage ( AM ) function , cytokine production , and immune phenotype in both blood and lung .
+Thirty-eight volunteers were exposed to either filtered air or CAPS from the immediate environment of the U.S. Environmental Protection Agency human studies facility in Chapel Hill , North Carolina , USA .
+Particle concentrations in the chamber during the exposures ranged from 23.1 to 311.1 microg/m3 .
+No symptoms were noted by volunteers after the exposure .
+Eighteen hours after exposure , analysis of cells obtained by bronchoalveolar lavage ( BAL ) showed a mild increase in neutrophils in both the bronchial ( 8.4 +/- 2% ) and alveolar fractions ( 4.2 +/- 1.7% ) in subjects exposed to the highest concentration of CAPS compared to neutrophils in the fluids of those exposed to filtered air ( bronchial fraction 2.7 +/- 0.6% ; alveolar fraction 0.8 +/- 0.3% ) .
+There was no change in the percentage of lymphocytes or AMs recovered in the lavage after inhalation of the highest particle levels ( mean 207 microg/m3 ) .
+There was also no change in the proportion of lymphocytes in the BAL expressing CD3 , CD4 , CD8 , CD19 , nor activation markers CD25 or CD69 .
+Particle inhalation did not affect the expression of CD11b , CD64 , CD16 , CD14 , CD71 on AM , nor was there an effect on phagocytosis or oxidant generation following stimulation with zymosan A. IL-6 and IL-8 levels detected by enzyme-linked immunoabsorbent assay in the BAL were unrelated to inhaled particle levels .
+The distribution of lymphocyte subsets in blood obtained 18 hr after exposure to CAPS did not differ from that found before exposure .
+We conclude that ambient air particles are capable of inducing a mild inflammation in the lower respiratory tract but have no effect on immune phenotype or macrophage function under the conditions tested .

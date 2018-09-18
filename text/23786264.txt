@@ -1,0 +1,12 @@
+Land use regression ( LUR ) models are often used to predict long-term average concentrations of air pollutants .
+Little is known how well LUR models predict personal exposure .
+In this study , the agreement of LUR models with measured personal exposure was assessed .
+The measured components were particulate matter with a diameter smaller than 2.5 \u03bcm ( PM2.5 ) , soot ( reflectance of PM2.5 ) , nitrogen oxides ( NOx ) , and nitrogen dioxide ( NO2 ) .
+In Helsinki , Utrecht , and Barcelona , 15 volunteers ( from semiurban , urban background , and traffic sites ) followed prescribed time activity patterns .
+Per participant , six 96 h outdoor , indoor , and personal measurements spread over three seasons were conducted .
+Soot LUR models were significantly correlated with measured average outdoor and personal soot concentrations .
+Soot LUR models explained 39% , 44% , and 20% of personal exposure variability ( R(2) ) in Helsinki , Utrecht , and Barcelona .
+NO2 LUR models significantly predicted outdoor concentrations and personal exposure in Utrecht and Helsinki , whereas NOx and PM2.5 LUR models did not predict personal exposure .
+PM2.5 , NO2 , and NOx models were correlated with personal soot , the component least affected by indoor sources .
+LUR modeled and measured outdoor , indoor , and personal concentrations were highly correlated for all pollutants when data from the three cities were combined .
+This study supports the use of intraurban LUR models for especially soot in air pollution epidemiology .

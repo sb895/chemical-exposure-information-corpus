@@ -1,0 +1,8 @@
+We have measured the levels of flame retardants , polybrominated diphenyl ethers ( PBDEs ) , in 20 recent human adipose tissues from Belgium and compared them to other organohalogen compounds such as polychlorinated biphenyls ( PCBs ) , hexachlorobenzene , 2,2-bis(4-chlorophenyl)-1,1,1-trichloroethane ( p,p'-DDT ) , and its metabolite , 2,2-bis(4-chlorophenyl)-1,1-dichloroethylene ( p,p'-DDE ) .
+After Soxhlet extraction and cleanup on acidified silica solid-phase extraction cartridges , analysis was achieved by capillary gas chromatography/electron impact mass spectrometry .
+The method allowed the determination of 5 PBDE and 35 PCB congeners .
+Concentrations of PBDEs ( sum of congeners IUPAC Nos. 28 , 47 , 99 , 100 , and 153 ) ranged between 2.2 and 11.7 ng/g lipid weight and were on the lower end of reported PBDE concentrations in European countries .
+The median value for the sum of PCBs ( 35 congeners ) was 841 ng/g lipid weight and ranged from 286 to 1802 ng/g lipid weight .
+The median value for the sum of DDTs ( calculated from p,p'-DDE and p,p'-DDT ) was 290 ng/g lipid weight and ranged from 47 to 2802 ng/g lipid weight .
+The sum of PCBs showed a good correlation with the sum of DDTs ( r=0.77 , P<0.05 ) , while the correlation with the sum of PBDEs was weaker ( r=0.56 , P<0.05 ) .
+No age dependency was found for PBDEs ( r=0.09 ) , while PCBs and DDTs showed higher correlation coefficients with age ( r=0.59 and 0.40 , respectively , P<0.05 ) .

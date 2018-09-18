@@ -1,0 +1,11 @@
+Lifetime exposure to disinfection byproducts ( DBPs ) in municipal water may pose risks to human health .
+Current approaches of exposure assessments use DBPs in cold water during showering , while warming of chlorinated water during showering may increase trihalomethane ( THM ) formation in the presence of free residual chlorine .
+Further , DBP exposure through dermal contact during showering is estimated using steady-state condition between the DBPs in shower water impacting on human skin and skin exposed to shower water .
+The lag times to achieve steady-state condition between DBPs in shower water and human skin can vary in the range of 9.8-391.2 min , while shower duration is often less than the lag times .
+Assessment of exposure without incorporating these factors might have misinterpreted DBP exposure in some previous studies .
+In this study , exposure to THMs through ingestion was estimated using cold water THMs , while THM exposure through inhalation and dermal contact during showering was estimated using THMs in warm water .
+Inhalation of THMs was estimated using THM partition into the shower air , while dermal uptake was estimated by incorporating lag times ( e.g. , unsteady and steady-state phases of exposure ) during showering .
+Probabilistic approach was followed to incorporate uncertainty in the assessment .
+Inhalation and dermal contact during showering contributed 25-60% of total exposure .
+Exposure to THMs during showering can be controlled by varying shower stall volume , shower duration and air exchange rate following power law equations .
+The findings might be useful in understanding exposure to THMs , which can be extended to other volatile compounds in municipal water .

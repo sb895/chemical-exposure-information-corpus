@@ -1,0 +1,12 @@
+As part of the assessment of a site in northern France polluted by metals from two smelters ( in particular , lead , cadmium and mercury ) , a cross-sectional study was carried out which intended to estimate the levels of the lead burden of the adult population living on the site and the factors associated with these levels .
+The exposed zone included 10 municipalities in the Nord-Pas de Calais region , located in the vicinity of two non-ferrous metal smelters .
+The soils in these municipalities contained between 100 and 1700 ppm of lead .
+The non-polluted zone contained 20 municipalities from the same region , drawn randomly from those in the region of comparable size but free from any industrial lead exposure .
+The adult study population ( 301 men and 300 women ) was stratified according to age , sex , employment status and exposure level .
+The inclusion criteria required subjects who were aged between 20 and 50 years and had been living in the exposed zone for at least 8 years ; the exclusion criteria were pregnancy , cancer , kidney disease and diabetes .
+No more than 10% of the subjects participating could work at one of the two smelters .
+Data collection took place at home ; visiting nurses interviewed subjects to complete a questionnaire and also took blood samples .
+The lead assay was performed by atomic absorption spectrometry .
+The geometric mean of the blood-lead levels was 74 microg/l , 95% CI = 69-80 among men and 49 microg/l , 95% CI = 46-53 among women .
+Blood-lead levels exceeding 100 microg/l were found among 30% of men and 12% of women .
+Several factors were associated with variation of the mean blood-lead level : the blood-lead level was significantly higher among the men for subjects living less than 1 km from the smelters ( geometric mean x 1.3 , 95% CI = 1.1-1.6 ) , for those who drink alcoholic beverages ( x 1.1 , 95% CI = 1.0-1.2 for consumption of 30 g/day ) , those who smoke ( x 1.2 , 95% CI = 1.0-1.3 for 20 cigarettes/day ) , and for subjects with occupational exposure ; among the women , for subjects living less than 1 km from the smelters ( geometric mean x 1.5 , 95% CI = 1.2-1.7 ) , for those who drink alcohol ( x 1.1 , 95% CI = 1.1-1.2 for a daily consumption of 10 g ) , and for women living in a building constructed before 1948 ( x 1.2 , 95% CI = 1.0-1.4 ) .

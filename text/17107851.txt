@@ -1,0 +1,10 @@
+BACKGROUND 2,3,7,8-Tetrachlorodibenzo-p-dioxin ( TCDD ) and some related environmental contaminants are aryl hydrocarbon receptor ( AhR ) ligands that exert reproductive and developmental toxicity in laboratory animals .
+In humans , fertility-related effects are less documented .
+OBJECTIVE The aim of this study was to investigate the relationship between dioxin-like biological activity in serum and parameters of reproductive status in men from the general population 5 months after a polychlorinated biphenyl and dioxin food-contamination episode in Belgium .
+DESIGN In the framework of the cross-sectional Flemish Environment and Health Study ( FLEHS ) , we recruited 101 men 20-40 years of age and evaluated sperm parameters , measured sex hormones , and gathered information on a number of lifestyle factors .
+In addition , we determined the AhR-mediated enzymatic response elicited by individual serum samples and expressed it as TCDD equivalent concentrations ( CALUX-TEQs ) using an established transactivation assay .
+RESULTS Age ( p = 0.04 ) and the frequency of fish ( p = 0.02 ) and egg ( p = 0.001 ) consumption were independent positive determinants of serum dioxin-like activity .
+After correcting for possible confounders , we found that a 2-fold increase in CALUX-TEQ > 16 pg/L was associated with a 7.1% and 6.8% ( both p = 0.04 ) decrease in total and free testosterone , respectively .
+We also observed a more pronounced drop in semen volume of 16.0% ( p = 0.03 ) , whereas sperm concentration rose by 25.2% ( p = 0.07 ) .
+No relationship was found with total sperm count or sperm morphology .
+CONCLUSIONS These data suggest an interaction of dioxin-like compounds with the secretory function of the seminal vesicles or prostate , possibly indirectly through an effect on testosterone secretion , at levels not affecting spermatogenesis as such .

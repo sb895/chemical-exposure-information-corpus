@@ -1,0 +1,8 @@
+BACKGROUND There are limited studies on the role of interaction between exposure to ambient air pollution and glutathione-S-transferase ( GST ) P1 on the risk of asthma/wheezing among children , which provided suggestive , but inconclusive results .
+METHODS To assess the joint effect of air pollutants and GSTP1 on asthma/wheezing , we conducted a nationwide cross-sectional study of 3,825 children in Taiwan Children Health Study .
+The studied determinants were three GSTP1 Ile105Val ( rs 1695 ) genotypes ( Ile-Ile ; Ile-Val and Val-Val ) and expoure to ambient air pollutants .
+We used routine air-pollution monitoring data for ozone ( O(3) ) and particles with an aerodynamic diameter of 2.5 µm or less ( PM(2.5) ) .
+The effect estimates were presented as odds ratios ( ORs ) per interquartile changes for PM(2.5) and O(3) .
+FINDINGS In a two-stage hierarchical model adjusting for confounding , the risk of asthma was negatively associated with PM(2.5) ( adjusted odds ratio ( OR ) 0.60 ; 95% confidence interval ( CI ) 0.45 , 0.82 ) and O(3) ( OR 0.74 ; 95% CI 0.60 , 0.90 ) among Ile105 homozygotes , but positively associated with PM(2.5) ( OR 1.52 ; 95% CI 1.01 , 2.27 ) and O(3) ( OR 1.19 ; 95% CI 0.91 , 1.57 ) among those with at least one val105 allele ( interaction p value = 0.001 and 0.03 , respectively ) .
+A similar tendency of effect modification between PM(2.5) and O(3) and GSTP1 on wheezing was found .
+CONCLUSION Children who carried Ile105 variant allele and exposed to PM(2.5) and O(3) may be less likely to occurrence of asthma/wheezing .

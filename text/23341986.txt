@@ -1,0 +1,16 @@
+Arsenic is a very potent toxicant .
+One major susceptibility factor for arsenic-related toxicity is the efficiency of arsenic metabolism .
+The efficiency , in turn , is associated with non-coding single nucleotide polymorphisms ( SNPs ) in the arsenic methyltransferase AS3MT on chromosome 10q24 .
+However , the mechanism of action for these SNPs is not yet clarified .
+Here , we assessed the influence of genetic variation in AS3MT on DNA methylation and gene expression within 10q24 , in people exposed to arsenic in drinking water .
+DNA was extracted from peripheral blood from women in the Argentinean Andes ( N\u200a=\u200a103 ) and from cord blood from new-borns in Bangladesh ( N\u200a=\u200a127 ) .
+AS3MT SNPs were analyzed with Sequenom or Taqman assays .
+Whole genome epigenetic analysis with Infinium HumanMethylation450 BeadChip was performed on bisulphite-treated DNA .
+Whole genome gene expression analysis was performed with Illumina DirectHyb HumanHT-12 v4.0 on RNA from peripheral blood .
+Arsenic exposure was assessed by HPLC-ICPMS .
+In the Argentinean women , the major AS3MT haplotype , associated with more efficient arsenic metabolism , showed increased methylation of AS3MT ( p\u200a=\u200a10(-6) ) and also differential methylation of several other genes within about 800 kilobasepairs : CNNM2 ( p<10(-16) ) , NT5C2 ( p<10(-16) ) , C10orf26 ( p\u200a=\u200a10(-8) ) , USMG5 ( p\u200a=\u200a10(-5) ) , TRIM8 ( p\u200a=\u200a10(-4) ) , and CALHM2 ( p\u200a=\u200a0.038 ) ( adjusted for multiple comparisons ) .
+Similar , but weaker , associations between AS3MT haplotype and DNA methylation in 10q24 were observed in cord blood ( Bangladesh ) .
+The haplotype-associated altered CpG methylation was correlated with reduced expression of AS3MT and CNNM2 ( r(s)\u200a=\u200a-0.22 to -0.54 ) , and with increased expression of NT5C2 and USMG5 ( r(s)\u200a=\u200a0.25 to 0.58 ) .
+Taking other possibly influential variables into account in multivariable linear models did only to a minor extent alter the strength of the associations .
+In conclusion , the AS3MT haplotype status strongly predicted DNA methylation and gene expression of AS3MT as well as several genes in 10q24 .
+This raises the possibility that several genes in this region are important for arsenic metabolism .

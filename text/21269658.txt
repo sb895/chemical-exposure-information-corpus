@@ -1,0 +1,13 @@
+Based on consumption data statistics , food items from four regions in Sweden were sampled in a so-called market basket study .
+Food items from five food groups , i.e. fish , meat , dairy products , eggs and fat/oils , were analyzed for persistent organic pollutants ( POPs ) followed by per capita intake calculations .
+The highest levels of PCDD/F , PCB , PBDE , HBCD and chlorinated pesticides were found in the fish/fish products .
+The estimated market basket per capita intake of PCDD/F and dl-PCB was 0.7pg WHO-TEQ kg bw(-1) d(-1) ( TEFs from 1998 ) .
+The intake of \u2211PCB was estimated to 4.9 ng kg bw(-1) d(-1) and fish was found to be the major contributor with 64% .
+The intake of \u2211PBDE was found to be 0.7 ng kg bw(-1) d(-1) .
+Fish ( 38% ) and dairy products ( 31% ) were the largest contributors to the total PBDE intake .
+The intake of HBCD was estimated to 0.14 ng kg bw(-1) d(-1) .
+HBCD mainly came from fish ( 65% ) , but also dairy products ( 24% ) and meat ( 10% ) contributed .
+Also regarding the chlorinated pesticides , fish was found to be the major contributor , with 51% of the \u2211DDT coming from fish .
+The intake of \u2211DDT , \u2211HCH and HCB was 4.0 , 1.0 and 1.1 ng kg bw(-1) d(-1) , respectively .
+Most of the \u2211HCH and HCB originate from dairy products ( 43% and 55% , respectively ) .
+This study shows that the levels , and intake , of different POPs from food of animal origin in the market basket of 2005 seem to have decreased since the market basket study in 1999 .

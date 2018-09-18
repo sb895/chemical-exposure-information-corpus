@@ -1,0 +1,13 @@
+Perfluoroalkyl substances ( PFASs ) can cross the placenta , enter fetal circulation , and were found to correlate with adverse fetal growth .
+However , determinants of cord blood PFASs are not fully characterized .
+The study aimed to explore the association between PFASs and neonatal-maternal factors within a Taiwanese birth cohort .
+We selected subjects from Taiwan Birth Panel Study , which enrolled 486 infant-mother pairs in 2004-2005 .
+We collected cord blood and analyzed perfluorooctanoic acid ( PFOA ) , perfluorooctanyl sulfonate ( PFOS ) , perfluorononanoic acid ( PFNA ) and perfluoroundecanoic acid ( PFUA ) using a simple protein precipitation and an ultra-high performance liquid chromatography/tandem mass spectrometry .
+We retrieved information pertaining to maternal socio-demographics , lifestyle- and dietary-related factors through structured questionnaires during the postpartum hospital stay .
+A total of 439 subjects , with 90% response rate , have completed serum analysis and questionnaire survey .
+The median concentrations for PFOA , PFOS , PFNA , and PFUA in cord blood were 1.86 , 5.67 , 3.00 , and 13.5ngmL(-1) , respectively .
+After adjusting for potential confounders , multiple linear regression models revealed that log10-PFOA was positively associated with maternal age ( \u03b2=0.011 ) and negatively associated with multiparity ( \u03b2=-0.044 ) .
+Log10-PFOS was negatively correlated with birth weight ( \u03b2=-0.011 ) and higher maternal education ( senior high school : \u03b2=-0.067 ; university : \u03b2=-0.088 ) .
+Log10-PFUA tended to negatively associate with gender , male infants ( \u03b2=-0.075 ) , and using cosmetics during pregnancy ( \u03b2=-0.065 ) .
+Interestingly , presence of cockroaches in the home was positively associated with log10-PFOA ( \u03b2=0.041 ) and 1og10-PFNA ( \u03b2=0.123 ) .
+In conclusion , this study demonstrated several factors to correlate with cord blood PFASs and further investigation are still needed for confirmation of exposure routes .

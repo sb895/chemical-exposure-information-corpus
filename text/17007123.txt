@@ -1,0 +1,18 @@
+Since 1996 , industry , labor , and government have partnered to minimize workers ' exposure to asphalt fumes using engineering controls .
+The objective of this study was to determine the use after some years of experience and to benchmark the effectiveness of the engineering controls as compared to the current exposure limits .
+To accomplish this objective , the current highway class pavers equipped with controls to reduce asphalt fumes , occupational exposure levels , and ventilation flow rates were monitored , and a user acceptance survey was conducted .
+Personal breathing-zone sampling was administered to determine concentrations of total particulate matter ( TPM ) and benzene soluble matter ( BSM ) .
+Personal monitoring of workers yielded a BSM arithmetic mean of 0.13 mg/m3 ( 95% confidence limits ( 0.07 , 0.43 ) mg/m3 ) .
+All site average worker BSM values are below the American Conference of Governmental Industrial Hygienists ( ACGIH ) adopted threshold limit value ( TLV ) time weighted average ( TWA ) of 0.5 mg/m3 as benzene soluble inhalable particulate , although five sites contained 95% confidence limits slightly above the ACGIH TLV .
+The TPM arithmetic mean was 0.35 mg/m3 ( 95% confidence limits ( 0.27 , 0.69 ) mg/m3 ) .
+All sites showed average worker and area TPM values below NIOSH's recommended exposure limit for asphalt fumes ( 5 mg/m3 , 15 min ) .
+One screed area sample and one operator area sample were also taken each day .
+Area samples followed a similar pattern to the worker breathing zone samples , but were generally slightly higher in TPM and BSM concentration .
+The effect of work practices and application temperatures appears to have an impact on the ability of the engineering controls to keep exposure below the TLV for BSM .
+To gain a better understanding of the aerodynamic properties of asphalt fumes , particle size and airborne concentrations were also monitored using a TSI model 3320 aerodynamic particle sizer spectrometer .
+The geometric mean particle size was between 0.64 and 0.98 micrometers for the worker breathing zone samples , with a geometric mean of 0.73 micrometers for all sites .
+Total airborne concentrations were typically higher for the asphalt fume exposed groups than for the background samples .
+During high fume events , four 15-minute samples were taken each day .
+Only one 15-minute sample was above the limit of quantification .
+Stack flow rates were measured , and results are discussed and compared to the manufacturers ' nominal values .
+Survey results were generally positive , with recommendations discussed for continuous improvement .

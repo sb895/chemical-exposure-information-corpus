@@ -1,0 +1,10 @@
+The U.S. Department of Housing and Urban Development , in collaboration with the U.S. Consumer Product Safety Commission and the U.S. Environmental Protection Agency , characterized the environments of young children ( <6 years ) by measuring lead , allergens , and pesticides in a randomly selected nationally representative sample of licensed institutional child care centers .
+Multi-stage sampling with clustering was used to select 168 child care centers in 30 primary sampling units in the United States .
+Centers were recruited into the study by telephone interviewers .
+Samples for pesticides , lead , and allergens were collected at multiple locations in each center by field technicians .
+Field sampling was conducted from July through October 2001 .
+Wipe samples from indoor surfaces ( floors , tabletops , desks ) and soil samples were collected at the centers and analyzed using a multi-residue GC/MS analysis method .
+Based on the questionnaire responses , pyrethroids were the most commonly used pesticides among centers applying pesticides .
+Among the 63% of centers reporting pesticide applications , the number of pesticides used in each center ranged from 1 to 10 and the frequency of use ranged from 1 to 107 times annually .
+Numerous organophosphate and pyrethroid pesticides were detected in the indoor floor wipe samples .
+Chlorpyrifos ( 0.004-28 ng/cm2 ) , diazinon ( 0.002-18 ng/cm2 ) , cis-permethrin ( 0.004-3 ng/cm2 ) , and

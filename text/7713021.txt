@@ -1,0 +1,11 @@
+Chloroform is a known contaminant of chlorinated drinking water and of swimming pool water disinfected with chlorine or one of its derivatives .
+Few data exist regarding the importance of dermal and inhalation exposure routes to the chloroform body burden resulting from domestic and recreational use of chlorinated water .
+In our experimental study involving 11 male swimmers , we quantified the body burden resulting from exposure to various concentrations of chloroform in water and air of an indoor swimming pool , during a daily 55-min exercise period .
+From the first to the sixth exercise period , CHCl3 mean concentration in water was increased from 159 micrograms/l to 553 micrograms/l .
+Corresponding mean air CHCl3 level ranged from 597 ppb to 1630 ppb .
+To dissociate the dermal exposure route from that of inhalation , swimmers used scuba tanks during an additional exercise period .
+Chloroform concentrations were measured in alveolar air before and after each exercise period , as well as after 35 min of physical activity .
+Chloroform levels in water and air were measured every 10 min .
+We examined the relationship between alveolar air concentration ( a measure of body burden ) at 35 and 55 min and environmental chloroform concentrations by using multiple regression models .
+The natural logarithm of alveolar air concentration was strongly correlated with aqueous chloroform concentration both at 35 ( p2 < 0.001 , r2 = 0.75 ) and 55 min ( p < 0.001 , r2 = 0.86 ) .
+The relationship with air concentrations was also statistically significant ( 35 min : p < 0.001 , r2 = 0.58 , 55 min : p < 0.001 , r2 = 0.63).(ABSTRACT TRUNCATED AT 250 WORDS )

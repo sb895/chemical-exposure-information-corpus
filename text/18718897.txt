@@ -1,0 +1,8 @@
+In a selected group of women from the Danish National Birth Cohort , the authors investigated the association between intake of fatty fish and plasma concentrations of polychlorinated biphenyls ( PCBs ) on the one hand and the association between maternal PCB concentrations and fetal growth on the other .
+Of 70,183 women who filled in a food frequency questionnaire during 1996-2002 , 100 nulliparous women aged 25-35 years with normal prepregnancy body mass index were selected according to their intake of fatty fish ( low ( 0 meals/month , n = 34 ) , medium ( 1-3 meals/month , n = 33 ) , or high ( > or = meals/month , n = 33) ) .
+Women with a high intake of fatty fish had 50% ( 95% confidence interval ( CI ) : 31 , 72 ) higher plasma PCB concentrations than women with low intake .
+Maternal plasma PCB concentrations were inversely associated with birth weight and placental weight .
+The adjusted mean difference between the 75th and 25th PCB percentiles was -155 g ( 95% CI : -291 , -19 ) for birth weight and -81 g ( 95% CI : -135 , -26 ) for placental weight .
+These results support previous findings from this cohort , where fatty fish intake was inversely associated with fetal growth .
+Dietary recommendations often encourage weekly consumption of fatty fish .
+These results suggest that potential exposure to PCBs should be carefully considered before recommending such intakes among women of childbearing age .

@@ -1,0 +1,12 @@
+We evaluated the risk of gastric cardia cancer by occupation and industry in a case-control study using information from death certificates for 24 US states in 1984-1992 .
+One thousand fifty-six cases of gastric cardia cancer were identified among men aged 20 years or more , including 1,023 whites and 33 blacks .
+Controls were 5,280 subjects who died of nonmalignant diseases , 5:1 matched to cases by geographic region , race , gender , and 5-year age group .
+Among white men , occupations with elevated risk included financial managers ( odds ratio [ OR ] = 6.1 ; 95% confidence interval [ CI ] , 1.3-28.8 ) , janitors and cleaners ( OR = 1.7 ; 95% CI , 1.0-2.9 ) , production inspectors ( OR = 3.2 ; 95% CI , 1.5-6.9 ) , and truck drivers ( OR = 1.5 ; 95% CI , 1.0-2.2 ) .
+Industries with elevated risk included pulp and paper mills ( OR = 2.0 ; 95% CI , 1.0-37 ) , newspaper publishing and printing ( OR = 2.6 ; 95% CI , 1.0-6.3 ) , industrial and miscellaneous chemicals ( OR = 2.0 ; 95% CI , 1.0-3.9 ) , water supply and irrigation ( OR = 5.6 ; 95% CI , 1.6-19.9 ) .
+Among black men , risks were nonsignificantly increased for subjects employed in railroads ( 3 cases , 2 controls ) and for carpenters ( 3 cases , 0 controls ) .
+We created job-exposure matrices for asbestos , inorganic dust , metal dust , lead , polycyclic aromatic hydrocarbons , nitrogen oxides , nitrosamines , sulfuric acid , fertilizers , herbicides , other pesticides , and wood dust .
+Among white men , a consistent pattern of risk increase by level and probability of exposure was observed only for sulfuric acid mists , with a twofold excess ( 95% CI , 0.6-7.3 ) associated with high probability of high intensity exposure .
+A significant 30% increase in risk was observed for those subjects with a high probability of exposure ( all levels combined ) to lead , and a 60% increase was observed for subjects with high-level exposure to lead ( all probabilities combined ) .
+However , crosstabulation of gastric cardia cancer risk by probability and level of exposure to lead did not show consistent trends .
+Asbestos exposure also showed an overall 50% increase but no consistent trends among white men .
+None of the 12 occupational hazards showed an association with risk for black men .

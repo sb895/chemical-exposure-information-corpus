@@ -1,0 +1,16 @@
+UNLABELLED Parts of the population are permanently exposed to low levels of Hg degrees and Hg(II) from dental amalgam .
+It was the aim ( 1 ) to investigate the internal exposure to amalgam-related mercury from the kinetics of inorganic Hg in plasma and erythrocytes after amalgam removal , and ( 2 ) to estimate the amalgam-related absorbed dose .
+Dietary coexposure was monitored by determination of blood organic-Hg .
+Postremoval steady-state Hg concentrations were measured for 18 months .
+Eighty-two patients had been randomized into three groups : ( A ) removal of the fillings ; ( B ) removal and non-specific detoxification , and ( C ) a health promotion program without removal .
+After amalgam removal , inorganic Hg dropped rapidly in plasma and red cells , stabilizing at 27% of preremoval levels after 60 days .
+Concentrations of organic Hg in plasma remained unchanged , indicating no change in dietary uptake of organic Hg .
+The concentration of organic Hg in red cells of group A was in the early postremoval phase lower and in the late postremoval phase higher than the preremoval control ( p<0.01 for low-high difference ) .
+A protracted increase in organic Hg was also found in red cells of group B after 60 days .
+Thus , the effect of removal on organic Hg levels in the combined group A+B was compared with the values of group C in a linear mixed effects ( LME ) model which showed a significant increase with time in group A+B ( p=0.028 ) .
+In all groups , time profiles of urinary concentration and excretion of total-Hg were very similar to those of inorganic-Hg levels in plasma .
+From extrapolations of blood and urine data it was estimated that the amalgam-related inhalation and ingestion of Hg species were within the limits proposed by WHO , ATSDR and EPA .
+The integrated daily Hg dose absorbed from amalgam was estimated up to 3 microg for an average number of fillings and at 7.4 for a high amalgam load .
+CONCLUSIONS This is the first study on adult amalgam patients which continuously monitored the postremoval decline of inorganic Hg and the coexposure from dietary organic Hg in a randomized-controlled-trial design .
+The integrated daily dose of 7.4 microg absorbed from a high amalgam load is well below the tolerable dose of 30 microg ( WHO , 1990 ) .
+The unexpected postremoval increase in erythrocyte organic Hg , which is associated with the depletion of cellular inorganic Hg , might result from binding of organic Hg to cellular sites previously occupied by inorganic Hg .

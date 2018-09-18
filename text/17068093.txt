@@ -1,0 +1,7 @@
+Runcorn , North West England , has been a site of industrial activity for over 100 years .
+Preliminary investigations have revealed excess risk of renal mortality in the population living closest to several sources of pollution .
+Exposure to airborne mercury has been highlighted as a possible cause , although there is also concomitant exposure to solvents and other heavy metals in this population .
+The authors used validated air dispersion modeling to identify mercury-exposed populations .
+Standardized mortality ratios for kidney disease were computed using the North West government region as the reference .
+There was a significant exposure-response relation between modeled estimates of mercury exposure and risk of kidney disease mortality ( test for trend : p = 0.02 for men and p = 0.03 for women ) , and this relation was more pronounced for estimated historical exposure ( test for trend : p = 0.01 for men and p < 0.001 for women ) .
+These findings suggest that exposure to mercury is a possible cause of the excess kidney disease mortality in this population , indicating that there might still be a health legacy of the historically high levels of industrial activity in the Runcorn area .

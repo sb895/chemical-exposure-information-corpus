@@ -1,0 +1,11 @@
+BACKGROUND Bisphenol A ( BPA ) and 4-tertiary-octylphenol ( tOP ) are industrial chemicals used in the manufacture of polycarbonate plastics and epoxy resins ( BPA ) and nonionic surfactants ( tOP ) .
+These products are in widespread use in the United States .
+OBJECTIVES We aimed to assess exposure to BPA and tOP in the U.S. general population .
+METHODS We measured the total ( free plus conjugated ) urinary concentrations of BPA and tOP in 2,517 participants > or = 6 years of age in the 2003-2004 National Health and Nutrition Examination Survey using automated solid-phase extraction coupled to isotope dilution-high-performance liquid chromatography-tandem mass spectrometry .
+RESULTS BPA and tOP were detected in 92.6% and 57.4% of the persons , respectively .
+Least square geometric mean ( LSGM ) concentrations of BPA were significantly lower in Mexican Americans than in non-Hispanic blacks ( p = 0.006 ) and non-Hispanic whites ( p = 0.007 ) ; LSGM concentrations for non-Hispanic blacks and non-Hispanic whites were not statistically different ( p = 0.21 ) .
+Females had statistically higher BPA LSGM concentrations than males ( p = 0.043 ) .
+Children had higher concentrations than adolescents ( p < 0.001 ) , who in turn had higher concentrations than adults ( p = 0.003 ) .
+LSGM concentrations were lowest for participants in the high household income category ( > $45,000/year ) .
+CONCLUSIONS Urine concentrations of total BPA differed by race/ethnicity , age , sex , and household income .
+These first U.S. population representative concentration data for urinary BPA and tOP should help guide public health research priorities , including studies of exposure pathways , potential health effects , and risk assessment .

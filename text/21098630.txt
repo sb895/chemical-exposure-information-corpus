@@ -1,0 +1,8 @@
+Skin lesions are classic clinical signs of toxicity due to long-term exposure to arsenic , and they are considered precursors to arsenic-related skin cancer .
+The authors prospectively evaluated synergisms between effects of arsenic exposure and those of tobacco use , sun exposure , and pesticide and fertilizer use on incident skin lesions using risk factor data from 5,042 men from the Health Effects of Arsenic Longitudinal Study in Araihazar , Bangladesh , which recruited participants from October 2000 to May 2002 .
+Discrete time hazard models were used to estimate measures of synergistic interactions on the additive scale .
+The authors observed significant synergistic effects between various measures of arsenic exposure and smoking and fertilizer use .
+The relative excess risks for the interactions between smoking status and arsenic exposure were 0.12 ( 95% confidence interval : 0.06 , 0.19 ) for water arsenic and 0.11 ( 95% confidence interval : 0.05 , 0.15 ) for urinary arsenic measures , respectively .
+Significant synergistic effects were also observed between fertilizer use and water arsenic ( relative excess risk for the interaction = 0.06 , 95% confidence interval : 0.01 , 0.12 ) .
+This is the first prospective study based on individual-level data that supports a role for smoking and certain occupational risk factors in modification of the effect of long-term arsenic exposure on skin lesions .
+Understanding differential arsenic susceptibility allows researchers to develop interventions to prevent the health consequences of this massive problem in the Bangladeshi population and beyond .

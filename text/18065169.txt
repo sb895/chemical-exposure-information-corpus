@@ -1,0 +1,8 @@
+Targeting persons requiring observation in the Cd-polluted Kakehashi River basin a serial observation study was conducted .
+Namely we followed the serial changes in 50 subjects who ingested household rice for 10 years after replacement of Cd-polluted soil in rice paddies .
+The serial changes in urinary substance levels in individuals were determined adjusting for the potential effect of age using a general linear mixed model .
+Cd excretions decreased with increasing number of years elapsed , with the partial regression coefficients of the number of years elapsed statistically significant in the women .
+The ratio of the Cd excretion theoretical values at the completion of soil replacement and 10 years later was 0.60 and the reduction rate was calculated as 5.0% per year in women .
+However , it was surmised that in practice a decrease to the level of inhabitants of non-polluted districts would not be achievable .
+The indices of renal tubular injury ( beta(2)-microglobulin , retinol binding protein ( RBP ) , total protein , amino-N and glucose ) with the exception of amino-N in men showed increased excretion in both sexes with increasing number of years elapsed with statistically significant differences in RBP and total protein in both sexes and glucose in men .
+In this study using a general linear mixed model , which is an appropriate statistical method to perform a follow-up study , Cd concentrations in rice and urine were found to decrease after Cd exposure was reduced , but the degree of renal tubular injury was not found to improve , leading to the conclusion that the renal tubular injury induced by environmental Cd exposure is irreversible .

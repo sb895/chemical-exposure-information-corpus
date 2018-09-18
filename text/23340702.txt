@@ -1,0 +1,14 @@
+The impact of air pollution on fetal growth remains controversial , in part , because studies have been limited to sub-regions of the United States with limited variability .
+No study has examined air pollution impacts on neonatal health care utilization .
+We performed descriptive , univariate and multivariable analyses on administrative hospital record data from 222,359 births in the 2000 , 2003 and 2006 Kids Inpatient Database linked to air pollution data drawn from the US Environmental Protection Agency's Aerometric Information Retrieval System .
+In this study , air pollution exposure during the birth month was estimated based on birth hospital address .
+Although air pollutants were not individually associated with mean birth weight , a three-pollutant model controlling for hospital characteristics , demographics , and birth month identified 9.3% and 7.2% increases in odds of low birth weight and very low birth weight for each \u03bcg/m(3) increase in PM(2.5) ( both P<0.0001 ) .
+PM(2.5) and NO(2) were associated with -3.0% odds/p.p.m. and +2.5% odds/p.p.b. of preterm birth , respectively ( both P<0.0001 ) .
+A four-pollutant multivariable model indicated a 0.05 days/p.p.m .
+NO(2) decrease in length of the birth hospitalization ( P=0.0061 ) and a 0.13 days increase/p.p.m .
+CO ( P=0.0416 ) .
+A $1166 increase in per child costs was estimated for the birth hospitalization per p.p.m .
+CO ( P=0.0002 ) and $964 per unit increase in O(3) ( P=0.0448 ) .
+A reduction from the 75th to the 25th percentile in the highest CO quartile for births predicts annual savings of $134.7 million in direct health care costs .
+In a national , predominantly urban , sample , air pollutant exposures during the month of birth are associated with increased low birth weight and neonatal health care utilization .
+Further study of this database , with enhanced control for confounding , improved exposure assessment , examination of exposures across multiple time windows in pregnancy , and in the entire national sample , is supported by these initial investigations .

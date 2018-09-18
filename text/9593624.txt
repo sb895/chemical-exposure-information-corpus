@@ -1,0 +1,10 @@
+Methylmercury in serum ( S-MeHg ) was assessed from serum concentrations of total ( S-TotHg ) and inorganic mercury ( S-InoHg ) , determined by cold vapor-atomic absorption spectrometry .
+The samples were collected from 135 women on two occasions , in 1968-1969 and 1980-1981 .
+In a subgroup of 29 women , an association was found between S-MeHg and the amount of fish consumed in 1968-1969 ( r = 0.38 , P = 0.04 ) .
+The association was stronger ( r = 0.50 ; P = 0.006 ) when the individuals ' mean S-MeHg from 1968-1969 and 1980-1981 were plotted vs fish consumption 1968-1969 .
+In the group , as a whole , there was an association between S-InoHg and number of dental amalgam surfaces , in both 1968-1969 ( r = 0.48 , P = 0.0001 ) and 1980-1981 ( r = 0.57 , P < 0.0001 ) .
+The S-InoHg increased by approximately 0.1 nmol/L per amalgam tooth surface , corresponding to an uptake of approximately 0.2 microgram/day per amalgam surface , but with considerable interindividual differences .
+The levels were lower in 1980-1981 than in 1968-1969 for both MeHg and InoHg .
+The medians and ranges ( nmol/L ) were for MeHg 1968-1969 : 3.6 ( 0.3-11.9 ) ; MeHg 1980-1981 , 2.0 ( -0.4-8.7 ) ; InoHg 1968-1969 , 3.3 ( 0.7-11.8 ) ; InoHg 1980-1981 , 1.7 ( 0.1-11.8 ) ; TotHg 1968-1969 , 7.2 ( 1.9-18.8 ) ; and TotHg 1980-1981 , 3.9 ( 1.0-14.2 ) .
+The decrease in S-MeHg is probably due to a decreased consumption of MeHg via contaminated fish .
+The decrease in S-InoHg may reflect a decrease in environmental exposure , but the possibility of contamination of the 1968-1969 samples at sampling and/or storage cannot be excluded .

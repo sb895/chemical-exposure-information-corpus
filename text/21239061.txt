@@ -1,0 +1,11 @@
+BACKGROUND Mercury is a ubiquitous heavy metal that may negatively affect human health .
+It is desirable to investigate mercury exposure in vulnerable populations .
+OBJECTIVE To determine the concentrations of total mercury ( T-Hg ) in cord blood and to evaluate the role of maternal fish consumption in a Spanish mother and child cohort .
+METHODS A total of 1883 mother and child pairs from a population-based cohort were included between 2004 and 2008 .
+T-Hg concentrations were measured in whole cord blood and maternal seafood consumption was ascertained by means of a food-frequency questionnaire .
+Linear regression was used in stratified analyses , while a joint model was adjusted using a mixed-effects linear model .
+RESULTS Maternal daily seafood consumption was 78g/d and the geometric mean for T-Hg was 8.2\u03bcg/L .
+Maternal fish intake during pregnancy , mother's age , country of origin , educational level , employment status and parity , as well as area of study and season of delivery , were associated with cord blood T-Hg levels .
+A doubling in consumption of large oily fish was associated with an increase of 11.4% ( 95%CI : 3.8 to 19.6% ) in cord blood T-Hg levels , followed by an increase of 8.4% ( 95%CI : 5.7 to 11.2% ) in the case of canned tuna and 8.3% ( 95%CI : 5.5 to 11.1% ) in that of lean fish .
+CONCLUSION A high proportion of newborns had elevated concentrations of cord blood T-Hg according to the current US-EPA reference dose ( 5.8\u03bcg/L for methylmercury ) .
+Mercury concentrations were related to maternal fish consumption , with large oily fish being the main contributor .

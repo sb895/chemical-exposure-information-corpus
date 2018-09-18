@@ -1,0 +1,9 @@
+BACKGROUND Bisphenol A ( BPA ) , a widely used endocrine-disrupting chemical , has been associated with increased body weight and fat deposition in rodents .
+OBJECTIVES We examined whether prenatal and postnatal urinary BPA concentrations were associated with body mass index ( BMI ) , waist circumference , percent body fat , and obesity in 9-year-old children ( n = 311 ) in the CHAMACOS longitudinal cohort study .
+METHODS BPA was measured in spot urine samples collected from mothers twice during pregnancy and from children at 5 and 9 years of age .
+RESULTS Prenatal urinary BPA concentrations were associated with decreased BMI at 9 years of age in girls but not boys .
+Among girls , being in the highest tertile of prenatal BPA concentrations was associated with decreased BMI z-score ( \u03b2 = -0.47 , 95% CI : -0.87 , -0.07 ) and percent body fat ( \u03b2 = -4.36 , 95% CI : -8.37 , -0.34 ) and decreased odds of overweight/obesity [ odds ratio ( OR ) = 0.37 , 95% CI : 0.16 , 0.91 ] compared with girls in the lowest tertile .
+These findings were strongest in prepubertal girls .
+Urinary BPA concentrations at 5 years of age were not associated with any anthropometric parameters at 5 or 9 years , but BPA concentrations at 9 years were positively associated with BMI , waist circumference , fat mass , and overweight/obesity at 9 years in boys and girls .
+CONCLUSIONS Consistent with other cross-sectional studies , higher urinary BPA concentrations at 9 years of age were associated with increased adiposity at 9 years .
+However , increasing BPA concentrations in mothers during pregnancy were associated with decreased BMI , body fat , and overweight/obesity among their daughters at 9 years of age .

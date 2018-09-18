@@ -1,0 +1,9 @@
+BACKGROUND Childhood respiratory allergies , which contribute to missed school days and other activity limitations , have increased in recent years , possibly due to environmental factors .
+OBJECTIVE In this study we examined whether air pollutants are associated with childhood respiratory allergies in the United States .
+METHODS For the approximately 70,000 children from the 1999-2005 National Health Interview Survey eligible for this study , we assigned between 40,000 and 60,000 ambient pollution monitoring data from the U.S. Environmental Protection Agency , depending on the pollutant .
+We used monitors within 20 miles of the child's residential block group .
+We used logistic regression models , fit with methods for complex surveys , to examine the associations between the reporting of respiratory allergy or hay fever and annual average exposure to particulate matter < or = 2.5 microm in diameter ( PM2.5 ) , PM < or = 10 microm in diameter , sulfur dioxide , and nitrogen dioxide and summer exposure to ozone , controlling for demographic and geographic factors .
+RESULTS Increased respiratory allergy/hay fever was associated with increased summer O3 levels [ adjusted odds ratio ( AOR ) per 10 ppb = 1.20 ; 95% confidence interval ( CI ) , 1.15-1.26 ] and increased PM2.5 ( AOR per 10 microg/m3 = 1.23 ; 95% CI , 1.10-1.38 ) .
+These associations persisted after stratification by urban-rural status , inclusion of multiple pollutants , and definition of exposures by differing exposure radii .
+No associations between the other pollutants and the reporting respiratory allergy/hay fever were apparent .
+CONCLUSIONS These results provide evidence of adverse health for children living in areas with chronic exposure to higher levels of O3 and PM2.5 compared with children with lower exposures .

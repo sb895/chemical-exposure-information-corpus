@@ -1,0 +1,14 @@
+Polybrominated diphenyl ethers ( PBDE ) are flame retardants that were previously used in upholstery , fabrics , and household appliances .
+PBDEs have been linked to adverse health outcomes , including neurotoxicity , thyroid hormone dysregulation , endocrine disruption , and poor semen quality .
+Because PBDEs pass into placental circulation , maternal exposures can approximate fetal exposures .
+Our objectives were to determine whether diet and specific human behaviors were significantly associated with PBDE exposures in a cohort of pregnant women .
+Women between the 34th and 38th week of pregnancy were given a questionnaire about behavioral , environmental , and dietary factors and asked to provide blood samples .
+Serum PBDE levels were measured using GS-MS and lipid adjusted .
+An adjusted ordinary least squares regression model was run to identify potential associations between behaviors and serum PBDE levels .
+Serum concentrations of BDEs 47 , 99 , 100 , and 153 were found above the limit of detection in at least 50% of study participants and used in our models .
+Associations with serum PBDEs were observed with self-reported hand-to-mouth behaviors , including biting nails and licking fingers .
+Serum BDE levels of 47 , 99 , 153 , and total PBDEs were also significantly higher in those individuals owning a large-screen TV compared with those who did not .
+Serum PBDE levels were comparable to levels reported in the general population .
+Hand-to-mouth behaviors may influence serum PBDE concentrations in adults .
+Household electronics such as large-screen TVs appear to serve as a significant source of PBDEs in pregnant women .
+Together , hand-to-mouth behaviors and TV ownership may serve as a route of exposure to PBDEs in adults .

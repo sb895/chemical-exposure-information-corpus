@@ -1,0 +1,10 @@
+Indoor air pollution in developing countries is a major global health problem , yet estimates of the global burden of disease vary widely and are associated with large uncertainty .
+The World Health Organization uses the fuel based approach to estimate 1.6 million premature deaths globally each year associated with exposure to indoor air pollution , of which 420000 are in China .
+The fuel based approach uses a ventilation factor to account for differences in indoor air concentrations and exposures in different parts of the world based on regional differences in stove technology .
+In China this approach assumes that flues eliminate the majority of indoor air pollution , with a ventilation factor of 0.25 .
+To account for historic exposure leading to current disease patterns the ventilation factor was adjusted to 0.5 for adult health endpoints .
+Measurements in three Chinese provinces , Shaanxi , Hubei and Zhejiang , however , show that high PM(4) concentrations are present in kitchens and living rooms even with stoves with flues as a result of multiple stove and flue use .
+Comparison of Indian and Chinese indoor air concentrations suggests more appropriate ventilation factors in the range 0.76-1.0 for women and children , and 1.0 for men .
+Premature mortality in the three provinces using these estimates would be closer to 60600 , rather than current estimates of 46000 .
+With the addition of cardiovascular diseases these estimates would increase by 92000 .
+Pollutant based estimates using measured indoor air concentrations and combined with dose-response estimates would imply a burden of disease of 157800 premature deaths including cardiovascular diseases , a tripling of current estimates .

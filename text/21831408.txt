@@ -1,0 +1,13 @@
+Measurements of cadmium ( Cd ) in air , soil and moss have shown elevated concentrations in residential areas close to a zinc smelter in Norway .
+This study aimed to evaluate whether men and women residing in the area with elevated Cd concentrations in air and soil had increased levels of Cd and microproteins in urine .
+An invitation to participate was mailed to 200 persons residing close to the zinc smelter and to 200 controls from an area more than 4 km away from the smelter .
+They were asked to complete a questionnaire , and to deliver a urine sample for analysis of cadmium ( CdU ) , mercury ( HgU ) , lead ( PbU ) and \u03b11-microglobulin ( ProteinHC ) .
+Two hundred and six participants ( response rate 52% ) , between 19 and 88 years of age , were included .
+Results were analysed by multiple-adjusted linear and logistic regression .
+CdU was not significantly different between individuals in the two residence areas .
+Only ten individuals had CdU concentrations exceeding European Food Safety Authority ( EFSA ) critical value of 1 \u03bcg/g creatinine , whereas 35 persons ( 22% of the women vs. 11% of the men ) had CdU concentrations higher than 0.66 \u03bcg/g creatinine , which EU suggested to be sufficiently protective for the general population .
+Smoking was the predominant contributing factor to values of elevated CdU .
+There was a tendency of higher CdU , although not statistically significant , amongst people regularly consuming fruit , berries and vegetables grown in their own garden near the smelter area .
+Home address in the polluted area was not a significant determinant .
+There was a positive correlation between CdU and ProteinHC in urine , but no significant difference was found for ProteinHC between residents from polluted area and controls .
+In spite of demonstrated industrial emissions of cadmium , the results do not indicate elevated cadmium exposure or kidney damage in the polluted area compared to the control area .

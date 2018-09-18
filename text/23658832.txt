@@ -1,0 +1,8 @@
+The air quality in Beijing , especially its PM2.5 level , has become of increasing public concern because of its importance and sensitivity related to health risks .
+A set of monitored PM2.5 data from 31 stations , released for the first time by the Beijing Environmental Protection Bureau , covering 37 days during autumn 2012 , was processed using spatial interpolation and overlay analysis .
+Following analyses of these data , a distribution map of cumulative exceedance days of PM2.5 and a temporal variation map of PM2.5 for Beijing have been drawn .
+Computational and analytical results show periodic and directional trends of PM2.5 spreading and congregating in space , which reveals the regulation of PM2.5 overexposure on a discontinuous medium-term scale .
+With regard to the cumulative effect of PM2.5 on the human body , the harm from lower intensity overexposure in the medium term , and higher overexposure in the short term , are both obvious .
+Therefore , data of population distribution were integrated into the aforementioned PM2.5 spatial spectrum map .
+A spatial statistical analysis revealed the patterns of PM2.5 gross exposure and exposure probability of residents in the Beijing urban area .
+The methods and conclusions of this research reveal relationships between long-term overexposure to PM2.5 and people living in high-exposure areas of Beijing , during the autumn of 2012 .

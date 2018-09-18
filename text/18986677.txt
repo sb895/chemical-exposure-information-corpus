@@ -1,0 +1,8 @@
+Persistent organic pollutants ( POPs ) have the capacity to pass through the placental barrier and into the fetal blood stream , and pose health risks to fetuses and neonates who are believed to be more vulnerable to the effects of environmental pollutants .
+In this study , the prevalence of POPs , including organochlorine pesticides ( OCPs ) , polychlorinated biphenyls ( PCBs ) and polybrominated biphenyl ethers ( PBDEs ) , were determined in 41 cord blood samples collected during the year 2006 in Singapore .
+The effects of these xenobiotics and the maternal characteristics on fetal growth and development were explored using multivariate data analysis ( MVA ) techniques , including partial least-squares regression ( PLSR ) and discriminant analysis ( PLS-DA ) .
+POPs were found in all cord blood samples , corroborating the transplacental transfer ( TPT ) of these xenobiotics .
+Chlordanes and PCBs were observed to have adverse effects on fetal growth ( i.e. birth weight , length , head circumference ) and health ( as indicated by Apgar scores ) , indicating the chemical exposure in utero could also be deemed as an influential factor on fetal growth , even at the normal doses in general population .
+Maternal height , weight , ethnicity , dietary habits and lifestyle were also the determinants for the neonatal variables .
+Exposure to POPs may alter maternal hormone levels , which could regulate the offspring sex .
+Trans-chlordane , p,p'-DDE , p,p'-DDT and PCB 138 and 158 were speculated as testosterone triggers which lead to more baby boys , while the effects of beta-HCH and PCB 180 were opposite .

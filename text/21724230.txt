@@ -1,0 +1,6 @@
+A study was conducted to evaluate the association between PCBs in residential indoor air and in the serum of older , long time residents of three upper Hudson River communities .
+Samples of indoor air and of serum were collected from 170 persons 55 to 74 years of age , and analyzed for PCBs using glass capillary gas chromatography .
+After adjusting for age , BMI , cigarette smoking , and Hudson River fish consumption with multiple linear regression analysis , the results indicated statistically significant associations between concentrations in indoor air and serum for PCB-28 , a lightly chlorinated congener common in air that accumulates in serum , and PCB-105 .
+Duration of exposure was an important factor , since among persons who had lived in their home for 39 years or more , 11 of the 12 most commonly detected congeners were significantly correlated , as was their sum ( \u2211 PCB ) .
+Significant associations between indoor air and serum PCB concentrations also were more likely when collected in cooler months and if the two samples were collected within 20 d of each other .
+The study is among the first to indicate that PCB concentrations characteristic of residential indoor air are associated with a detectable increase in body burden .

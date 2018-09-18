@@ -1,0 +1,11 @@
+Temporal trends of polychlorinated dibenzo-p-dioxins ( PCDDs ) , dibenzofurans ( PCDFs ) and dioxin-like polychlorinated biphenyls ( DL-PCBs ) in mothers ' milk are still quite rare .
+Data are particularly scarce when it comes to concentrations from the last decade , 2000 and onwards .
+The aims of the present study were to assess temporal trends of PCDD , PCDF and DL-PCB in mothers ' milk from Stockholm , 1972-2011 and to compare the results with previous analysis of some of the older samples .
+The samples were analyzed by high resolution GC/MS and results were statistically evaluated for the periods , 1972-2011 and 2002-2011 .
+The rate of which \u2211PCDDs , \u2211DL-PCBs and the \u2211TEQ are decreasing ( on pg/g fat WHO-TEQ2005 ) is higher in the last decade compared to the 40year period , 1972-2011 .
+A similar trend is indicated , but not confirmed , for \u2211TEQ of PCDFs , probably due to too many PCDF congeners below LOQ in the period 2002-2011 .
+Concentrations of \u2211PCDDs , \u2211PCDFs , \u2211DLPCBs and \u2211TEQ , all expressed as pg/g fat on TEQ-WHO2005-basis , show a statistically significant decline over time , 5.8-6.8% per year , 1972-2011 .
+The last ten years the annual declines for \u2211PCDDs , \u2211DL-PCBs and \u2211TEQ are 9.2-11% and for \u2211PCDF , 5.4% .
+Congener specific trend analysis , 2002-2001 , of PCDDs and DL-PCBs showed the same pattern , while the PCDF congeners showed no such general trend .
+The results from the re-analysis showed good agreement with slightly lower \u2211TEQ1998 pg/g fat concentrations in six out of seven samples and mean difference of 13% in \u2211TEQ1998 .
+The study shows that time series can be elongated from previous studies , as long as the sample population remains the same .

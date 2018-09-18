@@ -1,0 +1,8 @@
+Researchers have theorized that social and psychosocial factors increase vulnerability to the deleterious health effects of environmental hazards .
+We used baseline examination data ( 2000-2002 ) from the Multi-Ethnic Study of Atherosclerosis .
+Participants were 45-84 years of age and free of clinical cardiovascular disease at enrollment ( n = 6814 ) .
+The modifying role of social and psychosocial factors on the association between exposure to air pollution comprising particulate matter less than 2.5 µm in aerodynamic diameter ( PM2.5 ) and blood pressure measures were examined using linear regression models .
+There was no evidence of synergistic effects of higher PM2.5 and adverse social/psychosocial factors on blood pressure .
+In contrast , there was weak evidence of stronger associations of PM2.5 with blood pressure in higher socioeconomic status groups .
+For example , those in the 10th percentile of the income distribution ( i.e. , low income ) showed no association between PM2.5 and diastolic blood pressure ( b = -0.41 mmHg ; 95% confidence interval : -1.40 , 0.61 ) , whereas those in the 90th percentile of the income distribution ( i.e. , high income ) showed a 1.52-mmHg increase in diastolic blood pressure for each 10-µg/m(3) increase in PM2.5 ( 95% confidence interval : 0.22 , 2.83 ) .
+Our results are not consistent with the hypothesis that there are stronger associations between PM2.5 exposures and blood pressure in persons of lower socioeconomic status or those with greater psychosocial adversity .

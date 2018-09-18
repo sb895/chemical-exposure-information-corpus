@@ -1,0 +1,9 @@
+The extensive use of fish meal as a source of protein for poultry and swine may lead to additional exposure to methylmercury ( MeHg ) .
+We determined the concentration of MeHg and inorganic mercury ( I-Hg ) in blood and total mercury ( T-Hg ) in hair in 27 persons ( 9 men and 18 women , 20-58 years of age ) who stated that they had consumed no fish for a period of 2 years or more .
+The participants answered a food frequency questionnaire and reported their number of dental amalgam fillings .
+The MeHg concentrations in blood ( median , 0.10 microg/L ; range , 0.0-1.0 microg/L ) were very low and did not constitute a concern for health effects .
+We also analyzed selenium ( Se ) in serum .
+The median concentration was 76 microg/L ( range , 53-103 microg/L ) , which is in agreement with previous studies of the Swedish general population , indicating that the Se status of non-fish-eating individuals is not substantially lower than that of people who include fish in their diet .
+We found a significant association ( P=0.002 ) between the number of dental amalgam fillings and the I-Hg concentration in blood ( median , 0.09 microg/L ; range , 0.03-0.57 microg/L ) .
+The T-Hg in hair ( median , 0.06 mg/kg ; range , 0.04-0.32 mg/kg ) was significantly associated ( R2=0.89 ; P<0.001 ) with the MeHg in blood , but not with the I-Hg in blood .
+Therefore , the T-Hg in hair seems to reflect MeHg exposure and not I-Hg exposure even in persons with no intake of fish .

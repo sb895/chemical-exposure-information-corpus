@@ -1,0 +1,6 @@
+This study examines the use of physiologically based pharmacokinetic ( PBPK ) models for inferring exposure when the number of biomarker observations per individual is limited , as commonly occurs in population exposure surveys .
+The trade-off between sampling multiple biomarkers at a specific time versus fewer biomarkers at multiple time points was investigated , using a simulation-based approach based on a revised and updated chlorpyrifos PBPK model originally published .
+Two routes of exposure , oral and dermal , were studied as were varying levels of analytic measurement error .
+It is found that adding an additional biomarker at a given time point adds substantial additional information to the analysis , although not as much as the addition of another sampling time .
+Furthermore , the precision of the estimates of exposed dose scaled approximately with the analytic precision of the biomarker measurement .
+For acute exposure scenarios such as those considered here , the results of this study suggest that the number of biomarkers can be balanced against the number of sampling times to obtain the most efficient estimator after consideration of cost , intrusiveness , and other relevant factors .

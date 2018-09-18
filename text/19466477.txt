@@ -1,0 +1,14 @@
+Arsenic ( As ) is a known human carcinogen and widely distributed in the environment .
+The main route of As exposure in the general population is through food and drinking water .
+Seafood harvested in Korea contains high-level organoarsenics such as arsenobetaine , arsenocholine , and arsenosugars , which are much less harmful than inorganic arsenics .
+However , for those who eat large amounts of seafood it is important to understand whether seafood consumption affects urinary levels of inorganic As metabolites such as arsenite , arsenate , monomethylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA ) .
+In this study we investigated urinary As metabolites ( inorganic As , MMA[V] , DMA[V] ) and some biological indexes such as AST , GSH , GPX , lipid peroxidation , and uric acid in volunteer study subjects ( seven males and nine females ) .
+Total urinary As metabolites were analyzed by the hydride generation method , followed by arsenic speciation using HPLC with ICP-mass spectrometry .
+Study subjects refrained from eating seafood for 3 days prior to the first urine collection and then ingested seafood daily for 6 consecutive days .
+The first voided urine of the morning was collected from each subject the first day of the consecutive 6 days of seafood ingestion but prior to the first seafood meal .
+The first voided urine of the morning was also collected on days 1 , 2 , 3 , 4 , 5 , 6 , 7 , 10 , and 14 after seafood ingestion .
+The daily mean intake of total As was 6.98 mg , comprised of 4.71 mg of seaweed ( 67% ) , 1.74 mg of flat fish ( 25% ) , and 0.53 mg of conch ( 8% ) .
+We observed a substantial increase in total urinary As metabolites for subjects consuming seafood from day 1 , which recovered to control level at day 10 .
+The increase in total urinary As metabolites was attributed to the increase in DMA , which is a more harmful metabolite than organoarsenics .
+However , no significant changes in response biological indexes were observed .
+These results suggest that it is necessary to evaluate As metabolism when assessing the exposure to inorganic As and potential chronic health effects of seafood consumption in Korea .

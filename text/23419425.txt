@@ -1,0 +1,17 @@
+BACKGROUND Perfluoroalkyl substances ( PFASs ) are widespread pollutants that have been associated with adverse health effects although not on a consistent basis .
+Diet has been considered the main source of exposure .
+The aim of the present study was to identify determinants of four plasma PFASs in pregnant Norwegian women .
+METHODS This study is based in the Norwegian Mother and Child Cohort Study ( MoBa ) conducted by the Norwegian Institute of Public Health .
+Our sample included 487 women who enrolled in MoBa from 2003 to 2004 .
+A questionnaire regarding sociodemographic , medical , and reproductive history was completed at 17 weeks of gestation and a dietary questionnaire was completed at 22 weeks of gestation .
+Maternal plasma samples were obtained around 17 weeks of gestation .
+Plasma concentrations of four PFASs ( perfluorooctane sulfonate ( PFOS ) , perfluorooctanoate ( PFOA ) , perfluorohexane sulfonate ( PFHxS ) , and perfluorononanoate ( PFNA) ) were examined in relation to demographic , lifestyle , dietary , and pregnancy-related covariates .
+Predictors were identified by optimizing multiple linear regression models using Akaike's information criterion ( AIC ) .
+RESULTS Parity was the determinant with the largest influence on plasma PFAS concentrations , with r(2) between 0.09 and 0.32 in simple regression models .
+In optimal multivariate models , when compared to nulliparous women , parous women had 46% , 70% , 19% , and 62% lower concentrations of PFOS , PFOA , PFHxS , and PFNA respectively ( p<0.001 except for PFHxS , p<0.01 ) .
+In all these models , duration of breastfeeding was associated with reduced PFAS levels .
+PFOA showed the largest reduction from breastfeeding , with a 2-3% reduction per month of breastfeeding in typical cases .
+Levels of PFOS , PFOA , and PFNA increased with time since most recent pregnancy .
+While pregnancy-related factors were the most important predictors , diet was a significant factor explaining up to 4% of the variance .
+One quartile increase in estimated dietary PFAS intake was associated with plasma PFOS , PFOA , PFHxS , and PFNA concentration increases of 7.2% , 3.3% , 5.8% and 9.8% , respectively , resulting in small , although non-trivial absolute changes in PFAS concentrations .
+CONCLUSION Previous pregnancies and breastfeeding duration were the most important determinants of PFASs in this sample of pregnant women .

@@ -1,0 +1,8 @@
+Disinfection by-product ( DBP ) exposure during pregnancy may be related to reduced fetal growth , but the evidence is inconclusive and improved DBP exposure assessment is required .
+The authors conducted a nested exposure study on a subset ( n=39 ) of pregnant women in the Born in Bradford cohort to assess validity of TCAA exposure assessment based on tap water sampling and self-reported water-use ; water-use questionnaire validity ; and use of a one-time urinary TCAA biomarker .
+TCAA levels in urine and home tap water supply were quantified , and water use was measured via a questionnaire and 7-day diary , at 28 weeks gestation .
+Diary and urine measures were repeated later in pregnancy ( n=14 ) .
+TCAA level in home tap water supply was not correlated with urinary TCAA ( 0.18 , P=0.29 ) .
+Cold unfiltered tap water intake at home measured by questionnaire was correlated with urinary TCAA ( 0.44 , P=0.007 ) , but correlation was stronger still for cold unfiltered tap water intake reported over the 3 days prior to urine sampling ( 0.60 , P<0.001 ) .
+For unemployed women TCAA ingestion at home , derived from tap water sampling and self-reported water-use , correlated strongly with urinary TCAA ( 0.78 , P<0.001 ) , but for employed women the correlation was weak ( 0.31 , P=0.20 ) .
+Results suggest individual tap water intake is most influential in determining TCAA exposure variability in this cohort , and that TCAA ingestion at home is a valid proxy for TCAA exposure for unemployed women but less satisfactory for employed women .

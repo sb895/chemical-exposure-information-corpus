@@ -1,0 +1,12 @@
+Exposure to naturally occurring inorganic arsenic ( iAs ) , primarily from contaminated drinking water , is considered one of the top environmental health threats worldwide .
+Arsenic ( +3 oxidation state ) methyltransferase ( AS3MT ) is the key enzyme in the biotransformation pathway of iAs .
+AS3MT catalyzes the transfer of a methyl group from S-adenosyl-L-methionine to trivalent arsenicals , resulting in the production of methylated ( MAs ) and dimethylated arsenicals ( DMAs ) .
+MAs is a susceptibility factor for iAs-induced toxicity .
+In this study , we evaluated the association of the polymorphism in AS3MT gene with iAs metabolism and with the presence of arsenic ( As ) premalignant skin lesions .
+This is a case-control study of 71 cases with skin lesions and 51 controls without skin lesions recruited from a iAs endemic area in Mexico .
+We measured urinary As metabolites , differentiating the trivalent and pentavalent arsenical species , using the hydride generation atomic absorption spectrometry .
+In addition , the study subjects were genotyped to analyze three single nucleotide polymorphisms ( SNPs ) , A-477G , T14458C ( nonsynonymus SNP ; Met287Thr ) , and T35587C , in the AS3MT gene .
+We compared the frequencies of the AS3MT alleles , genotypes , and haplotypes in individuals with and without skin lesions .
+Marginal differences in the frequencies of the Met287Thr genotype were identified between individuals with and without premalignant skin lesions ( p=0.055 ) : individuals carrying the C ( TC+CC ) allele ( Thr ) were at risk [ odds ratio=4.28 ; 95% confidence interval ( 1.0-18.5) ] .
+Also , individuals with C allele of Met287Thr displayed greater percentage of MAs in urine and decrease in the percentage of DMAs .
+These findings indicate that Met287Thr influences the susceptibility to premalignant As skin lesions and might be at increased risk for other adverse health effects of iAs exposure .

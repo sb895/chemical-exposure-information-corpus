@@ -1,0 +1,12 @@
+BACKGROUND Perfluorooctanoate ( PFOA ) and perfluorooctane sulfonate ( PFOS ) are persistent , synthetic industrial chemicals .
+Perfluorinated compounds are linked to health impacts that may be relevant to osteoarthritis , cartilage repair , and inflammatory responses .
+OBJECTIVES We investigated whether PFOA and PFOS exposures are associated with prevalence of osteoarthritis , and whether associations differ between men and women .
+METHODS We used multiple logistic regression to estimate associations between serum PFOA and PFOS concentrations and self-reported diagnosis of osteoarthritis in persons 20-84 years of age who participated in NHANES during 2003-2008 .
+We adjusted for potential confounders including age , income , and race/ethnicity .
+Effects by sex were estimated using stratified models and interaction terms .
+RESULTS Those in the highest exposure quartile had higher odds of osteoarthritis compared with those in the lowest quartile [ odds ratio ( OR ) for PFOA = 1.55 ; 95% CI : 0.99 , 2.43 ; OR for PFOS = 1.77 ; 95% CI : 1.05 , 2.96 ] .
+When stratifying by sex , we found positive associations for women , but not men .
+Women in the highest quartiles of PFOA and PFOS exposure had higher odds of osteoarthritis compared with those in the lowest quartiles ( OR for PFOA = 1.98 ; 95% CI : 1.24 , 3.19 and OR for PFOS = 1.73 ; 95% CI : 0.97 , 3.10 ) .
+CONCLUSIONS Higher concentrations of serum PFOA were associated with osteoarthritis in women , but not men .
+PFOS was also associated with osteoarthritis in women only , though effect estimates for women were not significant .
+More research is needed to clarify potential differences in susceptibility between women and men with regard to possible effects of these and other endocrine-disrupting chemicals .

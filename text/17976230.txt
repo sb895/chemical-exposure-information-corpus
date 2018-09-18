@@ -1,0 +1,8 @@
+BACKGROUND This study describes exposure levels of bakery and pastry apprentices to flour dust , a known risk factor of occupational asthma .
+METHODS Questionnaires on work activity were completed by 286 students .
+Among them , 34 performed a series of two personal exposure measurements using a PM2.5 and PM10 personal sampler during a complete work shift , one during a cold ( "winter" ) period , and the other during a hot ( "summer" ) period .
+RESULTS Bakery apprentices experience greater average PM2.5 and PM10 exposures than pastry apprentices ( p < 0.006 ) .
+Exposure values for both particulate fractions are greater in winter ( average PM10 values among bakers = 1.10 mg.m-3 [ standard deviation : 0.83] ) than in summer ( 0.63 mg.m-3 [ 0.36] ) .
+While complying with current European occupational limit values , these exposures exceed the ACGIH recommendations set to prevent sensitization to flour dust ( 0.5 mg.m-3 ) .
+Over half the facilities had no ventilation system .
+CONCLUSION Young bakery apprentices incur substantial exposure to known airways allergens , a situation that might elicit early induction of airways inflammation .

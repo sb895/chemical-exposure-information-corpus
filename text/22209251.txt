@@ -1,0 +1,11 @@
+Chlorpyrifos is the most common organophosphate insecticide registered for use in Vietnam and is widely used in agriculture , particularly rice farming .
+However , chlorpyrifos exposure to and adverse effects on farmers has not been evaluated .
+In this study , biological monitoring of chlorpyrifos exposure in a group of rice farmers was conducted after a typical application event using back-pack spraying .
+Urine samples ( 24 h ) were collected from the rice farmers before and post insecticide application .
+Samples were analysed for 3,5,6-trichloropyridinol ( TCP ) , the major urinary metabolite of chlorpyrifos , using an enzymatic pre-treatment before extraction followed by HPLC-MS/MS .
+Absorbed Daily Dose ( ADD ) of chlorpyrifos for farmers were then estimated from urinary TCP levels , expressed as \u03bcg g(-1)creatinine .
+The analytical method for urinary TCP had a low detection limit ( 0.6 \u03bcg L(-1) ) , acceptable recovery values ( 80-114% ) , and low relative percentage differences in duplicate and repeated samples .
+Post-application chlorpyrifos ADD of farmers varied from 0.4 to 94.2 \u03bcg kg(-1) ( body weight ) d(-1) with a mean of 19.4 \u03bcg kg(-1) d(-1) which was approximately 80-fold higher than the mean baseline exposure level ( 0.24 \u03bcg kg(-1) d(-1) ) .
+Hazard Quotients ( ratio of the mean ADD for rice farmers to acute oral reference dose ) calculated using acute oral reference doses recommended by United States and Australian agencies varied from 2.1 ( Australian NRA ) , 4.2 ( US EPA ) to 6.9 ( ATSDR ) .
+Biological monitoring using HPLC-MS/MS analysis of urinary TCP ( 24 h ) was found to be an effective method for measuring chlorpyrifos exposure among farmers .
+This case study found that Vietnamese rice farmers had relatively high exposures to chlorpyrifos after application , which were likely to have adverse health effects .

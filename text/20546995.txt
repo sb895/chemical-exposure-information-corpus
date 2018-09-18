@@ -1,0 +1,8 @@
+Tens of millions of people worldwide ingest excessive amounts of arsenic ( As ) through drinking water and food .
+The dietary intake of seafood is the major As exposure route in humans and can cause As-related adverse health effects including cancers .
+The aim of this study was to quantify potential cancer risks of As exposure for children and adults through seafood consumption .
+By coupling the age-specific physiologically based pharmacokinetic ( PBPK ) model and a Weibull-based dose-response function , a more accurate estimate of urinary arsenic metabolites could be achieved to better characterize potential cancer risks .
+The simulation results show that the proportion of inorganic As , monomethylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA ) in human urine are estimated to total 6.7 , 26.9 , and 66.4% for children , and 6.2 , 27.4 , and 66.4% for adults , respectively .
+The estimated median cumulative cancer incidence ratios were respectively 2.67x10(-6) and 3.83x10(-6) for children and adults , indicating a low cancer risk for local residents exposed to As through the consumption of seafood .
+However , it is necessary to incorporate other exposure routes into the model to make it more realistic .
+The methodology proposed here can not only be applied to calculate the concentrations of As metabolites in urine , but also to provide a direct estimation of adverse health effects caused by the calculated internal concentrations .

@@ -1,0 +1,11 @@
+BACKGROUND Living near major roadways has been associated with an increase in respiratory symptoms , but little is known about how this relates to airway inflammation .
+OBJECTIVE We assessed the effects of living near local residential roadways based on objective indicators of ventilatory function and airway inflammation .
+METHODS We estimated ambient air pollution , resolved to the level of the child's neighborhood , using a land-use regression model for children 9-11 years of age .
+We also summed the length of roadways found within a 200-m radius of each child's neighborhood .
+We had measurements of both air pollution exposure and spirometry for 2,328 children , and also had measurements of exhaled nitric oxide ( eNO ) for 1,613 of these children .
+RESULTS Each kilometer of local roadway within a 200-m radius of the home was associated with a 6.8% increase in eNO ( p = 0.045 ) .
+Each kilometer of any type of roadway ( local , major , highway ) was also associated with an increase in eNO of 10.1% ( p = 0.002 ) .
+Each microgram per cubic meter increase in PM2.5 was associated with a 3.9% increase in eNO ( p = 0.058 ) and 0.70% decrease in forced vital capacity ( FVC ) expressed as a percentage of predicted ( p = 0.39 ) .
+Associations between roadway density and both forced expired volume in 1 sec and FVC were negative but not statistically significant at p < 0.05 .
+CONCLUSION Traffic from local neighborhood roadways may cause airway inflammation as indicated by eNO .
+This may be a more sensitive indicator of adverse air pollution effects than traditional measures of ventilatory function .

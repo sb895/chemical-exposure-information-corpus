@@ -1,0 +1,11 @@
+BACKGROUND Cognitive consequences at school age associated with prenatal methylmercury ( MeHg ) exposure may need to take into account nutritional and sociodemographic cofactors as well as relevant genetic polymorphisms .
+METHODS A subsample ( n = 1,311 ) of the Avon Longitudinal Study of Parents and Children ( Bristol , UK ) was selected , and mercury ( Hg ) concentrations were measured in freeze-dried umbilical cord tissue as a measure of MeHg exposure .
+A total of 1135 children had available data on 247 single-nucleotide polymorphisms ( SNPs ) within relevant genes , as well as the Wechsler Intelligence Scale for Children Intelligence Quotient ( IQ ) scores at age 8 years .
+Multivariate regression models were used to assess the associations between MeHg exposure and IQ and to determine possible gene-environment interactions .
+RESULTS Hg concentrations indicated low background exposures ( mean = 26 ng/g , standard deviation = 13 ) .
+Log10-transformed Hg was positively associated with IQ , which attenuated after adjustment for nutritional and sociodemographic cofactors .
+In stratified analyses , a reverse association was found in higher social class families ( for performance IQ , P value for interaction = 0.0013 ) among whom there was a wider range of MeHg exposure .
+Among 40 SNPs showing nominally significant main effects , MeHg interactions were detected for rs662 ( paraoxonase 1 ) and rs1042838 ( progesterone receptor ) ( P < 0.05 ) and for rs3811647 ( transferrin ) and rs2049046 ( brain-derived neurotrophic factor ) ( P < 0.10 ) .
+CONCLUSIONS In this population with a low level of MeHg exposure , there were only equivocal associations between MeHg exposure and adverse neuropsychological outcomes .
+Heterogeneities in several relevant genes suggest possible genetic predisposition to MeHg neurotoxicity in a substantial proportion of the population .
+Future studies need to address this possibility .

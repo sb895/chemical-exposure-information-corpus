@@ -1,0 +1,12 @@
+We used urinary biological monitoring to characterize chlorpyrifos ( O,O-diethyl-O-(3,5,6-trichloro-2-pyridinyl) phosphororthioate ) exposure to farm family members from Minnesota and South Carolina who participated in the Farm Family Exposure Study .
+Five consecutive 24-h urine samples were obtained from 34 families of licensed pesticide applicators 1 day before through 3 days after a chlorpyrifos application .
+Daily 3,5,6-trichloro-2-pyridinol ( TCP ) urinary concentrations characterized exposure profiles of the applicator , the spouse , and children aged 4-17 years .
+Self-reported and observed determinants of exposure were compared to the maximum postapplication TCP concentration .
+All participants had detectable ( > or = 1 microg/l ) urinary TCP concentrations at baseline .
+Applicators ' peak TCP levels occurred the day after the application ( geometric mean ( GM ) = 19.0 microg/l ) .
+Postapplication TCP change from baseline in the spouses and children was negligible , and the only reliable predictor of exposure was assisting with the application for children aged 12 years and older .
+The applicators ' exposure was primarily influenced by the chemical formulation ( GM = 11.3 microg/l for granular and 30.9 microg/l for liquid ) , and the number of loads applied .
+Repairing equipment , observed skin contact , and eating during the application were moderately associated TCP levels for those who applied liquid formulations .
+Estimated absorbed doses ( microg chlorpyrifos/kg bodyweight ) were calculated based on TCP excretion summed over the 4 postapplication days and corrected for pharmacokinetic recovery .
+The GM doses were 2.1 , 0.7 , and 1.0 microg/kg bodyweight for applicators , spouses , and children , respectively .
+Chlorpyrifos exposure to farm family members from the observed application was largely determined by the extent of contact with the mixing , loading , and application process .

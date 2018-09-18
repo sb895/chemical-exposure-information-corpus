@@ -1,0 +1,11 @@
+BACKGROUND Cadmium ( Cd ) is an embryotoxic and teratogenic metal in a variety of animal species , but data from humans are limited .
+OBJECTIVES The aim of the present study was to assess the effects of maternal Cd exposure in pregnancy on size at birth .
+METHODS This prospective cohort study was nested in a population-based nutritional supplementation trial in pregnancy conducted in rural Bangladesh .
+We selected women recruited from February 2002 through January 2003 who had a singleton birth with measurements of size at birth and had donated a urine sample in early pregnancy for Cd analyses ( n = 1,616 ) .
+Urinary Cd was measured with inductively coupled plasma mass spectrometry and adjusted for specific gravity .
+RESULTS Multiple linear regression analyses adjusted for sex and other potential confounders showed that maternal urinary Cd ( median , 0.63 \u03bcg/L ) was significantly negatively associated with birth weight [ unstandardized regression coefficient B = -31.0 ; 95% confidence interval ( CI ) : -59 , -2.8 ] and head circumference ( B = -0.15 ; 95% CI : -0.27 , -0.026 ) .
+However , associations appeared to be limited to girls , with little evidence of effects in boys .
+A 1-\u03bcg/L increase in Cd in maternal urine was associated with a 0.26-cm ( 95% CI : -0.43 , -0.088 cm ) and 0.24-cm ( 95% CI : -0.44 , -0.030 cm ) decrease in girls ' head and chest circumferences , respectively , and a 45-g ( 95% CI : -82.5 , 7.3 g ) decrease in birth weight .
+Quantile regression analyses indicated that associations with maternal Cd were similar for girls of smaller ( 25th percentile ) and larger ( 50th and 75th percentiles ) sizes at birth .
+CONCLUSION We found evidence of a sex difference in the association between maternal Cd exposure and birth size , which was apparent only in girls .
+Results add support for the need to reduce Cd pollution to improve public health .

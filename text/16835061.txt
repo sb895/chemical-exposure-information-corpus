@@ -1,0 +1,11 @@
+OBJECTIVES Our goal in this study was to explore the use of a hybrid approach to calculate benchmark doses ( BMDs ) and their 95% lower confidence bounds ( BMDLs ) for renal effects of cadmium in a population with low environmental exposure .
+METHODS Morning urine and blood samples were collected from 820 Swedish women 53-64 years of age .
+We measured urinary cadmium ( U-Cd ) and tubular effect markers [ N-acetyl-beta-d-glucosaminidase ( NAG ) and human complex-forming protein ( protein HC ) ] in 790 women and estimated glomerular filtration rate ( GFR ; based on serum cystatin C ) in 700 women .
+Age , body mass index , use of nonsteroidal anti-inflammatory drugs , and blood lead levels were used as covariates for estimated GFR .
+BMDs/BMDLs corresponding to an additional risk ( benchmark response ) of 5 or 10% were calculated ( the background risk at zero exposure was set to 5% ) .
+The results were compared with the estimated critical concentrations obtained by applying logistic models used in previous studies on the present data .
+RESULTS For both NAG and protein HC , the BMDs ( BMDLs ) of U-Cd were 0.5-1.1 ( 0.4-0.8 ) microg/L ( adjusted for specific gravity of 1.015 g/mL ) and 0.6-1.1 ( 0.5-0.8 ) microg/g creatinine .
+For estimated GFR , the BMDs ( BMDLs ) were 0.8-1.3 ( 0.5-0.9 ) microg/L adjusted for specific gravity and 1.1-1.8 ( 0.7-1.2 ) microg/g creatinine .
+CONCLUSION The obtained benchmark doses of U-Cd were lower than the critical concentrations previously reported .
+The critical dose level for glomerular effects was only slightly higher than that for tubular effects .
+We suggest that the hybrid approach is more appropriate for estimation of the critical U-Cd concentration , because the choice of cutoff values in logistic models largely influenced the obtained critical U-Cd .

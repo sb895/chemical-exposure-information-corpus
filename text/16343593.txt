@@ -1,0 +1,9 @@
+The association between cerium status and risk of first acute myocardial infarction ( AMI ) was examined in a case-control study in 10 centres from Europe and Israel .
+Cerium in toenails was assessed by neutron activation analysis in 684 cases and 724 controls aged 70 years or younger .
+Mean concentrations of cerium were 186 and 173 microg/kg in cases and controls , respectively .
+Cerium was positively associated with low socio-economic status , smoking , mercury , zinc and scandium ( p0.001 ) .
+Cases had significantly higher levels of cerium than controls after adjustment for age and centre ( case-control ratio 1.074 ; 95% CI 1.002-1.151 ) and increased in further adjustment for other cardiovascular risk factors 1.085 ; 95% CI 1.025-1.149 .
+The risk after adjustment for age and centre was higher with increasing cerium levels ( p for trend=0.02 ) .
+After adjustment for BMI , history of hypertension , smoking , alcohol intake , diabetes , family history of CHD , beta-carotene , lycopene , alpha-tocopherol , selenium , mercury and scandium , the OR for the highest quintile was 1.43 ( 95% CI 0.85-2.41 ; p-trend 0.08 ) .
+When we applied this same model in non-smokers the odds ratios in the 4th and 5th quintiles of cerium as compared with the lowest were 2.09 ( 95% CI 1.05-4.16 ) and 2.81 ( 95% CI 1.21-6.52 ) , respectively , p-trend 0.011 .
+Our results suggest that toenail cerium levels may be associated with an increased risk of AMI , but more research is warranted to shed further light and fully understand the plausibility and public health implications of these findings .

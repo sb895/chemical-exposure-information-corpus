@@ -1,0 +1,8 @@
+Several previous studies of exposure to chromium waste in New Jersey have shown that Cr levels are elevated in household dust in homes adjacent to waste sites and that Cr levels in the urine of residents near sites are also elevated compared to control populations .
+It has not been possible until now , however , to examine these external and internal measures of exposure together in a large population to determine whether the external exposure is predictive of the internal exposure .
+We investigated the relationship between various adjusted and unadjusted measures of spot urine Cr concentration and household dust Cr from residents and residences adjacent to known Cr waste sites .
+Statistically significant bivariate relationships were found between log-transformed urine Cr concentration and Cr dust concentration ( micrograms of Cr per gram of dust ) but not Cr dust loading ( nanogram Cr per square centimeter ) .
+Log-transformed urine concentration was used as the dependent variable in multiple regression analysis of the total population ( n = 329 ) , the population [ less than/equal to ] 10 years old ( n = 67 ) , and the population >10 years old ( n = 262 ) , with Cr dust concentration as a mandatory independent variable .
+Other potential direct influences on urine Cr were investigated as potential confounders of this relationship .
+In the final models for the entire population and those [ less than/equal to ] 10 years old , but not for those >10 years old , Cr dust concentration remained significant .
+This suggests that exposure of young children to Cr in household dust accounts for much of the relationship in the entire population .

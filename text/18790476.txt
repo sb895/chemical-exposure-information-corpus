@@ -1,0 +1,12 @@
+Urinary metabolites of pyrethroid pesticides have been used as biomarkers to estimate human exposure to the parent insecticide .
+It is important to establish whether these markers are present in environments or media to which humans are exposed routinely .
+Failure to account for the contribution of pre-existing markers to urinary concentrations could result in risk assessments that overestimate exposure .
+The purpose of this study was to quantify the concentrations of 13 selected pyrethroid pesticides and their degradation products in samples of indoor dust that had been collected in vacuum cleaner bags during the children's total exposure to persistent pesticides and other persistent organic pollutants ( CTEPP ) study of homes and day cares in North Carolina and Ohio .
+Sieved contents of 85 vacuum cleaner bags were analyzed , and permethrin was found in all samples .
+Sixty-nine samples contained at least one additional pyrethroid , but none contained more than five pyrethroids in detectable concentrations .
+Resmethrin , prallethrin , and fenpropathrin were not detected in any samples , while 36 contained phenothrin .
+The median concentration of permethrin in the samples was 1454ng/g of dust .
+Excluding permethrin , pyrethroid concentrations were typically less than or equal to 100ng/g of dust .
+The majority of degradates were present in more than half of the dust samples , usually at concentrations of less than or equal to 100ng/g of dust .
+For those pyrethroids with a characteristic oxydibenzene group , the cyclopropane degradates were present at higher concentrations than the corresponding benzoic acid moieties .
+Using urinary concentrations of these metabolites to model human exposure to the parent pyrethroids , may over-estimate risk due to the presence of pre-existing degradates in dust .

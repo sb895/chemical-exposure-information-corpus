@@ -1,0 +1,9 @@
+BACKGROUND Epidemiological studies have shown reversible declines of lung function in response to air pollution , but research on the independent effect of short-term exposure to ambient sulphur dioxide ( SO2 ) on pulmonary function is limited .
+This study evaluated the association of short-term exposure to increased ambient SO2 and daily pulmonary function changes among children with and without asthma .
+METHODS The associations of daily exposure to SO2 and particulate matter 10 microm in diameter ( PM10 ) with pulmonary function were examined in 175 asthmatic and non-asthmatic children aged 6-14 years who resided near a coal-fired power plant in Thailand .
+Each child performed daily pulmonary function tests during the 61-day study period .
+General linear mixed models were used to estimate the association of air pollution and pulmonary function controlling for time , temperature , co-pollutants , and autocorrelation .
+RESULTS In the asthmatic children , a daily increase in SO2 was associated with negligible declines in pulmonary function , but a small negative association was found between PM10 and pulmonary function .
+A 10-microg/m(3) increment was associated with changes in the highest forced vital capacity ( FVC ) ( -6.3 ml , 95% CI : -9.8 , -2.8 ) , forced expiratory volume at 1 second ( FEV(1) ) ( -6.0 ml , 95% CI : -9.2 , 2.7 ) , peak expiratory flow rate ( PEFR ) ( -18.9 ml.sec(-1) , 95% CI : -28.5 , -9.3 ) and forced expiratory flow 25 to 75% of the FVC ( FEF(25-75%) ) ( -3.7 ml.sec(-1) , 95% CI : -10.9 , 3.5 ) .
+No consistent associations between air pollution and pulmonary function were found for non-asthmatic children .
+CONCLUSION Declines in pulmonary function among asthmatic children were associated with increases in particulate air pollution , rather than with increases in SO2 .

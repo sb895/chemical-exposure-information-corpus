@@ -1,0 +1,11 @@
+BACKGROUND Recent experimental evidence suggests that prenatal exposure to endocrine-disrupting chemicals ( EDCs ) may increase postnatal obesity risk and that these effects may be sex or diet dependent .
+OBJECTIVES We explored whether prenatal organochlorine compound ( OC ) concentrations [ polychlorinated biphenyls ( PCBs ) , dichlorodiphenyldichloroethylene ( DDE ) , and dichlorodiphenyltrichloroethane ( DDT) ] were associated with overweight at 6.5 years of age and whether child sex or fat intakes modified these associations .
+METHODS We studied 344 children from a Spanish birth cohort established in 1997-1998 .
+Overweight at 6.5 years was defined as a body mass index ( BMI ) z-score \u2265 85th percentile of the World Health Organization reference .
+Cord blood OC concentrations were measured and treated as categorical variables ( tertiles ) .
+Children's diet was assessed by food frequency questionnaire .
+Relative risks ( RRs ) were estimated using generalized linear models .
+RESULTS After multivariable adjustment , we found an increased RR of overweight in the third tertile of PCB exposure [ RR = 1.70 ; 95% confidence interval ( CI ) : 1.09 , 2.64 ] and the second tertile of DDE exposure ( RR = 1.67 ; 95% CI : 1.10 , 2.55 ) , but no association with DDT exposure in the population overall .
+Associations between overweight and PCB and DDE concentrations were strongest in girls ( p-interaction between 0.01 and 0.28 ) ; DDT was associated with overweight only in boys .
+For DDT we observed stronger associations in children with fat intakes at or above compared with below the median , but this interaction was not significant ( p-interaction > 0.05 ) .
+CONCLUSIONS This study suggests that prenatal OC exposures may be associated with overweight in children and that sex and high-fat intake may influence susceptibility .

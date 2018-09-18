@@ -1,0 +1,8 @@
+The association between ambient air pollution and adverse health effects , such as emergency room visits , hospitalizations , and mortality from respiratory and cardiovascular diseases , has been studied extensively in many countries , including Canada .
+Recently , studies conducted in China , the Czech Republic , and the United States have related ambient air pollution to adverse pregnancy outcomes .
+In this study , we examined association between preterm birth , low birth weight , and intrauterine growth retardation ( IUGR ) among singleton live births and ambient concentrations of sulfur dioxide ( SO2 ) , nitrogen dioxide ( NO2 ) , carbon monoxide ( CO ) , and ozone in Vancouver , Canada , for 1985-1998 .
+Multiple logistic regression was used to estimate odds ratios ( ORs ) and 95% confidence intervals ( CIs ) for such effects .
+Low birth weight was associated with exposure to SO2 during the first month of pregnancy ( OR = 1.11 , 95% CI , 1.01-1.22 , for a 5.0 ppb increase ) .
+Preterm birth was associated with exposure to SO2 ( OR = 1.09 , 95% CI , 1.01-1.19 , for a 5.0 ppb increase ) and to CO ( OR = 1.08 , 95% CI , 1.01-1.15 , for a 1.0 ppm increase ) during the last month of pregnancy .
+IUGR was associated with exposure to SO2 ( OR = 1.07 , 95% CI , 1.01-1.13 , for a 5.0 ppb increase ) , to NO2 ( OR = 1.05 , 95% CI , 1.01-1.10 , for a 10.0 ppb increase ) , and to CO ( OR = 1.06 , 95% CI , 1.01-1.10 , for a 1.0 ppm increase ) during the first month of pregnancy .
+In conclusion , relatively low concentrations of gaseous air pollutants are associated with adverse effects on birth outcomes in populations experiencing diverse air pollution profiles .

@@ -1,0 +1,5 @@
+OBJECTIVE We sought to examine the impact of occupational exposure on brain cancer risk .
+METHODS Mailed questionnaires were used to collect information on lifetime employment history , occupational exposure to 18 chemicals , and other risk factors for 1009 incident cases of brain cancer and 5039 control subjects in Canada in 1994 to 1997 .
+RESULTS People exposed to asphalt and welding had respective odds ratio ( and 95% confidence interval ) of 1.29 ( 1.02-1.62 ) and 1.26 ( 0.98-1.45 ) .
+An increased risk of brain cancer might be associated with exposure to asbestos , benzene , mineral or lubricating oil , isopropyl oil , and wood dust and with following occupations : teaching ; protective service ; metal processing and related jobs , and metal shaping and forming ; knitting in textile processing ; construction trades ; and transport equipment operating .
+CONCLUSIONS Our study suggests a possible role for occupational exposure in the etiology of brain cancer .

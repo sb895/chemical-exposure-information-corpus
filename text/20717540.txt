@@ -1,0 +1,9 @@
+The role of nutritional factors in arsenic metabolism and toxicity is yet to be fully elucidated .
+A low protein diet results in decreased excretion of DMA and increased tissue retention of arsenic in experimental studies .
+Malnourished women carry a higher risk of adverse pregnancy outcomes .
+Chronic exposure to high arsenic ( >50 microg/L ) through drinking water also increases the risk of adverse pregnancy outcomes .
+The synergistic effects ( if any ) of malnutrition and chronic arsenic exposure may worsen the adverse pregnancy outcomes .
+This population based case control study reports the association between chronic arsenic exposure and nutritional status among the rural women in Bangladesh. 348 cases ( BMI < 18.5 ) and 360 controls ( BMI 18.5-24.99 ) were recruited from a baseline survey conducted among 2,341 women .
+An excess risk for malnutrition was observed among the participants chronically exposed to higher concentrations of arsenic in drinking water after adjusting for potential confounders such as participant's age , religion , education , monthly household income and history of oral contraceptive pills .
+Women exposed to arsenic >50 microg/L were at 1.9 times ( Odds Ratio = 1.9 , 95% CI = 1.1-3.6 ) increased risk of malnutrition compared to unexposed .
+The findings of this study suggest that chronic arsenic exposure is likely to contribute to poor nutritional status among women of 20-45 years .

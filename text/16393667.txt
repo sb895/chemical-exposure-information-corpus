@@ -1,0 +1,10 @@
+UNLABELLED The northeast Nile Delta region exhibits a high incidence of early-onset pancreatic cancer .
+It is well documented that this region has one of the highest levels of pollution in Egypt .
+Epidemiologic studies have suggested that cadmium , a prevalent pollutant in the northeast Nile Delta region , plays a role in the development of pancreatic cancer .
+OBJECTIVE We aimed to assess serum cadmium levels as markers of exposure in pancreatic cancer patients and noncancer comparison subjects from the same region in Egypt .
+DESIGN AND PARTICIPANTS We assessed serum cadmium levels of 31 newly diagnosed pancreatic cancer patients and 52 hospital comparison subjects from Mansoura , Egypt .
+EVALUATION/MEASUREMENTS : Serum cadmium levels were measured using a novel immunoassay procedure .
+RESULTS We found a significant difference between the mean serum cadmium levels in patients versus comparison subjects ( mean+/-SD , 11.1+/-7.7 ng/mL vs. 7.1+/-5.0 ng/mL , respectively ; p=0.012 ) but not in age , sex , residence , occupation , or smoking status .
+The odds ratio ( OR ) for pancreatic cancer risk was significant for serum cadmium level [ OR=1.12 ; 95% confidence interval ( CI ) , 1.04-1.23 ; p=0.0089 ] and farming ( OR=3.25 ; 95% CI , 1.03-11.64 ; p=0.0475 ) but not for age , sex , residence , or smoking status .
+CONCLUSIONS The results from this pilot study suggest that pancreatic cancer in the East Nile Delta region is significantly associated with high levels of serum cadmium and farming .
+RELEVANCE TO CLINICAL PRACTICE/PUBLIC HEALTH : Future studies should further investigate the etiologic relationship between cadmium exposure and pancreatic carcinogenesis in cadmium-exposed populations .

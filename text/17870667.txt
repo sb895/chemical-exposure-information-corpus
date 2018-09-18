@@ -1,0 +1,12 @@
+Perfluorinated compounds ( PFC ) are a large group of chemicals produced for several decades and widely used for many industrial and consumer applications .
+Because of their global occurrence in different environmental media , their persistence and their potential to bioaccumulate in organisms they are of toxicological and public concern .
+In the present study , perfluorooctane sulphonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) were quantified in 70 breast milk samples .
+Samples were obtained from Leipzig , Germany ( 38 archived samples ) , Munich , Germany ( 19 fresh samples ) and Gyor , Hungary ( 13 frozen samples ) .
+PFOS could be quantified in all 70 samples .
+The concentration in samples from Germany ranged between 28 and 309 ng/l ( median : 119 ng/l ) .
+Samples from Hungary showed significantly higher PFOS concentrations ( median 330 ng/l , range 96-639 ng/l ) .
+In only 11 of 70 samples ( 16% ) PFOA reached the LOQ ( 200 ng/l ) ; values ranged from 201 to 460 ng/l .
+If only those samples with PFOA values above the LOQ were considered , we found a significant correlation between the PFOS and PFOA concentrations ( r=0.75 , p=0.008 ) .
+Based on the results of the German sample , we estimated an intake of 0.10 microg PFOS/day ( using median ) or 0.27 PFOS microg/day ( using maximum value ) via breast milk for an infant of 5 kg bodyweight .
+Our data suggest that fully breastfed infants are unlikely to exceed the recommended tolerable daily intake of PFC .
+However , more target-oriented studies are needed to identify the amount and time-trend of PFOS and PFOA in maternal blood during pregnancy , after delivery , as well as in the growing infant and in its diet ( e.g. , breast milk and formula ) .

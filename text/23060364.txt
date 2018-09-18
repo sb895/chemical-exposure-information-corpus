@@ -1,0 +1,11 @@
+BACKGROUND Exposure to air pollution has been linked to the exacerbation of respiratory diseases .
+The Air Quality Health Index ( AQHI ) , developed in Canada , is a new health risk scale for reporting air quality and advising risk reduction actions .
+OBJECTIVE We used the AQHI to estimate the impact of air quality on asthma morbidity , adjusting for potential confounders .
+METHODS Daily air pollutant measures were obtained from 14 regional monitoring stations in Ontario .
+Daily counts of asthma-attributed hospitalizations , emergency department ( ED ) visits , and outpatient visits were obtained from a provincial registry of 1.5 million patients with asthma .
+Poisson regression was used to estimate health services rate ratios ( RRs ) as a measure of association between the AQHI or individual pollutants and health services use .
+We adjusted for age , sex , season , year , and region of residence .
+RESULTS The AQHI values were significantly associated with increased use of asthma health services on the same day and on the 2 following days , depending on the specific outcome assessed .
+A 1-unit increase in the AQHI was associated with a 5.6% increase in asthma outpatient visits ( RR = 1.056 ; 95% CI : 1.053 , 1.058 ) and a 2.1% increase in the rate of hospitalization ( RR = 1.021 ; 95% CI : 1.014 , 1.028 ) on the same day and with a 1.3% increase in the rate of ED visits ( RR = 1.013 ; 95% CI : 1.010 , 1.017 ) after a 2-day lag .
+CONCLUSIONS The AQHI values were significantly associated with the use of asthma-related health services .
+Timely AQHI health risk advisories with integrated risk reduction messages may reduce morbidity associated with air pollution in patients with asthma .

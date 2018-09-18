@@ -1,0 +1,13 @@
+BACKGROUND Dietary exposure from food to toxic inorganic arsenic ( iAs ) in the general U.S. population has not been well studied .
+OBJECTIVES The goal of this research was to quantify dietary As exposure and analyze the major contributors to total As ( tAs ) and iAs .
+Another objective was to compare model predictions with observed data .
+METHODS Probabilistic exposure modeling for dietary As was conducted with the Stochastic Human Exposure and Dose Simulation Dietary ( SHEDS-Dietary ) model , based on data from the National Health and Nutrition Examination Survey .
+The dose modeling was conducted by combining the SHEDS-Dietary model with the MENTOR-3P ( Modeling ENvironment for TOtal Risk with Physiologically Based Pharmacokinetic Modeling for Populations ) system .
+Model evaluation was conducted via comparing exposure and dose-modeling predictions against duplicate diet data and biomarker measurements , respectively , for the same individuals .
+RESULTS The mean modeled tAs exposure from food is 0.38 microg/kg/day , which is approximately 14 times higher than the mean As exposures from the drinking water .
+The mean iAs exposure from food is 0.05 microg/kg/day ( 1.96 microg/day ) , which is approximately two times higher than the mean iAs exposures from the drinking water .
+The modeled exposure and dose estimates matched well with the duplicate diet data and measured As biomarkers .
+The major food contributors to iAs exposure were the following : vegetables ( 24% ) ; fruit juices and fruits ( 18% ) ; rice ( 17% ) ; beer and wine ( 12% ) ; and flour , corn , and wheat ( 11% ) .
+Approximately 10% of tAs exposure from foods is the toxic iAs form .
+CONCLUSIONS The general U.S. population may be exposed to tAs and iAs more from eating some foods than from drinking water .
+In addition , this model evaluation effort provides more confidence in the exposure assessment tools used .

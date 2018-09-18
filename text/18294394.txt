@@ -1,0 +1,5 @@
+BACKGROUND Studies investigating the association of cadmium and sex steroid hormones in men have been inconsistent , but previous studies were relatively small .
+METHODS In a nationally representative sample of 1,262 men participating in the morning examination session of phase I ( 1998-1991 ) of the third National Health and Nutrition Examination Survey , creatinine corrected urinary cadmium and serum concentrations of sex steroid hormones were measured following a standardized protocol .
+RESULTS After adjustment for age and race-ethnicity , higher cadmium levels were associated with higher levels of total testosterone , total estradiol , sex hormone-binding globulin , estimated free testosterone , and estimated free estradiol ( each p-trend < 0.05 ) .
+After additionally adjusting for smoking status and serum cotinine , none of the hormones maintained an association with urinary cadmium ( each p-trend > 0.05 ) .
+CONCLUSION Urinary cadmium levels were not associated with sex steroid hormone concentrations in a large nationally representative sample of US men .

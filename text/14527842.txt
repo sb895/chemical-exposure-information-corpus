@@ -1,0 +1,10 @@
+As part of a large panel study in Seattle , Washington , we measured levels of exhaled nitric oxide ( eNO ) in children's homes and fixed-site particulate matter with aerodynamic diameters of 2.5 micro m or less ( PM(2.5) ) outside and inside the homes as well as personal PM(2.5) during winter and spring sessions of 2000-2001 .
+Nineteen subjects 6-13 years of age participated ; 9 of the 19 were on inhaled corticosteroid ( ICS ) therapy .
+Exhaled breath measurements were collected offline into a Mylar balloon for up to 10 consecutive days .
+Mean eNO values were 19.1 ( SD +/- 11.4 ) ppb in winter sessions and 12.5 +/- 6.6 ppb in spring sessions .
+Fixed-site PM(2.5) mean concentrations were 10.1 +/- 5.7 microg/m(3) outside homes and 13.3 +/- 1.4 inside homes ; the personal PM(2.5) mean was 13.4 +/- 3.2 microg/m(3) .
+We used a linear mixed-effects model with random intercept and an interaction term for medications to test for within-subject-within-session associations between eNO and various PM(2.5) values .
+We found a 10 microg/m(3) increase in PM(2.5) from the outdoor , indoor , personal , and central-site measurements that was associated with increases in eNO in all subjects at lag day zero .
+The effect was 4.3 ppb [ 95% confidence interval ( CI ) , 1.4-7.29 ] with the outdoor monitor , 4.2 ppb ( 95% CI , 1.02-7.4 ) for the indoor monitor , 4.5 ppb ( 95% CI , 1.02-7.9 ) with the personal monitor , and 3.8 ppb ( 95% CI , 1.2-6.4 ) for the central monitors .
+The interaction term for medication category ( ICS users vs. nonusers ) was significant in all analyses .
+These findings suggest that eNO can be used as an assessment tool in epidemiologic studies of health effects of air pollution .

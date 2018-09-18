@@ -1,0 +1,7 @@
+The ubiquitous use of phthalate esters in plastics , building material , medical devices , personal care products and food packaging materials results in a widespread exposure of general population .
+This study reports measurement of urinary concentration of phthalate metabolites in France and provides a first assessment of the exposure of French pregnant women to this chemical class .
+For the majority of the phthalate metabolites , concentrations measured in urine were similar to those reported in previous studies except for two phthalates that were characterized by high concentrations of metabolites if compared to previous European and American studies : DiNP ( Di-iso-nonylphthalate ) and DEHP ( Di(2-ethylhexyl)phthalate ) .
+In a second part of the study , a pharmacokinetic model was used in order to gain understanding on exposure to DEHP .
+A high concentration of the primary metabolite of DEHP , MEHP ( Mono(2-ethylhexyl)phthalate ) , was thus identified probably because of a very recent exposure to perfusion materials at the hospital .
+Pharmacokinetics modelling highlighted that gathering data on the time gap between exposure and biomonitoring is an essential information requirement for reconstructing the dose of non persistent pollutants .
+Information about exposure pathway is also crucial for conducting effective reverse dosimetry .

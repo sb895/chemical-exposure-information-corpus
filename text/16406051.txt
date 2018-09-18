@@ -1,0 +1,9 @@
+High levels of PCBs were recently found in soil , food and some farmers living close to a chemical factory which until the 1980s had produced polychlorinated biphenyls ( PCBs ) in Brescia , North Italy .
+We performed a survey on a random sample of subjects aged 20-79 years living in various areas of the town with different levels of soil pollution to investigate factors associated with increased levels of PCB in serum ( 24 congeners were tested ) .
+Total PCB values were closely related to age ( Spearman r=0.68 ; p<0.0001 ) .
+The 166 consumers of locally produced food had higher PCB levels than non-consumers ( median=1143 versus 719 ; 95th centile=9301 versus 2635ng/g lipid ) with the highest levels among consumers of food produced in the most contaminated area close to the factory ( median=2551 ; 95th centile=33464ng/g lipid ) .
+A dose-effect relationship between consumption of food produced in this area and PCB blood levels was observed ( Spearman r=0.52 , p=0.0014 ) .
+Consumers of only plant food produced in this area had higher levels of PCB than non-consumers ( median=1100 ; 95th centile=10,800ng/g lipid ) .
+Three subjects who had worked at the factory in the past showed high PCB levels .
+Distribution of PCB congeners did not differ between consumers of locally produced food and non-consumers , apart from PCB 209 which was found at high levels in former factory workers and was more common among consumers of food produced in the polluted area .
+In conclusion , we found high serum PCB levels in humans living in a highly polluted area in an industrialized town in Italy , due mainly to consumption of food produced in polluted areas .

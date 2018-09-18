@@ -1,0 +1,8 @@
+The aim of the study was to assess the long-term effects of radiofrequency electromagnetic radiation ( EMR ) on the cardiovascular system .
+Two groups of exposed operators ( 49 broadcasting ( BC ) station and 61 TV station operators ) and a control group of 110 radiorelay station operators , matched by sex and age , with similar job characteristics except for the radiofrequency EMR were studied .
+The EMR exposure was assessed and the time-weighted average ( TWA ) was calculated .
+The cardiovascular risk factors arterial pressure , lipid profile , body mass index , waist/hip ratio , smoking , and family history of cardiovascular disease were followed .
+The systolic and diastolic blood pressure ( SBP and DBP ) , total cholesterol ( TC ) and low-density lipoprotein cholesterol ( LDL-C ) were significantly higher in the two exposed groups .
+It was found that the radiofrequency EMR exposure was associated with greater chance of becoming hypertensive and dyslipidemic .
+The stepwise multiple regression equations showed that the SBP and TWA predicted the high TC and high LDL-C , while the TC , age and abdominal obesity were predictors for high SBP and DBP .
+In conclusion , our data show that the radiofrequency EMR contributes to adverse effects on the cardiovascular system .

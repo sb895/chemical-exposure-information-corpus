@@ -1,0 +1,12 @@
+BACKGROUND Bisphenol A ( BPA ) and bis(2-ethylhexyl) phthalate ( DEHP ) are high-production-volume chemicals used in plastics and resins for food packaging .
+They have been associated with endocrine disruption in animals and in some human studies .
+Human exposure sources have been estimated , but the relative contribution of dietary exposure to total intake has not been studied empirically .
+OBJECTIVES To evaluate the contribution of food packaging to exposure , we measured urinary BPA and phthalate metabolites before , during , and after a " fresh foods " dietary intervention .
+METHODS We selected 20 participants in five families based on self-reported use of canned and packaged foods .
+Participants ate their usual diet , followed by 3 days of " fresh foods " that were not canned or packaged in plastic , and then returned to their usual diet .
+We collected evening urine samples over 8 days in January 2010 and composited them into preintervention , during intervention , and postintervention samples .
+We used mixed-effects models for repeated measures and Wilcoxon signed-rank tests to assess change in urinary levels across time .
+RESULTS Urine levels of BPA and DEHP metabolites decreased significantly during the fresh foods intervention [ e.g. , BPA geometric mean ( GM ) , 3.7 ng/mL preintervention vs. 1.2 ng/mL during intervention ; mono-(2-ethyl-5-hydroxy hexyl ) phthalate GM , 57 ng/mL vs. 25 ng/mL ] .
+The intervention reduced GM concentrations of BPA by 66% and DEHP metabolites by 53-56% .
+Maxima were reduced by 76% for BPA and 93-96% for DEHP metabolites .
+CONCLUSIONS BPA and DEHP exposures were substantially reduced when participants ' diets were restricted to food with limited packaging .

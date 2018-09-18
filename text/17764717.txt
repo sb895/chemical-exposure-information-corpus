@@ -1,0 +1,10 @@
+The aim of the present study was to understand the placental transfer of polychlorinated biphenyls ( PCBs ) , specific hydroxylated PCB metabolites ( OH-PCBs ) , and pentachlorophenol ( PCP ) in blood serum , in a birth cohort from eastern Slovakia .
+During the period 2002-2004 , cord blood specimens were collected in parallel with maternal specimens from women delivering in the two eastern Slovak districts of Michalovce and Svidnik/Stropkov .
+A total of 92 pairs of mother-cord specimens at delivery were selected for this study. 4-OH-CB107 , 3-OH-CB153 , 4-OH-CB146 , 3'-OH-CB138 , 4-OH-CB187 , and 4'-OH-CB172 were quantified .
+The median concentrations of Sigma(17)PCBs , Sigma(6)OH-PCBs , and PCP in cord serum were 0.92 , 0.33 , and 0.69 ng/g wet wt. , respectively and highly correlated with the corresponding maternal serum levels ( correlations were R(2)=0.61 , 0.78 , and 0.82 , respectively ) .
+The median cord to mother ratios of the Sigma(17)PCBs , Sigma(6)OH-PCBs , and PCP were 0.18 , 0.75 , and 1.10 , respectively .
+The median ratio of the Sigma(6)OH-PCBs to the Sigma(17) PCBs in the cord serum was 0.38 from wet weight based concentrations , which was about four times higher than the ratio of these compounds in maternal serum ( 0.09 ) .
+PCP was more abundant than any PCB or OH-PCB congener measured in cord serum .
+The higher cord to maternal ratios of OH-PCB metabolites as compared with the parent compounds suggests either a higher placental transfer rate or greater metabolism in the fetus as compared with the maternal compartment .
+These findings are consistent with their preferential binding to TTR that can cross the placenta .
+The cord to maternal ratio varies by congener ( e.g. , 4-OH-CB107=0.58 , 4-OH-CB146=0.74 , 3'-OH-CB138=1.01 ) .

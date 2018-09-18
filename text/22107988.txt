@@ -1,0 +1,8 @@
+Western and guideline based diets were compared to determine if dietary improvements resulting from following dietary guidelines reduce acrylamide intake .
+Acrylamide forms in heat treated foods and is a human neurotoxin and animal carcinogen .
+Acrylamide intake from the Western diet was estimated with probabilistic techniques using teenage ( 13-19 years ) National Health and Nutrition Examination Survey ( NHANES ) food consumption estimates combined with FDA data on the levels of acrylamide in a large number of foods .
+Guideline based diets were derived from NHANES data using linear programming techniques to comport to recommendations from the Dietary Guidelines for Americans , 2005 .
+Whereas the guideline based diets were more properly balanced and rich in consumption of fruits , vegetables , and other dietary components than the Western diets , acrylamide intake ( mean±SE ) was significantly greater ( P<0.001 ) from consumption of the guideline based diets ( 0.508±0.003 \u03bcg/kg/day ) than from consumption of the Western diets ( 0.441±0.003 \u03bcg/kg/day ) .
+Guideline based diets contained less acrylamide contributed by French fries and potato chips than Western diets .
+Overall acrylamide intake , however , was higher in guideline based diets as a result of more frequent breakfast cereal intake .
+This is believed to be the first example of a risk assessment that combines probabilistic techniques with linear programming and results demonstrate that linear programming techniques can be used to model specific diets for the assessment of toxicological and nutritional dietary components .

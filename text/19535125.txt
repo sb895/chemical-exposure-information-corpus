@@ -1,0 +1,9 @@
+Bisphenol-A ( BPA ) , Triclosan ( TCS ) and Tetrabromobisphenol-A ( TBBPA ) are phenolic organic contaminants used in a variety of household applications .
+Through manufacture and usage , these contaminants can leach into the environment and can be detected in indoor dust .
+In this study , we determined the concentrations of BPA , TCS and TBBPA in indoor dust samples from 18 houses and 2 offices in Flanders , Belgium .
+The analysis was performed using solid-liquid extraction , clean-up and measurement by liquid chromatography-tandem mass spectrometry ( LC-MS/MS ) .
+Median concentrations of the 18 domestic dust samples were 1460 , 220 and 10 ng g(-1) dust for BPA , TCS and TBBPA , respectively .
+Concentrations in offices were almost 5-10 times higher for BPA and TBBPA , while TCS concentrations were comparable at both locations .
+An assessment of the daily intake of these contaminants through dust was made and the contribution of dust to the total human exposure was calculated .
+For all three contaminants , dust seems to be a minor contributor ( <10% of total exposure ) to the total daily exposure .
+Food intake appears to be the major source of human exposure to BPA and TBBPA as dermal uptake through personal care products seems to be the major contributor for TCS .

@@ -1,0 +1,6 @@
+This cross-sectional study was designed to assess differences in prevalence of contact dermatitis between machine operators exposed to metal-working fluids ( MWFs ) and unexposed assemblers , and to assess potential risk factors for contact dermatitis among these machine operators .
+In their work , machine operators were exposed to either semisynthetic or soluble oil MWFs .
+We evaluated 158 machine operators and 51 assemblers from one large automobile transmission plant using questionnaires , dermatologist examination of the skin , and dermal dosimetry to measure wetness and metal exposures .
+We found that machine operators had more combined ( definite plus possible ) dermatitis ( 27.2% vs. 13.7% , chi(2) = 3.9 , p = 0.05 , 1 df ) compared with assemblers .
+Among machine operators , risk factors significantly associated with ( combined ) dermatitis were subjective assessment of wetness of the work , exposure to semisynthetic as opposed to soluble oil MWF , current cigarette smoking , and increasing worker age .
+These risk factors suggested preventive and control measures including control of wet work , surveillance program including early self-report of dermatitis , consideration of replacement of semisynthetic with soluble oil MWFs , and strictly limiting smoking among machine operators exposed to MWFs .

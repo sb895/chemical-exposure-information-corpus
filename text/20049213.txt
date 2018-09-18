@@ -1,0 +1,12 @@
+BACKGROUND Hispanics are the fastest growing minority group in the United States ; however , minimal information is available on their cancer risks from exposures to hazardous air pollutants ( HAPs ) and how these risks compare to risks to non-Hispanic whites .
+METHODS We estimated the personal exposure and cancer risk of Hispanic and white adults who participated in the Relationships of Indoor , Outdoor , and Personal Air ( RIOPA ) study .
+We evaluated 12 of the sampled volatile organic compounds and carbonyls and identified the HAPs of most concern and their possible sources .
+Furthermore , we examined sociodemographic factors and building characteristics .
+RESULTS Cumulative cancer risks ( CCRs ) estimated for Hispanics ( median = 519 x 10(-6) , 90th percentile = 3,968 x 10(-6) ) and for whites ( median = 443 x 10(-6) , 90th percentile = 751 x 10(-6) ) were much greater than the U.S. Environmental Protection Agency ( EPA ) benchmark of 10(-6) .
+Cumulative risks were dominated by formaldehyde and p-dichlorobenzene ( p-DCB ) and , to a lesser extent , by acetaldehyde , chloroform , and benzene .
+Exposure to all of these compounds except benzene was primarily due to indoor residential sources .
+Hispanics had statistically higher CCRs than did whites ( p </= 0.05 ) because of differences in exposure to p-DCB , chloroform , and benzene .
+Formaldehyde was the largest contributor to CCR for 69% of Hispanics and 88% of whites .
+Cancer risks for pollutants emitted indoors increased in houses with lower ventilation rates .
+CONCLUSIONS Hispanics appear to be disproportionately affected by certain HAPs from indoor and outdoor sources .
+Policies that aim to reduce risk from exposure to HAPs for the entire population and population subgroups should consider indoor air pollution .

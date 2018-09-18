@@ -1,0 +1,21 @@
+Archived samples collected from 1995 to 1997 in the National Human Exposure Assessment Survey ( NHEXAS ) in U.S. Environmental Protection Agency Region 5 ( R5 ) and the Children's Study ( CS ) in Minnesota were analyzed for total arsenic , arsenate [ As(V) ] , arsenite , dimethyl arsenic acid ( DMA ) , monomethyl arsenic acid ( MMA ) , arsenobetaine ( AsB ) , and arsenocholine .
+Samples for the CS included drinking water , urine , hair , and dust ; both studies included food ( duplicate plate , composited 4-day food samples from participants ) .
+Except for AsB and As(V) , the levels for As species measured in the food and drinking water samples were very low or nonexistent .
+The analytical methods used for measuring As species were sensitive to < 1 ppb .
+During the analysis of food and drinking water samples , chromatographic peaks appeared that contained As , but they did not correspond to those being quantified .
+Thus , in some samples , the sum of the individual As species levels was less than the total As level measured because the unknown forms of As were not quantified .
+On the other hand , total As was detectable in almost all samples ( > 90% ) except for hair ( 47% ) , indicating that the analytical method was sufficiently sensitive .
+Population distributions of As concentrations measured in drinking water , food ( duplicate plate ) , dust , urine , and hair were estimated .
+Exposures to total As in food for children in the CS were about twice as high as in the general R5 population ( medians of 17.5 ppb and 7.72 ppb , respectively ) .
+In addition , AsB was the most frequently detected form of As in food eaten by the participants , while As(V) was only rarely detected .
+Thus , the predominant dietary exposure was from an organic form of As .
+The major form of As in drinking water was As(V) .
+Spearman ( rank ) correlations and Pearson ( log-concentration scale ) correlations between the biomarkers ( urine , hair ) and the other measures ( food , drinking water , dust ) and urine versus hair were performed .
+In the NHEXAS CS , total As and AsB in the food eaten were significantly correlated with their levels in urine .
+Also , levels of As(V) in drinking water correlated with DMA and MMA in urine .
+Arsenic levels in dust did not show a relationship with urine or hair levels , and no relationship was observed for food , drinking water , and dust with hair .
+Urine samples were collected on days 3 , 5 , and 7 of participants ' monitoring periods .
+Total As levels in urine were significantly associated across the three pairwise combinations--i.e. , day 3 versus day 5 , day 3 versus day 7 , and day 5 versus day 7 .
+Because the half-life of As in the body is approximately 3 days , this suggests that some exposure occurred continually from day to day .
+This trend was also observed for AsB , suggesting that food is primarily responsible for the continual exposure .
+DMA and MMA in urine were also significantly correlated but not in all combinations .

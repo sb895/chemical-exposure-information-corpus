@@ -1,0 +1,12 @@
+BACKGROUND Ingested inorganic arsenic ( InAs ) is methylated to monomethylated ( MMA ) and dimethylated metabolites ( DMA ) .
+Methylation may have an important role in arsenic toxicity , because the monomethylated trivalent metabolite [ MMA(III) ] is highly toxic .
+OBJECTIVES We assessed the relationship of creatinine and nutrition--using dietary intake and blood concentrations of micronutrients--with arsenic metabolism , as reflected in the proportions of InAS , MMA , and DMA in urine , in the first study that incorporated both dietary and micronutrient data .
+METHODS We studied methylation patterns and nutritional factors in 405 persons who were selected from a cross-sectional survey of 7,638 people in an arsenic-exposed population in West Bengal , India .
+We assessed associations of urine creatinine and nutritional factors ( 19 dietary intake variables and 16 blood micronutrients ) with arsenic metabolites in urine .
+RESULTS Urinary creatinine had the strongest relationship with overall arsenic methylation to DMA .
+Those with the highest urinary creatinine concentrations had 7.2% more arsenic as DMA compared with those with low creatinine ( p < 0.001 ) .
+Animal fat intake had the strongest relationship with MMA% ( highest tertile animal fat intake had 2.3% more arsenic as MMA , p < 0.001 ) .
+Low serum selenium and low folate were also associated with increased MMA% .
+CONCLUSIONS Urine creatinine concentration was the strongest biological marker of arsenic methylation efficiency , and therefore should not be used to adjust for urine concentration in arsenic studies .
+The new finding that animal fat intake has a positive relationship with MMA% warrants further assessment in other studies .
+Increased MMA% was also associated , to a lesser extent , with low serum selenium and folate .

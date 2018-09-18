@@ -1,0 +1,12 @@
+BACKGROUND Global hypomethylation of DNA is thought to constitute an early event in some cancers and occurs in response to arsenic ( As ) exposure and/or selenium ( Se ) deficiency in both in vitro and animal models .
+In addition , antagonism between As and Se , whereby each reduces toxicity of the other , has been well documented in animal models .
+Se status may therefore modify the health effects of As in As-exposed populations .
+OBJECTIVE The primary objectives of our study were to test the hypothesis that Se deficiency is associated with genomic hypomethylation of lymphocyte DNA and to determine whether Se levels are associated with blood As ( bAs ) and urinary As ( uAs ) concentrations in adults exposed to As-contaminated groundwater in Bangladesh .
+A secondary objective was to explore the relationships between plasma Se and As metabolites .
+DESIGN We assessed plasma Se concentrations , As metabolite profiles in blood and urine , and genomic methylation of leukocyte DNA in a cross-sectional study of 287 adults .
+RESULTS After adjustment for potential confounders , we observed an inverse association between Se ( micrograms per liter ) and genomic DNA methylation ( disintegrations per minute per 1-µg/L increase in Se ) : \u03b2 = 345.6 ; 95% confidence interval ( CI ) , 59-632 .
+Se concentrations were inversely associated with total As concentrations ( micrograms per liter ) in blood ( \u03b2 = -0.04 ; 95% CI , -0.08 to -0.01 ) and urine ( \u03b2 = -20.1 ; 95% CI , -29.3 to -10.9 ) .
+Se levels were negatively associated with the percentage of monomethylarsinic acid ( \u03b2 = -0.59 ; 95% CI , -1.04 to -0.13 ) and positively associated with the percentage of dimethylarsinic acid ( \u03b2 = 0.53 ; 95% CI , 0.04 to 1.01 ) in blood .
+CONCLUSIONS Our results suggest that Se is inversely associated with genomic DNA methylation .
+The underlying mechanisms and implications of this observation are unclear and warrant further investigation .
+In addition , Se may influence bAs and uAs concentrations , as well as relative proportions of As metabolites in blood .

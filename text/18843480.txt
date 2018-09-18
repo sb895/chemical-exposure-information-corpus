@@ -1,0 +1,8 @@
+The incidence of breast cancer in Korea has been increasing for the last two decades ( 1983-2005 ) , and now , breast cancer is ranked the leading cause of cancer in Korean women .
+Along with other endocrine disrupting chemicals ( EDCs ) , bisphenol A ( BPA ) has been suspected as a potential risk factor for breast cancer .
+We studied potential associations between BPA exposure and breast cancer risks in Korean women by performing biomonitoring of BPA among breast cancer patients and controls ( N = 167 ) .
+Blood samples were collected between 1994 and 1997 and kept over 10 years in a freezer under well controlled conditions .
+The blood BPA levels determined by HPLC/FD , ranged between LOD ( 0.012 microg/L ) and 13.87 microg/L ( mean +/- SD , 1.69 +/- 2.57 microg/L ; median , 0.043 microg/L ) .
+In age-matched subjects ( N = 152 ) , there were some associations between BPA levels and risks of breast cancer , such as age at first birth and null parity .
+However , there were no significant differences in blood BPA levels between the cases and the controls ( P = 0.42 ) .
+Considering interactions between BPA exposure and risks of breast cancer , we suggest further enlarged biomonitoring studies of BPA to provide effective prevention against breast cancer .

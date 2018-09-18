@@ -1,0 +1,11 @@
+Zinc supplementation reduces the duration , severity and recurrence of diarrhoea in young children .
+This study examines whether zinc , found naturally in drinking water , reduced infant deaths from diarrhoea in rural Bangladesh .
+Information was compiled for births over two calendar years with follow-up for deaths within one year of birth .
+The study included 29,744 live births and 934 deaths in some 600 villages under the care of Gonoshasthaya Kendra ( GK ) , grouped into 15 health centre regions within 12 upazillas .
+Individual matching of death to birth data was not possible , but information on exposures through well water and on potential confounders was available for each upazilla .
+Average concentration of zinc in well water , reported by the British Geological Survey , was grouped into high ( >0.07 mg/L ) , moderate ( 0.020-0.070 mg/L ) and low ( <0.020 mg/L ) concentrations .
+Odds ratios ( OR ) were calculated for zinc by age and cause of death .
+Zinc concentration was unrelated to all-cause mortality but a decrease in deaths from diarrhoea ( N = 50 ) was seen in areas with high zinc ( OR = 0.30 ; 95% CI 0.13-0.69 ) .
+No relation to diarrhoeal deaths was found with other well contaminants ( arsenic , manganese ) having accounted for zinc .
+Upazillas with a high proportion of women without education had higher rates of death from diarrhea , but the decrease in risk with high zinc remained ( OR adjusted = 0.41 ; 95% CI 0.20-0.84 ) .
+It is concluded that exposure to zinc through drinking water may reduce risk of diarrhoeal deaths .

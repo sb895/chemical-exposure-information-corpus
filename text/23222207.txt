@@ -1,0 +1,9 @@
+Chronic arsenic exposure and its association with hypertension in adults are inconclusive and this cross-sectional study investigated the association .
+The study was conducted between January and July 2009 among 1,004 participants from 1,682 eligible women and men aged \u226530 years living in rural Bangladesh who had continuously consumed arsenic-contaminated drinking water for at least 6 months .
+Hypertension was defined as systolic blood pressure \u2265140 mmHg ( systolic hypertension ) and diastolic blood pressure \u226590 mmHg ( diastolic hypertension ) .
+Pulse pressure was calculated by deducting diastolic from systolic pressure and considered to be increased when the difference was \u226555 mmHg .
+The prevalence of hypertension was 6.6% ( 95% CI : 5.1-8.3% ) .
+After adjustment for other factors , no excess risk of hypertension was observed for arsenic exposure >50 \u03bcg/L or to that of arsenic exposure as quartiles or as duration .
+Arsenic concentration as quartiles and >50 \u03bcg/L did show a strong relationship with increased pulse pressure ( adjusted OR : 3.54 , 95% CI : 1.46-8.57 ) , as did arsenic exposure for \u226510 years ( adjusted OR : 5.25 , 95% CI : 1.41-19.51 ) .
+Arsenic as quartiles showed a dose response relationship with increased pulse pressure .
+Our study suggests an association between higher drinking water arsenic or duration and pulse pressure , but not hypertension .

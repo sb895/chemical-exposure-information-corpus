@@ -1,0 +1,9 @@
+Daily intakes of metals in drinking water are of extreme importance in risk assessment to human health .
+Some papers focused on this topic , but most of them did not consider the effect of age , gender and work location on daily intakes of metals in drinking water .
+The objective of present paper is to estimate the levels of Cu , Zn and As ingestion in drinking water in Shanghai , China and the effect of age , gender and work location on daily intakes of these metals .
+It was also the first time that such a detailed investigation on daily intakes of metals in drinking water was carried out in China in recent years .
+Drink/Sample ( D/S ) method was used to estimate the daily intakes of Cu , Zn and As in drinking water .
+The mean concentrations of Cu , Zn and As in drinking water were 10.8 microg/l , 0.29 mg/l and 0.91 microg/l , which were lower than U.S. EPA's Drinking Water Equivalent Level ( DWEL ) and WHO guideline values .
+The average daily intakes of Cu , Zn and As in drinking water was 21.12 microg/d , 0.65 mg/d , and 1.83 microg/d , which were on average 0.01% , 1.1% and 1.5% of the provisional maximum tolerable daily intake ( PMTDI ) set by the Joint FAO/WHO Expert Committee .
+There was a significant difference in daily intake of Zn for different work locations ( P=0.04 ) .
+But no other significant differences in daily intakes of metals in drinking water were found according to age , gender and work location .

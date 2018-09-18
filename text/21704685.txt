@@ -1,0 +1,10 @@
+The phthalates DEHP ( Diethylhexyl phthalate ) , DiNP ( Diisononyl phthalate ) and DiDP ( Diisodecyl phthalate ) are constituents of plastisols .
+We sought to obtain first data on occupational exposures to the above phthalates by analyzing their metabolites in pre- and post-shift urine samples from 5 workers in a car manufacturing plant engaged in seam sealing with a DINP based plastisol .
+Pre-shift samples were collected after a work-free period of at least 2 days .
+As a comparison group we investigated 10 employees from the same plant .
+The comparison group had phthalate exposures in the range of the general German population .
+All plastisol workers had post shift values of DiNP and DiDP metabolites that were approx. 20-times higher , and pre-shift values that were approx. 5-10 times higher than those of the general background exposure .
+Post-shift values of DiNP metabolites were ( median [ maximum ] : OH-MiNP : 117 [ 442 ] \u03bcg/L ; oxo-MiNP : 44.3 [ 175 ] \u03bcg/L ; carboxy-MiNP : 57.8 [ 286]\u03bcg/L ) , pre shift values were ( OH-MiNP : 26 [ 164 ] \u03bcg/L ; oxo-MiNP 12.9 [ 68.6 ] \u03bcg/L ; carboxy-MiNP : 32.3 [ 103 ] \u03bcg/L ) , compared to the comparison group ( OH-MiNP : 6.2 [ 33]\u03bcg/L ; oxo-MiNP : 2.8 [ 16 ] \u03bcg/L ; carboxy-MiNP : 6.5 [ 31 ] \u03bcg/L ) .
+DiDP values were generally lower .
+Regarding DEHP we found no significant work related exposure .
+The dermal exposure route might play an important role for phthalates in plastisols , with possible influences on distribution and elimination kinetics and therefore data interpretation .

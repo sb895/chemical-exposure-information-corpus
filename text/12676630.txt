@@ -1,0 +1,10 @@
+Although acute adverse effects on asthma have been frequently found for the U.S. Environmental Protection Agency's principal criteria air pollutants , there is little epidemiologic information on specific hydrocarbons from toxic emission sources .
+We conducted a panel study of 22 Hispanic children with asthma who were 10-16 years old and living in a Los Angeles community with high traffic density .
+Subjects filled out symptom diaries daily for up to 3 months ( November 1999 through January 2000 ) .
+Pollutants included ambient hourly values of ozone , nitrogen dioxide , sulfur dioxide , and carbon monoxide and 24-hr values of volatile organic compounds ( VOCs ) , particulate matter with aerodynamic diameter < 10 microm ( PM10 , and elemental carbon ( EC ) and organic carbon ( OC ) PM10 fractions .
+Asthma symptom severity was regressed on pollutants using generalized estimating equations , and peak expiratory flow ( PEF ) was regressed on pollutants using mixed models .
+We found positive associations of symptoms with criteria air pollutants ( O3 , NO2 , SO2 , PM10 ) , EC-OC , and VOCs ( benzene , ethylbenzene , formaldehyde , acetaldehyde , acetone , 1,3-butadiene , tetrachloroethylene , toluene , m,p-xylene , and o-xylene ) .
+Selected adjusted odds ratios for bothersome or more severe asthma symptoms from interquartile range increases in pollutants were , for 1.4 ppb 8-hr NO2 , 1.27 [ 95% confidence interval ( CI ) , 1.05-1.54 ] ; 1.00 ppb benzene , 1.23 ( 95% CI , 1.02-1.48 ) ; 3.16 ppb formaldehyde , 1.37 ( 95% CI , 1.04-1.80 ) ; 37 microg/m3 PM10 , 1.45 ( 95% CI , 1.11-1.90 ) ; 2.91 microg/m3 EC , 1.85 ( 95% CI , 1.11-3.08 ) ; and 4.64 microg/m3 OC , 1.88 ( 95% CI , 1.12-3.17 ) .
+Two-pollutant models of EC or OC with PM10 showed little change in odds ratios for EC ( to 1.83 ) or OC ( to 1.89 ) , but PM10 decreased from 1.45 to 1.0 .
+There were no significant associations with PEF .
+Findings support the view that air toxins in the pollutant mix from traffic and industrial sources may have adverse effects on asthma in children .

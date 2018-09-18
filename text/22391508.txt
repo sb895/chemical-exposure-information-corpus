@@ -1,0 +1,9 @@
+BACKGROUND Individual genetic variation that results in differences in systemic response to xenobiotic exposure is not accounted for as a predictor of outcome in current exposure assessment models .
+OBJECTIVE We developed a strategy to investigate individual differences in single-nucleotide polymorphisms ( SNPs ) as genetic markers associated with naphthyl-keratin adduct ( NKA ) levels measured in the skin of workers exposed to naphthalene .
+METHODS The SNP-association analysis was conducted in PLINK using candidate-gene analysis and genome-wide analysis .
+We identified significant SNP-NKA associations and investigated the potential impact of these SNPs along with personal and workplace factors on NKA levels using a multiple linear regression model and the Pratt index .
+RESULTS In candidate-gene analysis , a SNP ( rs4852279 ) located near the CYP26B1 gene contributed to the 2-naphthyl-keratin adduct ( 2NKA ) level .
+In the multiple linear regression model , the SNP rs4852279 , dermal exposure , exposure time , task replacing foam , age , and ethnicity all were significant predictors of 2NKA level .
+In genome-wide analysis , no single SNP reached genome-wide significance for NKA levels ( all p \u2265 1.05 × 10(-5) ) .
+Pathway and network analyses of SNPs associated with NKA levels were predicted to be involved in the regulation of cellular processes and homeostasis .
+CONCLUSIONS These results provide evidence that a quantitative biomarker can be used as an intermediate phenotype when investigating the association between genetic markers and exposure-dose relationship in a small , well-characterized exposed worker population .

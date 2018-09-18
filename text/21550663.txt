@@ -1,0 +1,8 @@
+Breast milk has been widely used as a bioindicator to assess the extent of human exposure to PBDEs via various exposure routes .
+In this study , 48 breast milk samples were collected from primiparous women in Shanghai city , and 14 PBDEs congeners ( BDE-28 , -47 , -99 , -100 , -153 , -154 , -183 , -196 , -197 , -203 , -206 , -207 , -208 , and -209 ) were quantified using gas chromatography-electron capture negative ionization-mass spectrometry .
+The mean concentration of total PBDEs was 8.6 ng/g lipid weight , and ranged from 1.8 to 26.7 ng/g lipid weight .
+These concentration levels were similar to those reported in Europe and Asia , but one order of magnitude lower than those in North America .
+The congener profiles in this study exhibited a specific pattern in human milk found worldwide , BDE-153 and BDE-28 accounted for a relatively higher proportion of lower brominated BDEs ( from tri- to hepta-BDEs ) , whereas higher brominated BDEs ( from octa- to deca-BDEs ) contributed more than 70% of the total PBDEs .
+The Spearman's correlation coefficient among higher brominated BDEs showed a positive relationship , and concentration levels of higher brominated BDEs were statistically different between office workers and housewives .
+Due to relatively higher proportion of PBDEs from octa- to deca-BDEs were detected , air inhalation and dust ingestion might be the major exposure routes of higher brominated BDEs .
+Further research is needed to clarify the major exposure route of higher brominated BDEs to humans .

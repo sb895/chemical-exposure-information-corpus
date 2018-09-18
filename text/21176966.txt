@@ -1,0 +1,12 @@
+A new and efficient analytical method was developed and validated for the analysis of organophosphorus flame retardants ( OPFRs ) in indoor dust samples .
+This method involves an extraction step by ultrasonication and vortex , followed by extract clean-up with Florisil solid-phase extraction cartridges and analysis of the purified extracts by gas chromatography-mass spectrometry ( GC-MS ) .
+Method recoveries ranged between 76 and 127% , except for volatile OPFRs , such as triethyl phosphate ( TEP ) and tri-(n-propyl) phosphate ( TnPP ) , which were partially lost during evaporation steps .
+The between day precision on spiked dust samples was <14% for individual OPFRs , except for TEP , tri-iso-butyl phosphate ( TiBP ) and tri ( 2-butoxyethyl ) phosphate ( TBEP ) .
+Method limit of quantifications ( LOQ ) ranged between 0.02 \u03bcg/g ( TnPP and tris(1-chloro-2-propyl phosphate ( TCPP) ) and 0.50 \u03bcg/g ( TiBP ) .
+The method was further applied for the analysis of indoor dust samples taken from Flemish homes and stores .
+TiBP , TBEP and TCPP were most abundant OPFR with median concentrations of 2.99 , 2.03 and 1.38 \u03bcg/g in house dust and of 1.04 , 3.61 , and 2.94 \u03bcg/g in store dust , respectively .
+The concentration of all OPFRs was at least 20 to 30 times higher compared to polybrominated diphenyl ethers ( PBDEs ) and hexabromocyclododecanes ( HBCDs ) .
+Estimated exposure to OPFRs from dust ingestion ranged for individual OPFRs between <1 and 50 ng/kg body weight for adults and toddlers , respectively .
+The estimated body burdens were 1000 to 100 times below reference dose ( RfD ) values , except for the scenario with high dust ingestion and high concentrations of TBEP in toddlers , where intake was only 5 times below RfD .
+Exposure of non-working and working adults to OPFRs appeared to be similar , but in specific work environments , exposure to some OPFRs ( e.g .
+TDCPP ) was increased by a factor >5 .

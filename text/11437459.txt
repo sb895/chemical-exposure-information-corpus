@@ -1,0 +1,16 @@
+The identification of host factors that are predictors of changes in serum polyhalogenated biphenyl contaminants over time has been a difficult challenge in epidemiologic studies of exposed individuals .
+Of particular concern are age at exposure , reproductive and lactational histories , and changes in body mass index .
+Using both cross-sectional and longitudinal approaches , this study examined factors related to high initial serum PBB and PCB levels and changes in these levels over time among women of varying ages at exposure ( n=1772 ; age range<1 to 45 years ) .
+In 1973 , PBB exposure occurred through consumption of farm products contaminated with PBB added to cattle feed .
+Exposures to PCBs began in 1941 through PCB-contaminated silo sealant deteriorating into animal feed .
+The Michigan Department of Public Health began enrolling participants in 1977 and has continued to follow them through annual updates .
+At enrollment , questionnaires were administered to obtain demographic , lifestyle , and anthropometric measurements , medical/reproductive and occupational histories , and contaminated food consumption patterns .
+Blood samples were collected for PBB and PCB analysis at enrollment for all participants ; additional serum tests were done on a subset of the population during follow-up .
+Median serum levels at enrollment were 2.0 ppb PBB and 5.0 ppb PCB .
+A decline in serum PBB level over an interval that ranged from 1 to 146 months ( median=31 ) was observed for 44.6% of the women ( median=1.0 ppb ) , while 12.2% showed an increase ( median=1.0 ppb ) .
+PCB levels declined in 50.3% of the women ( median=3.0 ppb ) while 12.2% increased ( median=2.0 ppb ) .
+Relative to women whose contaminant levels were stable , higher initial serum level was a predictor of decline for both PBB and PCB ( OR=1.66 , 95% CI 1.52-1.82 ; OR=3.26 , 95% CI 2.58-4.12 , respectively ) ; a yearly increase in interval between tests was related to declining PCBs ( OR=1.65 , 95% CI 1.46-1.87 ) .
+In addition , age< or =10 years at exposure ( OR=1.72 , 95% CI 1.03-2.86 ) and residence on a quarantined farm ( OR=1.40 , 95- CI 1.03-1.90 ) were predictors of a decrease in PBBs .
+Factors related to an increase in PBB levels were age< or =10 years at exposure ( OR=0.30 , 95% CI 0.10-0.96 ) and initial PBB level ( OR=1.24 , 95% CI 1.15-1.33 ) ; and for PCBs , high initial level ( OR=1.34 , 95% CI 1.17-1.53 ) and body mass index ( OR=1.07 , 95% CI 1.01-1.13 ) .
+One or more live births during the interval between tests were not related to changing levels of either contaminant ; breastfeeding data were not available for examination .
+Early age at exposure appears to be an important predictor of changes in serum PBB levels over time .

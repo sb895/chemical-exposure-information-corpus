@@ -1,0 +1,15 @@
+In the United States , about 25% of infant formula sold is based on soy protein , which is an important source of estrogenic isoflavones in the human food supply .
+Nevertheless , few studies report isoflavone levels in infants .
+We did a partly cross-sectional and partly longitudinal pilot study to examine children's exposure to isoflavones from different feeding methods .
+A total of 166 full-term infants between birth and 1 year of age were recruited into soy formula , cow milk formula , or breast milk regimens according to their feeding histories .
+A total of 381 urine , 361 saliva , and 88 blood samples were collected at 382 visits .
+We used automated online solid-phase extraction coupled to high-performance liquid chromatography-tandem mass spectrometry ( HPLC-MS/MS ) for measuring three isoflavones ( daidzein , genistein , and equol ) in urine , and used similar LC/MS/MS techniques for saliva and blood spots .
+Concentrations of daidzein and genistein were undetectable in most blood or saliva samples from children fed breast milk or cow milk formula .
+The proportion of non-detectable values was somewhat lower in urine than in the other matrices .
+Concentrations of equol were detectable only in a few urine samples .
+For both daidzein and genistein , urine contained the highest median concentrations , followed by blood and then saliva .
+Urinary concentrations of genistein and daidzein were about 500 times higher in the soy formula-fed infants than in the cow milk formula-fed infants .
+The correlations between matrices for either analyte were strikingly lower than the correlation between the two analytes in any single matrix .
+We did not find significant correlations between isoflavone concentrations and the levels of certain hormones in children fed soy formula .
+Our results , based on much larger numbers of infants , strongly confirm previous reports , but whether phytoestrogens in soy formula are biologically active in infants is still an open question .
+We plan further longitudinal studies focusing on physical and developmental findings reflecting the effects of estrogen exposure .

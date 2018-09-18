@@ -1,0 +1,11 @@
+BACKGROUND Inorganic mercury is toxic to the nervous system , kidneys , and reproductive system .
+We studied the health effects of mercury exposure among former employees of a chloralkali plant that operated from 1955 to 1994 in Georgia .
+METHODS Former plant workers and unexposed workers from nearby employers were studied .
+Exposure was assessed with a job-exposure matrix based on historical measurements and personnel records .
+Health outcomes were assessed with interviews , physical examinations , neurological and neurobehavioral testing , renal function testing , and urinary porphyrin measurements .
+Exposure-disease associations were assessed with multivariate modeling .
+RESULTS Exposed workers reported more symptoms , and tended toward more physical examination abnormalities , than unexposed workers .
+Exposed workers performed worse than unexposed subjects on some quantitative tests of vibration sense , motor speed and coordination , and tremor , and on one test of cognitive function .
+Few findings remained significant when exposure was modeled as a continuous variable .
+Neither renal function nor porphyrin excretion was associated with mercury exposure .
+CONCLUSIONS Mercury-exposed chloralkali plant workers reported more symptoms than unexposed controls , but no strong associations were demonstrated with neurological or renal function or with porphyrin excretion .

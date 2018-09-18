@@ -1,0 +1,8 @@
+The Seveso accident in 1976 caused a large , populated area north of Milan , Italy , to be contaminated by 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) .
+In this study , the authors followed up the exposed population for chronic effects ; this paper reports the results of the mortality follow-up extension for 1997-2001 .
+The study cohort includes 278,108 subjects resident at the time of the accident or immigrating/born in the 10 years thereafter in three contaminated zones with decreasing TCDD soil levels ( zone A , very high ; zone B , high ; zone R , low ) and in a reference territory comprising surrounding , noncontaminated municipalities .
+Vital status and cause-of-death ascertainment were 99% complete .
+Adjusted rate ratios and 95% confidence intervals were calculated by using Poisson regression .
+Results confirmed previous findings of excesses of lymphatic and hematopoietic tissue neoplasms in zones A ( six deaths ; rate ratio = 2.23 , 95% confidence interval : 1.00 , 4.97 ) and B ( 28 deaths ; rate ratio = 1.59 , 95% confidence interval : 1.09 , 2.33 ) .
+These zones also showed increased mortality from circulatory diseases in the first years after the accident , from chronic obstructive pulmonary disease , and from diabetes mellitus among females .
+A toxic and carcinogenic risk to humans after high TCDD exposure is supported by the results of this study .

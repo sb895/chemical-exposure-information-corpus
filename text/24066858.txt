@@ -1,0 +1,7 @@
+Prenatal exposures to polybrominated diphenyl ethers ( PBDEs ) can harm neurodevelopment in humans and animals .
+In 2003-2004 , PentaBDE and OctaBDE were banned in California and phased-out of US production ; resulting impacts on human exposures are unknown .
+We previously reported that median serum concentrations of PBDEs and their metabolites ( OH-PBDEs ) among second trimester pregnant women recruited from San Francisco General Hospital ( 2008-2009 ; n = 25 ) were the highest among pregnant women worldwide .
+We recruited another cohort from the same clinic in 2011-2012 ( n = 36 ) and now compare serum concentrations of PBDEs , OH-PBDEs , polychlorinated biphenyl ethers ( PCBs ) ( structurally similar compounds banned in 1979 ) , and OH-PCBs between two demographically similar cohorts .
+Between 2008-2009 and 2011-2012 , adjusted least-squares geometric mean ( LSGM ) concentrations of \u2211PBDEs decreased 65% ( 95% CI : 18 , 130 ) from 90.0 ng/g lipid ( 95% CI : 64.7 , 125.2 ) to 54.6 ng/g lipid ( 95% CI : 39.2 , 76.2 ) ( p = 0.004 ) ; \u2211OH-PBDEs decreased 6-fold ( p < 0.0001 ) ; and BDE-47 , -99 , and -100 declined more than BDE-153 .
+There was a modest , nonsignificant ( p = 0.13 ) decline in LSGM concentrations of \u2211PCBs and minimal differences in \u2211OH-PCBs between 2008-2009 and 2011-2012 .
+PBDE exposures are likely declining due to regulatory action , but the relative stability in PCB exposures suggests PBDE exposures may eventually plateau and persist for decades .

@@ -1,0 +1,8 @@
+A health risk assessment was conducted for exposure to trace metals via drinking water ingestion pathway for Province of Izmir , Turkey .
+Concentrations of 11 trace metals were measured in drinking waters collected from 100 population weighted random sampling units ( houses ) .
+The samples were analyzed in atomic absorption spectrometry for arsenic , and inductively coupled plasma-optical emission spectrometry for Be , Cd , Co , Cr , Cu , Mn , Ni , Pb , V , and Zn .
+Questionnaires were administered to a participant from each sampling unit to determine drinking water consumption related information and demographics .
+Exposure and risks were estimated for each individual by direct calculation , and for Izmir population by Monte Carlo simulation .
+Six trace metals ( As , Cr , Cu , Mn , Ni , and Zn ) were detected in >50% of the samples .
+Concentrations of As and Ni exceeded the corresponding standards in 20% and 58% of the samples , respectively .
+As a result , arsenic noncarcinogenic risks were higher than the level of concern for 19% of the population , whereas carcinogenic risks were >10(-4) for 46% , and >10(-6) for 90% of the population .

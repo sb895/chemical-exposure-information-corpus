@@ -1,0 +1,7 @@
+Levels of polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) were measured in paired human adipose tissue and liver samples ( n=25 ) from Belgium .
+Average concentrations and standard deviation of sum PBDEs ( congeners 28 , 47 , 99 , 100 , 153 , 154 and 183 ) were 5.3+/-3.0 ( range 1.4-13.2 ) and 3.6+/-2.1 ( range 1.0-10.0)ng g(-1) lipid weight ( lw ) in adipose tissue and liver , respectively .
+These concentrations were similar to reported PBDE data from Belgium and were at the lower end of the concentration range reported elsewhere in the world .
+In both tissues under study , BDE 153 and BDE 47 were the most abundant PBDE congeners , contributing approximately 35% and 25% to the total PBDE content .
+Average concentrations and range of PCBs ( sum of 23 congeners ) were 490 ( range 70-1130 ) and 380 ( range 90-1140)ng g(-1)lw in adipose tissue and liver , respectively .
+No correlation between age and concentrations of PBDEs could be found ( r=0.04 ) , while PCB concentrations correlated significantly with age ( r=0.62 , p<0.01 , for the sum PCBs ; r=0.64 , p<0.01 for PCB 153 alone ) .
+Factors , such as exposure pathways ( food , dust and air ) , rates of bioaccumulation , metabolism and elimination , influence the concentrations of PBDEs differently than those of PCBs in humans .

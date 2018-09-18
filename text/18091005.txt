@@ -1,0 +1,12 @@
+BACKGROUND Long-term exposure to outdoor air pollution has typically been estimated on the aggregate level , and more individual measures of exposure are needed .
+We investigated the associations with lung function of residential outdoor air pollution in early life , total lifetime , and days before lung function test .
+METHODS In 2001-2002 , spirometry was performed in 2307 9- and 10-year-old children who had lived in Oslo , Norway , since birth .
+Outdoor air pollution exposure for each child was assessed by the EPISODE dispersion model , calculating hourly concentrations of nitrogen dioxide ( NO2 ) , particulate matter ( PM ) with aerodynamic diameter less than 10 microm ( PM10 ) and 2.5 microm ( PM2.5 ) .
+We applied linear regression analysis stratified by sex .
+RESULTS Early and lifetime exposures to outdoor air pollution were associated with reduced peak expiratory flow and reduced forced expiratory flow at 25% and 50% of forced vital capacity , especially in girls .
+One interquartile increase of lifetime exposure to NO2 , PM10 , and PM2.5 was associated with change in adjusted peak respiratory flow of , respectively , -79 mL/s ( 95% confidence interval = -128 to -31 ) , -66 mL/s ( -110 to -23 ) , and -58 mL/s ( -94 to -21 ) .
+We also found short-term effects of NO2 that became stronger with increasing time lags , but no short-term effects of PM .
+When we included short- and long-term NO2 exposures simultaneously , only the long-term effect remained .
+We found no effect on forced volumes .
+Adjusting for a contextual socioeconomic factor diminished the associations .
+CONCLUSIONS Short- and long-term residential exposures to traffic-related pollutants in Oslo were associated with reduced peak expiratory flow and forced expiratory flow at 25% and 50% in 9- to 10-year-old children , especially in girls , with weaker associations after adjusting for a contextual socioeconomic factor .

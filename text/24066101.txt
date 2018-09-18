@@ -1,0 +1,11 @@
+BACKGROUND Elevated exposure to the essential element manganese ( Mn ) can be toxic .
+Manganese concentrations in ground water vary considerably , and reported associations between Mn and early-life mortality and impaired development have raised concern .
+We assessed the effects of drinking water Mn exposure during pregnancy upon fetal and infant survival .
+METHODS In this population-based cohort study , we identified the outcomes of pregnancies registered between February 2002 and April 2003 in Matlab , Bangladesh .
+Using inductively coupled plasma mass spectrometry , we measured the concentrations of Mn and other elements in the pregnant women's drinking water .
+RESULTS A total of 1,875 women were included in the analysis of spontaneous abortions ( n=158 ) and 1,887 women in the perinatal mortality analysis ( n=70 ) .
+Water Mn ranged from 3.0-6,550 µg/L ( median=217 µg/L ) .
+The adjusted odds ratio ( OR ) for spontaneous abortion was 0.65 ( 95% CI 0.43-0.99 ) in the highest water Mn tertile ( median=1,292 µg/L ) as compared to the lowest tertile ( median=56 µg/L ) .
+The corresponding OR for perinatal mortality was 0.69 ( 95% CI 0.28-1.71 ) , which increased to 0.78 ( 95% CI 0.29-2.08 ) after adjustment for BMI and place of delivery ( home/health facility ; n=1,648 ) .
+CONCLUSIONS Elevated water Mn concentrations during pregnancy appear protective for the fetus , particularly in undernourished women .
+This effect may be due to the element's role in antioxidant defense .

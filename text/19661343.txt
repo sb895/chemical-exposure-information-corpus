@@ -1,0 +1,6 @@
+BACKGROUND Chronic arsenic exposure has been associated with human cancer .
+The objective of this study was to investigate the effects of arsenic exposure on a DNA nucleotide excision repair gene , ERCC1 , expression in human blood cells .
+PATIENTS AND METHODS Water and toenail samples were collected from a total of 327 Inner Mongolian residents for arsenic analysis .
+Blood samples were collected to determine mRNA expression levels by real-time PCR .
+RESULTS The mRNA levels of ERCC1 expression were positively associated with water arsenic concentration ( slope=0.313 , p=0.0043 ) and nail arsenic concentration ( slope=0.474 , p=0.0073). mRNA levels of ERCC1 expression were significantly correlated with those of OGG1 , a base pair excision repair gene ( r=0.275 , p<0.0001 ) .
+CONCLUSION The results showed that mRNA levels of ERCC1 expression were significantly associated with arsenic concentrations in drinking water , implicating the DNA repair response was induced by arsenic exposure .

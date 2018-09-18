@@ -1,0 +1,12 @@
+The use of biological markers in the evaluation of human exposure to hazardous agents has increased rapidly in recent years .
+Because 1,3-butadiene is a mutagenic carcinogen , existing occupational levels of exposure may be appropriately evaluated using somatic cell mutation as a biomarker .
+Previously , we have described a biomarker study of workers in a butadiene monomer plant ( Ward et al. , 1994 ) .
+We now report results from a second study of the same group of workers , conducted after plant modernization , and present preliminary results from a study of exposures in a styrene butadiene rubber ( SBR ) plant .
+Air levels of butadiene were determined using either charcoal tubes with air pumps or passive badge dosimeters .
+The quantity of a butadiene metabolite in the urine was used as a biomarker of exposure and the mutagenic effects of exposure were measured using the autoradiographic hprt mutant lymphocyte assay .
+In all three studies , the frequencies of hprt mutants were significantly elevated in workers from the areas of highest exposure when compared to workers from lower exposure areas or non-exposed subjects .
+The concentration of the urinary metabolite was significantly increased in high-exposed workers in the first study of monomer plant workers but not in the second .
+In the first monomer plant study , historical air concentrations of butadiene were higher in the production units than in the central control unit .
+While concurrent determined air concentrations were not elevated in the second monomer plant study , they were elevated in high exposure areas in the SBR plant study .
+Mutant frequencies in the lower-exposure and the non-exposed groups were consistent with historical values for non-smoking individuals who were not exposed to known mutagens .
+The use of biomarkers , including the hprt mutant lymphocyte assay , may be of great value in determining an appropriate occupational exposure limit for butadiene .

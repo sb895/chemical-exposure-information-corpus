@@ -1,0 +1,15 @@
+BACKGROUND The New Zealand city of Rotorua sits on a geothermal field .
+However , little is known about the possible health impacts of the geothermal emissions .
+This was an ecological study that examined cancer incidence and morbidity data for Rotorua .
+METHODS Cancer registry and hospital discharge ( morbidity ) data were obtained for the decade 1981-1990 .
+Standardized incidence ratios ( SIR ) were calculated comparing Rotorua residents with those living in the rest of New Zealand .
+Diagnostic categories examined were based on known target organ systems of hydrogen sulphide toxicity .
+RESULTS Of the cancer sites , there was an elevated rate for nasal cancers .
+However , this was based on only four cases .
+The SIR for cancers of the trachea , bronchus and lung in Maori women was 1.48 ( 95% CI : 1.03-2.06 ) .
+This was not explained by higher smoking rates .
+In the hospital discharge data , a number of diseases showed elevated SIR , notably diseases of the nervous system and the eye .
+To some extent , these effects were characteristic of effects induced by hydrogen sulphide and also mercury compounds .
+However , there were few data with which to assess whether significant mercury exposures had occurred , and other explanations were possible .
+CONCLUSIONS There are inadequate exposure data for Rotorua to permit conclusions on likely causal associations .
+However , some of the elevated disease rates were at least consistent with what one might expect to find if sufficient exposures to hydrogen sulphide and/or mercury were occurring .

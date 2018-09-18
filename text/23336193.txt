@@ -1,0 +1,13 @@
+OBJECTIVE To understand the distribution of chemical elements in soil .
+To investigate the differences between patients under different state of fluorosis and normal population after preventive measurement was implemented to get rid of some chemical elements and to lower the urine fluoride levels so as to illustrate the pathogenesis of the disease .
+METHODS Both ecological and comparative studies had been used to analyze the rates and levels of chemical elements .
+Teeth and skeletal from the patients with fluorosis and controls were taken and florin ion-selective-electrode method was used to determine urine the content of fluorine .
+Atomic Absorption Spectrometry was used to determine the copper , zinc , calcium , magnesium and iron contents in the whole blood .
+Differences of contents were analyzed .
+RESULTS In Wushan county , the soil contents of nickel ( r = 0.553 , P = 0.050 ) , iodine ( r = 0.571 , P = 0.041 ) , fluorine ( r = 0.303 , P = 0.005 ) , pH value ( r = 0.304 , P = 0.005 ) and the rates of fluorosis showed weaker positive relationship .
+In Fengjie county , the soil contents of mercury ( r = 0.285 , P = 0.001 ) , nickel ( r = 0.212 , P = 0.00 ) and the rates of fluorosis also showed weaker positive relationship .
+In Wushan county , the urine fluoride level in the patients group [ (0.64 ± 0.34 ) mg/L ] was higher than that in the control group [ (0.44 ± 0.59 ) mg/L ] , ( P < 0.05 ) .
+In Fengjie county , copper [ (29.63 ± 3.32 ) µmol/L ] and urine fluoride [ (0.83 ± 0.37 ) mg/L ] levels in the patients group showed higher than that in the control group [ (26.76 ± 3.63 ) µmol/L , ( 0.53 ± 0.23 ) mg/L ] , ( P < 0.05). zinc ( Zn ) [ (76.13 ± 11.24 ) µmol/L ] , calcium ( Ca ) [ (1.87 ± 0.25 ) mmol/L ] , magnesium ( Mg ) [ (1.41 ± 0.18 ) mmol/L ] and fluoride[(0.83 ± 0.37 ) mg/L]levels in urine of the patients in children were higher in Fengjie than that in Wushan [ (71.95 ± 7.53 ) µmol/L , ( 1.43 ± 1.34 ) mmol/L , ( 1.34 ± 0.15 ) mmol/L , ( 0.64 ± 0.34 ) mg/L ] , ( P < 0.05 ) .
+Mg [ (1.56 ± 1.96 ) mmol/L ] , ferrum [ (8.15 ± 1.00 ) mmol/L ] and fluoride [ (2.17 ± 0.99 ) mg/L ] levels among adult patients were significantly higher than in the control group [ (1.46 ± 0.16 ) mmol/L , ( 7.64 ± 1.00 ) mmol/L , ( 1.44 ± 1.22 ) mg/L ] ( P < 0.05 ) .
+CONCLUSION Soil , rich in alkaline and fluorosis could increase the intake of fluorine while nickel , cadmium , iodine content in soil might relate to the occurrence of fluorosis .
+Residents living in endemic areas where anti-fluorine elements as Zn , Ca and Mg were in shortage , might be affected by these chemical elements that related with fluorosis .

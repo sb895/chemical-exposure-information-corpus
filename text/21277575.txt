@@ -1,0 +1,8 @@
+Umbilical cord blood or serum concentrations of mercury , lead , selenium and copper were measured with inductively coupled plasma mass spectrometry in a population of 300 infants born in Baltimore , Maryland .
+Geometric mean values were 1.37 \u03bcg/L ( 95% confidence interval : 1.27 , 1.48 ) for mercury ; 0.66 \u03bcg/dL ( 95% CI : 0.61 , 0.71 ) for lead ; and 38.62 \u03bcg/dL ( 95% CI : 36.73 , 40.61 ) for copper .
+Mean selenium was 70.10 \u03bcg/L ( 95% CI : 68.69 , 70.52 ) .
+Mercury , selenium and copper levels were within exposure ranges reported among similar populations , whereas the distribution of lead levels was lower than prior reports ; only one infant had a cord blood lead above 10 \u03bcg/dL .
+Levels of selenium were significantly correlated with concentrations of lead ( Spearman's \u03c1=0.20 ) and copper ( Spearman's \u03c1=0.51 ) .
+Multivariable analyses identified a number of factors associated with one of more of these exposures .
+These included : increase in maternal age ( increased lead ) ; Asian mothers ( increased mercury and lead , decreased selenium and copper ) ; higher umbilical cord serum n-3 fatty acids ( increased mercury , selenium and copper ) , mothers using Medicaid ( increased lead ) ; increasing gestational age ( increased copper ) ; increasing birthweight ( increased selenium ) ; older neighborhood housing stock ( increased lead and selenium ) ; and maternal smoking ( increased lead ) .
+This work provides additional information about contemporary prenatal element exposures and can help identify groups at risk of atypical exposures .

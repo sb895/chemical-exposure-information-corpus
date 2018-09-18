@@ -1,0 +1,10 @@
+BACKGROUND A recent meta-analysis based on data from > 7,000 pregnancies reported an association between prenatal polychlorinated biphenyl ( PCB)-153 exposure and reduced birth weight .
+Gestational weight gain , which is associated negatively with PCB levels in maternal and cord blood , and positively with birth weight , could substantially confound this association .
+OBJECTIVE We sought to estimate the influence of gestational weight gain on the association between PCB-153 exposure and birth weight using a pharmacokinetic model .
+METHODS We modified a recently published pharmacokinetic model and ran Monte Carlo simulations accounting for variability in physiologic parameters and their correlations .
+We evaluated the pharmacokinetic model by comparing simulated plasma PCB-153 levels during pregnancy to serial measurements in 10 pregnant women from another study population .
+We estimated the association between simulated plasma PCB-153 levels and birth weight using linear regression models .
+RESULTS The plasma PCB-153 level profiles generated with the pharmacokinetic model were comparable to measured levels in 10 pregnant women .
+We estimated a 118-g decrease in birth weight ( 95% CI : -129 , -106 g ) for each 1-\u03bcg/L increase in simulated cord plasma PCB-153 , compared with the 150-g decrease estimated based on the previous meta-analysis .
+The estimated decrease in birth weight was reduced to -6 g ( 95% CI : -18 , 6 g ) when adjusted for simulated gestational weight gain .
+CONCLUSION Our findings suggest that associations previously noted between PCB levels and birth weight may be attributable to confounding by maternal weight gain during pregnancy .

@@ -1,0 +1,8 @@
+Recent ( 2009-10 ) studies documented significantly higher concentrations of polycyclic aromatic hydrocarbons ( PAHs ) in settled house dust in living spaces and soil adjacent to parking lots sealed with coal-tar-based products .
+To date , no studies have examined the potential human health effects of PAHs from these products in dust and soil .
+Here we present the results of an analysis of potential cancer risk associated with incidental ingestion exposures to PAHs in settings near coal-tar-sealed pavement .
+Exposures to benzo[a]pyrene equivalents were characterized across five scenarios .
+The central tendency estimate of excess cancer risk resulting from lifetime exposures to soil and dust from nondietary ingestion in these settings exceeded 1 × 10(-4) , as determined using deterministic and probabilistic methods .
+Soil was the primary driver of risk , but according to probabilistic calculations , reasonable maximum exposure to affected house dust in the first 6 years of life was sufficient to generate an estimated excess lifetime cancer risk of 6 × 10(-5) .
+Our results indicate that the presence of coal-tar-based pavement sealants is associated with significant increases in estimated excess lifetime cancer risk for nearby residents .
+Much of this calculated excess risk arises from exposures to PAHs in early childhood ( i.e. , 0-6 years of age ) .

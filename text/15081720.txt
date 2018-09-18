@@ -1,0 +1,8 @@
+It is suspected that persons who work in indoor environments near busy roadways are exposed to elevated levels of air pollutants during working hours .
+This study evaluated the potential exposure and source contribution associated with traffic-related air pollution for workers ( polishers and repairmen ) in shoe stalls from each of 32 districts during working hours in Seoul , Korea .
+The shoe stalls have been located at very close distances to the busy roadways .
+In this study , shoe stall workers could be exposed to high levels of respirable suspended particulate ( RSP ) , nitrogen dioxide ( NO(2) ) and volatile organic compounds ( VOCs ) from outdoor sources such as traffic exhaust , as well as indoor sources in the shoe stalls such as dust on the shoes , portable gas ranges , organic solvents , adhesives and shoe polish .
+Compounds of particular note included indoor mean concentrations of benzene , toluene , m/p-xylene and o-xylene were 0.732 , 6.777 , 4.080 and 1.302 mg/m(3) , respectively , in all shoe stalls .
+Mean indoor/outdoor ratios for toluene and m/p-xylene concentrations were 54.52 and 20.84 , respectively .
+The contribution of vehicle exhaust emissions to indoor air quality of shoe stalls was identified by means of correlating the relationships between simultaneously measured air pollutant concentrations indoors and outdoors .
+Unlike RSP and NO(2) , indoor VOCs concentrations of shoe stalls mainly originated from indoor sources vs. outdoor sources .

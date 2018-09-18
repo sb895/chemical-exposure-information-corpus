@@ -1,0 +1,10 @@
+BACKGROUND Occupational risk factors for ovarian cancer have been investigated only to a limited extent .
+We conducted a case-cohort study to examine associations between occupational exposures and ovarian cancer in the textile industry .
+METHODS We compared 261 incident ovarian cancer cases diagnosed between 1989 and 1998 with an age-stratified reference subcohort ( n = 3199 ) from a cohort of 267,400 textile workers in Shanghai , China .
+Occupational exposures were assessed by job-exposure matrices designed for the textile industry , and estimates of quantitative cotton dust and endotoxin .
+We calculated hazard ratios ( HRs ) and 95% confidence intervals ( CIs ) with Cox proportional hazards modeling adapted for the case-cohort design .
+RESULTS A decreased risk of ovarian cancer was associated with ever having worked in cotton manufacturing production ( HR = 0.7 ; 95% CI = 0.4-1.0 ) .
+An increased risk was associated with ever having worked in textile finishing ( 2.1 ; 0.9-5.0 ) .
+We found an increasing risk of ovarian cancer associated with cumulative exposure to silica dust ( for <10 years exposure , HR = 6.8 [ CI = 0.6-76 ] ; for > or =10 years , 5.6 [ 1.3-23.6] ) , although these results are based on only 8 exposed subcohort women ( 0.3% ) and 4 cases ( 1.3% ) .
+We also detected inverse risk gradients for cumulative exposures to endotoxin when exposures were lagged by 20 years ( in highest quartile , HR = 0.6 [ CI = 0.4-1.1] ) .
+CONCLUSION Silica dust may increase the risk of ovarian cancer , and cotton dust and endotoxin may reduce risk .

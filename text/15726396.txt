@@ -1,0 +1,11 @@
+OBJECTIVE Workers in various industries can be exposed to polycyclic aromatic hydrocarbons ( PAHs ) .
+The relationship between biomarkers of genotoxic risk , PAH compounds in air ( ambient monitoring ) and PAH metabolites in urine ( internal exposure ) were studied in 17 workers exposed to PAHs in a fireproof-material producing plant before and 3 months after the PAH profile was altered in the binding pitch .
+METHODS Two biomarkers of exposure , specific DNA adducts of ( +/-)-r-7,t-8-dihydroxy-t-9,10-oxy-7,8,9,10-tetrahydrobenzo[a]pyrene ( anti-BPDE ) and non-specific DNA adduct of 8-oxo-7,8-dihydro-2'-deoxyguanosine ( 8-oxodGuo ) were determined in white blood cells ( WBCs ) .
+In addition , DNA strand breaks were analysed in lymphocytes by single-cell gel electrophoresis in a genotoxic risk assessment .
+Sixteen PAH compounds in air were determined by personal air sampling , and hydroxylated metabolites of phenanthrene , pyrene and naphthalene were determined in urine .
+RESULTS After substitution of the binding pitch the concentrations of benzo[a]pyrene in air decreased ( P<0.01 ) .
+No changes could be observed for pyrene , while levels of phenanthrene ( P=0.0013 ) and naphthalene ( P=0.0346 ) in air increased .
+Consequently , median DNA adduct rates of anti-BPDE decreased after alteration of the production material ( from 0.9 to <0.5 adducts/10(8) nucleotides ) .
+No changes in the excretion of 1-hydroxypyrene in urine could be determined , whereas increased levels of 1- , 2+9- , 3- and 4-hydroxyphenanthrene ( P<0.0001 ) and 1-naphthol and 2-naphthol ( P=0.0072 ) were found in urine .
+In addition , a statistically significant increase in DNA strand break frequencies ( P<0.01 ) and elevated 8-oxodGuo adduct levels ( P=0.7819 , not statistically significant ) were found in the WBCs of exposed workers 3 months after the PAH profile in the binding pitch had been altered .
+CONCLUSION The results presented here show that the increased concentration of naphthalene and/or phenanthrene in the air at the work place could induce the formation of DNA strand breaks and alkali-labile sites in WBCs of exposed workers .

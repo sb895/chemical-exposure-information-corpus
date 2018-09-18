@@ -1,0 +1,7 @@
+The aim of the analysis was , in general , to find a way to summarise results of studies in search of exposure-response relationships and , in particular , to ask whether an exposure-response relationship can be ascertained for neurobehavioural studies on occupational mercury exposure .
+Eighteen studies dealing with human mercury exposure and examining 1,106 exposed and 1,105 control subjects were included in the analysis .
+Effect sizes were calculated for each of the single neuropsychological test results on cognitive and motor performance and were considered in relation to mean current concentrations of exposure .
+The total of effect sizes demonstrated a correlation to exposure in the range of r=0.50 .
+Additional analyses showed that the influence of mercury on psychological functions was different and that results on motor performance compared with memory and attention revealed the greatest impairment in mercury-exposed workers .
+Implications for the reversibility of impairments could be discussed because three of the studies examined subjects whose exposure had ceased .
+Besides the usefulness of the approach , it became obvious that the available 18 studies are a small sample , even when non-dimensional effect-sizes are used ; hence , not all psychological domains covered by tests could be analysed .

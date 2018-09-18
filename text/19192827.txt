@@ -1,0 +1,9 @@
+This study investigated the association between dietary variables and plasma levels of perfluorooctane sulfonic acid ( PFOS ) and perfluorooctanoic acid ( PFOA ) among 1076 pregnant women .
+Diet was assessed at midpregnancy by a food-frequency questionnaire .
+Mean first trimester plasma PFOS and PFOA levels were 35.1 and 5.6 ng/mL respectively .
+PFOS levels were positively associated ( p < 0.05 ) with intake of red meat , animal fats , and snacks ( e.g. , popcorn , potato chips ) , whereas intake of vegetables and poultry was inversely associated .
+The adjusted mean differences between the 75th and 25th intake percentiles were 4.3 ng/mL [ 95% CI : 2.1 , 6.5 ] for red meat 3.4 ng/mL [ 95% CI : 1.2 , 5.6 ] for animal fats , and 2.0 ng/mL [ 95% CI : 0.3 , 3.6 ] for snacks .
+Similar but weaker associations were observed for PFOA .
+Furthermore , a comparison between women reporting low ( < or =25th percentile ) red meat and high ( > or =75th percentile ) vegetable intake and women reporting low vegetable and high red meat intake resulted in differences in plasma PFOS and PFOA concentrations equal to 31% and 18% of mean levels , respectively .
+Studies quantifying levels of perfluorinated compounds in food have suggested that diet could be an important route of human exposure .
+The observed associations in our study between dietary variables and maternal exposure further support that conclusion .

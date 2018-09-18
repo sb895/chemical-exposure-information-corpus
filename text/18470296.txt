@@ -1,0 +1,9 @@
+BACKGROUND Maternal exposure to polychlorinated biphenyls ( PCBs ) is associated with increased proportions of spontaneous abortion and stillbirth in animal studies .
+In Japan in 1968 , accidental human exposure to rice oil contaminated with PCBs and other dioxin-related compounds , such as polychlorinated dibenzofurans ( PCDFs ) , led to the development of what was later referred to as Yusho oil disease .
+OBJECTIVE The aim of this study was to investigate the association of maternal PCB and dioxin exposure with adverse pregnancy outcomes in Yusho women .
+METHODS In 2004 , we interviewed 214 Yusho women ( 512 pregnancies ) about their pregnancy outcomes over the past 36 years .
+Pregnancy outcomes included induced abortion , spontaneous abortion , preterm delivery , and pregnancy loss .
+RESULTS In pregnancy years 1968-1977 ( within the first 10 years after exposure ) , the proportions of induced abortion [ odds ratio adjusted for age at delivery ( ORadj ) = 5.93 ; 95% confidence interval ( CI ) , 2.21-15.91 ; two-tailed p < 0.001 ) and preterm delivery ( ORadj = 5.70 ; 95% CI , 1.17-27.79 ; p = 0.03 ) were significantly increased compared with the proportions in pregnancy years 1958-1967 ( 10 years before the incident ) .
+Spontaneous abortion ( ORadj = 2.09 ; 95% CI , 0.84-5.18 ) , and pregnancy loss ( ORadj = 2.11 ; 95% CI , 0.92-4.87 ) were more frequent ( OR = 2.18 ; 95% CI , 1.02-4.66 ) , but these were not significant ( p = 0.11 and p = 0.08 , respectively ) in pregnancy years 1968-1977 .
+We found no significant increases in the proportions of these adverse pregnancy outcomes in pregnancies occurring during 1978-1987 or 1988-2003 compared with those in pregnancies before 1968 .
+CONCLUSION High levels of PCB/PCDF exposure had some adverse effects on pregnancy outcome in Yusho women .

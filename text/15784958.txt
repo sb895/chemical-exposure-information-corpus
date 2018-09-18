@@ -1,0 +1,9 @@
+A simple and reliable method for the determination of mercury in hair on a rotating gold disk electrode using subtractive anodic stripping voltammetry without removal of oxygen is reported .
+Voltammetric and microwave parameters were optimized to obtain the best analytical results .
+Parameters such as supporting electrolyte concentration , influence of chloride in the Hg peak , deposition potential , scan rate , accumulation time , rotation rate , square-wave amplitude , and electrode conditioning were studied .
+Pressurized microwave-assisted digestion of hair , suitable for the accurate voltammetric determination of Hg , was evaluated using six acid mixtures and several time-power programs .
+Under the optimized conditions , no interference by copper , cadmium , lead , nickel , manganese , iron , or zinc was found at concentrations corresponding to their occurrence in normal hair .
+A calibration plot between 6,67 and 46,69 microg/L was linear , with r(2) better than 0.999 .
+The detection limit for a deposition time of 60 s at 254 g was calculated as 1.92 nM ( 3omega ) .
+Validation of the method was demonstrated with the use of a certified reference sample of hair .
+Eight real samples of hair ( four unexposed children and four exposed persons ) were also analyzed .

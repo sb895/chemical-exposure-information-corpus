@@ -1,0 +1,15 @@
+BACKGROUND Epidemiological studies that have investigated the association between air pollution and atopy have found inconsistent results .
+Furthermore , often exposure to outdoor air pollution has had limited quality , and more individual exposure is needed .
+OBJECTIVE To investigate the relations between early and lifetime exposure to residential outdoor air pollution and allergen sensitization in 9-10-year-old children in Oslo , Norway .
+METHODS Sensitization to common allergens was measured by skin prick tests ( SPTs ) , which were performed in 2244 children who had lived in Oslo since birth .
+Several definitions of positive SPT were used .
+Information on potential confounding variables was collected by a parental questionnaire .
+Exposure to outdoor air pollution was assessed by the EPISODE dispersion model , which calculates hourly concentrations of nitrogen dioxide ( NO2 ) , particulate matter ( PM ) with aerodynamic diameter <10 microm ( PM10 ) and <2.5 microm ( PM2.5 ) , respectively .
+RESULTS We found no associations between long-term air pollution exposure and sensitization to any allergen , any indoor or any pollen allergen .
+However , lifetime air pollution exposure was associated with sensitization to the house dust mite Dermatophagoides farinae .
+One interquartile increase of lifetime exposure to NO2 , PM10 and PM2.5 was associated with 1.88 ( adjusted odds ratio ) ( 1.02 , 3.47 ) [ 95% confidence interval ( CI) ] , 1.61 ( 0.96 , 2.72 ) and 1.46 ( 0.96 , 2.22 ) , respectively , for D. farinae .
+Lifetime exposure was also associated with sensitization to cat in a subpopulation .
+Both associations diminished after adjusting for a contextual socio-economic factor .
+CONCLUSION Long-term exposure to traffic-related pollutants was generally not associated with allergen sensitization in 9-10-year-old Oslo children .
+However , lifetime exposure was associated with sensitization to D. farinae , and with sensitization to cat in a subpopulation , which may be explained by socio-economic confounding or multiple comparisons .
+The air pollution levels in Oslo may be too low to reveal associations with sensitization .

@@ -1,0 +1,11 @@
+BACKGROUND Chronic high arsenic exposure is associated with squamous cell carcinoma ( SCC ) of the skin , and inorganic arsenic ( iAs ) metabolites may play an important role in this association .
+However , little is known about the carcinogenicity of arsenic at levels commonly observed in the United States .
+OBJECTIVE We estimated associations between total urinary arsenic and arsenic species and SCC in a U.S. population .
+METHODS We conducted a population-based case-control SCC study ( 470 cases , 447 controls ) in a U.S. region with moderate arsenic exposure through private well water and diet .
+We measured urinary iAs , monomethylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA ) , and summed these arsenic species ( \u03a3As ) .
+Because seafood contains arsenolipids and arsenosugars that metabolize into DMA through alternate pathways , participants who reported seafood consumption within 2 days before urine collection were excluded from the analyses .
+RESULTS In adjusted logistic regression analyses ( 323 cases , 319 controls ) , the SCC odds ratio ( OR ) was 1.37 for each ln-transformed microgram per liter increase in ln-transformed \u03a3As concentration [ ln(\u03a3As) ] ( 95% CI : 1.04 , 1.80 ) .
+Urinary ln(MMA) and ln(DMA) also were positively associated with SCC ( OR = 1.34 ; 95% CI : 1.04 , 1.71 and OR = 1.34 ; 95% CI : 1.03 , 1.74 , respectively ) .
+A similar trend was observed for ln(iAs) ( OR = 1.20 ; 95% CI : 0.97 , 1.49 ) .
+Percent iAs , MMA , and DMA were not associated with SCC .
+CONCLUSIONS These results suggest that arsenic exposure at levels common in the United States relates to SCC and that arsenic metabolism ability does not modify the association .

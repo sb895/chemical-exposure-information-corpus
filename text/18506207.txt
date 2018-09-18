@@ -1,0 +1,12 @@
+The Colorado River shows low levels of perchlorate derived from aerospace- and defense-related fuel industries once located near the Las Vegas Wash .
+At sufficiently high dosages perchlorate can disrupt thyroid function by inhibiting uptake of iodide .
+The Colorado River is the primary source of irrigation water for most food crops grown in Southern California and Southwestern Arizona .
+The objective of this study was to evaluate potential perchlorate exposure from food crops produced in the lower Colorado River region ( LCRR ) .
+The major food commodities produced in the region were sampled and perchlorate levels were determined by ion chromatography followed by detection using either conductivity or tandem mass spectrometry , depending on analyte levels .
+The Monte Carlo module of the Dietary Exposure Evaluation Model ( DEEM ) was used to derive an estimate of the 2-day average perchlorate intakes .
+Data were derived assuming that individuals residing in the LCRR get their fruits and vegetables from within the LCRR as well as from other areas in the United States , or assuming individuals living in the LCRR get their fruits and vegetables from the LCRR only .
+Perchlorate exposure estimates derived in this study are comparable to exploratory estimates by the US Food and Drug Administration .
+For infants and children , over 50% of the estimated perchlorate exposure was from milk .
+The relative impact of vegetables and fruit toward perchlorate exposure increased by age through adulthood .
+Cumulative perchlorate exposure estimates based on this hypothetical analysis could approach or exceed the NAS reference dose ( RfD ) for some population groups as drinking water levels exceeded 6 microg/l .
+However , few individuals are exposed to perchlorate in drinking water at levels above 4 microg/l in the United States and very few would be exposed to perchlorate levels exceeding the RfD , whether consuming food crops from within or outside the LCRR .

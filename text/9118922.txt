@@ -1,0 +1,6 @@
+This paper describes basic principles underlying the methodology for obtaining quantitative estimates of benzene exposure in the petroleum marketing and distribution industry .
+Work histories for 91 cases of leukemia and 364 matched controls ( 4 per case ) identified for a cohort of oil distribution workers up to the end of 1992 were obtained , primarily from personnel records .
+Information on the distribution sites , more than 90% of which were closed at the time of data collection , was obtained from site visits and archive material .
+Industrial hygiene measurements measured under known conditions were assembled for different tasks .
+These were adjusted for conditions where measured data were not available using variables known to influence exposure , such as temperature , technology , percentage of benzene in fuel handled , products handled , number of loads , and job activity .
+A quantitative estimate of dermal contact and peak exposure was also made .

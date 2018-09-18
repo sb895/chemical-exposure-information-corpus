@@ -1,0 +1,10 @@
+The pseudo-total and oral bioaccessible concentration of six potentially toxic elements ( PTEs ) in urban street dust was investigated .
+Typical pseudo-total concentrations across the sampling sites ranged from 4.4 to 8.6 mg kg(-1) for As , 0.2-3.6 mg kg(-1) for Cd , 25-217 mg kg(-1) for Cu , 14-46 mg kg(-1) for Ni , 70-4261 mg kg(-1) for Pb , and , 111-652 mg kg(-1) for Zn .
+This data compared favourably with other urban street dust samples collected and analysed in a variety of cities globally ; the exception was the high level of Pb determined in a specific sample in this study .
+The oral bioaccessibility of PTEs in street dust is also assessed using in vitro gastrointestinal extraction ( Unified Bioaccessibility Method , UBM ) .
+Based on a worst case scenario the oral bioaccessibility data estimated that Cd and Zn had the highest % bioaccessible fractions ( median >45% ) while the other PTEs i.e .
+As , Cu , Ni and Pb had lower % bioaccessible fractions ( median <35% ) .
+The pseudo-total and bioaccessible concentrations of PTEs in the samples has been compared to estimated tolerable daily intake values based on unintentional soil/dust consumption .
+Cadmium , Cu and Ni are well within the oral tolerable daily intake rates .
+With respect to As and Pb , only the latter exceeds the TDI(oral) if we model ingestion rate based on atmospheric ' dustiness ' rather than the US EPA ( 2008 ) unintentional soil/dust consumption rate of 100 mg d(-1) .
+We consider it unlikely that even a child with pica tendencies would ingest as much as 100mg soil/dust during a daily visit to the city centre , and in particular to the sites with elevated Pb concentrations observed in this study .

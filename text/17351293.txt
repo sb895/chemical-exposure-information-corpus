@@ -1,0 +1,7 @@
+The authors evaluated the effect of arsenic exposure on fetal and infant survival in a cohort of 29,134 pregnancies identified by the health and demographic surveillance system in Matlab , Bangladesh , in 1991-2000 .
+Arsenic exposure , reflected by drinking water history and analysis of arsenic concentrations in tube-well water used by women during pregnancy , was assessed in a separate survey conducted in 2002-2003 .
+Data on vital events , including pregnancy outcome and infant mortality , were collected by monthly surveillance at the household level .
+The risk of fetal loss and infant death in relation to arsenic exposure was estimated by a Cox proportional hazards model .
+Drinking tube-well water with more than 50 microg of arsenic per liter during pregnancy significantly increased the risks of fetal loss ( relative risk = 1.14 , 95% confidence interval : 1.04 , 1.25 ) and infant death ( relative risk = 1.17 , 95% confidence interval : 1.03 , 1.32 ) .
+There was a significant dose response of arsenic exposure to risk of infant death ( p = 0.02 ) .
+Women of reproductive age should urgently be prioritized for mitigation activities where drinking water is contaminated by arsenic .

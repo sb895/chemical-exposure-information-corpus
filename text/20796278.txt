@@ -1,0 +1,14 @@
+BACKGROUND Arsenic is a strong stimulus of heme oxygenase ( HO)-1 expression in experimental studies in response to oxidative stress caused by a stimulus .
+A functional GT-repeat polymorphism in the HO-1 gene promoter was inversely correlated to the development of coronary artery disease in diabetics and development of restenosis following angioplasty in patients .
+The role of this potential vascular protective factor in carotid atherosclerosis remains unclear .
+We previously reported a graded association of arsenic exposure in drinking water with an increased risk of carotid atherosclerosis .
+In this study , we investigated the relationship between HO-1 genetic polymorphism and the risk of atherosclerosis related to arsenic .
+METHODS Three-hundred and sixty-seven participants with an indication of carotid atherosclerosis and an additional 420 participants without the indication , which served as the controls , from two arsenic exposure areas in Taiwan , a low arsenic-exposed Lanyang cohort and a high arsenic-exposed LMN cohort , were studied .
+Carotid atherosclerosis was evaluated using a duplex ultrasonographic assessment of the extracranial carotid arteries .
+Allelic variants of ( GT)n repeats in the 5'-flanking region of the HO-1 gene were identified and grouped into a short ( S ) allele ( < 27 repeats ) and long ( L ) allele ( \u2265 27 repeats ) .
+The association of atherosclerosis and the HO-1 genetic variants was assessed by a logistic regression analysis , adjusted for cardiovascular risk factors .
+RESULTS Analysis results showed that arsenic's effect on carotid atherosclerosis differed between carriers of the class S allele ( OR 1.39 ; 95% CI 0.86-2.25 ; p = 0.181 ) and non-carriers ( OR 2.65 ; 95% CI 1.03-6.82 ; p = 0.044 ) in the high-exposure LMN cohort .
+At arsenic exposure levels exceeding 750 \u03bcg/L , difference in OR estimates between class S allele carriers and non-carriers was borderline significant ( p = 0.051 ) .
+In contrast , no such results were found in the low-exposure Lanyang cohort .
+CONCLUSIONS This exploratory study suggests that at a relatively high level of arsenic exposure , carriers of the short ( GT)n allele ( < 27 repeats ) in the HO-1 gene promoter had a lower probability of developing carotid atherosclerosis than non-carriers of the allele after long-term arsenic exposure via ground water .
+The short ( GT)n repeat in the HO-1 gene promoter may provide protective effects against carotid atherosclerosis in individuals with a high level of arsenic exposure .

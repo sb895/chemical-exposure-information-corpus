@@ -1,0 +1,11 @@
+Indoor air pollution is associated with cardiovascular effects , however , little is known about the effects of improving indoor air quality on cardiovascular health .
+The aim of this study was to explore whether improving indoor air quality through air conditioning can improve cardiovascular health in human subjects .
+We recruited a panel of 300 healthy subjects from Taipei , aged 20 and over , to participate in six home visits each , to measure a variety of cardiovascular endpoints , including high sensitivity-C-reactive protein ( hs-CRP ) , 8-hydroxy-2'-deoxyguanosine ( 8-OHdG ) , fibrinogen in plasma and heart rate variability ( HRV ) .
+Indoor particles and total volatile organic compounds ( VOCs ) were measured simultaneously at the participant's home during each visit .
+Three exposure conditions were investigated in this study : participants were requested to keep their windows open during the first two visits , close their windows during the next two visits , and close the windows and turn on their air conditioners during the last two visits .
+We used linear mixed-effects models to associate the cardiovascular endpoints with individual indoor air pollutants .
+The results showed that increases in hs-CRP , 8-OHdG and fibrinogen , and decreases in HRV indices were associated with increased levels of indoor particles and total VOCs in single-pollutant and two-pollutant models .
+The effects of indoor particles and total VOCs on cardiovascular endpoints were greatest during visits with the windows open .
+During visits with the air conditioners turned on , no significant changes in cardiovascular endpoints were observed .
+In conclusion , indoor air pollution is associated with inflammation , oxidative stress , blood coagulation and autonomic dysfunction .
+Reductions in indoor air pollution and subsequent improvements in cardiovascular health can be achieved by closing windows and turning on air conditioners at home .

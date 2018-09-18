@@ -1,0 +1,12 @@
+Epidemiologic studies of the association between residential pesticide use and cancer risk require an assessment of past pesticide exposures .
+Pesticide levels in carpet dust are believed to reflect long-term pesticide use .
+Recent epidemiologic studies have found collection of dust samples using the high-volume surface sampler ( HVS3 ) to be expensive and cumbersome .
+We compared the levels of pesticides and other compounds in dust obtained from subjects ' personal used vacuum cleaner bags to that collected by the HVS3 to see if this simpler method could replace the HVS3 in epidemiologic research .
+We visited the homes of 15 subjects , took the used bags from their vacuums , and collected carpet dust samples with the HVS3 .
+The samples were analyzed for 42 target compounds : 26 pesticides , 10 polycyclic aromatic hydrocarbons ( PAHs ) , and six polychlorinated biphenyl ( PCB ) congeners using GC/MS in selected ion monitoring mode .
+The two methods agreed in detecting the presence of the target compounds between 80% and 100% of the time .
+Neither sampling method was consistently more sensitive .
+The median target compound concentrations were similar , and a paired t-test showed no significant differences .
+For many compounds , the concentrations of compounds in the HVS3 samples were higher than those in the used bag samples at the upper end of the concentration ranges .
+However , the Spearman rank correlation coefficients were 0.85 or higher for most compounds , indicating that homes would be ranked similarly using both methods .
+Overall , there appears to be no clear difference in the quality of the pesticide , PAH , or PCB concentration data for the two dust collection methods .

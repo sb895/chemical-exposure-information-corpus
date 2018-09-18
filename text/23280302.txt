@@ -1,0 +1,14 @@
+There are few studies on associations between airborne microbial exposure , formaldehyde , plasticizers in dwellings and the symptoms compatible with the sick building syndrome ( SBS ) .
+As a follow-up of the European Community Respiratory Health Survey ( ECRHS II ) , indoor measurements were performed in homes in three North European cities .
+The aim was to examine whether volatile organic compounds of possible microbial origin ( MVOCs ) , and airborne levels of bacteria , molds , formaldehyde , and two plasticizers in dwellings were associated with the prevalence of SBS , and to study associations between MVOCs and reports on dampness and mold .
+The study included homes from three centers included in ECRHS II .
+A total of 159 adults ( 57% females ) participated ( 19% from Reykjavik , 40% from Uppsala , and 41% from Tartu ) .
+A random sample and additional homes with a history of dampness were included .
+Exposure measurements were performed in the 159 homes of the participants .
+MVOCs were analyzed by GCMS with selective ion monitoring ( SIM ) .
+Symptoms were reported in a standardized questionnaire .
+Associations were analyzed by multiple logistic regression .
+In total 30.8% reported any SBS ( 20% mucosal , 10% general , and 8% dermal symptoms ) and 41% of the homes had a history of dampness and molds There were positive associations between any SBS and levels of 2-pentanol ( P=0.002 ) , 2-hexanone ( P=0.0002 ) , 2-pentylfuran ( P=0.009 ) , 1-octen-3-ol ( P=0.002 ) , formaldehyde ( P=0.05 ) , and 2,2,4-trimethyl-1,3-pentanediol monoisobutyrate ( Texanol ) ( P=0.05). 1-octen-3-ol ( P=0.009 ) and 3-methylfuran ( P=0.002 ) were associated with mucosal symptoms .
+In dwellings with dampness and molds , the levels of total bacteria ( P=0.02 ) , total mold ( P=0.04 ) , viable mold ( P=0.02 ) , 3-methylfuran ( P=0.008 ) and ethyl-isobutyrate ( P=0.02 ) were higher .
+In conclusion , some MVOCs like 1-octen-3-ol , formaldehyde and the plasticizer Texanol , may be a risk factor for sick building syndrome .
+Moreover , concentrations of airborne molds , bacteria and some other MVOCs were slightly higher in homes with reported dampness and mold .

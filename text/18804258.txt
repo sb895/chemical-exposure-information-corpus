@@ -1,0 +1,13 @@
+1-hydroxypyrene ( 1-OHP ) is a biomarker of exposure to polycyclic aromatic hydrocarbons ( PAHs ) .
+PAHs are pollutants produced by the combustion of organic material , and could be found both indoors and outdoors .
+Prenatal exposure to these compounds has been associated with retarded intrauterine growth and respiratory problems in children .
+The objective of this study is to describe the 1-OHP levels in urine in pregnant women in the INMA cohort in Valencia , and to study the association with socio-demographic and lifestyle variables , as well as with indicators of air pollution .
+The study population is a sub-sample ( n : 204 ) of a cohort of pregnant women in the multicentre INMA project in Valencia ( Spain ) .
+Urine samples were taken in week 12 of gestation , and 1-OHP was analyzed , and adjusted for creatinine .
+Socio-demographic and lifestyle information was collected using a questionnaire .
+Data from the monitoring stations in Valencia were used to assign levels of exposure to nitrogen dioxide ( NO2 ) , sulphur dioxide ( SO2 ) , total suspended particulates ( TSP ) and carbon monoxide ( CO ) .
+The median 1-OHP level was 0.061 muicrool/mol of creatinine .
+Women who smoked had higher 1-OHP levels ( 0.095 micromol/mol of creatinine ) than non-smokers ( 0.050 micromol/mol of creatinine ) .
+The variables predicting 1-OHP levels on linear multivariate analysis were : tobacco consumption , consumption of fried and smoked foods .
+There was also a significant association with NO2 levels 4 and 5 days before the samples were taken .
+The 1-OHP levels found in pregnant women in Valencia were higher than those found among women in reports in USA. 1-hydroxypyrene could be a good marker of exposure to PAHs from tobacco and diet , and also a useful marker of short term exposure to air pollution .

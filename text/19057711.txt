@@ -1,0 +1,10 @@
+BACKGROUND Persistent organic pollutants ( POPs ) , which are endocrine disruptors that accumulate in adipose tissue , can increase the risk of periodontal disease through the disturbance of the immune system .
+OBJECTIVE We examined associations of background exposure to POPs with periodontal disease in the general population .
+DESIGN Cross-sectional associations of concentrations of serum POPs with the prevalence of periodontal disease were investigated in 1,234 adults > or = 20 years of age in the National Health and Nutrition Examination Survey 1999-2002 .
+RESULTS Among several POPs , organochlorine ( OC ) pesticides were most strongly associated with periodontal disease .
+Adjusted odds ratios across quintiles of OC pesticides were 1.0 , 1.3 , 1.7 , 2.4 , and 2.7 ( p for trend < 0.01 ) for the presence in any site of clinical attachment loss > or = 4 mm and 1.0 , 1.7 , 2.6 , 3.4 , and 3.7 ( p for trend < 0.01 ) for the presence of pocket depth > or = 4 mm .
+Polychlorinated biphenyls and polychlorinated dibenzo-p-dioxins also showed significant positive associations with one or both definitions of periodontal disease .
+Results did not materially change when continuous variables of clinical attachment loss or pocket depth were used as outcomes .
+Although participants with periodontal disease had higher white blood cell and neutrophil counts , neutrophil counts were inversely related to OC pesticides ( p for trend < 0.01 ) .
+These inverse associations did not change after excluding subjects with C-reactive protein >/= 3 mg/L .
+CONCLUSION POPs , especially OC pesticides , were positively associated with periodontal disease , possibly through immunomodulation due to OC pesticides .

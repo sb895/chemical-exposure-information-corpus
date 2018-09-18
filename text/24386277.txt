@@ -1,0 +1,11 @@
+Exposure to ambient fine particulate matter ( PM2.5 ) increases risks for cardiovascular disorders ( CVD ) .
+However , the mechanisms and components responsible for the effects are poorly understood .
+Based on our previous murine exposure studies , a translational pilot study was conducted in female residents of Jinchang and Zhangye , China , to test the hypothesis that specific chemical component of PM2.5 is responsible for PM2.5 associated CVD .
+Daily ambient and personal exposures to PM2.5 and 35 elements were measured in the two cities .
+A total of 60 healthy nonsmoking adult women residents were recruited for measurements of inflammation biomarkers .
+In addition , circulating endothelial progenitor cells ( CEPCs ) were also measured in 20 subjects .
+The ambient levels of PM2.5 were comparable between Jinchang and Zhangye ( 47.4 and 54.5 µg/m(3) , respectively ) .
+However , the levels of nickel , copper , arsenic , and selenium in Jinchang were 82 , 26 , 12 , and 6 fold higher than Zhangye , respectively .
+The levels of C-reactive protein ( 3.44 ± 3.46 vs. 1.55 ± 1.13 ) , interleukin-6 ( 1.65 ± 1.17 vs. 1.09 ± 0.60 ) , and vascular endothelial growth factor ( 117.6 ± 217.0 vs. 22.7 ± 21.3 ) were significantly higher in Jinchang .
+Furthermore , all phenotypes of CEPCs were significantly lower in subjects recruited from Jinchang than those from Zhangye .
+These results suggest that specific metals may be important components responsible for PM2.5-induced cardiovascular effects and that the reduced capacity of endothelial repair may play a critical role .

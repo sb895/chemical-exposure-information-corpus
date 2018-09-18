@@ -1,0 +1,8 @@
+Blood plasma samples ( n = 43 ) collected retrospectively from New York State employees and National Guard personnel who had been assigned to work in the vicinity of the World Trade Center ( WTC ) during the week after the collapse of the buildings were analyzed for polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , polychlorinated biphenyls ( PCBs ) , and polychlorinated naphthalenes ( PCNs ) .
+On the basis of algorithms developed to rank individual exposures to dust and debris and to smoke , we categorized the samples as : more smoke exposure ( MSE ) , more dust exposure ( MDE ) , less smoke exposure ( LSE ) , and less dust exposure ( LDE ) .
+Mean concentrations of PCDDs were 1070 , 223 , 3690 , and 732 pg/g lipid wt , and mean concentrations of PCDFs were 910 , 1520 , 230 , and 117 pg/g lipid wt , for the MSE , MDE , LSE , and LDE groups , respectively .
+The concentrations of PCDFs were higher in the two " more exposure " groups than in the two " less exposure " groups .
+Calculated TEQ concentrations of coplanar PCBs and PCDD/Fs in plasma samples were , on average , 1.12 and 41.2 pg WHO-TEQ/g lipid wt , respectively .
+TEQ concentrations of PCDFs were higher than those of PCDDs in both " more exposure " groups but lower than those of PCDDs in " less exposure " groups .
+This result is suggestive of exposure of the WTC responders to PCDFs after the WTC collapse .
+PCDFs contributed the majority of TEQs and are therefore the critical dioxin-like compounds in MSE/MDE groups , whereas PCDDs are the critical compounds in the LSE/LDE groups .

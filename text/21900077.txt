@@ -1,0 +1,12 @@
+BACKGROUND Data concerning the effects of prenatal exposures to phthalates and phenols on fetal growth are limited in humans .
+Previous findings suggest possible effects of some phenols on male birth weight .
+OBJECTIVE Our aim was to assess the relationships between prenatal exposures to phthalates and phenols and fetal growth among male newborns .
+METHODS We conducted a case-control study on male malformations of the genitalia nested in two French mother-child cohorts with recruitment between 2002 and 2006 .
+We measured , in maternal urinary samples collected between 6 and 30 gestational weeks , the concentrations ( micrograms per liter ) of 9 phenol ( n = 191 pregnant women ) and 11 phthalate metabolites ( n = 287 ) .
+Weight , length , and head circumference at birth were collected from maternity records .
+Statistical analyses were corrected for the oversampling of malformation cases .
+RESULTS Adjusted birth weight decreased by 77 g [ 95% confidence interval ( CI ) : -129 , -25 ] and by 49 g ( 95% CI : -86 , -13 ) in association with a 1-unit increase in ln-transformed 2,4-dichlorophenol ( DCP ) and 2,5-DCP urinary concentrations , respectively .
+Benzophenone-3 ( BP3 ) ln-transformed concentrations were positively associated with weight ( 26 g ; 95% CI : -2 , 54 ) and head circumference at birth ( 0.1 cm ; 95% CI : 0.0 , 0.2 ) .
+Head circumference increased by 0.3 cm ( 95% CI : 0.0 , 0.7 ) in association with a 1-unit increase in ln-transformed BPA concentration .
+For phthalate metabolites there was no evidence of monotonic associations with birth weight .
+CONCLUSIONS Consistent with findings of a previous study , we observed evidence of an inverse association of 2,5-DCP and a positive association of BP3 with male birth weight .

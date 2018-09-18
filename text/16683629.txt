@@ -1,0 +1,7 @@
+This study evaluated the estrogenicity of polychlorinated biphenyls ( PCBs ) present in environmental media and human tissue and assessed exposure pathways for PCB-derived estrogenic potency in air , soil , and dust from New Bedford , MA , an area with a PCB-contaminated Superfund site .
+Thirty-four PCB congeners were assayed for estrogenic potency using E-SCREEN , an assay based on the estrogen-dependent proliferation of MCF-7 cells in vitro .
+Childhood exposure to estradiol-equivalents via PCBs in environmental media was estimated byweighting previously reported New Bedford congener-specific concentrations by their relative estrogenic potency and published inhalation and soil ingestion rates .
+Thirteen congeners were weakly estrogenic in E-SCREEN : PCBs 17 , 18 , 30 , 44 , 49 , 66 , 74 , 82 , 99 , 103 , 110 , 128 , and 179 .
+These PCBs were typically 6 orders of magnitude less potent than 17beta-estradiol , with proliferative potencies ranging from 0.0007% to 0.0040% .
+Of the environmental media assessed , air ( inhalation ) had the highest PCB-derived estradiol-equivalent exposure .
+PCB estrogenic potency information from this study provides an important resource both for preliminary estimation of routes of human exposure to xenoestrogens and for application to human health studies focused on estrogen-responsive health outcomes , such as reproductive development and related malignancies .

@@ -1,0 +1,14 @@
+BACKGROUND Widespread residential pesticide use throughout the United States has resulted in ubiquitous , low-level pesticide exposure .
+The mix of active pesticide ingredients is changing in response to 2000-2001 regulations restricting use of the organophosphorus insecticides chlorpyrifos and diazinon .
+OBJECTIVES We aimed to determine the impact of U.S. Environmental Protection Agency regulations on pest infestation levels , pesticide use , and pesticides measured in indoor air samples .
+METHODOLOGY 511 pregnant women from inner-city New York were enrolled between 2000 and 2006 .
+Permethrin , a pyrethroid insecticide ; piperonyl butoxide ( PBO ) , a pyrethroid synergist ; chlorpyrifos ; and diazinon were measured in 48-hr prenatal personal air samples .
+Data on pest infestation and pesticide use were collected via questionnaire .
+RESULTS Eighty-eight percent of women reported using pesticides during pregnancy ; 55% reported using higher-exposure pesticide applications ( spray cans , pest bombs and/or professional pesticide applicators ) .
+Self-reported pest sightings and use of higher-exposure applications increased significantly after the regulations were implemented ( p < 0.001 ) .
+PBO , cis- , and trans-permethrin were detected in 75 , 19 , and 18% of personal air samples , respectively .
+Detection frequencies of PBO and cis- and trans-permethrin increased significantly over time ( p < 0.05 controlling for potential confounders ) .
+Levels and/or detection frequencies of these compounds were significantly higher among mothers reporting use of high exposure pesticide applications ( p < or = 0.05 ) .
+Chlorpyrifos and diazinon levels decreased significantly over time ( p < 0.001 ) .
+CONCLUSION In this cohort , pest infestations , use of pesticides , and use of permethrin appear to increase after the residential restriction of organophosphorus insecticides .
+This is one of the first studies to document widespread residential exposure to PBO .

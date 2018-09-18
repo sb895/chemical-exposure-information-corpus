@@ -1,0 +1,10 @@
+We assessed exposure of applicators , health risk of DDT to the applicators and evaluated the applicability of existing pesticide exposure models for indoor residual spraying ( IRS ) .
+Patch sampling for dermal and personal air sampler for inhalation exposure were used in monitoring 57 applicators on the exposure assessment to DDT .
+The exposure of the applicators was also estimated using three exposure models .
+The mean actual dermal exposure was 449 mg total DDT per applicator per one house treatment .
+The applicators were exposed to DDT much beyond the estimated AOEL ( acceptable operator exposure level ) of DDT .
+The exposure estimated with ConsExpo 5.0 b01 model is situated between the median and the 75th percentile of the experimental data .
+On the other hand , spraying model 1 and spraying model 10 overestimate the exposure .
+Thus , these three models cannot be directly used for the particular circumstances of IRS as a tool for risk assessment .
+In general , use of DDT in IRS as a control method for malaria mosquitoes holds a high health risk for the applicators .
+Strict implementation of spraying procedures stated in the IRS manual of World Health Organization ( WHO ) is necessary to reduce the exposure level and health risk of applicators to DDT .

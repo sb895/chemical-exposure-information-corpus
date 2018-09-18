@@ -1,0 +1,9 @@
+BACKGROUND Few studies have yet addressed the effects of di(2-ethylhexyl) phthalate ( DEHP ) in house dust on human nasal mucosa .
+OBJECTIVES We investigated the effects of house dust containing DEHP on nasal mucosa of healthy and house dust mite ( HDM)-allergic subjects in a short-term exposure setting .
+METHODS We challenged 16 healthy and 16 HDM-allergic subjects for 3 hr with house dust at a concentration of 300 microg/m(3) containing either low ( 0.41 mg/g ) or high ( 2.09 mg/g ) levels of DEHP .
+Exposure to filtered air served as control .
+After exposure , we measured proteins and performed a DNA microarray analysis .
+RESULTS Nasal exposure to house dust with low or high DEHP had no effect on symptom scores .
+Healthy subjects had almost no response to inhaled dust , but HDM-allergic subjects showed varied responses : DEHP(low) house dust increased eosinophil cationic protein , granulocyte-colony-stimulating factor ( G-CSF ) , interleukin ( IL)-5 , and IL-6 , whereas DEHP(high) house dust decreased G-CSF and IL-6 .
+Furthermore , in healthy subjects , DEHP concentration resulted in 10 differentially expressed genes , whereas 16 genes were differentially expressed in HDM-allergic subjects , among them anti-Müllerian hormone , which was significantly up-regulated after exposure to DEHP(high) house dust compared with exposure to DEHP(low) house dust , and fibroblast growth factor 9 , IL-6 , and transforming growth factor-beta1 , which were down-regulated .
+CONCLUSIONS Short-term exposure to house dust with high concentrations of DEHP has attenuating effects on human nasal immune response in HDM-allergic subjects , concerning both gene expression and cytokines .

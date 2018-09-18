@@ -1,0 +1,8 @@
+BACKGROUND Pesticides used in agriculture can be taken into worker homes and pose a potential risk for children and other family members .
+This study focused on identification of potential intervention points at the workplace .
+METHODS Workers ( N = 46 ) recruited from two tree fruit orchards in Washington State were administered a 63-item pesticide safety questionnaire .
+Dust was collected from commuter vehicles and worker homes and analyzed for four organophosphorus ( OP ) pesticides ( azinphosmethyl , phosmet , chlorpyrifos , malathion ) .
+RESULTS Geometric mean azinphosmethyl concentrations in dust for three worker groups ( 16 pesticide handlers , 15 green fruit thinners , 15 organic orchard workers ) ranged from 0.027-1.5 \u03bcg/g , with levels in vehicle dust higher than in house dust , and levels in house dust from handlers ' homes higher than levels from tree fruit thinners ' homes .
+Vehicle and house dust concentrations of azinphosmethyl were highly associated ( R(2) = 0.44 , P < 0.001 ) .
+Significant differences were found across worker groups for availability of laundry facilities , work boot storage , frequency of hand washing , commuter vehicle use , parking location , and safety training .
+CONCLUSIONS These findings support a focus on intervention activities to reduce take home pesticide exposure closer to the source of contamination ; specifically , the workplace and vehicles used to travel to the workplace .

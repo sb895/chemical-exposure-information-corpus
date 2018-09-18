@@ -1,0 +1,6 @@
+The objective of most epidemiological studies is to classify/rank people according to their relative quantity of consumption .
+In the specific case of quantifying fish consumption , in order to assess mercury intake rate , the method used must estimate the individual quantity consumed accurately , or from the self-referred quantity it must be possible to estimate the real consumption-termed calibration .
+Therefore , the objective of this study was to validate and calibrate the 24-h recall method for assessing the amount of fish consumed to estimate the mercury intake in riverine populations from Baixada Cuiabana , in Pantanal Mato-grossense , Brazil .
+The weighed dietary method was used as the reference standard , and the validity of the 24-h recall method was assessed using correlation coefficients ( r ) , regression coefficients ( beta ) , and the intraclass correlation coefficient ( ICC ) .
+The results showed that the ICC , which assesses the agreement level between measures , was a more adequate measure than the correlation coefficient ( r ) .
+Therefore , the calibration equation was calculated applying a multiple linear regression model using the consumption mean of the second and third days , which presented the highest ICC , stratified by sex and adjusted by age and season variables .

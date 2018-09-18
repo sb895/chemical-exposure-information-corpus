@@ -1,0 +1,8 @@
+In this study , the reference level of cadmium in urine and blood related with bone damage was assessed using benchmark dose in a Chinese female population .
+Total of 338 women was recruited , and urine and blood samples were collected from each individual for determination of cadmium in urine ( UCd ) and blood ( BCd ) .
+Bone mineral density was measured by dual energy X-ray absorptiometry .
+BMD and BMDL were calculated corresponding to additional risk of 5% and 10% .
+With benchmark response ( BMR ) of 5%/10% , the BMD of BCd , UCd related with osteoporosis was 1.88\u03bcg/L/3.23\u03bcg/L and 5.30\u03bcg/g crea/9.06\u03bcg/g crea , and the BMDL-05 was 1.39\u03bcg/L/2.38\u03bcg/L and 3.78\u03bcg/g crea/6.36\u03bcg/g crea ; the BMD of BCd , UCd related with low bone mass was 0.95\u03bcg/L/3.12\u03bcg/L and 3.12\u03bcg/g crea/5.87\u03bcg/g crea , and the BMDL-05 was 0.72\u03bcg/L/1.35\u03bcg/L and 2.14\u03bcg/g crea/3.99\u03bcg/g crea .
+The BMD of UCd in people over 60years old was much lower than that of people less than 60years old .
+BMD value was related with ages and effects biomarkers .
+Our data showed that BMD of UCd associated with osteoporosis was lower than that previously estimated .

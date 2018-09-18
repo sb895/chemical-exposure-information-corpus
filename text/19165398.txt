@@ -1,0 +1,12 @@
+OBJECTIVE We investigated the association between body mass index ( BMI ) standard deviation score ( SDS ) and prenatal exposure to hexachlorobenzene , dichlorodiphenyldichloroethylene ( DDE ) , dioxin-like compounds , and polychlorinated biphenyls ( PCBs ) .
+METHODS In this prospective birth cohort study , we assessed a random sample of mother-infant pairs ( n = 138 ) living in Flanders , Belgium , with follow-up until the children were 3 years of age .
+We measured body mass index as standard deviation scores ( BMI SDS ) of children 1-3 years of age as well as pollutants measured in cord blood .
+RESULTS DDE correlated with BMI SDS , with effect modification by maternal smoking and the child's age .
+At 1 year , children of smoking mothers had higher BMI SDS than did children of nonsmoking mothers .
+At 3 years , this difference was reduced because of the faster rate of decline in BMI SDS in the former group .
+This relationship held except for children with high levels of DDE .
+DDE had a small effect on BMI SDS at 3 years of age in children of nonsmoking mothers ( difference in BMI SDS for DDE concentrations between the 90th and 10th percentiles = 0.13 ) .
+On the other hand , smoking enhanced the relation between DDE and BMI SDS at 3 years ( difference in BMI SDS for DDE concentrations between the 90th and 10th percentiles = 0.76 ) .
+Increasing concentrations of PCBs were associated with higher BMI SDS values at all ages ( parameter estimate = 0.003 +/- 0.001 ; p = 0.03 ) .
+CONCLUSION In this study we demonstrated that intrauterine exposure to DDE and PCBs is associated with BMI during early childhood .
+Future studies are warranted to confirm our findings and to assess possible mechanisms by which these pollutants could alter energy metabolism .

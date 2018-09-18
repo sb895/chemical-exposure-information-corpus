@@ -1,0 +1,12 @@
+BACKGROUND Hypospadias is one of the most common urogenital congenital anomalies affecting baby boys .
+Prevalence estimates in Europe range from 4 to 24 per 10,000 births , depending on definition , with higher rates reported from the United States .
+Relatively little is known about potential risk factors , but a role for endocrine-disrupting chemicals ( EDCs ) has been proposed .
+OBJECTIVE Our goal was to elucidate the risk of hypospadias associated with occupational exposure of the mother to endocrine-disruptor chemicals , use of folate supplementation during pregnancy , and vegetarianism .
+DESIGN We designed a case-control study of 471 hypospadias cases referred to surgeons and 490 randomly selected birth controls , born 1 January 1997-30 September 1998 in southeast England .
+Telephone interviews of mothers elicited information on folate supplementation during pregnancy and vegetarianism .
+We used a job exposure matrix to classify occupational exposure .
+RESULTS In multiple logistic regression analysis , there were increased risks for self-reported occupational exposure to hair spray [ exposed vs. nonexposed , odds ratio ( OR ) = 2.39 ; 95% confidence interval ( CI ) , 1.40-4.17 ] and phthalate exposure obtained by a job exposure matrix ( OR = 3.12 ; 95% CI , 1.04-11.46 ) .
+There was a significantly reduced risk of hypospadias associated with of folate use during the first 3 months of pregnancy ( OR = 0.64 ; 95% CI , 0.44-0.93 ) .
+Vegetarianism was not associated with hypospadias risk .
+CONCLUSIONS Excess risks of hypospadias associated with occupational exposures to phthalates and hair spray suggest that antiandrogenic EDCs may play a role in hypospadias .
+Folate supplementation in early pregnancy may be protective .

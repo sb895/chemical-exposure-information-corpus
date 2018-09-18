@@ -1,0 +1,8 @@
+The objective of this article was to propose an exposure assessment model to describe the relationship between fish consumption and body methyl mercury ( MeHg ) levels in the Japanese population .
+Individual MeHg intake was estimated by the summation of species-specific fish consumption multiplied by species-specific fish MeHg levels .
+The distribution of fish consumed by individuals and the MeHg level in each fish species were assigned based on published data from Japanese government institutions .
+The probability of MeHg intake for a population was accomplished through a Monte Carlo simulation by the random sampling of fish consumption and species-specific MeHg levels .
+Internal body MeHg levels in blood and hair were estimated using a one-compartment model .
+Overall , the mean value of MeHg intake for the Japanese population was estimated to be 6.76 microg/day or 0.14 microg/kg body weight per day ( bw/day ) , while the mean value for the hair mercury level was 2.02 microg/g .
+Compared with the survey data that tabulated hair mercury levels in a cross-section of the Japanese population , the simulation results matched the hair mercury survey data very well for women , but somewhat underestimated for men and all of the population .
+This exposure assessment model is a useful attempt at further risk assessment with respect to a risk-benefit analysis .

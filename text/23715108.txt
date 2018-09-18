@@ -1,0 +1,7 @@
+OBJECTIVE To reconstruct agent-specific occupational exposures for a cohort of jet engine manufacturing workers for use in an epidemiological mortality study .
+METHODS Potential chemical and physical exposures at eight jet engine manufacturing and overhaul/repair plants were evaluated for the period 1952 to 2001 .
+Eleven agents were selected for detailed examination , and a job-exposure matrix was constructed .
+RESULTS Quantitative exposure estimates were generated for metalworking fluids , nickel , cobalt , chromium , solvents , and incomplete combustion aerosol from metalworking fluids .
+Qualitative exposure estimates were assigned for ionizing radiation , electromagnetic fields , polychlorinated biphenyls , and lead-cadmium .
+All exposures showed decreasing trends over the study period .
+CONCLUSIONS The quantitative exposure levels generated in this study were lower than early contemporaneous professional practice recommendations and were similar to or lower than published data from other industries .

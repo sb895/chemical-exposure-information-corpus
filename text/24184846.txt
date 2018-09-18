@@ -1,0 +1,10 @@
+BACKGROUND Water disinfection by-products have been associated with an increased cancer risk .
+Micronuclei ( MN ) frequency in lymphocytes is a marker of genomic damage and can predict adult cancer risk .
+OBJECTIVE We evaluated maternal exposure to drinking water brominated trihalomethanes ( BTHM ) in relation to MN frequency in maternal and cord blood lymphocytes .
+METHODS MN frequency was examined in 214 mothers and 223 newborns from the Rhea mother-child cohort in Crete , Greece , in 2007-2008 .
+Residential BTHM water concentrations were estimated during pregnancy using tap water analyses and modeling .
+Questionnaires on water related habits were used to estimate BTHM exposure from all routes .
+Associations between BTHM and MN frequency were estimated using negative binomial regression .
+RESULTS BTHM concentrations in residential tap water during pregnancy ranged from 0.06 to 7.1 \u03bcg/L .
+MN frequency in maternal binucleated lymphocytes was found to increase with BTHM concentrations in residential water for exposure during the first [ rate ratio ( RR ) for 1 \u03bcg/L=1.05 ; 95% CI : 1.00 , 1.11 ] and second trimesters ( RR for 1 \u03bcg/L=1.03 ; 95% CI : 1.00 , 1.06 ) , and through all routes of BTHM exposure during the first trimester ( RR for 1 \u03bcg/week=3.14 ; 95% CI : 1.16 , 8.50 ) .
+CONCLUSIONS These findings suggest that exposure to BTHM may increase the frequency of MN in maternal binucleated lymphocytes .

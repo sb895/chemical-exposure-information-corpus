@@ -1,0 +1,11 @@
+The association of a polychlorinated dibenzo-p-dioxin , a polychlorinated biphenyl , and p,p'-DDT with diabetes was evaluated using the 1999-2002 National Health and Nutrition Examination Survey .
+Persons 20 years old and older were included .
+Relationships with diagnosed diabetes , undiagnosed diabetes ( glycohemoglobin ( HbA1c ) >6.1% ) , and total diabetes ( diagnosed plus undiagnosed ) were tested .
+When all three chemicals were evaluated together for total diabetes , the unweighted number of participants was 1830 .
+All three compounds were significantly associated with diagnosed diabetes .
+PCB 126 and p,p'-DDT were significantly associated with undiagnosed diabetes. 1,2,3,6,7,8-hexachlorodibenzo-p-dioxin ( HxCDD ) was not associated with undiagnosed diabetes .
+When the three chemicals were included in a combined model for total diabetes , PCB 126>83.8pg/g lipid adjusted had an odds ratio of 2.57 ( 95% CI 1.33-4.95 ) compared to PCB 126 < or = 31.2pg/g lipid adjusted .
+Also significant in a combined model for total diabetes was p,p'-DDT 20.8-26.6ng/g lipid adjusted with an odds ratio of 2.52 ( 95% CI 1.26-5.02 ) and p,p'-DDT >26.6ng/g lipid adjusted with an odds ratio of 2.74 ( 95% CI 1.44-5.23 ) both compared to p,p'-DDT < or = 20.7ng/g lipid adjusted .
+HxCDD was not associated with total diabetes in a combined model .
+When participants with poor liver function and poor kidney function were removed from the analysis , the combined model for total diabetes produced similar results with PCB 126 and p,p'-DDT having been significantly associated , and HxCDD not having been associated .
+These findings add to the list of chemicals found to be associated with diabetes in the 1999-2002 National Health and Nutrition Examination Survey .

@@ -1,0 +1,12 @@
+BACKGROUND Toenail-Hg levels are being used as a marker of methylmercury ( MeHg ) exposure in efforts to associate exposure with effects such as cardiovascular disease .
+There is a need to correlate this marker with more established biomarkers that presently underlie existing dose-response relationships in order to compare these relationships across studies .
+METHODS As part of the Arsenic Mercury Intake Biometric Study , toenail clippings were collected at three time points over a period of one year amongst females from within the population of Japanese living near Puget Sound in Washington State ( US ) .
+Variability in temporal intra-individual toenail-Hg levels was examined and chronologically matched hair and toenail samples were compared to more accurately define the toxicokinetic variability of Hg levels observed between the two compartments .
+RESULTS Mean toenail-Hg values ( n=43 ) for the 1st , 2nd and 3rd visits were 0.60 , 0.60 and 0.56 ng/mg .
+Correlations were as follows : r=0.92 between 1st and 2nd clinic visits , r=0.75 between 1st and 3rd visits and r=0.87 between 2nd and 3rd visits .
+With few exceptions , toenail-Hg values from any visit were within 50-150% of the individual's mean toenail-Hg level .
+Nearly all participants had less than a two-fold change in toenail-Hg levels across the study period .
+A regression model of the relationship between toenail-Hg and hair-Hg ( n = 41 ) levels representing the same time period of exposure , gave a slope ( Hg ng/mg ) of 2.79 for hair relative to toenail ( r=0.954 ) .
+CONCLUSIONS A chronologically matched hair-Hg to toenail-Hg ratio has been identified within a population that consumes fish regularly and in quantity .
+Intra-individual variation in toenail-Hg levels was less than two-fold and may represent dietary-based fluctuations in body burden for individuals consuming various fish species with different contaminant levels .
+The chronologically matched ratio will be useful for relating MeHg exposure and dose-response derived from toenail-Hg measurements to those derived from hair-Hg measurements in other studies , and may be useful in future investigations as an indicator of stable MeHg body burden within a population .

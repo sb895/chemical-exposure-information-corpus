@@ -1,0 +1,11 @@
+In this nested case-control study we examined the relationship between non-Hodgkin's lymphoma ( NHL ) and organochlorine pesticide exposure .
+We used a data set originally collected between 1969 and 1983 in the U.S. Environmental Protection Agency National Human Adipose Tissue Survey .
+Adipose samples were randomly collected from cadavers and surgical patients , and levels of organochlorine pesticide residues were determined .
+From the original study population , 175 NHL cases were identified and matched to 481 controls ; 173 controls were selected from accident victims , and 308 from cases with a diagnosis of myocardial infarction .
+Cases and controls were mainly from cadavers ( > 96% ) and were matched on sex , age , region of residence within the United States , and race/ethnicity .
+Conditional logistic regression showed the organochlorine pesticide residue heptachlor epoxide to be significantly associated with NHL [ compared with the lowest quartile : third quartile odds ratio ( OR ) = 1.82 , 95% confidence interval ( CI ) , 1.01-3.28 ; fourth quartile OR = 3.41 , 95% CI , 1.89-6.16 ] .
+The highest quartile level of dieldrin was also associated with elevated NHL risk ( OR = 2.70 ; 95% CI , 1.58-4.61 ) , as were higher levels of oxychlordane , p,p'-DDE [ p,p'-1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene ] , and ss-benzene hexachloride ( ORs = 1.79 , 1.99 , and 2.47 , respectively ) .
+The p-values for trends for these associations were significant .
+In models containing pairs of pesticides , only heptachlor epoxide and dieldrin remained significantly associated with risk of NHL .
+Limitations of this study include collection of samples after diagnosis and a lack of information on variables affecting organochlorine levels such as diet , occupation , and body mass index .
+Given the persistence of pesticides in the environment , these findings are still relevant today .

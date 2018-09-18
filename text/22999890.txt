@@ -1,0 +1,11 @@
+Due to the increased awareness of the ubiquitous contamination of all environmental compartments and of human beings with perfluoroalkyl substances ( PFAS ) , voluntary withdrawals and shifts in products and manufacturing technologies , as well as in regulatory measures , have been made .
+To investigate whether these activities are reflected in the human exposure to PFASS , we examined human blood archived by the German Environmental Specimen Bank .
+Plasma samples ( n=258 , age range 20-29 years ) covering the observation period 1982-2010 were analyzed for eleven perfluoroalkylcarboxylates ( C4-C14 ) and five perfluoroalkylsulfonates ( C4-C10 ) by HPLC-MS-MS .
+We detected perfluorooctanesulfonate ( PFOS ) , perfluorooctanoate ( PFOA ) , and perfluorohexanesulfonate ( PFHxS ) most often of all PFASs .
+Following a sharp increase from 1982 to 1986 , median PFOS concentrations remained in the range of 20-24ng/mL until the end of the 1990s .
+Between 2001 and 2010 , PFOS concentrations decreased steadily to 4ng/mL in plasma .
+Except for a similar strong increase from 1982 to 1986 , we observed PFOA concentrations fluctuating between 4.8 and 6.3ng/mL in the following years .
+Since 2008 , ESB data suggest a decreasing trend of PFOA .
+PFHxS concentrations increased continuously between 1982 and 2001 from about 1-2ng/mL .
+After nearly unchanged concentrations until 2005 , a downward trend of PFHxS in plasma became apparent and in 2010 resulted in levels which were about 20% lower than those observed in the early 1980s .
+In the case of shorter and longer chained PFASs , quantification frequencies were between 0 and 60% and we found no indication of any temporal trends in human plasma concentrations .

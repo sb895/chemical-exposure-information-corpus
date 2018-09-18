@@ -1,0 +1,11 @@
+BACKGROUND The capability of benzophenone-3 ( BP-3 ) to absorb and dissipate ultraviolet radiation facilitates its use as a sunscreen agent .
+BP-3 has other uses in many consumer products ( e.g. , as fragrance and flavor enhancer , photoinitiator , ultraviolet curing agent , polymerization inhibitor ) .
+OBJECTIVES Our goal was to assess exposure to BP-3 in a representative sample of the U.S. general population > or = 6 years of age .
+METHODS Using automated solid-phase extraction coupled to high-performance liquid chromatography-tandem mass spectrometry , we analyzed 2,517 urine samples collected as part of the 2003--2004 National Health and Nutrition Examination Survey .
+RESULTS We detected BP-3 in 96.8% of the samples .
+The geometric mean and 95th percentile concentrations were 22.9 microg/L ( 22.2 microg/g creatinine ) and 1,040 microg/L ( 1,070 microg/g creatinine ) , respectively .
+Least-square geometric mean ( LSGM ) concentrations were significantly higher ( p < or = 0.04 ) for females than for males , regardless of age .
+LSGM concentrations were significantly higher for non-Hispanic whites than for non-Hispanic blacks ( p < or = 0.01 ) , regardless of age .
+Females were more likely than males [ adjusted odds ratio ( OR ) = 3.5 ; 95% confidence interval ( 95% CI ) , 1.9-6.5 ] , and non-Hispanic whites were more likely than non-Hispanic blacks ( adjusted OR = 6.8 ; 95% CI , 2.9-16.2 ) to have concentrations above the 95th percentile .
+CONCLUSIONS Exposure to BP-3 was prevalent in the general U.S. population during 2003--2004 .
+Differences by sex and race/ethnicity probably reflect differences in use of personal care products containing BP-3 .

@@ -1,0 +1,15 @@
+Twenty-five farm ( F ) households and 25 nonfarm ( NF ) households in Iowa were enrolled in a study investigating agricultural pesticide contamination inside homes .
+Air , surface wipe , and dust samples were collected .
+Samples from 39 homes ( 20 F and 19 NF ) were analyzed for atrazine , metolachlor , acetochlor , alachlor , and chlorpyrifos .
+Samples from 11 homes ( 5 F and 6 NF ) were analyzed for glyphosate and 2,4-Dichlorophenoxyac etic acid ( 2,4-D ) .
+Greater than 88% of the air and greater than 74% of the wipe samples were below the limit of detection ( LOD ) .
+Among the air and wipe samples , chlorpyrifos was detected most frequently in homes .
+In the dust samples , all the pesticides were detected in greater than 50% of the samples except acetochlor and alachlor , which were detected in less than 30% of the samples .
+Pesticides in dust samples were detected more often in farm homes except 2,4-D , which was detected in 100% of the farm and nonfarm home samples .
+The average concentration in dust was higher in farm homes versus nonfarm homes for each pesticide .
+Further analysis of the data was limited to those pesticides with at least 50% of the dust samples above the LOD .
+All farms that sprayed a pesticide had higher levels of that pesticide in dust than both farms that did not spray that pesticide and nonfarms ; however , only atrazine and metolachlor were significantly higher .
+The adjusted geometric mean pesticide concentration in dust for farms that sprayed a particular pesticide ranged from 94 to 1300 ng/g compared with 12 to 1000 ng/g for farms that did not spray a particular pesticide , and 2.4 to 320 ng/g for nonfarms .
+The distributions of the pesticides throughout the various rooms sampled suggest that the strictly agricultural herbicides atrazine and metolachlor are potentially being brought into the home on the farmer's shoes and clothing .
+These herbicides are not applied in or around the home but they appear to be getting into the home para-occupationally .
+For agricultural pesticides , take-home exposure may be an important source of home contamination .

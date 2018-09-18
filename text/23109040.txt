@@ -1,0 +1,13 @@
+BACKGROUND We evaluated the effectiveness of workplace changes to prevent indium lung disease , using 2002-2010 surveillance data collected by an indium-tin oxide production facility .
+METHODS We assessed pulmonary function using lower limits of normal .
+Blood indium concentration and personal air sampling data were used to estimate exposure .
+RESULTS Abnormalities were uncommon at hire .
+After hire , prevalence of spirometric restriction was 31% ( n = 14/45 ) , about fourfold higher than expected .
+Excessive decline in FEV1 was elevated at 29% ( n = 12/41 ) .
+Half ( n = 21/42 ) had blood indium \u22655 µg/l .
+More recent hires had fewer abnormalities .
+There was a suggestion that abnormalities were more common among workers with blood indium \u22655 µg/l , but otherwise an exposure-response relationship was not evident .
+Peak dust concentrations were obscured by time averaging .
+CONCLUSIONS Evolving lung function abnormalities consistent with subclinical indium lung disease appeared common and merit systematic investigation .
+Traditional measures of exposure and response were not illustrative , suggesting fresh approaches will be needed .
+Workplace changes seemed to have had a positive though incomplete impact ; novel preventive interventions are warranted .

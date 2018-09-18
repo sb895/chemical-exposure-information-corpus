@@ -1,0 +1,10 @@
+BACKGROUND Residential insecticide use is widespread in the United States , but few data are available on the persistence and variability in levels in the indoor environment .
+OBJECTIVE The study aim was to assess within- and between-home variability in indoor-air insecticides over the final 2 months of pregnancy among a cohort of African-American and Dominican women from New York City .
+METHODS Women not employed outside the home were enrolled between February 2001 and May 2004 ( n = 102 ) ; 9 insecticides and an adjuvant were measured in 48-hr personal air samples and 2-week integrated indoor air samples collected sequentially for 7.0 +/- 2.3 weeks ( n = 337 air samples ) .
+RESULTS Sixty-one percent of the women reported using pest control during the air samplings .
+Chlorpyrifos , diazinon , and propoxur were detected in 99-100% of personal and indoor samples ( range , 0.4-641 ng/m(3) ) .
+Piperonyl butoxide ( a pyrethroid adjuvant ) was detected in 45.5-68.5% ( 0.2-608 ng/m(3) ) .
+There was little within-home variability and no significant difference in air concentrations within homes over time ( p > or = 0.2 ) ; between-home variability accounted for 88% of the variance in the indoor air levels of propoxur , 92% in chlorpyrifos , 94% in diazinon , and 62% in piperonyl butoxide ( p < 0.001 ) .
+Indoor and maternal personal air insecticide levels were highly correlated ( r = 0.7-0.9 , p < 0.001 ) .
+Diazinon and chlorpyrifos levels declined 5-fold between 2001 and 2004 but were detected in all homes 1.5 and 2.5 years , respectively , after the U.S. Environmental Protection Agency ban on their residential use .
+CONCLUSION Results showed that the insecticides were persistent in the home with little variability in air concentrations over the 2 months and contributed to chronic maternal inhalation exposures during pregnancy .

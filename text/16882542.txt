@@ -1,0 +1,7 @@
+Arsenic in drinking water is an established cause of lung cancer , and preliminary evidence suggests that ingested arsenic may also cause nonmalignant lung disease .
+Antofagasta is the second largest city in Chile and had a distinct period of very high arsenic exposure that began in 1958 and lasted until 1971 , when an arsenic removal plant was installed .
+This unique exposure scenario provides a rare opportunity to investigate the long-term mortality impact of early-life arsenic exposure .
+In this study , we compared mortality rates in Antofagasta in the period 1989-2000 with those of the rest of Chile , focusing on subjects who were born during or just before the peak exposure period and who were 30-49 years of age at the time of death .
+For the birth cohort born just before the high-exposure period ( 1950-1957 ) and exposed in early childhood , the standardized mortality ratio ( SMR ) for lung cancer was 7.0 [ 95% confidence interval ( CI ) , 5.4-8.9 ; p<0.001 ] and the SMR for bronchiectasis was 12.4 ( 95% CI , 3.3-31.7 ; p<0.001 ) .
+For those born during the high-exposure period ( 1958-1970 ) with probable exposure in utero and early childhood , the corresponding SMRs were 6.1 ( 95% CI , 3.5-9.9 ; p<0.001 ) for lung cancer and 46.2 ( 95% CI , 21.1-87.7 ; p<0.001 ) for bronchiectasis .
+These findings suggest that exposure to arsenic in drinking water during early childhood or in utero has pronounced pulmonary effects , greatly increasing subsequent mortality in young adults from both malignant and nonmalignant lung disease .

@@ -1,0 +1,13 @@
+Human adipose tissue samples ( n=52 ) collected in New York City during 2003-2004 were analyzed for the presence of polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) .
+Concentrations of PBDEs in adipose tissues ranged from 17 to 9630 ng/g , lipid wt ( median : 77 ; mean : 399 ng/g , lipid wt ; sum all di- through hexaBDE congeners ) .
+Average PBDE concentrations in human adipose tissues from New York City were 10- to 100-times greater than those reported for European countries .
+A concentration of 9630 ng/g , lipid wt , found in a sample of adipose tissue , is one of the highest concentrations reported to date .
+PBDE 47 ( 2,2',4,4'-tetraBDE ) was the major congener detected in human tissues , followed by PBDE congeners #99 ( 2,2',4,4',5-penta BDE ) , 100 ( 2,2',4,4',6-pentaBDE ) , and 153 ( 2,2',4,4',5,5'-hexaBDE ) .
+A few individuals contained PBDE 153 as the predominant congener in total PBDE concentrations , suggesting alternative exposure sources , possibly occupational .
+Principal component analysis of PBDE congener composition in human adipose tissues revealed the presence of five clusters , each characterized by varying composition .
+No significant difference was found in the concentrations of PBDEs between gender .
+Concentrations of PBDEs were , on average , similar to those for PCBs in human adipose tissues , and substantially higher when PBDE outliers were retained .
+PBDE and PCB concentrations were not correlated .
+PBDE concentrations did not increase with increasing age of the subjects , whereas concentrations of PCBs increased with increasing age in males but not in females in this study .
+These results suggest differences between PBDEs and PCBs in their sources or time course of exposure and disposition .
+The presence of comparable or greater concentrations of PBDEs , relative to PCBs , highlights the importance of recentvoluntary and regulatory effortsto cease production of commercial penta- and octa-BDE in North America , although these efforts do not address continuing emissions from existing sources , such as polyurethane foams .

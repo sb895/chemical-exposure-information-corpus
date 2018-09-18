@@ -1,0 +1,8 @@
+Average concentrations of polybrominated diphenyl ethers ( PBDEs ) in dust in 30 homes , 18 offices , and 20 cars were 260,000 , 31,000 , and 340,000 ng SigmaPBDEs g(-1) respectively .
+Concentrations of BDEs 47 , 99 , 100 , and 154 in cars exceeded significantly ( p<0.05 ) those in homes and offices .
+Average concentrations of 1,2-bis(2,4,6-tribromophenoxy)ethane ( TBE ) and decabromodiphenyl ethane ( DBDPE ) in homes , offices , and cars respectively were lower at 120 , 7.2 , and 7.7 ng g(-1) ( TBE ) and 270 , 170 , and 400 ng g(-1) ( DBDPE ) .
+BDE-209 concentrations in three samples are the highest to date at 2,600,000 ( car ) , 2,200,000 ( home ) , and 1,400,000 ng g(-1) ( home ) .
+UK toddlers daily consuming 200 mg dust contaminated at the 95th percentile concentration , ingest 180 ng ( Sigma)tri-hexa-BDEs and 310 microg BDE-209 day(-1) .
+For TBE , exposure was lower than for PBDEs and hexabromocyclododecanes ( HBCDs ) , while that for DBDPE was similar in magnitude to ( Sigma)tri-hexa-BDEs , but less than for BDE-209 and HBCDs .
+BDE-209 concentrations recorded in ten samples taken at monthly intervals in one room varied 400-fold , implying caution when using single measurements of dust contamination for exposure assessment .
+Significant negative correlation was observed in one room between concentrations of BDE-47 , 99 , and 153 and dust loading ( g dust m(-2) floor ) , suggesting " dilution " occurs at higher dust loadings .

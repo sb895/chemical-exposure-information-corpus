@@ -1,0 +1,9 @@
+With the exception of polycarbonate ( PC ) baby bottles , little attention has been paid to bisphenol A ( BPA ) intake from packaged water consumption ( PC water dispensers ) , especially during summer weather conditions .
+We determined the magnitude and variability of urinary BPA concentrations during summer in 35 healthy individuals largely relying upon PC packaged water to satisfy their potable needs .
+We used liquid chromatography-tandem mass spectrometry to measure urinary BPA concentrations .
+A questionnaire was administered in July/August and a spot urine sample was collected on the same day and 7 days after the completion of the interview ( without intervention ) .
+Linear regression was performed to assess the association of variables , such as water consumption from different sources , on urinary BPA levels for the average of the two urine samples .
+A significant positive association ( p = 0.017 ) was observed between PC water consumption and urinary BPA levels in females , even after adjusting for covariates in a multivariate regression model .
+The geometric mean of daily BPA intake back-calculated from urinary BPA data was 118 ng · ( kg bw)(-1 ) · day(-1) , nearly double the average intake levels observed in biomonitoring studies worldwide .
+High urinary BPA levels were partially ascribed to summer's high PC water consumption and weather characteristics ( high temperatures , >40 °C ; very high UV index values , >8 ) , which could be causing BPA leaching from PC .
+It is suggested that PC-based water consumption could serve as a proxy for urinary BPA , although the magnitude of its relative contribution to overall daily intake requires further investigation .

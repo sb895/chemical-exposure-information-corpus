@@ -1,0 +1,9 @@
+BACKGROUND Marine food provides essential fatty acids that are important during pregnancy , but the benefits may be limited at high intakes and by seafood contaminants .
+METHODS In the fishing community of the Faroe Islands , 182 pregnant women with spontaneous singleton births were consecutively recruited for a cohort in 1994- 1995 .
+Concentrations of fatty acids and seafood contaminants in blood samples were analysed as predictors of gestational length and birthweight .
+RESULTS Serum concentrations of eicosapentaenoic acid ( EPA ) increased with maternal marine food intake , while the tendency was less clear for docosahexaenoic acid ( DHA ) .
+An increase in the relative concentration of DHA in cord serum phospholipids by 1% was associated with an increased duration of gestation by 1.5 days ( 95% CI : 0.7-2.2 ) .
+However , birthweight adjusted for gestational length decreased by 246 g ( 95% CI : 16-476 ) for each increase by 1% of the EPA concentration in cord serum .
+Concentrations of the seafood pollutants mercury and polychlorinated biphenyls ( PCB ) were associated with fatty acids levels , but the contaminants did not appear to affect any of the outcome parameters .
+CONCLUSION An increased intake of marine fats appears to prolong the duration of gestation , but birthweight adjusted for gestational age may decrease at high intake levels .
+This effect does not seem to be due to increased exposures to seafood contaminants .

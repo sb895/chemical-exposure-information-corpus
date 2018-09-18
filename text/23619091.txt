@@ -1,0 +1,7 @@
+BACKGROUND AND OBJECTIVES Data on human exposure to chemicals in Africa are scarce .
+A biomonitoring study was conducted in a representative sample of the population in Kinshasa ( Democratic Republic of Congo ) to document exposure to benzene .
+METHODS S-phenylmercapturic acid ( S-PMA ) was measured by LC-MS/MS in spot urine samples from 220 individuals ( 50.5% women ) , aged 6-70 years living in the urban area and from 50 additional subjects from the sub-rural area of Kinshasa .
+Data were compiled as arithmetic means , geometric means , percentile 95th and range expressed in \u03bcg/L .
+RESULTS Overall , living in urban Kinshasa was associated with increased levels of S-PMA in urine as compared to a population living in the sub-rural area .
+Increased levels were also found by comparison with some date from literature .
+CONCLUSIONS This study reveals the high benzene exposure of the Kinshasa population requiring the determination of benzene concentrations in ambient air of Kinshasa and limit values for the protection of human health .

@@ -1,0 +1,10 @@
+Traffic-related air pollutants have been associated with adverse health effects .
+We hypothesized that exposure to polycyclic aromatic hydrocarbons ( PAHs ) , elemental carbon ( EC , diesel indicator ) , particulate matter ( PM2.5 ) , and a suite of metals declined from 1998 to 2006 in NYC due to policy interventions .
+PAH levels from personal monitoring of pregnant mothers participating in the Columbia's Center for Children's Environmental Health birth cohort study , and EC , PM2.5 , and metal data from five New York State Department of Environmental Conservation stationary monitors were compared across sites and over time ( 1998-2006 ) .
+Univariate analysis showed a decrease in personal PAHs exposures from 1998 to 2006 ( p < 0.0001 ) .
+After controlling for environmental tobacco smoke , indoor heat , and cooking , year of personal monitoring remained a predictor of decline in sigmaPAHs ( beta = -0.269 , p < 0.001 ) .
+Linear trend analysis also suggested that PM2.5 declined ( p = 0.09 ) .
+Concentrations of EC and most metals measured by stationary site monitors , as measured by ANOVA , did not decline .
+Across stationary sites , levels of airborne EC and metals varied considerably .
+By contrast PM2.5 levels were highly intercorrelated ( values ranged from 0.725 to 0.922 , p < 0.01 ) .
+Further policy initiatives targeting traffic-related air pollutants may be needed for a greater impact on public health .

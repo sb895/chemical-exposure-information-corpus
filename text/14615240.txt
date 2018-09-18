@@ -1,0 +1,12 @@
+Lead arsenate ( PbHAsO4 ) was used as an insecticide in Washington fruit orchards from 1905 to 1947 .
+We examined exposure potential for children living in an agricultural community with historic PbHAsO4 use .
+Soil and housedust samples were collected from 58 residences .
+Families were asked about land use history , age of home , and remodeling activities .
+Median concentrations of arsenic were higher in housedust than in soil ( 9.0 and 4.2 microg/g , respectively ; P=0.05 ) , as were lead concentrations ( 129 and 46 microg/g , respectively ; P=0.0001 ) .
+Significant associations were observed between indoor and outdoor levels of each metal , indicating track-in as an important exposure pathway .
+Homes on or near land use for pear or apple production between 1905 and 1947 had significantly higher soil ( P=0.005 ) and housedust ( P=0.004 ) lead , and soil arsenic ( P=0.04 ) than did the other homes .
+Homes more than 30 years old had significantly higher soil and housedust lead than did newer homes ( P=0.01 ) .
+Homes remodeled within the past two years had significantly higher soil ( P=0.01 ) and housedust ( P=0.04 ) lead .
+Child doses extrapolated from these data indicate that 36% of homes had soil or dust arsenic levels above the minimum risk level estimated by the Agency for Toxic Substances and Disease Registry .
+None of the measured lead levels exceeded current US Environmental Protection Agency guidelines .
+Public health education programs focused on residential hygiene would be of value in areas of historic PbHAsO4 use .

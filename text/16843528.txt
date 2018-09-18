@@ -1,0 +1,9 @@
+In Ireland , several studies have monitored the air pollution due to traffic in both urban and rural environments .
+However , few studies have attempted to quantify the relative exposure to traffic derived HC pollutants between different modes of commuter transport .
+In this study , the difference in pollution exposure between bus and cycling commuters on a route in Dublin was compared by sampling for five vehicle related hydrocarbons : benzene , 1,3-butadiene , acetylene , ethane and ethylene .
+Samples were collected during both morning and afternoon rush hour periods using a fixed speed pump to gain representative concentrations across the whole journey .
+Journey times were also measured , as were typical breathing rates in order to calculate the overall dose of pollutant inhaled on the journey .
+Results clearly picked up significantly higher pollutant concentrations in the bus compared to cycling and also revealed elevated concentrations on the congested side of the road compared to the side moving against the traffic .
+However , when respiration rates and travel times were taken into account to reveal the mass of pollutants inhaled over the course of a journey , the pattern was reversed , showing slightly enhanced levels of hydrocarbons for the cyclist compared to the bus passenger .
+In addition , the concentrations of these compounds ( excluding ethane ) , were ascertained at playing pitches in the vicinity of a heavily trafficked suburban motorway and in Dublin city centre .
+Although the concentrations were relatively low at all sites , when breathing rates were taken into consideration , the average inhaled weights of pollutants were , on occasion , higher than those average values observed for both bus and bicycle commuters .

@@ -1,0 +1,21 @@
+Benzene has been used in various industries as glues or solvents in Korea .
+Since 1981 , a preparation containing more than 1% benzene is not allowed to be manufactured , used or dealt with in the workplace , except in laboratories and in those situations benzene must be used in a completely sealed process as specified in Industrial Safety and Health Act ( ISHA ) .
+Claims for compensation of hematopoietic diseases related to benzene have been rising even though the work environment has been improved .
+This study was conducted to assess the status of benzene exposure in different industries in Korea .
+We reviewed the claimed cases investigated by the Korea Occupational Safety and Health Agency ( KOSHA ) between 1992 and 2000 .
+The Survey of National Work Environment Status in 1998 was analyzed to assume the number of workers and factories exposed to benzene .
+In 2000 , six factories were investigated to evaluate benzene exposure .
+Personal air monitoring was performed in 61 workers and urine samples were collected from 57 workers to measure trans,trans-muconic acid ( t,t-MA ) .
+Hematologic examination has performed .
+Thirty-four cases of hematopoietic diseases were investigated by KOSHA including eight cases of myelodysplastic syndrome and eight cases of acute myelocytic leukemia .
+Eight cases were accepted as related to benzene exposure .
+The number of workers possibly exposed to benzene can be estimated to be 196,182 workers from 6219 factories based on the database .
+The geometric mean of benzene in air was 0.094 ( 0.005-5.311 ) ppm .
+Seven samples were higher than 1 ppm but they did not go over the 10 ppm occupational exposure limit ( OEL ) value in Korea .
+The geometric mean of trans,trans-muconic acid in urine was 0.966 ( 0.24-2.74 ) mg/g creatinine .
+The benzene exposure level was low except in a factory where benzene was used to polymerize other chemicals .
+The ambient benzene from 0.1 to 1 ppm was significantly correlated with urine t,t-MA concentration ( r=0.733 , p<0.01 ) .
+Hematologic parameters did not show significant difference among groups divided into the level of exposure .
+Korean workers were not highly exposed to benzene and the level of exposure was mostly less than 1 ppm .
+However , there might be an excessive risk of hematopoietic disorders due to relatively high past exposure .
+The OEL value of benzene was amended to 1 ppm from 10 ppm in 2002 and was effective since July 2003 .

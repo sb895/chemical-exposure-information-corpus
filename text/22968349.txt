@@ -1,0 +1,10 @@
+Perchlorate is a widely occurring contaminant , which can competitively inhibit iodide uptake and thus thyroid hormone production .
+The health effects of chronic low dose perchlorate exposure are largely unknown .
+In a community-based study , we compared thyroid function and disease in women with differing likelihoods of prior and current perchlorate exposure .
+Residential blocks were randomly selected from areas : ( 1 ) with potential perchlorate exposure via drinking water ; ( 2 ) with potential exposure to environmental contaminants ; and ( 3 ) neighboring but without such exposures .
+Eligibility included having lived in the area for \u22656 months and aged 20-50 years during 1988-1996 ( during documented drinking water well contamination ) .
+We interviewed 814 women and collected blood samples ( assayed for thyroid stimulating hormone and free thyroxine ) from 431 interviewed women .
+Daily urine samples were assayed for perchlorate and iodide for 178 premenopausal women with blood samples .
+We performed multivariable regression analyses comparing thyroid function and disease by residential area and by urinary perchlorate dose adjusted for urinary iodide levels .
+Residential location and current perchlorate dose were not associated with thyroid function or disease .
+No persistent effect of perchlorate on thyroid function or disease was found several years after contaminated wells were capped .

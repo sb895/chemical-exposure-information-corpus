@@ -1,0 +1,8 @@
+As part of the National Human Exposure Assessment Survey ( NHEXAS ) in Maryland , we collected indoor air , carpet dust , exterior soil , and duplicate diet samples from a stratified random sample of 80 individuals to evaluate aggregate daily exposure , contributions of specific pathways of exposure , and temporal variation in exposure to chlorpyrifos .
+We collected samples from each participant in up to six equally spaced sampling cycles over a year and analyzed them for chlorpyrifos .
+We used chlorpyrifos concentrations in each medium and self-reported rates of time spent inside at home , time and frequency of contact with carpet , frequency of contact with soil , and weights of the duplicate diet samples to derive exposure to chlorpyrifos from each medium as well as average daily aggregate exposure ( nanograms per day ) .
+The mean aggregate daily exposure to chlorpyrifos of 36 measurements obtained from 31 people was 1,390 ng/day ( SD , 2,770 ng/day ) .
+Exposure from inhalation of indoor air accounted for 84.7% of aggregate daily exposure to chlorpyrifos on average .
+Chlorpyrifos concentrations in indoor air and carpet dust and the corresponding exposure rates were significantly correlated .
+Repeated short-term measurements of chlorpyrifos in carpet dust from individual residences were strongly correlated over time ( reliability coefficient , R = 0.90 ) , whereas the short-term measurements of chlorpyrifos in indoor air ( R = 0.55 ) and solid food ( R = 0.03 ) had moderate to weak reliability .
+Exposure to chlorpyrifos through those media and in aggregate based on direct measurements reported in this study can be used to understand better the accuracy of pesticide safety assessments .

@@ -1,0 +1,8 @@
+Chronic arsenic exposure and skin lesions ( keratosis and hyperpigmentation ) are inextricably linked .
+This paper was to quantify the children skin lesions risks and to further recommend safe drinking water arsenic standard based on reported arsenic epidemiological data .
+We linked the Weibull dose-response function and a physiologically based pharmacokinetic ( PBPK ) model to estimate safe drinking water arsenic concentrations and to perform the risk characterization .
+We calculated odds ratios ( ORs ) to assess the relative magnitude of the effect of the arsenic exposure on the likelihood of the prevalence of children skin lesions by calculating proposed Weibull-based prevalence ratios of exposed to control groups associated with the age group-specific PBPK model predicted dimethylarsinite ( MMA(III) ) levels in urine .
+Positive relationships between arsenic exposures and cumulative prevalence ratios of skin lesions were found using Weibull dose-response model ( r2=0.91-0.96 ) .
+We reported that the safe drinking water arsenic standards were recommended to be 2.2 and 1 microg/L for male and 6 and 2.8 microg/L for female in 0-6 and 7-18 years age groups , respectively , based on hyperpigmentation with an excess risk of 10(-3) for a 75 years lifetime exposure .
+Risk predictions indicate that estimated ORs have 95% confidence intervals of 1.33-5.12 , 1.74-19.15 , and 2.81-19.27 based on mean drinking water arsenic contents of 283.19 , 282.65 , and 468.81 microg/L , respectively , in West Bengal , India , Bangladesh , and southwestern Taiwan .
+Our findings also suggest that increasing urinary monomethylarsonic acid ( MMA ) levels are associated with an increase in risks of arsenic-induced children skin lesions .

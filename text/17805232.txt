@@ -1,0 +1,15 @@
+Although high levels of fish consumption and bioindicators of mercury exposure have been reported for traditional populations in the Amazon , little is known about their actual daily intake of Hg .
+Using an ecosystem approach , calculate daily mercury intake in adult fish-eaters , examine the relations between mercury intake and bioindicators of exposure and the factors that influence these relations .
+A cross-sectional dietary survey on fish and fruit consumption frequency was carried out with 256 persons from six villages of the Tapajós River .
+Fish portion per meal was determined .
+Mercury concentration was determined for 1123 local fish specimens .
+Daily mercury intake ( microg/kg/day ) was determined for men and women from each village using the average fish-mercury concentration for the fish caught in their fishing zone , the average quantity of fish per meal , fish-species frequency consumption and participants ' body weight .
+Fish-mercury averaged 0.33 microg/g+/-0.33 .
+Daily mercury intake varied between 0 and 11.8 microg/kg/day ( mean 0.92 microg/kg/day+/-0.89 ) and varied by gender and village .
+Mean blood- and hair-mercury were 58.7+/-36.1 microg/l and 17.9+/-11.5 microg/g , respectively .
+There was a strong and positive relation between blood-mercury and daily mercury intake , with an inverse relation for fruit intake and schooling ; significant variations were observed with immigrant status , and among villages .
+Hair-mercury was directly associated with daily mercury intake and inversely related to schooling and fruit consumption .
+Fruit consumption modified the relation between daily mercury intake and blood-mercury levels : for the same daily mercury intake , persons eating more fruit had lower blood-mercury concentrations ( ANCOVA Interaction term : F=10.9 , P<0.0001 ) .
+The median difference of the ratio of blood-mercury to daily mercury intake between low and high fruit consumers was 26 , representing a 26.3% reduction .
+These findings reveal high levels of daily mercury intake .
+Rigorous studies for developing risk-based reference doses in the Amazon should be undertaken to orient viable risk-management strategies to reduce exposure , while maintaining fish diet .

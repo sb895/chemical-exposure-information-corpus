@@ -1,0 +1,9 @@
+BACKGROUND Air pollution influences the development of oral clefts in animals .
+There are few epidemiologic data on the relation of prenatal air pollution exposure and the risk of oral clefts .
+OBJECTIVES Our goal in this study was to assess the relations between exposure to ambient air pollution and the risk of cleft lip with or without cleft palate ( CL/P ) .
+METHODS We conducted a population-based case-control study of all 653 cases of CL/P and a random sample of 6,530 control subjects from 721,289 Taiwanese newborns in 2001-2003 .
+We used geographic information systems to form exposure parameters for sulfur dioxide , nitrogen oxides , ozone , carbon monoxide , and particulate matter with an aerodynamic diameter <or= 10 microm ( PM10 ) during the first 3 months of pregnancy using inverse distance weighting method .
+We present the effect estimates as odds ratios ( ORs ) per 10-ppb change for SO2 , NO(x) , and O3 , 100-ppb change for CO , and 10-microg/m3 change for PM10 .
+RESULTS The risk of CL/P was increased in relation to O3 levels in the first gestational month [ adjusted OR = 1.20 ; 95% confidence interval ( CI ) , 1.02-1.39 ] and second gestational month ( adjusted OR = 1.25 ; 95% CI , 1.03-1.52 ) in the range from 16.7 ppb to 45.1 ppb , but was not related to CO , NO(x) , SO2 , or PM10 .
+CONCLUSIONS The study provides new evidence that exposure to outdoor air O3 during the first and second month of pregnancy may increase the risk of CL/P .
+Similar levels of O3 are encountered globally by large numbers of pregnant women .

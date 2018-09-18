@@ -1,0 +1,12 @@
+Methylmercury ( MeHg ) toxicity may vary widely despite similar levels of exposure .
+This is hypothetically related to genetic differences in enzymes metabolizing MeHg .
+MeHg causes oxidative stress in experimental models but little is known about its effects on humans .
+The aims of the present study was to evaluate the effects of polymorphisms in glutathione ( GSH)-related genes ( GSTM1 , GSTT1 , GSTP1 and GCLM ) on Hg concentrations in blood and hair , as well as MeHg-related effects on catalase ( CAT ) and glutathione-peroxidase ( GPx ) activity and GSH concentrations .
+Study subjects were from an Amazonian population in Brazil chronically exposed to MeHg from fish .
+Hg in blood and hair were determined by ICP-MS , CAT , GPx and GSH were determined by spectrophotometry , and multiplex PCR ( GSTM1 and GSTT1 ) and TaqMan assays ( GSTP1 and GCLM ) were used for genotyping .
+Mean Hg concentrations in blood and hair were 48±36 \u03bcg/L and 14±10 \u03bcg/g .
+Persons with the GCLM-588 TT genotype had lower blood and hair Hg than did C-allele carriers ( linear regression for Hg in blood \u03b2=-0.32 , p=0.017 ; and hair \u03b2=-0.33 ; p=0.0090 ; adjusted for fish intake , age and gender ) .
+GSTM1*0 homozygous had higher blood ( \u03b2=0.20 ; p=0.017 ) and hair Hg ( hair \u03b2=0.20 ; p=0.013 ) .
+Exposure to MeHg altered antioxidant status ( CAT : \u03b2=-0.086 ; GSH : \u03b2=-0.12 ; GPx : \u03b2=-0.16 ; all p<0.010 ; adjusted for gender , age and smoking ) .
+Persons with GSTM1*0 had higher CAT activity in the blood than those with GSTM1 .
+Our data thus indicate that some GSH-related polymorphisms , such as GSTM1 and GCLM may modify MeHg metabolism and Hg-related antioxidant effects .

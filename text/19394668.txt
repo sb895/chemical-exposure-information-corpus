@@ -1,0 +1,9 @@
+UNLABELLED PCB exposure has been associated with increased risk for cancer , neurological disease , and for birth defects in children exposed in utero .
+Because of the long half-lives of PCB congeners , they remain a public health problem in the United States 30 years after being banned .
+Workers ( n=3569 ) at an Indiana capacitor manufacturing plant were exposed to polychlorinated biphenyls ( PCBs ) from 1957 to 1977 .
+The purpose of this work was to develop a period-specific job-exposure matrix ( JEM ) for a follow-up epidemiologic study investigating the increased risks for cancer previously observed in the cohort .
+METHODS We used eight exposure determinants to estimate PCB exposures systematically .
+Work history , job description , capacitor production factors , PCB usage trends , and air sample data were used to develop the JEM in four steps : ( 1 ) all job titles ( n=884 ) were assessed for exposure determinants , ( 2 ) jobs with similar exposure determinants were grouped , ( 3 ) for each job exposure category , exposure intensity ( high-medium-low-background ) and frequency ( continuous-intermittent ) were qualitatively rated separately for inhalation and dermal exposure , and ( 4 ) for each job exposure category , the product of intensity ( based on air sampling data ) and frequency ( fraction of day exposed ) was calculated .
+The JEM was then modified for two eras of different PCB exposure conditions .
+RESULTS The resulting JEM consists of inhalation and dermal exposure values for 19 job exposure categories .
+CONCLUSION The JEM showed an exposure-response trend associated with increased brain cancer mortality in the epidemiologic study .

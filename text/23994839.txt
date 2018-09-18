@@ -1,0 +1,13 @@
+BACKGROUND Spatially-resolved air pollution models can be developed in large areas .
+The resulting increased exposure contrasts and population size offer opportunities to better characterize the effect of atmospheric pollutants on respiratory health .
+However the heterogeneity of these areas may also enhance the potential for confounding .
+We aimed to discuss some analytical approaches to handle this trade-off .
+METHODS We modeled NO2 and PM10 concentrations at the home addresses of 1082 pregnant mothers from EDEN cohort living in and around urban areas , using ADMS dispersion model .
+Simulations were performed to identify the best strategy to limit confounding by unmeasured factors varying with area type .
+We examined the relation between modeled concentrations and respiratory health in infants using regression models with and without adjustment or interaction terms with area type .
+RESULTS Simulations indicated that adjustment for area limited the bias due to unmeasured confounders varying with area at the costs of a slight decrease in statistical power .
+In our cohort , rural and urban areas differed for air pollution levels and for many factors associated with respiratory health and exposure .
+Area tended to modify effect measures of air pollution on respiratory health .
+CONCLUSIONS Increasing the size of the study area also increases the potential for residual confounding .
+Our simulations suggest that adjusting for type of area is a good option to limit residual confounding due to area-associated factors without restricting the area size .
+Other statistical approaches developed in the field of spatial epidemiology are an alternative to control for poorly-measured spatially-varying confounders .

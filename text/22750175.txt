@@ -1,0 +1,11 @@
+Analyzing the relationship between the environment and health has become a major focus of public health efforts in France , as evidenced by the national action plans for health and the environment .
+These plans have identified the following two priorities : - identify and manage geographic areas where hotspot exposures are a potential risk to human health ; and - reduce exposure inequalities .
+The aim of this study is to develop a spatial stochastic multimedia exposure model for detecting vulnerable populations and analyzing exposure determinants at a fine resolution and regional scale .
+A multimedia exposure model was developed by INERIS to assess the transfer of substances from the environment to humans through inhalation and ingestion pathways .
+The RESPIR project adds a spatial dimension by linking GIS ( Geographic Information System ) to the model .
+Tools are developed using modeling , spatial analysis and geostatistic methods to build and discretize interesting variables and indicators from different supports and resolutions on a 1-km(2) regular grid .
+We applied this model to the risk assessment of exposure to metals ( cadmium , lead and nickel ) using data from a region in France ( Nord-Pas-de-Calais ) .
+The considered exposure pathways include the atmospheric contaminant inhalation and ingestion of soil , vegetation , meat , egg , milk , fish and drinking water .
+Exposure scenarios are defined for different reference groups ( age , dietary properties , and the fraction of food produced locally ) .
+The two largest risks correspond to an ancient industrial site ( Metaleurop ) and the Lille agglomeration .
+In these areas , cadmium , vegetation ingestion and soil contamination are the principal determinants of the computed risk .

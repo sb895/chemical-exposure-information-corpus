@@ -1,0 +1,7 @@
+Personal exposures of 100 adult non-smokers living in the UK , as well as home and workplace microenvironment concentrations of 15 volatile organic compounds were investigated .
+The strength of the association between personal exposure and indoor home and workplace concentrations as well as with central site ambient air concentrations in medium to low pollution areas was assessed .
+Home microenvironment concentrations were strongly associated with personal exposures indicating that the home is the driving factor determining personal exposures to VOCs , explaining between 11 and 75% of the total variability .
+Workplace and central site ambient concentrations were less correlated with the corresponding personal concentrations , explaining up to 11-22% of the variability only at the low exposure end of the concentration range ( e.g. benzene concentrations <2.5 \u03bcg m(-3) ) .
+One of the reasons for the discrepancies between personal exposures and central site data was that the latter does not account for exposure due to personal activities ( e.g. commuting , painting ) .
+A moderate effect of season on the strength of the association between personal exposure and ambient concentrations was found .
+This needs to be taken into account when using fixed site measurements to infer exposures .

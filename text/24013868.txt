@@ -1,0 +1,11 @@
+BACKGROUND Several studies employing cell culture and animal models have suggested that arsenic ( As ) exposure induces global DNA hypomethylation .
+However , As has been associated with global DNA hypermethylation in human study populations .
+We hypothesized that this discrepancy may reflect a nonlinear relationship between As dose and DNA methylation .
+OBJECTIVE The objective of this study was to examine the dose-response relationship between As and global methylation of peripheral blood mononuclear cell ( PBMC ) DNA in apparently healthy Bangladeshi adults chronically exposed to a wide range of As concentrations in drinking water .
+METHODS Global PBMC DNA methylation , plasma folate , blood S-adenosylmethionine ( SAM ) , and concentrations of As in drinking water , blood , and urine were measured in 320 adults .
+DNA methylation was measured using the [ 3H]-methyl incorporation assay , which provides disintegration-per-minute ( DPM ) values that are negatively associated with global DNA methylation .
+RESULTS Water , blood , and urinary As were positively correlated with global PBMC DNA methylation ( p < 0.05 ) .
+In multivariable-adjusted models , 1-\u03bcg/L increases in water and urinary As were associated with 27.6-unit ( 95% CI : 6.3 , 49.0 ) and 22.1-unit ( 95% CI : 0.5 , 43.8 ) decreases in DPM per microgram DNA , respectively .
+Categorical models indicated that estimated mean levels of PBMC DNA methylation were highest in participants with the highest As exposures .
+CONCLUSIONS These results suggest that As is positively associated with global methylation of PBMC DNA over a wide range of drinking water As concentrations .
+Further research is necessary to elucidate underlying mechanisms and physiologic implications .

@@ -1,0 +1,9 @@
+The concentrations of PBDEs in 299 vegetable and animal-based food samples of 31 species , collected in Shanghai , China , and the bioaccessibility of PBDEs in part of the samples were determined .
+The PBDE concentrations ranged from 0 to 1245.4pgg(-1) with animal-based food containing more PBDEs than vegetables .
+The bioaccessibility of PBDEs , determined by a method simulating human gastrointestinal digestion process , were from 2.6% to 39.9% in vegetables , and from 5.2% to 105.3% in animal-based food .
+For animal-based food , good correlations were observed between the bioaccessibility of PBDEs and the fat content , thus the fat content in animal-based food was able to be used to estimate the bioaccessibility of PBDEs .
+The total daily intake of PBDEs via ingestion of vegetables and animal-based food for an average Shanghai resident was estimated as 13235.7 and 13668.0pg d(-1) , respectively , but the amounts available for human absorption were reduced to 2674.4 and 4316.6pgd(-1) after the PBDE bioaccessibility was considered .
+Finally , the contributions of different food groups to the total daily intake of PBDEs were evaluated .
+The results revealed that , when not considering the bioaccessibility of PBDEs , vegetables were the leading contributor ( 49.2% ) , followed by fish ( 34.0% ) .
+However , the sequence was reversed after the PBDE bioaccessibility was taken into account .
+The results indicated that human exposure to PBDEs via food ingestion might have been significantly overestimated and the exposure assessment could be misleading if the bioaccessibility of PBDEs was not considered .

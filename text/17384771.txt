@@ -1,0 +1,9 @@
+BACKGROUND Methylmercury exposure causes a variety of adverse effects on human health .
+Per capita estimates of mercury exposure are critical for risk assessments and for developing effective risk management strategies .
+OBJECTIVE This study investigated the impact of natural stochasticity in mercury concentrations among fish and shellfish harvested from the Atlantic Ocean , Pacific Ocean , and foreign shores on estimated mercury exposures .
+METHODS Mercury concentrations and seafood consumption are grouped by supply region ( Atlantic Ocean , Pacific Ocean , and foreign shores ) .
+Distributions of intakes from this study are compared with values obtained using national FDA ( Food and Drug Administration ) mercury survey data to assess the significance of geographic variability in mercury concentrations on exposure estimates .
+RESULTS Per capita mercury intake rates calculated using FDA mercury data differ significantly from those based on mercury concentration data for each supply area and intakes calculated for the 90th percentile of mercury concentrations .
+CONCLUSIONS Differences in reported mercury concentrations can significantly affect per capita mercury intake estimates , pointing to the importance of spatially refined mercury concentration data .
+This analysis shows that national exposure estimates are most influenced by reported concentrations in imported tuna , swordfish , and shrimp ; Pacific pollock ; and Atlantic crabs .
+Collecting additional mercury concentration data for these seafood categories would improve the accuracy of national exposure estimates .

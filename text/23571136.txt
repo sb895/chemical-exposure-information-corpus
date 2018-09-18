@@ -1,0 +1,12 @@
+BACKGROUND In the1950s-1970s polychlorinated biphenyls ( PCBs ) were used in several countries as plasticizers in elastic sealants in buildings .
+OBJECTIVE The primary objective was to study whether residents of PCB-contaminated dwellings had higher plasma levels of PCBs than their neighbours in non-contaminated dwellings .
+The secondary objective was to study possible associations between concentrations of PCBs in the indoor air and in the plasma of residents .
+METHODS Stratified cross-sectional study of residents of a housing estate with four sections , of which only one section had PCB-containing sealants .
+The determination of 27 PCB congeners in plasma was performed among 134 exposed and 139 non-exposed residents .
+Air measurements were conducted in 104 flats .
+RESULTS Significant differences in plasma PCBs between exposed versus non-exposed were found for most of the lower chlorinated and many of the higher chlorinated congeners .
+The median of sum of 27 PCBs was approximately four times higher in exposed compared with non-exposed residents .
+The elevated PCB concentrations persisted in multivariable analyses controlling for relevant cofactors .
+We found significant correlations between PCB indoor air concentrations and the PCB concentration in the plasma of the residents for ten of the lower chlorinated congeners .
+CONCLUSION Our study confirms that indoor air exposure to PCBs from PCB containing sealants may result in a considerable internal PCBs exposure of the residents .
+For the first time we were able to demonstrate that the internal exposure to low chlorinated PCBs is significantly associated with the indoor air concentration of these congeners .

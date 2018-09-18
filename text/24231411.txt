@@ -1,0 +1,14 @@
+Epidemiological studies have shown associations between ambient air pollution and changes in heart rate variability ( HRV ) .
+However , studies using personal air pollution measurements , especially with exposure averages <24h , are still rare .
+Between February and March 2008 HRV data as well as personal exposure to particulate matter <2.5\u03bcm ( PM2.5 ) , and particle number concentrations ( PNC ) were collected in five volunteers for up to 8.3h on a 5min resolution .
+Information about the participant's whereabouts was also collected .
+Mixed models were used to analyze concurrent and up to 30min delayed effects of air pollutants as well as being in traffic on 5min-averages of heart rate ( HR ) , high and low frequency power ( HF and LF ) , standard deviation of all normal-to-normal intervals ( SDNN ) , and the root mean square of successive interval differences ( RMSSD ) .
+Results are presented as %-change from the mean per increase in interquartile range of air pollutant .
+In total , 474 5-min segments were available for analysis .
+We observed concurrent and delayed reductions in SDNN of about 0.8-1.0% in association with a 5.4\u03bcg/m(3) increase in PM2.5 .
+However , being in traffic by car led to an increase of about 20% 10-14min and 15-19min later .
+An increase in PM2.5 or PNC was associated with lagged decreases for RMSSD and HF .
+We detected concurrent reductions in RMSSD ( -17.6% [ 95%-confidence interval : 29.1 ; -4.3] ) when being in traffic by bike/foot .
+Being in traffic by car was associated with an immediate reduction in LF while more delayed increases in LF were observed when being in traffic by bike/foot .
+Air pollution and traffic effects on HR were less consistent .
+These rapid changes in HRV within 30min might be mediated by the autonomic nervous system in response to direct reflexes from receptors in the lungs .

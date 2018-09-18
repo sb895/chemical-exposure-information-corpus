@@ -1,0 +1,10 @@
+The human-health risk posed by gardening near a legacy mine and smelter in an arsenic-endemic region of Arizona was characterized in this study .
+Residential soils were used in a greenhouse study to grow common vegetables , and local residents , after training , collected soil , water , and vegetables samples from their home gardens .
+Concentrations of arsenic measured in water , soil , and vegetable samples were used in conjunction with reported US intake rates to calculate the daily dose , Incremental Excess Lifetime Cancer Risk ( IELCR ) , and Hazard Quotient for arsenic .
+Relative arsenic intake dose decreased in order : water>garden soils>homegrown vegetables , and on average , each accounted for 77 , 16 , and 7% of a residential gardener's daily arsenic intake dose .
+The IELCR ranges for vegetables , garden soils , and water were 10(-8) to 10(-4) , 10(-6) to 10(-4) , and 10(-5) to 10(-2) , respectively .
+All vegetables ( greenhouse and home garden ) were grouped by scientific family , and the risk posed decreased as : Asteraceae\u226bFabaceae>Amaranthaceae>Liliaceae>Brassicaceae>Solanaceae\u226bCucurbitaceae .
+Correlations observed between concentrations of arsenic in vegetables and soils were used to estimate a maximum allowable level of arsenic in soil to limit the excess cancer risk to 10(-6) .
+The estimated values are 1.56 mg kg(-1) , 5.39 mg kg(-1) , 11.6 mg kg(-1) and 12.4 mg kg(-1) for the Asteraceae , Brassicaceae , Fabaceae , and Amaranthaceae families , respectively .
+It is recommended that home gardeners : sample their private wells annually , test their soils prior to gardening , and , if necessary , modify their gardening behavior to reduce incidental soil ingestion .
+This study highlights the importance of site-specific risk assessment , and the need for species-specific planting guidelines for communities .

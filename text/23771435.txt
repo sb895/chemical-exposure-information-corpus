@@ -1,0 +1,9 @@
+BACKGROUND Previous studies of prenatal exposure to drinking-water nitrate and birth defects in offspring have not accounted for water consumption patterns or potential interaction with nitrosatable drugs .
+OBJECTIVES We examined the relation between prenatal exposure to drinking-water nitrate and selected birth defects , accounting for maternal water consumption patterns and nitrosatable drug exposure .
+METHODS With data from the National Birth Defects Prevention Study , we linked addresses of 3,300 case mothers and 1,121 control mothers from the Iowa and Texas sites to public water supplies and respective nitrate measurements .
+We assigned nitrate levels for bottled water from collection of representative samples and standard laboratory testing .
+Daily nitrate consumption was estimated from self-reported water consumption at home and work .
+RESULTS With the lowest tertile of nitrate intake around conception as the referent group , mothers of babies with spina bifida were 2.0 times more likely ( 95% CI : 1.3 , 3.2 ) to ingest \u2265 5 mg nitrate daily from drinking water ( vs. < 0.91 mg ) than control mothers .
+During 1 month preconception through the first trimester , mothers of limb deficiency , cleft palate , and cleft lip cases were , respectively , 1.8 ( 95% CI : 1.1 , 3.1 ) , 1.9 ( 95% CI : 1.2 , 3.1 ) , and 1.8 ( 95% CI : 1.1 , 3.1 ) times more likely than control mothers to ingest \u2265 5.42 mg of nitrate daily ( vs. < 1.0 mg ) .
+Higher water nitrate intake did not increase associations between prenatal nitrosatable drug use and birth defects .
+CONCLUSIONS Higher water nitrate intake was associated with several birth defects in offspring , but did not strengthen associations between nitrosatable drugs and birth defects .

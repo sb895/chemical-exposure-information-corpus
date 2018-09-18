@@ -1,0 +1,8 @@
+Perfluorinated compounds ( PFCs ) comprise a large group of man-made fluorinated chemicals used in a number of consumer products and industrial applications .
+PFCs have shown to be persistent , bio-accumulative and widespread in the environment .
+Animal studies have demonstrated hepatotoxicity , immunotoxicity , developmental toxicity as well as hormonal effects .
+We investigated prenatal exposure to several PFCs and detected up to seven different PFCs in 123 paired samples of human maternal and cord blood , from a subcohort of the Norwegian Mother and Child Cohort Study ( MoBa ) .
+The maternal and foetal levels were significantly correlated for all PFCs tested with median PFC concentrations in cord blood ranging between 30 and 79% of the maternal concentrations , demonstrating placental passage .
+The composition of the different PFCs varied between cord and maternal blood , with a higher proportion of shorter chained PFCs together with a higher amount of the branched isomers of perfluorooctane sulfonate ( PFOS ) in cord blood .
+Additionally , the sulfonate group seems to impede transfer efficiency .
+This indicates a selective placental passage of the different PFCs and hence a specific foetal exposure .

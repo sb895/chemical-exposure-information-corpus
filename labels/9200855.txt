@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--blood--workers AND  Biomonitoring--exposure biomarker--hair nail--workers<Biomonitoring--effect marker--biomarker--molecule--protein AND Biomonitoring--exposure biomarker--blood-- AND Biomonitoring--exposure biomarker--hair nail-- AND exposure routes--oral intake--dust--< < < <exposure routes--oral intake--dust--workers

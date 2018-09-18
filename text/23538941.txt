@@ -1,0 +1,10 @@
+Congenital anomalies are a leading cause of infant mortality and are important contributors to subsequent morbidity .
+Studies suggest associations between environmental contaminants and some anomalies , although evidence is limited .
+We aimed to investigate whether ambient air pollutant and traffic exposures in early gestation contribute to the risk of selected congenital anomalies in the San Joaquin Valley of California , 1997-2006 .
+Seven exposures and 5 outcomes were included for a total of 35 investigated associations .
+We observed increased odds of neural tube defects when comparing the highest with the lowest quartile of exposure for several pollutants after adjusting for maternal race/ethnicity , education , and multivitamin use .
+The adjusted odds ratio for neural tube defects among those with the highest carbon monoxide exposure was 1.9 ( 95% confidence interval : 1.1 , 3.2 ) compared with those with the lowest exposure , and there was a monotonic exposure-response across quartiles .
+The highest quartile of nitrogen oxide exposure was associated with neural tube defects ( adjusted odds ratio = 1.8 , 95% confidence interval : 1.1 , 2.8 ) .
+The adjusted odds ratio for the highest quartile of nitrogen dioxide exposure was 1.7 ( 95% confidence interval : 1.1 , 2.7 ) .
+Ozone was associated with decreased odds of neural tube defects .
+Our results extend the limited body of evidence regarding air pollution exposure and adverse birth outcomes .

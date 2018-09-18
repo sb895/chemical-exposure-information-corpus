@@ -1,0 +1,7 @@
+The authors compared three methods used to measure exposure to environmental tobacco smoke in pregnant women : personal air monitor , urine cotinine , and questionnaire .
+Environmental tobacco smoke exposure assessment methods were compared for agreement using Cohen's Kappa and the Spearman rank order correlation coefficient .
+Women who reported exposure had significantly higher levels of air nicotine concentration compared with women who reported no exposure , but urine cotinine did not differ .
+Air nicotine was more highly correlated with home exposure ( r = 0.34 ) than work exposure ( r = 0.18 ) .
+Urine cotinine correlated with work exposure ( r = 0.14 ) but neither home nor social exposure .
+Agreement was " fair " ( Kappa = 0.29 ) when self-reported exposure was compared with air monitor , but agreement was " poor " when urine cotinine was compared with self-report ( Kappa = 0.08 ) and air monitor ( Kappa = 0.10 ) .
+In low environmental tobacco smoke exposure environments , all three methods for measuring exposure may have a role , although modification to monitoring protocols will be needed to improve monitoring sensitivity and exposure classification .

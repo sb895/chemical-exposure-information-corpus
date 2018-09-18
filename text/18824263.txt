@@ -1,0 +1,11 @@
+BACKGROUND Phthalates can disrupt endocrine function and induce reproductive and developmental toxicity in laboratory animals .
+Few studies have evaluated exposure to phthalates in pregnant women , despite the potential sensitivity of the developing fetus to adverse effects of phthalates .
+METHODS We measured urinary concentrations of 11 phthalate metabolites in 19 pregnant women , recruited in Jerusalem , Israel in 2006 , and collected questionnaire data on demographic factors and consumer habits from these women .
+We compared geometric mean concentrations in subgroups and used the Mann-Whitney U-test for independent samples to determine significant differences between groups .
+RESULTS Nine metabolites were detected in at least 95% of the samples : mono(2-ethyl-5-carboxypentyl) phthalate , mono(2-ethyl-5-hydroxyhexyl) phthalate , mono(2-ethyl-5-oxohexyl) phthalate , mono(3-carboxypropyl) phthalate , mono(n-butyl) phthalate , monobenzyl phthalate ( MBzP ) , monoethyl phthalate ( MEP ) , mono(2-ethylhexyl) phthalate and monoisobutyl phthalate .
+Phthalate metabolite concentrations in these pregnant women were remarkably similar to those in the general United States female population .
+MBzP geometric mean concentrations were higher in women living in buildings existing 40 years or more ( P=0.04 ) .
+In women who used four or more personal care products ( perfume , deodorant , lipstick , nail polish , or hand/face cream ) in the 48 h prior to providing the urine sample , geometric mean MEP concentrations were more than 4 times higher than concentrations in women using only two or three of the aforementioned products ( P=0.07 ) .
+CONCLUSIONS Pregnant women in Jerusalem are exposed to a wide range of phthalates .
+Building materials used in old constructions may be a source of exposure to benzylbutyl phthalate , the parent compound of MBzP .
+Personal care products may be sources of exposure to diethyl phthalate , the parent compound of MEP .

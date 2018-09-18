@@ -1,0 +1,11 @@
+The effects of long-term exposure to polychlorinated biphenyls ( PCBs ) on developmental dental defects of deciduous and permanent teeth in children in eastern Slovakia , where PCBs from a chemical plant manufacturing Delors contaminated the surrounding district were evaluated .
+Four hundred and thirtytwo children , lifelong residents , aged 8-9 years were examined .
+Children's caries susceptibility and gingival health was assessed by standard dental indices , and developmental enamel defects by the FDI index .
+Data from the PCBRISK project data set and questionnaires completed by the parents provided information on exposure and various confounding factors .
+The proportion of teeth with different types and extensions of developmental enamel defects correlated with serum PCB concentration .
+The proportion of deciduous teeth affected with enamel defects was significantly higher in higher exposed children ( chi(2)=8.35 ; p=0.03 ) according to their serum PCB concentration ( group 0 : <200 ; group 1 : 200-600 ; group 2 : >600 ng PCBs g(-1) serum lipids ) .
+The proportion of permanent teeth affected with any enamel defect was significantly higher in higher exposed children ( chi2=7.237 ; p=0.027 ) .
+Furthermore , the extent of the enamel defects was also greater ( chi2=10.714 ; p=0.005 ) .
+In multivariate linear regression analysis PCB exposure was significantly related to developmental enamel defects of permanent teeth only .
+No associations between PCB exposure and caries susceptibility , gingival health or number of teeth were observed .
+This study demonstrated a dose-response relationship between PCB exposure and developmental enamel defects of permanent teeth in children , the evidence for deciduous teeth was not conclusive .

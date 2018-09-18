@@ -1,0 +1,12 @@
+BACKGROUND Carbonaceous and metallic components of particles have been shown to play a role in particles ' effects on cardiac autonomic function as measured by heart rate variability ( HRV ) .
+Previously we reported the association of HRV with marked changes in traffic-related particulate air pollution around the Beijing 2008 Olympic Games in a panel of taxi drivers .
+OBJECTIVE We further investigated the relationship between exposures to the carbonaceous and metallic components of traffic-related particles and HRV in the same population .
+METHODS Repeated measurements of in-car exposures to particulate matter \u2264 2.5 \u03bcm in aerodynamic diameter ( PM\u2082.\u2085 ) , carbon monoxide and nitrogen oxides were conducted in a group of 14 taxi drivers for one work shift in four study periods around the Beijing 2008 Olympics .
+The quantities of organic/elemental carbons and 27 elements of the in-car PM\u2082.\u2085 mass were determined laboratorially .
+Linear mixed-effects models were used to evaluate the impact of exposures to different PM\u2082.\u2085 components on HRV while controlling for potential confounders .
+RESULTS Taxi drivers ' exposures to in-car PM\u2082.\u2085 and its components showed dramatic changes across the four study periods around the Beijing 2008 Olympics .
+Differences in associations of in-car PM\u2082.\u2085 components with HRV were found .
+An interquartile range ( IQR : 917.9 ng/m³ ) increase in calcium was associated with a 5.48 millisecond [ ms , 95% confidence interval ( CI ) : 0.71 , 10.24 ] increase in standard deviations of normal-to-normal ( SDNN ) intervals , while an IQR ( 4.1 ng/m³ ) increase in nickel was associated with a 1.53 ms ( 95% CI : 0.14 , 2.92 ) increase in SDNN index .
+Additionally , a decline of 8.11 ms ( 95% CI : -15.26 , -0.97 ) in SDNN per IQR ( 481.4 ng/m³ ) increase in iron was also found .
+CONCLUSION The results support associations of PM\u2082.\u2085 metallic components with HRV in younger healthy individuals .
+Future studies are needed to clarify the interaction among different PM\u2082.\u2085 components or the role of PM\u2082.\u2085 mixtures .

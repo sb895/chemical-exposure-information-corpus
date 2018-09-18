@@ -1,0 +1,11 @@
+BACKGROUND Mercury is nephrotoxic and dental amalgam is a source of mercury exposure .
+METHODS Children 6-10 years of age ( n = 534 ) with two or more posterior teeth with caries but no prior amalgam restorations , were randomized to one of two treatments--amalgam or resin composite ( white fillings)--used for caries treatment during 5 years of follow-up .
+The primary outcome was change in IQ , but important secondary outcomes were effects on markers of glomerular and tubular kidney function : urinary excretion of albumin , alpha-1-microglobulin ( A1M ) , gamma-glutamyl transpeptidase ( gamma-GT ) , and N-acetyl-beta-d-glucosaminidase ( NAG ) .
+These markers were measured on several occasions during the trial , together with urinary mercury and covariates .
+We evaluated the results using repeated-measures analyses .
+RESULTS There were no significant differences between treatment groups in average levels of renal biomarkers , nor significant effects of number of dental amalgams on these markers .
+There was , however , a significantly increased prevalence of microalbuminuria ( MA ) among children in the amalgam group in years 3-5 ( adjusted odds ratio 1.8 ; 95% confidence interval , 1.1-2.9 ) .
+Most of these cases are likely to be temporary MA , but 10 children in the amalgam group had MA in both years 3 and 5 , versus 2 children in the composite group ( p = 0.04 ) .
+There were no differences in the occurrence of high levels of renal tubular markers ( A1M , gamma-GT , or NAG ) .
+CONCLUSIONS The increase in MA may be a random finding , but should be tested further .
+The results did not support recent findings in an observational study of an effect of low-level mercury on tubular biomarkers in children .

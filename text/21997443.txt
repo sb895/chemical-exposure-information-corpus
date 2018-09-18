@@ -1,0 +1,12 @@
+OBJECTIVES Exposure to high concentrations of persistent organochlorines may cause fetal toxicity , but the evidence at low exposure levels is limited .
+Large studies with substantial exposure contrasts and appropriate exposure assessment are warranted .
+Within the framework of the EU ( European Union ) ENRIECO ( ENvironmental Health RIsks in European Birth Cohorts ) and EU OBELIX ( OBesogenic Endocrine disrupting chemicals : LInking prenatal eXposure to the development of obesity later in life ) projects , we examined the hypothesis that the combination of polychlorinated biphenyls ( PCBs ) and dichlorodiphenyldichloroethylene ( DDE ) adversely affects birth weight .
+METHODS We used maternal and cord blood and breast milk samples of 7,990 women enrolled in 15 study populations from 12 European birth cohorts from 1990 through 2008 .
+Using identical variable definitions , we performed for each cohort linear regression of birth weight on estimates of cord serum concentration of PCB-153 and p,p´-DDE adjusted for gestational age and a priori selected covariates .
+We obtained summary estimates by meta-analysis and performed analyses of interactions .
+RESULTS The median concentration of cord serum PCB-153 was 140 ng/L ( range of cohort medians 20-484 ng/L ) and that of p,p´-DDE was 528 ng/L ( range of cohort medians 50-1,208 ng/L ) .
+Birth weight decreased with increasing cord serum concentration of PCB-153 after adjustment for potential confounders in 12 of 15 study populations .
+The meta-analysis including all cohorts indicated a birth weight decline of 150 g [ 95% confidence interval ( CI ) : -250 , -50 g ] per 1-µg/L increase in PCB-153 , an exposure contrast that is close to the range of exposures across the cohorts .
+A 1-µg/L increase in p,p´-DDE was associated with a 7-g decrease in birth weight ( 95% CI : -18 , 4 g ) .
+CONCLUSIONS The findings suggest that low-level exposure to PCB ( or correlated exposures ) impairs fetal growth , but that exposure to p,p´-DDE does not .
+The study adds to mounting evidence that low-level exposure to PCBs is inversely associated with fetal growth .

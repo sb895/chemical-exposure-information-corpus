@@ -1,0 +1,15 @@
+For the first time , biological tissues ( hair , nails , and skin-scales ) of arsenic victims from an arsenic affected area of West Bengal ( WB ) , India were analyzed for trace elements .
+Analysis was carried out by inductively coupled plasma-mass spectrometry ( ICP-MS ) for 10 elements ( As , Se , Hg , Zn , Pb , Ni , Cd , Mn , Cu , and Fe ) .
+A microwave digester was used for digestion of the tissue samples .
+To validate the method , certified reference materials--human hair ( GBW 07601 ) and bovine muscle ( CRM 8414)--were analyzed for all elements .
+The W test was used to study the normal/log normal distribution for each element in the tissue samples .
+For hair ( n=44 ) and nails ( n=33 ) , all elements show log-normal distribution .
+For skin-scale samples ( n=11 ) , data are not sufficient to provide the information about the trend .
+Geometric mean , standard error , and range for each element were presented and compared with literature values for other populations .
+This study reveals the higher levels of toxic elements As , Mn , Pb , and Ni in the tissue samples compared with available values in the literature .
+The elevated levels of these toxic metals in the tissues may be due to exposure of these elements through drinking water and food .
+The correlations of Mn and Ni with other essential elements , e.g .
+Fe , Cu , Zn , suggest that Mn and Ni may substitute for those elements in hair , nails , and skin-scales .
+However , correlation represents the relation between two elements only and does not take into consideration of the presence of other elements .
+Principle component analysis was applied to explain the behavior among the elements present in hair and nails .
+This study reveals that in the arsenic-affected areas of WB , the concentrations of other toxic elements in drinking water and foodstuff should be monitored to evaluate the arsenic poisoning .

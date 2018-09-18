@@ -1,0 +1,9 @@
+This study is a part of the Study On Air Pollution and Health In Taiwan ( SOAP&HIT ) , an ongoing research project involving cooperation of several universities in Taiwan .
+In this study , the objective was to evaluate the effects of ambient air pollution on respiratory symptoms and diseases of school children , in addition to considering indoor air pollution .
+Six communities were selected : one community located in a rural area ( Taihsi ) , two in urban areas ( Keelung and Sanchung ) , and the other three in petrochemical industrial areas ( Toufen , Jenwu , and Linyuan ) .
+We sampled 5,072 primary school students in six communities from the main study population of SOAP&HIT .
+Respiratory health was assessed by evaluation of the children's respiratory symptoms and diseases using a parent-completed questionnaire .
+Data were analyzed using logistic regression analysis to compute odds ratios of adverse effect .
+The school children in the urban communities had significantly more respiratory symptoms ( day or night cough , chronic cough , shortness of breath , and nasal symptoms ) and diseases ( sinusitis , wheezing or asthma , allergic rhinitis , and bronchitis ) when compared with those living in the rural community .
+However , only nasal symptoms of children living in the petrochemical communities were more prevalent than in those living in the rural community .
+Although the association with ambient air pollution is suggestive , the cross-sectional study cannot confirm a causal relationship ; thus further studies are needed .

@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) , as a specific group of brominated flame retardants ( BFR ) , are used in a variety of consumer products including electronics and household furnishings .
+In recent years , a marked increase in the levels of PBDEs in human biological tissues and fluids , especially breast milk , has been reported in several countries .
+However , few data are available from countries in the Asia-pacific region , including Singapore .
+This study presents a validated method procedure and the first available data of the concentrations of PBDE congeners : PBDE-47 ( 2,2,4,4-Tetrabromodiphenyl ether ) , PBDE-99 ( 2,2',4,4',5-Pentabromodiphenyl ether ) , PBDE-100 ( 2,2',4,4',6-Pentabromodiphenyl ether ) , PBDE-153 ( 2,2',4,4',5,5'-Hexabromodiphenyl ether ) , PBDE-154 ( 2,2',4,4',5,6'-Hexabromodiphenyl ether ) in maternal adipose tissue collected from inhabitants of Singapore .
+Microwave-assisted extraction ( MAE ) of PBDEs spiked adipose tissues coupled with GC-MS analysis achieved comparable recoveries to a conventional Soxhlet Extraction ( SE ) procedure of between 70 and 130% .
+MAE also yielded comparable precision data ( variance less than 13% ) relative to the SE procedure .
+Spiked Carbon-13 PBDE congeners were also used as surrogates for MAE quality assurance and confirmed the efficiency of the procedure .
+PBDE congeners were detected in all of 16 maternal adipose tissues collected in Singapore , where levels were comparable to available data from Belgium .

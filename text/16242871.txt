@@ -1,0 +1,13 @@
+Two analytical methods ( HPLC-fluorimeter [ HPLC-FLD ] and tandem mass spectrometry LC/MS/MS ) are available to assay phenyl-hydroxyethylmercapturic acids ( PHEMAs ) , the mercapturic acids of styrene in humans .
+In the past , each method was used to check different populations of subjects , but until now no attempt has been made to compare the two methods .
+This study was designed to verify whether the two methods actually give comparable results .
+The influence of different conditions of sample storage in altering the concentration of PHEMAs was also investigated .
+Urine samples were collected at the beginning and at the end of the workshift from 10 workers exposed to different levels of styrene .
+Each sample was analysed both by LC/MS/MS after storage under different conditions ( respectively , at -20 and +4 degrees C , and after repeated freezing-thawing cycles ) , and by HPLC-FLD ( in the same conditions of storage ) .
+Strong correlations were found between the two methods both for total PHEMAs and for each of the isomers measured , including the minor ( S,R)-M1 .
+Also an alternative approach , the Bland-Altman test , confirmed the agreement between the two methods .
+The different storage conditions tested did not decrease the concentration of PHEMAs but , surprisingly , a clear trend to increase was shown , particularly for ( R,R)-M1 , ( S,R)-M2 and ( R,R)-M2 in samples stored at +4 degrees C for 1 week .
+In conclusion , the study demonstrates that the methods give comparable results .
+Indirectly , this confirms also the main characteristics of PHEMAs , showed in the previous experiments : low biotransformation rates of styrene into PHEMAs ; large inter-individual variability ; and the presence of a clear preference in the excretion of the isomers deriving from ( S)-styrene oxide .
+PHEMAs appear stable under different storage conditions , but further studies are needed to explain the increase of levels that occurs when samples are not kept frozen .
+To avoid pre-analytical errors , samples collected for biomonitoring or research purposes should be frozen as soon as possible , and thawed only one time just before the analysis .

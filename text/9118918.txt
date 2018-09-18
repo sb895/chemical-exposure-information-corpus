@@ -1,0 +1,9 @@
+We present a validation study of a quantitative retrospective exposure assessment method used in a follow-up study of workers exposed to benzene .
+Assessment of exposure to benzene was carried out in 672 factories in 12 cities in China .
+Historical exposure data were collected for 3179 unique job titles .
+The basic unit for exposure assessment was a factory/work unit/job title combination over seven periods between 1949 and 1987 .
+A total of 18,435 exposure estimates was developed , using all available historical information , including 8477 monitoring data .
+Overall , 38% of the estimates were based on benzene monitoring data .
+The highest time-weighted average exposures were observed for the rubber industry ( 30.7 ppm ) and for rubber glue applicators ( 52.6 ppm ) .
+Because of its recognized link with benzene exposure , the association between a clinical diagnosis of benzene poisoning and benzene exposure was evaluated to validate the assessment method that we used in the cohort study .
+Our confidence in the assessment method is supported by the observation of a strong positive trend between benzene poisoning and various measures , especially recent intensity of exposure to benzene .

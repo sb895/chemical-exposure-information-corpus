@@ -1,0 +1,12 @@
+BACKGROUND Cadmium is a widespread toxic metal with potential cardiovascular effects , but no studies have evaluated cadmium and incident cardiovascular disease .
+We evaluated the association of urine cadmium concentration with cardiovascular disease incidence and mortality in a large population-based cohort .
+METHODS We conducted a prospective cohort study of 3348 American Indian adults 45-74 years of age from Arizona , Oklahoma , and North and South Dakota , who participated in the Strong Heart Study in 1989-1991 .
+Urine cadmium was measured using inductively coupled plasma mass spectrometry .
+Follow-up extended through 31 December 2008 .
+RESULTS The geometric mean cadmium level in the study population was 0.94 \u03bcg/g ( 95% confidence interval [ CI ] = 0.92-0.96 ) .
+We identified 1084 cardiovascular events , including 400 deaths .
+After adjustment for sociodemographic and cardiovascular risk factors , the hazard ratios ( HRs ) ( comparing the 80th to the 20th percentile of urine cadmium concentrations ) was 1.43 for cardiovascular mortality ( 95% CI = 1.21-1.70 ) and 1.34 for coronary heart disease mortality ( 1.10-1.63 ) .
+The corresponding HRs for incident cardiovascular disease , coronary heart disease , stroke , and heart failure were 1.24 ( 1.11-1.38 ) , 1.22 ( 1.08-1.38 ) , 1.75 ( 1.17-2.59 ) , and 1.39 ( 1.01-1.94 ) , respectively .
+The associations were similar in most study subgroups , including never-smokers .
+CONCLUSIONS Urine cadmium , a biomarker of long-term exposure , was associated with increased cardiovascular mortality and increased incidence of cardiovascular disease .
+These findings support that cadmium exposure is a cardiovascular risk factor .

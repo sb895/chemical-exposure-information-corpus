@@ -1,0 +1,12 @@
+The main goal of this study is to establish the reference values of individual Polychlorinated biphenyl ( PCB ) congeners in non-occupationally exposed subjects .
+Since the PCB pattern in human serum is related to the living area , two different population groups from North and Central Italy , were compared .
+Serum concentrations of both coplanar and non-coplanar PCB congeners were measured by using gas chromatography coupled with low-resolution mass spectrometry ( HRGC-LRMS ) .
+A fast and reliable method for the determination of 60 congeners had been previously validated .
+Its reliability was further verified by using high-resolution mass spectrometry .
+Thirty-one congeners out of 60 were found at detectable concentrations in at least one sample .
+The mean value for total PCBs was found to be 2.48 and 3.93 microg/L for the two population groups .
+Eight dioxin-like PCBs were detected .
+In accordance with the findings from the literature , the most abundant congeners were found to be 153 , 138 , 180 , and 170 .
+Both univariate and multivariate analysis showed that age is a significant determinant of PCB concentrations .
+The correlation increased with increasing chlorination .
+Slight differences in the PCB pattern were observed in the two population groups .

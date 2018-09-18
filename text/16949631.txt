@@ -1,0 +1,6 @@
+Polybrominated diphenyl ethers ( PBDEs ) were measured in samples of human blood serum taken from 23 donors in Wellington , New Zealand .
+Concentrations expressed as the sum of congeners 47 , 99 , 100 , 153 , 154 , and 183 ( SigmaPBDE ) were - at an average of 7.17 ng SigmaPBDE g ( lipid)(-1 ) - within the range reported for human tissues in Europe , but lower than in Australia and North America .
+The most likely source of this contamination is considered to be the release of PBDEs from imported consumer goods .
+The congener pattern observed is in line with that reported for human tissues outside North America , but shows a lower contribution of PBDE 47 to SigmaPBDE than observed in North Americans .
+No significant ( p>0.1 ) differences between concentrations in males and females were detected , and no relationship between donor age and SigmaPBDE concentration was observed .
+One donor displayed concentrations that were significantly elevated ( i.e. > average +2 standard deviations ) above those in others in this study .

@@ -1,0 +1,11 @@
+Cadmium , an environmental pollutant , may act like an estrogen and be a potential risk factor for estrogen-dependent diseases such as breast cancer .
+We examined the hypothesis that higher dietary cadmium intake is associated with risk of overall and hormone receptor-defined breast cancer in Japanese women , a population with a relatively high cadmium intake .
+The study was conducted under a case-control design in 405 eligible matched pairs from May 2001 to September 2005 at four hospitals in Nagano Prefecture , Japan .
+Dietary cadmium intake was estimated using a food frequency questionnaire .
+Multivariable-adjusted odds ratios ( ORs ) and 95% confidence intervals ( CIs ) of breast cancer and its hormone-receptor-defined subtypes were calculated by tertile of dietary cadmium intake .
+We found no significant association between dietary cadmium and risk of total breast cancer in either crude or multivariable-adjusted analysis .
+Adjusted ORs for tertiles of cadmium intake were 1.00 , 1.19 , and 1.23 ( 95% CI , 0.76-2.00 ; P for trend=0.39 ) for whole breast cancer .
+Further , no significant associations were seen across strata of menopausal status , smoking , and diabetes in multivariable-adjusted models except for adjusted OR for continuous cadmium intake in postmenopausal women .
+A statistically significant association was found for estrogen receptor-positive ( ER+ ) tumors among postmenopausal women ( adjusted OR=1.00 , 1.16 , and 1.94 [ 95% CI , 1.04-3.63 ; P for trend=0.032] ) .
+Although the present study found no overall association between dietary cadmium intake and breast cancer risk , higher cadmium intake was associated with increased risk of ER+ breast cancer in postmenopausal women , at least at regular intake levels in Japanese women in the general population .
+Further studies are needed to confirm this association .

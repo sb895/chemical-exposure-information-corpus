@@ -1,0 +1,7 @@
+Twenty-five samples of Pterois volitans caught in Jamaican waters were analyzed for 25 essential , non-essential and toxic elements using Graphite Furnace Atomic Absorption Spectrophotometry ( GF-AAS ) , Inductively Coupled Plasma Optical Emission Spectroscopy ( ICP-OES ) and Instrumental Neutron Activation Analysis ( INAA ) .
+The mean values for calcium ( 355 mg/kg ) , copper ( 107 \u03bcg/kg ) , iron ( 0.81 mg/kg ) , potassium ( 3481 mg/kg ) , magnesium ( 322 mg/kg ) , manganese ( 0.04 mg/kg ) , selenium ( 0.47 mg/kg ) , sodium ( 700 mg/kg ) and zinc ( 4.46 mg/kg ) were used to estimate dietary intake .
+The percentage contribution to provisional tolerable weekly intake for a 70 kg male and a 65 kg female were also estimated for the toxic elements arsenic ( 1.28% M , 1.38% F ) , cadmium ( 0.26% M. 0.28% F ) , mercury ( 3.85% M , 4.15% F ) and lead ( 0.17% M , 0.18% F ) .
+To further assess the risk of mercury toxicity and the role of mitigation provided by selenium , selenium-mercury molar ratios were calculated for all samples .
+All samples were shown to have a molar excess of selenium .
+In addition the suggested selenium health benefit value was calculated , and was positive for all samples .
+It was concluded that P. volitans appears to contribute modestly to mineral and trace element nutrition , while not being a significant contributor to dietary exposure of toxic elements .

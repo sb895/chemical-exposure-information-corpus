@@ -1,0 +1,12 @@
+BACKGROUND Prenatal exposure to organophosphate pesticides has been shown to negatively affect child neurobehavioral development .
+Paraoxonase 1 ( PON1 ) is a key enzyme in the metabolism of organophosphates .
+OBJECTIVE We examined the relationship between biomarkers of organophosphate exposure , PON1 , and cognitive development at ages 12 and 24 months and 6-9 years .
+METHODS The Mount Sinai Children's Environmental Health Study enrolled a multiethnic prenatal population in New York City between 1998 and 2002 ( n = 404 ) .
+Third-trimester maternal urine samples were collected and analyzed for organophosphate metabolites ( n = 360 ) .
+Prenatal maternal blood was analyzed for PON1 activity and genotype .
+Children returned for neurodevelopment assessments ages 12 months ( n = 200 ) , 24 months ( n = 276 ) , and 6-9 ( n = 169 ) years of age .
+RESULTS Prenatal total dialkylphosphate metabolite level was associated with a decrement in mental development at 12 months among blacks and Hispanics .
+These associations appeared to be enhanced among children of mothers who carried the PON1 Q192R QR/RR genotype .
+In later childhood , increasing prenatal total dialkyl- and dimethylphosphate metabolites were associated with decrements in perceptual reasoning in the maternal PON1 Q192R QQ genotype , which imparts slow catalytic activity for chlorpyrifos oxon , with a monotonic trend consistent with greater decrements with increasing prenatal exposure .
+CONCLUSION Our findings suggest that prenatal exposure to organophosphates is negatively associated with cognitive development , particularly perceptual reasoning , with evidence of effects beginning at 12 months and continuing through early childhood .
+PON1 may be an important susceptibility factor for these deleterious effects .

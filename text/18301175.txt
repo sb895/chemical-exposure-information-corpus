@@ -1,0 +1,7 @@
+OBJECTIVE To investigate the association of exposure to fine particulate matter ( PM2.5 ) with DNA damage and oxidative stress in boilermakers exposed to welding fumes .
+METHODS Forty-one workers were monitored over 24 hours during which baseline , postshift , bedtime , and next morning measurements were collected .
+Twenty-two workers participated as controls .
+RESULTS Linear regression was used to model pairwise change in u-8-isoprostane and u-8-OHdG : pre- to postshift , preshift to bedtime , postshift to bedtime , and postshift to next morning .
+In the models , pre- to postshift change in 8-OHdG was statistically significant , whereas postshift to bedtime change in 8-isoprostane showed an unexpected inverse relationship with PM2.5 .
+CONCLUSIONS Acute welding exposure is associated with a postshift blunting of systemic inflammation in chronically exposed boilermakers , as measured by 8-isoprostane .
+The level of oxidative DNA damage as measured by 8-OHdG is less clear .

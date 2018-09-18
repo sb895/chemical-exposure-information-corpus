@@ -1,0 +1,13 @@
+BACKGROUND Urinary mercury ( U-Hg ) excretion is a commonly used biomarker for mercury exposure from dental amalgam restorations .
+OBJECTIVES Our goal was to determine the most efficient measure of dental amalgam exposure for use in analyses concerning U-Hg in children .
+METHODS We analyzed time-sensitive longitudinal amalgam exposure data in children randomized to amalgam restorations ( n = 267 ) during the 5-year New England Children's Amalgam Trial .
+We calculated 8 measures of amalgam , evaluating current versus cumulative exposure , teeth versus surfaces , and total versus posterior occlusal amalgams .
+Urine samples collected during follow-up years 3-5 were analyzed for mercury excretion .
+Multivariate models for current and cumulative U-Hg excretion estimated associations between exposures and U-Hg .
+RESULTS At the end of follow-up , the average ( +/- SD ) cumulative exposure was 10.3 +/- 6.1 surfaces and 5.7 +/- 2.9 teeth ever filled with amalgam , corresponding to 30 +/- 21 surface-years .
+Amalgam measures and U-Hg were moderately correlated .
+Of amalgam exposure measures , the current total of amalgam surfaces was the most robust predictor of current U-Hg , whereas posterior occlusal surface-years was best for cumulative U-Hg .
+In multivariate models , each additional amalgam surface present was associated with a 9% increase in current U-Hg , and each additional posterior occlusal surface-year was associated with a 3% increase in cumulative U-Hg excretion ( p < 0.001 ) .
+CONCLUSIONS One single measure of amalgam exposure is insufficient .
+Studies of cumulative effects of mercury from amalgam exposure in children are likely to have improved validity and precision if time-sensitive amalgam exposure measures are used .
+In contrast , simple counts of current amalgam fillings are adequate to capture amalgam-related current U-Hg .

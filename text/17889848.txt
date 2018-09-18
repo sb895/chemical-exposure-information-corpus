@@ -1,0 +1,12 @@
+Amazonian gold mining activity results in human exposure to mercury vapor .
+We evaluated the visual system of two Amazonian gold miners ( 29 and 37 years old ) by recording the transient pattern electroretinogram ( tPERG ) and transient pattern visual evoked potential ( tPVEP ) .
+We compared these results with those obtained from a regional group of control subjects .
+For both tPERG and tPVEP , checkerboards with 0.5 or 2 cycles per degree ( cpd ) of spatial frequency were presented in a 16 degrees squared area , 100% Michelson contrast , 50cd/m2 mean luminance , and 1 Hz square-wave pattern-reversal presentation .
+Two averaged waveforms ( n=240 sweeps , 1s each ) were monocularly obtained for each subject in each condition .
+Both eyes were monocularly tested only in gold miners .
+Normative data were calculated using a final pooled waveform with 480 sweeps .
+The first gold miner , LCS , had normal tPERG responses .
+The second one , RNP , showed low tPERG ( P50 component ) amplitudes at 0.5 cpd for both eyes , outside the normative data , and absence of response at 2 cpd for his right eye .
+Delayed tPVEP responses ( P100 component ) were found at 2 cpd for LCS but the implicit times were inside the normative data .
+Subject RNP also showed delayed tPVEP responses ( all components ) , but only the implicit time obtained with his right eye was outside the normative data at 2 cpd .
+We conclude that mercury exposure levels found in the Amazon gold miners is high enough to damage the visual system and can be assessed by non-invasive electrophysiological techniques .

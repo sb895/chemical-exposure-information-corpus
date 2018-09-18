@@ -1,0 +1,8 @@
+Paper receipt has been documented as one major source of bisphenol A ( BPA ) for human exposure but little has been done by researchers to elaborate the potential health risk caused by handling paper receipt up to date .
+In the present study , BPA was analyzed in 42 supermarket receipts collected from Shenzhen , China .
+BPA was detected in all samples at concentrations ranging from 2.58 to 14.7mgg(-1) .
+In most cases , the total amount of BPA on the receipt was at least one thousand times the amount found in the epoxy lining of a food can , another controversial use of the chemical .
+The estimated daily intakes ( EDI ) of BPA via handling of supermarket receipt ranged from 2 to 347\u03bcgday(-1) ( mean , 40.4\u03bcgday(-1) ) for a supermarket cashier and from 0.24 to 3.98\u03bcgday(-1) ( mean , 0.69\u03bcgday(-1) ) for general population .
+Based on the cumulative probability distribution of the calculated daily exposure to BPA via handling supermarket receipt , the EDI at the 0.1th and 1th percentile for supermarket cashier and general population , were already larger than 100ng ( kgbw)(-1)day(-1 ) , while at the 0.2th and 71th percentile , the EDI for both populations reached 1000ng ( kgbw)(-1)day(-1 ) .
+Considering the adverse endocrine disruptive effects of BPA and the dosage exposure level ( from tens to hundreds ng ( kgbw)(-1)day(-1) ) , human exposure to BPA in Shenzhen deserves more attention .
+Sensitivity analysis result showed that the handling time and frequency of supermarket receipts are the most important variables that contributed to most of the total variance of exposure .

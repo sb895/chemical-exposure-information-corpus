@@ -1,0 +1,10 @@
+Polychlorinated biphenyls ( PCBs ) , dibenzo-p-dioxins ( PCDDs ) , and dibenzofurans ( PCDFs ) continue to be a worldwide public health concern due to their levels in the environment and humans , and associated adverse health effects .
+In animals , one of the most sensitive effects of physiologically significant body burdens has been the induction of cytochrome P450 1 ( CYP1 ) family of enzymes .
+This study examined the capacity of CYP1 enzyme induction to be a biomarker of exposure to a mixture of PCBs and PCDFs and of adverse human health effects .
+We followed a group of people highly exposed to PCBs and PCDFs due to accidental ingestion of contaminated rice oil , the Yucheng cohort .
+A total of 174 Yucheng and 134 control subjects were studied .
+The caffeine breath test , a monitor of CYP1A2 activity , was conducted , and its results were compared to serum levels of chemicals and the subjects ' medical history .
+Total dioxin serum toxic equivalency ( TEQ ) in the Yucheng cohort and their controls were 577 +/- 393 ppt lipid and 21 ppt lipid , respectively .
+CYP1A2 activity was elevated in Yucheng subjects more than 2-fold and correlated with serum TEQ ( R2= 0.62 ) .
+Manifestations like chloracne , fingernail abnormalities , and headaches were well predicted by P4501A2 activity .
+It is concluded that CYP1A2 induction seen in the Yucheng cohort is an excellent biomarker of exposure and human health effects in individual subjects and cohort .

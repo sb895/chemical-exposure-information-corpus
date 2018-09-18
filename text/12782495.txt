@@ -1,0 +1,11 @@
+We analyzed data from a prospective study of menstrual cycle function and early pregnancy loss to explore further the effects of trihalomethanes ( THM ) on reproductive end points .
+Premenopausal women ( (italic)n(/italic) = 403 ) collected urine samples daily during an average of 5.6 cycles for measurement of steroid metabolites that were used to define menstrual parameters such as cycle and phase length .
+Women were asked about consumption of various types of water as well as other habits and demographics .
+A THM level was estimated for each cycle based on residence and quarterly measurements made by water utilities during a 90-day period beginning 60 days before the cycle start date .
+We found a monotonic decrease in mean cycle length with increasing total THM ( TTHM ) level ; at > 60 microg/L , the adjusted decrement was 1.1 days [ 95% confidence interval ( CI ) , -1.8 to -0.40 ] , compared with less than or equal to 40 microg/L .
+This finding was also reflected as a reduced follicular phase length ( difference -0.94 day ; 95% CI , -1.6 to -0.24 ) .
+A decrement in cycle and follicular phase length of 0.18 days ( 95% CI , -0.29 to -0.07 ) per 10 microg/L unit increase in TTHM concentration was found .
+There was little association with luteal phase length , menses length , or cycle variability .
+Examining the individual THMs by quartile , we found the greatest association with chlorodibromomethane or the sum of the brominated compounds .
+Incorporating tap water consumption showed a similar pattern of reduced cycle length with increasing TTHM exposure .
+These findings suggest that THM exposure may affect ovarian function and should be confirmed in other studies .

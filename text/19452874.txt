@@ -1,0 +1,8 @@
+Perfluorooctane sulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) are globally distributed , persistent , toxic , and are found in human blood and serum .
+Exposure pathways are not well characterized .
+To better understand indoor dust ingestion as a potential pathway for human exposure , we determined the concentrations of these compounds in dust collected from 10 houses , 38 apartments , 10 day care centers , 10 offices , and 5 cars .
+Samples were prepared using a rapid extraction and cleanup method and analyzed using LC-MS/MS .
+PFOS and PFOA were found in dust samples from all microenvironments and their concentrations were significantly positively correlated to each other .
+Highest median concentrations were seen in offices ( PFOS : 110 ng/g dry weight ) and apartments ( PFOA : 93 ng/g dw ) .
+Adult and toddler dust ingestion exposures were estimated and compared to dietary exposure data from Canada and Spain .
+Results show that diet is the most important exposure route , but in a worst case scenario , dust ingestion may also be significant .

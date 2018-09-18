@@ -1,0 +1,8 @@
+Inorganic arsenic ( i-As ) is an environmental carcinogen to which millions of people are chronically exposed mainly via drinking water .
+In this study , we used the comet assay to evaluate DNA damage in i-As-exposed inhabitants of the north of Mexico .
+The environmental monitoring and the exposure assessment were done by measuring both drinking water arsenic ( As ) content and total urinary As .
+In addition , the studied population was genetically characterized for four different glutathione S-transferase omega1 ( GSTO1 ) polymorphisms ( Ala140Asp , Glu155del , Glu208Lys , and Ala236Val ) and the As ( +3 oxidation state ) methyltransferase ( AS3MT ) Met287Thr polymorphism to determine whether such variants influence As-related genotoxicity .
+As content in the drinking water of the population was found to range between 1 and 187 microg/l , with a mean concentration value of 16 microg/l .
+The total urinary As content of the exposed individuals was found to be correlated with the As content in drinking water , and subjects were classified as low ( < 30 microg As/g creatinine ) , medium ( 31-60 microg As/g creatinine ) , and highly exposed ( > 61 microg As/g creatinine ) .
+A positive association was found between the level of exposure and the genetic damage measured as percentage of DNA in tail ( p < 0.001 ) , and AS3MT Met287Thr was found to significantly influence the effect ( p < 0.034 ) among children carrying the 287Thr variant allele .
+Altogether , our results evidenced that people living in As-contaminated areas are at risk and that AS3MT genetic variation may play an important role modulating such risk in northern Mexico , especially among children .

@@ -1,0 +1,13 @@
+BACKGROUND Hormonally active environmental agents have been measured among U.S. children using exposure biomarkers in urine .
+However , little is known about their variation by race , age , sex , and geography , and no data exist for newly developed biomarkers .
+OBJECTIVE Our goal was to characterize relevant , prevalent exposures for a study of female pubertal development .
+METHODS In a pilot study among 90 girls from New York City , New York , Cincinnati , Ohio , and northern California , we measured 25 urinary analytes representing 22 separate agents from three chemical families : phytoestrogens , phthalates , and phenols .
+Exposures occur chiefly from the diet and from household or personal care products .
+RESULTS Participants represented four racial/ethnic groups ( Asian , black , Hispanic , white ) , with mean age of 7.77 years .
+Most analytes were detectable in > 94% of samples .
+The highest median concentrations for individual analytes in each family were for enterolactone ( 298 microg/L ) , monoethylphthalate ( MEP ; 83.2 microg/L ) , and benzophenone-3 ( BP3 ; 14.7 microg/L ) .
+Few or no data have been reported previously for four metabolites : mono(2-ethyl-5-carboxypentyl) phthalate , tridosan , bisphenol A ( BPA ) , and BP3 ; these were detected in 67-100% of samples with medians of 1.8-53.2 microg/L .
+After multivariate adjustment , two analytes , enterolactone and BPA , were higher among girls with body mass index < 85th reference percentile than those at or above the 85th percentile .
+Three phthalate metabolites differed by race/ethnicity [ MEP , mono(2-ethylhexyl) phthalate , and mono-3-carboxypropylphthalate ] .
+CONCLUSIONS A wide spectrum of hormonally active exposure biomarkers were detectable and variable among young girls , with high maximal concentrations ( > 1,000 microg/L ) found for several analytes .
+They varied by characteristics that may be relevant to development .

@@ -1,0 +1,12 @@
+BACKGROUND Prenatal bisphenol A ( BPA ) exposure may be associated with developmental toxicity , but few studies have examined the variability and predictors of urinary BPA concentrations during pregnancy .
+OBJECTIVE Our goal was to estimate the variability and predictors of serial urinary BPA concentrations taken during pregnancy .
+METHODS We measured BPA concentrations during pregnancy and at birth in three spot urine samples from 389 women .
+We calculated the intraclass correlation coefficient ( ICC ) to assess BPA variability and estimated associations between log10-transformed urinary BPA concentrations and demographic , occupational , dietary , and environmental factors , using mixed models .
+RESULTS Geometric mean ( GM ) creatinine-standardized concentrations ( micrograms per gram ) were 1.7 ( 16 weeks ) , 2.0 ( 26 weeks ) , and 2.0 ( birth ) .
+Creatinine-standardized BPA concentrations exhibited low reproducibility ( ICC = 0.11 ) .
+By occupation , cashiers had the highest BPA concentrations ( GM : 2.8 \u03bcg/g ) .
+Consuming canned vegetables at least once a day was associated with higher BPA concentrations ( GM = 2.3 \u03bcg/g ) compared with those consuming no canned vegetables ( GM = 1.6 \u03bcg/g ) .
+BPA concentrations did not vary by consumption of fresh fruits and vegetables , canned fruit , or store-bought fresh and frozen fish .
+Urinary high-molecular-weight phthalate and serum tobacco smoke metabolite concentrations were positively associated with BPA concentrations .
+CONCLUSIONS These results suggest numerous sources of BPA exposure during pregnancy .
+Etiological studies may need to measure urinary BPA concentrations more than once during pregnancy and adjust for phthalates and tobacco smoke exposures .

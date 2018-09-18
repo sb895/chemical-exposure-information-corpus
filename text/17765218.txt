@@ -1,0 +1,12 @@
+Ambient , indoor , and personal PM2.5 concentrations were assessed based on an exhaustive study of PM2.5 performed in Ohio from 1999 to 2000 .
+Locations in Columbus , one in an urban corridor and the other in a suburban area were involved .
+A third rural location in Athens , Ohio , was also established .
+At all three locations , elementary schools were utilized to determine outdoor , indoor , and personal PM2.5 concentrations for fourth and fifth grade students using filter-based measurements .
+Three groups of 30 students each were used for personal sampling at each school .
+Continuous ambient PM2.5 mass concentrations were also measured with tapered element oscillating microbalances ( TEOMs ) .
+At all three sites , personal and indoor PM2.5 concentrations exceeded outdoor levels .
+This trend is consistent on all week days and most evident in the spring as compared to fall and winter .
+The ambient PM2.5 concentrations were similar among the three sites , suggesting the existence of a common regional source influence .
+At all the three sites , larger variations were found in personal and indoor PM2.5 than ambient levels .
+The strongest correlations were found between indoor and personal concentrations , indicating that personal PM2.5 exposures were significantly affected by indoor PM2.5 than by ambient PM2.5 .
+This was further confirmed by the indoor to outdoor ( I/O ) ratios of PM2.5 concentrations , which were greater when school was in session than non-school days when the students were absent .

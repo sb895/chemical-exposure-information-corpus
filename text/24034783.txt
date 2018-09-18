@@ -1,0 +1,12 @@
+BACKGROUND There is limited research examining the relationship between lead ( Pb ) exposure and medically diagnosed attention deficit hyperactivity disorder ( ADHD ) in children .
+The role of mercury ( Hg ) and cadmium ( Cd ) exposures in ADHD development is even less clear .
+OBJECTIVES To examine the relationship between Pb , Hg , and Cd and ADHD in children living inside and outside a Lead Investigation Area ( LIA ) of a former lead refinery in Omaha , NE .
+METHODS We carried out a case-control study with 71 currently medically diagnosed ADHD cases and 58 controls from a psychiatric clinic and a pediatric clinic inside and outside of the LIA .
+The participants were matched on age group ( 5-8 , 9-12 years ) , sex , race ( African American or Caucasians and others ) , and location ( inside or outside LIA ) .
+We measured whole blood Pb , total Hg , and Cd using inductively coupled plasma mass spectrometry .
+RESULTS Inside the LIA , the 27 cases had blood Pb geometric mean ( GM ) 1.89 µg/dL and the 41 controls had 1.51 µg/dL .
+Outside the LIA , the 44 cases had blood Pb GM 1.02 µg/dL while the 17 controls had 0.97 µg/dL .
+After adjustment for matching variables and maternal smoking , socioeconomic status , and environmental tobacco exposure , each natural log unit blood Pb had an odds ratio of 2.52 with 95% confidence interval of 1.07-5.92 .
+Stratification by the LIA indicated similar point estimate but wider CIs .
+No associations were observed for Hg or Cd .
+CONCLUSIONS Postnatal Pb exposure may be associated with higher risk of clinical ADHD , but not the postnatal exposure to Hg or Cd .

@@ -1,0 +1,12 @@
+BACKGROUND Concern persists over endocrine disrupting effects of persistent organic pollutants ( POPs ) on human growth and sexual maturation .
+Potential effects of toxicant exposures on testosterone levels during puberty are not well characterized .
+OBJECTIVES This study evaluates the relationship between toxicants ( polychlorinated biphenyls ( PCBs ) , dichlorodiphenyldichloroethylene ( p,p'-DDE ) , hexachlorobenzene ( HCB ) , and lead ( Pb ) , and testosterone levels among 127 Akwesasne Mohawk males 10 to < 17 years of age with documented toxicant exposures .
+METHODS Data were collected between February 1996 and January 2000 .
+Fasting blood specimens were collected before breakfast by trained Akwesasne Mohawk staff .
+Multivariable regression models were used to estimates associations between toxicants and serum testosterone , adjusted for other toxicants , Tanner stage , and potential confounders .
+RESULTS The sum of 16 PCB congeners ( \u03a316PCBs ) that were detected in \u2265 50% of the population was significantly and negatively associated with serum testosterone levels , such that a 10% change in exposure was associated with a 5.6% decrease in testosterone ( 95% CI : -10.8 , -0.5% ) .
+Of the 16 congeners , the more persistent ones ( \u03a38PerPCBs ) were related to testosterone while the less persistent ones , possibly reflecting more recent exposure , were not .
+When PCB congeners were sub-grouped , the association was significant for the sum of 8 more persistent PCBs ( 5.7% decrease ; 95% CI : -11 , -0.4% ) , and stronger than the sum of 6 less persistent congeners ( 3.1% decrease ; 95% CI : -7.2 , 0.9%). p,p'-DDE was positively , but not significantly associated with serum testosterone ( 5.2% increase with a 10% increase in exposure ; 95% CI : -0.5 , 10.9% ) .
+Neither Pb nor HCB was significantly associated with testosterone levels .
+CONCLUSIONS Exposure to PCBs , particularly the more highly persistent congeners , may negatively influence testosterone levels among adolescent males .
+The positive relationship between p,p'-DDE and testosterone indicates that not all POPs act similarly .

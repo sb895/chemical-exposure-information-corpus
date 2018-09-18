@@ -1,0 +1,10 @@
+Bisphenol A ( BPA ) is a chemical in widespread use that is under scientific discussion due to its endocrine activity .
+Controversies exist about how to interpret reportedly high blood concentrations measured in uncontrolled situations .
+Physiologically based pharmaco-/toxicokinetic modelling resulted in 10-100-fold lower blood concentrations than those reported .
+Moreover , in controlled situations , BPA did not exceed the level of detection ( <0.3 ng/ml ) in human blood or urine .
+Using a validated human PBK model , this study investigated the influence of functionally relevant polymorphic UGT2B15 , the enzyme mediating BPA metabolism , on the BPA concentration-time profile in human blood .
+Maximum concentrations ( C(max) ) and areas under the curves ( AUCs ) in blood from high and low metabolisers differed by a factor of 4.7 and 4.6 , respectively ( doses : 1 and 0.05 \u03bcg/kg/day ) .
+Low metabolisers excreted a greater proportion of BPA via the sulphate pathway compared to high metabolisers .
+This finding explains why C(max) and AUC increased to a smaller extent , as predicted from in vitro data obtained with transfected cells possessing only the UGT2B15 variants .
+The highest C(max) value calculated in the subject with the lowest metabolic clearance was roughly 40 pg/ml , which is far lower than reported high blood concentrations , which in turn cannot be explained by genetically impaired UGT2B15 activity .
+From the risk assessment perspective , our results indicate that the traditional uncertainty factor is sufficient to account for the variability in the polymorphic glucuronidation of BPA .

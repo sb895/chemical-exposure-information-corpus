@@ -1,0 +1,14 @@
+In this study , we investigated the 2,4-dichlorophenoxyacetic acid ( 2,4-D ) herbicide exposures of 135 preschool-aged children and their adult caregivers at 135 homes in North Carolina ( NC ) and Ohio ( OH ) .
+Participants were randomly recruited from six NC and six OH counties .
+Monitoring was performed over a 48-h period at the participants ' homes .
+Environmental samples included soil , outdoor air , indoor air , and carpet dust .
+Personal samples collected by the adult caregivers concerning themselves and their children consisted of solid food , liquid food , hand wipe , and spot urine samples .
+All samples were analyzed for 2,4-D ( free acid form ) by gas chromatography/mass spectrometry. 2,4-D was detected in all types of environmental samples but most often in carpet dust samples , with detection frequencies of 83% and 98% in NC and OH , respectively .
+The median level of 2,4-D in the carpet dust samples was about three times higher in OH homes compared to NC homes ( 156 vs. 47.5 ng/g , P<0.0002 ) .
+For personal samples , 2,4-D was more frequently detected in the hand wipe samples from OH participants ( >48% ) than from NC participants ( <9% ) .
+Hand wipe levels at the 95th percentile were about five times higher for OH children ( 0.1 ng/cm(2) ) and adults ( 0.03 ng/cm(2) ) than for the NC children ( 0.02 ng/cm(2) ) and adults ( <0.005 ng/cm(2)). 2,4-D was detected in more than 85% of the child and adult urine samples in both states .
+The median urinary 2,4-D concentration was more than twice as high for OH children compared to NC children ( 1.2 vs. 0.5 ng/ml , P<0.0001 ) ; however , the median concentration was identical at 0.7 ng/ml for both NC and OH adults .
+The intraclass correlation coefficient of reliability for an individual's urinary 2,4-D measurements , estimated from the unadjusted ( 0.31-0.62 ) and specific gravity-adjusted ( 0.37-0.73 ) values , were somewhat low for each group in this study .
+The variability in urinary 2,4-D measurements over the 48-h period for both children and adults in NC and OH suggests that several spot samples were needed to adequately assess these participants ' exposures to 2,4-D in residential settings .
+Results from this study showed that children and their adult caregivers in NC and OH were likely exposed to 2,4-D through several pathways at their homes .
+In addition , our findings suggest that the OH children might have been exposed to higher levels of 2,4-D through the dermal and nondietary routes of exposure than the NC children and the NC and OH adults .

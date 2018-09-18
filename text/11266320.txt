@@ -1,0 +1,8 @@
+As part of a large pilot investigation of multimedia exposure to several classes of environmental contaminants , the National Human Exposure Assessment Survey ( NHEXAS)-Maryland study , we collected 388 semiquantitative food checklists and duplicate diet solid food samples , analyzed for arsenic , cadmium , chromium , and lead concentrations , from 80 individuals in Maryland in 1995-1996 in a repeated measures design .
+Here we explore several methods to infer foods most strongly associated with concentrations of these metals observed in the duplicate diet in our data set .
+We employed two techniques in which logarithmically transformed metal concentrations in the duplicate diet were regressed on individual food item consumption using algorithms designed to identify the foods most associated with the observed duplicate diet concentrations .
+We also employed an alternative strategy in which foods to be used as independent variables in regression were selected using data collected in national food consumption and residue surveys , with regression procedures proceeding with the selected foods in a similar manner .
+The concordance of foods selected as major predictors among these three techniques is noteworthy and is discussed .
+Finally , the Dietary Exposure Potential Model ( DEPM ) was used with the Dietary Checklist data to predict duplicate diet concentrations within our sample .
+A comparison between the predicted values and those observed gave R(2) values of 0.180 , 0.206 , and 0.076 for As , Cd , and Pb , respectively ( p < 0.0001 in all cases ) .
+We discuss the significance of these observations and the implications for dietary-exposure-based risk analysis and dietary intake epidemiology .

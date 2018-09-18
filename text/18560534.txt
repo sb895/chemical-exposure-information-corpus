@@ -1,0 +1,10 @@
+BACKGROUND Environmental exposure to cadmium decreases bone density indirectly through hypercalciuria resulting from renal tubular dysfunction .
+OBJECTIVE We sought evidence for a direct osteotoxic effect of cadmium in women .
+METHODS We randomly recruited 294 women ( mean age , 49.2 years ) from a Flemish population with environmental cadmium exposure .
+We measured 24-hr urinary cadmium and blood cadmium as indexes of lifetime and recent exposure , respectively .
+We assessed the multivariate-adjusted association of exposure with specific markers of bone resorption , urinary hydroxylysylpyridinoline ( HP ) and lysylpyridinoline ( LP ) , as well as with calcium excretion , various calciotropic hormones , and forearm bone density .
+RESULTS In all women , the effect sizes associated with a doubling of lifetime exposure were 8.4% ( p=0.009 ) for HP , 6.9% ( p=0.10 ) for LP , 0.77 mmol/day ( p=0.003 ) for urinary calcium , -0.009 g/cm(2) ( p=0.055 ) for proximal forearm bone density , and -16.8% ( p=0.065 ) for serum parathyroid hormone .
+In 144 postmenopausal women , the corresponding effect sizes were -0.01223 g/cm(2) ( p=0.008 ) for distal forearm bone density , 4.7% ( p=0.064 ) for serum calcitonin , and 10.2% for bone-specific alkaline phosphatase .
+In all women , the effect sizes associated with a doubling of recent exposure were 7.2% ( p=0.001 ) for urinary HP , 7.2% ( p=0.021 ) for urinary LP , -9.0% ( p=0.097 ) for serum parathyroid hormone , and 5.5% ( p=0.008 ) for serum calcitonin .
+Only one woman had renal tubular dysfunction ( urinary retinol-binding protein >338 microg/day ) .
+CONCLUSIONS In the absence of renal tubular dysfunction , environmental exposure to cadmium increases bone resorption in women , suggesting a direct osteotoxic effect with increased calciuria and reactive changes in calciotropic hormones .

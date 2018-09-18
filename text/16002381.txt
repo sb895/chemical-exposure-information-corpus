@@ -1,0 +1,8 @@
+Biomarkers are often applied to assess prenatal exposure to methylmercury in research and surveillance .
+In a prospective study in the Faroe Islands , the main exposure biomarkers were the mercury concentrations in cord blood and maternal hair obtained at parturition .
+We have now supplemented these exposure biomarkers with mercury analyses of umbilical cord tissue from 447 births .
+In particular , when expressed in relation to the dry weight of the tissue , the cord mercury concentration correlated very well with that in cord blood .
+Structural equation model analysis showed that these two biomarkers have average total imprecision of about 30% , which is much higher than the laboratory error .
+The imprecision of the dry-weight-based concentration was lower than that of the wet-weight-based parameter , and it was intermediate between those of the cord blood and the hair biomarkers .
+In agreement with this finding , regression analyses showed that the dry-weight cord mercury concentration was almost as good a predictor of methylmercury-associated neuropsychologic deficits at 7 years of age as was the cord-blood mercury concentration .
+Cord mercury analysis can therefore be used as a valid measure of prenatal methylmercury exposure , but appropriate adjustment for the imprecision should be considered .

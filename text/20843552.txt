@@ -1,0 +1,12 @@
+INTRODUCTION Polyfluoroalkyl chemicals ( PFCs ) are commercially synthesized chemicals used in consumer products .
+Exposure to certain PFCs is widespread , and some PFCs may act as endocrine disruptors .
+We used data from the Avon Longitudinal Study of Parents and Children ( ALSPAC ) in the United Kingdom to conduct a nested case-control study examining the association between age at menarche , and exposure to PFCs during pregnancy .
+METHODS Cases were selected from female offspring in the ALSPAC who reported menarche before the age of 11.5 years ( n = 218 ) , and controls were a random sample of remaining girls ( n = 230 ) .
+Serum samples taken from the girls ' mothers during pregnancy ( 1991-1992 ) were analyzed using on-line solid-phase extraction coupled to isotope dilution high-performance liquid chromatography-tandem mass spectrometry for 8 PFCs .
+Logistic regression was used to determine association between maternal serum PFC concentrations , and odds of earlier age at menarche .
+RESULTS PFOS and PFOA were the predominant PFCs ( median serum concentrations of 19.8 ng/mL and 3.7 ng/mL ) .
+All but one PFC were detectable in most samples .
+Total PFC concentration varied by number of births ( inverse association with birth order ; p-value < 0.0001 ) and race of the child ( higher among whites ; p-value = 0.03 ) .
+The serum concentrations of carboxylates were associated with increased odds of earlier age at menarche ; concentrations of perfluorooctane sulfonamide , the sulfonamide esters and sulfonates were all associated with decreased odds of earlier age at menarche .
+However , all confidence intervals included the null value of 1.0 .
+CONCLUSIONS ALSPAC study participants had nearly ubiquitous exposure to most PFCs examined , but PFC exposure did not appear to be associated with altered age at menarche of their offspring .

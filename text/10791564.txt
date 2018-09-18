@@ -1,0 +1,8 @@
+The relation between trace element levels in drinking water and cognitive function was investigated in a population-based study of elderly residents ( n = 1,016 ) in rural China in 1996-1997 .
+Cognitive function was measured using a Chinese translation of the Community Screening Interview for Dementia .
+A mixed effects model was used to evaluate the effect of each of the elements on cognitive function while adjusting for age , sex , and educational level .
+Several of the elements examined had a significant effect on cognitive function when they were assessed in a univariate context .
+However , after adjustment for other elements , many of these results were not significant .
+There was a significant quadratic effect for calcium and a significant zinc-cadmium interaction .
+Cognitive function increased with calcium level up to a certain point and then decreased as calcium continued to increase .
+Zinc showed a positive relation with cognitive function at low cadmium levels but a negative relation at high levels .

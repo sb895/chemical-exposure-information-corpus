@@ -1,0 +1,10 @@
+PURPOSE The aim of this study was to design the optimized laboratory protocol as a tool for human biomonitoring of selected Persistent Organic Pollutants ( POPs ) in Poland .
+In this study , we present the method developed for the determination of 29 congeners of polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) and dioxin-like polychlorinated biphenyls ( dl-PCBs ) , as well as individual results of the measurements in 40 human breast milk samples collected in central Poland in 2008-2010 .
+METHODS The protocol of sample preparation and quantitative analysis of PCDD/Fs and dl-PCBs was optimized for the isotopic dilution method with high resolution gas chromatography/high resolution mass spectrometry HRGC/HRMS .
+Fat content in the extracts was determined gravimetrically .
+The results were corrected by fat content in the samples .
+RESULTS The average sum of PCDD/F and dl-PCBs in the human milk samples from the urban area was 7.429 WHO-TEQpg/g fat ( with the range 0.431-14.27 ) , and in the rural area it was 6.448pg WHO-TEQ/g fat ( 0.539-12.61 ) .
+CONCLUSIONS The results obtained in this study indicate that the mothers were exposed uniformly to PCDD/Fs and PCBs regardless of location .
+The significant difference of p<0.1 between the milk samples from the urban and rural mothers in 2,3,7,8-TCDD ; 1,2,37,8,9-HxCDD and 2,3,4,6,7-HxCDF were observed .
+For the other 14 PCDD/F and 12 dl-PCB congeners , the observed differences were not significant .
+The total WHO-TEQ values are lower in comparison with the average results in Europe from the fourth round of a WHO-coordinated study .

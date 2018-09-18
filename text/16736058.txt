@@ -1,0 +1,9 @@
+A study was conducted to address the question of how fish consumption , occupation , and outdoor air affected serum PCB concentrations and congener patterns among 139 Native American men living near three hazardous waste sites .
+They were interviewed about their residential , occupational , and dietary histories , and donated 20 ml of venous blood for congener-specific PCB analysis .
+The similarity in the congener pattern between that found in the serum and that detected in local environmental samples was measured by calculating the Euclidean distance between them .
+The results indicated that serum PCB concentrations were positively associated with cumulative lifetime exposures to PCBs from local fish consumption and occupation .
+However , participants who lived in the last 10 years at Raquette Point , which is the area of the Reserve closest to the hazardous waste sites and the only location where elevated levels of PCBs were found in outdoor air , did not have higher serum PCB concentrations than participants who lived elsewhere at Akwesasne .
+Regarding pattern matching , Mohawk men with the greatest cumulative lifetime exposure to PCBs from local fish consumption had a serum PCB congener pattern that more closely resembled that in fish caught off-shore from one of the hazardous waste sites than did men who ate less local fish .
+Similarly , Mohawk men who were occupationally exposed to PCBs were more likely than those without occupational exposure to have a serum PCB congener pattern that was similar to that of Aroclor 1248 , the commercial PCB mixture used locally .
+The serum PCB congener pattern of Raquette Point residents more closely resembled the pattern in outdoor air only if the men ate relatively few local fish .
+The study is among the first to demonstrate that outdoor air may affect serum PCB congener patterns , at least in the absence of heavy fish consumption .

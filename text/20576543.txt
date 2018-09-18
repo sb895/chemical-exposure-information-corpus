@@ -1,0 +1,10 @@
+Worldwide , approximately 30-50 millions of people are living in small scale gold mining areas and are primarily burdened by mercury vapour .
+In the frame of our study , 306 mercury ( Hg ) vapour burdened adults , working and/ or living in two small scale gold mining areas in Zimbabwe and Tanzania and 58 volunteers from near-by unburdened communities were medically investigated .
+In addition , blood , urine and hair samples from each participant were analyzed for mercury .
+Altogether , 26 anamnestic and 24 clinical signs and symptoms , which may be caused by Hg vapour , were evaluated .
+Multivariate analysis was performed to investigate the influence of the mercury concentration in the bio-monitors on the evaluated anamnestic and clinical signs and symptoms taking into account age , gender , health status , alcohol consumption , use of pesticides and gasoline sniffing .
+Out of the resulting correlations between concentration and effect , ROC-curves were calculated to determine best estimates of the cut-off-values in the bio monitors .
+For the parameters ataxia of gait and sadness cut-off-values of 4.7 and 3.6 microg Hg/g crea in urine were calculated .
+These values were converted to a rounded LOAEL of 3.5 microg Hg vapour/m(3) air .
+In analogy to the US EPA Report ( U.S .
+Environmental Protection Agency 1997 ) and the European Position Paper ( Pirrone et al. 2001 ) , uncertainty factors of 30 and 50 were applied , resulting in a proposed reference concentration ( RfC ) in ambient air of 0.1 microg Hg vapour/m(3) and 0.07 microg Hg vapour/m(3) , respectively .

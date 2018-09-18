@@ -1,0 +1,9 @@
+Exposure to air pollution during pregnancy has been linked to the risk of childhood cancer , but the evidence remains inconclusive .
+In the present study , we used land use regression modeling to estimate prenatal exposures to traffic exhaust and evaluate the associations with cancer risk in very young children .
+Participants in the Air Pollution and Childhood Cancers Study who were 5 years of age or younger and diagnosed with cancer between 1988 and 2008 were had their records linked to California birth certificates , and controls were selected from birth certificates .
+Land use regression-based estimates of exposures to nitric oxide , nitrogen dioxide , and nitrogen oxides were assigned based on birthplace residence and temporally adjusted using routine monitoring station data to evaluate air pollution exposures during specific pregnancy periods .
+Logistic regression models were adjusted for maternal age , race/ethnicity , educational level , parity , insurance type , and Census-based socioeconomic status , as well as child's sex and birth year .
+The odds of acute lymphoblastic leukemia increased by 9% , 23% , and 8% for each 25-ppb increase in average nitric oxide , nitrogen dioxide , and nitrogen oxide levels , respectively , over the entire pregnancy .
+Second- and third-trimester exposures increased the odds of bilateral retinoblastoma .
+No associations were found for annual average exposures without temporal components or for any other cancer type .
+These results lend support to a link between prenatal exposure to traffic exhaust and the risk of acute lymphoblastic leukemia and bilateral retinoblastoma .

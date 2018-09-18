@@ -1,0 +1,9 @@
+Glycol ethers are a class of semi-volatile substances used as solvents in a variety of consumer products like cleaning agents , paints , cosmetics as well as chemical intermediates .
+We determined 11 metabolites of ethylene and propylene glycol ethers in 44 urine samples of German residents ( background level study ) and in urine samples of individuals after exposure to glycol ethers during cleaning activities ( exposure study ) .
+In the study on the background exposure , methoxyacetic acid and phenoxyacetic acid ( PhAA ) could be detected in each urine sample with median ( 95th percentile ) values of 0.11 mgL(-1) ( 0.30 mgL(-1) ) and 0.80 mgL(-1) ( 23.6 mgL(-1) ) , respectively .
+The other metabolites were found in a limited number of samples or in none .
+In the exposure study , 5-8 rooms were cleaned with a cleaner containing ethylene glycol monobutyl ether ( EGBE ) , propylene glycol monobutyl ether ( PGBE ) , or ethylene glycol monopropyl ether ( EGPE ) .
+During cleaning the mean levels in the indoor air were 7.5 mgm(-3) ( EGBE ) , 3.0 mgm(-3) ( PGBE ) , and 3.3 mgm(-3) ( EGPE ) , respectively .
+The related metabolite levels analysed in the urine of the residents of the rooms at the day of cleaning were 2.4 mgL(-1) for butoxyacetic acid , 0.06 mgL(-1) for 2-butoxypropionic acid , and 2.3 mgL(-1) for n-propoxyacetic acid .
+Overall , our study indicates that the exposure of the population to glycol ethers is generally low , with the exception of PhAA .
+Moreover , the results of the cleaning scenarios demonstrate that the use of indoor cleaning agents containing glycol ethers can lead to a detectable internal exposure of residents .

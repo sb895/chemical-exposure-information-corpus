@@ -1,0 +1,12 @@
+CONTEXT Private wells that tap groundwater are largely exempt from federal drinking-water regulations , and in most states well water is not subject to much of the mandatory testing required of public water systems .
+Families that rely on private wells are thus at risk of exposure to a variety of unmeasured contaminants .
+CASE PRESENTATION A family of seven--two adults and five children--residing in rural northwestern Connecticut discovered elevated concentrations of uranium in their drinking water , with levels measured at 866 and 1,160 microg/L , values well above the U.S. Environmental Protection Agency maximum contaminant level for uranium in public water supplies of 30 microg/L .
+The uranium was of natural origin , and the source of exposure was found to be a 500-foot well that tapped groundwater from the Brookfield Gneiss , a geologic formation known to contain uranium .
+Other nearby wells also had elevated uranium , arsenic , and radon levels , though concentrations varied widely .
+At least one 24-hr urine uranium level was elevated ( > 1 microg/24 hr ) in six of seven family members ( range , 1.1-2.5 microg/24 hr ) .
+To assess possible renal injury , we measured urinary beta-2-microglobulin .
+Levels were elevated ( > 120 microg/L ) in five of seven family members , but after correction for creatine excretion , the beta-2-microglobulin excretion rate remained elevated ( > 40 microg/mmol creatinine ) only in the youngest child , a 3-year-old with a corrected level of 90 microg/mmol creatinine .
+Three months after cessation of well water consumption , this child's corrected beta-2-microglobulin level had fallen to 52 microg/mmol creatinine .
+SIGNIFICANCE This case underscores the hazards of consuming groundwater from private wells .
+It documents the potential for significant residential exposure to naturally occurring uranium in well water .
+It highlights the special sensitivity of young children to residential environmental exposures , a reflection of the large amount of time they spend in their homes , the developmental immaturity of their kidneys and other organ systems , and the large volume of water they consume relative to body mass .

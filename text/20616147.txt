@@ -1,0 +1,9 @@
+Although shortened telomeres have been found in many cancers , elongated telomere length has been observed as an early response after low-dose treatment with various chemical carcinogens in vitro and animal experiments , suggesting low-dose exposure to carcinogenic chemicals may function as a tumour promoter at the very early stage of carcinogenesis in humans .
+This cross-sectional study was performed to examine whether low-dose exposure to persistent organic pollutants ( POPs ) , lipophilic xenobiotics that mainly bioaccumulate in adipose tissue , is associated with telomere length of peripheral blood leukocytes in apparently healthy persons .
+Telomere length was measured using quantitative polymerase chain reaction method in 84 apparently healthy Koreans .
+Among various POPs , serum concentrations of organochlorine ( OC ) pesticides , polychlorinated biphenyls ( PCBs ) and polybrominated diphenylethers were measured .
+Most OC pesticides and PCBs were positively and significantly associated with telomere length with correlation coefficients from about +0.25 to +0.35 .
+The strongest associations were observed with p,p'-dichlorodiphenyldichloroethylene , PCB99 , PCB153 , PCB180 , PCB183 and PCB187 .
+When we examined adjusted means of telomere length by quintiles of POPs , the steeper increases of telomere length tended to be observed within relatively lower ranges of POPs .
+Besides serum concentrations of POPs , none of the other variables studied , including age , were associated with telomere length in this study .
+We found that telomere length was increasing across low doses of exposure to POPs in which the majority of study subjects were found , suggesting that low-dose POPs may act as a tumour promoter in carcinogenesis in humans .

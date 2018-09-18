@@ -1,0 +1,15 @@
+CONTEXT No randomized trials have been published that address the concern that inhalation of mercury vapor released by amalgam dental restorations causes adverse health effects .
+OBJECTIVE To compare the neuropsychological and renal function of children whose dental caries were restored using amalgam or mercury-free materials .
+DESIGN AND SETTING The New England Children's Amalgam Trial was a 2-group randomized safety trial involving 5 community health dental clinics in Boston , Mass , and 1 in Farmington , Me , between September 1997 and March 2005 .
+PARTICIPANTS AND INTERVENTION A total of 534 children aged 6 to 10 years at baseline with no prior amalgam restorations and 2 or more posterior teeth with caries were randomly assigned to receive dental restoration of baseline and incident caries during a 5-year follow-up period using either amalgam ( n=267 ) or resin composite ( n =267 ) materials .
+MAIN OUTCOME MEASURES The primary neuropsychological outcome was 5-year change in full-scale IQ scores .
+Secondary outcomes included tests of memory and visuomotor ability .
+Renal glomerular function was measured by creatinine-adjusted albumin in urine .
+RESULTS Children had a mean of 15 tooth surfaces ( median , 14 ) restored during the 5-year period ( range , 0-55 ) .
+Assignment to the amalgam group was associated with a significantly higher mean urinary mercury level ( 0.9 vs 0.6 microg/g of creatinine at year 5 , P<.001 ) .
+After adjusting for randomization stratum and other covariates , no statistically significant differences were found between children in the amalgam and composite groups in 5-year change in full-scale IQ score ( 3.1 vs 2.1 , P = .21 ) .
+The difference in treatment group change scores was 1.0 ( 95% confidence interval , -0.6 to 2.5 ) full-scale IQ score point .
+No statistically significant differences were found for 4-year change in the general memory index ( 8.1 vs 7.2 , P = .34 ) , 4-year change in visuomotor composite ( 3.8 vs 3.7 , P = .93 ) , or year 5 urinary albumin ( median , 7.5 vs 7.4 mg/g of creatinine , P = .61 ) .
+CONCLUSIONS In this study , there were no statistically significant differences in adverse neuropsychological or renal effects observed over the 5-year period in children whose caries were restored using dental amalgam or composite materials .
+Although it is possible that very small IQ effects cannot be ruled out , these findings suggest that the health effects of amalgam restorations in children need not be the basis of treatment decisions when choosing restorative dental materials .
+TRIAL REGISTRATION clinicaltrials.gov Identifier : NCT00065988 .

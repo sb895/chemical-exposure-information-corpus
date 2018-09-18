@@ -1,0 +1,10 @@
+Perfluoroalkyl acids ( PFAAs ) are persistent , synthetic compounds that are used in a number of consumer products .
+Perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) have been associated with cardiovascular risk factors , and changes in gene expression and DNA methylation in animals and cellular systems .
+However , whether PFAA exposure is associated with LINE-1 DNA methylation , a potential marker of cardiovascular risk , in humans remains unknown .
+We sought to evaluate the cross-sectional associations between serum PFAAs and LINE-1 DNA methylation in a population highly exposed to PFOA .
+We measured serum PFAAs twice four to five years apart in 685 adult participants ( 47% male , mean age±SD=42±11years ) .
+We measured percent LINE-1 DNA methylation in peripheral blood leukocytes at the second time point ( follow-up ) , and estimated absolute differences in LINE-1 methylation associated with an interquartile ( IQR ) shift in mean PFAA serum levels .
+IQR increases in mean serum PFOA , PFOS , perfluorononanoic acid ( PFNA ) , and perfluorohexane sulfonate ( PFHxS ) were associated with differences of -0.04 ( p=0.16 ) , 0.20 ( p=0.001 ) , 0.06 ( p=0.19 ) , and 0.02 ( p=0.57 ) , respectively , in % LINE-1 methylation at follow-up after adjustment for potential confounders .
+We observed a monotonic increase in LINE-1 DNA methylation across tertiles of PFOS and PFNA ( ptrend=0.02 for both associations ) , but not across tertiles of PFOA or PFHxS ( ptrend=0.71 and 0.44 , respectively ) .
+In summary , serum PFOS was associated with LINE-1 methylation , while serum PFOA , PFHxS , and PFNA were not .
+Additional research is needed to more precisely determine whether these compounds are epigenetically active .

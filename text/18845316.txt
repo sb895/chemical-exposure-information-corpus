@@ -1,0 +1,8 @@
+OBJECTIVES This study is to examine the effect of cadmium exposure on blood pressure in Korean general population .
+METHODS The study population consisted of 958 men and 944 women who participated in the 2005 Korean National Health and Nutrition Examination Survey ( KNHANES ) , in which blood pressure and blood cadmium were measured from each participant .
+RESULTS The mean blood cadmium level was 1.67 microg/L ( median level 1.55 ) .
+The prevalence of hypertension was 26.2% .
+The blood cadmium level was significantly higher among those subjects with hypertension than those without ( mean level 1.77 versus 1.64 microg/dL ) .
+After adjusting for covariates , the odds ratio of hypertension comparing the highest to the lowest tertile of cadmium in blood was 1.51 ( 95% confidence interval 1.13 to 2.05 ) , and a dose-response relationship was observed .
+Systolic , diastolic , and mean arterial blood pressure were all positively associated with blood cadmium level , and this effect of cadmium on blood pressure was markedly stronger when the kidney function was reduced .
+CONCLUSIONS Cadmium exposures at the current level may have increased the blood pressure of Korean general population .

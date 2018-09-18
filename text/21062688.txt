@@ -1,0 +1,9 @@
+OBJECTIVE Potential neurotoxic effects of perfluorinated compounds ( PFCs ) have been reported in highly exposed animals , but whether these chemicals are neurotoxic in humans is not known .
+We therefore investigated whether prenatal exposure to perfluorooctanoic acid ( PFOA ) or perfluorooctane sulfate ( PFOS ) , two of the most prevalent PFCs , are associated with behavioral or coordination problems in early childhood .
+METHODS We used data from the Danish National Birth Cohort , which enrolled mothers in early pregnancy , and we measured maternal blood levels of PFOA and PFOS using specimens drawn around 8 weeks of gestation .
+When the children reached 7 years of age , mothers completed the Strengths and Difficulties Questionnaire ( SDQ , n=787 ) and the Developmental Coordination Disorder Questionnaire ( DCDQ , n=526 ) to assess behavioral health and motor coordination of their children .
+SDQ scores above the 90th percentile were a priori defined to identify behavioral problems and DCDQ scores below the 10th percentile were defined as a potential DCD .
+RESULTS The median concentrations of PFOS and PFOA in maternal blood were 34.4 ng/mL [ interquartile range ( IQR ) , 26.6-44.5 ] and 5.4 ng/mL ( IQR , 4.0-7.1 ) , respectively , similar to distributions reported for populations without occupational exposure .
+We found no association between higher SDQ scores and maternal levels of PFOS or PFOA , nor did we see any statistically significant association with motor coordination disorders .
+CONCLUSION The findings suggest that background levels of PFOA and PFOS are not associated with behavioral and motor coordination problems in childhood .
+However , effects on other developmental end points , including cognitive , attentional , and clinical mental disorders not measured in this study , cannot be ruled out .

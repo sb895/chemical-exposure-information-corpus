@@ -1,0 +1,14 @@
+OBJECTIVE The purpose of this study was to evaluate the relevance of inhalational and dermal exposure to solvents in shipyard spray painters .
+Special emphasis was placed on the spatial distribution of dermal exposure and absorption across different regions of the body .
+METHODS Fifteen male spray painters were recruited for this study .
+The subjects were monitored during a 3-day work period using a repeated-measures study design .
+Air and dermal exposure of solvents were collected each day .
+Urine was collected before and after the work shift .
+RESULTS Air samples showed that the workers were primarily exposed to ethylbenzene and xylene .
+The concentrations of ethylbenzene and xylene outside the workers ' masks were 59.2 +/- 10.4 ( mean +/- standard error [ SE] ) ppm and 29.4 +/- 4.70 ppm , whereas those inside the masks were 7.91 +/- 17.4 ppm and 3.83 +/- 8.22 ppm , respectively .
+The average mass of ethylbenzene and xylene across the different body regions inside the block units of assembled ships were 305.1 +/- 63.9 mg and 165.6 +/- 34.1 mg .
+The quantity was , on average , 5.8 and 5.1 times higher than those collected outside the blocks .
+In both measurements , the highest exposure mass was found on the upper legs , and the lowest exposure mass was found on the back .
+Principal component analysis ( PCA ) was used to transform the variables of dermal exposure for all investigated body regions into only one principal component .
+Multiple regression analyses revealed a significant relationship between dermal exposure to xylene ( PCA dermal xyl ) and urinary methylhippuric acid ( MHA ) levels , adjusting for air xylene exposure ( R2=0.491 , P<0.05 ) .
+CONCLUSIONS :The present study indicated that dermal exposure to xylene significantly increased the urinary levels of MHA , suggesting that dermal exposure to solvents was an important route among spray painters .

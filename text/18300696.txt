@@ -1,0 +1,12 @@
+BACKGROUND Although welding fume exposure is associated with adverse cardiovascular outcomes , the mechanisms remain unclear .
+To investigate the role of vascular function , we assessed levels of the augmentation index ( a correlate of arterial stiffness ) after short-term exposure to welding-derived fine particulate matter ( PM2.5 ) .
+METHODS In a panel study , we monitored 26 male welders over 24 hours on a welding day ( n = 25 ) , a non-welding day ( n = 15 ) , or both ( n = 14 ) .
+Augmentation index ( expressed as a percent ) was obtained in the morning before exposure ( baseline ) and after exposure in the afternoon and the following morning .
+Personal PM2.5 exposure was measured over 6 hours of welding or an equivalent non-welding period .
+We used linear mixed models adjusting for baseline augmentation index , smoking , age , and time to evaluate the effects of welding ( binary ) and PM2.5 ( continuous ) on augmentation index levels .
+We also assessed modification by welding exposure the day before monitoring ( binary ) .
+RESULTS Welding was associated with a 2.8% increase in afternoon augmentation index ( 95% confidence interval = -1.4 to 7.0 ) and a 2.4% decrease ( -6.9 to 2.2 ) in next-morning augmentation index .
+Additional exposure the day prior to monitoring was associated with a greater afternoon increase ( 5.1% ; 0.8 to 9.5 ) .
+Using PM2.5 concentration , a positive association was observed in the afternoon and an inverse association the next morning ; results differed by previous day's welding status after excluding outliers .
+CONCLUSIONS Subsequent to welding fume exposure , there is an increase in afternoon augmentation index and a decrease in next-morning augmentation index , with greater changes after consecutive days of exposure .
+These results suggest that exposure to the PM2.5 component of welding fume elicits acute adverse vascular responses .

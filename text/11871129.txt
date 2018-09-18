@@ -1,0 +1,7 @@
+The levels of 20 dioxin congeners , 7 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) and three coplanar polychlorinated biphenyls ( Co-PCBs ) , in bile were examined in comparison with those in the blood and liver , in 27 autopsy cases .
+Total-TEQ values were the same in the bile ( 43.2 +/- 30.9 pg TEQ/g lipid ) and blood ( 43.1 +/- 24.2 pg TEQ/g lipid ) , and three times higher in the liver ( 127.8 +/- 57.4 pg TEQ/g lipid ) .
+Highly chlorinated PCDDs and PCDFs have a tendency to accumulate in the liver , and their levels in bile and blood were relatively low compared with those in the liver , with 1,2,3,4,6,7,8-heptachlorodibenzofuran having the highest tendency among the 20 congeners .
+Daily excretion in bile was calculated to be 54 pg TEQ at age 65 , by assuming that daily bile secretion is 750 ml and is concentrated 7.5-fold in the gallbladder .
+The correlation between bile and blood total-TEQ was high , with a correlation coefficient of 0.89 among the 27 autopsy cases .
+Thus , the regression equation of y = 1.14x - 6.02 will provide us levels in bile ( total TEQ per g lipid ) , knowing the blood total-TEQ level , where x is total-TEQ per g lipid of the blood .
+Furthermore , accumulation of dioxins was estimated to be 0.99 , 0.70 and 1.91 pg TEQ/g lipid/year in bile , blood and liver , respectively .

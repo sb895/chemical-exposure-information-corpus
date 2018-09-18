@@ -1,0 +1,14 @@
+Drinking of arsenic ( As ) contaminated well water has become a serious threat to the health of many millions in Bangladesh .
+However , the implications of contamination of agricultural soils from long-term irrigation with As-contaminated groundwater for phyto-accumulation in food crops , and thence dietary exposure to As , and other metals , has not been assessed previously in Bangladesh .
+Various vegetables were sampled in Samta village in the Jessore district of Bangladesh , and screened for As , Cd , Pb , Cu and Zn by inductively coupled plasma emission spectrometry ( ICP-AES ) and inductively coupled plasma mass spectrometry ( ICP-MS ) .
+These local food products are the basis of human nutrition in this region and of great relevance to human health .
+The results revealed that the individual vegetables containing the highest mean As concentrations microg x g(-1) ) are snake gourd ( 0.489 ) , ghotkol ( 0.446 ) , taro ( 0.440 ) , green papaya ( 0.389 ) , elephant foot ( 0.338 ) and Bottle ground leaf ( 0.306 ) , respectively .
+The As concentration in fleshy vegetable material is low .
+In general , the data show the potential for some vegetables to accumulate heavy metals with concentrations of Pb greater than Cd .
+Some vegetables such as bottle ground leaf , ghotkol , taro , eddoe and elephant foot had much higher concentrations of Pb .
+Other leafy and root vegetables , contained higher concentrations of Zn and Cu .
+Bioconcentration factors ( BCF ) values , based on dry weight , were below 1 for all metals .
+In most cases , BCF values decreased with increasing metal concentrations in the soil .
+From the heavily As-contaminated village in Samta , BCF values for As in ladies finger , potato , ash gourd , brinjal , green papaya , ghotkol and snake gourd were 0.001 , 0.006 , 0.006 , 0.014 , 0.030 , 0.034 and 0.038 , respectively .
+Considering the average daily intake of fresh vegetables per person per day is only 130 g , all the vegetables grown at Samta had Pb concentrations that would be a health hazard for human consumption .
+Although the total As in the vegetables was less than the recommended maximum intake of As , it still provides a significant additional source of As in the diet .

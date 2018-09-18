@@ -1,0 +1,7 @@
+The sources of human exposure to bisphenol A ( BPA ) are not well characterized .
+Little is known about the presence of BPA in paper products , especially in paper currencies , and its implications for human exposure .
+In this work , paper currencies from 21 countries ( N = 156 ) were analyzed for BPA , which was measured in 19 mm punches taken from three spots on the paper currencies .
+BPA was found in all paper currencies at concentrations ranging from 0.001 to 82.7 \u03bcg/g ( mean 4.94 ; median 1.02 ) and the concentrations in samples taken from the middle portion of the currencies were higher than those taken from peripheral portions .
+We also examined the transfer of BPA from thermal receipt paper to currencies by placing currencies in contact with thermal receipt papers for 24 h in a wallet .
+Concentrations of BPA dramatically increased after 24 h of contact with thermal receipt papers , suggesting that thermal receipt paper is an important source of BPA in paper currencies .
+The estimated daily intake of BPA through dermal absorption from handling paper currencies was on the order of a few nanograms per day .

@@ -1,0 +1,8 @@
+The presence of polybrominated diphenyl ethers ( PBDEs ) from mono to hepta brominated and 11 hydroxylated ( OH- ) and methoxylated ( MeO- ) PBDEs was examined in 37 breast milk samples collected from 11 mothers living in Barcelona .
+An extraction method based on accelerated solvent extraction followed by gas chromatography coupled to high resolution mass spectrometry was used to inequivocally identify all target compounds at the low pg g(-1) lw level .
+Data obtained were examined for absolute and relative concentrations and specific PBDE , OH- and MeO-PBDE congener patterns .
+Sigma PBDE concentration ranged between 1,161 and 1,372,797 pg g(-1) lw and BDEs 47 , 99 , 100 , 153 and 183 accounted for more than 80% of the total PBDEs .
+All tri and tetra OH- and MeO-PBDEs compounds were detected at levels between 6 and 14,984 pg g(-1)lw .
+The median ratio OH/PBDE and MeO-PBDEs/PBDEs was from 2.9% to 1.6% , respectively , suggesting either that PBDE metabolism to OH- and MeO- derivatives is not an important degradation route in humans or either OH- and MeO-PBDEs are rapidly excreted .
+No significant correlation was observed between PBDEs and OH- and MeO-PBDE , although OH- and OMe-PBDEs co-occurred in mothers ' milk ( R(2)=0.5349 ) .
+According to the daily intake of PBDEs and OH- and MeO-PBDEs , which was between 0.47 and 363 ng d(-1) ( excluding a smoking donor ) , potential health risks associated with these compounds are assessed .

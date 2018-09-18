@@ -1,0 +1,12 @@
+BACKGROUND Systemic lupus erythematosus ( SLE ) is a chronic disease of unclear etiology , characterized by an overactive immune system and the production of antibodies that may target normal tissues of many organ systems , including the kidneys .
+It can arise at any age and occurs mainly in women .
+OBJECTIVE Our aim was to evaluate the potential influence of particulate matter ( PM ) air pollution on clinical aspects of SLE .
+METHODS We studied a clinic cohort of SLE patients living on the island of Montreal , followed annually with a structured clinical assessment .
+We assessed the association between ambient levels of fine PM [ median aerodynamic diameter \u2264 2.5 \u03bcm ( PM2.5) ] measured at fixed-site monitoring stations and SLE disease activity measured with the SLE Disease Activity Index , version 2000 ( SLEDAI-2K ) , which includes anti-double-stranded DNA ( anti-dsDNA ) serum-specific autoantibodies and renal tubule cellular casts in urine , which reflects serious renal inflammation .
+We used mixed effects regression models that we adjusted for daily ambient temperatures and ozone levels .
+RESULTS We assessed 237 patients ( 223 women ) who together had 1,083 clinic visits from 2000 through 2007 ( mean age at time of first visit , 41.2 years ) .
+PM2.5 levels were associated with anti-dsDNA and cellular casts .
+The crude and adjusted odds ratios ( reflecting a 10-\u03bcg/m3 increase in PM2.5 averaged over the 48 hr prior to clinical assessment ) were 1.26 [ 95% confidence interval ( CI ) , 0.96-1.65 ] and 1.34 ( 95% CI , 1.02-1.77 ) for anti-dsDNA antibodies and 1.43 ( 95% CI , 1.05-1.95 ) and 1.28 ( 0.92-1.80 ) for cellular casts .
+The total SLEDAI-2K scores were not associated with PM2.5 levels .
+CONCLUSIONS We provide novel data that suggest that short-term variations in air pollution may influence disease activity in established autoimmune rheumatic disease in humans .
+Our results add weight to concerns that pollution may be an important trigger of inflammation and autoimmunity .

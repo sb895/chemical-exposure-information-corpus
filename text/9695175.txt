@@ -1,0 +1,15 @@
+Diesel exhaust consists of a complex mixture of chemicals which contain known genotoxicants , one of which is benzene .
+Therefore the concentration of benzene may be used in the evaluation of full external exposure to diesel exhaust .
+Our attention is focused on the determination of the distribution of benzene between the gas and particulate phases in the breathing zone of bus-garage workers .
+Bus diesel engine exhaust was the main source of air pollution by benzene and particles .
+The particulate matter contained benzene in amounts comparable to those usually found for concentrations of carcinogenic polycyclic aromatic hydrocarbons ( PAHs ) and nitro-PAHs .
+A much lower concentration of benzene was associated with particulate matter in the winter than in the summer months .
+The level of benzene in the gas phase showed a dependence on the distance of workplace from the operating diesel motor .
+The study indicated that benzene associated with diesel exhaust particles ( DEP ) might be an important factor to consider when studying diesel exhaust exposure from air pollution sources .
+Since non-genotoxic effects may play an important role in the generation of tumors by genotoxic carcinogens , the level of heme synthesis was proposed as a biomarker of early health effect .
+Here we present the data on determination of 5-aminolevulinic acid ( ALA ) synthesis and heme formation in lymphocytes from a group of 45 bus-garage workers and an analogous data from a group of 25 unexposed subjects .
+The results indicate significant differences in ALA synthesis and heme formation between the exposed workers when compared to the non-exposed individuals .
+ALA was accumulated and ALA-synthase activity was increased in lymphocytes of garage workers .
+At the same time ferrochelatase activity was decreased and protoporphyrin contents were elevated .
+In addition the concentration of porphyrin associated with DNA was significantly increased .
+Thus , the measurement of some metabolites of heme synthesis in lymphocytes could be a useful biomonitoring index for the determination of a sensitive subgroup of workers who undergo the higher risk of cancer development .

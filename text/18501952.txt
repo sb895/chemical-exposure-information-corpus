@@ -1,0 +1,8 @@
+Seven polybrominated diphenyl ether ( PBDE ) congeners were measured in the particulate fraction ( <2mm ) of household dust samples ( n=40 ) , collected in four different countries ( Australia , Germany , Great Britain , and United States ) .
+Dust samples from Germany contained the lowest concentrations of total PBDEs ( median : 74 ng/g , range : 17-550 ng/g dust ) .
+Australian dust contained the second lowest concentration ( median : 1200 ng/g , range : 500-13,000 ng/g dust ) .
+The dust from the United States and Great Britain contained the highest measured amounts of total PBDEs ( US median : 4200 ng/g dust , range : 520-29,000 ng/g ; Great Britain median : 10,000 ng/g , range : 950-54,000 ng/g ) .
+Daily intake of PBDEs has been estimated from published reference values on daily dust intake rates .
+The highest daily intake of 2,2',4,4'-tetrabromodiphenyl ether ( BDE-47 ) found was in the United States ( <1-330 ng/day ) and the lowest was in Germany ( <1-2 ng/day ) .
+The PBDE congeners present in commercially available pentabromodiphenyl ether were the highest in concentration in the United States , and the congener distribution was similar to that of the technical preparation ( i.e. , 2,2',4,4',5-pentabromodiphenyl ether [ BDE-99 ] was similar in concentration to that of BDE-47 ) .
+We conclude that further studies are required to investigate human indoor exposure to PBDEs across countries and to determine the risk factors related to indoor design factors .

@@ -1,0 +1,11 @@
+To perform sputum analysis for verification of pulmonary changes in premenopausal rural Indian women chronically exposed to biomass smoke during cooking.Three consecutive morning sputum samples were collected from 196 women ( median age 34 years ) cooking with biomass and 149 age-matched control women cooking with cleaner fuel liquefied petroleum gas .
+Smears made on slides were stained with Papanicolaou and Perl's Prussian blue .
+Airway oxidative stress was estimated as reactive oxygen species ( ROS ) generation ( by flow cytometry ) and superoxide dismutase ( SOD ) level ( by spectrophotometry ) in sputum cells .
+Airway inflammation was measured as sputum levels of interleukin ( IL)-6 , -8 and tumor necrosis factor- alpha ( TNF-\u03b1 ) .
+Particulate matter of diameter less than 10 ( PM10 ) was measured using laser photometer while benzene exposure was monitored by measuring trans , trans-muconic acid ( t,t-MA ) in urine by HPLC-UV .
+Compared with control , sputum of biomass users contained more neutrophils , lymphocytes , eosinophils , alveolar macrophages , and showed presence of ciliocytophthoria , Charcot-Leyden crystals , Curschmann's spiral .
+ROS generation was increased by 2-fold while SOD was depleted by 31% in biomass users .
+They also had higher sputum levels of IL-6 , -8 and TNF-\u03b1 .
+Levels of PM10 and t,t-MA were 2.9- and 5.8-times higher in biomass-using women .
+PM10 and t,t-MA levels were positively associated with cellular changes in the sputum , markers of airway inflammation , and oxidative stress .
+Cooking with biomass alters sputum cytology , and increases airway inflammation and oxidative stress that might result in further amplification of the tissue damaging cascade in women chronically exposed to biomass smoke .

@@ -1,0 +1,11 @@
+There is little evidence about exposure to currently used insecticides during early life periods and adverse effects on child neuropsychological development .
+The aim of this study is to examine the association between residential insecticide use during pregnancy and infancy , and the development of children .
+Study subjects were participants in the INMA ( Environment and Childhood ) Project , a Spanish multicenter birth cohort study .
+Prenatal and postnatal use of indoor insecticides and other variables were obtained from personal interview during pregnancy and infancy .
+Mental and psychomotor development was assessed around 14months using the Bayley Scales of Infant Development .
+The associations were analyzed by linear regression models. 54% of women used indoor insecticides at home during pregnancy and 47% postnatally. 34% of women used insecticide sprays and 33% used plug-in devices during pregnancy .
+During infancy , the percentage of women who used insecticide sprays decreased ( 22% ) , but the use of plug-in devices was similar to the prenatal period ( 32% ) .
+The use of insecticide sprays during pregnancy was associated with a decrement in psychomotor development ( \u03b2=-1.9 ; 95%CI : -3.4 , -0.5 ) but postnatal use did not associate with mental and psychomotor development .
+The negative effect was enhanced according to some modifying factors , such as being female , higher levels of prenatal exposure to PCB and mercury and belonging to the lowest social class .
+We found certain evidence about the adverse effect of using insecticide sprays during pregnancy on the psychomotor development of children .
+Some socio-demographic factors and other exposures could enhance that effect .

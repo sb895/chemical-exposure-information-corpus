@@ -1,0 +1,10 @@
+Limited research has been conducted on dermal exposure and risk assessment , owing to the lack of reliable measurement techniques and data for quantitative risk assessment .
+We investigated the magnitude of dermal exposure to jet propulsion fuel 8 ( JP-8 ) , using naphthalene as a surrogate , on the US Air Force fuel-cell maintenance workers .
+Dermal exposure of 124 workers routinely working with JP-8 was measured using a non-invasive tape-strip technique coupled with gas chromatography-mass spectrometry analysis .
+The contribution of job-related factors to dermal exposure was determined using multiple linear regression analyses .
+Average whole body dermal exposure to naphthalene ( as a marker for JP-8 ) was 7.61 +/- 2.27 ln(ng m(-2) ) .
+Significant difference ( P < 0.0001 ) between the high-exposure group [ 8.34 +/- 2.23 ln(ng m(-2)) ] and medium- and low-exposure groups [ 6.18 +/- 1.35 ln(ng m(-2) ) and 5.84 +/- 1.34 ln(ng m(-2) ) , respectively ] was observed reflecting the actual exposure scenarios .
+Skin irritation , use of booties , working inside the fuel tank and the duration of JP-8 exposure were significant factors explaining the whole body dermal exposure .
+This study clearly demonstrates the efficiency and suitability of the tape-strip technique for the assessment of dermal exposure to JP-8 and that naphthalene can serve as a useful marker of exposure and uptake of JP-8 and its components .
+It also showed that the skin provides a significant route for JP-8 exposure and that actions to reduce exposure are required .
+Studies to investigate the relative contribution of dermal uptake of JP-8 on total body dose and the toxicokinetics of dermal exposure to JP-8 are underway .

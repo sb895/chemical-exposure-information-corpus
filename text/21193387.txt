@@ -1,0 +1,9 @@
+BACKGROUND Recent toxicological and epidemiological studies have shown associations between particulate matter ( PM ) and adverse health effects , but which PM components are most influential is less well known .
+OBJECTIVES In this study , we used time-series analyses to determine the associations between daily fine PM [ PM \u2264 2.5 µm in aerodynamic diameter ( PM2.5) ] concentrations and daily mortality in two U.S. cities-Seattle , Washington , and Detroit , Michigan .
+METHODS We obtained daily PM2.5 filters for the years of 2002-2004 and analyzed trace elements using X-ray fluorescence and black carbon using light reflectance as a surrogate measure of elemental carbon .
+We used Poisson regression and distributed lag models to estimate excess deaths for all causes and for cardiovascular and respiratory diseases adjusting for time-varying covariates .
+We computed the excess risks for interquartile range increases of each pollutant at lags of 0 through 3 days for both warm and cold seasons .
+RESULTS The cardiovascular and respiratory mortality series exhibited different source and seasonal patterns in each city .
+The PM2.5 components and gaseous pollutants associated with mortality in Detroit were most associated with warm season secondary aerosols and traffic markers .
+In Seattle , the component species most closely associated with mortality included those for cold season traffic and other combustion sources , such as residual oil and wood burning .
+CONCLUSIONS The effects of PM2.5 on daily mortality vary with source , season , and locale , consistent with the hypothesis that PM composition has an appreciable influence on the health effects attributable to PM .

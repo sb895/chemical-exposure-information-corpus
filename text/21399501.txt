@@ -1,0 +1,12 @@
+BACKGROUND Short-term changes in levels of fine ambient particulate matter ( PM2.5 ) may increase the risk of acute ischemic stroke ; however , results from prior studies have been inconsistent .
+We examined this hypothesis using data from a multicenter prospective stroke registry .
+METHODS We analyzed data from 9202 patients hospitalized with acute ischemic stroke , having a documented date and time of stroke onset , and residing within 50 km of a PM2.5 monitor in 8 cities in Ontario , Canada .
+We evaluated the risk of ischemic stroke onset associated with PM2.5 in each city using a time-stratified case-crossover design , matching on day of week and time of day .
+We then combined these city-specific estimates using random-effects meta-analysis techniques .
+We examined whether the effects of PM2.5 differed across strata defined by patient characteristics and ischemic stroke etiology .
+RESULTS Overall , PM2.5 was associated with a -0.7% change in ischemic stroke risk per 10-\u03bcg/m increase in PM2.5 ( 95% confidence interval = -6.3% to 5.1% ) .
+These overall negative results were robust to a number of sensitivity analyses .
+Among patients with diabetes mellitus , PM2.5 was associated with an 11% increase in ischemic stroke risk ( 1% to 22% ) .
+The association between PM2.5 and ischemic stroke risk varied according to stroke etiology , with the strongest associations observed for strokes due to large-artery atherosclerosis and small-vessel occlusion .
+CONCLUSIONS These results do not support the hypothesis that short-term increases in PM2.5 levels are associated with ischemic stroke risk overall .
+However , specific patient subgroups may be at increased risk of particulate-related ischemic strokes .

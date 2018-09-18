@@ -1,0 +1,9 @@
+Polybrominated diphenyl ethers ( PBDEs ) and 2,2',4,4',5,5'-hexabromobiphenyl ( BB-153 ) are chemicals known as brominated flame retardants .
+We have assessed the exposure status of the United States population to PBDEs and BB-153 and explored associations with demographic information , including participants ' age , sex , and race/ethnicity .
+A total of 2,062 serum samples , from participants in the National Health and Nutrition Examination Survey ( NHANES ) 2003-2004 aged 12 years and older , were analyzed for PBDEs and BB-153 ; stratified and regression analyses were used to examine levels among demographic groups .
+The congener with the highest serum concentration was 2,2',4,4'-tetrabromodiphenyl ether ( BDE-47 ) [ geometric mean 20.5 ng/g lipid ] ; followed by 2,2',4,4',5,5'-hexaBDE ( BDE-153 ) [ 5.7 ng/g lipid ] ; 2,2',4,4',5-pentaBDE ( BDE-99 ) [ 5.0 ng/g lipid ; a value equal to the highest limit of detection for an individual sample ] ; 2,2',4,4',6-pentaBDE ( BDE-100 ) [ 3.9 ng/g lipid ] ; BB-153 [ 2.3 ng/g lipid ] ; and 2,4,4'-triBDE ( BDE-28 ) [ 1.2 ng/g lipid ] .
+For BDE-47 , we observed no significant difference in the least-squares geometric mean ( LSGM ) by sex , but with age we found both a linear decrease ( p = 0.01 ) and a positive quadratic trend ( p = 0.01 ) .
+Its LSGM , 27.9 ng/lipid , in the 12-19 year olds decreased to 17.2 ng/g lipid in the 40-49 year group , and then curved upward to 20.4 ng/g lipid in the > or =60 years olds .
+Mexican Americans had the highest LSGM of BDE-47 ( 24.5 ng/g lipid ) , which was significantly higher than that of non-Hispanic whites ( 19.7 ng/g lipid , p = 0.01 ) .
+Adults 60 years and older were twice as likely as adults 20-59 years old to have a serum BDE-47 concentration above the 95th percentile ( p = 0.02 ) .
+These data provide needed exposure assessment data for public health decisions .

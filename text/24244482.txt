@@ -1,0 +1,10 @@
+BACKGROUND Mercury is a neurotoxicant linked with psychiatric symptoms at high levels of exposure .
+However , it is unclear whether an association is present at the low exposure levels in the US adult population .
+MATERIALS AND METHODS Cross-sectional associations of total blood mercury and depression were assessed in 6,911 adults age \u226520 in the National Health and Nutrition Examination Survey ( NHANES ) , 2005-2008 .
+The Patient Health Questionnaire-9 was used to assess depression ( high likelihood of a depressive spectrum disorder diagnosis ; score 5-27 ) .
+RESULTS Unadjusted survey weighted logistic regression suggested that higher total blood mercury was associated with lower odds of depression ( Odds Ratio \u200a=\u200a0.49 , 95% Confidence Interval : 0.36-0.65 , comparing the highest and lowest mercury quintiles ) .
+This association largely disappeared after adjustment for sociodemographic variables ( income-poverty ratio , education , marital status ) .
+However , in age-stratified analyses , this inverse relationship remained in older adults ( age \u226540 ) even after adjustment for sociodemographic variables .
+Simulation analyses adjusting for expected confounding effects of fish intake suggested that the inverse relationship among older adults may be plausibly attributed to residual confounding ( Odds Ratio \u200a=\u200a0.75 , 95% Confidence Interval : 0.50-1.12 , comparing the highest and lowest mercury quintiles ) .
+CONCLUSIONS Higher total blood mercury was not associated with increased odds of depression .
+The lower odds of depression in older adults with higher total blood mercury may be due to residual confounding .

@@ -1,0 +1,12 @@
+BACKGROUND Polybrominated diphenyl ethers ( PBDEs ) , widely used as flame retardants since the 1970s , have exhibited endocrine disruption in experimental studies .
+Tetra- to hexa-BDE congeners are estrogenic , while hepta-BDE and 6-OH-BDE-47 are antiestrogenic .
+Most PBDEs also have antiandrogenic activity .
+It is not clear , however , whether PBDEs affect human reproduction .
+OBJECTIVES The analysis was designed to investigate the potential endocrine disruption of PBDEs on the age at menarche in adolescent girls .
+METHODS We analyzed the data from a sample of 271 adolescent girls ( age 12-19 years ) in the National Health and Nutrition Examination Survey ( NHANES ) , 2003-2004 .
+We estimated the associations between individual and total serum BDEs ( BDE-28 , -47 , -99 , -100 , -153 , and -154 , lipid adjusted ) and mean age at menarche .
+We also calculated the risk ratios ( RRs ) and 95% confidence intervals ( CI ) for menarche prior to age 12 years in relation to PBDE exposure .
+RESULTS The median total serum BDE concentration was 44.7ng/g lipid .
+Higher serum PBDE concentrations were associated with slightly earlier ages at menarche .
+Each natural log unit of total BDEs was related to a change of -0.10 ( 95% CI : -0.33 , 0.13 ) years of age at menarche and a RR of 1.60 ( 95% CI : 1.12 , 2.28 ) for experiencing menarche before 12 years of age , after adjustment for potential confounders .
+CONCLUSION These data suggest high concentrations of serum PBDEs during adolescence are associated with a younger age of menarche .

@@ -1,0 +1,12 @@
+BACKGROUND Primitive electronic waste ( e-waste ) recycling is ongoing in Guiyu , and thus toxic heavy metals may keep on threatening to the health of local children .
+Some related factors may contribute to the elevation of blood lead levels ( BLLs ) or blood cadmium levels ( BCLs ) .
+OBJECTIVE To investigate the children's BLLs and BCLs in Guiyu and Chendian as compare to discuss the effects of primitive e-waste recycling activities on children's health .
+METHODS Two hundred and seventy-eight children less than 8 years who lived in Guiyu and Chendian were observed , and their BLLs and BCLs were determined by graphite atomizer absorption spectrophotometer .
+Questionnaire survey for risk factors was also performed and data were analyzed using spearman correlation analyses and logistic regression analyses .
+RESULTS Children living in Guiyu had significantly higher BLLs and BCLs as compared with those living in Chendian ( p<0.01 ) .
+In Guiyu , 70.8% of children ( 109/154 ) had BLLs>10 microg/dL , and 20.1% of children ( 31/154 ) had BCLs>2 microg/L , compared with 38.7% of children ( 48/124 ) had BLLs>10 microg/dL and 7.3% of children ( 9/124 ) had BCLs>2 microg/L in Chendian ( p<0.01 , respectively ) .
+We also observed a significant increasing trend in BLLs with increasing age in Guiyu ( p<0.01 ) .
+Mean height of children in Guiyu was significantly lower than that in Chendian ( p<0.01 ) .
+The risk factors related to children's BLLs and BCLs mainly included father's engagement in the work related to e-waste , children's residence in Guiyu and the amount of time that children played outside near the road everyday .
+CONCLUSIONS There are close relationships between the BLLs , BCLs in children and the primitive e-waste recycling activities in Guiyu .
+Environmental pollution , especially lead pollution , has threatened the health of children living around e-waste recycling site .

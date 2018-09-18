@@ -1,0 +1,7 @@
+Serum samples collected from California women at different time periods : 1960s ( n = 40 ) , 1980s ( n = 30 ) , and 2009 ( n = 35 ) were examined for the presence of 12 perfluorinated compounds ( PFCs ) using an online SPE-HPLC-MS/MS method .
+At each time period , perfluorooctane sulfonate ( PFOS ) was present at the highest concentration , followed by perfluorooctanoic acid ( PFOA , except in the 1960s ) .
+We found the highest levels of PFOS ( median = 42.1 ng/mL ) and perfluorohexane sulfonate ( PFHxS , median = 1.56 ng/mL ) in the 1960s samples , possibly reflecting widespread use of precursor PFCs .
+PFOS showed a statistically significant drop from the 1960s to the 1980s ( 28.8 ng/mL ) and to 2009 ( 9.0 ng/mL ) , the latter being in agreement with national data .
+For PFOA , there was an approximately 10-fold increase in median concentrations from the 1960s ( 0.27 ng/mL ) to the 1980s ( 2.71 ng/mL ) , and a slight drop in the 2009 samples ( 2.08 ng/mL ) .
+For longer chain perfluorocarboxylic acids ( PFCAs ) , there was a continuous build-up in serum from the 1960s to 2009 .
+To our knowledge , this is the first study to investigate temporal changes of PFCs over the past 50 years .

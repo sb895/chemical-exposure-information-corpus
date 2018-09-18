@@ -1,0 +1,8 @@
+Volunteer studies suggest that showering/bathing with chlorinated tap water contributes to daily chloroform inhalation exposure for the majority of US adults .
+We used data from the 1999-2000 US National Health and Nutrition Examination Survey ( NHANES ) and weighted multiple linear regression to test the hypothesis that personal exposure microevents such as showering or spending time at a swimming pool would be significantly associated with chloroform levels in 2-3 day personal air samples .
+The NHANES data show that eight of 10 US adults are exposed to detectable levels of chloroform .
+Median ( 1.13 microg/m(3) ) , upper percentile ( 95th , 12.05 microg/m(3) ) , and cancer risk estimates were similar to those from recent US regional studies .
+Significant predictors of log personal air chloroform in our model ( R(2)=0.34 ) included age , chloroform concentrations in home tap water , having no windows open at home during the sampling period , visiting a swimming pool during the sampling period , living in a mobile home/trailer or apartment versus living in a single family ( detached ) home , and being Non-Hispanic Black versus Non-Hispanic White , although the race/ethnicity estimates appear influenced by several outlying observations .
+Reported showering activity was not a significant predictor of personal air chloroform , possibly due to the wording of the NHANES shower question .
+The NHANES measurements likely underestimate true inhalation exposures since subjects did not wear sampling badges while showering or swimming , and because of potential undersampling by the passive monitors .
+Research is needed to quantify the potential difference .

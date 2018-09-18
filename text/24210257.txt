@@ -1,0 +1,10 @@
+Most previous studies which have investigated the short-term effects of air pollution on airway inflammation , assessed by an increase of exhaled nitric oxide ( eNO ) , have been conducted among asthmatic children .
+Few studies have considered this potential association among non-asthmatics .
+Furthermore , although both short- and long-term effects of air pollution on eNO had been reported separately , studies which include both are scarce .
+We explored associations between 24h NO2 and PM10 ( particles with aerodynamic diameters below 10\u03bcm ) mass with eNO in 1985 children ( 192 asthmatics and 1793 non-asthmatics ) aged 10 years and accounted for the long-term effects of air pollution by adjusting for annual averages of NO2 , PM10 mass , PM2.5 mass ( particles with aerodynamic diameters below 2.5\u03bcm ) and PM2.5 absorbance , using data from two German birth cohorts in Munich and Wesel .
+In total , robust associations between 24h NO2 and eNO were observed in both single-pollutant ( percentage change : 18.30% , 95% confidence interval : 11.63-25.37 ) and two-pollutant models ( 14.62% , 6.71-23.11 ) .
+The association between 24h PM10 mass and eNO was only significant in the single-pollutant model ( 9.59% , 4.80-14.61 ) .
+The same significant associations were also observed in non-asthmatic children , while they did not reach significant levels in asthmatic children .
+Associations between annual averages of ambient air pollution ( NO2 , PM10 mass , PM2.5 mass and PM2.5 absorbance ) and eNO were consistently null .
+In conclusion , significantly positive associations were observed between short-term ambient air pollution and eNO .
+No long-term effects of air pollution on eNO were found in this study .

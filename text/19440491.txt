@@ -1,0 +1,11 @@
+BACKGROUND Long-term human exposure to ambient pollutants can be an important contributing or etiologic factor of many chronic diseases .
+Spatiotemporal estimation ( mapping ) of long-term exposure at residential areas based on field observations recorded in the U.S. Environmental Protection Agency's Air Quality System often suffer from missing data issues due to the scarce monitoring network across space and the inconsistent recording periods at different monitors .
+OBJECTIVE We developed and compared two upscaling methods : UM1 ( data aggregation followed by exposure estimation ) and UM2 ( exposure estimation followed by data aggregation ) for the long-term PM10 ( particulate matter with aerodynamic diameter < or = 10 microm ) and ozone exposure estimations and applied them in multiple time scales to estimate PM and ozone exposures for the residential areas of the Health Effects of Air Pollution on Lupus ( HEAPL ) study .
+METHOD We used Bayesian maximum entropy ( BME ) analysis for the two upscaling methods .
+We performed spatiotemporal cross-validations at multiple time scales by UM1 and UM2 to assess the estimation accuracy across space and time .
+RESULTS Compared with the kriging method , the integration of soft information by the BME method can effectively increase the estimation accuracy for both pollutants .
+The spatiotemporal distributions of estimation errors from UM1 and UM2 were similar .
+The cross-validation results indicated that UM2 is generally better than UM1 in exposure estimations at multiple time scales in terms of predictive accuracy and lack of bias .
+For yearly PM10 estimations , both approaches have comparable performance , but the implementation of UM1 is associated with much lower computation burden .
+CONCLUSION BME-based upscaling methods UM1 and UM2 can assimilate core and site-specific knowledge bases of different formats for long-term exposure estimation .
+This study shows that UM1 can perform reasonably well when the aggregation process does not alter the spatiotemporal structure of the original data set ; otherwise , UM2 is preferable .

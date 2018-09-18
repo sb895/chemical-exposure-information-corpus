@@ -1,0 +1,9 @@
+The association between environmental cadmium exposure and frontal T wave axis deviation , a valuable and easily detected subclinical marker of ventricular arrhythmias in individuals without heart disease is unexplored and unknown .
+The objective of the study was to test the hypothesis that cadmium exposure predicts frontal T-wave axis deviation .
+US adults 40 years of age or older from NHANES III were included in the analysis .
+The participants ' creatinine-corrected urinary cadmium concentrations expressed as micrograms per gram were determined .
+Frontal T-wave axis deviations were measured from the standard 12-lead electrocardiogram .
+Multivariable regression analyses adjusting for age , race , smoking , metabolic syndrome , left ventricular mass , QRS duration and heart rate were performed .
+The odds ratio of borderline and abnormal frontal T wave axis deviations due to cadmium exposure and their corresponding 95% confidence intervals ( CIs ) were 1.25 ( 1.10-1.54 ) and 1.64 ( 1.27-2.12 ) , respectively .
+This study documents a positive graded relationship between environmental cadmium exposure and the risk for frontal T-wave axis deviation .
+Screening individuals with large body burden of cadmium to identify frontal T-wave axis deviation is warranted .

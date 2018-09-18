@@ -1,0 +1,1 @@
+<Biomonitoring--effect marker--biomarker--molecule--protein AND exposure routes--oral intake--food--<Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--<exposure routes--oral intake--<Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--<exposure routes--oral intake--food--< 

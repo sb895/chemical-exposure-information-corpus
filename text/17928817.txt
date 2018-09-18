@@ -1,0 +1,9 @@
+In May 2004 , two groundwater wells in Dinwiddie County , Virginia were found to have natural uranium levels either at or above the EPA recommended limit of 30 microg/l .
+As a result , a stop drinking water advisory was issued until a water treatment system could be installed to remove the uranium .
+In response to residents ' concerns , and uncertainty of exposures , affected individuals were asked to participate in a voluntary epidemiological investigation of uranium uptake and 1-year uranium retention study .
+This study had two primary objectives : quantification of the uranium load on the participants , as expressed by their urine uranium concentration , and retention after 1 year of no exposure .
+A first-morning void urine specimen , along with survey information , was collected from 156 participants in May 2004 , with a second collection occurring 12 months later of 91 participants .
+The samples were analyzed for uranium by ICP/MS , pH , creatinine by the Jaffe method , and RBP by LIA after both collections .
+A reduction of one order of magnitude for the geometric mean urine uranium concentration was observed , from 0.100 microg/g creatinine to 0.011 microg/g creatinine in 1 year .
+Comparatively , NHANES has reported that the geometric mean for all participants , ages 6 years and older , is 0.008 microg/g creatinine , with the 95th percentile being 0.040 microg/g creatinine .
+None of the second round specimens showed a urine uranium concentration higher than baseline for an individual .

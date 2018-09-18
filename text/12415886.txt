@@ -1,0 +1,12 @@
+Poor indoor air quality ( IAQ ) in daycare facilities affects both attending children and care providers .
+Incident rates of upper-respiratory-tract infections have been reported to be higher in children who attend daycare .
+Excessive carbon dioxide ( CO2 ) exposure can cause several health effects and even sudden infant death .
+For this study , 26 facilities were randomly selected in a Midwestern county of the United States .
+CO2 , room temperature , and relative humidity were used as indicators for IAQ and comfort levels .
+These IAQ parameters were continuously monitored for eight hours at each facility by a direct-reading instrument that was calibrated before each measurement .
+More than 50 percent of the facilities had an average CO2 level over the American Society of Heating , Refrigerating and Air Conditioning Engineers ( ASHRAE ) standard of 1,000 parts per million ( ppm ) .
+For temperature and relative humidity , respectively , 42.3 percent and 15.4 percent of facilities were outside of the ASHRAE-recommended comfort zones .
+The nap-time average CO2 level was about 117 ppm higher than the non-nap-time level .
+The increment of the nap-time CO2 level in the sleeping-only room over the level in multipurpose rooms was statistically significant ( p < .05 ) .
+According to stepwise multiple regression analysis , nap-time CO2 level was predicted by CO2 level before occupancy , nap-time average temperature , carbon monoxide , and child density ( R2 = .83 ) .
+It is recommended that an appropriate IAQ standard for daycare facilities be established and that children should not be placed in a completely isolated room during nap time .

@@ -1,0 +1,13 @@
+Mercury is an important source of environmental contamination affecting human beings throughout the world and especially in the Amazon .
+Riverside populations have been chronically exposed to relatively high levels of methylmercury for many years .
+Long-term effects of mercury exposure are not well known , but human genotoxicity was already showed in both in vitro and epidemiological studies .
+However , to date , only two studies were carried out in Amazonian populations with conflicting results and without comparing to a non-exposed population .
+Aiming to highlight this question and avoid interference factors , this work analyzed in vitro genotoxicity of mercury in blood lymphocytes of Amazonian individuals by two methods ( micronucleus and chromosomal aberrations ) .
+Deleterious effects of low levels ( 1-500 \u03bcg/l or 0,004-2 \u03bcM ) of methylmercury were only detected with the method to detect chromosomal aberrations .
+Mitotic index ( proportion of cells in metaphase ) was the parameter most sensible .
+Thus , this technique was applied for the analysis of an Amazonian non-exposed population ( Panacauera ) with similar social-economical characteristics of the exposed populations studied elsewhere .
+The mean of the mitotic index for Panacauera population was 0.0814 ± 0.0097 .
+Inter-individual variability of this index had no relation with sex or age .
+This value was above those registered for some groups of exposed populations .
+This fact points to mercury as the main responsible for inhibiting the cell cycle and/or the loss of proliferative capacity of the cells .
+These results already support mitotic index as an essential parameter for the early diagnose of mercury genotoxicity in humans , and especially in Amazonian populations .

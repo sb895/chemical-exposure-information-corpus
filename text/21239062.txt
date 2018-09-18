@@ -1,0 +1,13 @@
+California residents may experience the highest polybrominated diphenyl ether ( PBDE ) flame retardant exposures in the United States , the nation with the highest body burdens worldwide .
+It is hypothesized that Californians ' high exposures are due to the state's strict furniture flammability standards .
+Ingestion of PBDE-contaminated dust , to which children may be particularly susceptible , is a dominant exposure pathway .
+Low-income populations may also face disparately high exposures due to the presence of older , deteriorated or poorly manufactured furniture treated with PBDEs .
+We collected up to two dust samples per home ( 54 samples total ) , several days apart , from low-income California households in the urban community of Oakland ( n=13 homes ) and the agricultural community of Salinas ( n=15 homes ) .
+We measured BDE-47 , BDE-99 and BDE-100 , the major constituents of the penta-PBDE flame retardant formulation commonly used in furniture .
+All three PBDE congeners were detected in every sample with concentrations ( loadings ) ranging from 185 to 126,000ng/g ( 621-264,000ng/m(2) ) , 367-220,000ng/g ( 1550-457,000ng/m(2) ) , and 84-41,100ng/g ( 257-85,700ng/m(2) ) for BDE-47 , BDE-99 and BDE-100 , respectively .
+Median concentrations ( loadings ) observed in Salinas homes for BDE-47 , BDE-99 and BDE-100 were 3100ng/g ( 10,800ng/m(2) ) , 5480ng/g ( 19,500ng/m(2) ) , and 1060ng/g ( 3810ng/m(2) ) , respectively , and in Oakland homes 2780ng/g ( 10,700ng/m(2) ) , 4450ng/g ( 19,100ng/m(2) ) , and 1050ng/g ( 4000ng/m(2) ) , respectively .
+Maximum concentrations for BDE-47 and BDE-99 are the highest reported to date .
+Indoor concentrations and loadings did not significantly differ between communities ; concentrations and loadings were strongly correlated between collections for all three congeners ( Spearman rho=0.79-0.97 , p<0.002 ) .
+We estimated non-dietary ingestion of each congener for one child in each home ( n=28 children ) and found that estimated intake for BDE-47 and BDE-99 exceeded the U.S. Environmental Protection Agency's recommended chronic reference dose for three and five children , respectively .
+Children's estimated intake via dust ranged from 1.0 to 599ng/kg/day , 2.0-1065ng/kg/day and 0.5-196ng/kg/day for BDE-47 , BDE-99 and BDE-100 , respectively .
+In order to mitigate these exposures , future research must address the factors that contribute to PBDE exposures in low-income homes .

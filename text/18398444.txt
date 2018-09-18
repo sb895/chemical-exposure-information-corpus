@@ -1,0 +1,22 @@
+The exposure of pregnant women and young children to environmental pollutants is an ongoing concern of state and local public health departments .
+Of primary concern is the exposure to lead in lead-based paints , methyl mercury in contaminated fish and cadmium present at mining sites .
+The feasibility , utility and methodology of using blood spot cards collected for new born health screening purposes was studied for use in conducting routine state-wide surveillance of blood lead , mercury and cadmium levels in infants .
+Homogeneity of different lots of blank filter paper was examined .
+Mass measurements ( weights ) of filter paper punches were taken across three different lots of filter paper .
+Statistical analysis of the data was performed using one-way ANOVA , which indicated no significant difference in the means of all three lots , but high variances were noted .
+The three metals were examined in three different lots of filter papers purchased from the manufacturer .
+The lots had measurable amounts of cadmium and lead , but not mercury .
+Lead spike values were observed for roughly about 7% of the blank samples , indicating heterogeneous distribution of this metal .
+Statistical analysis of the data was also performed using a two-way ANOVA calculation with Tukey's pairwise comparisons .
+The results found that total mean metal loadings across the three lots were different .
+The concentration of the metals can be different from each other and the concentration of any one metal can differ across lots .
+Stability at different concentrations of the heavy metals in blood spotted onto filter paper with time and storage conditions was examined .
+Results indicate acceptable performance for at least 8.5 months for lead ( near CDC's concern level ) and for mercury ( near NRC's concern level ) .
+The filter paper and blood spots were analyzed for metals using an acid extraction , followed by analysis using an inductively coupled plasma mass spectrometer ( ICP-MS ) .
+Blood spot cards were studied from four different states across the Rocky Mountain region .
+Internal blank punches adjacent to the blood spot and actual dried spot punches from the same card were analyzed simultaneously .
+The blank punch indicated the amount of contamination present in the blood spot sample .
+Statistical analysis of the data was performed using MANOVA followed by calculations for each metal separately .
+This method was found to be suitable for assessing maternal exposure to lead and mercury using residual newborn screening specimens .
+Additional research into the applicability for cadmium is needed .
+Because of the intrinsic problem of contamination from the skin surface of capillary blood samples or other internal or extraneous sources , automatic re-analysis of elevated results assures minimal false positives are reported .

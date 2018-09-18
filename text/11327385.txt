@@ -1,0 +1,12 @@
+The objective of this study was to analyse the immune response to electromagnetic fields ( ELMFs ) in seven men and eight women employed in a museum .
+The workers were exposed in a room to an ELMFs ( range 0.2-3.6 microT and 40-120 V/m ) induced by 50 Hz electricity for 20 h a week .
+Control groups consisted of 47 women and 39 men with a similar percentage of atopic subjects , age ( range 30-51 years ) and smoking habits of the workers included in the study .
+Levels of blood lead ( Pb ) and urinary trans-trans muconic acid , a metabolite of benzene ( markers of exposure to traffic and smoking ) of the control and exposed groups were similar .
+Lymphocyte subsets were determined in men and women using conjugated antibodies .
+Serum interleukin ( IL ) 4 and interferon gamma and their ' in vitro ' production by peripheral mononuclear blood cells ( PMBCs ) stimulated by phytohemoglutinin ( PHA ) , as well as blastogenesis of PMBCs induced by PHA , were determined in women only .
+ELMF-exposed women showed a significant reduction in the percentage of B and NK CD3(-)-CD25+ lymphocytes and a slight reduction of CD16(+)-56+ NK lymphocytes .
+They also showed significantly lower levels of interferon gamma in serum , or produced in the supernatants by PMBCs both spontaneously and stimulated by PHA , while they did not show significant changes in serum and ' in vitro ' produced IL-4 , or in blastogenesis of PMBCs .
+Men working in the museum showed , in relation to the controls , a statistically significant reduction in both number and percentage of CD16(+)- CD56+ and CD3(-)-CD25+ lymphocyte subsets .
+On the whole , this investigation demonstrates a reduction of blood NK lymphocytes and of the production of interferon gamma in workers exposed to low frequency ELMFs .
+Recent studies have shown that stress and poor lifestyle induce the reduction of blood cytotoxic activities possibly acting on nervous functions .
+This may suggest that ELMFs reduces blood NK lymphocytes by combined effects on the immune and nervous systems .

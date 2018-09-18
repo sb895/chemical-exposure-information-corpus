@@ -1,0 +1,11 @@
+This study evaluates the exposure level of primary school children at three different towns in northern Attica , near the banks of the Kifissos River , defining referential values of toxic heavy metals .
+Concentrations of five toxic metals ( arsenic , cadmium , mercury , lead and nickel ) were analyzed in water samples from the Kifissos River as well as in the scalp hair of children aged 11 to 12 years old living in the study area .
+Chronic low-level toxicity of lead and cadmium came into view in recent years as a problem of our civilization .
+Exposure to concentrations of arsenic ( As ) , cadmium ( Cd ) , mercury ( Hg ) and lead ( Pb ) poses a potential threat to humans and can cause effects on children's renal and dopaminergic systems without clear evidence of a threshold , a fact that reinforces the need to control all the potential heavy metal emissions into the environment in order to protect children's health .
+The results were analyzed with the IBM SPSS Statistics 20 for Windows .
+The possible influence of sex and area was examined .
+Statistical differences were observed by t-test between the log-transformed hair concentrations of lead ( p=0.021 ) , arsenic ( p=0.016 ) and nickel ( p=0.038 ) in children's scalp hair from the municipalities of Kifisia and Kryoneri .
+ANOVA one-way test confirmed the difference of Pb concentration in hair between girls and boys from the municipality of Kifisia ( p=0.038 ) .
+The t-test confirms the difference of heavy metal concentrations in river samples between the municipalities Kifisia and Philadelphia in comparison with the samples from Kryoneri .
+The observations suggest that children living at the municipality of Kifisia are exposed to higher concentrations of heavy metals than the others .
+Despite all the confounding factors , hair can be used as a biomarker in order to determine the exposure to heavy metals , according to standardized protocols .

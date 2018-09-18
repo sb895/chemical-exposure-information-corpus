@@ -1,0 +1,8 @@
+The authors performed a cross-sectional analysis to evaluate the association between arsenic exposure from drinking water and blood pressure using baseline data of 10,910 participants in the Health Effects of Arsenic Longitudinal Study in Bangladesh ( October 2000-May 2002 ) .
+A time-weighted well arsenic concentration ( TWA ) based on current and past use of drinking wells was derived .
+Odds ratios for high pulse pressure ( > or = 55 mmHg ) by increasing TWA quintiles ( < or = 8 , 8.1-40.8 , 40.9-91.0 , 91.1-176.0 , and 176.1-864.0 microg/liter ) were 1.00 ( referent ) , 1.39 ( 95% confidence interval ( CI ) : 1.14 , 1.71 ) , 1.21 ( 95% CI : 0.99 , 1.49 ) , 1.19 ( 95% CI : 0.97 , 1.45 ) , and 1.19 ( 95% CI : 0.97 , 1.46 ) .
+Among participants with a lower than average dietary intake level of B vitamins and folate , the odds ratios for high pulse pressure by increasing TWA quintiles were 1.00 ( referent ) , 1.84 ( 95% CI : 1.07 , 3.16 ) , 1.89 ( 95% CI : 1.11 , 3.20 ) , 1.83 ( 95% CI : 1.09 , 3.07 ) , and 1.89 ( 95% CI : 1.12 , 3.20 ) .
+The odds ratios for systolic hypertension suggest a similar but weaker association .
+No apparent associations were observed between TWA and general or diastolic hypertension .
+These findings indicate that the effect of low-level arsenic exposure on blood pressure is nonlinear and may be more pronounced in persons with lower intake of nutrients related to arsenic metabolism and cardiovascular health .
+Future research is needed to evaluate the effect of low-level arsenic exposure on specific cardiovascular outcomes .

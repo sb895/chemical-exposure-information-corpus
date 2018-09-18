@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--< <  Biomonitoring--effect marker--physiological parameter< <exposure routes--oral intake--drinking water--< < < < 

@@ -1,0 +1,12 @@
+OBJECTIVES Acoustic neuroma is a benign tumour accounting for approximately 6-10% of all intracranial tumours and occurs mainly in patients aged \u226550 years .
+Our aim was to investigate a wide range of occupational exposures , individual occupational titles and socioeconomic status ( SES ) as potential risk factors for acoustic neuroma .
+METHODS We conducted a population-based case-control study of 793 acoustic neuroma cases identified through the Swedish Cancer Registry and 101,762 randomly selected controls .
+Information on SES and occupation was obtained from censuses and linked to job-exposure matrices .
+Logistic regression was used to estimate ORs and calculate 95% CIs .
+RESULTS An increased OR was seen for mercury exposure <10 years before the reference year ( OR 2.9 ; 95% CI 1.2 to 6.8 ) , and a more modest association for benzene exposure ( OR 1.8 ; 95% CI : 1.0 to 3.2 ) \u226510 years before the reference year .
+We observed a threefold increased risk for females working as tailors and dressmakers \u226510 years before the reference year , and a more than threefold significantly elevated OR for those working as truck and conveyor operators <10 years before the reference year .
+We found no convincing evidence that SES is related to disease development .
+CONCLUSION We observed an increased risk of acoustic neuroma associated with occupational exposure to mercury , benzene and textile dust .
+Men working as truck and conveyor operators <10 years before the reference year had the highest increased risk of acoustic neuroma , but it is unclear what in those occupations might contribute to disease development .
+Our study also suggested an association between acoustic neuroma and being a class teacher or policeman .
+However , these findings should be further investigated to exclude the possibility of detection bias .

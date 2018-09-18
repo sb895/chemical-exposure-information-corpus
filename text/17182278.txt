@@ -1,0 +1,12 @@
+Phthalates like di-(2-ethylhexyl) phthalate ( DEHP ) are commonly used as plasticizers and their metabolites are suspect of especially reproductive toxicity .
+The aim of our study was to assess phthalate exposure in adults by measuring urinary phthalate metabolite levels and to explore individual temporal variability .
+Urine samples were collected by 27 women and 23 men aged 14-60 years during 8 consecutive days .
+We quantified four monoesters , four oxidative DEHP metabolites , and two secondary metabolites of di-isononyl phthalate ( DiNP ) by a LC/LC-MS/MS method .
+If we analyzed all 399 available samples independent of classification , the highest median values of primary metabolites in this study were found for mono-n-butyl phthalate ( MnBP : 49.6 microg/l ) , followed by mono-isobutyl phthalate ( MiBP : 44.9 microg/l ) , mono-benzyl phthalate ( MBzP : 7.2 microg/l ) , and mono-2-ethylhexyl phthalate ( MEHP : 4.9 microg/l ) .
+The median concentrations of the oxidized metabolites of DEHP were 8.3 microg/l for mono-(2-carboxymethylhexyl) phthalate ( 2cx-MMHP ) , 19.2 microg/l for mono-(2-ethyl-5-hydroxyhexyl) phthalate ( 5OH-MEHP ) , 14.7 microg/l for mono-(2-ethyl-5-oxohexyl) phthalate ( 5oxo-MEHP ) , and 26.2 microg/l for mono-(2-ethyl-5-carboxypentyl) phthalate ( 5cx-MEPP ) .
+The concentrations of the two DiNP secondary metabolites mono ( oxoisononyl ) phthalate ( oxo-MiNP ) and mono(hydroxyisononyl) phthalate ( OH-MiNP ) ranged from <LOD to 304 microg/l ( median : 3.0 microg/l , 2.9 microg/g creatinine ) and <LOD to 698 microg/l ( median : 5.5 microg/l , 5.2 microg/g creatinine ) , respectively .
+Phthalate metabolite levels did not consistently differ by sex or age .
+There was substantial day-to-day variation of urinary levels with considerable within-subject variability .
+Intraclass correlation coefficients adjusted for sex and age ranged between 0.21 and 0.48 for unadjusted metabolite levels and between 0.20 and 0.57 for creatinine-adjusted levels .
+The secondary metabolites of DiNP were detectable in nearly all samples and were therefore sensitive biomarkers of DiNP exposure .
+Our results of within-subject variability suggest that exposure assessment should not be based on a single urine measurement .

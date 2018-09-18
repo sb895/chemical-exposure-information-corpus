@@ -1,0 +1,10 @@
+Polybrominated diphenyl ethers ( PBDEs ) , a type of brominated flame retardant chemically and toxicologically similar to polychlorinated biphenyls ( PCBs ) , are a class of emerging environmental and human contaminants .
+They have recently been detected in U.S. milk , blood , and food at the highest levels in the world .
+This pilot study was undertaken with the aim of determining levels of PBDE in the U.S. indoor environment , to assess the potential exposure to PBDEs from computer surfaces and carpets .
+Food of animal origin is the usual source of polychlorinated dibenzo-p-dioxin ( PCDD ) , polychlorinated dibenzofurans ( PCDF ) , and PCBs in humans , but there may also be environmental sources for intake of PBDEs .
+It was also our aim to characterize the PBDE congener profile in these indoor environmental samples .
+Four computer wipe samples and 9 domestic vacuum-sweeping samples were analyzed for 13 PBDE congeners , PBDEs 17 ( 2,2',4 ) , 28 ( 2,4,4'? ) , 47 ( 2,2',4,4'? ) , 66 ( 2,3',4,4'? ) , 77 ( 3,3',4,4'? ) , 85 ( 2,2',3,4,4'? ) , 99 ( 2,2'4,4',5 ) , 100 ( 2,2',4,4',6 ) , 138 ( 2,2',3,4,4',5'? ) , 153 ( 2,2',4,4',5,5'? ) , 154 ( 2,2',4,4',5,6'? ) , 183 ( 2,2',3,4,4',5',6 ) , and 209 ( 2,2',3,3',4,4',5,5',6,6'? ) .
+All samples tested positive for PBDEs .
+PBDE 209 was the dominant congener in all 4 computer wipe samples and in 7 out of the 9 vacuum dust samples .
+The congener profiles observed in this study varied considerably , a finding that has been observed previously .
+However these congener profiles differ from the pattern seen in U.S. human milk , human blood and in food , where PBDEs 47 and 99 predominate .

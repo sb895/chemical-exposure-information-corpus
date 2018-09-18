@@ -1,0 +1,13 @@
+BACKGROUND Cadmium is a wide-spread pollutant .
+Observational studies suggest associations between cadmium and prevalence of type 2 diabetes .
+Experimental studies indicate that cadmium may cause impaired insulin production .
+OBJECTIVES To examine whether cadmium exposure is associated with impaired glucose tolerance and type 2 diabetes and impaired pancreatic beta-cell function .
+METHODS Oral glucose tolerance tests were used in a screening examination of 64-year old women ( n=2595 ) to identify all with diabetes , impaired ( IGT ) and normal ( NGT ) glucose tolerance .
+Random samples of women with type 2 diabetes ( n=215 ) , IGT ( n=207 ) and NGT ( n=194 ) were recruited in a cross-sectional examination including measurement of pancreatic insulin production ( acute insulin response ) and insulin sensitivity ( homeostasis model assessment ) .
+Cadmium concentrations were measured in blood and urine .
+A follow-up examination was performed after 5.4 years with assessment of new cases with diabetes or impaired glucose tolerance .
+RESULTS At baseline , neither blood nor urinary cadmium concentrations showed any statistically significant differences between women with type 2 diabetes , IGT or NGT .
+The prospective analysis included 68 cases with incident diabetes , 58 with IGT and 118 women with NGT and no associations with cadmium levels at baseline were observed .
+Blood and urinary cadmium at baseline were not associated with insulin production , blood glucose , HbA1c , or changes in HbA1c during follow-up .
+CONCLUSIONS This is the first study of cadmium and diabetes with detailed data on pancreatic beta-cell function , insulin sensitivity and glucose tolerance .
+Cadmium exposure was not associated with increased risk of type 2 diabetes or IGT .

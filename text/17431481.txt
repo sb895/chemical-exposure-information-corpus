@@ -1,0 +1,11 @@
+OBJECTIVE We investigated whether primary and secondary arsenic methylation ratios were associated with skin lesions and whether GSTT1 , GSTP1 , and GSTM1 polymorphisms modify these relationships .
+METHODS A case-control study of 600 cases and 600 controls that were frequency matched on age and sex was conducted in Pabna , Bangladesh , in 2001-2002 .
+Individual well water , urine , and blood samples were collected .
+Water arsenic concentration was determined using inductively coupled plasma mass spectrometry ( ICP-MS ) .
+Urinary arsenic speciation was determined using high performance liquid chromatography hydride with generator atomic absorption spectrometry and ICP-MS .
+Genotyping was conducted using multiplex polymerase chain reaction and TaqMan .
+RESULTS A 10-fold increase in primary methylation ratio [ monomethylarsonic acid ( MMA)/(arsenite + arsenate ] was associated with a 1.50-fold increased risk of skin lesions ( multivariate odds ratio = 1.50 ; 95% confidence interval , 1.00-2.26 ) .
+We observed significant interaction on the multiplicative scale between GSTT1 wildtype and secondary methylation ratio [ dimethylarsinic acid/MMA ; likelihood ratio test ( LRT ) , p = 0.01 ] .
+No significant interactions were observed for GSTM1 or GSTP1 or for primary methylation ratios .
+CONCLUSION Our findings suggest that increasing primary methylation ratios are associated with an increase in risk of arsenic-related skin lesions .
+The interaction between GSTT1 wildtype and secondary methylation ratio modifies risk of skin lesions among arsenic-exposed individuals .

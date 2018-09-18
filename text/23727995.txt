@@ -1,0 +1,13 @@
+Parabens have been used in multiple products including personal care products , pharmaceuticals , and foods for more than 50 years but increasing numbers of studies have raised concerns on their safety .
+The present study was designed to determine urinary paraben levels among pregnant women and their matching newborn infants ( <48 h after delivery ) , and the association between paraben levels and stress markers .
+Pregnant women ( n=46 ) and their matching newborn infants were recruited from four university hospitals located in Seoul , Ansan and Jeju of Korea , 2011 .
+Parabens including methyl paraben ( MP ) , ethyl paraben ( EP ) , n-propyl paraben ( PP ) , and n-butyl paraben ( BP ) were measured in the urine using an automatic , high throughput online SPE-LC-MS/MS method .
+Urinary concentrations were normalized with specific gravity ( SG ) .
+Free cortisol , malondealdehyde ( MDA ) and 8-hydroxydeoxyguanosine ( 8-OHdG ) were measured in the urine as stress marker .
+Urinary MP was detected as the highest , and BP was detected as the lowest paraben in the urine samples of both pregnant women and their infants .
+Significant correlations between paraben concentrations of maternal and their newborn infant's urine were observed .
+The levels of urinary parabens among Korean pregnant women are comparable to those reported elsewhere , except for EP which were 4-9 folds higher than pregnant women of other countries .
+The ratios of infant to maternal urinary paraben concentrations varied between 0.5 and 0.6 for MP and PP , but approximately 10 fold lower for EP .
+Urinary MP or EP levels were associated with several oxidative stress related biomarkers such as urinary 8-OHdG and MDA , even after the adjustment of relevant covariates such as maternal age , mode of delivery , pre-pregnancy BMI , gestational age and parity .
+This is the first study that reported the levels of major parabens in the first urine of newborn infants .
+Further studies are warranted to understand the implications of paraben exposure among biologically susceptible human populations .

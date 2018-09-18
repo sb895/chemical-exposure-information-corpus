@@ -1,0 +1,10 @@
+BACKGROUND Evidence on the short-term effects of fine and coarse particles on morbidity in Europe is scarce and inconsistent .
+OBJECTIVES We aimed to estimate the association between daily concentrations of fine and coarse particles with hospitalizations for cardiovascular and respiratory conditions in eight Southern European cities , within the MED-PARTICLES project .
+METHODS City-specific Poisson models were fitted to estimate associations of daily concentrations of particulate matter with aerodynamic diameter \u2264 2.5 \u03bcm ( PM2.5 ) , \u2264 10 \u03bcm ( PM10 ) , and their difference ( PM2.5-10 ) with daily counts of emergency hospitalizations for cardiovascular and respiratory diseases .
+We derived pooled estimates from random-effects meta-analysis and evaluated the robustness of results to co-pollutant exposure adjustment and model specification .
+Pooled concentration-response curves were estimated using a meta-smoothing approach .
+RESULTS We found significant associations between all PM fractions and cardiovascular admissions .
+Increases of 10 \u03bcg/m3 in PM2.5 , 6.3 \u03bcg/m3 in PM2.5-10 , and 14.4 \u03bcg/m3 in PM10 ( lag 0-1 days ) were associated with increases in cardiovascular admissions of 0.51% ( 95% CI : 0.12 , 0.90% ) , 0.46% ( 95% CI : 0.10 , 0.82% ) , and 0.53% ( 95% CI : 0.06 , 1.00% ) , respectively .
+Stronger associations were estimated for respiratory hospitalizations , ranging from 1.15% ( 95% CI : 0.21 , 2.11% ) for PM10 to 1.36% ( 95% CI : 0.23 , 2.49 ) for PM2.5 ( lag 0-5 days ) .
+CONCLUSIONS PM2.5 and PM2.5-10 were positively associated with cardiovascular and respiratory admissions in eight Mediterranean cities .
+Information on the short-term effects of different PM fractions on morbidity in Southern Europe will be useful to inform European policies on air quality standards .

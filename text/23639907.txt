@@ -1,0 +1,8 @@
+Hexabromocyclododecane diastereoisomers ( \u03b1 , \u03b2 , and \u03b3-HBCD ) and tetrabromobisphenol A ( TBBPA ) were investigated in air conditioning filter dust ( designated as particulate phase of indoor air , PPIA ) collected from an office building in Shenzhen , China in 2009 .
+Concentrations of \u03a3HBCD ( sum of \u03b1- , \u03b2- , and \u03b3-HBCD ) ranged from 652 to 122 , 973 ng/g in PPIA .
+Generally , \u03b3-HBCD was the most abundant diastereomer .
+Concentrations of TBBPA ranged from 30 to 59 , 140 ng/g in PPIA .
+According to our results , approximate 61.9 pg/kg body weight/day ( pg/kg/d ) PM2.5 bound \u03a3HBCD can be inhaled deep into the lungs and 31.3 pg/kg/d PM10 bound \u03a3HBCD tends to be deposited in the upper parts of the respiratory system , and those values of TBBPA were 28.7 pg/kg/d and 14.5 pg/kg/d for the lower and upper respiratory tracts , respectively .
+The average intakes of \u03a3HBCD via dust inhalation and ingestion were 37.92 pg/kg/d and 2 , 079 pg/kg/d for adults , and those data of TBBPA were 17.62 pg/kg/d and 966.2 pg/kg/d , respectively .
+Our research found that exposure via indoor dust inhalation and ingestion contributed more than dietary pathway .
+Sensitivity analysis result suggests that the concentration of HBCD and TBBPA is the most significant parameter governing estimated results , and the other parameters , such as body weight and inhalation rate , do not affect the outcome much .

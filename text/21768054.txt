@@ -1,0 +1,11 @@
+BACKGROUND Lung cancer and cardiovascular disease ( CVD ) mortality risks increase with smoking , secondhand smoke ( SHS ) , and exposure to fine particulate matter < 2.5 \u03bcm in diameter ( PM\u2082.\u2085 ) from ambient air pollution .
+Recent research indicates that the exposure-response relationship for CVD is nonlinear , with a steep increase in risk at low exposures and flattening out at higher exposures .
+Comparable estimates of the exposure-response relationship for lung cancer are required for disease burden estimates and related public health policy assessments .
+OBJECTIVES We compared exposure-response relationships of PM\u2082.\u2085 with lung cancer and cardiovascular mortality and considered the implications of the observed differences for efforts to estimate the disease burden of PM2.5 .
+METHODS Prospective cohort data for 1.2 million adults were collected by the American Cancer Society as part of the Cancer Prevention Study II .
+We estimated relative risks ( RRs ) for increments of cigarette smoking , adjusting for various individual risk factors .
+RRs were plotted against estimated daily dose of PM\u2082.\u2085 from smoking along with comparison estimates for ambient air pollution and SHS .
+RESULTS For lung cancer mortality , excess risk rose nearly linearly , reaching maximum RRs > 40 among long-term heavy smokers .
+Excess risks for CVD mortality increased steeply at low exposure levels and leveled off at higher exposures , reaching RRs of approximately 2-3 for cigarette smoking .
+CONCLUSIONS The exposure-response relationship associated with PM\u2082.\u2085 is qualitatively different for lung cancer versus cardiovascular mortality .
+At low exposure levels , cardiovascular deaths are projected to account for most of the burden of disease , whereas at high levels of PM\u2082.\u2085 , lung cancer becomes proportionately more important .

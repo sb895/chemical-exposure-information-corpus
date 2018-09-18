@@ -1,0 +1,7 @@
+There are numerous observations of pharmaceuticals ( or their metabolites ) as contaminants in wastewater , surface water and groundwater .
+This implies a potential for indirect human exposure to pharmaceuticals via drinking water supplies .
+Various effect benchmarks may be employed in an evaluation of the significance of such indirect exposure .
+In this study a comparison was made between reported concentrations of pharmaceuticals in German drinking water and therapeutic dose .
+The margin between potential indirect daily exposure via drinking water and daily therapeutic dose was at least three orders of magnitude and typically much more .
+For certain compounds it was also possible to benchmark exposure against ADIs derived within the context of meat and food stuff residues following veterinary use .
+In all cases potential exposure was less than the ADIs , similarly suggesting that for these compounds there are no substantial concerns with regards to indirect exposure via drinking water .

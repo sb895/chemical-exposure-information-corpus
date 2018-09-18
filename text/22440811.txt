@@ -1,0 +1,9 @@
+BACKGROUND Airborne polycyclic aromatic hydrocarbons ( PAH ) are widespread urban air pollutants from fossil fuel burning and other combustion sources .
+We previously reported that a broad spectrum of combustion-related DNA adducts in cord blood was associated with attention problems at 6-7 years of age in the Columbia Center for Children's Environmental Health ( CCCEH ) longitudinal cohort study .
+OBJECTIVES We evaluated the relationship between behavioral problems and two different measures of prenatal exposure--both specific to PAH--in the same cohort .
+METHODS Children of nonsmoking African-American and Dominican women in New York City ( NYC ) were followed from in utero to 6-7 years .
+Prenatal PAH exposure was estimated by personal air monitoring of the mothers during pregnancy as well as by the measurement of DNA adducts specific to benzo[a]pyrene ( BaP ) , a representative PAH , in maternal and cord blood .
+At 6-7 years of age , child behavior was assessed using the Child Behavior Checklist ( CBCL ) ( n = 253 ) .
+Generalized linear models were used to test the association between prenatal PAH exposure and behavioral outcomes .
+RESULTS In multivariate analyses , high prenatal PAH exposure , whether characterized by personal air monitoring ( greater than the median of 2.27 ng/m³ ) or maternal and cord adducts ( detectable or higher ) , was positively associated with symptoms of Anxious/Depressed and Attention Problems ( p \u2264 0.05 ) .
+CONCLUSION These results provide additional evidence that environmental levels of PAH encountered in NYC air can adversely affect child behavior .

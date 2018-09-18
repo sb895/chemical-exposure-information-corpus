@@ -1,0 +1,11 @@
+BACKGROUND Based on the Estimation and Assessment of Substance Exposure ( EASE ) predictive model implemented into the European Union System for the Evaluation of Substances ( EUSES 2.1. ) , the exposure to three chosen organic solvents : toluene , ethyl acetate and acetone was estimated and compared with the results of measurements in workplaces .
+MATERIAL AND METHODS Prior to validation , the EASE model was pretested using three exposure scenarios .
+The scenarios differed in the decision tree of pattern of use .
+Five substances were chosen for the test : 1,4-dioxane tert-methyl-butyl ether , diethylamine , 1,1,1-trichloroethane and bisphenol A. After testing the EASE model , the next step was the validation by estimating the exposure level and comparing it with the results of measurements in the workplace .
+We used the results of measurements of toluene , ethyl acetate and acetone concentrations in the work environment of a paint and lacquer factory , a shoe factory and a refinery .
+Three types of exposure scenarios , adaptable to the description of working conditions were chosen to estimate inhalation exposure .
+RESULTS Comparison of calculated exposure to toluene , ethyl acetate and acetone with measurements in workplaces showed that model predictions are comparable with the measurement results .
+Only for low concentration ranges , the measured concentrations were higher than those predicted .
+CONCLUSIONS EASE is a clear , consistent system , which can be successfully used as an additional component of inhalation exposure estimation .
+If the measurement data are available , they should be preferred to values estimated from models .
+In addition to inhalation exposure estimation , the EASE model makes it possible not only to assess exposure-related risk but also to predict workers ' dermal exposure .

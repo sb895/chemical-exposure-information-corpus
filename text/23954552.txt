@@ -1,0 +1,8 @@
+In this study , acrylamide exposure from selected cereal-based baby food samples was investigated among toddlers aged 1-3 years in Turkey .
+The study contained three steps .
+The first step was collecting food consumption data and toddlers ' physical properties , such as gender , age and body weight , using a questionnaire given to parents by a trained interviewer between January and March 2012 .
+The second step was determining the acrylamide levels in food samples that were reported on by the parents in the questionnaire , using a gas chromatography-mass spectrometry ( GC-MS ) method .
+The last step was combining the determined acrylamide levels in selected food samples with individual food consumption and body weight data using a deterministic approach to estimate the acrylamide exposure levels .
+The mean acrylamide levels of baby biscuits , breads , baby bread-rusks , crackers , biscuits , breakfast cereals and powdered cereal-based baby foods were 153 , 225 , 121 , 604 , 495 , 290 and 36 \u03bcg/kg , respectively .
+The minimum , mean and maximum acrylamide exposures were estimated to be 0.06 , 1.43 and 6.41 \u03bcg/kg BW per day , respectively .
+The foods that contributed to acrylamide exposure were aligned from high to low as bread , crackers , biscuits , baby biscuits , powdered cereal-based baby foods , baby bread-rusks and breakfast cereals .

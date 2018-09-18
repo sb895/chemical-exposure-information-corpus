@@ -1,0 +1,11 @@
+Indoor dust is thought to be a source of human exposure to perfluorocarboxylates ( PFCAs ) and perfluorosulfonates ( PFSAs ) , but exposures to emerging organofluorine compounds , including precursors to PFCAs and PFSAs via indoor dust , remain unknown .
+We report an analytical method for measuring several groups of emerging phosphorus-containing fluorinated compounds , including polyfluoroalkyl phosphoric acid diesters ( diPAP ) , perfluorophosphonates ( PFPA ) , and perfluorophosphinates ( PFPIA ) , as well as perfluoroethylcyclohexane sulfonate ( PFECHS ) in indoor dust .
+This method was used to analyze diPAP , PFPA , and PFPIA levels in 102 residential dust samples collected in 2007-2008 from Vancouver , Canada .
+The results indicated a predominant and ubiquitous presence of diPAPs ( frequency of detection 100% , mean and median \u03a3diPAPs 7637 and 2215 ng/g ) .
+Previously measured median concentrations of perfluorooctane sulfonate ( PFOS ) , perfluorooctanoate ( PFOA ) , and fluorotelomer alcohols ( FTOHs ) in the same samples were 14-74 times lower than \u03a3diPAP levels , i.e. 71 ng/g PFOS , 30 ng/g PFOA , and 152 ng/g \u03a3FTOHs .
+PFPAs and PFPIAs were detected in 62% and 85% of samples , respectively , at concentrations nearly 3 orders of magnitude lower than diPAPs ( median 2.3 ng/g \u03a3PFPAs and 2.3 ng/g \u03a3PFPIAs ) .
+PFECHS was detected in only 8% of dust samples .
+To the best of our knowledge , this is the first report of these compounds in indoor dust .
+In this study , diPAP concentrations represented 98% ± 7% of the total measured analytes in the dust samples .
+Detection of diPAPs at such high concentrations in indoor dust may represent an important and as-yet unrecognized indirect source of PFCA exposure in humans , given the identified biotransformation pathways .
+Identifying the sources of diPAPs to the indoor environment is a priority for future research to improve air quality in households .

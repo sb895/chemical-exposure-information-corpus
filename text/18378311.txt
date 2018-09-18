@@ -1,0 +1,9 @@
+Information regarding the distribution of volatile organic compound ( VOC ) concentrations and exposures is scarce , and there have been few , if any , studies using population-based samples from which representative estimates can be derived .
+This study characterizes distributions of personal exposures to ten different VOCs in the U.S. measured in the 1999--2000 National Health and Nutrition Examination Survey ( NHANES ) .
+Personal VOC exposures were collected for 669 individuals over 2-3 days , and measurements were weighted to derive national-level statistics .
+Four common exposure sources were identified using factor analyses : gasoline vapor and vehicle exhaust , methyl tert-butyl ether ( MBTE ) as a gasoline additive , tap water disinfection products , and household cleaning products .
+Benzene , toluene , ethyl benzene , xylenes chloroform , and tetrachloroethene were fit to log-normal distributions with reasonably good agreement to observations. 1,4-Dichlorobenzene and trichloroethene were fit to Pareto distributions , and MTBE to Weibull distribution , but agreement was poor .
+However , distributions that attempt to match all of the VOC exposure data can lead to incorrect conclusions regarding the level and frequency of the higher exposures .
+Maximum Gumbel distributions gave generally good fits to extrema , however , they could not fully represent the highest exposures of the NHANES measurements .
+The analysis suggests that complete models for the distribution of VOC exposures require an approach that combines standard and extreme value distributions , and that carefully identifies outliers .
+This is the first study to provide national-level and representative statistics regarding the VOC exposures , and its results have important implications for risk assessment and probabilistic analyses .

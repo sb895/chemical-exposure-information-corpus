@@ -1,0 +1,5 @@
+Nine hundred eight women aged 40-88 years living in a non-Cd-polluted area in Japan were analyzed for urinary cadmium ( Cd ) , N-acetyl-beta-D-glucosaminidase ( NAG ) activity , beta(2)-microglobulin ( B2MG ) concentration , and for the stiffness index ( STIFF ) of calcaneal bone using an ultrasound method .
+The urinary Cd in the subjects , with a mean and range of 2.87 and 0.25-11.4 microg/g creatinine , respectively , showed a significant correlation with NAG but not with B2MG .
+STIFF was significantly inversely correlated with urinary Cd , and the association remained significant after adjusting for age , body weight , and menstrual status , suggesting a significant effect of Cd on the bone loss in these subjects without signs of Cd-induced kidney damage .
+A two-fold increase in urinary Cd was accompanied by a decrease in STIFF corresponding to a 1.7-year rise in age .
+These results emphasize the need for reassessment of the significance of Cd exposure in the general Japanese population .

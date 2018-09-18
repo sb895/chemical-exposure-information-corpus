@@ -1,0 +1,12 @@
+OBJECTIVE Air pollution contains many toxicants known to affect neurological function and to have effects on the fetus in utero .
+Recent studies have reported associations between perinatal exposure to air pollutants and autism spectrum disorder ( ASD ) in children .
+We tested the hypothesis that perinatal exposure to air pollutants is associated with ASD , focusing on pollutants associated with ASD in prior studies .
+METHODS We estimated associations between U.S. Environmental Protection Agency-modeled levels of hazardous air pollutants at the time and place of birth and ASD in the children of participants in the Nurses ' Health Study II ( 325 cases , 22,101 controls ) .
+Our analyses focused on pollutants associated with ASD in prior research .
+We accounted for possible confounding and ascertainment bias by adjusting for family-level socioeconomic status ( maternal grandparents ' education ) and census tract-level socioeconomic measures ( e.g. , tract median income and percent college educated ) , as well as maternal age at birth and year of birth .
+We also examined possible differences in the relationship between ASD and pollutant exposures by child's sex .
+RESULTS Perinatal exposures to the highest versus lowest quintile of diesel , lead , manganese , mercury , methylene chloride , and an overall measure of metals were significantly associated with ASD , with odds ratios ranging from 1.5 ( for overall metals measure ) to 2.0 ( for diesel and mercury ) .
+In addition , linear trends were positive and statistically significant for these exposures ( p < .05 for each ) .
+For most pollutants , associations were stronger for boys ( 279 cases ) than for girls ( 46 cases ) and significantly different according to sex .
+CONCLUSIONS Perinatal exposure to air pollutants may increase risk for ASD .
+Additionally , future studies should consider sex-specific biological pathways connecting perinatal exposure to pollutants with ASD .

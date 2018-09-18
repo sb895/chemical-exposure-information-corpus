@@ -1,0 +1,12 @@
+( 32)P-postlabelling and PAH-ELISA using the antiserum #29 were employed to analyze DNA adducts in venous and umbilical cord blood and the placenta of 79 mothers giving birth to 80 living babies in Prague ( Czech Republic ) .
+Ambient air exposure was measured by stationary measurements of basic air pollutants ( PM2.5 , c-PAHs ) during the entire pregnancy .
+Tobacco smoke exposure was assessed by questionnaire data and by plasma cotinine levels .
+The total DNA adduct levels in the lymphocytes of mothers and newborns were elevated by 30-40% ( p<0.001 ) compared with the placenta .
+B[a]P-like DNA adduct ( adduct with the identical chromatographic mobility on TLC as major BPDE derived DNA adduct ) levels were elevated in the blood of mothers compared with the placenta and the blood of newborns ( p<0.05 and p<0.01 ) .
+In tobacco smoke-exposed mothers , higher DNA adduct levels in the blood of mothers and newborns compared with the placenta were found ( p<0.001 ) , whereas the total and B[a]P-like adduct levels were comparable in the blood of mothers and newborns .
+B[a]P-like adducts were elevated in the blood of mothers unexposed to tobacco smoke compared with that of corresponding newborns and the placenta ( p<0.01 ) .
+Total and B[a]P-like DNA adducts were increased in the placenta of tobacco smoke-exposed compared with unexposed mothers ( p<0.001 and p<0.01 ) .
+In lymphocytes of tobacco smoke-exposed mothers , the comparison of total adduct levels ( 1.18+/-0.67 vs. 0.92+/-0.28 ) and B[a]P-like DNA adducts ( 0.22+/-0.12 adducts/10(8) nucleotides vs. 0.15+/-0.06 adducts/10(8) nucleotides ) with newborns indicated a 30-40% increase of adducts in mothers .
+Almost equal PAH-DNA adduct levels were detected by anti-BPDE-DNA ELISA in the placenta of tobacco smoke-exposed and -unexposed mothers .
+Our results suggest a protective effect of the placental barrier against the genotoxic effect of some tobacco smoke components between the circulation of mother and child .
+We found a correlation between adduct levels in the blood of mothers and newborns .

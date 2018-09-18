@@ -1,0 +1,8 @@
+The associations between arsenic ingestion and cancers of the bladder and kidney have been documented in Taiwan .
+To evaluate further such associations for urinary cancers of various cell types , we conducted an ecologic study encompassing 243 townships using cancer registry data of patients diagnosed between 1980 and 1987 .
+We used the proportions of wells with various specified arsenic levels in each township as indicators of exposure and evaluated the effects of urbanization and smoking by an urbanization index and the number of cigarettes sold per capita .
+In both genders , we observed associations of high arsenic levels in drinking water with transitional cell carcinomas of the bladder , kidney , and ureter and all urethral cancers combined .
+We also observed such associations in adenocarcinomas of the bladder in males , but not in squamous cell carcinomas of the bladder or renal cell carcinomas or nephroblastomas of the kidney .
+There was also a positive association between the urbanization index and transitional cell carcinomas of the ureter in males .
+The number of cigarettes sold per capita was not a good predictor for urinary cancers .
+The results indicate that the carcinogenicity of arsenic may be cell type specific .

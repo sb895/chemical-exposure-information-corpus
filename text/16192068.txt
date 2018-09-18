@@ -1,0 +1,19 @@
+Between 1997 and 2001 , samples of drinking water ( DW ) were collected in about 600 households and pre-schools by a double sampling method , early in the morning ( stagnant water , W1 ) and in the evening ( flushed water , W2 ) .
+The study group included about 300 5-7-year-old children living in urban ( metropolitan , U ) and peripheral ( P ) areas of Kraków and rural ( R ) areas in southern Poland .
+Cadmium concentrations were estimated by the GF-AAS method with Zeeman background correction .
+Mean cadmium concentrations in water did not vary substantially by year .
+Moreover , there was no difference between P and R group ( p > 0.05 ) .
+The geometric mean ( GM ) and 95% confidence interval ( CI ) of cadmium concentrations in W2 was 0.13 ( 0.01-1.72 ) microg l(-1) for U group , while for combined ( P&R ) non-urban group ( NU ) it was 0.31 ( 0.02-6.24 ) microg l(-1) ( p < 0.001 ) .
+Significant differences between cadmium in W1 and W2 samples were evident from the ratio of cadmium concentration in W1 to W2 , i.e .
+R1,2 ; its difference ( W1 - W2 ) , i.e .
+D1,2 ; or relative difference 100 x ( W1 - W2)/W1 , i.e .
+D1,2% .
+For NU sites D1,2 , D1,2% and R1,2 values ( GM ) were 0.25 microg l(-1) , 34% and 2.19 , respectively , and for U sites 0.19 microg l(-1) , 50% and 3.49 , respectively .
+Parameter D1,2 was not site dependent ( p > 0.05 ) and exhibited a plateau at 0.44 microg l(-1) .
+The WHO and Polish limit of cadmium in DW ( 3 microg l(-1) ) was exceeded in W2 samples from 0.5 , 5.8 and 10.0% of households from the U , P and R areas , respectively .
+The predicted cadmium intake with W2 by children was ( GM ) 0.68 and 2.06% of PTWI for U and NU sites , respectively .
+However , these contributions were higher for W1 samples by coefficient R1,2 .
+For the cases exceeding the cadmium limit , the predicted cadmium intake with DW contributed to PTWI by 27.4-29.1% .
+The study proved that contamination of water with cadmium in plumbing is significant , independent of the site type and period .
+This contamination should be considered as a factor in public health protection programmes with special attention to children .
+An easy approach to limit the intake of cadmium from DW by about half would be to discard some of the first drawn portion of water from pipes after overnight or longer break of usage .

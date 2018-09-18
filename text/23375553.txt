@@ -1,0 +1,11 @@
+BACKGROUND Exposure to persistent organic pollutants ( POPs ) is of concern in Arctic populations since these contaminants accumulate in fish and marine mammals , which is an important part of the traditional diet of these populations .
+Epidemiological and experimental studies have reported significant associations between POPs and increased blood pressure ( BP ) in populations with different degrees of exposure .
+OBJECTIVE We aimed to assess the risk of hypertension related to increasing levels of polychlorinated biphenyls ( PCBs ) and organochlorine ( OC ) pesticides .
+METHODS Fifteen PCBs and 11 OC pesticides or their metabolites were determined in plasma of 1614 Inuit adults \u2265 18 years living in 9 towns and 13 villages in Greenland .
+BP was measured using a standardized protocol .
+The risk of hypertension was estimated through logistic regression using POPs as continuous variables ( log-transformed ) .
+Hypertension was defined as systolic BP \u2265 140 mm Hg , diastolic BP \u2265 90 mm Hg and/or antihypertensive treatment .
+RESULTS Overall , the odd ratios ( ORs ) of hypertension were not statistically significant for dioxin-like PCBs , non-dioxin-like PCBs and OC pesticides after adjusting for confounders .
+Once the analyses were stratified by age category ( 18-39 and \u2265 40 years ) , increased risk of hypertension was observed for total dioxin-like PCBs among the youngest [ OR : 1.34 ( 95% CI : 1.03-1.74) ] while a borderline protective effect was observed for total non-dioxin-like PCBs [ OR : 0.81 ( 95% CI : 0.66-0.99) ] among the oldest .
+Higher risk of hypertension was also associated with increasing p,p'-dichlorodiphenyltrichloroethane ( DDT ) concentrations among the youngest [ OR : 1.42 ( 95% CI : 1.08-1.85) ] .
+CONCLUSION Overall , no significant associations were observed between PCBs , OC pesticides and blood pressure in this highly exposed population although the associations differed by age category .

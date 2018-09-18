@@ -1,0 +1,10 @@
+BACKGROUND The University of Michigan Dioxin Exposure Study was undertaken to address concerns that the discharge of polychlorinated dibenzo-p-dioxins ( PCDDs ) and polychlorinated dibenzo furans ( PCDFs ) from the Dow Chemical Company in the Midland , Michigan , area had resulted in contamination of soils in the Tittabawassee River floodplain and the city of Midland , leading to an increase in residents ' body burdens of these compounds .
+OBJECTIVE In this article we present descriptive statistics from the resident survey and sampling of human serum , household dust , and soil and compare them with other published values .
+METHODS From a multistage random sample of populations in four areas of Midland and Saginaw counties and from a distant referent population , we interviewed 946 adults , who also donated blood for analysis of PCDDs , PCDFs , and polychlorinated biphenyls ( PCBs ) .
+Samples of household dust and house perimeter soil were collected from consenting subjects who owned their property .
+RESULTS All five study populations were comparable in age , race , sex , and length of residence in their current home .
+Regional differences existed in employment history , personal contact with contaminated soils , and consumption of fish and game from contaminated areas .
+Median soil concentrations were significantly increased around homes in the Tittabawassee River floodplain ( 11.4 ppt ) and within the city of Midland ( 58.2 ppt ) compared with the referent population ( 3.6 ppt ) .
+Median serum toxic equivalencies were significantly increased in people who lived in the floodplain ( 23.2 ppt ) compared with the referent population ( 18.5 ppt ) .
+CONCLUSIONS Differences in serum dioxin concentrations among the populations were small but statistically significant .
+Regression modeling is needed to identify whether the serum concentrations of PCDDs , PCDFs , and PCBs are associated with contaminated soils , household dust , and other factors .

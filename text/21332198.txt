@@ -1,0 +1,15 @@
+Perfluorooctane sulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) are widely detected in human blood and serum and are of concern due to their potential toxicity .
+This study investigated the indoor sources of these compounds and their neutral precursors through a survey of 152 homes in Vancouver , Canada .
+Samples were collected of indoor air , outdoor air , indoor dust , and clothes dryer lint and analyzed for neutral [ i.e. , fluorotelomer alcohols ( FTOHs ) , perfluorooctane sulfonamide ( FOSA ) , and perfluorooctane sulfonamidoethanol ( FOSE) ] and ionic [ i.e. , PFOS and perfluoroalkyl carboxylates ( PFCAs) ] poly- and perfluorinated compounds ( PFCs ) .
+Indoor air was dominated by 8:2 FTOH with a geometric mean concentration ( pg/m(3) ) of 2900 .
+Among the FOSAs and FOSEs , MeFOSE exhibited the highest air concentration with a geometric mean of 380 pg/m(3) .
+PFOA was the major ionic PFC and was detected in all indoor air samples with a geometric mean of 28 pg/m(3) , whereas PFOS was below the detection limit .
+The results for the ionic PFCs in indoor air are the first for North America .
+The pattern of the neutral PFCs in house dust was also dominated by 8:2 FTOH , with a geometric mean of 88 ng/g .
+Dusts were enriched ( relative to air ) with sulfonamidoethanol ( FOSE ) which comprised \u223c22% of the total neutral PFC content compared to only \u223c3% in air .
+PFOS and PFOA were the most prominent compounds detected in dust samples .
+Levels of neutral PFCs in clothes dryer lint were an order of magnitude lower compared to house dust .
+Human exposure estimates to PFCs for adults and children showed that inhalation was the main exposure route for neutral and ionic PFCs in adults .
+For toddlers , ingestion of PFCs via dust was more relevant and was on the order of a few mg/day .
+Results from this study contribute to our understanding of exposure pathways of PFCs to humans .
+This will facilitate investigations of related health effects and human monitoring data .

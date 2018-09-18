@@ -1,0 +1,13 @@
+BACKGROUND Exposure to wildfire smoke has been associated with cardiopulmonary health impacts .
+Climate change will increase the severity and frequency of smoke events , suggesting a need for enhanced public health protection .
+Forecasts of smoke exposure can facilitate public health responses .
+OBJECTIVES We evaluated the utility of a wildfire smoke forecasting system ( BlueSky ) for public health protection by comparing its forecasts with observations and assessing their associations with population-level indicators of respiratory health in British Columbia , Canada .
+METHODS We compared BlueSky PM2.5 forecasts with PM2.5 measurements from air quality monitors , and BlueSky smoke plume forecasts with plume tracings from National Oceanic and Atmospheric Administration Hazard Mapping System remote sensing data .
+Daily counts of the asthma drug salbutamol sulfate dispensations and asthma-related physician visits were aggregated for each geographic local health area ( LHA ) .
+Daily continuous measures of PM2.5 and binary measures of smoke plume presence , either forecasted or observed , were assigned to each LHA .
+Poisson regression was used to estimate the association between exposure measures and health indicators .
+RESULTS We found modest agreement between forecasts and observations , which was improved during intense fire periods .
+A 30-\u03bcg/m3 increase in BlueSky PM2.5 was associated with an 8% increase in salbutamol dispensations and a 5% increase in asthma-related physician visits .
+BlueSky plume coverage was associated with 5% and 6% increases in the two health indicators , respectively .
+The effects were similar for observed smoke , and generally stronger in very smoky areas .
+CONCLUSIONS BlueSky forecasts showed modest agreement with retrospective measures of smoke and were predictive of respiratory health indicators , suggesting they can provide useful information for public health protection .

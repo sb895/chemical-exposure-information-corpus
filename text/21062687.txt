@@ -1,0 +1,11 @@
+BACKGROUND Exposure to environmental toxicants is associated with numerous disease outcomes , many of which involve underlying immune and inflammatory dysfunction .
+OBJECTIVES To address the gap between environmental exposures and immune dysfunction , we investigated the association of two endocrine-disrupting compounds ( EDCs ) with markers of immune function .
+METHODS Using data from the 2003-2006 National Health and Nutrition Examination Survey , we compared urinary bisphenol A ( BPA ) and triclosan levels with serum cytomegalovirus ( CMV ) antibody levels and diagnosis of allergies or hay fever in U.S. adults and children \u2265 6 years of age .
+We used multivariate ordinary least squares linear regression models to examine the association of BPA and triclosan with CMV antibody titers , and multivariate logistic regression models to investigate the association of these chemicals with allergy or hay fever diagnosis .
+Statistical models were stratified by age ( < 18 years and \u2265 18 years ) .
+RESULTS In analyses adjusted for age , sex , race , body mass index , creatinine levels , family income , and educational attainment , in the \u2265 18-year age group , higher urinary BPA levels were associated with higher CMV antibody titers ( p < 0.001 ) .
+In the < 18-year age group , lower levels of BPA were associated with higher CMV antibody titers ( p < 0.05 ) .
+However , triclosan , but not BPA , showed a positive association with allergy or hay fever diagnosis .
+In the < 18-year age group , higher levels of triclosan were associated with greater odds of having been diagnosed with allergies or hay fever ( p < 0.01 ) .
+CONCLUSIONS EDCs such as BPA and triclosan may negatively affect human immune function as measured by CMV antibody levels and allergy or hay fever diagnosis , respectively , with differential consequences based on age .
+Additional studies should be done to investigate these findings .

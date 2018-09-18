@@ -1,0 +1,8 @@
+The objectives of this study are to investigate the volatile organic compound ( VOC ) distribution using passive samplers and to assess the resulting health risks in a high-tech science industrial park .
+With the advantages of passive sampling techniques , long-term and wide-area samples are collected .
+The results show TVOC concentrations in summer , fall , winter , and spring are 7.14 ± 5.66 ppb , 18.17 ± 5.81 ppb , 10.30 ± 3.54 ppb , and 14.56 ± 4.53 ppb , respectively ; those on weekdays and weekends are 14.36 ± 6.80 ppb and 9.87 ± 4.86 ppb , respectively ; and those in industrial and residential zones are 12.97 ± 0.39 ppb and 11.13 ± 0.68 ppb , respectively .
+Based on concentration variations , and benzene , toluene , ethylbenzene , and xylene ratios , we can resolve the source origins .
+Health risks are assessed based on the resulting concentrations .
+In the case of non-cancer chronic effects , long-term exposure to these concentrations does not support there is a risk of adverse health effects .
+However , potential cancer risks of exposure to these concentrations may occur , especially to carbon tetrachloride and benzene .
+By applying this study's procedures , information on VOC concentration distribution , source identification , and health assessment can be obtained and they are applicable to similar studies .

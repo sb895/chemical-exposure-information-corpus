@@ -1,0 +1,8 @@
+OBJECTIVE The authors conducted an investigation of the association between air pollution and arrhythmia .
+METHODS A prospective panel study ( October 2000-April 2001 ) was conducted in Erfurt , Germany .
+Fifty-seven men with coronary heart disease were subjected to six 24-hour electrocardiogram recordings .
+Runs of supraventricular and ventricular tachycardia were associated with continuous ultrafine particle counts ( UFP ) , accumulation mode particle counts ( ACP ) , PM2.5 , and gaseous pollutants .
+Poisson and linear regression models were applied adjusting for trend , weekday , and meteorologic data .
+RESULTS Elevated concentrations of UFP , ACP , PM2.5 , and nitrogen dioxide increased the risk for supraventricular runs and the number of ventricular runs at almost all lags .
+Statistically significant associations were found predominantly in the previous 24 to 71 hours and with the 5-day moving average .
+CONCLUSION Elevated concentrations of fine and ultrafine particle increased the risk of arrhythmia in men with coronary heart disease .

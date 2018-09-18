@@ -1,0 +1,10 @@
+BACKGROUND Heavy metals have been shown to alter the mechanism and release of lysosomal enzymes .
+In the present study , the activities of lysosomal glycohydrolases were determined in order to evaluate the asymptomatic toxic effects of low levels of exposure to arsenic ( As ) and antimony ( Sb ) in art glass workers .
+METHODS N-acetyl-beta-D-glucosaminidase ( NAG ) , beta-D-glucuronidase ( GCR ) , alpha- and beta-D-galactosidase , alpha-D-glucosidase , and alpha-D-mannosidase were determined by a fluorimetric assay in the plasma of 26 art glass workers .
+Lymphocytes cultured in the presence of different species of As and Sb served as an in vitro model for the study of the protective action of selenium and zinc .
+RESULTS No significant difference in the plasma levels of the various enzymes was detected in art glass workers or control subjects .
+The in vitro experiments demonstrated that secretion of lysosomal glycohydrolases was increased by Sb ( 225% ) and decreased by As ( 57% ) at the same concentration of elements ( 200 microg/L ) .
+The addition of bivalent selenium to the culture neutralized the effects of both metals , while zinc chloride did not show any protective effect .
+CONCLUSIONS As for the plasma glycohydrolases , no praecox signs of toxicity related to a low concentration of As and Sb was evident in art glass workers .
+This may be due to the antagonistic effects demonstrated by these two metals in vitro .
+Their different mechanism of action on release of glycohydrolases is being discussed .

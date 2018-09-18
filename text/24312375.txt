@@ -1,0 +1,11 @@
+BACKGROUND Cadmium ( Cd ) and lead ( Pb ) are hypothesised to be risk factors for non-Hodgkin's lymphoma ( NHL ) , a group of haematological malignancies with a suspected environmental aetiology .
+Within the EnviroGenoMarkers study we utilised pre-diagnostic erythrocyte concentrations of Cd and Pb to determine whether exposure was associated with risk of B-cell NHL and multiple myeloma .
+METHODS 194 incident cases of B-cell NHL and 76 cases of multiple myeloma diagnosed between 1990 and 2006 were identified from two existing cohorts ; EPIC-Italy and the Northern Sweden Health and Disease Study .
+Cases were matched to healthy controls by centre , age , gender and date of blood collection .
+Cd and Pb were measured in blood samples provided at recruitment using inductively coupled plasma-mass spectrometry .
+Logistic regression was applied to assess the association with risk .
+Analyses were stratified by cohort and gender and by subtype where possible .
+RESULTS There was little evidence of an increased risk of B-cell NHL or multiple myeloma with exposure to Cd ( B-cell NHL : OR 1.09 95%CI 0.61 , 1.93 , MM : OR 1.16 95% CI : 0.40 , 3.40 ) or Pb ( B-cell NHL : 0.93 95% CI 0.43 , 2.02 , multiple myeloma : OR 1.63 95%CI 0.45 , 5.94 ) in the total population when comparing the highest to the lowest quartile of exposure .
+However , gender and cohort specific differences in results were observed .
+In females the risk of B-cell NHL was more than doubled in those with a body burden of Cd >1 µg/L ( OR 2.20 95%CI ; 1.04 , 4.65 ) .
+CONCLUSIONS This nested case-control study does not support a consistent positive association between Cd or Pb and NHL , but there is some indication of a gender specific effect suggesting further research is warranted .

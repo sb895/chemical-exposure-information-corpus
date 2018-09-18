@@ -1,0 +1,11 @@
+Perfluorinated chemicals ( PFCs ) are used in multiple consumer products .
+Perfluorooctane sulfonic acid ( PFOS ) and perfluorooctanoic acid ( PFOA ) , the most widely studied PFCs , may be potential developmental , reproductive , and systemic toxicants .
+Although PFCs seem to be ubiquitous contaminants found both in humans and animals , geographic differences may exist in human exposure patterns to PFCs .
+We measured 11 PFCs in 23 pooled serum samples collected in the United States from 1990 through 2002 , and in serum samples collected in 2003 from 44 residents from Trujillo , Peru .
+PFOS and PFOA were detected in all the pooled samples ; perfluorohexane sulfonic acid ( PFHxS ) was detected in 21 .
+Median concentrations were 31.1 micrograms per liter ( mug/l , PFOS ) , 11.6 microg/l ( PFOA ) , and 2 microg/l ( PFHxS ) .
+The 90th percentile concentrations of PFCs in the 44 Peruvian residents were 0.7 microg/l ( PFOS ) , 0.1 microg/l ( PFOA ) , and <0.3 microg/l ( PFHxS ) .
+The frequencies of detection were 20% ( PFOS ) , 25% ( PFOA ) , and 9% ( PFHxS ) .
+The frequent detection of selected PFCs in the pooled samples from the United States and the lack of clear concentration trends based on a year of collection suggest a sustained widespread exposure to these compounds among US residents , at least since the 1990s .
+By contrast , the much lower frequency of detection and concentration ranges of PFCs in Peru suggest a lower exposure of Peruvians to PFCs compared with North Americans .
+Genetic variability , diet , lifestyle , or a combination of all these may contribute to the different patterns of human exposure to PFCs in the United States and Peru .

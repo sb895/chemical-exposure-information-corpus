@@ -1,0 +1,9 @@
+Children living near hazardous waste sites may be exposed to environmental contaminants , yet few studies have conducted multi-media exposure assessments , including residential environments where children spend most of their time .
+We sampled yard soil , house dust , and particulate matter with aerodynamic diameter <2.5 in 59 homes of young children near an abandoned mining area and analyzed samples for lead ( Pb ) , zinc ( Zn ) , cadmium ( Cd ) , arsenic ( As ) , and manganese ( Mn ) .
+In over half of the homes , dust concentrations of Pb , Zn , Cd , and As were higher than those in soil .
+Proximity to mine waste ( chat ) piles and the presence of chat in the driveway significantly predicted dust metals levels .
+Homes with both chat sources had Pb , Zn , Cd , and As dust levels two to three times higher than homes with no known chat sources after controlling for other sources .
+In contrast , Mn concentrations in dust were consistently lower than in soil and were not associated with chat sources .
+Mn dust concentrations were predicted by soil concentrations and occupant density .
+These findings suggest that nearby outdoor sources of metal contaminants from mine waste may migrate indoors .
+Populations farther away from the mining site may also be exposed if secondary uses of chat are in close proximity to the home .

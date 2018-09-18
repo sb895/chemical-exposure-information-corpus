@@ -1,0 +1,6 @@
+Variation in blood lead concentration is caused by a complex interaction of environmental , social , nutritional , and genetic factors .
+We evaluated the association between blood lead concentration and a vitamin D receptor ( VDR ) gene polymorphism .
+Environmental samples and blood were analyzed for lead , nutritional and behavioral factors were assessed , and VDR -Fok1 genotype was determined in 245 children .
+We found a significant interaction between floor dust lead and genotype on blood lead concentration .
+For every 1 microg/ft(2) increase in floor dust , children with VDR -FF genotype had a 1.1% increase in blood lead [ 95% confidence interval ( CI ) , 0.69-1.5 ] , VDR -Ff , 0.53% increase ( 95% CI , 0.1-0.92 ) , and VDR -ff , 3.8% increase ( 95% CI , 1.2-6.3 ) ; however , at floor dust levels < 10 microg/ft(2) , children with VDR -ff had the lowest blood lead concentrations .
+These data suggest that VDR -Fok1 is an effect modifier of the relationship of floor dust lead exposure and blood lead concentration .

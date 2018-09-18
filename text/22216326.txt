@@ -1,0 +1,9 @@
+BACKGROUND Millions of households throughout Bangladesh have been exposed to high levels of arsenic ( As ) causing various deadly diseases by drinking groundwater from shallow tubewells for the past 30 years .
+Well testing has been the most effective form of mitigation because it has induced massive switching from tubewells that are high ( >50 µg/L ) in As to neighboring wells that are low in As .
+A recent study has shown , however , that shallow low-As wells are more likely to be contaminated with the fecal indicator E. coli than shallow high-As wells , suggesting that well switching might lead to an increase in diarrheal disease .
+METHODS Approximately 60,000 episodes of childhood diarrhea were collected monthly by community health workers between 2000 and 2006 in 142 villages of Matlab , Bangladesh .
+In this cross-sectional study , associations between childhood diarrhea and As levels in tubewell water were evaluated using logistic regression models .
+RESULTS Adjusting for wealth , population density , and flood control by multivariate logistic regression , the model indicates an 11% ( 95% confidence intervals ( CIs ) of 4-19% ) increase in the likelihood of diarrhea in children drinking from shallow wells with 10-50 µg/L As compared to shallow wells with >50 µg/L As .
+The same model indicates a 26% ( 95%CI : 9-42% ) increase in diarrhea for children drinking from shallow wells with \u226410 µg/L As compared to shallow wells with >50 µg/L As .
+CONCLUSION Children drinking water from shallow low As wells had a higher prevalence of diarrhea than children drinking water from high As wells .
+This suggests that the health benefits of reducing As exposure may to some extent be countered by an increase in childhood diarrhea .

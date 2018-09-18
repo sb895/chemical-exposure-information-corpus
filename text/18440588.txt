@@ -1,0 +1,9 @@
+The dietary intake of non-dioxin-like polychlorinated biphenyls ( NDL-PCBs ) has been estimated using the sum of six indicator PCBs ( Sigma(6)(PCBs) ) in the Italian general population .
+Data from a national food consumption survey were combined with the mean concentration values of the individual six indicator PCBs ( IUPAC Nos. 28 , 52 , 101 , 138 , 153 , and 180 ) in foodstuffs available on the European market .
+Mean concentrations were estimated from the raw data set provided by the European Commission ( DG SANCO ) .
+The purpose was to describe the distribution of NDL-PCB dietary intake in the Italian population , and to investigate to what extent the variability in dietary habits may cause higher exposures to the aforesaid contaminants .
+Results indicated a mean dietary intake of Sigma(6)(PCBs) corresponding to 24.6 , 16.1 , and 10.9 ng kg-bw(-1) day(-1) for toddlers ( 0.5-6 years old , excluding breastfeeding ) , children ( 7-12 year old ) , and adults ( 13-94 years old ) , respectively .
+Fish and fishery products and milk and dairy products were the major contributors to the total dietary intake .
+The highest exposures due to variation in dietary habits were in general two-three times higher than the corresponding mean values and they were generally due to a higher fish consumption rate .
+The NDL-PCB dietary intake decreased with age until about 10-12 years ; afterwards it appeared to remain constant .
+The tolerable daily intake ( TDI ) has not been established for these contaminants ; however , action and maximum allowed levels in feeding stuffs and food recently established by the European Commission for dioxin-like PCBs could also protect consumers from exposure to NDL-PCBs .

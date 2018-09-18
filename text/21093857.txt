@@ -1,0 +1,11 @@
+BACKGROUND Seafood is the main source of organic arsenic exposure ( arsenobetaine , arsenosugars and arsenolipids ) in the population .
+Arsenosugars and arsenolipids are metabolized to several species including dimethylarsinate ( DMA ) .
+OBJECTIVE Evaluate the association of seafood intake with spot urine arsenic concentrations in the 2003-2006 National Health Nutrition and Examination Survey ( NHANES ) .
+METHODS We studied 4276 participants \u2265 6 years .
+Total arsenic was measured using inductively coupled plasma dynamic reaction cell mass spectrometry ( ICPMS ) .
+Urine DMA and arsenobetaine were measured by high-performance liquid chromatography coupled with ICPMS .
+RESULTS Participants reporting seafood in the past 24-h had higher urine concentrations of total arsenic ( median 24.5 vs. 7.3 \u03bcg/L ) , DMA ( 6.0 vs. 3.5 \u03bcg/L ) , arsenobetaine ( 10.2 vs. 0.9 \u03bcg/L ) and total arsenic minus arsenobetaine ( 11.0 vs. 5.5 \u03bcg/L ) .
+Participants reporting seafood \u2265 2/wk vs. never during the past year had 2.3 ( 95% confidence interval 1.9 , 2.7 ) , 1.4 ( 1.2 , 1.6 ) , 6.0 ( 4.6 , 7.8 ) and 1.7 ( 1.4 , 2.0 ) times higher ( p-trend <0.001 ) concentrations of total arsenic , DMA , arsenobetaine and total arsenic minus arsenobetaine , respectively .
+In participants without detectable arsenobetaine and in analyses adjusted for arsenobetaine , seafood consumption in the past year was not associated with total arsenic or DMA concentrations in urine .
+CONCLUSION Seafood intake was a major determinant of increased urine concentrations of total arsenic , DMA , arsenobetaine and total arsenic minus arsenobetaine in the US population .
+Epidemiologic studies that use total arsenic , DMA , the sum of inorganic arsenic , methylarsonate and DMA , and total arsenic minus arsenobetaine as markers of inorganic arsenic exposure and/or metabolism need to address seafood intake .

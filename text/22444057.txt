@@ -1,0 +1,6 @@
+Contaminants in urban soils can directly pose significant human health risks through oral ingestion , particle inhalation , and dermal contact , especially for children in public parks .
+Both non-carcinogenic and carcinogenic risks of heavy metals ( Cd , Co , Cr , Cu , Mn , Ni , Pb , and Zn ) were characterized in 40 surface soils ( exposed lawns ) from 14 urban parks in Xiamen , China .
+Results based on total metal concentrations may overestimate the actual risks in comparison with oral bioaccessibility assessment that were estimated by a simplified physiologically based extraction test ( SBET ) .
+After considering the soil-specific bioaccessibility ( Cd>Cu>Pb>Mn>Zn>Co the non-cancer hazard of Pb to children via oral ingestion should be a consideration though its Hazard Index ( HI ) was below one .
+The overall cancer risks to adults still exceeded the target value 10(-6) , mainly contributed by Cr ( 93.8% ) and Pb ( 6.19% ) via dermal contact ( 68.3% ) and oral ingestion ( 30.4% ) .
+To produce a more realistic estimation for human health risks of metal contamination in urban soils , a framework combining land use type and bioaccessibility is recommended and thereby should be applied for the derivation of risk-based , site-specific soil guidelines .

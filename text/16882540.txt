@@ -1,0 +1,11 @@
+In this study we investigated the risk of hearing loss among workers exposed to both toluene and noise .
+We recruited 58 workers at an adhesive materials manufacturing plant who were exposured to both toluene and noise [ 78.6-87.1 A-weighted decibels ; dB(A) ] , 58 workers exposed to noise only [ 83.5-90.1 dB(A) ] , and 58 administrative clerks [ 67.9-72.6 dB(A) ] at the same company .
+We interviewed participants to obtain sociodemographic and employment information and performed physical examinations , including pure-tone audiometry tests between 0.5 and 6 kHz .
+A contracted laboratory certified by the Council of Labor in Taiwan conducted on-site toluene and noise exposure measurements .
+The prevalence of hearing loss of >or=25 dB in the toluene plus noise group ( 86.2% ) was much greater than that in the noise-only group ( 44.8% ) and the administrative clerks ( 5.0% ) ( p<0.001 ) .
+The prevalence rates were 67.2 , 32.8 , and 8.3% ( p<0.001 ) , respectively , when 0.5 kHz was excluded from the estimation .
+Multivariate logistic regression analysis showed that the toluene plus noise group had an estimated risk for hearing loss>or=25 dB , 10.9 times higher than that of the noise-only group .
+The risk ratio dropped to 5.8 when 0.5 kHz was excluded from the risk estimation .
+Hearing impairment was greater for the pure-tone frequency of 1 kHz than for that of 2 kHz .
+However , the mean hearing threshold was the poorest for 6 kHz , and the least effect was observed for 2 kHz .
+Our results suggest that toluene exacerbates hearing loss in a noisy environment , with the main impact on the lower frequencies .

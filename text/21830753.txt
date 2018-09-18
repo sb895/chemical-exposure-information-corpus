@@ -1,0 +1,10 @@
+Prenatal exposure to polybrominated diphenyl ethers ( PBDEs ) may disrupt thyroid function and contribute to adverse neurodevelopmental outcomes .
+We conducted a pilot study to explore the relationship between serum concentrations of lower-brominated PBDEs ( BDE-17 to -154 ) , higher-brominated PBDEs ( BDE-183 to -209 ) , and hydroxylated PBDE metabolites ( OH-PBDEs ) with measures of thyroid function in pregnant women .
+Concentrations of PBDEs , OH-PBDEs , thyroid-stimulating hormone ( TSH ) , total thyroxine ( T(4) ) , and free T(4) were measured in serum samples collected between 2008 and 2009 from 25 second trimester pregnant women in California .
+Median concentrations of lower-brominated PBDEs and OH-PBDEs were the highest reported to date in pregnant women .
+Median concentrations of BDE-47 and the sum of lower-brominated PBDEs ( \u03a3PBDE(5) ) were 43.1 ng/g lipid and 85.8 ng/g lipid , respectively , and the sum of OH-PBDEs ( \u03a3OH-PBDE(4) ) was 0.084 ng/mL .
+We observed a positive association between the weighted sum of chemicals known to bind to transthyretin ( \u03a3TTR binders ) and TSH levels .
+We also found positive associations between TSH and \u03a3PBDE(5) , \u03a3OH-PBDE(4) , BDE-47 , BDE-85 , 5-OH-BDE47 , and 4'-OH-BDE49 , and an inverse association with BDE-207 .
+Relationships with free and total T(4) were weak and inconsistent .
+Our results indicate that PBDE exposures are elevated in pregnant women in California and suggest a relationship with thyroid function .
+Further investigation is warranted to characterize the risks of PBDE exposures during pregnancy .

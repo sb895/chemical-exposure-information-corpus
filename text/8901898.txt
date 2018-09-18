@@ -1,0 +1,7 @@
+Retrospective , quantitative estimates of exposure to 1,3-butadiene , styrene and benzene were developed for a follow-up study of leukemia mortality among 16610 subjects employed at six North American styrene-butadiene rubber manufacturing plants ( 418846 person-years , 58 leukemia deaths ) .
+The estimation procedure entailed identifying work areas within each manufacturing process , historical changes in exposure potential and specific tasks involving exposure , and using mathematical models to calculate job- and time-period-specific average exposures .
+The resulting estimates were linked with the subjects ' work histories to obtain cumulative exposure estimates , which were employed in stratified and Poisson regression analyses of mortality rates .
+Mantel-Haenszel rate ratios adjusted by race , age , and cumulative styrene exposure increase with cumulative butadiene exposure from 1 in the nonexposed category to 4.5 in the category of 80 ppm-years or more ( P = 0.01 ) .
+The risk pattern is less clear and statistically nonsignificant for styrene exposure .
+A trend of increasing risk with butadiene exposure is still present after exclusion of the nonexposed category ( P = 0.03 ) .
+A parsimonious interpretation of the findings presented here , in light of previous epidemiologic studies , is that exposure to butadiene in the synthetic rubber industry produces a dose-related increase in the occurrence of leukemia .

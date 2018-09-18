@@ -1,0 +1,12 @@
+Perfluoroalkyl acids ( PFAAs ) are a group of chemicals used for many applications and widely present in the environment and humans .
+In this study , serum levels of PFAAs and isomers of perfluorooctanesulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) were analyzed in 141 Chinese pregnant women .
+Among all the samples , total PFOS ( \u2211PFOS , mean concentration 7.32ng/mL ) was predominant , followed by \u2211PFOA ( mean 4.78ng/mL ) and perfluorodecanoate ( PFDA , mean 1.45ng/mL ) .
+On average , the proportion of linear PFOS ( n-PFOS ) was 66.7% of \u2211PFOS , which was higher than the general population , implying that maternal women could excrete branched PFOS isomers to the fetus by transplacental transfer .
+Moreover , the proportion of n-PFOS decreased significantly with the increasing concentration of \u2211PFOS in the serum samples ( r=-0.342 , p<0.001 ) .
+The mean proportion of n-PFOA in the serum samples was 99.0% , which was much higher than the technical ECF ( electrochemical fluorination ) products ( ca. 70% ) .
+The small proportion of branched isomers of PFOA suggests that there is still a source of ECF PFOA in China .
+Significant correlations ( p<0.005 ) were observed between the concentrations of some PFAAs with certain medical parameters in the pregnant women .
+For example , the levels of most perfluorinated carboxylic acids ( PFCAs ) were found to correlate with albumin significantly , which might be a sign of immunotoxicity of these chemicals .
+The adverse effects of PFAA exposure to pregnant women may increase the health risk of the fetus .
+Interestingly , not only the PFAA concentrations but also the percentages of PFOS and PFOA isomers were correlated with certain medical parameters .
+This implies that the compositions of PFOS or PFOA should be considered in human health risk assessment in the future .

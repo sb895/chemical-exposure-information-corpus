@@ -1,0 +1,9 @@
+BACKGROUND Despite experimental evidence , most epidemiologic studies to date have not supported an association between exposure to persistent organic pollutants ( POP ) and breast cancer incidence in humans .
+This may be attributable to difficulties in estimating blood/tissue POP concentration at critical time periods of carcinogenesis .
+OBJECTIVES In this work we aimed to develop a tool to estimate lifetime POP blood/tissue exposure and levels during any hypothesized time window of susceptibility in breast cancer development .
+METHODS We developed a physiologically based pharmacokinetic ( PBPK ) model that can account for any given physiologic lifetime history .
+Using data on pregnancies , height , weight , and age , the model estimates the values of physiologic parameters ( e.g. , organ volume , composition , and blood flow ) throughout a woman's entire life .
+We assessed the lifetime toxicokinetic profile ( LTP ) for various exposure scenarios and physiologic factors ( i.e. , breast-feeding , growth , pregnancy , lactation , and weight changes ) .
+RESULTS Simulations for three POPs [ hexachlorobenzene , polychlorinated biphenyl ( PCB)-153 , PCB-180 ] using different lifetime physiologic profiles showed that the same blood concentration at 55 years of age can be reached despite totally different LTP .
+Aside from exposure levels , lactation periods and weight profile history were shown to be the factors that had the greatest impact on the LTP .
+CONCLUSIONS This new lifetime PBPK model , which showed the limitations of using a single sample value obtained around the time of diagnosis for lifetime exposure assessment , will enable researchers conducting environmental epidemiology studies to reduce uncertainty linked to past POP exposure estimation and to consider exposure during time windows that are hypothesized to be mechanistically critical in carcinogenesis .

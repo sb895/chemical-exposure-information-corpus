@@ -1,0 +1,6 @@
+OBJECTIVE We set out to assess whether environmental prenatal exposure to polychlorinated biphenyls ( PCBs ) is associated with incidence of acute respiratory infections in preschool Inuit children .
+STUDY DESIGN We reviewed the medical charts of 343 children from 0 to 5 years of age and evaluated the associations between PCB-153 concentration in umbilical cord plasma and the incidence rates of acute otitis media ( AOM ) and of upper and lower respiratory tract infections ( URTIs and LRTIs , respectively ) .
+RESULTS The incidence rates of AOM and LRTIs were positively associated with prenatal exposure to PCBs .
+Compared with children in the first quartile of exposure ( least exposed ) , children in fourth quartile ( most exposed ) had rate ratios of 1.25 ( p<0.001 ) and 1.40 ( p<0.001 ) for AOM and LRTIs , respectively .
+There was no association between prenatal PCB exposure and incidence rate of URTIs or hospitalization .
+CONCLUSION Prenatal exposure to PCBs could be responsible for a significant portion of respiratory infections in children of this population .

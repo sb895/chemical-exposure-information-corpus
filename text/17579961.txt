@@ -1,0 +1,9 @@
+A simple and rapid procedure for measuring total mercury in human hair was evaluated and compared with a conventional technique .
+An Advanced Mercury Analyzer ( AMA-254 ) based on sample catalytic combustion , preconcentration by gold amalgamation , thermal desorption , and atomic absorption spectrometry ( AAS ) ( Comb-AAS ) was assessed for the direct determination of milligram quantities of human hair .
+Precision ( % relative standard deviation ) was < 7% and accuracy was determined by using two human hair reference materials ( i.e. , NIES No. 13 and IAEA-086 ) that were within the certified range .
+In comparison to conventional graphite-furnace atomic absorption spectrophotometry ( GF-AAS ) , we found that our method obtained statistically equivalent results .
+Because total analysis time per sample was less than 10 min , the Comb-AAS method was in fact much faster than the GF-AAS method .
+In addition , Comb-AAS does not generate waste products and could be mainly useful for the analysis of a large amount of samples .
+Then , the authors suggest that this quick method could be useful for measuring mercury in human hair .
+Therefore , the mercury content in hair for a non-exposed group of children ( n=40 ) living in Spain was evaluated .
+The mean and median hair mercury levels for the subjects under study were found to be lower than the value of 1 microg/g , corresponding to the reference dose of 0.1 microg of methylmercury per kilogram body weight set by the U.S. Environmental Protection Agency .

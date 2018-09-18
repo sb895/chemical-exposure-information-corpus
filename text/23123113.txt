@@ -1,0 +1,10 @@
+The combustion of fuels produces air pollutants in the form of gases , organic compounds , and particulate matter .
+However , although the environmental aspect of these agents has been examined , workers ' exposure to them is still a neglected issue .
+The purpose of this study was to measure maintenance and ash removal workers ' multiple exposures to gases , volatile organic compounds ( VOCs ) and polycyclic aromatic hydrocarbons ( PAHs ) during their work tasks in biomass-fired power plants .
+Our hygienic measurements revealed that carbon monoxide , nitric oxide , ammonia and sulfur dioxide were the most common gases that the workers were exposed to during their tasks .
+Their average concentrations were 0.45 ppm , 0.06 ppm , 0.11 ppm and 0.42 ppm , respectively .
+Phenanthrene and naphthalene were the most prominent PAHs .
+At the same sampling points , the most commonly found VOCs were aromatic and aliphatic hydrocarbons and turpentines .
+The calculated total PAH concentrations were less than 7% of benzo[a]pyrene's eight-hour occupational exposure limit , and the total VOC concentrations were below the Finnish reference value for the normal industrial level in all measured work tasks .
+The most evident health effect caused by multiple exposures to gases was upper respiratory track irritation , followed by the disruption of oxygen transport , and finally central nervous system disorders .
+We recommend powered air respirators with ABEK+P3 cartridges and carbon monoxide gas detectors as the minimum requirement for those working inside biomass-fired power plant boilers , and compressed air breathing apparatus as the best form of protection .

@@ -1,0 +1,6 @@
+The association between dietary acrylamide intake and the incidence of invasive breast cancer was examined among 61,433 Swedish women who were cancer free and completed a food frequency questionnaire in 1987-1990 and again in 1997 .
+During a mean follow-up of 17.4 years , a total of 2,952 incident cases of breast cancer were diagnosed in the cohort .
+In multivariate analyses controlling for breast cancer risk factors , no statistically significant association was observed between long-term acrylamide intake ( assessed at baseline and in 1997 ) and the risk of breast cancer , overall or by estrogen receptor ( ER ) and progesterone receptor ( PR ) status .
+The multivariate rate ratios comparing extreme quartiles of acrylamide intake were 0.91 ( 95% confidence interval ( CI ) : 0.80 , 1.02 ) for overall breast cancer , 0.89 ( 95% CI : 0.74 , 1.08 ) for ER+PR+ tumors , 1.17 ( 95% CI : 0.84 , 1.64 ) for ER+PR- tumors , and 0.91 ( 95% CI : 0.61 , 1.38 ) for ER-PR- tumors .
+The association between acrylamide intake and breast cancer risk did not differ by smoking status .
+These findings for Swedish women do not support the hypothesis that dietary acrylamide is positively associated with risk of breast cancer , at least not within the ranges of acrylamide consumed by this population .

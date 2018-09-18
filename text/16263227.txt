@@ -1,0 +1,11 @@
+Urinalysis of multiple polycyclic aromatic hydrocarbons ( PAH ) biomarkers has been applied to assess the exposure of soil remediation workers on a former creosote wood impregnation site polluted with creosote oil .
+The uptake of PAHs was measured in preshift , end-of-shift , evening , and next preshift specimens ( n=33 ) of nine volunteers with diverse tasks , using sensitive HPLC-FD methods .
+The ranges of biomarker concentrations in urine ( nmol/l ) were : 1-naphthol ( 14-159 ) , 2-naphthol ( 9-166 ) , 1- plus 2-naphthol ( 35-269 ) , 1-hydroxyphenanthrene ( OHPhe ) ( 6-56 ) , 2- plus 3-OHPhe ( 6-70 ) , 4-OHPhe ( 1-6 ) , 9-OHPhe ( 1-7 ) , the sum of phenanthrols ( 15-135 ) , and 1-hydroxypyrene , OHP ( 2.2-67 ) .
+Eight of nine workers had OHP levels higher than the Finnish biological limit value for non-occupationally exposed persons ( 3nmol/l ) .
+A linear correlation was observed between 1- and 2-naphthol ( r=0.90 ) .
+The biomarker OHP correlated well in urine both with the major ( 1-OHPhe , r=0.96 ; 2- plus 3-OHPhe , r=0.84 ) and the minor phenanthrene metabolites ( 4-OHPhe , r=0.77 ; 9-OHPhe , r=0.68 ) , and with the sum of all phenanthrols ( r=0.94 ) , but not so well with the sum of naphthols ( r=0.66 , p<0.001 ) .
+The smokers had 2.9- , 2.2- , and 4.8-fold higher average concentrations of naphthols , phenanthrols , and OHP , respectively , than the non-smokers .
+The PAH biomarker data ( concentrations and diurnal excretion profiles ) showed significant work-related exposure in both non-smoking and smoking subjects .
+The average exposure levels were clearly higher than those we have measured for instance in asphalt paving workers .
+The workers ' exposure should be assessed by biological monitoring , because at this type of outdoor work the dermal and pulmonary uptake of PAHs are both likely .
+Adequate measures for preventing , particularly , dermal absorption are of crucial importance for reducing the workers ' risk of exposure to carcinogens on soil remediation sites .

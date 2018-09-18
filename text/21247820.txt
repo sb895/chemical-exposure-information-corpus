@@ -1,0 +1,13 @@
+BACKGROUND Arsenic ( As ) occurs as monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) in humans , and the methylation pattern demonstrates large interindividual differences .
+The fraction of urinary MMA is a marker for susceptibility to As-related diseases .
+OBJECTIVES We evaluated the impact of polymorphisms in five methyltransferase genes on As metabolism in two populations , one in South America and one in Southeast Asia .
+The methyltransferase genes were arsenic(+III oxidation state ) methyltransferase ( AS3MT ) , DNA-methyltransferase 1a and 3b ( DNMT1a and DNMT3b , respectively ) , phosphatidylethanolamine N-methyltransferase ( PEMT ) , and betaine-homocysteine methyltransferase ( BHMT ) .
+AS3MT expression was analyzed in peripheral blood .
+METHODS Subjects were women exposed to As in drinking water in the Argentinean Andes [ n = 172 ; median total urinary As ( U-As ) , 200 µg/L ] and in rural Bangladesh ( n = 361 ; U-As , 100 µg/L ; all in early pregnancy ) .
+Urinary As metabolites were measured by high-pressure liquid chromatography/inductively coupled plasma mass spectrometry .
+Polymorphisms ( n = 22 ) were genotyped with Sequenom , and AS3MT expression was measured by quantitative real-time polymerase chain reaction using TaqMan expression assays .
+RESULTS Six AS3MT polymorphisms were significantly associated with As metabolite patterns in both populations ( p \u2264 0.01 ) .
+The most frequent AS3MT haplotype in Bangladesh was associated with a higher percentage of MMA ( %MMA ) , and the most frequent haplotype in Argentina was associated with a lower %MMA and a higher percentage of DMA .
+Four polymorphisms in the DNMT genes were associated with metabolite patterns in Bangladesh .
+Noncoding AS3MT polymorphisms affected gene expression of AS3MT in peripheral blood , demonstrating that one functional impact of AS3MT polymorphisms may be altered levels of gene expression .
+CONCLUSIONS Polymorphisms in AS3MT significantly predicted As metabolism across these two very different populations , suggesting that AS3MT may have an impact on As metabolite patterns in populations worldwide .

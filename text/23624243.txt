@@ -1,0 +1,9 @@
+Perfluorooctanoic acid ( PFOA , ' C8' ) and perfluoroctane sulphonate ( PFOS ) are environmentally stable compounds with industrial and consumer uses and long half-lives in humans .
+Concern has been raised over chronic exposure effects to human health , especially in relation to cholesterol metabolism .
+Here , we explore the association between exposure to PFOA and PFOS and the in vivo expression of genes involved in cholesterol metabolism .
+We studied 290 individuals exposed to background levels of PFOS and elevated concentrations of PFOA through drinking water .
+Using adjusted linear regression models , we found inverse associations between serum PFOA levels and the whole blood expression level of genes involved in cholesterol transport ( NR1H2 , NPC1 and ABCG1 ; p=0.002 , 0.026 and 0.014 respectively ) .
+A positive association was seen between PFOS and a transcript involved in cholesterol mobilisation ( NCEH1 ; p=0.018 ) , and a negative relationship with a transcript involved in cholesterol transport ( NR1H3 ; p=0.044 ) .
+When sexes were analysed separately , reductions in the levels of mRNAs involved in cholesterol transport were seen with PFOA in men ( NPC1 , ABCG1 , and PPARA ; p=0.025 , 0.024 and 0.012 respectively ) and in women ( NR1H2 expression ; p=0.019 ) , whereas an increase in the levels of a cholesterol mobilisation transcript ( NCEH1 ; p=0.036 ) was noted in women alone .
+PFOS was positively associated with expression of genes involved in both cholesterol mobilisation and transport in women ( NCEH1 and PPARA ; p=0.003 and 0.039 respectively ) , but no effects were evident in men .
+This is the first report of associations between the in vivo expression of genes involved in cholesterol metabolism and exposure to PFOA or PFOS , suggested that exposure to these compounds may promote a hypercholesterolaemic environment , with wider implications for human disease .

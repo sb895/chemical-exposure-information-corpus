@@ -1,0 +1,9 @@
+The general population is exposed to metals as trace amounts of metallic compounds are present in air , water , and food .
+Information on background exposures and biomarker concentrations of environmental chemicals in the general Portuguese population is limited .
+Therefore , the purpose of this study was to determine the levels of important nonessential metals with recognized toxicity cadmium ( Cd ) and lead ( Pb ) and essential metals copper ( Cu ) , nickel ( Ni ) , chromium ( Cr ) , and zinc ( Zn ) in placentas of mothers living in south Portugal ( Algarve ) .
+Due to the difficulty in establishing the effects of chemicals in a complex and variable environment , this study also aimed to examine the response of biomarkers , such as biochemical changes that occurs at subcellular levels in the presence of contaminants .
+The investigated biomarkers in placentas indicative of metal exposure or damage included the metallothioneins ( MT ) , delta-aminolevulinic acid dehydratase ( ALAD ) ( specific for Pb ) , and lipid peroxidation ( LPO ) as an index of oxidative stress damage .
+Moreover , HJ-BIPLOT was applied in order to identify and categorize mothers vulnerable to environmental contamination in this region .
+Metal concentrations in the placenta were not excessive but within the range found in most European studies .
+In general , the biomarkers MT and LPO were positively correlated with metal levels , while with ALAD the opposite occurred , indicating the selected battery of biomarkers were suitable to study the effects of metals on human placenta .
+Further , the application of multivariate analysis with HJ-BIPLOT showed that most significant factors contributing to maternal and fetal exposures via placenta were dietary and smoking habits .

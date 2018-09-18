@@ -1,0 +1,10 @@
+In 1995 , daily mortality in a district of Chongqing , China , was analyzed from January through December for associations with daily ambient sulfur dioxide and fine particles ( airborne particles with diameters less than or equal to 2.5 microm ; PM2.5 .
+The mean concentration of PM2.5 was 147 microg/m3 ( maximum , 666 microg/m3 ) , and that of SO2 was 213 microg/m3 ( maximum , 571 microg/m3 ) .
+On average , 9.6 persons died each day .
+We used a generalized additive model using robust Poisson regression to estimate the associations of mean daily SO2 and PM2.5 with daily mortality ( on the same day and at lags up to 5 days ) adjusted for trend , season , temperature , humidity , and day of the week .
+The relative risk of mortality associated with a 100 microg/m3 increase in mean daily SO2 was highest on the second lag day [ 1.04 ; 95% confidence interval ( CI ) , 1.00-1.09 ] and the third lag day ( 1.04 ; 95% CI , 0.99-1.08 ) .
+The associations between daily mortality and mean daily PM2.5 were negative and statistically insignificant on all days .
+The relative risk of respiratory mortality on the second day after a 100 microg/m3 increase in mean daily SO2 was 1.11 ( 95% CI , 1.02-1.22 ) , and that for cardiovascular mortality was 1.10 ( 95% CI , 1.02-1.20 ) .
+The relative risk of cardiovascular mortality on the third day after a 100 microg/m3 increase in mean daily SO2 was 1.20 ( 95% CI , 1.11-1.30 ) .
+The relative risks of mortality due to cancer and other causes were insignificant on both days .
+The estimated effects of mean daily SO2 on cardiovascular and respiratory mortality risk remained after controlling for PM2.5 .

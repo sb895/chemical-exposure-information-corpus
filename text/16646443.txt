@@ -1,0 +1,14 @@
+Manufacturers have used perfluorochemicals ( PFCs ) since the 1950s in many industrial and consumer products , including protective coatings for fabrics and carpet , paper coatings , insecticide formulations , and surfactants .
+Some PFCs are persistent ubiquitous contaminants in the environment and in humans .
+Exposures to PFCs result in potential developmental and other adverse effects in animals .
+The sources of human exposure to PFCs and the potential health risks associated with exposure are still unclear , and differences in patterns of human exposure may vary .
+We measured the serum concentrations of perfluorooctane sulfonic acid ( PFOS ) , perfluorooctanoic acid ( PFOA ; C8 ) , perfluorohexane sulfonic acid ( PFHxS ) , and 8 other PFCs in 54 pooled serum samples collected from 1832 participants of the 2001-2002 National Health and Nutrition Examination Survey .
+Participants were 12 years of age and older .
+The pools represented three major racial groups/ethnicities ( non-Hispanic blacks , non-Hispanic whites , and Mexican Americans ) , four age categories ( 12-19 years , 20-39 years , 40-59 years , and 60 years and older ) , and both genders .
+PFCs were extracted from 100 microL of serum using on-line solid-phase extraction coupled to isotope dilution-high performance liquid chromatography-tandem mass spectrometry .
+The limits of detection ranged from 0.05 ng/mL to 0.2 ng/mL .
+The concentrations of most PFCs were similar among the four age groups .
+For PFOS , the estimated least-squares mean ( LSM ) concentrations among non-Hispanic white males ( 40.19 ng/mL ) and females ( 23.97 ng/mL ) were greater than among non-Hispanic black males ( 18.27 ng/mL ) and females ( 17.93 ng/mL ) or Mexican American males ( 13.71 ng/mL ) and females ( 10.40 ng/ mL ) .
+Similarly , for PFOA , the LSM concentrations among non-Hispanic white males ( 6.98 ng/mL ) and females ( 3.97 ng/ mL ) were greater than among non-Hispanic black males ( 3.62 ng/mL ) and females ( 2.85 ng/mL ) or Mexican American males ( 2.89 ng/mL ) and females ( 2.08 ng/mL ) .
+Non-Hispanic whites had also greater LSM concentrations of PFHxS than non-Hispanic blacks and Mexican Americans .
+These findings indicate different patterns of human exposure to PFCs among the population groups examined and stress the importance of conducting research to identify the environmental sources and pathways of human exposure to PFCs .

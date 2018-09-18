@@ -1,0 +1,11 @@
+Perfluorinated compounds ( PFCs ) were measured in fish samples and blood plasma of anglers in a cross-sectional study at Lake Mo\u0308hne , Sauerland area , Germany .
+Human plasma and drinking water samples were analyzed by solid phase extraction , high-performance liquid chromatography ( HPLC ) , and tandem mass spectrometry ( MS/MS ) .
+PFCs in fish fillet were measured by ion pair extraction followed by HPLC and MS/MS .
+PFOS concentrations in 44 fish samples of Lake Mo\u0308hne ranged between 4.5 and 150 ng/g .
+The highest median PFOS concentrations have been observed in perches ( median : 96 ng/g ) and eels ( 77 ng/g ) , followed by pikes ( 37 ng/g ) , whitefish ( 34 ng/g ) , and roaches ( 6.1 ng/g ) .
+In contrast , in a food surveillance program only 11% of fishes at retail sale contained PFOS at detectable concentrations .
+One hundred five anglers ( 99 men , 6 women ; 14-88 years old ; median 50.6 years ) participated in the human biomonitoring study .
+PFOS concentrations in blood plasma ranged from 1.1 to 650 \u03bcg/L ( PFOA : 2.1-170 \u03bcg/L ; PFHxS : 0.4-17 \u03bcg/L ; LOD : 0.1 \u03bcg/L ) .
+A distinct dose-dependent relationship between fish consumption and internal exposure to PFOS was observed .
+PFOS concentrations in blood plasma of anglers consuming fish 2-3 times per month were 7 times higher compared to those without any fish consumption from Lake Mo\u0308hne .
+The study results strongly suggest that human internal exposure to PFC is distinctly increased by consumption of fish from PFC-contaminated sites .

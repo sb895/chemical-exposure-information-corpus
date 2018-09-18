@@ -1,0 +1,6 @@
+Sawmill workers in British Columbia ( B.C. ) , Canada , have been exposed to chlorophenate fungicides which are known to be contaminated with polychlorinated dibenzo-p-dioxins ( PCDDs ) and polychlorinated dibenzofurans ( PCDFs ) .
+Due to concern about the potential of these workers to have significant body burdens of PCDD/Fs , and the absence of measurements in these workers , a single-compartment pharmacokinetic model was developed to estimate the concentration of PCDD/Fs in the fat tissue of the sawmill workers .
+Data from a large cohort of B.C. sawmill workers and literature-based data on chlorophenate exposures and PCDD/F concentrations in chlorophenates were used in Monte Carlo simulations to predict a PCDD/F body burden distribution .
+The median concentrations of HxCDF and HpCDF predicted using the model for the B.C. sawmill worker population exceeded the range measured in unexposed populations .
+PeCDF and OCDF concentrations exceeded the range measured in unexposed populations at the 70th percentile of the model-predicted distribution , and PeCDD at the 90th percentile .
+The primary limitation of the model was the scarcity of input data about actual dermal and inhalation exposures to chlorophenates .

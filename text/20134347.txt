@@ -1,0 +1,9 @@
+OBJECTIVE To evaluate both the cholinesterase monitoring program and newer field methods of determining coumaphos exposure among tick eradication workers .
+METHODS Measured blood cholinesterase by the Ellman and field testing methods and tested urine for chlorferon pre- and postshift ; conducted personal air sampling , patch sampling of clothing , and wipe sampling of hands for coumaphos .
+RESULTS Fifteen workers had normal plasma cholinesterase and acetylcholinesterase levels .
+No significant changes occurred pre- to postshift .
+High correlation was found between plasma cholinesterase and acetylcholinesterase levels by field testing and Ellman methods ( r = 0.91 , P < 0.01 and r = 0.63 , P < 0.01 , respectively ) .
+Chlorferon levels rose 4 to 6 hours after use ( P < 0.01 ) .
+Airborne coumaphos was detected in only one sample , in a trace amount .
+The majority of patch and hand wipe samples detected coumaphos .
+CONCLUSIONS Dermal exposure to coumaphos resulted in significant increases in urinary metabolites of coumaphos .

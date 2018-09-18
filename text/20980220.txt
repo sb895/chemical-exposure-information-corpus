@@ -1,0 +1,11 @@
+BACKGROUND Methylmercury ( MeHg ) exposure assessments among average fish consumers in the United States may underestimate exposures among U.S. subpopulations with high intakes of regionally specific fish .
+OBJECTIVES We examined relationships among fish consumption , estimated mercury ( Hg ) intake , and measured Hg exposure within one such potentially highly exposed group , recreational anglers in the state of Louisiana , USA .
+METHODS We surveyed 534 anglers in 2006 using interviews at boat launches and fishing tournaments combined with an Internet-based survey method .
+Hair samples from 402 of these anglers were collected and analyzed for total Hg .
+Questionnaires provided information on species-specific fish consumption during the 3 months before the survey .
+RESULTS Anglers ' median hair Hg concentration was 0.81 µg/g ( n = 398 ; range , 0.02-10.7 µg/g ) ; 40% of participants had levels >1 µg/g , which approximately corresponds to the U.S. Environmental Protection Agency's reference dose .
+Fish consumption and Hg intake were significantly positively associated with hair Hg .
+Participants reported consuming nearly 80 different fish types , many of which are specific to the region .
+Unlike the general U.S. population , which acquires most of its Hg from commercial seafood sources , approximately 64% of participants ' fish meals and 74% of their estimated Hg intake came from recreationally caught seafood .
+CONCLUSIONS Study participants had relatively elevated hair Hg concentrations and reported consumption of a wide variety of fish , particularly locally caught fish .
+This group represents a highly exposed subpopulation with an exposure profile that differs from fish consumers in other regions of the United States , suggesting a need for more regionally specific exposure estimates and public health advisories .

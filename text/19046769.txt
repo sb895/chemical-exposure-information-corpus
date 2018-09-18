@@ -1,0 +1,26 @@
+A cohort of low income , city dwelling , pregnant African American Women ( delivered from 1994-1999 ) was assembled to identify factors related to organochlorine exposure through consumption of Great Lakes resources .
+The cohort is known as the Great Lakes Cohort of Pregnant African American Women ( GLCPAAW ) .
+Pregnant women from metropolitan Chicago , IL area clinics were administered a questionnaire on diet , demographics , and health history .
+Weight , height , and serum lipids were measured at delivery along with serum organochlorines such as PCBs and DDE .
+Congener specific concentrations of PCBs and p,p'-DDE found in the maternal serum are reported .
+Dominant PCB congeners found in the serum of the pregnant women at delivery included PCB 101 , 118 , 138 , 153 , and 180 .
+The high prevalence and magnitude of PCB 101 ( greater than the limit of detection in >80% of the women in the cohort ) are unique characteristics of this cohort .
+Great Lakes fish has been identified as a source of exposure to organochlorines in several studies .
+Spearman correlations and robust regression models were utilized to identify the impact of Great Lakes fish ingestion on cohort serum organochlorine concentrations .
+Several potential confounders of the relationship between serum organochlorines and Great Lakes fish consumption were identified .
+Covariates related to organochlorines in correlations as well as regression models included age , body surface area , fish ingestion , lipids , parity , race and smoking .
+Lower chlorinated PCB congeners do not follow the same trends as the higher chlorinated congeners and DDE .
+The higher chlorinated PCB congeners ( PCB 138 , 153 , and 180 ) and DDE were correlated with age while the lower chlorinated congeners were not .
+PCB 153 and 180 regression models included age as a significant covariate .
+None of the higher chlorinated congeners correlated to race , while both lower chlorinated congeners were correlated to race .
+Race was also significant in both lower chlorinated congeners ' regression models .
+PCB 101 , a lower chlorinated congener seldom found in human serum , is readily found in the cohort .
+Airborne PCB exposure as well as diminished metabolism of PCB 101 in African Americans may explain the increased presence of PCB 101 and it's correlation with race .
+High end sport fish consumers ( > or =1 meal per week ) carried elevated levels of DDE and higher chlorinated PCB congeners ( 138 , 153 , and 180 ) compared to non-sport fish eaters .
+Unexpectedly , DDE was correlated more consistently with fish ingestion and age ( a marker of bioaccumulation ) in comparison to PCBs .
+Small correlations were found between serum PCBs and fish ingestion ( Spearman correlation=0.19 for total PCBs and fish meals per year ) .
+Additionally , Serum PCBs in low end Great Lakes sport fish consumers were not higher than non-consumers .
+These findings suggest the women of the cohort are being exposed to PCBs through other routes in addition to Great lakes sport fish .
+One major route of exposure may be Chicago air .
+The observed trends amongst individual PCB congeners has important ramifications because lower chlorinated congeners or their metabolites may be mediators of toxicity .
+Organochlorine exposure through Great Lakes fish ingestion was clearly identified in high end fish consumers while associations with race , metabolism , and possible airborne exposures pose new questions .

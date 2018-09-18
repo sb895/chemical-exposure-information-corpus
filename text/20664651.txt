@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) are a class of brominated flame retardants added to plastics , polyurethane foam , electronics , textiles , and other products .
+These products release PBDEs into the indoor and outdoor environment , thus causing human exposure through food and dust .
+This study models PBDE dose distributions from ingestion of food for Irish adults on congener basis by using two probabilistic and one semi-deterministic method .
+One of the probabilistic methods was newly developed and is based on summary statistics of food consumption combined with a model generating realistic daily energy supply from food .
+Median ( intermediate ) doses of total PBDEs are in the range of 0.4-0.6 ng/kg(bw)/day for Irish adults .
+The 97.5th percentiles of total PBDE doses lie in a range of 1.7-2.2 ng/kg(bw)/day , which is comparable to doses derived for Belgian and Dutch adults .
+BDE-47 and BDE-99 were identified as the congeners contributing most to estimated intakes , accounting for more than half of the total doses .
+The most influential food groups contributing to this intake are lean fish and salmon which together account for about 22-25% of the total doses .

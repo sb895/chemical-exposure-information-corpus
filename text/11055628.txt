@@ -1,0 +1,8 @@
+Cities in northern Chile had arsenic concentrations of 860 microg/liter in drinking water in the period 1958-1970 .
+Concentrations have since been reduced to 40 microg/liter .
+We investigated the relation between lung cancer and arsenic in drinking water in northern Chile in a case-control study involving patients diagnosed with lung cancer between 1994 and 1996 and frequency-matched hospital controls .
+The study identified 152 lung cancer cases and 419 controls .
+Participants were interviewed regarding drinking water sources , cigarette smoking , and other variables .
+Logistic regression analysis revealed a clear trend in lung cancer odds ratios and 95% confidence intervals ( CIs ) with increasing concentration of arsenic in drinking water , as follows : 1 , 1.6 ( 95% CI = 0.5-5.3 ) , 3.9 ( 95% CI = 1.2-12.3 ) , 5.2 ( 95% CI = 2.3-11.7 ) , and 8.9 ( 95% CI = 4.0-19.6 ) , for arsenic concentrations ranging from less than 10 microg/liter to a 65-year average concentration of 200-400 microg/liter .
+There was evidence of synergy between cigarette smoking and ingestion of arsenic in drinking water ; the odds ratio for lung cancer was 32.0 ( 95% CI = 7.2-198.0 ) among smokers exposed to more than 200 microg/liter of arsenic in drinking water ( lifetime average ) compared with nonsmokers exposed to less than 50 microg/liter .
+This study provides strong evidence that ingestion of inorganic arsenic is associated with human lung cancer .

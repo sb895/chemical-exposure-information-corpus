@@ -1,0 +1,11 @@
+Environmental factors such as ambient air pollution have been associated with congenital heart defects .
+The aim of this study was to investigate the association between gestational exposure to air pollution and the risk of congenital heart defects .
+We conducted a registry-based cohort study with a total of 135,527 live- and still-births in the Tel-Aviv region during 2000-2006 .
+We used a Geographic Information System-based spatiotemporal approach with weekly inverse distance weighting modeling to evaluate associations between gestational exposure to ambient air pollution during weeks 3-8 of pregnancy and the risk for congenital heart defects .
+The following pollutants were studied : carbon monoxide , nitrogen-dioxide , ozone , sulfur-dioxide and particulate matter with aerodynamic diameter smaller than 10 \u03bcm and 2.5 \u03bcm ( PM10 , PM2.5 respectively ) .
+Logistic models , adjusted for socio-demographic covariates were used to evaluate the associations .
+We found that maternal exposure to increased concentrations of PM10 was associated with multiple congenital heart defects ( adjusted OR 1.05 , 95% CI : 1.01 to 1.10 for 10 \u03bcg/m(3) increment ) .
+An inverse association was observed between concentrations of PM2.5 and isolated patent ductus arteriosus ( adjusted OR 0.78 , 95% CI : 0.68 to 0.91 for 5 µg/m(3) increment ) .
+Sensitivity analyses showed that results were consistent .
+Generally there were no evidence for an association between gaseous air pollutants and congenital heart defects.Our results for PM10 and congenital heart defects confirm results from previous studies .
+The results for PM2.5 need further investigations .

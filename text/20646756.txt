@@ -1,0 +1,15 @@
+BACKGROUND Millions of people worldwide are chronically exposed to arsenic through drinking water , including 35-77 million people in Bangladesh .
+The association between arsenic exposure and mortality rate has not been prospectively investigated by use of individual-level data .
+We therefore prospectively assessed whether chronic and recent changes in arsenic exposure are associated with all-cause and chronic-disease mortalities in a Bangladeshi population .
+METHODS In the prospective cohort Health Effects of Arsenic Longitudinal Study ( HEALS ) , trained physicians unaware of arsenic exposure interviewed in person and clinically assessed 11 746 population-based participants ( aged 18-75 years ) from Araihazar , Bangladesh .
+Participants were recruited from October , 2000 , to May , 2002 , and followed-up biennially .
+Data for mortality rates were available throughout February , 2009 .
+We used Cox proportional hazards model to estimate hazard ratios ( HRs ) of mortality , with adjustment for potential confounders , at different doses of arsenic exposure .
+FINDINGS 407 deaths were ascertained between October , 2000 , and February , 2009 .
+Multivariate adjusted HRs for all-cause mortality in a comparison of arsenic at concentrations of 10.1-50.0 microg/L , 50.1-150.0 microg/L , and 150.1-864.0 microg/L with at least 10.0 microg/L in well water were 1.34 ( 95% CI 0.99-1.82 ) , 1.09 ( 0.81-1.47 ) , and 1.68 ( 1.26-2.23 ) , respectively .
+Results were similar with daily arsenic dose and total arsenic concentration in urine .
+Recent change in exposure , measurement of total arsenic concentrations in urine repeated biennially , did not have much effect on the mortality rate .
+INTERPRETATION Chronic arsenic exposure through drinking water was associated with an increase in the mortality rate .
+Follow-up data from this cohort will be used to assess the long-term effects of arsenic exposure and how they might be affected by changes in exposure .
+However , solutions and resources are urgently needed to mitigate the resulting health effects of arsenic exposure .
+FUNDING US National Institutes of Health .

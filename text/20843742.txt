@@ -1,0 +1,9 @@
+In this study the operator exposure levels during bait applications of an insecticide in olive groves were determined using a whole body dosimetry method for dermal exposure .
+The study design allowed the roles of application task duration and coverall type to be evaluated as factors influencing operator exposure .
+Twenty applications were carried out with knapsack sprayers in the Tanagra region of Viotia , Greece , ten of which were for a 1h and ten for a 3h duration .
+An in-house GC-NPD analytical method was developed and validated for the determination of malathion , the active substance ( a.s. ) of the insecticide formulation used in field trials .
+The mean recovery of field-fortified samples was 84% ( %RSD=3.0 ) .
+Field trial results generally indicated lower operator exposure levels than indicated by the most relevant operator exposure predictive model .
+Residues of malathion on internal dosimeters were compared to those measured on the respective outer coveralls ( potential dermal exposure ) to evaluate the protective factor of each one of the two coverall types used .
+Both coverall types provided satisfactory levels of protection and can be considered as suitable protection for the conditions of the application scenario studied .
+Furthermore , the results indicated that there is not a strong correlation between exposure levels and duration of application .

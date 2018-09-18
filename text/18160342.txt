@@ -1,0 +1,8 @@
+The variance of variables associated with neurodevelopment at 180 days , pre-natal variables ( Hg in placenta , blood and hair ) and post-natal Hg exposure ( including Thimerosal-containing vaccines , TCV ) were examined in 82 exclusively breastfed infants using principal component analysis ( PCA ) .
+This multivariate method was applied to identify hierarchy and sets of interrelated variables .
+The PCA yielded a two-factor solution , explaining 92% of variance and summarizing most of the relevant information in the dataset matrix : the first component represented birth weight and vaccine ( first doses of Hepatitis B and DTP ) variability and explained 57% of variance ; the second component represented a gradient of neurodevelopment ( Gesell scores ) and explained 35% of variance .
+The third component explained only 3% of the remaining 8% variance .
+Beside CNS priming by breastfeeding , infant development ( birth weight ) and time of immunization with TCV should be considered in epidemiological studies .
+PCA can classify sets of variables related to vaccination and neuromotor development schedules , clearly discriminating between earlier and later TCV exposures of exclusively breastfed infants .
+In conclusion , the incommensurable concept of the chance of toxic risk caused by TCV-EtHg exposure against the proven benefit of immunization is in no way disputed here .
+However , infant neurodevelopmental ( ND ) disorders linked to Thimerosal-Hg stands in need of proof , but PCA points to the possibility of identifying exposure risk variables associated with ND schedules .

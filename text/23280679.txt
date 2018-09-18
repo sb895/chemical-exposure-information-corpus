@@ -1,0 +1,7 @@
+BACKGROUND Increased risk of ischemic heart disease ( IHD ) has been associated with particulate matter ( PM ) from air pollution .
+Yet evidence of increased risk associated with higher workplace exposures is scant .
+METHODS We examined the exposure-response relationship between IHD mortality and PM(3.5) ( <3.5 µm diameter ) from current and cumulative exposure to straight metalworking fluid in a cohort of 39,412 autoworkers followed from 1941 to 1995 .
+Age , calendar year of follow up , sex , race , and plant were included in each model .
+RESULTS To address the decrease in polycyclic-aromatic hydrocarbon ( PAH ) content in the straight metalworking fluid over time , analyses were stratified by calendar time .
+Increased risk of IHD mortality was associated with current exposure to PM(3.5) before 1971 and with cumulative exposure to PM(3.5) after 1971 .
+CONCLUSIONS Results provide modest evidence that occupational exposure to fine PM from straight fluids , especially fluid with higher PAH , may increase the risk of IHD mortality .

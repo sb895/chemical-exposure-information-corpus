@@ -1,0 +1,20 @@
+We conducted an epidemiological study to investigate the effects of low-dose cadmium ( Cd ) exposure on human health in a specific area of a town in Japan where low Cd concentration was detected in rice .
+We compared clinical findings , urinary and whole blood Cd concentrations , and indicators of renal dysfunction between the polluted area and the control area .
+The study employed 44 men and 54 women from the polluted area and 21 men and 29 women from the control area .
+In urine analysis , as indicators of Cd exposure and possible related renal dysfunction , Cd , beta(2)-microglobulin ( beta(2)-MG ) , alpha(1)-microglobulin ( alpha(1)-MG ) , N-acetyl-beta-D-glucosaminidase ( NAG ) , total protein , inorganic phosphorus , lysozyme and creatinine were quantitatively measured .
+In blood analysis , serum IP and creatinine and whole blood Cd were measured .
+No case of renal dysfunction due to Cd exposure was confirmed .
+However , both the urinary and whole blood Cd of the polluted area were significantly higher than those of the control area for both sexes .
+Urinary beta(2)-MG did not differ between the two areas .
+For women , urinary alpha(1)-MG was significantly higher in the polluted area than in the control area .
+In correlation analysis , beta(2)-MG , alpha(1)-MG and NAG , were positively correlated with both of urinary and whole blood Cd for men and women in the polluted area except for between urinary beta(2)-MG and urinary Cd for men .
+In the control area , the sole positive correlation observed was between urinary beta(2)-MG and whole blood Cd for men .
+We then examined the determinants of variations of parameters in urinary and blood tests .
+Potential determinants were age , sex , body mass index , an indicator of smoking habits ( cigarette index ) and the index of estimated Cd intake from rice ( Cd-rice-index ) .
+Cd-rice-index was expressed as the product of Cd concentrations in homegrown rice multiplied by daily frequency multiplied by duration ( years ) of residence in the polluted area .
+In multiple regression analysis , whole blood Cd was independently associated with Cd-rice-index , age and gender .
+Variations in whole blood Cd accounted for a substantial portion of the variations in urinary Cd , although they were less influential in older individuals .
+Whole blood Cd was the sole independent variable related to variations in urinary beta(2)-MG .
+Cd-rice-index accounted for a portion of the variance in urinary NAG , while age was a more powerful determinant .
+It was thus revealed that the consumption of homegrown rice polluted with Cd in low concentration resulted in an elevation of whole blood Cd level and consequent increase in urinary Cd level .
+However , it was not clearly elucidated that the excretion of urinary low-molecular microglobulins could increase significantly in response to slight elevation of Cd body load .

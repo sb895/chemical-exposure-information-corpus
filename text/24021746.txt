@@ -1,0 +1,10 @@
+BACKGROUND The literature on traffic-related air pollution and childhood cancers is inconclusive , and little is known on rarer cancer types .
+OBJECTIVES We sought to examine associations between childhood cancers and traffic-related pollution exposure .
+METHODS The present study included children < 6 years of age identified in the California Cancer Registry ( born 1998-2007 ) who could be linked to a California birth certificate ( n = 3,590 ) .
+Controls were selected at random from California birthrolls ( n = 80,224 ) .
+CAlifornia LINE Source Dispersion Modeling , version 4 ( CALINE4 ) was used to generate estimates of local traffic exposures for each trimester of pregnancy and in the first year of life at the address indicated on the birth certificate .
+We checked our findings by additionally examining associations with particulate matter ( \u2264 2.5 \u03bcm in aerodynamic diameter ; PM2.5 ) pollution measured by community-based air pollution monitors , and with a simple measure of traffic density .
+RESULTS With unconditional logistic regression , a per interquartile range increase in exposure to traffic-related pollution during the first trimester ( 0.0538 ppm carbon monoxide , estimated using CALINE4 ) was associated with acute lymphoblastic leukemia [ ALL ; first trimester odds ratio ( OR ) = 1.05 ; 95% CI : 1.01 , 1.10 ] ; germ cell tumors ( OR = 1.16 ; 95% CI : 1.04 , 1.29 ) , particularly teratomas ( OR = 1.26 ; 95% CI : 1.12 , 1.41 ) ; and retinoblastoma ( OR = 1.11 ; 95% CI : 1.01 , 1.21 ) , particularly bilateral retinoblastoma ( OR = 1.16 ; 95% CI : 1.02 , 1.33 ) .
+Retinoblastoma was also associated with average PM2.5 concentrations during pregnancy , and ALL and teratomas were associated with traffic density near the child's residence at birth .
+CONCLUSIONS We estimated weak associations between early exposure to traffic pollution and several childhood cancers .
+Because this is the first study to report on traffic pollution in relation to retinoblastoma or germ cell tumors , and both cancers are rare , these findings require replication in other studies .

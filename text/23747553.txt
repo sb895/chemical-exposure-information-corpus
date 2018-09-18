@@ -1,0 +1,11 @@
+BACKGROUND Previous studies suggest that prenatal phthalate exposure affects neurodevelopment and behavior during the first years of life .
+OBJECTIVES To evaluate the effect of maternal urinary concentrations of phthalate metabolites during pregnancy on mental and psychomotor development in children 24-36 months of age .
+METHODS This analysis was conducted on the first three years of life among a subsample of 136 mother-child pairs from the ELEMENT cohort studies conducted in Mexico City .
+Maternal urine samples collected during the third trimester of pregnancy were analyzed for 9 phthalate metabolites : Mono-ethyl phthalate ( MEP ) , Mono-n-butyl phthalate ( MnBP ) , mono-isobutyl phthalate ( MiBP ) , mono-benzyl phthalate ( MBzP ) , Mono-3-carboxypropyl phthalate ( MCPP ) , and four di-2-ethylhexyl phthalate ( DEHP ) metabolites [ mono-2-ethylhexyl-phthalate ( MEHP ) , mono-(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , mono-(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) , and mono-(2-ethyl-5-carboxypentyl) phthalate ( MECPP) ] .
+Among the 136 children , 135 ( 99.3% ) completed the study period .
+Child neurodevelopment was assessed using mental and psychomotor development indexes ( MDI and PDI ) from a Bayley ( BSID II ) test at 24 , 30 , and 36 months of age .
+The effect of prenatal phthalate exposure on neurodevelopment was estimated using linear regression models for longitudinal data clustered at the individual level .
+RESULTS No significant associations were observed among all children combined , but differential effects by gender were found .
+Among girls , there was a negative association between MDI and DEHP metabolites MEHP ( \u03b2=-2.11 [ 95% CI : -3.73 , -0.49] ) , MEHHP ( \u03b2=-1.89 [ 95% CI : -3.64 , -0.15] ) , MEOHP ( \u03b2=-1.80 [ 95% CI : -3.58 , -0.03] ) MECPP ( \u03b2=-2.52 [ 95% CI : -4.44 , -0.61] ) , and \u03a3DEHP ( \u03b2=-3.41 [ 95% CI : -5.26 , -1.55] ) ; there was no significant effect among boys .
+Male PDI was positively related to MBzP ( \u03b2=1.79 [ 95% CI : 0.14 , 3.45] ) and MCPP ( \u03b2=1.64 [ 95% CI : 0.15 , 3.12] ) ; there was no significant effect on PDI among girls .
+CONCLUSION This study demonstrates that sex plays a role of an effect modifier in the association between prenatal phthalate exposure and neurodevelopment .

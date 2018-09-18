@@ -1,0 +1,11 @@
+Di-(2-ethylhexyl)phthalate ( DEHP ) , the most commonly used plasticizer in flexible polyvinylchloride formulations , is a ubiquitous environmental contaminant .
+To date , no information exists on the potential health hazards from exposure to DEHP and/or its main metabolite , mono-(2-ethylhexyl)phthalate ( MEHP ) , in high-risk conditions , such as pregnancy and during the neonatal period .
+The aim of this study was to evaluate prenatal exposure to DEHP and/or MEHP and its possible biologic effects .
+We measured serum DEHP and MEHP concentrations in the cord blood of 84 consecutive newborns by high-performance liquid chromatography .
+Relationships between DEHP/MEHP and infant characteristics were tested using Fisher's exact test , unpaired t-tests , and univariate linear regression analyses , and significant differences on univariate analysis were evaluated using multiple logistic regression analysis .
+We found detectable cord blood DEHP and/or MEHP concentrations in 88.1% of the samples .
+Either DEHP or MEHP was present in 65 of 84 ( 77.4% ) of the examined samples .
+Mean concentrations of DEHP and MEHP were 1.19 +/- 1.15 microg/mL [ 95% confidence interval ( CI ) , 0.93-1.44 , range = 0-4.71 ] and 0.52 +/- 0.61 microg/mL ( 95% CI , 0.39-0.66 , range = 0-2.94 ) , respectively .
+MEHP-positive newborns showed a significantly lower gestational age compared with MEHP-negative infants ( p = 0.033 ) .
+Logistic regression analysis results indicated a positive correlation between absence of MEHP in cord blood and gestational age at delivery ( odds ratio = 1.50 , 95% CI , 1.013-2.21 ; p = 0.043 ) .
+These findings confirm that human exposure to DEHP can begin in utero and suggest that phthalate exposure is significantly associated with a shorter pregnancy duration .

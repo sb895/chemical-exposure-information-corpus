@@ -1,0 +1,15 @@
+BACKGROUND Simultaneous exposure to high levels of air pollution and high tobacco consumption at the same place is rare .
+The aim of the present study was to evaluate the impact of the two factors on the risk of developing lung cancer .
+METHODS Data on the number of deaths due to lung cancer and on population from 1970 to 2009 were obtained from Zhaoyuan County .
+Data on the smoking populations were obtained at random sampling survey during the time in Zhaoyuan .
+Data on the components of atmospheric surveillance were obtained from the local environmental protection offices .
+Logarithmic linear regression and general log-linear Poisson age-period-cohort ( APC ) models were used to estimate age , period , cohort , gender , smoking , and air pollution effects on the risk of lung cancer mortality .
+RESULTS The standardized mortality rates of lung cancer drastically increased from 8.43 in per 100 000 individuals in the 1970-1974 to 25.67 in per 100 000 individuals in the 2005-2009 death survey .
+The annual change of lung cancer mortality was 3.20% .
+In the log linear regression model , the age , proportion of smokers , gender , period , and air pollution are significantly associated with lung cancer mortality .
+The APC analysis shows that the relative risks ( RRs ) of gender , smoking , and air pollution are 2.29 ( 95% confidence interval ( CI ) : 2.16-2.43 ) , 3.05 ( 95% CI = 2.76-3.36 ) , and 1.42 ( 95% CI = 1.19-1.69 ) , respectively .
+Compared with the period 1970-1974 , high RRs were found during 1995-2009 .
+Compared with the birth cohort 1950-1954 , the RRs increased in the birth cohorts of 1910 to the 1940 .
+Compared the aged 35-59 and 60-84 in the 1980-1984 death survey ( not exposed to air pollution ) with that in the 2005-2009 death survey ( exposed to air pollution ) , The two age groups exposed to air pollution , 25 years later , had an increased mortality rates for lung cancer by 2.27 and 3.55 times for males and by 1.47 and 3.35 times for females .
+CONCLUSION The mortality rates of lung cancer drastically increased in the past 35 years .
+The trend of lung cancer mortality may be in a great extent possibly due to the effects of combined smoking and air pollution exposure .

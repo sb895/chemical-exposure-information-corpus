@@ -1,0 +1,8 @@
+A population-based case-control study of the associations between various cancers and occupational exposures was carried out in Montreal , Quebec , Canada .
+Between 1979 and 1986 , 484 persons with pathologically confirmed cases of bladder cancer and 1,879 controls with cancers at other sites were interviewed , as was a series of 533 population controls .
+The job histories of these subjects were evaluated by a team of chemist/hygienists for evidence of exposure to a list of 294 workplace chemicals , and information on relevant non-occupational confounders was obtained .
+On the basis of results of preliminary analyses and literature review , 19 occupations , 11 industries , and 23 substances were selected for in-depth multivariate analysis .
+Logistic regression analyses were carried out to estimate the odds ratio between each of these occupational circumstances and bladder cancer .
+There was weak evidence that the following substances may be risk factors for bladder cancer : natural gas combustion products , aromatic amines , cadmium compounds , photographic products , acrylic fibers , polyethylene , titanium dioxide , and chlorine .
+Among the substances evaluated which showed no evidence of an association were benzo(a)pyrene , leather dust , and formaldehyde .
+Several occupations and industries were associated with bladder cancer , including motor vehicle drivers and textile dyers .

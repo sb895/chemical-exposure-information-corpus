@@ -1,0 +1,1 @@
+< <Biomonitoring--effect marker--physiological parameter AND exposure routes--oral intake--products--children<  Biomonitoring--effect marker--physiological parameter<Biomonitoring--exposure biomarker--urine--children AND exposure routes--oral intake--products--children< < < 

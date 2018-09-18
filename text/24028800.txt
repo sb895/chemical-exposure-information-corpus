@@ -1,0 +1,12 @@
+The role of the placenta was assessed by comparing the profiles of methylmercury ( MeHg ) , inorganic mercury ( I-Hg ) , lead ( Pb ) , cadmium ( Cd ) , selenium ( Se ) , zinc ( Zn ) , and copper ( Cu ) in freeze-dried chorionic tissue of the placenta and umbilical cord tissue .
+The significance of the placenta and cord tissue as predictors of prenatal exposure to these trace elements in pregnant women and newborns was also examined by comparing the element profiles among placenta and cord tissue , and maternal and cord blood red blood cells ( RBCs ) .
+The samples were collected from 48 mother-child pairs at birth in the general population of Japanese .
+The concentrations of all elements , except for MeHg , were significantly higher in placenta than in cord tissue .
+In particular , the Cd showed the highest placenta vs. cord tissue ratio ( 59:1 ) , followed by I-Hg ( 2.4:1 ) , indicating that the placental barrier works most strongly against Cd among the examined toxic elements .
+Contrary to the other elements , the MeHg concentration in cord tissue was significantly higher ( 1.6 times ) than that in placenta , indicating its exceptionally high placental transfer .
+The MeHg in placenta showed significant correlations with total mercury ( T-Hg ) in maternal and cord RBCs ( rs=0.80 and 0.91 , respectively ) .
+The MeHg in cord tissue also showed significant correlations with T-Hg in maternal and cord RBCs ( rs=0.75 and 0.85 , respectively ) .
+Therefore , both placenta and cord tissue are useful for predicting maternal and fetal exposure to MeHg .
+The Se concentration in placenta showed significant but moderate correlations with that in maternal and cord RBCs ( rs=0.38 and 0.57 , respectively ) .
+The Pb , Zn , and Cu concentrations in placenta and cord tissue showed no significant correlations with those in maternal and cord RBCs .
+As an exception , the Cd concentration in placenta showed a moderate but significant correlation ( rs=0.41 ) with that in maternal RBCs , suggesting that the placenta is useful for predicting maternal exposure to Cd during gestation .

@@ -1,0 +1,14 @@
+We estimated human exposure to organohalogenated contaminants ( OHCs ) , including organochlorine pesticides ( OCPs ) , such as hexachlorocyclohexanes ( HCHs ) , DDT and metabolites , hexachlorobenzene , and chlordanes , but also polychlorinated biphenyls ( PCBs ) , polybrominated diphenyl ethers ( PBDEs ) , and hexabromocyclododecane ( HBCD ) , through food consumption ( mainly food of animal origin ) and indoor dust ingestion in Romania .
+A total of 71 food samples ( meat , diary products , vegetable cooking oil , and eggs from urban supermarkets and rural areas ) and 18 indoor dust samples were collected from Iasi , Eastern Romania .
+HCHs and DDTs were the most prevalent OCPs in both food and dust samples .
+Higher levels of OCPs were measured in food samples collected from rural areas compared to those from urban supermarkets , except milk-based products for which no significant differences could be recorded .
+However , levels of contamination with HCHs in milk-based products were occasionally higher than current European maximum residue levels ( MRLs ) .
+Above-MRL levels of DDTs were also recorded in eggs from rural areas .
+In dust , DDTs ( median concentration of 1050 ng/g ) were the most prevalent contaminants and p,p'-DDT was consistently the main contributor of sum DDTs , with a contribution between 50 and 75% .
+Surprisingly , OCPs , mainly DDT , were found at elevated levels in indoor dust samples ( median concentrations for sum OCPs of 1200 ng/g dust ) .
+This suggests the importance of dust as an exposure route for pesticides ( especially at contaminated sites ) , since dust is not commonly considered in exposure assessments for these chemicals .
+The main contributor to the sum PBDEs in dust samples was BDE 209 ( median concentration of 495 ng/g ) , with a contribution between 94 and 99% .
+We estimated that the dietary intake of SigmaHCHs and SigmaDDTs is high for both adults ( 1500-2100 ng/day ) and toddlers ( 1100-1500 ng/day ) , while the PCB dietary intake was estimated at 200 ng/day for adults , being compared to other European studies .
+The contribution of dust ingestion to the daily intake of PBDEs is increased in comparison to intake of other chlorinated contaminants , while food consumption seems to be more important than dust for the HBCD intake .
+However , neither BDE 209 nor HBCD were measured at levels above method LOQ in any food samples and their dietary intake is probably overestimated because nondetects were replaced by ( 1)/(2 ) LOQ .
+The estimated intakes obtained in the present study are in good agreement with the higher concentrations of OCPs and the low levels of PBDEs reported recently in Romanian human samples .

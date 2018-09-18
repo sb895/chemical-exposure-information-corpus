@@ -1,0 +1,14 @@
+BACKGROUND Men who were part of an Australian petroleum industry cohort had previously been found to have an excess of lympho-hematopoietic cancer .
+Occupational benzene exposure is a possible cause of this excess .
+METHODS We conducted a case-control study of lympho-hematopoietic cancer nested within the existing cohort study to examine the role of benzene exposure .
+Cases identified between 1981 and 1999 ( N = 79 ) were age-matched to 5 control subjects from the cohort .
+We estimated each subject's benzene exposure using occupational histories , local site-specific information , and an algorithm using Australian petroleum industry monitoring data .
+RESULTS Matched analyses showed that the risk of leukemia was increased at cumulative exposures above 2 ppm-years and with intensity of exposure of highest exposed job over 0.8 ppm .
+Risk increased with higher exposures ; for the 13 case-sets with greater than 8 ppm-years cumulative exposure , the odds ratio was 11.3 ( 95% confidence interval = 2.85-45.1 ) .
+The risk of leukemia was not associated with start date or duration of employment .
+The association with type of workplace was explained by cumulative exposure .
+There is limited evidence that short-term high exposures carry more risk than the same amount of exposure spread over a longer period .
+The risks for acute nonlymphocytic leukemia and chronic lymphocytic leukemia were raised for the highest exposed workers .
+No association was found between non-Hodgkin lymphoma or multiple myeloma and benzene exposure , nor between tobacco or alcohol consumption and any of the cancers .
+CONCLUSIONS We found an excess risk of leukemia associated with cumulative benzene exposures and benzene exposure intensities that were considerably lower than reported in previous studies .
+No evidence was found of a threshold cumulative exposure below which there was no risk .

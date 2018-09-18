@@ -1,0 +1,12 @@
+While fine mode particulate matter ( PM(2.5) ) forms the basis for regulating particles in the US and other countries , there is a serious paucity of large population-based studies of its acute effect on mortality .
+To address this issue , we examined the association between PM(2.5) and both all-cause and specific-cause mortality using over 1.3 million deaths in 27 US communities between 1997 and 2002 .
+A two-stage approach was used .
+First , the association between PM(2.5) and mortality in each community was quantified using a case-crossover design .
+Second , meta-analysis was used to estimate a summary effect over all 27 communities .
+Effect modification of age and gender was examined using interaction terms in the case-crossover model , while effect modification of community-specific characteristics including geographic location , annual PM(2.5) concentration above 15 microg/m(3) and central air conditioning prevalence was examined using meta-regression .
+We observed a 1.21% ( 95% CI 0.29 , 2.14% ) increase in all-cause mortality , a 1.78% ( 95% CI 0.20 , 3.36% ) increase in respiratory related mortality and a 1.03% ( 95% CI 0.02 , 2.04% ) increase in stroke related mortality with a 10 microg/m(3) increase in previous day's PM(2.5) .
+The magnitude of these associations is more than triple that recently reported for PM(10) , suggesting that combustion and traffic related particles are more toxic than larger sized particles .
+Effect modification occurred in all-cause and specific-cause deaths with greater effects in subjects >or=75 years of age .
+There was suggestive evidence that women may be more susceptible to PM(2.5) effects than men , and that effects were larger in the East than in the West .
+Increased prevalence of central air conditioning was associated with a decreased effect of PM(2.5) .
+Our findings describe the magnitude of the effect on all-cause and specific-cause mortality , the modifiers of this association , and suggest that PM(2.5) may pose a public health risk even at or below current ambient levels .

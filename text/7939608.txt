@@ -1,0 +1,12 @@
+Biological monitoring of Co , Ta and W , using mainly neutron activation analysis , was carried out on the urine , blood , pubic hair and toe nails of 251 subjects occupationally exposed to hard metal dusts ( 23 individuals were diagnosed as ' diseased subjects ' , affected by asthma and/or lung fibrosis ) .
+Airborne dust at hard metal workplaces were also analyzed for Co and W content .
+Cobalt and tungsten exposure at workplaces varied widely and frequently exceeded the TLV ( 0.05 mg Co/m3 ) .
+Cobalt in urine ( CoU ) , which is better than Co in blood ( CoB ) , could represent a valuable indicator in discriminating between exposed groups , but is of little value as an indicator of exposure for single individuals .
+The high concentrations of cobalt in public hair ( CoH ) and toe nails ( CoN ) could also be valuable indicators of exposure although they are not useful , however , in establishing quantitatively the levels of cobalt accumulation .
+Tungsten and tantalum in pubic hair ( WH and TaH ) and toe nails ( WN and TaN ) also seem to be useful indicators in proving hard metal exposure qualitatively .
+The determination of these two elements , rather than cobalt , in the bronchoalveolar lavage ( BAL ) is very useful in complementing the diagnosis of hard metal disease proving hard metal exposure .
+The analysis of the BAL subfractions showed that W and Ta were firmly incorporated into the macrophage fraction while Co was distributed between cellular fraction and supernatant , which suggests a different mobility of hard metals in pulmonary tissue .
+The metal concentrations determined when submitted to statistical analysis indicated a positive correlation with P < 0.001 for the pairs ( CoB-CoU ) , ( Co-W ) in urine , and ( Co-W ) in toe nails .
+Multielement analysis of biological specimens from diseased subjects suggests that hard metal disease does not relate to Co , W and Ta levels in the specimens considered .
+The disease does not depend on sex , age , working age and length of hard metal exposure .
+These findings support the theory on the possible haptenic properties of Co which may induce hypersensitivity and immuno-related toxic effects .

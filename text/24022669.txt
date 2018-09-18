@@ -1,0 +1,8 @@
+When selecting the least biased exposure surrogate , for example , the concentration of a biomarker in a urine sample , information on variability must be taken into consideration .
+We used mixed-effects models to estimate the variability and determinants of urinary cadmium ( U-Cd ) excretion using spot urine samples collected at six fixed times during 2 days about 1 week apart , from 24 healthy non-smokers .
+The urine samples were analysed for U-Cd , the concentrations were adjusted for dilution , and the excretion rates were calculated .
+Between-individual variability dominated the total variability for most measures of U-Cd excretion , especially for 24\u2009h urine and first morning samples .
+The U-Cd excretion showed a circadian rhythm during the day , and time point of sampling was a significant factor in the mixed-effects models , thus a standardised sampling time , such as first morning urine samples , needs to be applied .
+Gender , urinary flow rate , age , and urinary protein excretions were also significant determinants for U-Cd excretion .
+The choice of biomarker for U-Cd excretion was found to be more important in individually-based studies of exposure-response relationships than in studies of comparing Cd levels of groups .
+When planning a study , this variability of U-Cd in spot samples must be acknowledged .

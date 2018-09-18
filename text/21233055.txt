@@ -1,0 +1,13 @@
+BACKGROUND Exposure to chemicals during fetal development can increase the risk of adverse health effects , and while biomonitoring studies suggest pregnant women are exposed to chemicals , little is known about the extent of multiple chemicals exposures among pregnant women in the United States .
+OBJECTIVE We analyzed biomonitoring data from the National Health and Nutritional Examination Survey ( NHANES ) to characterize both individual and multiple chemical exposures in U.S. pregnant women .
+METHODS We analyzed data for 163 chemical analytes in 12 chemical classes for subsamples of 268 pregnant women from NHANES 2003-2004 , a nationally representative sample of the U.S. population .
+For each chemical analyte , we calculated descriptive statistics .
+We calculated the number of chemicals detected within the following chemical classes : polybrominated diphenyl ethers ( PBDEs ) , perfluorinated compounds ( PFCs ) , organochlorine pesticides , and phthalates and across multiple chemical classes .
+We compared chemical analyte concentrations for pregnant and nonpregnant women using least-squares geometric means , adjusting for demographic and physiological covariates .
+RESULTS The percentage of pregnant women with detectable levels of an individual chemical ranged from 0 to 100% .
+Certain polychlorinated biphenyls , organochlorine pesticides , PFCs , phenols , PBDEs , phthalates , polycyclic aromatic hydrocarbons , and perchlorate were detected in 99-100% of pregnant women .
+The median number of detected chemicals by chemical class ranged from 4 of 12 PFCs to 9 of 13 phthalates .
+Across chemical classes , median number ranged from 8 of 17 chemical analytes to 50 of 71 chemical analytes .
+We found , generally , that levels in pregnant women were similar to or lower than levels in nonpregnant women ; adjustment for covariates tended to increase levels in pregnant women compared with nonpregnant women .
+CONCLUSIONS Pregnant women in the U.S. are exposed to multiple chemicals .
+Further efforts are warranted to understand sources of exposure and implications for policy making .

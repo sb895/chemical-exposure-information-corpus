@@ -1,0 +1,5 @@
+A common dermal exposure assessment strategy estimates the systemic uptake of chemical in contact with skin using the fixed fractional absorption approach : the dermal absorbed dose is estimated as the product of exposure and the fraction of applied chemical that is absorbed , assumed constant for a given chemical .
+Despite the prominence of this approach there is little guidance regarding the evaluation of experiments from which fractional absorption data are measured .
+An analysis of these experiments is presented herein , and limitations to the fixed fractional absorption approach are discussed .
+The analysis provides a set of simple algebraic expressions that may be used in the evaluation of finite dose dermal absorption experiments , affording a more data-driven approach to dermal exposure assessment .
+Case studies are presented that demonstrate the application of these tools to the assessment of dermal absorption data .

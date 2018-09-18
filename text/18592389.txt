@@ -1,0 +1,10 @@
+All major opencast mining activities produce dust .
+The major operations that produce dust are drilling , blasting , loading , unloading , and transporting .
+Dust not only deteriorates the environmental air quality in and around the mining site but also creates serious health hazards .
+Therefore , assessment of dust levels that arise from various opencast mining operations is required to prevent and minimize the health risks .
+To achieve this objective , an opencast coal mining area was selected to generate site-specific emission data and collect respirable dust measurement samples .
+The study covered various mining activities in different locations including overburden loading , stock yard , coal loading , drilling , and coal handling plant .
+The dust levels were examined to assess miners ' exposure to respirable dust in each of the opencast mining areas from 1994 to 2005 .
+The data obtained from the dust measurement studies were evaluated by using analysis of variance ( ANOVA ) and the Tukey-Kramer procedure .
+The analyses were performed by using Minitab 14 statistical software .
+It was concluded that , drilling operations produce higher dust concentration levels and thus , drill operators may have higher incidence of respiratory disorders related to exposure to dust in their work environment .

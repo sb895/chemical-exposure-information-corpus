@@ -1,0 +1,10 @@
+In a recent study of 198 Swedish children with persistent allergic symptoms and 202 controls without such symptoms , we reported associations between the symptoms and the concentrations of n-butyl benzyl phthalate ( BBzP ) and di(2-ethylhexyl) phthalate ( DEHP ) in dust taken from the childrens ' bedrooms .
+In the present study we examined associations between the concentrations of different phthalate esters in the dust from these bedrooms and various characteristics of the home .
+The study focused on BBzP and DEHP because these were the phthalates associated with health complaints .
+Associations have been examined using parametric and nonparametric tests as well as multiple logistic regression .
+For both BBzP and DEHP , we found associations between their dust concentrations and the amount of polyvinyl chloride ( PVC ) used as flooring and wall material in the home .
+Furthermore , high concentrations of BBzP ( above median ) were associated with self-reported water leakage in the home , and high concentrations of DEHP were associated with buildings constructed before 1960 .
+Other associations , as well as absence of associations , are reported .
+Both BBzP and DEHP were found in buildings with neither PVC flooring nor wall covering , consistent with the numerous additional plasticized materials that are anticipated to be present in a typical home .
+The building characteristics examined in this study cannot serve as complete proxies for these quite varied sources .
+However , the associations reported here can help identify homes where phthalate concentrations are likely to be elevated and can aid in developing mitigation strategies .

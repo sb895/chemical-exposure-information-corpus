@@ -1,0 +1,8 @@
+Hyperuricemia in children is associated with increased risk of high blood pressure , metabolic syndrome , and future cardiovascular disease .
+Serum perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) levels have been shown to be positively associated with hyperuricemia in adults , but the association in children remains unexplored .
+We therefore examined the association between serum PFOA and PFOS levels and hyperuricemia in a representative sample of US children .
+A cross-sectional study was performed on 1,772 participants \u226418 years of age from the National Health and Nutrition Examination Survey 1999-2000 and 2003-2008 .
+The main outcome of interest was hyperuricemia , defined as serum uric acid levels \u22656 mg/dL .
+We found that serum levels of PFOA and PFOS were positively associated with hyperuricemia , independent of age , sex , race/ethnicity , body mass index , annual household income , physical activity , serum total cholesterol , and serum cotinine levels .
+Compared with subjects in quartile 1 ( referent ) , subjects in quartile 4 had multivariable-adjusted odds ratios for hyperuricemia of 1.62 ( 95% confidence interval : 1.10 , 2.37 ) for PFOA and 1.65 ( 95% confidence interval : 1.10 , 2.49 ) for PFOS .
+Our findings indicate that serum perfluoroalkyl chemical levels are significantly associated with hyperuricemia in children even at the lower " background " exposure levels of the US general population .

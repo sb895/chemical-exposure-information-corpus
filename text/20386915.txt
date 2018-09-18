@@ -1,0 +1,8 @@
+PURPOSE The objective of this analysis was to evaluate the effects of dietary B vitamin intakes on creatinine-adjusted urinary total arsenic concentration among individuals participating in the Health Effects of Arsenic Longitudinal Study ( HEALS ) cohort in Araihazar , Bangladesh .
+Arsenic exposure is a major public health problem in Bangladesh , where nearly 77million people have been chronically exposed to arsenic through the consumption of naturally contaminated groundwater .
+Dietary factors influencing the metabolism of ingested arsenic may potentially be important modifiers of the health effects of arsenic in this population .
+METHODS Daily average B vitamin intakes from a validated food frequency questionnaire and laboratory data on drinking water and urinary arsenic concentrations among 9,833 HEALS cohort participants were utilized .
+Statistical analyses were conducted using generalized estimating equations incorporating knotted spline linear regression .
+RESULTS Increasing dietary intakes of thiamin , niacin , pantothenic acid , and pyridoxine were found to significantly increase urinary total arsenic excretion , adjusted for daily arsenic intake from drinking water and other potential confounders .
+CONCLUSIONS These results suggest that higher intakes of certain B vitamins may enhance the excretion of arsenic from the body .
+This study offers new insights into modifiable dietary factors that relate to arsenic excretion and thus provides potential avenues for the prevention of arsenic-related health effects .

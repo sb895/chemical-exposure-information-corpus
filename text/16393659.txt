@@ -1,0 +1,8 @@
+Elemental mercury has been imbued with magical properties for millennia , and various cultures use elemental mercury in a variety of superstitious and cultural practices , raising health concerns for users and residents in buildings where it is used .
+As a first step in assessing this phenomenon , we compared mercury vapor concentration in common areas of residential buildings versus outdoor air , in two New Jersey cities where mercury is available and is used in cultural practices .
+We measured mercury using a portable atomic absorption spectrometer capable of quantitative measurement from 2 ng/m3 mercury vapor .
+We evaluated the interior hallways in 34 multifamily buildings and the vestibule in an additional 33 buildings .
+Outdoor mercury vapor averaged 5 ng/m3 ; indoor mercury was significantly higher ( mean 25 ng/m3 ; p<0.001 ) ; 21% of buildings had mean mercury vapor concentration in hallways that exceeded the 95th percentile of outdoor mercury vapor concentration ( 17 ng/m3 ) , whereas 35% of buildings had a maximum mercury vapor concentration that exceeded the 95th percentile of outdoor mercury concentration .
+The highest indoor average mercury vapor concentration was 299 ng/m3 , and the maximum point concentration was 2,022 ng/m3 .
+In some instances , we were able to locate the source , but we could not specifically attribute the elevated levels of mercury vapor to cultural use or other specific mercury releases .
+However , these findings provide sufficient evidence of indoor mercury source(s) to warrant further investigation .

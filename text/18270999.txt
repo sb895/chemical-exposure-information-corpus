@@ -1,0 +1,14 @@
+BACKGROUND The Northern Germany Leukemia and Lymphoma Study ( NLL ) is a population-based study designed to provide a quantitative basis for investigations into occupational and environmental risk factors for leukemia and lymphoma .
+METHODS All incident cases of leukemia and lymphoma diagnosed between 1/1/1986 and 12/31/1998 in six counties in Northern Germany were actively ascertained .
+Controls were selected from population registries .
+Use of pesticides , sources of food supply , time spent at home and work , medical and family history were assessed via face-to-face interview .
+This self-reported information was used in conjunction with direct environmental measurements of pesticides in household dust and electromagnetic fields ( EMFs ) .
+In addition , geographical information system ( GIS ) data were used to derive estimates of environmental exposure to pesticides , EMFs associated with transmission lines , and ionizing radiation from routine nuclear power reactor operations .
+Occupational exposure assessment was based on lifetime work history .
+For each job , information on branch of industry , company , job description , and duration of employment were ascertained .
+RESULTS Fourteen hundred thirty cases and 3041 controls were recruited .
+Lifetime residential and workplace histories totaled 49,628 addresses .
+Occupational exposure to pesticides was reported by 15% of the male participants ( women : 16% ) .
+Four percent of the men ( women : 8% ) were occupationally exposed to ionizing radiation for >or=1 year over their lifetime .
+Sixty four percent of the participants had lived in the vicinity ( 20 km ) of a nuclear power plant in operation .
+CONCLUSIONS The NLL illustrates the successful application of innovative methods to simultaneously assess occupational and environmental risk factors for leukemia and lymphoma including radiological hazards , pesticides , and EMFs .

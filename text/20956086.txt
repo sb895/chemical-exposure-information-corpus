@@ -1,0 +1,16 @@
+A somewhat detailed study was carried out in Gaighata , one of the 107 arsenic-affected blocks in West Bengal , India , to determine the degree of groundwater contamination with arsenic , its depth wise distribution , correlation with iron , arsenical health effects to the inhabitants and the factors responsible for arsenic poisoning .
+Groundwater in all the 107 mouzas over 13 gram-panchayets in Gaighata block contains arsenic above 0.01mgl(-1) and in 91 mouzas , arsenic concentration has been found above 0.05mgl(-1) .
+About 59.2 and 40.3% of the tubewell water samples contain arsenic above 0.01 and 0.05mgl(-1) , respectively .
+The approximate population drinking arsenic-contaminated water above 0.01 and 0.05mgl(-1) are 106,560 and 72,540 , respectively .
+The tubewells that were installed within the depth range of 15.4-30.3m are mostly arsenic-contaminated .
+Even the shallow groundwater level ( 7.87-15.1m ) is arsenic-contaminated .
+Both arsenic and iron concentrations in groundwater gradually increase from lower depth to higher depth up to 39.4m , and then decrease with increasing depth .
+About 58% of the deep tubewell water samples ( depth range 122-182m , n=31 ) contain arsenic \u22650.05mgl(-1) .
+About 72% of the arsenic-contaminated deep tubewells ( n=18 ) were safe when surveyed first time .
+But within a span of 2-5 years , they became contaminated with arsenic .
+The linear regression shows direct correlation between arsenic and iron concentrations in groundwater ( r(2)=0.8114 , p<0.0001 , n=912 ) .
+Intakes of inorganic arsenic from water by an adult male and female in the surveyed areas are 11.7 and 13.1\u03bcg/kg body wt./day , respectively and these values are higher than the WHO recommended PTDI value of inorganic arsenic ( 2.1\u03bcg/kg body wt./day ) .
+Mean arsenic concentrations in urine , hair and nail samples , collected from the inhabitants of Gutri mouza are higher than their normal level and the values are 292\u03bcgl(-1) ( range : 8.35-1024\u03bcg l(-1) , n=193 ) , 2.50mgkg(-1) ( range : 0.17-5.99mgkg(-1) , n=132 ) , and 6.05mgkg(-1) ( range : 0.55-16.7mgkg(-1) , n=116 ) , respectively .
+About 83% and 68% of the urine samples ( n=250 ) contain arsenic above 100 and 200\u03bcgl(-1) , respectively .
+Linear regressions show very good correlations between arsenic concentrations in water vs. urine , hair and nail samples from the inhabitants ( n=103 ) of Gutri mouza .
+About 18.3% of the population ( n=930 ) were registered with arsenical skin lesions .

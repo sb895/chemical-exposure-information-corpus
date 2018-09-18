@@ -1,0 +1,11 @@
+BACKGROUND In vitro and rodent studies have shown that arsenic ( As ) exposure can deplete glutathione ( GSH ) and induce oxidative stress .
+GSH is the primary intracellular antioxidant ; it donates an electron to reactive oxygen species , thus producing glutathione disulfide ( GSSG ) .
+Cysteine ( Cys ) and cystine ( CySS ) are the predominant thiol/disulfide redox couple found in human plasma .
+Arsenic , GSH , and Cys are linked in several ways : a ) GSH is synthesized via the transsulfuration pathway , and Cys is the rate-limiting substrate ; b ) intermediates of the methionine cycle regulate both the transsulfuration pathway and As methylation ; c ) GSH serves as the electron donor for reduction of arsenate to arsenite ; and d ) As has a high affinity for sulfhydryl groups and therefore binds to GSH and Cys .
+OBJECTIVES We tested the hypothesis that As exposure is associated with decreases in GSH and Cys and increases in GSSG and CySS ( i.e. , a more oxidized environment ) .
+METHODS For this cross-sectional study , the Folate and Oxidative Stress Study , we recruited a total of 378 participants from each of five water As concentration categories : < 10 ( n = 76 ) , 10-100 ( n = 104 ) , 101-200 ( n = 86 ) , 201-300 ( n = 67 ) , and > 300 µg/L ( n = 45 ) .
+Concentrations of GSH , GSSG , Cys , and CySS were measured using HPLC .
+RESULTS An interquartile range ( IQR ) increase in water As was negatively associated with blood GSH ( mean change , -25.4 µmol/L ; 95% CI : -45.3 , -5.31 ) and plasma CySS ( mean change , -3.00 µmol/L ; 95% CI : -4.61 , -1.40 ) .
+We observed similar associations with urine and blood As .
+There were no significant associations between As exposure and blood GSSG or plasma Cys .
+CONCLUSIONS The observed associations are consistent with the hypothesis that As may influence concentrations of GSH and other nonprotein sulfhydryls through binding and irreversible loss in bile and/or possibly in urine .

@@ -1,0 +1,12 @@
+The extent of children's exposure to multiple toxic metals is not well described in many developing countries .
+We examined metal exposures in young children ( 6-37 months ) from Montevideo , Uruguay and their mothers ( 15-47 years ) participating in a community-based study .
+Hair samples collected from 180 children and their mothers were analyzed for : lead ( Pb ) , cadmium ( Cd ) , manganese ( Mn ) , and arsenic ( As ) concentration using inductively coupled plasma-mass spectrometry ( ICP-MS ) .
+Median metal levels ( microg/g ) were : Pb 13.69 , Mn 1.45 , Cd 0.17 , and As 0.09 for children and Pb 4.27 , Mn 1.42 , Cd 0.08 , and As 0.02 for mothers .
+Of the child and maternal samples , 1.7% and 2.9% were below the limit of detection ( LOD ) for Cd , and 21.3% and 38.5% were below the LOD for As , respectively .
+Correlations between maternal and child levels ranged 0.38-0.55 ( p<0.01 ) .
+Maternal hair metal levels were the strongest predictors of metal concentrations in children's hair .
+Girls had significantly lower As levels than boys ( p<0.01 ) but did not differ on other metals .
+In addition , in bivariate logistic regressions predicting the likelihood that the child would be exposed to multiple metals , hemoglobin <10.5 g/dL ( OR=2.12 , p<0.05 ) , blood lead ( OR=1.17 , p<0.01 ) , and the mother being exposed to two or more metals ( OR=3.34 , p<0.01 ) were identified as significant predictors of increased likelihood of multiple metal exposure .
+Older child age ( OR=0.96 , p<0.05 ) , higher maternal education ( OR=0.35 , p<0.01 ) , and higher number of household possessions ( OR=0.83 , p<0.01 ) were significantly associated with decreased likelihood of multiple metal exposure .
+Preschool children in Uruguay are exposed to multiple metals at levels that in other studies have been associated with cognitive and behavioral deficits .
+Sources of exposure , as well as cognitive and behavioral consequences of multiple metal exposure , should be investigated in this population .

@@ -1,0 +1,10 @@
+Aggregate ( multiple pathway ) exposures to methyl tertiary-butyl ether ( MTBE ) in air and water occur via dermal , inhalation , and oral routes .
+Previously , physiologically based pharmacokinetic ( PBPK ) models have been used to quantify the kinetic behavior of MTBE and its primary metabolite , tertiary-butyl alcohol ( TBA ) , from inhalation exposures .
+However , the contribution of dermal and oral exposures to the internal dose of MTBE and TBA were not characterized well .
+The objective of this study was to develop a multi-route PBPK model of MTBE and TBA in humans .
+The model was based entirely on blood MTBE and TBA measurements from controlled human exposures .
+The PBPK model consists of nine primary compartments representing the lungs , skin , fat , kidney , stomach , intestine , liver , rapidly perfused tissue , and slowly perfused tissue .
+The MTBE and TBA models are linked by a single metabolic pathway .
+Although the general structure of the model is similar to previously published models of volatile organic compounds , we have now developed a detailed mathematical description of the lung , skin , and gastrointestinal tract .
+This PBPK model represents the most comprehensive and accurate description of MTBE and TBA pharmacokinetics in humans to date .
+The aggregate exposure model application for MTBE can be generalized to other environmental chemicals under this framework given appropriate empirical measurement data .

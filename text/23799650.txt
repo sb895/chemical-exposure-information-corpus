@@ -1,0 +1,11 @@
+BACKGROUND Environmental exposures to phthalates , particularly high-molecular-weight ( HMW ) phthalates , are suspected to contribute to allergy .
+OBJECTIVE We assessed whether phthalate metabolites are associated with allergic symptoms and sensitization in a large nationally representative sample .
+METHODS We used data on urinary phthalate metabolites and allergic symptoms ( hay fever , rhinitis , allergy , wheeze , asthma ) and sensitization from participants \u2265 6 years of age in the National Health and Nutrition Examination Survey ( NHANES ) 2005-2006 .
+Allergen sensitization was defined as a positive response to at least one of 19 specific IgE antigens ( \u2265 0.35 kU/L ) .
+Odds ratios ( ORs ) per one log10 unit change in phthalate concentration were estimated using logistic regression adjusting for age , race , body mass index , gender , creatinine , and cotinine .
+Separate analyses were conducted for children ( 6-17 years of age ) and adults .
+RESULTS The HMW phthalate metabolite monobenzyl phthalate ( MBzP ) was the only metabolite positively associated with current allergic symptoms in adults ( wheeze , asthma , hay fever , and rhinitis ) .
+Mono-(3-carboxypropyl) phthalate and the sum of diethylhexyl phthalate metabolites ( both representing HMW phthalate exposures ) were positively associated with allergic sensitization in adults .
+Conversely , in children , HMW phthalate metabolites were inversely associated with asthma and hay fever .
+Of the low-molecular-weight phthalate metabolites , monoethyl phthalate was inversely associated with allergic sensitization in adults ( OR = 0.79 ; 95% CI : 0.70 , 0.90 ) .
+CONCLUSION In this cross-sectional analysis of a nationally representative sample , HMW phthalate metabolites , particularly MBzP , were positively associated with allergic symptoms and sensitization in adults , but there was no strong evidence for associations between phthalates and allergy in children 6-17 years of age .

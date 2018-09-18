@@ -1,0 +1,10 @@
+BACKGROUND It has been suggested that pre- and postnatal exposure to persistent organic pollutants ( POPs ) can promote several adverse effects in children , such as altered neurodevelopment .
+Epidemiologic studies to date have relied on the analysis of biological samples drawn pre- or post-natally for exposure assessment , an approach that might not capture some key events in the toxicokinetics of POPs .
+OBJECTIVES We aimed to build a generic physiologically based pharmacokinetic ( PBPK ) modeling framework for neutral POPs to assess infant toxicokinetic profiles and to validate the model using data on POP levels measured in mothers and infants from a Northern Québec Inuit population .
+METHODS The PBPK model developed herein was based upon a previously published model to which an infant submodel was added .
+Using the model and maternal blood levels at the time of delivery , exposure to 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene ( p,p'-DDE ) , 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane ( p,p'-DDT ) , hexachlorobenzene ( HCB ) , beta-hexachlorocyclohexane ( beta-HCH ) , 2,2',3,4,4',5'-hexachlorobiphenyl ( PCB-138 ) , 2,2',4,4',5,5'-hexachlorobiphenyl ( PCB-153 ) , and 2,2',3,4,4',5,5'-heptachlorobiphenyl ( PCB-180 ) in mothers was estimated to subsequently simulate infant blood , breast milk , and cord blood POP concentration .
+Simulations were then compared with corresponding measured levels through Spearman correlation analyses .
+RESULTS Predictions were highly correlated with measured concentrations for PCB-153 , PCB-180 , PCB-138 , HCB , and p,p'-DDE ( r = 0.83-0.96 ) .
+Weaker correlations were observed for p,p'-DDT and beta-HCH for which levels were near the limits of detection .
+CONCLUSION This is the first study to validate a PBPK model of POPs in infants on an individual basis .
+This approach will reduce sampling efforts and enable the use of individualized POP toxicokinetic profiles in the epidemiologic studies of POP adverse effects on child development .

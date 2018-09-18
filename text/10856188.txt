@@ -1,0 +1,10 @@
+This research is focused on prenatal and early postnatal mercury ( Hg ) exposure among the riverside people along the Upper Madeira river in the Amazon .
+Linear regression models were developed to predict the hair Hg concentration in infants .
+The independent variables included in the model of Group 1 ( 87 pairs of mothers and their infants ) were the average maternal hair Hg concentration and maternal age .
+Group 2 ( 31 pairs ) included maternal segmental hair Hg concentrations .
+For the segmental hair Hg analysis over time , it was assumed that hair grows at a rate of 11 cm per month .
+Thus , information on the timing of the dates of pregnancy and breast feeding from the birth history was used to cut the hair strands into segments , making them correspond to the mother's reproductive stage of life ( 31 pairs of mothers and their infants ) .
+Breast milk Hg concentration results were included with segmental and average maternal hair Hg concentration values ( 22 and 44 pairs of mothers and their infants , respectively ) .
+The models including the breast milk Hg concentration indicated that 61 and 55% of the variability of the infant hair Hg concentrations were due to the independent variables : segmental maternal hair Hg with breast milk Hg and average maternal hair Hg with breast milk Hg , respectively .
+The regression coefficients were in the range of 0.19 to 0.90 , and P values were in the range of 0.0001 to 0.1490 .
+Further recommendations include fish advisories to prevent critical Hg exposures during reproductive life and investigation of neurobehavioral performance of this study population .

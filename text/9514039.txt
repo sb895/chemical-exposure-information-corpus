@@ -1,0 +1,11 @@
+Mercury ( Hg ) , lead ( Pb ) , cadmium ( Cd ) and copper ( Cu ) in hair samples from Singapore island ( 85 samples ) and two islands off Batam , Indonesia ( 68 samples ) were analysed to assess the environmental uptake of elements .
+Hair samples were washed with 0.1% Triton X-100 solution for 20 min in an ultrasonic bath , rinsed five times with de-ionized water and air dried .
+Ten to 20 mg of hair samples were digested with 1 ml of ultra-pure concentrated nitric acid in Parr bombs at 120 degrees C for 2 h .
+Hair digests were analysed by atomic absorption spectrophotometry ( AAS ) .
+Hg was determined by the cold vapour AAS method and Pb , Cd and Cu by the electro-thermal graphite furnace AAS method .
+For Singapore hair , the contents of Cd ( in microgram/g ) averaged 0.17 ( range 0.02-1.81 ) ; Cu 13.2 ( range 3.1-70.1 ) ; Hg 5.92 ( range 1.14-35.52 ) ; and Pb 6.74 ( range 0.06-107.8 ) .
+For the islands off Batam , Cd was 0.32 ( range 0.06-1.80 ) ; Cu 21.1 ( range 3.8-143.6 ) ; Hg 5.59 ( range 0.78-60.86 ) ; and Pb 15.1 ( range 0.13-116.6 ) .
+Statistically significant differences in Cd , Pb and Hg contents were observed between the hair samples from Singapore and those of the islands off Batam in cumulative logit analysis .
+Hair from Singapore contained more Hg , but less Cd and Pb compared to hair from the islands off Batam .
+For Pb in hair , significant differences were also observed between the two islands off Batam ( island 1 , 18.9 ; and island 2 , 10.2 ) .
+These differences in hair metal contents are due to differences in community lifestyle ( dietary , environmental or occupational intake ) .

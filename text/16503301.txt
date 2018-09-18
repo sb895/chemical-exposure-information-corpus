@@ -1,0 +1,10 @@
+This study assessed personal exposure to 1,3-butadiene ( BD ) and styrene in three plants manufacturing styrene-butadiene ( SB ) copolymers .
+Air samples were collected from the breathing zone of 28 workers over 4 months in three SB plants using diffusive samplers .
+The total number of samples was 885 with the number of samples per participant varying from 19 to 39 .
+Samples were collected by use of 3M 3500 passive monitors and analyzed with a gas chromatograph ( GC ) .
+Sampling proved to be simple and inexpensive and laboratory analysis of BD could detect 0.01 and 0.007 part per millions ( ppm ) of styrene in the 8h samples .
+In the case of BD , 624 samples were below the limit of quantification ( LOQ ) , 240 samples were between the LOQ and 1 ppm , and 21 samples exceeded the threshold limit value ( TLV ) .
+In the case of styrene 336 samples were below the LOQ , 548 samples were between the LOQ and 20 ppm .
+The TLV was exceeded once .
+The data gives a comprehensive picture of personal exposure of workers in modern SB latex manufacturing plants .
+The study illustrates also how the new TLV of BD is being implemented .

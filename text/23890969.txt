@@ -1,0 +1,10 @@
+Recent literature suggests that exposure to low concentrations of heavy metals may affect both maternal and child health .
+This study aimed to determine the biological heavy metals concentrations of pregnant women as well as environmental and dietary factors that may influence exposure concentrations .
+One hundred and seventy three pregnant women were recruited from Western Australia , each providing a sample of blood , first morning void urine , residential soil , dust and drinking water samples .
+Participants also completed a questionnaire which included a food frequency component .
+All biological and environmental samples were analysed for heavy metals using ICP-MS .
+Biological and environmental concentrations of lead and mercury were generally low ( Median Pb Drinking Water ( DW ) 0.04 µg/L ; Pb soil <3.0 µg/g ; Pb dust 16.5 µg/g ; Pb blood 3.67 µg/L ; Pb urine 0.55 ; µg/L Hg DW <0.03 ; Hg soil <1.0 µg/g ; Hg dust <1.0 µg/g ; Hg blood 0.46 µg/L ; Hg urine <0.40 µg/L ) .
+Cadmium concentrations were low in environmental samples ( Median CdDW 0.02 µg/L ; Cdsoil <0.30 ug/g ; Cddust <0.30 ) but elevated in urine samples ( Median 0.55 µg/L , creatinine corrected 0.70 µg/g ( range <0.2-7.06 µg/g creatinine ) compared with other studies of pregnant women .
+Predictors of increased biological metals concentrations in regression models for blood cadmium were residing in the Great Southern region of Western Australia and not using iron/folic acid supplements and for urinary cadmium was having lower household annual income .
+However , these factors explained little of the variation in respective biological metals concentrations .
+The importance of establishing factors that influence low human exposure concentrations is becoming critical in efforts to reduce exposures and hence the potential for adverse health effects .

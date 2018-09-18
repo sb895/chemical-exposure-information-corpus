@@ -1,0 +1,11 @@
+BACKGROUND It has been suggested that mercury , a highly reactive heavy metal with no known physiologic activity , increases the risk of cardiovascular disease .
+Because fish intake is a major source of exposure to mercury , the mercury content of fish may counteract the beneficial effects of its n-3 fatty acids .
+METHODS In a case-control study conducted in eight European countries and Israel , we evaluated the joint association of mercury levels in toenail clippings and docosahexaenoic acid ( C22:6n-3 , or DHA ) levels in adipose tissue with the risk of a first myocardial infarction among men .
+The patients were 684 men with a first diagnosis of myocardial infarction .
+The controls were 724 men selected to be representative of the same populations .
+RESULTS The average toenail mercury level in controls was 0.25 microg per gram .
+After adjustment for the DHA level and coronary risk factors , the mercury levels in the patients were 15 percent higher than those in controls ( 95 percent confidence interval , 5 to 25 percent ) .
+The risk-factor-adjusted odds ratio for myocardial infarction associated with the highest as compared with the lowest quintile of mercury was 2.16 ( 95 percent confidence interval , 1.09 to 4.29 ; P for trend=0.006 ) .
+After adjustment for the mercury level , the DHA level was inversely associated with the risk of myocardial infarction ( odds ratio for the highest vs. the lowest quintile , 0.59 ; 95 percent confidence interval , 0.30 to 1.19 ; P for trend=0.02 ) .
+CONCLUSIONS The toenail mercury level was directly associated with the risk of myocardial infarction , and the adipose-tissue DHA level was inversely associated with the risk .
+High mercury content may diminish the cardioprotective effect of fish intake .

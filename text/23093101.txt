@@ -1,0 +1,9 @@
+Exposure to arsenic in drinking water is associated with increased prevalence of diabetes .
+We previously reported an association of diabetes and urinary concentration of dimethylarsinite ( DMAs(III) ) , a toxic product of arsenic methylation by arsenic ( +3 oxidation state ) methyltransferase ( AS3MT ) .
+Here we examine associations between AS3MT polymorphism , arsenic metabolism and diabetes .
+Fasting blood glucose , oral glucose tolerance and self-reported diagnoses were used to identify diabetic individuals .
+Inorganic arsenic and its metabolites were measured in urine .
+Genotyping analysis focused on six polymorphic sites of AS3MT .
+Individuals with M287T and G4965C polymorphisms had higher levels of urinary DMAs(III) and were more frequently diabetic than the respective wild-type carriers , although the excess was not statistically significant .
+Odds ratios were 11.4 ( 95% confidence interval ( CI ) 2.2-58.8 ) and 8.8 ( 95% CI 1.6-47.3 ) for the combined effects of arsenic exposure >75th percentile and 287T and 4965C genotypes , respectively .
+Carriers of 287T and 4965C may produce more DMAs(III) and be more likely to develop diabetes when exposed to arsenic .

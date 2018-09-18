@@ -1,0 +1,10 @@
+BACKGROUND Exposure to ambient air pollution is linked to adverse pregnancy outcomes .
+Previous reports examining the relationship between ambient air pollution and Hypertensive Disorders of Pregnancy have been inconsistent .
+OBJECTIVES We evaluated the effects of ambient air pollution on the odds of Hypertensive Disorder of Pregnancy and whether these associations varied by body mass index ( BMI ) .
+METHODS We conducted a retrospective , case-control study among 298 predominantly Hispanic women ( 136 clinically confirmed cases ) who attended the Los Angeles County+University of Southern California Women's and Children's Hospital during 1996-2008 .
+Trimester-specific carbon monoxide ( CO ) , nitrogen dioxide ( NO2 ) , ozone ( O3 ) , and particulate matter with aerodynamic diameter <10 \u03bcm and <2.5 \u03bcm ( PM10 , PM2.5 ) exposure were estimated based on 24-hour exposure level at residential address .
+Logistic regression models were fitted to estimate odds ratios ( ORs ) and 95% confidence intervals ( CIs ) for two standard deviation increase in exposure levels .
+RESULTS Exposures to CO and PM2.5 in the 1st trimester were significantly associated with Hypertensive Disorders of Pregnancy , and these associations were modified by BMI .
+In non-obese women ( BMI <30 ) , 1st trimester exposures to PM2.5 and CO were significantly associated with increased odds of Hypertensive Disorder of Pregnancy ( ORs per 2-standard deviation increase in PM2.5 ( 7 \u03bcg/m(3) ) and CO ( 1 ppm ) exposures were 9.10 [ 95% CI : 3.33-24.6 ] and 4.96 [ 95% CI : 1.85-13.31 ] , respectively ) .
+Additionally , there was a significantly positive association between exposure to O3 in the 2nd trimester and Hypertensive Disorder of Pregnancy ( OR per 15 ppb=2.05 ; 95% CI : 1.22-3.46 ) .
+CONCLUSION Among non-obese women , 1st trimester exposure to PM2.5 and carbon monoxide are associated with increased odds of Hypertensive Disorder of Pregnancy .

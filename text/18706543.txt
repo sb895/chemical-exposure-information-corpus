@@ -1,0 +1,12 @@
+BACKGROUND The relationships between social factors and body concentrations of environmental chemical agents are unknown in many human populations .
+Some chemical compounds may play an etiopathogenic role in pancreatic cancer .
+OBJECTIVE To analyze the relationships between occupational social class and serum concentrations of seven selected organochlorine compounds ( OCs ) in exocrine pancreatic cancer : dichlorodiphenyltrichloroethane ( p,p'-DDT ) , dichlorodiphenyldichloroethene ( p,p'-DDE ) , 3 polychlorinated biphenyls ( PCBs ) , hexachlorobenzene , and beta-hexachlorocyclohexane .
+METHODS Incident cases of exocrine pancreatic cancer were prospectively identified , and interviewed face-to-face during hospital admission ( n=135 ) .
+Serum concentrations of OCs were analyzed by high-resolution gas chromatography with electron-capture detection .
+Social class was classified according to occupation .
+RESULTS Multivariate-adjusted concentrations of all seven compounds were higher in occupational social classes IV-V ( the less affluent ) than in classes I-II ; they were higher as well in class III than in classes I-II for four compounds .
+Concentrations of six OCs were higher in manual workers than in non-manual workers ( p<0.05 for PCBs ) .
+Social class explained statistically between 3.7% and 5.7% of the variability in concentrations of PCBs , and 2% or less variability in the other OCs .
+CONCLUSIONS Concentrations of most OCs were higher in the less affluent occupational social classes .
+In pancreatic cancer the putative causal role of these persistent organic pollutants may not be independent of social class .
+There is a need to integrate evidence on the contribution of different social processes and environmental chemical exposures to the etiology of pancreatic and other cancers .

@@ -1,0 +1,10 @@
+OBJECTIVE The aim of this study was to evaluate the expression of a panel of genes involved in toxicology in response to styrene exposure at levels below the occupational standard setting .
+METHODS Workers in a fiber glass boat industry were evaluated for a panel of stress- and toxicity-related genes and associated with biochemical parameters related to hepatic injury .
+Urinary styrene metabolites ( MA+PGA ) of subjects and environmental sampling data collected for air at workplace were used to estimate styrene exposure .
+RESULTS Expression array analysis revealed massive upregulation of genes encoding stress-responsive proteins ( HSPA1L , EGR1 , IL-6 , IL-1\u03b2 , TNSF10 and TNF\u03b1 ) in the styrene-exposed group ; the levels of cytokines released were further confirmed in serum .
+The exposed workers were then stratified by styrene exposure levels .
+EGR1 gene upregulation paralleled the expression and transcriptional protein levels of IL-6 , TNSF10 and TNF\u03b1 in styrene exposed workers , even at low level .
+The activation of the EGR1 pathway observed at low-styrene exposure was associated with a slight increase of hepatic markers found in highly exposed subjects , even though they were within normal range .
+The ALT and AST levels were not affected by alcohol consumption , and positively correlated with urinary styrene metabolites as evaluated by multiple regression analysis .
+CONCLUSION The pro-inflammatory cytokines IL-6 and TNF\u03b1 are the primary mediators of processes involved in the hepatic injury response and regeneration .
+Here , we show that styrene induced stress responsive genes involved in cytoprotection and cytotoxicity at low-exposure , that proceed to a mild subclinical hepatic toxicity at high-styrene exposure .

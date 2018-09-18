@@ -1,0 +1,11 @@
+Cadmium is a well-known nephrotoxicant ; chronic exposure increases risk for chronic kidney disease .
+Recently , however , associations between urine cadmium and higher creatinine-based estimated glomerular filtration rate ( eGFR ) have been reported .
+Analyses utilizing alternate biomarkers of kidney function allow evaluation of potential mechanisms for these observations .
+We compared associations of urine cadmium with kidney function measures based on serum cystatin C to those with serum creatinine in 712 lead workers .
+Mean ( standard deviation ) molybdenum-corrected urine cadmium , Modification of Diet in Renal Disease ( MDRD ) eGFR and multi-variable cystatin C eGFR were 1.02 ( 0.65 ) \u03bcg/g creatinine , and 97.4 ( 19.2 ) and 112.0 ( 17.7 ) mL/min/1.73 m2 , respectively .
+The eGFR measures were moderately correlated ( rs=0.5 ; p<0.001 ) .
+After adjustment , ln ( urine cadmium ) was not associated with serum cystatin-C-based measures .
+However , higher ln ( urine cadmium ) was associated with higher creatinine-based eGFRs including the MDRD and an equation incorporating serum cystatin C and creatinine ( beta-coefficient=4.1 mL/min/1.73 m2 ; 95% confidence interval=1.6 , 6.6 ) .
+Urine creatinine was associated with serum creatinine-based but not cystatin-C-based eGFRs .
+These results support a biomarker-specific , rather than a kidney function , effect underlying the associations observed between higher urine cadmium and creatinine-based kidney function measures .
+Given the routine use of serum and urine creatinine in kidney and biomarker research , additional research to elucidate the mechanism(s) for these associations is essential .

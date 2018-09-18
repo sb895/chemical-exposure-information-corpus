@@ -1,0 +1,7 @@
+Phthalates are additives commonly used to convert hard polyvinyl chloride ( PVC ) resins into flexible and workable plastics employed in the production of chewable rubber toys and other soft-plastic products .
+In theory , phthalates can diffuse in small quantities to the surface of a product , and from there they can enter the environment and the human body .
+The purpose of this study was to determine the diffusion of phthalates from plasticized PVC in water and artificial saliva ; to determine the migration of di(2-ethylhexyl) ( DEHP ) phthalate in human saliva using gas chromatography ; to compare the experimental values with theoretical values calculated using a model based on the principles of molecular diffusion in fluids ; and to use the experimental values to estimate daily doses of DEHP received by Mexican children and infants using plastic and soft-plastic products ( e.g. , pacifiers , chewable toys , and bottles ) .
+Our findings indicated phthalate diffusion of 0.36 microg/cm2 per hour and 4.10 microg/cm2 per hour , respectively , in water and artificial saliva .
+The average value of phthalate diffusion in vivo was 6.04 microg/cm2 per hour .
+The daily oral phthalate exposure in Mexican infants and toddlers from oral use of rubber toys and soft-plastic products is 18.12 microg/kg .
+These daily doses are considerably lower than the maximum daily phthalate intake recommended by an international public health committee .

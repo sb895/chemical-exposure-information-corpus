@@ -1,0 +1,11 @@
+This study intends to calculate the lifetime cancer risks resulting from intakes of trihalomethanes ( THMs ) in drinking water based on the presence of each THM species .
+The slope factors for each THM species are used , combined with exposure model and Monte Carlo simulations , to calculate the cancer risks with consideration of different exposure routes ( oral ingestion , inhalation and dermal absorption ) .
+The results revealed that the highest risk comes from the inhalation exposure to chloroform during showers , which also dominates the total risk associated with chloroform exposure .
+For dichlorobromomethane and chlorodibromomethane , inhalation exposure also plays an important role for total risks ; however , contribution from the oral consumption cannot be ignored for these two compounds .
+Bromoform contributes the least cancer risk among the four THM species , with a risk factor two orders of magnitude smaller than the other three THM species .
+For all of the four THM species , exposure from dermal absorption is not significant when compared with oral ingestion and inhalation exposures .
+This study also uses the THMs data collected from Taiwan to calculate the cancer risks associated with THM exposures in different areas of Taiwan .
+Due to the variations of the THMs compositions , it is observed that higher concentrations of total THMs do not necessarily lead to higher cancer risks .
+Areas with higher bromide concentration in raw water and often with higher total THM concentration may actually give lower cancer risk if the THMs formed shift to bromoform .
+However , this also leads to the violation of THM standards since bromoform has much higher molecular weight than chloroform .
+Based on the results of the cancer risks calculated from each THM species , the regulatory issue of the THMs was also discussed .

@@ -1,0 +1,10 @@
+BACKGROUND Associations between airborne particles and health outcomes have been documented worldwide ; however , there is limited information regarding health effects associated with different particle sizes .
+OBJECTIVES We explored the association between size-fractionated particle number concentrations ( PNCs ) and daily mortality in Shenyang , China .
+METHODS We collected daily data on cause-specific mortality and PNCs for particles measuring 0.25-10 \u03bcm in diameter between 1 December 2006 and 30 November 2008 .
+We used quasi-Poisson regression generalized additive models to estimate associations between PNCs and mortality , and we used natural spline smoothing functions to adjust for time-varying covariates and long-term and seasonal trends .
+RESULTS Mean numbers of daily deaths were 67 , 32 , and 7 for all natural causes , cardiovascular diseases , and respiratory diseases , respectively .
+Interquartile range ( IQR ) increases in PNCs for particles measuring 0.25-0.50 \u03bcm were significantly associated with total and cardiovascular mortality , but not respiratory mortality .
+Effect estimates were larger for PNCs during the warm season than the cool season , and increased with decreasing particle size .
+IQR increases in PNCs of 0.25-0.28 \u03bcm , 0.35-0.40 \u03bcm , and 0.45-0.50 \u03bcm particles were associated with 2.41% ( 95% CI : 1.23 , 3.58% ) , 1.31% ( 95% CI : 0.52 , 2.09% ) , and 0.45% ( 95% CI : 0.04 , 0.87% ) higher total mortality , respectively .
+Associations were generally stable after adjustment for mass concentrations of ambient particles and gaseous pollutants .
+CONCLUSIONS Our findings suggest that particles < 0.5 \u03bcm in diameter may be most responsible for adverse health effects of particulate air pollution and that adverse health effects may increase with decreasing particle size .

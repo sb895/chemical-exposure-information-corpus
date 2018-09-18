@@ -1,0 +1,11 @@
+BACKGROUND Few studies have examined the acute health effects of air pollution exposures experienced while cycling in traffic .
+OBJECTIVES We conducted a crossover study to examine the relationship between traffic pollution and acute changes in heart rate variability .
+We also collected spirometry and exhaled nitric oxide measures .
+METHODS Forty-two healthy adults cycled for 1 hr on high- and low-traffic routes as well as indoors .
+Health measures were collected before cycling and 1-4 hr after the start of cycling .
+Ultrafine particles ( UFPs ; \u2264 0.1 \u03bcm in aerodynamic diameter ) , particulate matter \u2264 2.5 \u03bcm in aerodynamic diameter ( PM2.5 ) , black carbon , and volatile organic compounds were measured along each cycling route , and ambient nitrogen dioxide ( NO2 ) and ozone ( O3 ) levels were recorded from a fixed-site monitor .
+Mixed-effects models were used to estimate associations between air pollutants and changes in health outcome measures relative to precycling baseline values .
+RESULTS An interquartile range increase in UFP levels ( 18,200/cm3 ) was associated with a significant decrease in high-frequency power 4 hr after the start of cycling [ \u03b2 = -224 msec2 ; 95% confidence interval ( CI ) , -386 to -63 msec2 ] .
+Ambient NO2 levels were inversely associated with the standard deviation of normal-to-normal ( NN ) intervals ( \u03b2 = -10 msec ; 95% CI , -20 to -0.34 msec ) and positively associated with the ratio of low-frequency to high-frequency power ( \u03b2 = 1.4 ; 95% CI , 0.35 to 2.5 ) 2 hr after the start of cycling .
+We also observed significant inverse associations between ambient O3 levels and the root mean square of successive differences in adjacent NN intervals 3 hr after the start of cycling .
+CONCLUSIONS Short-term exposures to traffic pollution may contribute to altered autonomic modulation of the heart in the hours immediately after cycling .

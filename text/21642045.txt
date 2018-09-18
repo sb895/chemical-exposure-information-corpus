@@ -1,0 +1,10 @@
+BACKGROUND Epidemiologic evidence for a causative association between black carbon ( BC ) and health outcomes is limited.Objectives : We estimated associations and exposure-response relationships between acute respiratory inflammation in schoolchildren and concentrations of BC and particulate matter with an aerodynamic diameter of \u2264 2.5 \u03bcm ( PM2.5 ) in ambient air before and during the air pollution intervention for the 2008 Beijing Olympics .
+METHODS We measured exhaled nitric oxide ( eNO ) as an acute respiratory inflammation biomarker and hourly mean air pollutant concentrations to estimate BC and PM2.5 exposure .
+We used 1,581 valid observations of 36 subjects over five visits in 2 years to estimate associations of eNO with BC and PM2.5 according to generalized estimating equations with polynomial distributed-lag models , controlling for body mass index , asthma , temperature , and relative humidity .
+We also assessed the relative importance of BC and PM2.5 with two-pollutant models .
+RESULTS Air pollution concentrations and eNO were clearly lower during the 2008 Olympics .
+BC and PM2.5 concentrations averaged over 0-24 hr were strongly associated with eNO , which increased by 16.6% [ 95% confidence interval ( CI ) , 14.1-19.2% ] and 18.7% ( 95% CI , 15.0-22.5% ) per interquartile range ( IQR ) increase in BC ( 4.0 \u03bcg/m3 ) and PM2.5 ( 149 \u03bcg/m3 ) , respectively .
+In the two-pollutant model , estimated effects of BC were robust , but associations between PM2.5 and eNO decreased with adjustment for BC .
+We found that eNO was associated with IQR increases in hourly BC concentrations up to 10 hr after exposure , consistent with effects primarily in the first hours after exposure .
+CONCLUSIONS Recent exposure to BC was associated with acute respiratory inflammation in schoolchildren in Beijing .
+Lower air pollution levels during the 2008 Olympics also were associated with reduced eNO .

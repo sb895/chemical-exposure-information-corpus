@@ -1,0 +1,10 @@
+Concerns about the carcinogenic and endocrine-disrupting characteristics of organochlorine pesticides ( OCPs ) have led to a global ban on OCP use .
+However , OCPs persist in the environment for decades because of their long half-life .
+We evaluated serum levels of OCPs and their correlations with usual dietary intake and other lifestyle factors among 250 healthy women who participated as controls in the Shanghai Breast Cancer Study .
+Serum levels of hexachlorocyclohexane isomers ( alpha-HCH , beta-HCH , gamma-HCH ) , dichloro-di-phenyl-trichloroethane ( DDT ) isomers ( p,p'-DDE and p,p'-DDT ) , hexachlorobenzene ( HCB ) , trans-nonachlor ( TNC ) , and eight polychlorinated biphenyls ( PCB ) congeners ( IUPAC no. 74 , 118 , 138 , 153 , 170 , 180 , 183 , and 187 ) were measured .
+Lifestyle factors and usual dietary habits over the past 5 years were assessed through an in-person interview .
+With the exception of PCB , total OCP levels in our study population were significantly higher than those observed in other countries .
+Age , income , body mass index , waist-to-hip ratio , number of pregnancies , and/or total duration of breastfeeding were all significantly correlated with all types of OCPs .
+Of the 20 food groups evaluated , correlations with serum total OCPs were observed for eggs ( r=0.13 ) , fresh beans ( r=-0.17 ) , tea ( r=0.14 ) , and animal fat ( r=0.18 ) .
+Multiple regression analyses showed that age and animal fat intake were positively associated with serum total level OCPs , while leafy vegetable and fresh bean consumption was negatively associated with OCPs level .
+Our study suggests that dietary intake may be an important contributor of serum levels of OCPs in Chinese women .

@@ -1,0 +1,16 @@
+BACKGROUND Cadmium ( Cd ) is a human toxicant and carcinogen .
+Genetic variation might affect long-term accumulation .
+Cd is absorbed via iron transporters .
+OBJECTIVES We evaluated the impact of iron homeostasis genes [ divalent metal transporter 1 ( SLC11A2 ) , transferrin ( TF ) , transferrin receptors ( TFR2 and TFRC ) , and ferroportin ( SLC40A1) ] on Cd accumulation .
+METHODS Subjects were nonsmoking women living in the Argentinean Andes [ n = 172 ; median urinary Cd ( U-Cd ) = 0.24 µg/L ] and Bangladesh ( n = 359 ; U-Cd = 0.54 µg/L ) with Cd exposure mainly from food .
+Concentrations of U-Cd and Cd in whole blood or in erythrocytes ( Ery-Cd ) were measured by inductively coupled plasma mass spectrometry .
+Fifty polymorphisms were genotyped by Sequenom .
+Gene expression was measured in whole blood ( n = 72 ) with Illumina DirectHyb HumanHT-12 v4.0 .
+RESULTS TFRC rs3804141 was consistently associated with U-Cd .
+In the Andean women , mean U-Cd concentrations were 22% ( 95% CI : -2 , 51% ) , and they were 56% ( 95% CI : 10 , 120% ) higher in women with GA and AA genotypes , respectively , relative to women with the GG genotype .
+In the Bangladeshi women , mean U-Cd concentrations were 22% ( 95% CI : 1 , 48% ) , and they were 58% ( 95% CI : -3 , 157% ) higher in women with GA and AA versus GG genotype , respectively [ adjusted for age and plasma ferritin in both groups ; ptrend = 0.006 ( Andes ) and 0.009 ( Bangladesh) ] .
+TFRC expression in blood was negatively correlated with plasma ferritin ( rS = -0.33 , p = 0.006 ) , and positively correlated with Ery-Cd ( significant at ferritin concentrations of < 30 µg/L only , rS = 0.40 , p = 0.046 ) .
+Rs3804141 did not modify these associations or predict TFRC expression .
+Cd was not consistently associated with any of the other polymorphisms evaluated .
+CONCLUSIONS One TFRC polymorphism was associated with urine Cd concentration , a marker of Cd accumulation in the kidney , in two very different populations .
+The consistency of the findings supports the possibility of a causal association .

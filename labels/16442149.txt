@@ -1,0 +1,1 @@
+<exposure routes--oral intake--food--children< <  Biomonitoring--exposure biomarker--mothers milk<exposure routes--dermal uptake-- AND exposure routes--inhalation-- AND exposure routes--oral intake--food--children< <exposure routes--<  Biomonitoring--exposure biomarker--mothers milk

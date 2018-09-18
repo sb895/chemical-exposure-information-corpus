@@ -1,0 +1,8 @@
+The hypothesis that exposure to traffic-related air pollution increases the risk of developing cancer during childhood was investigated .
+The authors enrolled 1,989 children reported to the Danish Cancer Registry with a diagnosis of leukemia , tumor of the central nervous system , or malignant lymphoma during 1968-1991 and 5,506 control children selected at random from the entire childhood population .
+The residential histories of the children were traced from 9 months before birth until the time of diagnosis of the cases and a similar period for the controls .
+For each of the 18,440 identified addresses , information on traffic and the configuration of streets and buildings was collected .
+Average concentrations of benzene and nitrogen dioxide ( indicators of traffic-related air pollution ) were calculated for the relevant period , and exposures to air pollution during pregnancy and during childhood were calculated separately .
+The risks of leukemia , central nervous system tumors , and all selected cancers combined were not linked to exposure to benzene or nitrogen dioxide during either period .
+The risk of lymphomas increased by 25% ( p for trend = 0.06 ) and 51% ( p for trend = 0.05 ) for a doubling of the concentration of benzene and nitrogen dioxide , respectively , during the pregnancy .
+The association was restricted to Hodgkin's disease .

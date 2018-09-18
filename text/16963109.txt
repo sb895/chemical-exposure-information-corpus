@@ -1,0 +1,13 @@
+BACKGROUND Data on mercury exposure of the Austrian population were inadequate .
+This study was performed to determine the causal factors underlying mercury exposure and selenium concentrations , and to estimate the gender-related health impacts .
+METHODOLOGY Venous blood samples of 78 women and 81 men were drawn at the Austrian Red Cross , Vienna .
+Mercury contents in acid-digested whole blood samples were measured after amalgam enrichment by CV-AAS , and selenium by AAS ( heated quartz-cell ) after hydrid formation .
+RESULTS The average total mercury blood content of Austrians was low ( 2.38+/-1.55 microgL(-1) ; N=152 ) .
+Mercury and selenium concentrations were not different between the genders ( P>0.05 ) but we observed discrepancies regarding the causal factors .
+Mercury levels in men were influenced not only by fish consumption but also by age , education level , and amalgam fillings , whereas in women , only the diet ( fish/seafood , red wine consumption ) determined blood mercury ( P<0.05 ) .
+Moreover , only the males indicated a depressive effect of dental amalgam on hematocrit ( P<0.05 ) .
+Regarding selenium , age and alcohol consumption led to lower concentrations in men , whereas a high-level education had the opposite effect ; no determinant was found for women .
+For the whole study group , a significant effect of chronic disease on selenium levels could be detected ( P<0.05). 18% of women and 13% of men showed marginal selenium deficiency ( blood selenium<65 microgL(-1) ) .
+Selenium and mercury concentrations were not correlated .
+CONCLUSIONS Our results indicate the need to evaluate and integrate gender-related findings in metal toxicology and trace element research , because different causal factors require different preventive measures to reduce mercury exposure and the risk of low selenium concentrations .
+Future research is needed on the gender- and age-related differences in fish/seafood consumption habits , the modifications of mercury toxicokinetics through sex hormones , the selenium supply in Austria , and the clinical relevance of a low selenium status .

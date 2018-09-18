@@ -1,0 +1,8 @@
+Previous research demonstrated consistent associations between ambient air pollution and emergency room visits , hospitalizations , and mortality .
+Effect of air pollution on perinatal outcomes has recently drawn more attention .
+We examined the association between intrauterine growth restriction ( IUGR ) among singleton term live births and sulfur dioxide ( SO2 ) , nitrogen dioxide ( NO2 ) , carbon monoxide ( CO ) , ozone ( O3 ) , and fine particles ( PM2.5 ) present in ambient air in the Canadian cities of Calgary , Edmonton , and Montreal for the period 1985-2000 .
+Multiple logistic regression was used to estimate odds ratios ( ORs ) and 95% confidence intervals ( CIs ) for IUGR , based on average daily levels of individual pollutants over each month and trimester of pregnancy after adjustment for maternal age , parity , infant gender , season , and city of residence .
+A 1 ppm increase in CO was associated with an increased risk of IUGR in the first ( OR=1.18 ; 95% CI 1.14-1.23 ) , second ( OR=1.15 ; 95% CI 1.10-1.19 ) and third ( OR=1.19 ; 95% CI 1.14-1.24 ) trimesters of pregnancy , respectively .
+A 20 ppb increase in NO2 ( OR=1.16 ; 95% CI 1.09-1.24 ; OR=1.14 ; 95% CI 1.06--1.21 ; and OR=1.16 ; 95% CI 1.09-1.24 in the first , second , and third trimesters ) and a 10 mug/m3 increase in PM2.5 ( OR=1.07 ; 95% CI 1.03-1.10 ; OR=1.06 ; 95% CI 1.03-1.10 ; and OR=1.06 ; 95% CI 1.03-1.10 ) were also associated with an increased risk of IUGR .
+Consistent results were found when ORs were calculated by month rather than trimester of pregnancy .
+Our findings add to the emerging body of evidence that exposure to relatively low levels of ambient air pollutants in urban areas during pregnancy is associated with adverse effects on fetal growth .

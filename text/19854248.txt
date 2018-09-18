@@ -1,0 +1,10 @@
+Cadmium ( Cd ) is a widespread , highly toxic environmental pollutant known to accumulate in human placenta .
+The aim of the present study was to elucidate to what extent the accumulation of Cd in human placenta interacts with the transport of micronutrients to the fetus .
+Cd and micronutrients were measured in placenta and umbilical cord blood from 44 non-smoking , rural Bangladeshi women , using ICPMS .
+Metallothionein ( MT ) protein expression was determined in placenta using Western blot .
+Cd in placenta ( median 110 microg/kg dry weight , 20 microg/kg wet weight ) was positively associated with maternal urinary Cd .
+It was also positively associated with Cd in umbilical cord blood ( median 0.16 microg/kg ) , but negatively associated with zinc ( Zn ; median 3mg/kg ) in umbilical cord blood .
+Umbilical cord blood Zn was positively associated with birth anthropometry measures , and the Cd-related impairment of Zn in umbilical cord blood seemed to decrease size at birth .
+In multivariate analysis , MT protein expression was associated with Cd ( positively ) in placenta , but not with Zn or copper ( Cu ) in placenta .
+In conclusion , the Cd concentrations in placenta were clearly elevated , which seemed to impair Zn transfer to the fetus .
+Induction of MT explained the placental accumulation of Cd , but not the impairment of Zn transport .

@@ -1,0 +1,12 @@
+Fish or fish oil consumption has been associated with lower blood pressure .
+Fish may also contain methylmercury , which has been associated with cardiovascular diseases and higher blood pressure .
+Our aim was to study the associations of serum long-chain n-3 polyunsaturated fatty acids ( PUFA ) eicosapentaenoic acid ( EPA ) , docosapentaenoic acid ( DPA ) and docosahexaenoic acid ( DHA ) , mainly reflecting fish or fish oil intake , and hair mercury concentration with blood pressure .
+Data were available for 848 men and 909 women from the Kuopio Ischaemic Heart Disease Risk Factor Study , aged 53-73 years .
+We excluded participants with ischemic heart disease , stroke , diabetes or hypertension treatment , leaving 396 men and 372 women .
+Log-transformed values were used to study the associations .
+The mean serum concentrations were 1.63% ( s.d. 0.91 ) for EPA , 0.77% ( s.d. 0.16 ) for DPA and 2.73% ( s.d. 0.90 ) for DHA of all serum fatty acids .
+Multivariate-adjusted serum EPA+DPA+DHA was associated with lower systolic blood pressure ( \u03b2 = -4.50 , 95% confidence interval ( CI ) -8.02 - -0.99 ) and pulse pressure ( \u03b2 = -4.41 , 95% CI -6.95 - -1.87 ) , but not with diastolic blood pressure ( \u03b2 = -0.45 , 95% CI -2.31-1.52 ) .
+The associations were similar with EPA , DPA and DHA evaluated individually .
+The mean hair mercury concentration was 1.42\u2009\u03bcg\u2009g(-1) ( s.d. 1.54 ) .
+Hair mercury was not associated with blood pressure and it did not modify the association between PUFA and blood pressure .
+These results suggest that higher serum long-chain n-3 PUFA concentration has a modest inverse association with blood pressure in older men and women .

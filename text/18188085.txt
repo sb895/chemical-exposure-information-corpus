@@ -1,0 +1,7 @@
+OBJECTIVE The purpose of this study was to examine the association between arsenic exposure and anemia , based on blood hemoglobin concentration .
+METHODS Hemoglobin measures , skin lesions , arsenic exposure , and nutritional and demographic information were collected from 1954 Bangladeshi participants in the Health Effects of Arsenic Longitudinal Study .
+We used general linear modeling to assess the association between arsenic exposure and hemoglobin concentration , examining men and women separately .
+RESULTS Arsenic exposure ( urinary arsenic >200 microg/L ) was negatively associated with hemoglobin among all men and among women with hemoglobin <10 d/L .
+Other predictors of anemia in men and women included older age , lower body mass index , and low intake of iron .
+Among women , the use of contraceptives predicted higher hemoglobin .
+CONCLUSIONS The study suggests an association between high arsenic exposure and anemia in Bangladesh .

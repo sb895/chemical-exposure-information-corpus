@@ -1,0 +1,9 @@
+In this study , we evaluated the impact of long-term occupational exposure to elemental mercury vapor ( Hg0 ) on the personality traits of ex-mercury miners .
+Study groups included 53 ex-miners previously exposed to Hg0 and 53 age-matched controls .
+Miners and controls completed the self-reporting Eysenck Personality Questionnaire and the Emotional States Questionnaire .
+The relationship between the indices of past occupational exposure and the observed personality traits was evaluated using Pearson's correlation coefficient and on a subgroup level by machine learning methods ( regression trees ) .
+The ex-mercury miners were intermittently exposed to Hg0 for a period of 7-31 years .
+The means of exposure-cycle urine mercury ( U-Hg ) concentrations ranged from 20 to 120 microg/L .
+The results obtained indicate that ex-miners tend to be more introverted and sincere , more depressive , more rigid in expressing their emotions and are likely to have more negative self-concepts than controls , but no correlations were found with the indices of past occupational exposure .
+Despite certain limitations , results obtained by the regression tree suggest that higher alcohol consumption per se and long-term intermittent , moderate exposure to Hg0 ( exposure cycle mean U-Hg concentrations > 38.7 < 53.5 microg/L ) in interaction with alcohol remain a plausible explanation for the depression associated with negative self-concept found in subgroups of ex-mercury miners .
+This could be one of the reason for the higher risk of suicide among miners of the Idrija Mercury Mine in the last 45 years .

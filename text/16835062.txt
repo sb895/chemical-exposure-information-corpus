@@ -1,0 +1,9 @@
+Quantitative analysis for the risk of human cancer from the ingestion of inorganic arsenic has been based on the reported cancer mortality experience in the blackfoot disease ( BFD ) -endemic area of southwest Taiwan .
+Linear regression analysis shows that arsenic as the sole etiologic factor accounts for only 21% of the variance in the village standardized mortality ratios for bladder and lung cancer .
+A previous study had reported the influence of confounders ( township , BFD prevalence , and artesian well dependency ) qualitatively , but they have not been introduced into a quantitative assessment .
+In this six-township study , only three townships ( 2 , 4 , and 6 ) showed a significant positive dose-response relationship with arsenic exposure .
+The other three townships ( 0 , 3 , and 5 ) demonstrated significant bladder and lung cancer risks that were independent of arsenic exposure .
+The data for bladder and lung cancer mortality for townships 2 , 4 , and 6 fit an inverse linear regression model ( p < 0.001 ) with an estimated threshold at 151 microg/L ( 95% confidence interval , 42 to 229 microg/L ) .
+Such a model is consistent with epidemiologic and toxicologic literature for bladder cancer .
+Exploration of the southwest Taiwan cancer mortality data set has clarified the dose-response relationship with arsenic exposure by separating out township as a confounding factor .
+Key words : arsenic , blackfoot disease , bladder cancer , cancer risk , confounder , dose-response relationship , southwest Taiwan , threshold model .

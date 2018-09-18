@@ -1,0 +1,15 @@
+UNLABELLED Methylmercury is a neurotoxicant that bio-accumulates in the aquatic food chain and is present in all fish .
+Little is known about the effects of long-term low-dose exposure to methylmercury in adults .
+The aim of this study was to determine whether a dose-response relationship exists between long-term methylmercury exposure and neurological abnormalities in aboriginal Quebec Cree adults for whom fish is a dietary staple .
+We re-analysed data from a 1977 cross-sectional study conducted by Kofman and collaborators on a group of Quebec Cree individuals claiming ill health from local fish consumption .
+In the original 1977 study , 306 adult participants aged 18-82 years were assessed for methylmercury exposure .
+Tremor and other neurologic outcomes were assessed with a clinical examination .
+The investigators did not find clinical evidence of methylmercury intoxication based on an analysis of covariance .
+We used ordinal regression to obtain odds ratios for the relationship between total hair mercury levels and neurologic abnormalities .
+Hair mercury concentrations ranged from 0.5 to 46 ppm ( parts per million ) .
+A 6 ppm increase in hair mercury was associated with increasing levels of tremor ( OR , 2.22 ; 95% CI , 1.15-4.26 ) in adults under 40 years of age .
+There was no association with nine other outcomes considered , nor with tremor among older persons .
+Odds ratios were not influenced by gender , smoking , alcohol use , or co-morbidity .
+CONCLUSION : Dose-dependent effects of methylmercury on tremor may occur below the commonly accepted 50 ppm threshold , particularly in young adults .
+These effects may be detectable by clinical examination .
+However , the results should be interpreted with caution given that alcohol use was probably under-reported and that multiple outcomes were studied .

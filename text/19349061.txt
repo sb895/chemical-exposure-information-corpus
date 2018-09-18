@@ -1,0 +1,22 @@
+Polybrominated diphenyl ethers ( PBDEs ) are ubiquitous in the indoor environment , owing to their use in consumer products ranging from electronics to mattresses , furniture , and carpets .
+People are exposed to PBDEs through inhalation of indoor air and ingestion , and dermal absorption of dust particles present in the air .
+In this study , concentrations of PBDEs were determined in indoor air and house dust collected from homes in Albany , New York , USA .
+Based on the measured concentrations of PBDEs in indoor air and dust , we estimated daily exposure dose ( DED ) of PBDEs .
+In addition , we used previously published PBDE concentrations reported for breast milk from Massachusetts , USA [ Johnson-Restrepo , B. , Addink , R. , Wong , C. , Arcaro , K. , Kannan , K. , 2007 .
+Polybrominated diphenyl ethers and organochlorine pesticides in human breast milk from Massachusetts .
+USA .
+J. Environ .
+Monitor. 9 , 1205-1212 ] and foodstuffs collected from Texas and Florida , USA [ Schecter , A. , Päpke , O. , Harris , T.R. , Tung , K.C. , Musumba , A. , Olson , J. , Birnbaum , L. , 2006 .
+Polybrominated diphenyl ether ( PBDE ) levels in an expanded market basket survey of U.S. food and estimated PBDE dietary intake by age and sex .
+Environ .
+Health Perspect. 114 , 1515-1520 , Johnson-Restrepo , B. , Kannan , K. , Addink , R. , Adams , D.H. , 2005b .
+Polybrominated diphenyl ethers and polychlorinated biphenyls in a marine foodweb of coastal Florida .
+Environ .
+Sci .
+Technol. 39 , 8243-8250 ] , in an estimation of dietary exposure to PBDEs .
+The exposure assessment was performed for five age groups : infants ( <1yr ) , toddlers ( 1-5yr ) , children ( 6-11yr ) , teenagers ( 12-19yr ) , and adults ( 20yr ) .
+The dust ingestion and air inhalation factors that we used were the US Environmental Protection Agency's ( EPA ) exposure factors , while the daily food intake rates ( g/day ) were derived from the US Department of Agriculture's ( USDA ) food intake surveys .
+The total DED of PBDEs was calculated by summation of the exposures from diet , indoor air , and house dust .
+The average estimated DED of PBDEs was the highest for breastfed infants ( 86.4ng/kg-bw/day ) , contributed primarily ( 91% ) from the consumption of breast milk .
+The average DED of PBDEs for toddlers , children , teenagers , and adults was respectively , 13.3 , 5.3 , 3.5 , and 2.9ng/kg-bw/day .
+Ingestion and dermal absorption of house dust are the major pathways of PBDE exposure in toddlers , children , teenagers , and adults accounting for , on average , 56-77% of the total PBDE intake .

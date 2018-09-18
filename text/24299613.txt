@@ -1,0 +1,10 @@
+BACKGROUND Research suggests an increased type II diabetes mortality risk among workers occupationally exposed to PFOA .
+However , a cross-sectional study of highly exposed Mid-Ohio Valley community residents did not demonstrate an association between PFOA and type II diabetes .
+OBJECTIVES We examined the relationship between exposure to PFOA over time and incidence of type II diabetes in a cohort of community residents and workers exposed to high levels of PFOA via contaminated drinking water .
+METHODS Community residents and workers were interviewed in 2008-2011 to obtain medical history and other demographic information .
+Cumulative serum PFOA exposure estimates were calculated based on residence and occupation locations , and a history of plant emissions .
+We estimated the risk of developing type II diabetes using Cox proportional hazard models , controlling for demographic characteristics and family history .
+RESULTS Out of 32,254 survey respondents , there were 4434 cases of self-reported type II diabetes , of which 4129 were validated through medical record review .
+In analyses based on validated type II diabetes , there was no trend of increased risk with increased cumulative PFOA serum levels ( HRs compared to lowest exposure decile : 0.91 ( 95% CI : 0.76-1.08 ) , 1.18 ( 95% CI : 0.99-1.40 ) , 0.96 ( 95% CI : 0.81-1.15 ) , 1.04 ( 95% CI : 0.87-1.24 ) , 1.11 ( 95% CI : 0.93-1.32 ) , 1.06 ( 95% CI : 0.89-1.26 ) , 1.00 ( 95% CI : 0.85-1.19 ) , 1.03 ( 95% CI : 0.86-1.23 ) , 1.01 ( 95% CI : 0.84-1.20) ) .
+There was no association between fasting glucose level and cumulative serum levels of PFOA , after excluding diabetics .
+CONCLUSIONS We do not find an association between PFOA exposure and incidence of type II diabetes .

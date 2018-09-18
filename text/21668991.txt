@@ -1,0 +1,18 @@
+BACKGROUND Routine exposure to chemical contaminants in workplace is a cause for concern over potential health risks to workers .
+In Pakistan , reports on occupational exposure and related health risks are almost non-existent , which reflects the scarce availability of survey data and criteria for determining whether an unsafe exposure has occurred .
+The current study was designed to evaluate blood naphthalene ( NAPH ) levels as an indicator of exposure to polycyclic aromatic hydrocarbons ( PAHs ) among automobile workshop mechanics ( MCs ) and car-spray painters ( PNs ) .
+We further determined the relationship between blood NAPH levels and personal behavioural , job related parameters and various environmental factors that may further be associated with elevated risks of occupational exposures to PAHs .
+METHODS Sixty blood samples ( n = 20 for each group i.e .
+MC , PN and control group ) were collected to compare their blood NAPH levels among exposed ( MCs and PNs ) and un-exposed ( control ) groups .
+Samples were analyzed using high pressure liquid chromatography ( HPLC ) .
+Data regarding demographic aspects of the subjects and their socioeconomic features were collected using a questionnaire .
+Subjects were also asked to report environmental hygiene conditions of their occupational environment .
+RESULTS We identified automobile work areas as potential sites for PAHs exposure , which was reflected by higher blood NAPH levels among MCs .
+Blood NAPH levels ranged from 53.7 to 1980.6 \u03bcgL(-1) and 54.1 to 892.9 \u03bcgL(-1) among MCs and PNs respectively .
+Comparison within each group showed that smoking enhanced exposure risks several fold and both active and passive smoking were among personal parameters that were significantly correlated with log-transformed blood NAPH levels .
+For exposed groups , work hours and work experience were job related parameters that showed strong associations with the increase in blood NAPH levels .
+Poor workplace hygiene and ventilation were recognized as most significant predictors related to differences among workplaces that may enhance the extent of exposure to chemical contaminants .
+CONCLUSIONS It appeared that chemical exposure at the workplace may be influenced by multiple environmental factors , but poor workplace hygiene and duration of exposure ( long work hours ) were the most important factors .
+Smoking and negligence of workers regarding self protection were among some of the important personal behaviours than can be addressed with better training .
+There is also a need to improve workplaces hygiene and to rationalize work hours to minimize health risks .
+Since smoking was an important confounding factor that supplemented most of the actual occupational exposure , a study based on non-smoker subjects is needed to separate out the effects of smoking and other confounding factors that may obscure measurements of actual extent of occupational exposure .

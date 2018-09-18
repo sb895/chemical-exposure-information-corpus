@@ -1,0 +1,9 @@
+Swimming pool water must be treated to prevent infections caused by microbial pathogens .
+In Korea , the most commonly used disinfection methods include the application of chlorine , ozone/chlorine , and a technique that uses electrochemically generated mixed oxidants ( EGMOs ) .
+The purpose of this study was to estimate the concentrations of total trihalomethanes ( TTHMs ) in indoor swimming pools adopting these disinfection methods , and to examine the correlations between the concentrations of THMs and TTHMs and other factors affecting the production of THMs .
+We also estimated the lifetime cancer risks associated with various exposure pathways by THMs in swimming pools .
+Water samples were collected from 183 indoor swimming pools in Seoul , Korea , and were analyzed for concentrations of each THM , TOC , and the amount of KMnO(4) consumption .
+The free chlorine residual and the pH of the pool water samples were also measured .
+The geometric mean concentrations of TTHMs in the swimming pool waters were 32.9+/-2.4 microg/L for chlorine , 23.3+/-2.2 microg/L for ozone/chlorine , and 58.2+/-1.7 microg/L for EGMO .
+The concentrations of THMs differed significantly among the three treatment methods , and the correlation between THMs and TTHMs and the other factors influencing THMs varied .
+The lifetime cancer risk estimation showed that , while risks from oral ingestion and dermal exposure to THMs are mostly less than 10(-6) , which is the negligible risk level defined by the US EPA , however swimmers can be at the greater risk from inhalation exposure ( 7.77x10(-4)-1.36x10(-3) ) .

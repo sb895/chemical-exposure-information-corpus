@@ -1,0 +1,14 @@
+Early life exposure to halogenated persistent organic pollutants , such as polychlorinated biphenyls ( PCBs ) , the DDT metabolite p,p'-dichlorodiphenyldichloroethane ( p,p'-DDE ) , polybrominated diphenylethers ( PBDEs ) , and hexabromocyclododecane ( HBCD ) , may affect human health .
+We determined if there are regional differences in mother's milk levels of these compounds in Sweden .
+In year 2000-2004 , milk was sampled from 204 randomly recruited primiparas from four regions of Sweden .
+Levels of the compounds were measured by gas chromatography with dual electron-capture detectors .
+Women were recruited at delivery in three hospitals located in urban areas in southern and central Sweden ( Lund , Gothenburg and Uppsala ) , and in one hospital located in a more rural area in northern Sweden ( Lycksele ) .
+Information about dietary habits and medical/life-style factors were collected by questionnaires .
+Among PCB congeners , CB 153 , CB 138 and CB 180 showed the highest median concentrations ( 18-48 ng/g mother's milk lipid ) , whereas more than 50% of the women had CB 52 , CB 101 , CB 114 , and CB 157 levels below the LOQ ( 0.3-1.5 ng/g lipid ) .
+Median p,p'-DDE levels were in the range of 46-78 ng/g lipid .
+BDE 47 showed the highest median concentrations ( 1-2 ng/g lipid ) among the brominated compounds , whereas more than 50% of the women had levels of BDE 28 , BDE 66 , BDE 138 , BDE 154 , and HBCD below the LOQ ( 0.05-0.10 ng/g lipid ) .
+Regional differences in median organohalogen compound concentrations were small , less than 2-fold .
+Lycksele women generally had the lowest levels of \u03a3mono-and \u03a3di-ortho PCBs , mainly due to a lower average age .
+In contrast , these women had higher tetra- to penta-brominated PBDE levels , but no diet or life-style factor could explain this finding .
+Wide ranges of PBDEs and HBCD levels ( up to 200-fold ) were found , especially in the Lycksele area .
+The highest levels of PBDE were in the range of average levels found in mother's milk from North America , suggesting that food may not be the only source of exposure to PBDEs among some individuals .

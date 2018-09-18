@@ -1,0 +1,6 @@
+Prenatal methylmercury exposure is associated with neuropsychological deficits in Faroese children at age 7 years .
+Lower confidence bounds of benchmark doses ( BMDLs ) have now been calculated .
+With the cord-blood mercury concentration as the dose parameter , a logarithmic dose-response model tended to show a better fit than a linear dose model for the attention , language and verbal memory tests .
+The lowest BMDLs averaged approximately 5 microgram/l cord blood , which corresponds to a maternal hair concentration of approximately 1 microgram/g .
+However , most BMDLs for hair mercury concentrations were higher .
+Thus , the results of the benchmark calculations depend on the assumed dose-response model .

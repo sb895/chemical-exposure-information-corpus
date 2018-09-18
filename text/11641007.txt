@@ -1,0 +1,15 @@
+In rotogravure industry , contributing considerably to mass color printing of catalogues and magazines , toluene is still extensively used as paint solvent , and many printers have been exposed to this chemical for several decades .
+Information on adverse health effects associated with long-term toluene exposure is still controversial .
+In a multi-center study , adverse health effects possibly associated with long-term toluene exposure were evaluated .
+In 12 rotogravure factories , 1226 male volunteers were recruited , and sufficient information on exposure and on medical data was compiled for about 1077 of them .
+Evaluations included : physical examination , standard tests of psycho-physiological and psycho-motoric performances , self-report of subjective symptoms , and data on a variety of laboratory blood tests .
+The medical data were correlated with the length ( months ) of toluene exposure , and a rough estimate of the extent of exposure ( i.e. highly exposed printers and their helpers versus employees working at locations with low or negligible toluene exposure ) .
+A small reference group ( n=109 ) was selected from companies of the paper industry .
+When linear regression curves were calculated ( test results versus duration of exposure ) , extremely low overall coefficients of determination ( r(2) adj. ) of a few percent were estimated within the data clouds , with sometimes statistically significant P-values .
+Closer analyses revealed a strong influence of the confounding factor age , no clustering of abnormal values of highly toluene-exposed volunteers , and the vast majority or all values of the highly and long-term toluene-exposed participants staying within the reference ranges .
+Thus , no medical relevance of P-values <0.05 could be recognized in this evaluation , and there may have been some border-line deviations or results largely occurring by chance in the large trial .
+In a small cluster of the many rotogravure printers toluene-exposed for more than 20 years , the highest systolic blood pressure values of the study were found , but many possible confounding factors were not taken into account .
+Data on acute exposure and possible effects are presented in accompanying papers ( Neubert et al. , 2001a , Neubert et al. , 2001b ) .
+Restricting the conclusions to the end points evaluated as well as the apparent limitations of the evaluation , no evidence was found that long-term occupational toluene exposure extending over several decades in the rotogravure industry in the Western part of Germany was convincingly associated with chronic adverse health effects or convincingly altered surrogate markers in still working male volunteers .
+Several peculiarities and pitfalls arising when interpreting medical data associated with such a type of environmental exposure must be considered .
+Reversibility of alterations previously induced at higher levels of toluene-exposure , as well as a healthy workers effect , cannot be excluded for some of the medical end points evaluated .

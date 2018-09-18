@@ -1,0 +1,12 @@
+It remains unclear whether exposure to low-level mercury ( Hg ) is associated with impaired renal function , and whether omega-3 fatty acid ( FA ) intake could affect the association of interest .
+The current study examined the association of blood Hg and omega-3 FAs with renal function using data from 1046 subjects aged 40 or above from the 2003-2004 National Health and Nutrition Examination Survey .
+Kidney function was assessed by estimated glomerular filtration rate ( eGFR ) and occurrence of albuminuria .
+Logistic regression analyses were applied to assess the association of interest with confounding variable adjustment .
+The analyses indicated that blood Hg was associated with reduced eGFR ( <60mL/min/1.73m(2) ) in a dose-response fashion ( p<0.05 ) .
+The association was particularly apparent with adjustment for blood omega-3 FA levels .
+The adjusted odds ratio for having reduced eGFR was 2.94 ( 95% confidence interval=1.04-8.33 ) in the highest tertile of blood Hg as compared with the lowest tertile .
+There was no significant association between Hg exposure and albuminuria .
+In summary , this study demonstrates that Hg exposure is associated with increased odds of having lower GFR in the US population aged 40 or above .
+A statistical association with albuminuria was not apparent .
+We also observed that omega-3 FA intake may play a preventive role in Hg-induced nephrotoxicity .
+Additional studies are warranted to determine the sources , exposure routes , and forms of Hg most responsible for observed associations .

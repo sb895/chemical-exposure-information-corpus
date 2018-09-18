@@ -1,0 +1,12 @@
+OBJECTIVE To assess the critical issues concerning the use of urinary inorganic arsenic ( iAs ) , including As3 , As5 , monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) , as biomarker of internal dose in order to monitor environmental and occupational exposure to inorganic As , considering the influence of diet and drinking water on excretion of iAs .
+METHODS The design protocol stipulated collection of weekly urine samples from 6 male subjects for 5 consecutive months .
+In all the urine samples , iAs was determined by Hydride Generation-Atomic Absorption Spectrophotometry ( HG-AAS ) .
+In the subjects with iAs higher than 35 microg/L , Biological Exposure Index ( BEI ) proposed by the American Conference of Governmental Industrial Hygienists ( ACGIH ) , urinary arsenic speciation was performed by HPLC-ICP-MS .
+Exposure to airborne As was evaluated monthly using personal environmental samplers worn for 8 hours .
+Throughout the study , the participants filled out a daily food diary , also detailing types of water drunk .
+RESULT Exposure to airborne As was invariably below the limit of detection , equal to 1 ng/m3 .
+A total of 77 urine samples were collected. iAs was always detectable and was higher in 7 urine samples , obtained from 5 of the 6 subjects examined , than the BEI .
+Among foods with a high As content , the intake of seafood and fish within 72 hours before providing the sample seems to be the principal source of the iAs concentrations , while the intake of rice or drinking water showed no influence on this biological marker .
+Instead , drinking wine within 24 hours before urine sample collection can cause a significant increase in the excretion of iAs .
+CONCLUSIONS In populations that eat large amounts of fish and seafood , the use of iAs to monitor occupational and environmental exposure to inorganic As seems to present some problems , and urinary As speciation may be essential at least in cases with As measurements above the biological limit values .
+In any case , a diet sheet reporting all foods eaten within 3 days of urine collection seems to be an indispensable tool to ensure a correct interpretation of the results .

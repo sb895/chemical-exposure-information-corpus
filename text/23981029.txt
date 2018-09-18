@@ -1,0 +1,11 @@
+Mercury is one of the most hazardous pollutants in the environment .
+In this paper , the structural change of human hair induced by mercury exposure was studied .
+Human hair samples were , respectively , collected from the normal Beijing area and the Hg-contaminated Wanshan area of the Guizhou Province , China .
+Inductively coupled plasma mass spectroscopy was used to detect the element contents .
+A small angle X-ray scattering technique was used to probe the structural change .
+Three reflections with 8.8 , 6.7 , and 4.5 nm spacing were compared between the normal and the Hg-contaminated hair samples .
+The results confirm that the 4.5 nm reflection is from the ordered fibrillar structure of glycosaminoglycan ( GAG ) in proteoglycan ( PG ) that composes the matrix around the intermediate filaments .
+The increase of Ca content makes the regular oriented fibrillar structure of GAG transform to a random oriented one , broadening the angular extent of the reflection with 4.5 nm spacing .
+However , overdose Hg makes the core proteins where the ordered fibrils of GAG are attached become coiled , which destroys the ordered arrangements of fibrillar GAG in PG , resulting in the disappearance of the reflections with 4.5 nm spacing .
+The disappearance of the 4.5 nm reflection can be used as a bioindicator of overdose Hg contamination to the human body .
+A supercoiled-coil model of hair nanoscale structure and a possible mechanism of mercury effect in human hair are proposed in this paper .

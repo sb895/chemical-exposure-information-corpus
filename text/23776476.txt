@@ -1,0 +1,13 @@
+Bisphenol-A ( BPA ) is a potential endocrine disruptor impacting metabolic processes and increasing the risk of obesity .
+To determine whether urine BPA level is associated with overweight/obesity in school-age children , we examined 1,326 students in grades 4-12 from three schools ( one elementary , one middle , and one high school ) in Shanghai .
+More than 98% of eligible students participated .
+Total urine BPA concentration was measured and anthropometric measures were taken by trained research staff .
+Information on risk factors for childhood obesity was collected for potential confounders .
+Age- and gender-specific weight greater than 90(th) percentile of the underlying population was the outcome measure .
+After adjustment for potential confounders , a higher urine BPA level ( \u22652 µg/L ) , at the level corresponding to the median urine BPA level in the U.S. population , was associated with more than two-fold increased risk of having weight >90(th) percentile among girls aged 9-12 ( adjusted odds ratio ( aOR)\u200a=\u200a2.32 , 95% confidence interval : 1.15-4.65 ) .
+The association showed a dose-response relationship with increasing urine BPA level associated with further increased risk of overweight ( p\u200a=\u200a0.006 for trend test ) .
+Other anthropometric measures of obesity showed similar results .
+The same association was not observed among boys .
+This gender difference of BPA effect was consistent with findings from experimental studies and previous epidemiological studies .
+Our study suggests that BPA could be a potential new environmental obesogen .
+Widespread exposure to BPA in the human population may also be contributing to the worldwide obesity epidemic .

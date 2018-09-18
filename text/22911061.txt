@@ -1,0 +1,16 @@
+Heavy metals are ubiquitous in soil , water , and air .
+Their entrance into the food chain is an important environmental issue that entails risks to humans .
+Several reports indicate that game meat can be an important source of heavy metals , particularly because of the increasing consumption of game meat , mainly by hunters .
+We performed an exposure assessment of hunters and members of their households , both adults and children , who consumed wild boar ( WB ) meat and offal .
+We estimated the amount of cadmium , lead , and chromium in the tissues of WB hunted in six areas within Viterbo Province ( Italy ) and gathered data on WB meat and offal consumption by conducting specific diet surveys in the same areas .
+The exposure to cadmium , lead , and chromium was simulated with specifically developed Monte Carlo simulation models .
+Cadmium and lead levels in WB liver and meat harvested in Viterbo Province ( Italy ) were similar to or lower than the values reported in other studies .
+However , some samples contained these metals at levels greater then the EU limits set for domestic animals .
+The chromium content of meat or liver cannot be evaluated against any regulatory limit , but our results suggest that the amounts of this metal found in WB products may reflect a moderate environmental load .
+Our survey of the hunter population confirmed that their consumption of WB meat and liver was greater than that of the general Italian population .
+This level of consumption was comparable with other European studies .
+Consumption of WB products contributes significantly to cadmium and lead exposure of both adults and children .
+More specifically , consumption of the WB liver contributed significantly to total cadmium and lead exposure of members of the households of WB hunters .
+As a general rule , liver consumption should be kept to a minimum , especially for children living in these hunter households .
+The exposure to chromium estimated for this population of hunters may be considered to be safe .
+However , a specific and complete assessment of chromium speciation in relevant dietary and environmental situations should be conducted .

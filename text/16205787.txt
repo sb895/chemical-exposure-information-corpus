@@ -1,0 +1,12 @@
+Previous studies have shown an association between elevated concentrations of particulate air pollution and cardiovascular morbidity and mortality .
+Therefore , the association between daily variation of ultrafine and fine particulate air pollution and cardiac autonomic control measured as heart rate variability ( HRV ) was studied in a large multicenter study in Amsterdam , the Netherlands , Erfurt , Germany , and Helsinki , Finland .
+Elderly subjects ( n=37 in Amsterdam , n=47 in both Erfurt and Helsinki ) with stable coronary artery disease were followed for 6 months with biweekly clinical visits .
+During the visits , ambulatory electrocardiogram was recorded during a standardized protocol including a 5-min period of paced breathing .
+Time and frequency domain analyses of HRV were performed .
+A statistical model was built for each center separately .
+The mean 24-h particle number concentration ( NC ) ( 1,000/cm(3) ) of ultrafine particles ( diameter 0.01-0.1 microm ) was 17.3 in Amsterdam , 21.1 in Erfurt , and 17.0 in Helsinki .
+The corresponding values for PM2.5 were 20.0 , 23.1 , and 12.7 microg/m(3) .
+During paced breathing , ultrafine particles , NO(2) , and CO were at lags of 0-2 days consistently and significantly associated with decreased low-to-high frequency ratio ( LF/HF ) , a measure of sympathovagal balance .
+In a pooled analysis across the centers , LF/HF decreased by 13.5% ( 95% confidence interval : -20.1% , -7.0% ) for each 10,000/cm(3) increase in the NC of ultrafine particles ( 2-day lag ) .
+PM2.5 was associated with reduced HF and increased LF/HF in Helsinki , whereas the opposite was true in Erfurt , and in Amsterdam , there were no clear associations between PM2.5 and HRV .
+The results suggest that the cardiovascular effects of ambient ultrafine and PM2.5 can differ from each other and that their effect may be modified by the characteristics of the exposed subjects and the sources of PM2.5 .

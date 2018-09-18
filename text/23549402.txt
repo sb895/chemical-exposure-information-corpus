@@ -1,0 +1,7 @@
+Following reports of high cytotoxicity and mutagenicity of monomethyl arsonous acid ( MMA(III) ) and early reports of urinary MMA(III) in arsenic-exposed individuals , MMA(III) has often been included in population studies .
+Use of urinary MMA(III) as an indicator of exposure and/or health risk is challenged by inconsistent results from field studies and stability studies , which indicate potential artifacts .
+We measured urinary arsenic species in children chronically exposed to arsenic in drinking water , using collection , storage , and analysis methods shown to conserve MMA(III) .
+MMA(III) was easily oxidized in sample storage and processing , but recoveries of 80% or better in spiked urine samples were achieved .
+Attempts to preserve the distribution of MMA between trivalent and pentavalent forms using complexing agents were unsuccessful and MMA(III) spiked into treated urine samples actually showed lower stability than in untreated samples .
+In 643 urine samples from a highly exposed population from the Matlab district in Bangladesh stored for 3-6 months at ≤-70 °C , MMA(III) was detected in 41 samples , with an estimated median value of 0.3\u2009\u03bcg/l , and levels of MMA(III) above 1\u2009\u03bcg/l in only two samples .
+The low urinary concentrations in highly exposed individuals and known difficulties in preserving sample oxidation state indicate that urinary MMA(III) is not suitable for use as an epidemiological biomarker .

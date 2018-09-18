@@ -1,0 +1,11 @@
+Arsenic ingestion has been linked to increasing global prevalence of and mortality from cardiovascular disease ( CVD ) ; arsenic can be removed from drinking water to reduce related health effects .
+Lactate dehydrogenase ( LDH ) is used for the evaluation of acute arsenic toxicity in vivo and in vitro , but it is not validated for the evaluation of long-term , chronic arsenic exposure .
+The present study examined the long-term effect of chronic arsenic exposure on CVD and serum LDH levels , after consideration of arsenic metabolism capacity .
+A total of 380 subjects from an arseniasis-endemic area and 303 from a non-endemic area of southwestern Taiwan were recruited in 2002 .
+Various urinary arsenic species were analyzed using high-performance liquid chromatography ( HPLC ) and hydride generation systems .
+Fasting serum was used for quantitative determination of the total LDH activity .
+A significant dose-response relationship was observed between arsenic exposure and LDH elevation , independent of urinary arsenic profiles ( P<0.001 ) .
+Furthermore , abnormal LDH elevation was associated with CVD mortality after adjustment for Framingham risk scores for 10-year CVD and arsenic exposure ( hazard ratio , 3.98 ; 95% confidence interval , 1.07-14.81 ) .
+LDH was elevated in subjects with arsenic exposure in a dose-dependent manner .
+LDH is a marker of arsenic toxicity associated with CVD mortality .
+Results of this study have important implications for use in ascertaining long-term arsenic exposure risk of CVD .

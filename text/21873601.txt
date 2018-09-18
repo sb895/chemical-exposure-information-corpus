@@ -1,0 +1,11 @@
+Chronic kidney disease ( CKD ) is a major public health problem .
+Identifying novel risk factors for CKD , including widely prevalent environmental exposures , is therefore important .
+Perfluoroalkyl chemicals ( PFCs ) , including perfluorooctanoic acid and perfluorooctane sulfonate , are manmade chemicals that have been detected in the blood of more than 98% of the US population .
+Results from experimental animal studies have suggested that an association between PFCs and CKD is plausible .
+However , in humans , the relation between serum PFCs and CKD has not been examined .
+The authors examined the relation of serum PFCs and CKD in 4,587 adult participants ( 51.1% women ) from the combined 1999-2000 and 2003-2008 cycles of the National Health and Nutritional Examination Survey for whom PFC measurements were available .
+The main outcome was CKD , defined as a glomerular filtration rate of less than 60 mL/minute/1.73 m(2) .
+The authors found that serum levels of PFCs , including perfluorooctanoic acid and perfluorooctane sulfonate , were positively associated with CKD .
+This association was independent of confounders such as age , sex , race/ethnicity , body mass index , diabetes , hypertension , and serum cholesterol level .
+Compared with subjects in quartile 1 ( referent ) , the multivariable odds ratio for CKD among subjects in quartile 4 was 1.73 ( 95% confidence interval : 1.04 , 2.88 ; P for trend = 0.015 ) for perfluorooctanoic acid and 1.82 ( 95% confidence interval : 1.01 , 3.27 ; P for trend = 0.019 ) for perfluorooctane sulfonate .
+The present results suggest that elevated PFC levels are associated with CKD .

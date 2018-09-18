@@ -1,0 +1,7 @@
+Few studies have investigated the human exposure to the ensemble of dioxin-related compounds ( DRCs ) released from uncontrolled e-waste recycling , especially from a toxic effect standpoint .
+This study evaluated the TCDD toxic equivalents ( TEQs ) in persistent extracts of settled house dust from two Vietnamese e-waste recycling sites ( EWRSs ) using the Dioxin-Responsive Chemically Activated LUciferase gene eXpression assay ( DR-CALUX ) , combined with chemical analysis of PCDD/Fs , DL-PCBs , PBDD/Fs , and monobromo PCDD/Fs to determine their TEQ contribution .
+The CALUX-TEQ levels in house dust ranged from 370 to 1000 pg g(-1) in the EWRSs , approximately 3.5-fold higher than in the urban control site .
+In EWRS house dust , the concentrations of the unregulated PBDFs were 7.7-63 ng g(-1) , an order of magnitude higher than those of regulated DRCs ( PCDD/Fs and DL-PCBs ) , and PBDFs were also principal CALUX-TEQ contributors ( 4.2-22% ) , comparable to PCDD/Fs ( 8.1-29% ) .
+The CALUX-TEQ contribution of DRCs varied , possibly depending on thermal processing activities ( higher PCDD/F-TEQs ) and PBDE content in the waste ( higher PBDF-TEQs ) .
+However , the percentage of unknown dioxin-like activities was high in all dust samples , indicating large contribution from unidentified DRCs and/or synergy among contaminants .
+Estimates of TEQ intake from dust ingestion suggest that children in the EWRSs may be adversely affected by DRCs from dust .

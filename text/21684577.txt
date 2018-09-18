@@ -1,0 +1,11 @@
+In Japan in 1968 , rice-oil contaminated by polychlorinated biphenyls and polychlorinated dibenzofurans caused severe food poisoning , termed " Yusho " ( oil disease ) .
+Several previous studies attempted to evaluate the effects targeting officially-certified Yusho patients .
+However , these studies have several limitations such as the left-truncated nature of the registry or residual confounding arising from the referent population selection .
+We thus conducted an area-based standardized mortality ratios ( SMRs ) study using vital statistics .
+A severely affected area ( Tamanoura area ) was adopted as the exposure group , with a reference population from Nagasaki prefecture in Kyushu , which included the Tamanoura .
+A large number of residents in Tamanoura were exposed to the rice-oil ( 28% of all the certified cases as of 2009 ) .
+We estimated SMRs of non-cancer and cancer diseases for the years 1968-2002 .
+Shortly after the exposure , SMRs of all causes , diabetes mellitus , cardiovascular disease , pneumonia/bronchitis , and bronchus/lung cancer were elevated .
+In particular , SMRs of heart disease were 1.97 [ 95% confidence intervals ( CI ) : 1.09-3.56 ] in 1968 , 2.05 ( 95% CI : 1.16-3.60 ) in 1969 , and 1.89 ( 95% CI : 1.05-3.41 ) in 1975 .
+However , we did not observe clear increase in SMRs more than 10 years after the exposure .
+This study provides further evidence in Yusho , especially on acute effects on non-cancer mortality .

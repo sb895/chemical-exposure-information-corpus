@@ -1,0 +1,9 @@
+Perfluoroalkyl compounds ( PFCs ) are end-stage metabolic products from industrial flourochemicals used in the manufacture of plastics , textiles , and electronics that are widely distributed in the environment .
+The objective of the present study was to quantify exposure to perfluorooctane sulfonate ( PFOS ) , perfluorooctanoate ( PFOA ) , perfluorodecanoic acid ( PFDeA ) , perfluorohexane sulfonate ( PFHxS ) , perfluoroheptanoic acid ( PFHpA ) , and perfluorononanoic acid ( PFNA ) in serum samples collected from pregnant women and the umbilical cord at delivery .
+Pregnant women ( n=101 ) presenting for second trimester ultrasound were recruited and PFC residue levels were quantified in maternal serum at 24-28 weeks of pregnancy , at delivery , and in umbilical cord blood ( UCB ; n=105 ) by liquid chromatography-mass spectrometry .
+Paired t-test and multiple regression analysis were performed to determine the relationship between the concentrations of each analyte at different sample collection time points .
+PFOA and PFOS were detectable in all serum samples analyzed including the UCB .
+PFOS serum levels ( mean+/-S.D. ) were significantly higher ( p<0.001 ) in second trimester maternal serum ( 18.1+/-10.9 ng/mL ) than maternal serum levels at delivery ( 16.2+/-10.4 ng/mL ) , which were higher than the levels found in UCB ( 7.3+/-5.8 ng/mL ; p<0.001 ) .
+PFHxS was quantifiable in 46/101 ( 45.5% ) maternal and 21/105 ( 20% ) UCB samples with a mean concentration of 4.05+/-12.3 and 5.05+/-12.9 ng/mL , respectively .
+There was no association between serum PFCs at any time point studied and birth weight .
+Taken together our data demonstrate that although there is widespread exposure to PFCs during development , these exposures do not affect birth weight .

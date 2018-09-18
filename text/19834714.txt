@@ -1,0 +1,9 @@
+PURPOSE Chronic arsenic exposure at levels found in US drinking water has been associated with bladder cancer .
+While arsenic is a known carcinogen , recent studies suggest that it is useful as a therapeutic agent for leukemia .
+This study examined the relationship between arsenic exposure and bladder cancer mortality .
+METHODS We studied 832 cases of bladder cancer diagnosed in New Hampshire from a population-based case-control study .
+Individual exposure to arsenic was determined in home drinking water using ICP-MS and in toenail samples by instrumental neutron activation analysis .
+RESULTS Among the high arsenic exposure group , found using toenail arsenic level or arsenic consumption , cases experienced a de-escalated survival hazard ratio ( HR ) [ high ( > or =75 percent ) versus low ( <25th percentile ) toenail arsenic overall survival HR 0.5 ( 95% CI 0.4-0.8) ] , controlled for tumor stage , grade , gender , age and treatment regimen .
+This association was found largely among invasive tumors , in smokers and was not modified by TP53 status .
+Bladder cancer cause-specific survival showed a similar trend , but did not reach statistical significance [ HR 0.5 ( 95% CI 0.3-1.1) ] .
+CONCLUSIONS Arsenic exposure may be related to the survival of patients with bladder cancer .

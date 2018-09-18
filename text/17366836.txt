@@ -1,0 +1,11 @@
+BACKGROUND Sixteen children diagnosed with acute leukemia between 1997 and 2002 lived in Churchill County , Nevada , at the time of or before their illness .
+Considering the county population and statewide cancer rate , fewer than two cases would be expected .
+OBJECTIVES In March 2001 , the Centers for Disease Control and Prevention led federal , state , and local agencies in a cross-sectional , case-comparison study to determine if ongoing environmental exposures posed a health risk to residents and to compare levels of contaminants in environmental and biologic samples collected from participating families .
+METHODS Surveys with more than 500 variables were administered to 205 people in 69 families .
+Blood , urine , and cheek cell samples were collected and analyzed for 139 chemicals , eight viral markers , and several genetic polymorphisms .
+Air , water , soil , and dust samples were collected from almost 80 homes to measure more than 200 chemicals .
+RESULTS The scope of this cancer cluster investigation exceeded any previous study of pediatric leukemia .
+Nonetheless , no exposure consistent with leukemia risk was identified .
+Overall , tungsten and arsenic levels in urine and water samples were significantly higher than national comparison values ; however , levels were similar among case and comparison groups .
+CONCLUSIONS Although the cases in this cancer cluster may in fact have a common etiology , their small number and the length of time between diagnosis and our exposure assessment lessen the ability to find an association between leukemia and environmental exposures .
+Given the limitations of individual cancer cluster investigations , it may prove more efficient to pool laboratory and questionnaire data from similar leukemia clusters .

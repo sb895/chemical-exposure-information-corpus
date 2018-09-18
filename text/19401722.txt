@@ -1,0 +1,11 @@
+Although approximately 35 million people in the US obtain drinking water from domestic wells , few studies have investigated the risk of arsenic exposure from this source .
+In this paper arsenic concentrations were modeled for public and domestic wells using a dataset from the US Geological Survey ( USGS ) .
+Excess lifetime and annual risks for lung and bladder cancer were calculated based on the carcinogenic potency and average arsenic concentrations in public and domestic water supplies .
+Monte Carlo uncertainty analysis was used to estimate the degree of confidence in these estimations .
+Results indicated that domestic well users accounted for 12% of the US population , but 23% of overall arsenic exposure from drinking water .
+Assuming that the new and more restrictive arsenic maximum contaminant limit ( MCL ) is implemented for public water supplies , it is anticipated that the proportion of people experiencing excess annual fatalities from drinking water from domestic wells will increase to 29% unless corresponding efforts are made to reduce exposures among domestic well users .
+Differences between public and domestic wells were not consistent across the nation .
+Public wells tend to tap deeper aquifers than domestic wells , and as a result local arsenic-depth trends can contribute to differences between public and domestic wells .
+Domestic wells and public wells in the western US have the highest arsenic levels with excess fatality risks estimated to be in the range of 1 per 9300 to 1 per 6600 in these regions .
+Uncertainty distributions of excess fatalities were developed and resultant uncertainties were propagated in arsenic exposure and potency factor .
+Uncertainty in the carcinogenic potency of arsenic was the dominant source of uncertainty in most regions , but for domestic wells in the New England and Southeast regions uncertainty in arsenic exposure was dominant , indicating that additional data on arsenic concentrations in these areas would substantially improve regional risk estimates .

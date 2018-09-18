@@ -1,0 +1,9 @@
+Fine particulate matter ( PM(2.5) ) in air pollution , primarily from combustion sources , is recognized as an important risk factor for cardiovascular events but studies of workplace PM(2.5) exposure are rare .
+We conducted a prospective study of exposure to PM(2.5) and incidence of ischemic heart disease ( IHD ) in a cohort of 11,966 US aluminum workers .
+Incident IHD was identified from medical claims data from 1998 to 2008 .
+Quantitative metrics were developed for recent exposure ( within the last year ) and cumulative exposure ; however , we emphasize recent exposure in the absence of interpretable work histories before follow-up .
+IHD was modestly associated with recent PM(2.5) overall .
+In analysis restricted to recent exposures estimated with the highest confidence , the hazard ratio ( HR ) increased to 1.78 ( 95% CI : 1.02 , 3.11 ) in the second quartile and remained elevated .
+When the analysis was stratified by work process , the HR rose monotonically to 1.5 in both smelter and fabrication facilities , though exposure was almost an order of magnitude higher in smelters .
+The differential exposure-response may be due to differences in exposure composition or healthy worker survivor effect .
+These results are consistent with the air pollution and cigarette smoke literature ; recent exposure to PM(2.5) in the workplace appears to increase the risk of IHD incidence .

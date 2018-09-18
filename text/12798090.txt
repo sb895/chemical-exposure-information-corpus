@@ -1,0 +1,13 @@
+Occupational hygiene conditions in scrap-tire shredding facilities were assessed to identify potential health risk factors for workers and provide a basis for developing future control measures .
+Specifically , noise , volatile organics and particulate levels were measured at two plants .
+Particulate/dust levels were measured via filter collection , and were analyzed gravimetrically .
+Sound pressure levels were measured and their spectral properties analyzed .
+Moreover , the major chemical species in the samples were identified using GC/MS .
+Finally , the mutagenic activity associated with the airborne particulates was assessed using a typical Ames test applied to Salmonella strains TA98 and TA100 , with or without bio-activation .
+The noise levels were steady and high throughout the facilities , ranging from 85 to approximately 100 dBA .
+The octave band spectrum analysis reveals pattern similarity among the different areas .
+Levels of volatile organics were not significant , but a few mutagens/carcinogens , such as styrene , benzothiazole , phthalate ester and naphthalene were identified .
+Total particulate levels ranged from 0.43 to 6.54 mg/m(3) , while respirable particulates were in the range 0.23-1.25 mg/m(3) .
+Ames testing revealed indirect mutagenicity on strain TA98 , indicating possible effects of frame-shift type mutagens .
+Chemical analysis of airborne particulates confirmed the presence of amines , aniline , quinoline , amides and benzothiazole , which are potentially convertible to frame-shift type mutagenic nitrosoamines .
+Noise appears to be an occupational hazard for workers at scrap-tire shredding facilities , but the risk associated with the mutagenic/carcinogenic property of particulates requires further confirmation .

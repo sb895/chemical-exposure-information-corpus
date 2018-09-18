@@ -1,0 +1,14 @@
+There are only few studies defining persistent organic pollutant ( POP ) concentrations in various fat compartments from living obese individuals .
+The present study has therefore determined the concentrations of various classes of organohalogenated compounds , such as dichlorodiphenyltrichloroethane and its metabolites ( DDTs ) , chlordane compounds ( CHLs ) , hexachlorocyclohexanes ( HCHs ) , hexachlorobenzene ( HCB ) , polychlorinated biphenyls ( PCBs ) , polybrominated diphenyl ethers ( PBDEs ) and hexabromocyclododecanes ( HBCDs ) in visceral fat ( VF : n=52 ) and subcutaneous abdominal fat ( SF : n=52 ) samples collected in 2010-2012 from obese individuals in Belgium .
+Organohalogen compounds were detected in all fat samples in the decreasing order of their concentrations : PCBs>DDTs>HCHs>CHLs>HCB>HBCDs>PBDEs , suggesting that Belgians have been widely exposed to these contaminants .
+The levels and the patterns of POP distribution in VF and SF tissue depots were not significantly different .
+Concentrations of PCBs ( VF/SF ; median : 285/275ng/g lw ) and DDTs ( VF/SF ; median : 150/155ng/g lw ) were the major POPs in all fat samples .
+Concerning PCBs , PCB 153 ( VF/SF : 27/26% ) was the most dominant congener , followed by PCB 180 ( VF/SF : 17/18% ) , PCB 138 ( VF/SF : 15/14.5% ) and PCB 170 ( VF/SF : 8.1/8.4% ) to the sum PCBs , respectively .
+Levels of HBCDs ( VF/SF ; median : 4.0/3.7ng/g lw ) and PBDEs ( VF/SF ; median : 2.6/2.7ng/g lw ) were 1-2 orders of magnitude lower than those of PCBs and DDTs .
+Among PBDEs , BDE 153 ( VF/SF : 31/34% ) was the dominant congener , followed by BDE 47 ( VF/SF : 26/23% ) , BDE 154 ( VF/SF : 16/16% ) , BDE 100 ( VF/SF : 10/11% ) and BDE 99 ( VF/SF : 9/9% ) .
+To our knowledge , this is the first report on HBCD concentrations in Belgian human fat tissues .
+Total PBDE and HBCD levels in human fat samples could not be correlated with age .
+In agreement with the literature , a significant correlation ( p<0.05 ) between age and the concentration of PCBs ( r=0.828 ) , DDTs ( r=0.640 ) , HCHs ( r=0.666 ) , CHLs ( r=0.534 ) and HCB ( r=0.754 ) , was observed in the present study .
+Levels of DDTs , HCHs , HCB and CHLs were also significantly correlated to each other , suggesting that they share similar exposure routes .
+Correlation with computed tomography ( CT ) scan data revealed that VF and VF/SF ratios are positive for most of the POPs , such as PCBs , PBDEs , p,p'DDE , CHLs , \u03b2-HCH , and HCB .
+To our knowledge , this study is the first to assess the relationship between POP levels in adipose tissue and markers of abdominal adiposity , determined by CT .

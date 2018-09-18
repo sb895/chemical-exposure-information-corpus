@@ -1,0 +1,8 @@
+OBJECTIVE This cross-sectional study was conducted to assess the relationship between exposure to cadmium and circulating reproductive hormone levels in urban and rural male workers .
+MATERIALS AND METHODS Urinary cadmium , blood cadmium , luteinizing hormone ( LH ) , follicle stimulating hormone ( FSH ) and testosterone were obtained from 86 non-smoking traffic policemen and 86 subjects working as roadmen in a rural area .
+All subjects were monitored to evaluate airborne exposure to cadmium .
+RESULTS The mean value of exposure to cadmium was 1.3 ng m(-3) in traffic policemen , while the mean value was less than 0.5 ng m(-3) in roadmen .
+The mean concentrations of urinary cadmium ( 1.4 vs. 0.9 \u03bcg g(-1) creatinine ; p=0.001 ) , blood cadmium ( 1.1 vs. 0.7 \u03bcg l(-1) ; p=0.000 ) , FSH ( 2.6 vs. 3.2 \u03bclU ml(-1) ; p=0.02 ) and LH ( 2.6 vs. 3.1 \u03bclU ml(-1) ; p=0.03 ) were significantly different between traffic policemen and roadmen .
+No differences were found in the mean values of testosterone between the two groups .
+Multiple linear regression models showed associations between ( a ) urinary cadmium , airborne cadmium , working life , job category and consumption of water from water supply ( b ) blood cadmium , airborne cadmium and job category ( c ) the values of FSH and age , working life , job category , urinary cadmium and blood cadmium ( d ) the values of LH and both the age and working life .
+CONCLUSION The above results must be confirmed by further studies , but they indicate the influence of exposure to the cadmium present in urban air on the circulating FSH , even at low doses .

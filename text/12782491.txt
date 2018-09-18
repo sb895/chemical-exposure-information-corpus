@@ -1,0 +1,13 @@
+In this article we present results from a 2-year comprehensive exposure assessment study that examined the particulate matter ( PM ) exposures and health effects in 108 individuals with and without chronic obstructive pulmonary disease ( COPD ) , coronary heart disease ( CHD ) , and asthma .
+The average personal exposures to PM with aerodynamic diameters < 2.5 microm ( PM2.5 ) were similar to the average outdoor PM2.5 concentrations but significantly higher than the average indoor concentrations .
+Personal PM2.5 exposures in our study groups were lower than those reported in other panel studies of susceptible populations .
+Indoor and outdoor PM2.5 , PM10 ( PM with aerodynamic diameters < 10 microm ) , and the ratio of PM2.5 to PM10 were significantly higher during the heating season .
+The increase in outdoor PM10 in winter was primarily due to an increase in the PM2.5 fraction .
+A similar seasonal variation was found for personal PM2.5 .
+The high-risk subjects in our study engaged in an equal amount of dust-generating activities compared with the healthy elderly subjects .
+The children in the study experienced the highest indoor PM2.5 and PM10 concentrations .
+Personal PM2.5 exposures varied by study group , with elderly healthy and CHD subjects having the lowest exposures and asthmatic children having the highest exposures .
+Within study groups , the PM2.5 exposure varied depending on residence because of different particle infiltration efficiencies .
+Although we found a wide range of longitudinal correlations between central-site and personal PM2.5 measurements , the longitudinal r is closely related to the particle infiltration efficiency .
+PM2.5 exposures among the COPD and CHD subjects can be predicted with relatively good power with a microenvironmental model composed of three microenvironments .
+The prediction power is the lowest for the asthmatic children .

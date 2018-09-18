@@ -1,0 +1,15 @@
+This study aims to assess the link between fluoride content in groundwater and its impact on dental health in rural communities of the Ethiopian Rift .
+A total of 148 water samples were collected from two drainage basins within the Main Ethiopian Rift ( MER ) .
+In the Ziway-Shala basin in particular , wells had high fluoride levels ( mean : 9.4±10.5mg/L ; range : 1.1 to 68 mg/L ) , with 48 of 50 exceeding the WHO drinking water guideline limit of 1.5mg/L .
+Total average daily intake of fluoride from drinking groundwater ( calculated per weight unit ) was also found to be six times higher than the No-Observed-Adverse-Effects-Level ( NOAEL ) value of 0.06 mg/kg/day .
+The highest fluoride levels were found in highly-alkaline ( pH of 7 to 8.9 ) groundwater characterized by high salinity ; high concentrations of sodium ( Na\u207a ) , bicarbonate ( HCO\u2083\u207b ) , and silica ( SiO\u2082 ) ; and low concentrations of calcium ( Ca²⁺ ) .
+A progressive Ca²⁺ decrease along the groundwater flow path is associated with an increase of fluoride in the groundwater .
+The groundwater quality problem is also coupled with the presence of other toxic elements , such as arsenic ( As ) and uranium ( U ) .
+The health impact of fluoride was evaluated based on clinical examination of dental fluorosis ( DF ) among local residents using the Thylstrup and Fejerskov index ( TFI ) .
+In total , 200 rural inhabitants between the ages of 7 and 40 years old using water from 12 wells of fluoride range of 7.8-18 mg/L were examined .
+Signs of DF ( TF score of \u2265 1 ) were observed in all individuals .
+Most of the teeth ( 52% ) recorded TF scores of 5 and 6 , followed by TF scores of 3 and 4 ( 30% ) , and 8.4% had TF scores of 7 or higher .
+Sixty percent of the teeth exhibited loss of the outermost enamel .
+Within the range of fluoride contents , we did not find any correlation between fluoride content and DF .
+Finally , preliminary data suggest that milk intake has contributed to reducing the severity of DF .
+The study highlights the apparent positive role of milk on DF , and emphasizes the importance of nutrition in management efforts to mitigate DF in the MER and other parts of the world .

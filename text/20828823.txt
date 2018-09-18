@@ -1,0 +1,11 @@
+This study is one of the very few investigating the body burdens of persistent organic pollutants in residents of Hong Kong .
+Twenty-nine human milk samples and 21 human blood ( and cord blood ) samples collected from 2005 were analyzed for PAHs , OCPs and PCBs levels .
+Higher levels of PAHs , DDTs and PCBs were detected in human milk samples when compared to maternal serum and cord serum ( PAHs : milk : 1981 ng g⁻¹ fat , maternal serum : 1461 , cord serum : 1158 ; DDTs : 3099 , 1934 , 1556 ; PCBs : 49 , 41 , 40 ) .
+Among the 16 PAHs , naphthalene ( human milk : 786 ng g⁻¹ fat , maternal serum : 331 , cord serum : 348 ) , phenanthrene ( 361 , 144 , 193 ) , pyrene ( 187 , 154 , 98 ) and fluoranthene ( 158 , 128 , 89 ) were the major PAHs detected in three human tissues. p,p'-DDE and p,p'-DDT were the only metabolites of DDT detected in the three types of human tissues .
+High detection rate of the p,p'-DDE and p,p'-DDT ( > 90% ) were noted in the three types of human samples .
+On the contrary , low detection frequency of PCBs in human milk ( 10.7% ) , maternal serum ( 1.7% ) and cord serum ( 0.8% ) were observed .
+The correlation coefficients of the PAHs , DDTs and PCBs levels in the three types of human tissues together with fish consumption , maternal age and tissue fat were analyzed .
+The following significant correlations were observed : \u03a3 DDTs and p,p'-DDE in human milk with consumption of freshwater and marine fish , and maternal age ; \u03a3 PCBs in human milk with marine fish consumption , and maternal age ; \u03a3 PAHs in human milk with maternal age , respectively .
+The estimated daily intakes of DDTs by infants indicated that 7 out of 29 of the human milk samples exceeded 20 ng g⁻¹ day⁻¹ , the tolerable daily intake ( TDI ) proposed by the Health Canada Guideline in terms of DDTs levels .
+The high intake of DDTs by infants may be of concern as infants are more susceptible to the adverse effects imposed by various environmental contaminants .
+Human milk is a reliable and comparatively non-invasive tool for monitoring body loading of POPs , which also allows health risk assessment of residual chemicals on our next generation .

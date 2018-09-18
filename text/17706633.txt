@@ -1,0 +1,15 @@
+Many in vitro and in vivo studies have elucidated the interaction of inorganic mercury ( Hg ) and glutathione .
+However , human studies are limited .
+In this study , we investigated the potential effects of remote long-term intermittent occupational elemental Hg vapour ( Hg degrees ) exposure on erythrocyte glutathione levels and some antioxidative enzyme activities in ex-mercury miners in the period after exposure .
+The study included 49 ex-mercury miners divided into subgroups of 28 still active , Hg degrees -not-exposed miners and 21 elderly retired miners , and 41 controls , age-matched to the miners subgroup .
+The control workers were taken from " mercury-free works " .
+Reduced glutathione ( GSH ) and oxidized disulphide glutathione ( GSSG ) concentrations in haemolysed erythrocytes were determined by capillary electrophoresis , while total glutathione ( total GSH ) and the GSH/GSSG ratio were calculated from the determined values .
+Catalase ( CAT ) , glutathione peroxidase ( GPx ) , and glutathione reductase ( GR ) activities in erythrocytes were measured using commercially available reagent kits , while urine Hg ( U-Hg ) concentrations were determined by cold vapour atomic absorption ( CVAAS ) .
+No correlation of present U-Hg levels , GSH , GSSG , and antioxidative enzymes with remote occupational biological exposure indices were found .
+The mean CAT activity in miners and retired miners was significantly higher ( p<0.05 ) than in the controls .
+No differences in mean GPx activity among the three groups were found , whereas the mean GR activity was significantly higher ( p<0.05 ) in miners than in retired miners .
+The mean concentrations of GSH ( mmol/g Hb ) in miners ( 13.03+/-3.71 ) were significantly higher ( p<0.05 ) than in the control group ( 11.68+/-2.66 ) .
+No differences in mean total GSH , GSSG levels , and GSH/GSSG ratio between miners and controls were found .
+A positive correlation between GSSG and present U-Hg excretion ( r=0.41 , p=0.001 ) in the whole group of ex-mercury miners was observed .
+The significantly lower GSH level ( p<0.05 ) determined in the group of retired miners ( 9.64+/-1.45 ) seems to be age-related ( r= -0.39 , p=0.001 ) .
+Thus , the moderate but significantly increased GSH level , GR and CAT activity in erythrocytes in the subgroup of miners observed in the period after exposure to Hg degrees could be an inductive and additive response to maintain the balance between GSH and antioxidative enzymes in interaction with the Hg body burden accumulated during remote occupational exposure , which does not represent a severely increased oxidative stress .

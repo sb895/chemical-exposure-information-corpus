@@ -1,0 +1,19 @@
+Studies to date of the developmental effects of pre- and postnatal methylmercury exposure from fish consumption in the Seychelles Islands , using linear regression models for analysis , have not shown adverse effects on neurodevelopmental test scores .
+In this study we evaluated whether nonlinear effects of methylmercury exposure were present , using scores on six tests administered to cohort children in the Seychelles Child Development Study at 66 months of age .
+Prenatal exposure was determined by measuring mercury in a segment of maternal scalp hair representing growth during pregnancy .
+Postnatal exposure was measured in a segment of the child's hair taken at 66-months of age .
+Generalized additive models ( GAMs ) , which make no assumptions about the functional form of the relationship between exposure and test score , were used in the analysis .
+GAMs similar to the original linear regression models were used to reanalyze the six primary developmental endpoints from the 66-month test battery .
+Small nonlinearities were identified in the relationships between prenatal exposure and the Preschool Language Scale ( PLS ) Total score and Child Behavior Check List ( CBCL ) and between postnatal exposure and the McCarthy General Cognitive Index ( GCI ) test scores .
+The effects are best described graphically but can be summarized by computing the change in the predicted test score from 0 to either 10 or 15 ppm and then above this point .
+For the PLS the trend involved a decline of 0.8 points between 0 and 10 ppm followed by an increase ( representing improvement ) of 1.3 points above 10 ppm .
+For the CBCL there was an increase of 1 point from 0 to 15 ppm , and then a decline ( improvement ) of 4 points above 15 ppm .
+The GCI increased by 1.8 points through 10 ppm and then declined 3.2 points ( representing worse performance ) above 10 ppm .
+These results are not entirely consistent .
+Two of the trends involve what appear to be beneficial effects of prenatal exposure .
+The one possibly adverse trend involves postnatal exposure .
+In every case the trend changes direction , so that an effect in one direction is followed by an effect in the opposite direction .
+Because of the descriptive nature of GAMs it is difficult to provide a precise level of statistical significance for the estimated trends .
+Certainly above 10 ppm there is less data and trends above this level are estimated less precisely .
+Overall there was no clear evidence for consistent ( across the entire range of exposure levels ) adverse effects of exposure on the six developmental outcomes .
+Further nonlinear modeling of these data may be appropriate , but there is also the risk of fitting complex models without a clear biological rationale .

@@ -1,0 +1,9 @@
+A population-based case-control study of bladder cancer and drinking water disinfection methods was conducted during 1990-1991 in Colorado .
+Surface water in Colorado has historically been disinfected with chlorine ( chlorination ) or with a combination of chlorine and ammonia ( chloramination ) .
+A total of 327 histologically verified bladder cancer cases were frequency matched by age and sex to 261 other-cancer controls .
+Subjects were interviewed by telephone about residential and water source histories .
+This information was linked to data from water utility and Colorado Department of Health records to create a drinking water exposure profile .
+After adjustment for cigarette smoking , tap water and coffee consumption , and medical history factors by logistic regression , years of exposure to chlorinated surface water were significantly associated with risk for bladder cancer ( p = 0.0007 ) .
+The odds ratio for bladder cancer increased for longer durations of exposure to a level of 1.8 ( 95% confidence interval 1.1-2.9 ) for more than 30 years of exposure to chlorinated surface water compared with no exposure .
+The increased bladder cancer risk was similar for males and females and for nonsmokers and smokers .
+Levels of total trihalomethanes , nitrates , and residual chlorine were not associated with bladder cancer risk after controlling for years of exposure to chlorinated water .

@@ -1,0 +1,10 @@
+There is experimental evidence of adverse effects of endosulfan on the male reproductive system , but there are no human data .
+Therefore , we undertook a study to examine the relationship between environmental endosulfan exposure and reproductive development in male children and adolescents .
+The study population was composed of 117 male schoolchildren ( 10-19 years of age ) of a village situated at the foothills of cashew plantations , where endosulfan had been aerially sprayed for more than 20 years , and 90 comparable controls with no such exposure history .
+The study parameters included recording of clinical history , physical examination , sexual maturity rating ( SMR ) according to Tanner stages , and estimation of serum levels of testosterone , luteinizing hormone ( LH ) , follicle-stimulating hormone , and endosulfan residues ( 70 study and 47 control subjects ) .
+Mean +/- SE serum endosulfan levels in the study group ( 7.47 +/- 1.19 ppb ) were significantly higher ( p < 0.001 ) than in controls ( 1.37 +/- 0.40 ppb ) .
+Multiple regression analysis showed that SMR scoring for development of pubic hair , testes , penis , and serum testosterone level was positively related to age and negatively related to aerial exposure to endosulfan ( AEE ; p < 0.01 ) .
+Serum LH levels were significantly positively related to AEE after controlling for age ( p < 0.01 ) .
+The prevalence of congenital abnormalities related to testicular descent ( congenital hydrocele , undescended testis , and congenital inguinal hernia ) among study and controls subjects was 5.1% and 1.1% , respectively , but the differences were statistically nonsignificant .
+Our study results suggest that endosulfan exposure in male children may delay sexual maturity and interfere with sex hormone synthesis .
+Our study is limited by small sample size and nonparticipation .

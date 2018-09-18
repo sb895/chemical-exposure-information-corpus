@@ -1,0 +1,11 @@
+Polychlorinated biphenyls ( PCBs ) are among the most toxic environmental pollutants .
+Food , especially animal based , has been described as the major source for human exposure to PCBs .
+We investigated PCB levels ( congeners 10 , 28 , 52 , 153 , 138 , and 180 ) in cheese from 14 cities of Rio Grande do Sul , Brazil .
+The fat was extracted using sodium sulfate and petroleum ether , and PCBs purification was conducted using florisil and hexane .
+The identification and quantification were made in a gas chromatograph with microelectron capture detector ( GC-microECD ) .
+PCB congeners were found ( lower bound data as ngg(-1) fat ) in the following rank : 52 ( 15.75)>180 ( 4.91)>28 ( 3.43)>153 ( 3.00)>10 ( 2.38)>138 ( 1.37 ) .
+Summation operatorPCB contamination ranged from 0 to 78.32 ngg(-1) fat .
+Differences in PCB levels between industrialized ( 33.32 ngg(-1) fat ) and homemade ( 26.58 ngg(-1) fat ) cheese and between two different regions ( 36.19 vs. 26.95 ngg(-1) fat ) were not statistically significant .
+For university students , the estimated daily intake ( EDI ) of PCBs from cheese ranged from 0 to 3.13 pgkg(-1) b.w .
+EDI was significantly higher for industrialized than homemade cheese , and for cheese from Mountain/Porto Alegre region than from Santa Maria/South/Western region .
+No sample exceeded maximum level of PCBs allowed in dairy products in the European Community .

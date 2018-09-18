@@ -1,0 +1,7 @@
+The present study measured eight PBDE congeners ' ( BDE-28 , 47 , 99 , 100 , 153 , 154 , 183 , and 209 ) exposure via ingestion of indoor dust and soil , inhalation , and food consumption .
+Contributions to PBDEs exposure from different media revealed that indoor dust ( dust suspended in air ) was not an important exposure route for PBDE congeners for adults in Shenzhen , China .
+Food consumption contributed more to daily intake of \u03a3(8)BDE , especially for lower-brominated PBDE congeners .
+Based on calculated average total daily intake , hazard quotients were determined to estimate the non-cancer risks of PBDE exposure .
+Meanwhile , cancer risk was also estimated assuming that the oral cancer slope factors of all PBDE congeners are equipotent as BDE-209 .
+The hazard quotients ranged from 1.2×10(-5) ( BDE-209 ) to 2.0×10(-2) ( BDE-47 ) , suggesting a low deleterious risk with regard to PBDEs .
+The cancer risk value ranged from 1.1×10(-24) to 5.5×10(-21) implying that the total risks due to exposure to PBDEs via all exposure routes are extremely low for adults .

@@ -1,0 +1,16 @@
+BACKGROUND Although breastfeeding is the ideal way of nurturing infants , it can be a source of exposure to toxicants .
+This study reports the concentration of Hg , Pb and Cd in breast milk from a sample of women drawn from the general population of the Madrid Region , and explores the association between metal levels and socio-demographic factors , lifestyle habits , diet and environmental exposures , including tobacco smoke , exposure at home and occupational exposures .
+METHODS Breast milk was obtained from 100 women ( 20 mL ) at around the third week postpartum .
+Pb , Cd and Hg levels were determined using Atomic Absorption Spectrometry .
+Metal levels were log-transformed due to non-normal distribution .
+Their association with the variables collected by questionnaire was assessed using linear regression models .
+Separate models were fitted for Hg , Pb and Cd , using univariate linear regression in a first step .
+Secondly , multivariate linear regression models were adjusted introducing potential confounders specific for each metal .
+Finally , a test for trend was performed in order to evaluate possible dose-response relationships between metal levels and changes in variables categories .
+RESULTS Geometric mean Hg , Pb and Cd content in milk were 0.53 \u03bcg L(-1) , 15.56 \u03bcg L(-1) , and 1.31 \u03bcg L(-1) , respectively .
+Decreases in Hg levels in older women and in those with a previous history of pregnancies and lactations suggested clearance of this metal over lifetime , though differences were not statistically significant , probably due to limited sample size .
+Lead concentrations increased with greater exposure to motor vehicle traffic and higher potato consumption .
+Increased Cd levels were associated with type of lactation and tended to increase with tobacco smoking .
+CONCLUSIONS Surveillance for the presence of heavy metals in human milk is needed .
+Smoking and dietary habits are the main factors linked to heavy metal levels in breast milk .
+Our results reinforce the need to strengthen national food safety programs and to further promote avoidance of unhealthy behaviors such as smoking during pregnancy .

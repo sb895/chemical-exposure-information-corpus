@@ -1,0 +1,9 @@
+A limited number of studies have suggested that exposure to PAHs may affect reproductive hormones .
+Subjects ( n=642 ) in this study were from the affiliated hospitals of Nanjing Medical University .
+Individual exposures to PAHs were measured as spot urinary concentrations of four PAH metabolites , including 1-naphthol ( 1-N ) , 2-naphthol ( 2-N ) , 2-hydroxyfluorene ( 2-OF ) and 1-hydroxypyrene ( 1-OP ) , which were adjusted by urinary creatinine ( CR ) .
+Blood samples were collected to measure serum levels of reproductive hormones , including follicle-stimulating hormone ( FSH ) , luteotrophic hormone ( LH ) , estradiol ( E2 ) , testosterone ( T ) and prolactin ( PRL ) .
+All of the subjects had detectable levels of the four metabolites of PAHs in their urine samples .
+The median concentrations of 1-N , 2-N , 2-OF and 1-OP were 2.440 , 4.176 , 2.843 and 1.148 microg/g of CR .
+There were significant P-values between increased CR-adjusted 1-N tertiles and E2 concentration , 2-OF tertiles and LH , FSH level , 1-OP and E2 level .
+The multivariate linear regression results also showed significant correlation between the levels of serum LH and 1-OP ( the adjusting P-value was 0.048 ) , but no correlations were found between other hormones and the level of PAH metabolites .
+These observed correlations between levels of hydroxy-PAH and some altered hormones indicated slight endocrine effects on adult men with PAH exposure .

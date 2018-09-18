@@ -1,0 +1,6 @@
+A classical cold vapor atomic absorption spectrometric ( CVAAS ) method for the determination of total mercury in blood has been previously adapted for application to samples of human hair .
+The reaction vessel specified in the original adaptation was , however , large and difficult to use with small hair samples .
+In the present study , the reaction vessel has been modified and reduced in size and the protocols have been optimized in order to provide an analytical method that is more efficient , less time-consuming , and gives lower blank values than the original adaptation .
+The optimized method was validated by multiple , independent , replicated assays of certified reference hair samples , and the mean recovery obtained ( 98.7% ) indicated an efficient performance of the digestion and detection processes .
+The method was applied to the assay of 144 hair samples derived from populations that had or had not been exposed to mercury from environmental sources .
+The results from all of the samples analyzed were consistent with those published previously for similar samples .

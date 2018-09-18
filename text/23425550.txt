@@ -1,0 +1,14 @@
+BACKGROUND Few studies have evaluated health impacts , especially biomarker changes , following implementation of a new environmental policy .
+This study examined changes in water fluoride , urinary fluoride ( UF ) , and bone metabolism indicators in children after supplying low fluoride public water in endemic fluorosis areas of Southern China .
+We also assessed the relationship between UF and serum osteocalcin ( BGP ) , calcitonin ( CT ) , alkaline phosphatase ( ALP ) , and bone mineral density to identify the most sensitive bone metabolism indicators related to fluoride exposure .
+METHODS Four fluorosis-endemic villages ( intervention villages ) in Guangdong , China were randomly selected to receive low-fluoride water .
+One non-endemic fluorosis village with similar socio-economic status , living conditions , and health care access , was selected as the control group. 120 children aged 6-12 years old were randomly chosen from local schools in each village for the study .
+Water and urinary fluoride content as well as serum BGP , CT , ALP and bone mineral density were measured by the standard methods and compared between the children residing in the intervention villages and the control village .
+Benchmark dose ( BMD ) and benchmark dose lower limit ( BMDL ) were calculated for each bone damage indicator .
+RESULTS Our study found that after water source change , fluoride concentrations in drinking water in all intervention villages ( A-D ) were significantly reduced to 0.11 mg/l , similar to that in the control village ( E ) .
+Except for Village A where water change has only been taken place for 6 years , urinary fluoride concentrations in children of the intervention villages were lower or comparable to those in the control village after 10 years of supplying new public water .
+The values of almost all bone indicators in children living in Villages B-D and ALP in Village A were either lower or similar to those in the control village after the intervention .
+CT and BGP are sensitive bone metabolism indicators related to UF .
+While assessing the temporal trend of different abnormal bone indicators after the intervention , bone mineral density showed the most stable and the lowest abnormal rates over time .
+CONCLUSIONS Our results suggest that supplying low fluoride public water in Southern China is successful as measured by the reduction of fluoride in water and urine , and changes in various bone indicators to normal levels .
+A comparison of four bone indicators showed CT and BGP to be the most sensitive indicators .

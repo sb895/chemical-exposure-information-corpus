@@ -1,0 +1,11 @@
+Nearly half of the world's population is exposed to household air pollution ( HAP ) due to long hours spent in close proximity to unvented cooking fires .
+The effect of woodsmoke exposure on oxidative stress was examined by investigating the association between woodsmoke exposure and biomarkers of DNA oxidation ( 8-hydroxy-2'-deoxyguanosine [ 8-OHdG] ) and lipid peroxidation ( 8-isoprostane ) among control and intervention stove users .
+HAP exposure assessment was conducted within the framework of a community-randomized controlled trial of 51 communities in San Marcos Province , Cajamarca Region , Peru .
+The first morning urine voids after 48h HAP exposure assessment from a subset of 45 control and 39 intervention stove users were analyzed for 8-OHdG and 8-isoprostane .
+General linear models and correlation analyses were performed .
+Urinary oxidative stress biomarkers ranged from 11.2 to 2270.0\u03bcg/g creatinine ( median : 132.6\u03bcg/g creatinine ) for 8-OHdG and from 0.1 to 4.5\u03bcg/g creatinine ( median : 0.8\u03bcg/g creatinine ) for 8-isoprostane among all study subjects ( n=84 ) .
+After controlling for the effects of traffic in the community and eating food exposed to fire among all subjects , cooking time was weakly , but positively associated with urinary 8-OHdG ( r=0.29 , p=0.01 , n=80 ) .
+Subjects ' real-time personal CO exposures were negatively associated with 8-OHdG , particularly the maximum 30-second CO exposure during the sampling period ( r=-0.32 , p=0.001 , n=73). 48h time integrated personal PM2.5 was negatively , but marginally associated with urinary 8-isoprostane ( r=-0.21 , p=0.09 , n=69 ) after controlling for the effect of distance of homes to the road .
+Urinary 8-isoprostane levels reported in the available literature are comparable to results found in the current study .
+However there were relatively high levels of urinary 8-OHdG compared to data in the available literature for 8-OHdG excretion .
+Results suggest a sustained systemic oxidative stress among these Peruvian women chronically exposed to wood smoke .

@@ -1,0 +1,12 @@
+OBJECTIVE 40,000 residents in Arnsberg , Germany , had been exposed to drinking water contaminated with perfluorinated compounds ( PFCs ) .
+Internal exposure of the residents of Arnsberg to six PFCs was assessed in comparison with reference areas .
+DESIGN AND PARTICIPANTS One hundred seventy children ( 5-6 years of age ) , 317 mothers ( 23-49 years ) , and 204 men ( 18-69 years ) took part in the cross-sectional study .
+MEASUREMENTS Individual consumption of drinking water and personal characteristics were assessed by questionnaire and interview .
+Perfluorooctanoate ( PFOA ) , perfluorooctanesulfonate ( PFOS ) , perfluorohexanoate , perfluorohexanesulfonate ( PFHxS ) , perfluoropentanoate , and perfluorobutanesulfonate ( PFBS ) in blood plasma and PFOA/PFOS in drinking water samples were measured by solid-phase extraction , high-performance liquid chromatrography , and tandem mass spectrometry detection .
+RESULTS Of the various PFCs , PFOA was the main compound found in drinking water ( 500-640 ng/L ) .
+PFOA levels in blood plasma of residents living in Arnsberg were 4.5-8.3 times higher than those for the reference population ( arithmetic means Arnsberg/controls : children 24.6/5.2 microg/L , mothers 26.7/3.2 microg/L , men 28.5/6.4 microg/L ) .
+Consumption of tap water at home was a significant predictor of PFOA blood concentrations in Arnsberg .
+PFHxS concentrations were significantly increased in Arnsberg compared with controls ( p < 0.05 ) .
+PFBS was detected in 33% of the children , 4% of the women , and 13% of the men in Arnsberg compared with 5% , 0.7% , and 3% , respectively , in the reference areas ( p < 0.05 ) .
+Regression analysis showed that age and male sex were significant predictors of PFOS , PFOA , and PFHxS ; associations of other regressors ( diet , body mass index ) varied among PFCs .
+CONCLUSIONS PFC concentrations in blood plasma of children and adults exposed to PFC-contaminated drinking water were increased 4- to 8-fold compared with controls .

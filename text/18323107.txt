@@ -1,0 +1,7 @@
+Land use regression ( LUR ) has been successfully used to assess the intraurban variability of air pollution .
+In the INMA ( Environment and Childhood ) Study , ambient nitrogen oxides ( NO(x) and NO(2) ) and aromatic hydrocarbons ( BTEX ) were measured at 57 sampling sites in Sabadell ( northeast Spain ) .
+Multiple regression models were developed to predict residential outdoor concentrations in a cohortof pregnantwomen ( n = 657 ) , using geographic data as predictor variables .
+The models accounted for 68 and 69% of the variance in NO(x) and NO(2) levels , respectively , with four predictor variables ( altitude , land coverage , and two road length indicators ) .
+These percentages of explained variability could be further improved by replacing the two road length indicators with an ordinal indicator ( road type ) .
+To our knowledge , this is the first study using LUR to assess the intraurban variability of BTEX in Europe , with a model including altitude and source-proximity variables that explained 74% of the variance in BTEX levels .
+These models will be used to study the association between prenatal exposure to air pollution and adverse pregnancy outcomes and early childhhod effects in the cohort .

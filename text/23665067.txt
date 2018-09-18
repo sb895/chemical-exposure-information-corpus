@@ -1,0 +1,10 @@
+Because of troubling reports of high urinary metabolite levels and adverse reproductive health effects in workers exposed to di(2-ethylhexyl)phthalate ( DEHP ) in occupational settings , concern about exposure to DEHP in occupational settings is increasing .
+However , the contributions of different routes of exposure to DEHP are unclear .
+We used personal air sampling and biomonitoring to determine the contribution of inhalation exposure to the body burden of DEHP in the workplace .
+Eighty-nine workers ( high-exposure group : 66 raw-materials workers ; low-exposure group : 23 administrative workers ) were recruited from three polyvinyl chloride ( PVC ) factories .
+Urinary levels of mono(2-ethylhexyl) phthalate ( MEHP ) , ( mono(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) , and mono(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) were measured in pre-shift and post-shift samples .
+The geometric means of airborne concentrations of DEHP were 5.3 \u03bcg/m3 ( low-exposure group ) and 32.7 \u03bcg/m3 ( high-exposure group ) ( P<0.01 ) .
+Correlation analysis showed a consistently significant association between airborne DEHP concentration and urinary DEHP metabolite levels in the high-exposure group .
+Calculating daily DEHP intake based on total urinary metabolite levels showed that the geometric means of total daily urinary metabolite levels of DEHP were 9.2 \u03bcg/kg/day ( low-exposure group ) and 15.5 \u03bcg/kg/day ( high-exposure group ) ( P<0.01 ) .
+A quartile analysis of all workers showed a significant trend toward an association between the individual contribution of inhalation exposure to DEHP and urinary DEHP metabolite levels , for which the mean inhalation contribution was 46.7% in the highest quartile .
+We conclude that inhalation-absorbed airborne DEHP significantly increased the total body burden of DEHP in these occupationally exposed workers .

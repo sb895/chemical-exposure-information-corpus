@@ -1,0 +1,7 @@
+The concentrations of dichlorodiphenytrichloroethane and its metabolites ( DDTs ) , hexachlorobenzene ( HCB ) , hexachlorocyclohexane isomers ( HCHs ) , dieldrin , and 20 polychlorinated biphenyls ( PCBs ) were determined in 237 human breast milk samples collected from 12 locations in Tunisia .
+Gas chromatography with electron capture detector ( GC-ECD ) was used to identify and quantify residue levels on a lipid basis of organochlorine compounds ( OCs ) .
+The predominant OCs in human breast milk were PCBs , p,p'-DDE , p,p'-DDT , HCHs , and HCB .
+Concentrations of DDTs in human breast milk from rural areas were significantly higher than those from urban locations ( p<0.05 ) .
+With regard to PCBs , we observed the predominance of mid-chlorinated congeners due to the presence of PCBs with high K(ow) such as PCB 153 , 138 , and 180 .
+Positive correlations were found between concentrations of OCs in human breast milk and age of mothers and number of parities , suggesting the influence of such factors on OC burdens in lactating mothers .
+The comparison of daily intakes of PCBs , DDTs , HCHs , and HCB to infants through human breast milk with guidelines proposed by WHO and Health Canada shows that some individuals accumulated OCs in breast milk close to or higher than these guidelines .

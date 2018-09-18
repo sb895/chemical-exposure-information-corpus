@@ -1,0 +1,10 @@
+Due to worldwide restrictions on polybrominated diphenyl ethers ( PBDEs ) , the demand for alternative flame retardants ( AFRs ) , such as organophosphate flame retardants ( OPFRs ) , novel brominated FRs ( NBFRs ) and hexabromocyclododecanes ( HBCDs ) , has recently increased .
+Little is known about human exposure to NBFRs and OPFRs and that their levels in dust have been scarcely evaluated worldwide .
+To increase the knowledge regarding these chemicals , we measured concentrations of five major NBFRs , ten OPFRs and three HBCD isomers in indoor dust from New Zealand homes .
+Dust samples were taken from living room floors ( n=34 ) and from mattresses of the same houses ( n=16 ) .
+Concentrations ( ngg(-1) ) of NBFRs were : 1,2-bis(2,4,6-tribromophenoxy)ethane ( BTBPE ) ( <2-175 ) , decabromodiphenyl ethane ( DBDPE ) ( <5-1430 ) , 2-ethylhexyl-2,3,4,5-tetrabromobenzoate ( TBB ) ( <2-2285 ) and bis(2-ethylhexyl)-3,4,5,6-tetrabromophthalate ( TBPH ) ( <2-640 ) .
+For OPFRs , concentrations ( ngg(-1) ) ranged between : tri-ethyl-phosphate ( TEP ) ( <10-235 ) , tri-n-butyl-phosphate ( TnBP ) ( <20-7545 ) , tris-(2-chloroethyl)-phosphate ( TCEP ) ( <20-7605 ) , tris-(1-chloro-2-propyl) phosphate ( TCPP ) ( 20-7615 ) , tri-(2-butoxyethyl)-phosphate ( TBEP ) ( 50-27325 ) , tris-(2,3-dichloropropyl)-phosphate ( TDCPP ) ( 20-16560 ) , tri-phenyl-phosphate ( TPhP ) ( 20-35190 ) , and tri-cresyl-phosphate ( TCP ) ( <50-3760 ) .
+HBCD concentrations fell in the range <2-4100ngg(-1) .
+BTBPE , DBDPE , TBPH , TBEP , and TnBP showed significant positive correlation ( p<0.05 ) between their concentrations in mattresses and the corresponding floor dust ( n=16 ) .
+These data were used to derive a range of plausible exposure scenarios .
+Although the estimated exposure is well below the corresponding reference doses ( RfDs ) , caution is needed given the likely future increase in use of these FRs and the currently unknown contribution to human exposure by other pathways such as inhalation and diet .

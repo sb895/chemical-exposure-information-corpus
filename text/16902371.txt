@@ -1,0 +1,7 @@
+OBJECTIVE The objective of this study was to investigate whether exposure to aluminum , gallium , indium , arsenic , and antimony induces lipid peroxidation in humans .
+METHODS Whole blood and urine levels of 103 exposed electronic industry workers and 67 referents were analyzed by use of inductively coupled plasma mass spectrometry .
+Malondialdehyde ( MDA ) , the product of lipid peroxidation , was determined by high-performance liquid chromatography .
+RESULTS The mean plasma MDA level in the 103 workers was significantly higher than that in 67 referents .
+The levels of MDA in the exposed workers were correlated significantly with the levels of urinary gallium and arsenic .
+CONCLUSIONS Malondialdehyde as an index of lipid peroxidation can be induced by gallium and arsenic exposure .
+By reducing exposure to these metals , biologic effects such as lipid peroxidation may also be diminished .

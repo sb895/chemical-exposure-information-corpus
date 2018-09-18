@@ -1,0 +1,11 @@
+In a published controlled dosing experiment , a single individual consumed 5mg each of labeled di-n-butyl phthalate ( DnBP ) and diisobutyl phthalate ( DiBP ) on separate occasions and tracked metabolites in his blood and urine over 48h .
+Data from this study were used to structure and calibrate simple pharmacokinetic ( PK ) models for these two phthalates , which predict urine and blood metabolite concentrations with a given phthalate intake scenario ( times and quantities ) .
+The calibrated models were applied to a second published experiment in which 5 individuals fasted over the course of a 48-h weekend ( bottled water only ) , and their full urine voids were captured and measured for DnBP and DiBP metabolites .
+One goal of this model application was to confirm the validity of the calibrated models - their validity would be demonstrated if a profile of intakes could be found which adequately duplicated the metabolite concentrations measured in the urine .
+A second goal was to study patterns of exposure for this group .
+It was found that all metabolites could be duplicated very well with individual-specific " best-fit " intake scenarios , with one exception .
+It appears that the model predicted much lower concentrations of the metabolite , 3carboxy-mono-propylphthalate ( MCPP ) , than were observed in all individuals .
+Modeled as a metabolite of DnBP , this suggests that DnBP was not the major source of MCPP in the urine .
+For all 5 individuals , the reconstructed dose profiles of the two phthalates were similar : about 6 small bolus doses per day and an intake of about 0.5\u03bcg/kg-day .
+The intakes did not appear to be associated with diary-reported activities ( personal hygiene and medication ) of the participants .
+The modeled frequent intakes suggested one ( or both ) of two possibilities : ongoing exposures such as an inhalation exposure , or no exposure but rather an ongoing release of body stores of the phthalate metabolites from past exposures .

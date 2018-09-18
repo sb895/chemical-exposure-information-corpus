@@ -1,0 +1,12 @@
+BACKGROUND There are long-standing concerns about adverse effects of gas appliances on respiratory health .
+However , the potential adverse effect of low-NOx ( nitrogen oxide ) unflued gas heaters on children's health has not been assessed .
+OBJECTIVES Our goal was to compare the respiratory health effects and air quality consequences of exposure to low-NOx unflued gas heaters with exposure to non-indoor-air-emitting flued gas heaters in school classrooms .
+METHODS We conducted a double-blind , cluster-randomized , crossover study in 400 primary school students attending 22 schools in New South Wales , Australia .
+Children measured their lung function and recorded symptoms and medication use twice daily .
+Nitrogen dioxide ( NO2 ) and formaldehyde concentrations were measured in classrooms using passive diffusion badges .
+RESULTS NO2 concentrations were , on average , 1.8 times higher [ 95% confidence interval ( CI ) , 1.6-2.1 ] and formaldehyde concentrations were , on average , 9.4 ppb higher ( 95% CI , 5.7-13.1 ) during exposure to unflued gas versus flued gas heaters .
+Exposure to the unflued gas heaters was associated with increased cough reported in the evening [ odds ratio ( OR ) = 1.16 ; 95% CI , 1.01-1.34 ] and wheeze reported in the morning ( OR = 1.38 ; 95% CI , 1.04-1.83 ) .
+The association with wheeze was greater in atopic subjects .
+There was no evidence of an adverse effect on lung function .
+CONCLUSIONS We conclude that classroom exposure to low-NOx unflued gas heaters causes increased respiratory symptoms , particularly in atopic children , but is not associated with significant decrements in lung function .
+It is important to seek alternative sources of heating that do not have adverse effects on health .

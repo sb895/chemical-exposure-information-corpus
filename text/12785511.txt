@@ -1,0 +1,9 @@
+People driving in a vehicle might receive an enhanced dose of mobile source pollutants that are considered a potential risk for cardiovascular diseases .
+The exposure to components of air pollution in highway patrol vehicles , at an ambient , and a roadside location was determined during 25 work shifts ( 3 p.m. to midnight ) in the autumn of 2001 , each day with two cars .
+A global positioning system and a diary provided location and activity information .
+Average pollutant levels inside the cars were low compared to ambient air quality standards : carbon monoxide 2.7 ppm , nitrogen dioxide 41.7 microg/m3 , ozone 11.7 ppb , particulate matter smaller 2.5 microm ( PM2.5 ) 24 microg/m3 .
+Volatile organic compounds inside the cars were in the ppb-range and showed the fingerprint of gasoline .
+PM2.5 was 24% lower than ambient and roadside levels , probably due to depositions associated with the recirculating air conditioning .
+Levels of carbon monoxide , aldehydes , hydrocarbons , and some metals ( Al , Ca , Ti , V , Cr , Mn , Fe , Cu , and Sr ) were highest in the cars , and roadside levels were higher than ambient levels .
+Elevated pollutant levels were related to locations with high traffic volumes .
+Our results point to combustion engine emissions from other vehicles as important sources of air pollutants inside the car .

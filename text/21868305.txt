@@ -1,0 +1,13 @@
+BACKGROUND Mercury ( Hg ) is a ubiquitous environmental contaminant with neurodevelopmental and immune system effects .
+An informative biomarker of Hg-induced immunotoxicity could aid studies on the potential contribution to immune-related health effects .
+OBJECTIVES Our objectives were to test the hypothesis that methylmercury ( MeHg ) exposures affect levels of serum biomarkers and to examine interactions between Hg and selenium ( Se ) in terms of these responses .
+METHODS This cross-sectional epidemiological study assessed adults living along the Tapajós River , a system long affected by MeHg .
+We measured antinuclear ( ANA ) and antinucleolar ( ANoA ) autoantibody levels and eight cytokines in serum samples ( n = 232 ) .
+Total Hg ( including MeHg ) and Se were measured in blood , plasma , hair , and urine .
+RESULTS The median ( range ) total Hg concentrations were 14.1 \u03bcg/g ( 1.1-62.4 ) , 53.5 \u03bcg/L ( 4.3-288.9 ) , 8.8 \u03bcg/L ( 0.2-40 ) , and 3.0 \u03bcg/L ( 0.2-16.1 ) for hair , blood , plasma , and urine , respectively .
+Elevated titers of ANA ( but not ANoA ) were positively associated with MeHg exposure ( log-transformed , for blood and plasma ) , unadjusted [ odds ratio ( OR ) = 2.6 ; 95% confidence interval ( CI ) : 1.1 , 6.2 ] and adjusted for sex and age ( OR = 2.9 ; 95% CI : 1.1 , 7.5 ) .
+Proinflammatory [ interleukin ( IL)-6 and interferon ( IFN)-\u03b3 ] , anti-inflammatory ( IL-4 ) , and IL-17 cytokine levels were increased with MeHg exposure ; however , in the subset of the population with elevated ANA , proinflammatory IL-1\u03b2 , IL-6 , IFN-\u03b3 , and tumor necrosis factor ( TNF)-\u03b1 and anti-inflammatory ( IL-4 ) cytokine levels were decreased with MeHg exposure .
+Although Se status was associated with MeHg level ( correlation coefficient = 0.86 ; 95% CI : 0.29 , 1.43 ) , Se status was not associated with any changes in ANA and did not modify associations between Hg and ANA titers .
+CONCLUSIONS MeHg exposure was associated with an increased ANA and changes in serum cytokine profile .
+Moreover , alterations in serum cytokine profiles differed based on ANA response , suggesting a specific phenotype of MeHg susceptibility .
+Further research on the potential health implications of these observed immunological changes is warranted .

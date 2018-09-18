@@ -1,0 +1,10 @@
+BACKGROUND In this prospective cohort study of Caucasian mothers and children in Krakow , Poland , we evaluated the role of prenatal exposure to urban air pollutants in the pathogenesis of neurobehavioral disorders .
+OBJECTIVES The objective of this study was to investigate the relationship between prenatal polycyclic aromatic hydrocarbon ( PAH ) exposure and child intelligence at 5 years of age , controlling for potential confounders suspected to play a role in neurodevelopment .
+METHODS A cohort of pregnant , healthy , nonsmoking women was enrolled in Krakow , Poland , between 2001 and 2006 .
+During pregnancy , participants were invited to complete a questionnaire and undergo 48-hr personal air monitoring to estimate their babies ' exposure , and to provide a blood sample and/or a cord blood sample at the time of delivery .
+Two hundred fourteen children were followed through 5 years of age , when their nonverbal reasoning ability was assessed using the Raven Coloured Progressive Matrices ( RCPM ) .
+RESULTS We found that higher ( above the median of 17.96 ng/m3 ) prenatal exposure to airborne PAHs ( range , 1.8-272.2 ng/m3 ) was associated with decreased RCPM scores at 5 years of age , after adjusting for potential confounding variables ( n = 214 ) .
+Further adjusting for maternal intelligence , lead , or dietary PAHs did not alter this association .
+The reduction in RCPM score associated with high airborne PAH exposure corresponded to an estimated average decrease of 3.8 IQ points .
+CONCLUSIONS These results suggest that prenatal exposure to airborne PAHs adversely affects children's cognitive development by 5 years of age , with potential implications for school performance .
+They are consistent with a recent finding in a parallel cohort in New York City .

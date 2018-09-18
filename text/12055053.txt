@@ -1,0 +1,8 @@
+Some polychlorinated biphenyl ( PCB ) congeners are CYP1A1 inducers , and induction of this enzyme in the placenta has been linked to adverse effects on fetal development .
+The objective of this study was to determine if the body burden of PCBs is related to placental CYP1A1 activity in Inuit women from Nunavik ( northern Québec ) , a population highly exposed to organochlorines .
+Placenta and cord blood samples were obtained from 35 Inuit women and 30 women from a southern Québec community exposed to background levels of organochlorines .
+We measured PCB concentrations in all cord plasma samples and in a subset of placenta samples from the Nunavik group and assessed CYP1A1 activity ( ethoxyresorufin-O-deethylase ; EROD ) in placental microsomes from all participants .
+Concentrations of PCBs in cord plasma were strongly correlated to those in placenta ( Pearson's r ) = 0.77-0.97 , p < 0.001 ) and were on average 4-fold higher in Inuit women than in southern Québec women [ for PCB 153 , the geometric means ( geometric SDs ) were 83.3 ( 1.9 ) ng/g lipid vs. 16.9 ( 1.6 ) ng/g lipid , respectively ] .
+Despite this difference in PCB body burden , both study groups had similar EROD activities when data were stratified according to tobacco smoking .
+Although simple correlation analysis first showed that placental EROD activity was correlated with PCB 153 plasma concentration in the Nunavik group , a multivariate analysis failed to demonstrate a significant contribution of PCBs to EROD activity when tobacco smoking was included in the analysis .
+We conclude that dietary exposure to PCBs in Inuit women from Nunavik does not significantly influence EROD activity in the placenta , implicating tobacco smoking as the major modulating factor .

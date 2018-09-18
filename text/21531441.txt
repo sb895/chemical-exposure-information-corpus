@@ -1,0 +1,10 @@
+Perfluorinated alkyl acids ( PFAAs ) are persistent environmental pollutants , found in the serum of human populations internationally .
+Due to concerns regarding their bioaccumulation , and possible health effects , an understanding of routes of human exposure is necessary .
+PFAAs are recalcitrant in many water treatment processes , making drinking water a potential source of human exposure .
+This study was conducted with the aim of assessing the exposure to PFAAs via potable water in Australia .
+Sixty-two samples of potable water , collected from 34 locations across Australia , including capital cities and regional centers .
+The samples were extracted by solid phase extraction and analyzed via liquid chromatography/tandem mass spectrometry for a range of perfluoroalkyl carboxylates and sulfonates .
+PFOS and PFOA were the most commonly detected PFAAs , quantifiable in 49% and 44% of all samples respectively .
+The maximum concentration in any sample was seen for PFOS with a concentration of 16 ng L(-1) , second highest maximums were for PFHxS and PFOA at 13 and 9.7 ng L(-1) .
+The contribution of drinking water to daily PFOS and PFOA intakes in Australia was estimated .
+Assuming a daily intake of 1.4 and 0.8 ng kg(-1) bw for PFOS and PFOA the average contribution from drinking water was 2-3% with a maximum of 22% and 24% respectively .

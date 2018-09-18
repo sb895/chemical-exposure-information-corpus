@@ -1,0 +1,1 @@
+<  Biomonitoring--effect marker--physiological parameter<  Biomonitoring--exposure biomarker--other<Biomonitoring--effect marker--physiological parameter AND  Biomonitoring--exposure biomarker--blood--<exposure routes--oral intake--food--< < <  Biomonitoring--effect marker--physiological parameter< <exposure routes--oral intake--products--< 

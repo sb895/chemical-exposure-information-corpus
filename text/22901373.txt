@@ -1,0 +1,10 @@
+BACKGROUND The study was carried out in order to respond to public concern on the occupational exposure of metallurgical workers to highly toxic PCDDs , PCDFs , and PCBs in the area of the city of Brescia , northern Italy .
+OBJECTIVES The study investigated the effects on the haematic burden of occupational exposures to the aforesaid contaminants in different work environments , attempting to establish causal relationships and providing indications for occupational health preventive measures .
+METHODS Chemical concentrations were measured in blood serum of " professionally exposed " ( PE ) and " not professionally exposed " ( NPE ) subjects .
+NPE subjects included industrial administrative employees , Brescia inhabitants , and remote rural people .
+RESULTS The central tendency indexes of contaminant cumulative concentrations were higher in PE than in NPE samples ( for the mean values : PCDDs+PCDFs , 22.9 vs. 19.5 pgWHO-TEQ(1997)/g lb ; DL-PCBs , 26.0 vs. 23.6 pgWHO-TEQ(1997)/g lb ; PCDDs+PCDFs+DL-PCBs ( TEQ(TOT) ) , 48.9 vs. 43.1 pgWHO-TEQ(1997)/g lb ; \u03a3(6)[NDL-PCBs] , 427 vs. 401 ng g(-1)lb ) ; however , no statistical differences were detected at P=0.05 .
+A significant difference for PCDDs+PCDFs and TEQ(TOT) was observed as the NPE data were progressively reduced to those of the remote rural people .
+The existence of a differential occupational exposure due to different environments was detected by applying the factor analysis to congener-specific data ( analytical profiles ) .
+CONCLUSIONS Findings indicate that metallurgical workers may be exposed to PCDD , PCDF , and PCB more than the general population , in particular due to non-negligible contributions to exposure from workplace ambient air .
+Findings also suggest that an improvement of preventive measures may be required to avoid chemical overexposure in certain metallurgical workplaces .
+To identify exposure groups , the DL- and NDL-PCB analytical profiles seemed to be more sensitive to environmental exposure sources/pathways than those of PCDDs and PCDFs .

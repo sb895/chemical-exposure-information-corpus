@@ -1,0 +1,10 @@
+BACKGROUND A medical surveillance program of benzene-exposed workers has to be established in such a way as to observe early signs of benzene-induced cytopenia , pancytopenia , or leukemia .
+This study evaluates the utility of routine medical survey applied to benzene-exposed workers by analyzing the hematological , immunological , and cytogenetic assay results .
+METHODS The results of a previous study of hematological , immunological , and cytogenetic assays in benzene-exposed workers ( up to 15 ppm ) are used to discuss medical surveillance program by defining the relationship between various benzene exposure concentrations and toxic endpoints .
+RESULTS Exposure to benzene concentration lower than 5 ppm does not produce any abnormal hematological measurements .
+For benzene cumulative exposure above 100 ( ppm-years ) , some blood indices [ mean corpuscular volume ( MCV ) , mean corpuscular hemoglobin concentration ( MCHC ) , band neutrophils ] show significant differences in comparison to the control group .
+The incidence of dicentric chromosomes was higher and the level of B-lymphocytes was lower even with workers exposed to 5 ppm of benzene ; correlation with exposure indicators was not found .
+CONCLUSIONS The results suggest that peripheral blood indices , although not sensitive enough , are still the most suitable parameters in a health surveillance program applied to benzene-exposed workers .
+B-lymphocytes could be a promising indicator of the benzene-induced damage .
+Cytogenetic tests did not prove to be suitable .
+Further investigation of useful screening tests for health surveillance program of benzene-exposed workers is still required .

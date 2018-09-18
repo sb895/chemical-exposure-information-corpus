@@ -1,0 +1,12 @@
+Out-of-hospital cardiac arrest ( OHCA ) has been previously associated with exposure to particulate air pollution .
+However , there is uncertainty about the agents and mechanisms that are involved .
+We aimed to determine the association of gases and particulates with OHCA , and differences in pollutant effects on OHCAs due to acute myocardial infarction ( AMI ) vs those due to other causes .
+Helsinki Emergency Medical Services provided data on OHCAs of cardiac origin ( OHCA_Cardiac ) .
+Hospital and autopsy reports determined whether OHCAs were due to AMI ( OHCA_MI ) or other cardiac causes ( OHCA_Other ) .
+Pollutant data was obtained from central ambient monitors .
+A case-crossover analysis determined odds ratios ( ORs ) for hourly lagged exposures ( Lag 0-3 ) and daily lagged exposures ( Lag 0d-3d ) , expressed per interquartile range of pollutant level .
+For OHCA_Cardiac , elevated ORs were found for PM(2.5) ( Lag 0 , 1.07 ; 95% confidence interval ( CI ) : 1.01-1.13 ) and ozone ( O(3) ) ( Lag 2d , 1.18 ; CI : 1.03-1.35 ) .
+For OHCA_MI , elevated ORs were found for PM(2.5) ( Lag 0 , 1.14 ; CI : 1.03-1.27 ; Lag 0d , 1.17 ; CI : 1.03-1.33 ) , accumulation mode particulate ( Acc ) ( Lag 0d , 1.19 ; CI : 1.04-1.35 ) , NO ( Lag 0d , 1.07 ; CI : 1.01-1.13 ) , and ultrafine particulate ( Lag 0d , 1.27 ; CI : 1.05-1.54 ) .
+For OHCA_Other , elevated ORs were found only for O(3) ( Lag 1d , 1.26 ; CI : 1.07-1.48 ; Lag 2d , 1.30 ; CI : 1.11-1.53 ) .
+Results from two-pollutant models , with one of the pollutants either PM(2.5) or O(3) , suggested that associations were primarily due to effects of PM(2.5) and O(3) , rather than other pollutants .
+The results suggest that air pollution triggers OHCA via two distinct modes : one associated with particulates leading to AMI and one associated with O(3) involving etiologies other than AMI , for example , arrhythmias or respiratory insufficiency .

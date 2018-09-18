@@ -1,0 +1,12 @@
+Recently , we reported the presence of higher levels of metallothionein ( MT ) in placentas of smokers compared to non-smokers .
+In the present study , we designed experiments to separate and evaluate two isoforms of MT ( MT-1 and MT-2 ) in placentas of smokers and non-smokers .
+Metallothionein was extracted and separated by ion-exchange high performance liquid chromatography ( HPLC ) , previous saturation with cadmium chloride .
+Two peaks eluting at 6 and 12.5 min , corresponding to MT-1 and MT-2 , respectively , were obtained .
+Metallothionein present in both peaks was identified by Western blot analysis using a monoclonal antibody directed against MT-1 and MT-2 .
+Each isoform concentration was calculated after measuring its cadmium content by atomic absorption spectrometry with inductively coupled-plasma .
+In placentas of smokers , MT-2 levels increased by seven-fold compared to non-smokers , whereas MT-1 was not changed .
+Total placental cadmium and zinc concentrations , determined by atomic absorption spectrometry and neutron activation analysis , respectively , were higher in smokers .
+Metallothioneins levels were clearly in excess to bind all cadmium ions present in placentas .
+However , most of placental zinc remains unbound to MTs , although as much as twice zinc ions could be bound to MT in smokers .
+In conclusion , MT-2 is the main isoform induced by smoking , suggesting that this isoform could be involved in placental cadmium and zinc retention .
+This fact , which could contribute to reduce the transference of zinc to the fetus , may be associated to detrimental effects on fetal growth and development .

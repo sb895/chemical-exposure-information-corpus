@@ -1,0 +1,12 @@
+BACKGROUND Bayingnormen is a region located in western Inner Mongolia China , with a population that is exposed to a wide range of drinking water arsenic concentrations .
+The relationship between maternal drinking water arsenic exposure and perinatal endpoints ( term birth weight , preterm birth , stillbirth and neonatal death ) in this region was evaluated in this study .
+METHODS An analysis was conducted of all singleton deliveries in a defined geographical area of Inner Mongolia from December 1996 to December 1999 ( n=9890 ) .
+Outcome and covariate data were abstracted from prenatal care records .
+Exposure was based on well-water measures for the maternal subvillage .
+Mean birth weight at term was compared across four arsenic categories using analysis of covariance .
+ORs for stillbirth , preterm birth and neonatal death were estimated by logistic regression with arsenic exposure dichotomised at 50 microg/l .
+RESULTS Term birth weight was 0.05 kg higher ( 95% CI 0.02 to 0.08 ) in the highest exposure category ( >100 microg/l ) compared to the reference ( below limit of detection to 20 microg/l ) .
+Arsenic >50 microg/l was associated with an increased risk of neonatal death ( OR 2.01 , 95% CI 1.12 to 3.59 ) .
+No relationship was found between maternal arsenic exposure and preterm or stillbirth delivery .
+CONCLUSIONS At the levels observed in our study , arsenic does not appear to contribute to adverse birth outcomes .
+Exposure may play a role in neonatal death ; however , the neonatal death rate in this population was low and this potential association merits further research .

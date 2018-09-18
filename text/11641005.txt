@@ -1,0 +1,13 @@
+Ambient air toluene concentrations as well as corresponding individual blood toluene levels were measured under conditions of a field trial , as basis for a correlation with possible acute effects .
+While the results of various psycho-physiological and medical evaluations after acute ( Neubert et al. , 2001 ) and long-term toluene exposure ( Gericke et al. , 2001 ) are published in accompanying papers , this publication deals with the exposure levels and body burdens characteristic of workers in the rotogravure industry in Germany at the time of the investigation ( 1993-1995 ) .
+Besides providing some information on the exposure at various work-areas under occupational conditions , the correlation between a time-weighted average of the ambient air concentration with the corresponding blood toluene levels is analyzed .
+Limitations of such an attempt and possible pitfalls are discussed .
+In the largest field study so far performed on toluene exposure , 12 companies of the German rotogravure industry ( and a total of 1528 volunteers ) participated .
+Altogether , complete data sets , i.e. on both ambient air as well as blood toluene levels , were obtained from 1244 male and 124 female participants of the rotogravure industry with quite different degrees of toluene exposure .
+Rotogravure printers and their helpers were exposed to the highest toluene concentrations in ambient air .
+On the day of the evaluation , of 806 male volunteers within this group ( of 1261 with verified exposure in air ) , 35 were exposed to a time-weighted average of 100 ppm ( i.e. 375 mg/m(3) ) or above , and 155 of the printers to concentrations between 50 and 100 ppm .
+Of the remaining 455 male participants of the rotogravure factories ( 'non-printers and helpers' ) , only three were exposed to toluene concentrations above 50 ppm .
+Only one of the 124 women working in the rotogravure factories was exposed to an average toluene concentrations above 100 mg/m(3) ( i.e. 27 ppm ) .
+In 66 of the male volunteers toluene levels in blood of >850 microg/l were measured and 14 showed levels exceeding 1700 microg/l .
+When attempting to predict the resulting individual blood toluene levels from measurements of ambient air concentrations under field conditions , a considerable uncertainty is to be expected .
+We found a correlation coefficient of the regression curve of about 0.70 , with numerous outliers ( and a variation of the 12 factories between 0.52 and 0.88 ) .

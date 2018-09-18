@@ -1,0 +1,13 @@
+BACKGROUND A large population in West Bengal , India has been exposed to naturally occurring inorganic arsenic through their drinking water .
+A cross-sectional survey involving 7683 participants of all ages was conducted in an arsenic-affected region between April 1995 and March 1996 .
+The main focus of the study was skin keratoses and pigmentation alterations , two characteristic signs of ingested inorganic arsenic .
+Strong exposure-response gradients were found for these skin lesions .
+The study also collected limited information concerning respiratory system signs and symptoms , which we report here because increasing evidence suggests that arsenic ingestion also causes pulmonary effects .
+METHODS Participants were clinically examined and interviewed , and the arsenic content in their current primary drinking water source was measured .
+There were few smokers and analyses were confined to non-smokers ( N = 6864 participants ) .
+RESULTS Among both males and females , the prevalence of cough , shortness of breath , and chest sounds ( crepitations and/or rhonchi ) in the lungs rose with increasing arsenic concentrations in drinking water .
+These respiratory effects were most pronounced in individuals with high arsenic water concentrations who also had skin lesions .
+Prevalence odds ratio ( POR ) estimates were markedly increased for participants with arsenic-induced skin lesions who also had high levels of arsenic in their current drinking water source ( > or = 500 microg/l ) compared with individuals who had normal skin and were exposed to low levels of arsenic ( <50 microg/l ) .
+In participants with skin lesions , the age-adjusted POR estimates for cough were 7.8 for females ( 95% CI : 3.1-19.5 ) and 5.0 for males ( 95% CI : 2.6-9.9 ) ; for chest sounds POR for females was 9.6 ( 95% CI : 4.0-22.9 ) and for males 6.9 ( 95% CI : 3.1-15.0 ) .
+The POR for shortness of breath in females was 23.2 ( 95% CI : 5.8-92.8 ) and in males 3.7 ( 95% CI : 1.3-10.6 ) .
+CONCLUSION These results add to evidence that long-term ingestion of inorganic arsenic can cause respiratory effects .

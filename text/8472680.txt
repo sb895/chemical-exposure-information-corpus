@@ -1,0 +1,10 @@
+Quantitative EEG of 99 workers occupationally exposed to styrene was analyzed and compared to exposure parameters .
+All of the workers came from reinforced plastics industry .
+The workplaces and factories were previously evaluated , and the exposure levels were known rather accurately .
+The exposure information form workplaces and the individual exposure data were combined to form an Exposure Index , which reliably reflected long-term exposure to styrene in various occupational settings .
+All of the subjects underwent careful medical , neurological , and neurophysiological examinations .
+Quantitative EEG was recorded from 19 channels and analyzed for absolute and relative power , asymmetry , coherence , frequency distribution , and statistical normative database comparisons ( Neurometrics ) .
+The EEG data showed a significant increase of abnormal EEG classifications in workers with higher exposure .
+When the workers were divided into two groups , based on the exposure data , those with higher exposure had higher absolute EEG power in alpha and beta bands in the frontotemporal regions of the brain .
+The findings indicate that abnormalities in cerebral function can be demonstrated even with relatively low mean exposure levels .
+It is concluded that the efforts to lower the administrative hygienic levels of styrene have been in the right direction .

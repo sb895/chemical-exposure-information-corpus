@@ -1,0 +1,10 @@
+BACKGROUND Ambient air pollution ( AAP ) may be associated with increased risk for Pneumocystis pneumonia ( PCP ) .
+The mechanisms underlying this association remain uncertain .
+OBJECTIVES To determine if real-life exposures to AAP are associated with suppressed IgM antibody responses to P. jirovecii in HIV-infected ( HIV+ ) patients with active PCP , and to determine if AAP , mediated by suppressed serologic responses to Pneumocystis , is associated with adverse clinical outcomes .
+METHODS We conducted a prospective cohort study in HIV+ patients residing in San Francisco and admitted to San Francisco General Hospital with microscopically confirmed PCP .
+Our AAP predictors were ambient air concentrations of particulate matter of < 10 µm in diameter ( PM10 ) and < 2.5 µm in diameter ( PM2.5 ) , nitrogen dioxide ( NO2 ) , ozone ( O3 ) , and sulfur dioxide ( SO2 ) measured immediately prior to hospital admission and 2 weeks prior to admission .
+Our primary outcomes were the IgM serologic responses to four recombinant P. jirovecii major surface glycoprotein ( Msg ) constructs : MsgC1 , MsgC3 , MsgC8 , and MsgC9 .
+RESULTS Elevated PM10 and NO2 exposures immediately prior to and two weeks prior to hospital admission were associated with decreased IgM antibody responses to P. jirovecii Msg .
+For exposures immediately prior to admission , every 10 µg/m(3) increase in PM10 was associated with a 25 to 35% decrease in IgM responses to Msg ( statistically significant for all the Msg constructs ) , and every 10 ppb increase in NO2 was associated with a 19-45% decrease in IgM responses to Msg ( statistically significant for MsgC8 and MsgC9 ) .
+Similar findings were seen with exposures two weeks prior to admission , but for fewer of the Msg constructs .
+CONCLUSIONS Real life exposures to PM10 and NO2 were associated with suppressed IgM responses to P. jirovecii Msg in HIV+ patients admitted with PCP , suggesting a mechanism of immunotoxicity by which AAP increases host susceptibility to pulmonary infection .

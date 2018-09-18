@@ -1,0 +1,8 @@
+The objective of this study was to investigate the prevalence of and factors related to pneumoconiosis in foundry workers .
+Seven hundred and eighteen workers from 50 foundries in central Taiwan were interviewed using a constructed questionnaire .
+A full-sized PA chest radiograph was used to diagnose pneumoconiosis , according to ILO criteria .
+Overall , pneumoconiosis was found in 7.5% of the workers .
+The highest prevalence was found among furnace workers ( 15.9% ) and molding workers ( 8.40% ) .
+All foundry workers except those in administrative positions had a significantly increased risk of developing pneumoconiosis .
+Using a multiple logistic regression , compared to administrative workers , furnace workers had the highest risk ( 10.63 times ) , followed by post-treatment workers ( 6.63 times ) , and molding workers ( 5.41 times ) .
+In conclusion , the prevalence of pneumoconiosis was significantly related to high concentrations of dust , especially with a high proportion of free silica , however , smoking and length of exposure were also contributing factors .

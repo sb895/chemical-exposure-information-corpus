@@ -1,0 +1,10 @@
+This study aimed to determine the levels of placental cadmium ( PCd ) and cord blood cadmium ( CBCd ) and the resulting expression of placental metallothionein ( MT ) in neonates and to investigate cadmium ( Cd ) exposure levels in neonates and mothers who live in Guiyu , China , an electronic waste ( e-waste ) pollution site .
+Among the 423 mothers included in the study from 2004/2005 to 2007 , 289 lived in Guiyu ( exposed group ) and 134 lived in Chaonan , located 10 km away from Guiyu ( controls ) and had never been exposed to e-waste pollution .
+CBCd and PCd levels were measured by atomic absorption spectrometry .
+Placental MT was examined by immunohistochemistry .
+Information on maternal and neonatal characteristics and exposure conditions was obtained from hospital records and by personal interviews .
+For the 3 years , the median CBCd was higher for Guiyu neonates than for controls ( 3.61 vs. 1.25 \u03bcg/L ) , with 25.61% of Guiyu subjects exhibiting a median CBCd that exceeded the safety limit defined by the World Health Organization ( 5 \u03bcg/L ) , as compared with 14.18% of control neonates ( p < 0.01 ) .
+In Guiyu , the mean PCd was higher than that for controls ( 0.17 ± 0.48 vs. 0.10 ± 0.11 \u03bcg/g , p \u2264 0.01 ) .
+The high levels of CBCd and PCd were significantly associated with parents ' occupational and environmental exposure to e-waste recycling pollutants .
+Staining for MT was positive and dense for 67.00% ( 67/100 ) of Guiyu neonates as compared with 32.69% ( 17/52 ) of controls ( p < 0.01 ) .
+Exposure to e-waste recycling pollutants increased Cd exposure in neonates , which was accompanied by increased placental MT expression .

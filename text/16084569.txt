@@ -1,0 +1,15 @@
+BACKGROUND Much attention has been paid to the level of dioxins in breast milk in Japan but few large-scale studies have been conducted on the subject .
+METHODS From 1997 to 2002 , we collected 839 samples of breast milk from primiparas residing throughout Japan .
+Starting in 1999 , breast milk was also collected from secundiparas .
+Seven isomers of polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 of polychlorinated dibenzofurans ( PCDFs ) , 4 of coplanar polychlorinated biphenyls ( Co-PCBs ) and 8 of mono-orthochlorinated polychlorinated biphenyls ( mono-ortho PCBs ) were analyzed by employing gas chromatography and mass spectrometry .
+A correlation between the level of dioxins in human milk and the age of the mothers was noted for the primiparas and the secundiparas ; and the levels were compared between the first and the second deliveries .
+Grouped by parity and prefecture in each year , observations were also made on the trends in these levels .
+Dioxin levels are shown by using geometric means because their distributions were skewed to the left .
+RESULTS The sum of PCDDs and PCDFs , Co-PCBs , mono-ortho PCBs , and total dioxins in the breast milk of primiparas were 13.9 , 5.4 , 3.4 , and 22.7 pg TEQ/g fat , respectively .
+In the samples obtained from secundiparas , these levels were 63-68 percents of those taken from the primiparas .
+The correlation coefficients between the PCDDs/DFs , Co-PCBs , mono-ortho PCBs , and total dioxins and the age of the primiparas were 0.19 , 0.17 , 0.36 , and 0.24 , respectively .
+All these correlations were statistically significant ( p < 0.001 ) .
+The positive correlations between these contaminants and the age of the secundiparas were also examined .
+The total dioxins as well as PCDDs/DFs , Co-PCBs , and mono-ortho PCBs in the breast milk of the primiparas declined significantly between 1998 and 2002 ( regression coefficients : -0.04 , -0.05 , -0.03 , and -0.03 , respectively ) .
+However , no significant decline in these levels was observed when sorted by prefectures .
+CONCLUSIONS Much attention should be paid to the age and parity of nursing mothers when investigating the relationship between the level of dioxins in breast milk and the body burden of infants .

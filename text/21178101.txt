@@ -1,0 +1,9 @@
+Dietary factors are believed to modulate arsenic toxicity , potentially influencing risk of arsenical skin lesions .
+The authors evaluated associations among dietary patterns , arsenic exposure , and skin lesion risk using baseline food frequency questionnaire data collected in the Health Effects of Arsenic Longitudinal Study ( HEALS ) in Araihazar , Bangladesh ( 2000-2009 ) .
+They identified dietary patterns and estimated dietary pattern scores using factor analysis .
+Scores were tested for association with incident skin lesion risk and interaction with water arsenic exposure by using \u223c6 years of follow-up data ( 814 events among 9,677 individuals ) and discrete time hazards models ( adjusting for key covariates ) .
+The authors identified 3 clear dietary patterns : the " gourd and root, " " vegetable, " and " animal protein " patterns .
+The gourd and root pattern score was inversely associated with skin lesion risk ( P(trend) = 0.001 ) , with hazard ratios of 0.86 , 0.73 , and 0.69 for the second , third , and fourth highest quartiles .
+Furthermore , the association between water arsenic and skin lesion incidence was stronger among participants with low gourd and root scores ( multiplicative P(interaction) < 0.001 ; additive P(interaction) = 0.05 ) .
+The vegetable pattern and animal protein pattern showed similar but weaker associations and interactions .
+Eating a diet rich in gourds and root vegetables and increasing dietary diversity may reduce arsenical skin lesion risk in Bangladesh .

@@ -1,0 +1,10 @@
+The concentrations of selected polychlorinated naphthalene ( PCN ) congeners ( PCNs 52 , 53 , 66/67 , 68 , 69 , 71/72 , 73 , 74 and 75 ) were determined in 100 commonly consumed foods , in the first study on occurrence of these contaminants in the Republic of Ireland .
+Congener selection was based on current knowledge on PCN occurrence and toxicology , and the availability of reliable reference standards .
+The determinations were carried out using validated analytical methodology based on 13C10 labelled internal standardisation and measurement by HRGC-HRMS .
+The results showed PCN occurrence in the majority of studied foods--milk , fish , dairy and meat products , eggs , animal fat , shellfish , offal , vegetables , cereal products , etc. ranging from 0.09 ng kg(-1) whole weight for milk to 59.3 ng kg(-1) whole weight for fish , for the sum of the measured PCNs .
+The most frequently detected congeners were PCNs 66/67 , PCN 52 , and PCN 73 .
+The highest concentrations were observed in fish , which generally showed congener profiles that reflect some commercial mixtures .
+The data compares well with other recently reported data for Western Europe .
+The dioxin-like toxicity ( PCN TEQ ) associated with these concentrations is lower than that reported for chlorinated dioxins or PCBs in food from Ireland .
+The dietary exposure of the Irish adult population to PCNs was calculated following a probabilistic approach , using the full dataset of occurrence and current consumption data .
+The estimates of dietary intakes at approximately 0.14 pg TEQ kg bw(-1) month(-1) for adults on an average diet , reflects the relatively lower occurrence levels .

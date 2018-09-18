@@ -1,0 +1,16 @@
+In 2001 , an outbreak of Mediterranean fruit fly in Adelaide was controlled by South Australian Government workers applying organophosphorus insecticides ( OPs ) to domestic gardens .
+Residents made claims of adverse effects associated with allegations that worker application practices were poor and led to contamination of homes , residents and pets .
+The concerns led to a Parliamentary enquiry , the suspension of OP applications for fruit fly control , and the investigation of alternative methods of combating fruit fly in metropolitan Adelaide .
+The extent of exposure of workers and residents was not estimated .
+This paper describes a simulated application of the OPs concerned ( fenthion and malathion ) with measurements of potential exposure through inhalation , dermal contact and deposition of pesticides on surfaces .
+The data were used as part of a toxicological risk assessment to determine the likely impact of the use of these insecticides .
+Malathion , used as a 1% suspension in a protein bait mixture , was found to have little potential for airborne exposure , although some workers were found to have up to 0.315 microg/cm(2) malathion deposited on overalls ( principally on forearms ) and over 500 microg deposited on liner gloves and hats , respectively .
+Risks to workers and residents were low , with exposures likely to be a small fraction of the acceptable daily intake .
+Fenthion , used as a 0.05% foliar cover spray , was found between 0.02 and 0.23 mg/m(3) in air 10 m downwind from spray activity and was unlikely to pose a significant risk to residents , since exposures were of short durations of up to 20 min .
+Personal air samples of spray workers averaged 0.55 mg/m(3) ( Workplace Exposure Standard 0.20mg/m(3) ) .
+Since workers were usually engaged in spraying for a large proportion of the day , this demonstrates the need for respiratory protective equipment .
+Maximum deposition of fenthion on workers overalls ranged from 0.06 to over 0.20 microg/cm(2) , although little was found on gloves and hats , suggesting workers were skilled in avoiding the plume of overspray .
+Dialkyl phosphates ( metabolites of OP insecticides ) were not detected in urine of workers , and there were no changes observed in serum cholinesterase ( SChE ) enzyme activities 24h following the simulation .
+These data suggest absorption of OP insecticides by workers was negligible .
+Deposition on surfaces 5 and 10 m downwind ranged from none detected to 145 microg/cm(2) , suggesting that exposure of residents and children in contact with contaminated surfaces ( such as garden furniture or play equipment ) is possible .
+Estimates of the potential dermal intake of fenthion by children from contaminated surfaces suggested that risks of acute and chronic effects are slight , since exposures may occur for short periods at intervals of approximately 10 days during fruit fly outbreaks .

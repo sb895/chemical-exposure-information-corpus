@@ -1,0 +1,6 @@
+The concentration levels of antimony , arsenic and mercury in human hair collected from Xikuangshan antimony mining area and Guiyang City were determined by hydride generation-atomic fluorescence spectrometry after having been digested by nitric acid and perchloric acid .
+The contents of Sb , As and Hg are 15.9 , 4.21 , 1.79 microg/g in the samples from Xikuangshan antimony mining area and 0.532 , 0.280 , 0.338 microg/g in the samples from Guiyang City respectively .
+The contents of Sb , As and Hg in human hair of Xikuangshan antimony area are much higher than those of Guiyang City .
+The independent-samples t-test shows that there are no marked differences in the contents of Sb and As between male and female hair samples from both Xikuangshan antimony mining area and Guiyang City ( p > 0.05 ) , while Hg contents in male hair are apparently higher than those in female hair from Guiyang City ( p < or = 0.05 ) .
+There is positive correlation observed between As and Sb , as well as between As and Hg , while Sb is weakly correlated with Hg ( p < or = 0.01 ) .
+These results show that the heavy metals ( Sb , As and Hg ) in antimony mining area may significantly affect human health than in the un-mining areas .

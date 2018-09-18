@@ -1,0 +1,22 @@
+During the study Relationships of Indoor , Outdoor , and Personal Air ( RIOPA* ) , 48-hour integrated indoor , outdoor , and personal air samples were collected between summer 1999 and spring 2001 in three different areas of the United States : Elizabeth NJ , Houston TX , and Los Angeles County CA .
+Air samples suitable for analyzing particulate matter 2.5 microm or smaller in aerodynamic diameter ( PM2.5 ) were collected in 219 homes ( twice in 169 homes ) .
+Indoor and outdoor air samples suitable for gas-phase and particle-phase organic analyses were collected in 152 homes ( twice in 132 homes ) .
+Samples or subsets of samples were analyzed for PM2.5 mass , organic functional groups , elements , organic carbon ( OC ) , elemental carbon ( EC ) , gas-phase and particle-phase polycyclic aromatic hydrocarbons ( PAHs ) , and chlordanes .
+Air exchange rate ( AER ) , temperature , and relative humidity were measured for each residence ; questionnaire data and time-activity information were collected from the participants .
+Median indoor , outdoor , and personal PM2.5 mass concentrations were 14.4 , 15.5 , and 31.4 microg/m3 , respectively .
+Personal PM2.5 concentrations were significantly higher and more variable than indoor and outdoor concentrations .
+Several approaches were applied to quantify indoor PM2.5 of ambient ( outdoor ) and nonambient ( indoor ) origin , some using PM2.5 mass concentrations and others using PM2.5 species concentrations .
+PM of outdoor origin was estimated in three ways using increasingly accurate assumptions .
+Comparing estimates from the three approaches enabled us to quantify several types of errors that may be introduced when central-site PM concentrations are used as surrogate estimates for PM exposure .
+Estimates made using individual measurements produced broader distributions and higher means than those made using a single infiltration factor for all homes and days .
+The best estimate ( produced by the robust regression approach ) of the mean contribution of outdoor PM2.5 to the indoor mass concentration was 73% and to personal exposure was 26% .
+Possible implications of exposure error for epidemiologic assessments of PM are discussed below .
+Organic particulate matter was the major constituent of PM2.5 generated indoors .
+After correcting for artifacts , it constituted 48% , 55% , and 61% of PM2.5 mass inside study homes in Los Angeles , Elizabeth , and Houston , respectively .
+At least 40% but probably closer to 75% of this organic matter , on average , was emitted or formed indoors .
+Functional group analysis provided some insights into the composition and properties of the indoor-generated organic PM2.5 .
+Chlordane , a very minor but mutagenic semivolatile organic mixture previously used as a termiticide , was found to be mostly of indoor origin .
+High emission rates were most frequently found in homes built from 1945 to 1959 .
+Analysis of the change in gas-particle partitioning during transport of outdoor PAHs to indoor environments illustrated that chemical thermodynamics can alter the concentration and composition of outdoor PM as it is transported indoors .
+( This has been previously noted for nitrate [ Lunden et al 2003]. )
+In epidemiologic studies that rely on central-site monitoring data , such transformations may result in measurement error , and this possibility warrants further investigation .

@@ -1,0 +1,12 @@
+In this study serum levels of bisphenol A ( BPA ) were investigated in primiparous women from Uppsala County , Sweden , sampled 3weeks after delivery 1996-2011 , in both yearly pools of serum ( n=39 , temporal trend study ) and in 208 individual samples also present in the pools .
+Possible contamination risks of BPA from blood sampling equipment and sample tubes , as well as from handling of the samples were evaluated .
+The unconjugated form of BPA was analyzed using a UPLC-MS/MS method with a limit of quantification ( LOQ ) of 0.2ng/ml .
+The results show that the levels of unconjugated BPA generally were <0.2ng/ml .
+The sampling equipment used when taking blood samples from the women and the tubes used for storage and processing of samples did not show any detectable BPA leakage .
+In the first analysis of the serum samples , unconjugated BPA levels \u22650.2ng/ml were found in 12% of the individual samples and in 21% of the trend samples .
+However , in reanalyses of individual serum samples from the same aliquot or from new aliquots , samples with BPA levels \u22650.2ng/ml in the first analysis did not have quantifiable BPA levels .
+Moreover , 11% of BPA spiked calibration samples ( over 200 ) had higher levels than could be explained by the random error of the method .
+Thus BPA contamination of the biobanked samples probably occurred randomly during sample handling , pooling and processing .
+Equipment used for sampling of children and repeated blood sampling were leaking BPA .
+The results show the difficulties in analyzing compounds where samples are easily contaminated from exogenous sources .
+It also points out that it is questionable to use biobanked samples unless absence of BPA contamination from the sampling and storage materials , and during handling of the samples , can be proven .

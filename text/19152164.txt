@@ -1,0 +1,7 @@
+As part of the University of Michigan Dioxin Exposure Study , the 29 congeners of polychlorinated dibenzo-p-dioxins , polychlorinated dibenzofurans , and dioxin-like polychlorinated biphenyls that have World Health Organization consensus toxic equivalency factors were measured in house dust from 764 homes using a population-based sampling design over selected regions in five Michigan counties .
+Twenty homes had a total toxic equivalency in house dust that was more than 2.5 standard deviations above the mean ( i.e. , defined to be outliers ) .
+This follow-up investigation describes the outlier house dust measurements and corresponding soil measurements and explores possible sources of these toxins in house dust .
+The congener distributions in the house dust outliers varied and were dominated ( i.e. , >50% of the total toxic equivalency ) by either polychlorinated dibenzo-p-dioxins ( n = 9 ) , polychlorinated dibenzofurans ( n = 1 ) , or dioxin-like polychlorinated biphenyls ( n = 9 ) .
+Likely sources of contamination of house dust were identified in only three cases .
+In two cases , dust contamination appeared to be related to contaminated soil adjacent to the home ; in one case , contamination was related to a source within the home ( a carpet pad ) .
+In most cases , the source(s) of contamination of house dust could not be identified but appeared likely to be related to uncharacterized sources within the homes .

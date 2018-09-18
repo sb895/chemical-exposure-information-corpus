@@ -1,0 +1,9 @@
+Urinary biomarkers of chlorpyrifos ( CPF ) exposure are often measured in field studies , although biological reference values ( BRVs ) are not yet available to assess health risks .
+This study aimed at proposing BRVs for CPF metabolites in workers ' urine based on a toxicokinetic approach .
+As a first step , a toxicokinetic model was developed , using published human kinetic data , to link the absorbed dose of CPF under a variety of exposure routes and temporal scenarios to the urinary excretion of its major metabolites , 3,5,6-trichloro-2-pyridinol ( 3,5,6-TCP ) and alkyl phosphates ( AP ) .
+The model was then used to propose BRVs for CPF metabolites in urine below which workers should not experience adverse health effects .
+This was achieved by linking ( 1 ) a literature-reported , repeated CPF no-observed-effect level ( NOEL ) daily exposure dose for the inhibition of red-blood-cell acetylcholinesterase activity to a corresponding absorbed daily dose , and ( 2 ) this absorbed daily dose to the urinary excretion of CPF metabolites .
+Model simulations under a variety of exposure scenarios showed that the safest BRVs are obtained from a dermal exposure scenario with the slowest absorption rate compatible with available literature data rather than from respiratory or oral exposure scenarios .
+Also , model simulations showed that , for a given total absorbed dose , absorption over 8 hours results in smaller 3,5,6-TCP and AP urinary excretion rates than those obtained from the same dose absorbed over shorter durations .
+From these considerations , BRVs were derived by simulating an 8-hour dermal CPF exposure such that the total absorbed daily dose corresponds to the absorbed NOEL .
+The reference values are proposed in the form of total amounts of 3,5,6-TCP and AP metabolites excreted in urine over chosen time periods ( 24 and 48 hours ) .

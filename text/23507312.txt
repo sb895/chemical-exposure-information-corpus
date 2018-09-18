@@ -1,0 +1,8 @@
+BACKGROUND Consumption of drinking water with high levels of inorganic arsenic ( over 500 \u03bcg/L ) has been associated with type II diabetes mellitus ( DM ) , but previous studies have been inconclusive about risks at lower levels ( <100 \u03bcg/L ) .
+We present a case-cohort study based on individual estimates of lifetime arsenic exposure to examine the relationship between chronic low-level arsenic exposure and risk of DM .
+METHODS This case-cohort study included 141 cases of DM diagnosed between 1984 and 1998 as part of the prospective San Luis Valley Diabetes Study .
+A comparison sub-cohort of 488 participants was randomly sampled from 936 eligible participants who were disease free at baseline .
+Individual lifetime arsenic exposure estimates were determined using a methodology that incorporates the use of a structured interview to determine lifetime residence and employment history , geospatial modeling of arsenic concentrations in drinking water , and urine arsenic concentrations .
+A Cox proportional hazards model with known DM risk factors as time-dependent covariates was used to assess the association between lifetime exposure to inorganic arsenic in drinking water and incident DM .
+RESULTS Our findings show a significant association between inorganic arsenic exposure and DM risk ( hazard ratio [ HR]=1.27 , 95%=1.01 , 1.59 per 15 \u03bcg/L ) while adjusting for ethnicity and time varying covariates age , body mass index and physical activity level .
+CONCLUSIONS Exposure to low-level inorganic arsenic in drinking water is associated with increased risk for type II DM in this population based on a comprehensive lifetime exposure assessment .

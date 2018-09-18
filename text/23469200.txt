@@ -1,0 +1,12 @@
+BACKGROUND This study estimates the potential health gains achievable in the United Arab Emirates ( UAE ) with improved controls on environmental pollution .
+The UAE is an emerging economy in which population health risks have shifted rapidly from infectious diseases to chronic conditions observed in developed nations .
+The UAE government commissioned this work as part of an environmental health strategic planning project intended to address this shift in the nature of the country's disease burden .
+METHODS AND FINDINGS We assessed the burden of disease attributable to six environmental exposure routes outdoor air , indoor air , drinking water , coastal water , occupational environments , and climate change .
+For every exposure route , we integrated UAE environmental monitoring and public health data in a spatially resolved Monte Carlo simulation model to estimate the annual disease burden attributable to selected pollutants .
+The assessment included the entire UAE population ( 4.5 million for the year of analysis ) .
+The study found that outdoor air pollution was the leading contributor to mortality , with 651 attributable deaths ( 95% confidence interval [ CI ] 143-1,440 ) , or 7.3% of all deaths .
+Indoor air pollution and occupational exposures were the second and third leading contributors to mortality , with 153 ( 95% CI 85-216 ) and 46 attributable deaths ( 95% CI 26-72 ) , respectively .
+The leading contributor to health-care facility visits was drinking water pollution , to which 46,600 ( 95% CI 15,300-61,400 ) health-care facility visits were attributed ( about 15% of the visits for all the diseases considered in this study ) .
+Major study limitations included ( 1 ) a lack of information needed to translate health-care facility visits to quality-adjusted-life-year estimates and ( 2 ) insufficient spatial coverage of environmental data .
+CONCLUSIONS Based on international comparisons , the UAE's environmental disease burden is low for all factors except outdoor air pollution .
+From a public health perspective , reducing pollutant emissions to outdoor air should be a high priority for the UAE's environmental agencies .

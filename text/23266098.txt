@@ -1,0 +1,12 @@
+BACKGROUND Perfluorinated compounds ( PFCs ) are man-made chemicals that are heat stable , non-flammable and able to repel both water and oils .
+Biomonitoring research shows global distribution in human , animal and aquatic environments of these chemicals .
+PFCs have been shown to activate the peroxisome proliferator-activated receptors which play a large role in metabolism and the regulation of energy homeostasis .
+Previous epidemiological research has also suggested a potential role of PFCs on lipid and glucose metabolism .
+OBJECTIVES The objectives of this study were to examine the association between the levels of perfluorinated compounds perfluorooctane sulfonate ( PFOS ) , perfluorooctanoic acid ( PFOA ) , and perfluorohexane sulfonate ( PFHxS ) in plasma and metabolic function and plasma lipid levels .
+METHODS Using cross-sectional data from the Canadian Health Measures Survey ( Cycle 1 2007-2009 ) we examined the association in adults between plasma levels of PFOA , PFOS and PFHxS ( n=2700 ) on cholesterol outcomes , metabolic syndrome and glucose homeostasis using multivariate linear and logistic regression models .
+RESULTS We found some evidence of a significant association between perfluoroalkyl substances , notably PFHxS , with total cholesterol ( TC ) , low-density lipoprotein cholesterol ( LDL ) , total cholesterol/high density lipoprotein cholesterol ratio ( TC/HDL ) and non-HDL cholesterol as well as an elevated odds of high cholesterol .
+We found some associations with PFOA and PFOS in our unweighted models but these results did not remain significant after weighting for sampling strategy .
+We found no association with metabolic syndrome , or glucose homeostasis parameters .
+CONCLUSIONS This study showed lower levels of PFOA and PFOS and slightly higher levels of PFHxS than other published population studies .
+Our results did not give significant evidence to support the association with cholesterol outcomes with PFOS and PFOA .
+However , we did observe several significant associations with the PFHxS and cholesterol outcomes ( LDL , TC , NON-HDL , TC/HDL ratio ) .

@@ -1,0 +1,15 @@
+BACKGROUND The oral effect of chronic low-level mercury exposure is not completely understood .
+This study examined whether mercury exposure is associated with periodontitis .
+METHODS This study cross-sectionally surveyed 1,328 residents ( 598 males and 730 females ) from the prospective Shiwha and Banwol cohort in Korea from July 2005 to August 2006 at baseline .
+Two dentists assessed periodontitis , an outcome , using the Community Periodontal Index ( CPI ) : CPI 3 or 4 and CPI 0 to 2 were classified as periodontitis and non-periodontitis , respectively .
+The hair mercury level , the predictor , was analyzed .
+The mercury level was categorized according to the reference dose of the Environmental Protection Agency of the United States : normal = <1 ppm and high = > or =1 ppm .
+Age , gender , economic status , smoking , frequency of daily toothbrushing , diabetes mellitus , hyperlipidemia , and obesity were assessed as confounders .
+Logistic regression analysis was used to evaluate the adjusted association .
+Subgroup analyses for gender were also performed .
+RESULTS Mercury exposure was independently associated with periodontitis ( odds ratio = 3.17 ) .
+Males with high mercury levels had a 50.0% higher probability of having periodontitis than females with normal mercury levels .
+Of them , the interaction effect between the body burden of mercury and gender was 39.0% .
+The odds ratio between periodontitis and high mercury levels was higher for males than females ( 95% confidence interval : 0.99 to 2.23 versus 0.59 to 1.26 , respectively ) .
+CONCLUSIONS These results suggest that mercury exposure had an independent association with periodontitis .
+High body-burden mercury in males might be a contributory factor linked with periodontitis .

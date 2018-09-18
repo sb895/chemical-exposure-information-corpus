@@ -1,0 +1,8 @@
+Polychlorinated dibenzo-p-dioxins/furans ( PCDD/Fs ) and dioxin-like polychlorinated biphenyls ( DL-PCBs ) were measured by high resolution gas chromatograph/high resolution mass spectrometer ( HRGC/HRMS ) in six food groups from Luqiao ( LQ ) where the e-waste has been recycled and from Yuhang ( YH ) where the agriculture dominates in Zhejiang Province in China .
+The total WHO-TEQ values of PCDD/Fs and DL-PCBs in selected foods from LQ were significantly much higher than those from YH .
+The highest level of the total WHO-TEQ was in crucian carp ( 10.87 pg g(-1) w.w. ) followed by duck ( 3.77 pg g(-1) w.w. ) , hen eggs ( 2.80 pg g(-1) w.w. ) , chicken ( 2.43 pg g(-1) w.w. ) , rice ( 0.08 pg g(-1) w.w. ) and vegetables ( 0.022 pg g(-1) w.w. ) in LQ .
+By contrast , the highest levels were measured in duck ( 0.74 pg g(-1) w.w. ) followed by hen eggs ( 0.69 pg g(-1) w.w. ) , crucian carp ( 0.55 pg g(-1) w.w. ) , chicken ( 0.44 pg g(-1) w.w. ) , vegetables ( 0.002 pg g(-1) w.w. ) and rice ( 0.0002 pg g(-1) w.w. ) in YH , respectively .
+The monthly intake of PCDD/Fs and DL-PCBs for the local residents was 401.75 pg WHO-TEQ g(-1) w.w. in LQ , which is above the provisional tolerable monthly intake ( PTMI ) set by the Joint FAO/WHO Expert Committee on Food Additives ( JECFA ) .
+We determined a monthly intake of 37.13 pg WHO-TEQ g(-1)w.w. in YH , which is below the PTMI .
+Crucian carp was the predominant contributor to the estimated monthly intake ( EMI ) , accounting for 67.74% and 36.51% in LQ and YH , respectively .
+High levels of PCDD/Fs and DL-PCBs in selected foods indicate severe contamination of these pollutants in the e-waste recycling site .

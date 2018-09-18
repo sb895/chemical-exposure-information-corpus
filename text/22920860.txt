@@ -1,0 +1,8 @@
+Reliable exposure-based chemical characterization tools are needed to evaluate and prioritize in a rapid and efficient manner the more than tens of thousands of chemicals in current use .
+This study applies intake fraction ( iF ) , the integrated incremental intake of a chemical per unit of emission , for a suite of indoor released compounds .
+A fugacity-based indoor mass-balance model was used to simulate the fate and transport of chemicals for three release scenarios : direct emissions to room air and surface applications to carpet and vinyl .
+Exposure through inhalation , dermal uptake , and nondietary ingestion was estimated .
+To compute iF , cumulative intake was summed from all exposure pathways for 20 years based on a scenario with two adults and a 1-year-old child who ages through the simulation .
+Overall iFs vary by application modes : air release ( 3.1 × 10(-3) to 6.3 × 10(-3) ) , carpet application ( 3.8 × 10(-5) to 6.2 × 10(-3) ) , and vinyl application ( 9.0 × 10(-5) to 1.8 × 10(-2) ) .
+These iF values serve as initial estimates that offer important insights on variations among chemicals and the potential relative contribution of each pathway over a suite of compounds .
+The approach from this study is intended for exposure-based prioritization of chemicals released inside homes .

@@ -1,0 +1,8 @@
+OBJECTIVE We sought to study the concentrations of certain persistent organic pollutants with endocrine-disrupting properties in cases with prostate cancer and controls with benign prostate hyperplasia .
+METHODS Adipose tissue was obtained from 58 cases and 20 controls .
+RESULTS The median concentration among controls was used as cut-off in the statistical analysis .
+In the total material , a greater-than median concentration of PCB congener 153 yielded an odds ratio ( OR ) of 3.15 and 95% confidence interval ( CI ) of 1.04-9.54 and one chlordane type , trans-chlordane , yielded OR 3.49 ( 95% CI = 1.08-11.2 ) .
+In the group of case subjects with PSA levels greater than the median level of 16.5 ng/mL , PCB 153 was OR 30.3 ( 95% CI = 3.24-284 ) , hexachlorobenzene OR = 9.84 ( 95% CI = 1.99-48.5 ) , trans-chlordane OR = 11.0 ( 95% CI = 1.87-64.9 ) , and the chlordane-type MC6 OR = 7.58 ( 95% CI = 1.65-34.9 ) .
+The grouping of PCBs according to structural and biological activity was found to produce significantly increased risks for enzyme and phenobarbital-inducing PCBs and lower chlorinated PCBs in the case group with PSA levels greater than 16.5 ng/mL .
+CONCLUSIONS These chemicals might be of etiologic significance but need to be further investigated .
+The biological relevance of the arbitrary cut-off point of PSA is unclear .

@@ -1,0 +1,11 @@
+Polybrominated dibenzo-p-dioxins and dibenzofurans ( PBDD/Fs ) were analyzed in both human adipose tissue and plasma from nine individuals , from the Swedish general population , using high resolution gas chromatography/high resolution mass spectrometry ( HRGC/HRMS ) .
+In addition , several other persistent organic pollutants ( POPs ) were determined in the same samples , including polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) , polychlorinated biphenyls ( PCBs ) , polybrominated diphenyl ethers ( PBDEs ) and perfluorinated chemicals ( PFCs ) .
+Polybrominated dibenzofurans were detected in all of the human adipose tissue samples confirming their presence in the Swedish population .
+The highest concentration was found for 2,3,7,8-TeBDF , ranging from 0.27 to 2.4 pg g(-1) lipid , followed by 1,2,3,7,8-PeBDF , 0.23-0.89pgg(-1) lipid , 2,3,4,7,8-PeBDF , 0.44-0.54 pg g(-1) lipid , and 2,7/2,8-DiBDF , 0.19-0.30 pg g(-1) lipid .
+No PBDDs could be detected above the limit of detection ( <0.02-<0.21 pg g(-1) lipid ) in any of the samples .
+The levels of PCDD/Fs were in the range 1.79-31.5pg toxic equivalents ( TEQ)g(-1 ) lipid , and PBDEs were found in the 1.16-7.46 ng g(-1) lipid range .
+The measured chlorinated dioxins indicate decreasing human concentrations in Sweden .
+The toxicity equivalents ( TEQ ) for PBDD/Fs ( 0.2-0.8 pg TEQg(-1) lipid ) were found to contribute 1-15% of the total dioxin TEQ of the chlorinated dioxins and furans ( 5-18 pg TEQg(-1) lipid ) depending on the individual .
+Also PBDEs concentrations are decreasing compared to 1997-2000 , but most noteworthy a shift in BDE pattern where BDE#47 is surpassed by BDE#153 .
+The levels of PFCs are in the same range as the highest levels of the traditional POPs ( sum of 60 PCBs ) based on volume .
+These findings illustrate the importance of continuous monitoring of brominated compounds in both human and the environment .

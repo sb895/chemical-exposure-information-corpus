@@ -1,0 +1,9 @@
+UNLABELLED Children may be at particular risk from toxic effects of mercury ( Hg ) .
+Previous studies of hair ( organic ) and urine ( inorganic ) Hg levels in US children were unable to assess Hg levels while accounting for exposure to amalgam dental restorations .
+This analysis describes , over a 5-year period , levels and correlates/predictors of scalp hair ( H-Hg ) and urinary ( U-Hg ) mercury in 534 New England Children's Amalgam Trial ( NECAT ) participants , aged 6-10 years and without exposure to dental amalgam at baseline .
+RESULTS Mean H-Hg levels were between 0.3 and 0.4 microg/g over 5 years. 17-29% of children had H-Hg levels > or = 0.5 microg/g , and 5.0 to 8.5% of children had levels > or = 1 microg/g , in any given study year .
+In adjusted models , fish consumption frequency was the most robust predictor of high H-Hg .
+U-Hg mean levels were between 0.7 and 0.9 microg/g creatinine over two years .
+The percentage of those with U-Hg > or 2.3 microg/g creatinine ranged from 4% to 6% .
+Number of amalgam restorations had a significant dose-response relationship with U-Hg level .
+Daily gum chewing in the presence of amalgam was associated with high U-Hg .

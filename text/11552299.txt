@@ -1,0 +1,10 @@
+Measurement of blood dioxin levels to monitor human exposure is tedious and expensive work , although high-resolution mass spectrometers equipped with high-resolution gas chromatography are becoming relatively common in Japan .
+The Ministry of Health and Welfare and the Environmental Agency require measurement of 17 dioxins , seven PCDDs and 10 PCDFs , according to a statement in " Dioxin Measurement Guidelines " published in 1997 .
+Additionally , three coplanar polychlorinated biphenyls , for which TEFs were determined , have been included for measurement ad libitum .
+Recently , we have examined 316 blood samples from four groups of subjects , living in areas 5 km away from any incinerator ( A ) , within 2 km from incinerators that emitted slightly higher levels of dioxins than the allowed level ( higher than 80 ng/Nm3 ) ( B ) , within 2 km of an incinerator which emitted a high level of dioxin ( C ) , and workers at this incinerator ( D ) , for dioxin levels by measuring 20 congeners , including three coplanar PCBs .
+The average pg TEQ/g lipid values were 23.8 +/- 12.3 , 25.6 +/- 11.6 , 39.1 +/- 18.8 and 100.7 +/- 127.4 for A , B , C and D , respectively .
+It was found that more than 90% of the total TEQs of the subjects in all groups were accounted for by eight congeners , 2,3,7,8-TCDD , 1,2,3,7,8-PeCDD , 1,2,3,6,7,8-HxCDD , 2,3,4,7,8-PeCDF , 3,3',4,4',5-PeCB , 1,2,3,4,7,8-HxCDF , 1,2,3,6,7,8-HxCDF and 2,3,4,6,7,8-HxCDF .
+This is also the case for a further 30 blood samples that had no connection with incinerators .
+Further , regression analysis of the 346 samples leads to an equation of y = 1.109x - 1.077 , with a correlation coefficient , r = 0.9996 .
+Here , y = total pg TEQ of 20 congeners/g lipid of blood , and x = total pg TEQs of eight congeners/g lipid .
+Accordingly , we propose that measurement of eight instead of 20 congeners is appropriate to obtain dioxin TEQ values of blood , at low cost , with high accuracy and with high efficiency , in a short time .

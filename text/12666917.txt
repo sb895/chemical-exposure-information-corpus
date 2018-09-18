@@ -1,0 +1,10 @@
+Perfluorooctanesulfonate ( PFOS , CaF17SO3- ) has been identified in the serum of nonoccupationally exposed humans and in serum and liver tissue in wildlife .
+The purpose of this investigation was to determine whether PFOS liver concentrations in humans are comparable to the approximate 30 ng/mL average serum concentrations reported in nonoccupationally exposed subjects .
+Thirty-one donors ( 16 male and 15 female , age range 5-74 ) provided serum and/or liver samples for analysis of PFOS and three other fluorochemicals : perfluorosulfonamide ( PFOSA , C8F17SO2NH2 ) , perfluorooctanoate ( PFOA , C7F15CO2- ) , and perfluorohexanesulfonate ( PFHxS , C6F13SO3- ) .
+Both sera and liver samples were extracted by ion-pair extraction and quantitatively assayed using high-performance liquid chromatography electrospray tandem mass spectrometry .
+Liver PFOS concentrations ranged from <4.5 ng/g ( limit of quantitation , LOQ)to 57.0 ng/g .
+Serum PFOS concentrations ranged from <6.1 ng/mL ( LOQ ) to 58.3 ng/mL .
+Among the 23 paired samples , the mean liver to serum ratio was 1.3:1 ( 95% confidence interval 0.9:1-1.7:1 ) .
+This liver to serum ratio is comparable to that reported in a toxicological study of cynomolgus monkeys , which had liver and serum concentrations 2-3 orders of magnitude higher than observed in these human donors .
+This information may be useful in human risk characterization for PFOS .
+Liver to serum ratios were not estimated for PFOA , PFHxS , and PFOSA as 90% of the human donor liver samples were determined to be less than the LOQ .

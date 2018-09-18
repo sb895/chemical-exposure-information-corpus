@@ -1,0 +1,12 @@
+Many studies nowadays make the effort of determining personal exposure rather than estimating exposure at the residential address only .
+While intra-urban air pollution can be modeled quite easily using interpolation methods , estimating exposure in transport is more challenging .
+The aim of this study is to investigate which factors determine black carbon ( BC ) concentrations in transport microenvironments .
+Therefore personal exposure measurements are carried out using portable aethalometers , trip diaries and GPS devices .
+More than 1500 trips , both by active modes and by motorized transport , are evaluated in Flanders , Belgium .
+GPS coordinates are assigned to road segments to allow BC concentrations to be linked with trip and road characteristics ( trip duration , degree of urbanization , road type , traffic intensity , travel speed and road speed ) .
+Average BC concentrations on highways ( 10.7\u03bcg/m(3) ) are comparable to concentrations on urban roads ( 9.6\u03bcg/m(3) ) , but levels are significantly higher than concentrations on rural roads ( 6.1\u03bcg/m(3) ) .
+Highways yield higher BC exposures for motorists compared to exposure on major roads and local roads .
+Overall BC concentrations are elevated at lower speeds ( <30km/h ) and at speeds above 80km/h , in accordance to vehicle emission functions .
+Driving on roads with low traffic intensities resulted in lower exposures than driving on roads with higher traffic intensities ( from 5.6\u03bcg/m(3) for roads with less than 500veh/h , up to 12\u03bcg/m(3) for roads with over 2500veh/h ) .
+Traffic intensity proved to be the major explanatory variable for in-vehicle BC exposure , together with timing of the trip and urbanization .
+For cyclists and pedestrians the range in BC exposure is smaller and models are less predictive ; for active modes exposure seems to be influenced by timing and degree of urbanization only .

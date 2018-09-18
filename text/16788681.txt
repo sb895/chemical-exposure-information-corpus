@@ -1,0 +1,9 @@
+In pesticide biomonitoring studies , researchers typically collect either single voids or daily ( 24-h ) urine samples .
+Collection of 24-h urine samples is considered the " gold-standard " , but this method places a high burden on study volunteers , requires greater resources , and may result in misclassification of exposure or underestimation of dose due to noncompliance with urine collection protocols .
+To evaluate the potential measurement error introduced by single void samples , we present an analysis of exposure and dose for two commonly used pesticides based on single morning void ( MV ) and 24-h urine collections in farmers and farm children .
+The agreement between the MV concentration and its corresponding 24-h concentration was analyzed using simple graphical and statistical techniques and risk assessment methodology .
+A consistent bias towards overprediction of pesticide concentration was found among the MVs , likely in large part due to the pharmacokinetic time course of the analytes in urine .
+These results suggest that the use of single voids can either over- or under-estimate daily exposure if recent pesticide applications have occurred .
+This held true for both farmers as well as farm children , who were not directly exposed to the applications .
+As a result , single void samples influenced the number of children exposed to chlorpyrifos whose daily dose estimates were above levels of toxicologic significance .
+In populations where fluctuations in pesticide exposure are expected ( e.g. , farm families ) , the pharmacokinetics of the pesticide and the timing of exposure events and urine collection must be understood when relying on single voids as a surrogate for longer time-frames of exposure .

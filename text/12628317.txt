@@ -1,0 +1,8 @@
+The interrelations of the seven elements , calcium ( Ca ) , magnesium ( Mg ) , sodium ( Na ) , potassium ( K ) , phosphorus ( P ) , copper ( Cu ) , zinc ( Zn ) , and cadmium ( Cd ) in human breast milk were examined in Japanese mothers to clarify the effects of Cd exposure on these important elements for infant growth .
+Breast milk and urine samples were obtained from 68 mothers , aged 19-38 years , at 5-8 days postpartum .
+The concentrations were determined by inductively-coupled plasma atomic emission spectrometry for Ca , Mg , Na , K , P , by flame atomic absorption spectrophotometry for Cu and Zn , and by flameless atomic absorption spectrophotometry for Cd .
+Geometrical mean Cd concentrations were 0.28 ( geometrical standard deviation=1.82 ) microg/l in breast milk and 1.00 ( 1.93 ) microg/g creatinine in urine .
+Among the above elements only Cd concentration in breast milk was significantly correlated with urinary Cd concentration ( r=0.451 , P<0.001 ) .
+Significant positive correlations were found between Cu and Ca ( r=0.500 , P<0.001 ) , Cu and Mg ( r=0.378 , P<0.01 ) , and Zn and Mg ( r=0.355 , P<0.01 ) in breast milk .
+Cd concentration in breast milk showed an inverse relationship with Ca concentration in breast milk ( r=-0.248 , P<0.05 ) .
+These results indicate that the Cd concentration in breast milk closely reflects Cd body burden , with increased Cd in breast milk possibly affecting Ca secretion in breast milk .

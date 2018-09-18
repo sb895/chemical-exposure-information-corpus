@@ -1,0 +1,9 @@
+China is one of the countries with the highest ambient particle levels in the world ; however , there have been no epidemiologic studies examining the effects of fine particle ( PM2.5 ) , coarse particle ( PM10-2.5 ) and black carbon ( BC ) simultaneously on morbidity outcomes .
+In this study , we conducted a time-series analysis to evaluate the acute effects of PM2.5 , PM10-2.5 , and BC on daily hospital visits in Shanghai , China .
+During our study period , the mean daily concentrations of PM2.5 , PM10-2.5 and BC were 53.9 \u03bcg/m(3) , 38.4 \u03bcg/m(3) and 3.9 \u03bcg/m(3) , respectively .
+We found significant associations of PM2.5 , PM 10-2.5 , and BC with daily hospital visits .
+An inter-quartile range increase of the average concentrations of the current and previous days in PM2.5 , PM10-2.5 and BC was associated with a 1.88% ( 95% CI : 0.69% to 3.06% ) , a 1.30% ( 95% CI : 0.25% to 2.34% ) and a 1.33% ( 95% CI : 0.34% to 2.32% ) increase in emergency-room visits , respectively .
+For outpatient visits , the corresponding estimated changes were -2.44% ( 95% CI : -6.62% to 1.74% ) , 1.09% ( 95% CI : -2.72% to 4.90% ) and 3.34% ( 95% CI : 0.10% to 6.57% ) respectively .
+The effects of BC were more robust than the effects of PM2.5 and PM10-2.5 in two-pollutant models .
+To our knowledge , this is the first study in China , or even in Asian developing countries , to report the effect of PM2.5 , PM10-2.5 , and BC simultaneously on morbidity .
+Our findings also suggest that BC could serve as a valuable air quality indicator that reflects the health risks of airborne particles .

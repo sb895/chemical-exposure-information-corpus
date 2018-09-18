@@ -1,0 +1,12 @@
+The purpose of this work was to study the effects of high environmental exposure to polychlorinated biphenyls ( PCBs ) and other organochlorines on the thyroid .
+Thyroid volume , hypoechogenicity and nodules ( by ultrasound ) , presence of antithyroid peroxidase ( anti-TPO ) antibodies , and abnormal thyroid-stimulating hormone ( TSH ) levels in serum ( by radioimmunoassay ) were examined in 101 adults from the PCB-polluted area in 360 controls .
+Serum levels of PCBs , hexachlorobenzene , gamma-hexachlorocyclohexane ( HCH ) , p,p'-DDT(1,1,1-trichloro-2,2'-bis(p-chlorophenyl)ethane) , and p,p'-DDE(1,1-dichloro-2,2'-bis(p-chlorophenyl)ethene) were measured by high-resolution gas chromatography .
+Very high levels of PCBs were found in the polluted area ( 7300 +/- 871 ng/g lipids ) compared with controls ( 2045 +/- 147 ng/g ) .
+Positive correlations ( P < 0.001 ) were found between the levels of all organochlorines and their total except for hexachlorocyclohexane ( HCH ) .
+In the polluted area , the highest thyroid volumes ( 18.7 +/- 2.32 mL ; mean +/- SE ) were clustered among 23 subjects ( 17 males and six females ) with PCB levels above 10,000 ng/g ( range 10,000-58,667 ng/g ) .
+In the remaining 438 subjects the thyroid volume was 14.2 +/- 0.29 mL .
+These data suggest that there might be a threshold serum PCB level of approximately 10,000 ng/g that may influence the thyroid volume .
+A two-way ANOVA showed that all thyroid volumes in the polluted area were significantly higher ( P < 0.001 ) than in the control area .
+In males from the polluted area , the frequencies of thyroid hypoechogenicity , thyroid nodules , positive anti-TPO , and abnormal TSH level were higher than in males from the control area , whereas such differences were not observed in females .
+Increased thyroid volume and indicators of potential thyroid dysfunction were associated with long-term environmental exposure to PCBs .
+These effects on the thyroid were confined to subjects with PCB levels above 10,000 ng/g of lipid ( thyroid volume ) and to males from the polluted area ( thyroid hypoechogenicity , thyroid nodules , positive anti-TPO , and abnormal TSH ) .

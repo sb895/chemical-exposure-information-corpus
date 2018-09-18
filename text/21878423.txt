@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) are a class of persistent compounds that have been used as flame retardants in vehicles , household furnishings , and consumer electronics .
+This study examined whether concentrations of PBDEs in maternal serum during pregnancy were associated with infant birth weight , length , head circumference , and length of gestation .
+Participants were pregnant women ( n = 286 ) enrolled in the Center for the Health Assessment of Mothers and Children of Salinas ( CHAMACOS ) Study , a longitudinal cohort study of low-income , predominantly Mexican families living in the Salinas Valley , California .
+Blood samples were collected near the 26th week of pregnancy in 1999-2000 , and concentrations of 10 PBDE congeners ( BDE-17 , -28 , -47 , -66 , -85 , -99 , -100 , -153 , -154 , and -183 ) were measured .
+Multiple linear regression models were used to investigate the association of lipid-adjusted , log(10)-transformed PBDE concentrations and birth outcome .
+In adjusted analyses , negative associations with birth weight were seen with BDE-47 ( \u03b2 = -115 g , 95% confidence interval ( CI ) : -229 , -2 ) , BDE-99 ( \u03b2 = -114 g , 95% CI : -225 , -4 ) , and BDE-100 ( \u03b2 = -122 g , 95% CI : -235 , -9 ) .
+These findings were diminished slightly and were no longer statistically significant when maternal weight gain was included in the models .
+PBDE congeners were not associated with birth length , head circumference , or gestational duration .

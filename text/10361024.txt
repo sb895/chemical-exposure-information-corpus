@@ -1,0 +1,7 @@
+Hettstedt , a city in eastern Germany with a long history of mining and smelting of nonferrous ores , has several industrial sources of heavy metals .
+The indoor exposure to metals of children ( 5 to 14 years old ) in the Hettstedt area was assessed by measuring the levels of lead , cadmium , and arsenic contamination in sedimented house dust .
+Factors which influence the dust loading rate and the surface loading rates of these contaminants in house dust were investigated .
+The geometric mean of the dust loading rate was 8.9 mg/m2 day .
+The geometric means of surface loading rates were 1.14 , 0. 024 , and 0.023 microg/m2 day for lead , cadmium , and arsenic , respectively .
+Factors that were significantly associated with surface loading rates included the city area of residence , automobile traffic near home , parent with occupational exposure to heavy metals , type of heating , housing characteristics , whether child's home is damp , number of persons living in the child's home , and parents ' education .
+The most significant of these factors was the city area of residence , which reflects the distance from the metal sources ; this factor accounted for about half of the variances explained by the regression models .

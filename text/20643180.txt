@@ -1,0 +1,9 @@
+The present study was conducted in Kohistan region , where mafic and ultramafic rocks ( Kohistan island arc and Indus suture zone ) and metasedimentary rocks ( Indian plate ) are exposed .
+Water samples were collected from the springs , streams and Indus river and analyzed for physical parameters , anions , cations and arsenic ( As(3+) , As(5+) and arsenic total ) .
+The water quality in Kohistan region was evaluated by comparing the physio-chemical parameters with permissible limits set by Pakistan environmental protection agency and world health organization .
+Most of the studied parameters were found within their respective permissible limits .
+However in some samples , the iron and arsenic concentrations exceeded their permissible limits .
+For health risk assessment of arsenic , the average daily dose , hazards quotient ( HQ ) and cancer risk were calculated by using statistical formulas .
+The values of HQ were found >1 in the samples collected from Jabba , Dubair , while HQ values were <1 in rest of the samples .
+This level of contamination should have low chronic risk and medium cancer risk when compared with US EPA guidelines .
+Furthermore , the inter-dependence of physio-chemical parameters and pollution load was also calculated by using multivariate statistical techniques like one-way ANOVA , correlation analysis , regression analysis , cluster analysis and principle component analysis .

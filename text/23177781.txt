@@ -1,0 +1,10 @@
+Preterm birth is one of the leading causes of perinatal mortality and is associated with long-term adverse health consequences for surviving infants .
+Preterm birth rates are rising worldwide , and no effective means for prevention currently exists .
+Air pollution exposure may be a significant cause of prematurity , but many published studies lack the individual , clinical data needed to elucidate possible biological mechanisms mediating these epidemiological associations .
+This paper presents the design of a prospective study now underway to evaluate those mechanisms in a cohort of pregnant women residing in Mexico City .
+We address how air quality may act together with other factors to induce systemic inflammation and influence the duration of pregnancy .
+Data collection includes : biomarkers relevant to inflammation in cervico-vaginal exudate and peripheral blood , along with full clinical information , pro-inflammatory cytokine gene polymorphisms and air pollution data to evaluate spatial and temporal variability in air pollution exposure .
+Samples are collected on a monthly basis and participants are followed for the duration of pregnancy .
+The data will be used to evaluate whether ambient air pollution is associated with preterm birth , controlling for other risk factors .
+We will evaluate which time windows during pregnancy are most influential in the air pollution and preterm birth association .
+In addition , the epidemiological study will be complemented with a parallel toxicology invitro study , in which monocytic cells will be exposed to air particle samples to evaluate the expression of biomarkers of inflammation .

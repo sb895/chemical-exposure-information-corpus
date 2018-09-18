@@ -1,0 +1,8 @@
+Chronic exposure to high levels of arsenic in drinking water is associated with increased risk of type 2 diabetes mellitus ( T2DM ) , but the association between lower levels of arsenic and T2DM is more controversial .
+Therefore , this study evaluated the association between low to moderate arsenic exposure and T2DM .
+In 2009-2011 , we conducted a study of 957 Bangladeshi adults who participated in a case-control study of skin lesions in 2001-2003 .
+The odds ratio of T2DM was evaluated in relationship to arsenic exposure measured in drinking water and in subjects ' toenails ( in 2001-2003 ) prior to the diagnosis of T2DM ( in 2009-2011 ) .
+Compared with those exposed to the lowest quartile of arsenic in water ( \u2264 1.7 µg/L ) , the adjusted odds ratio for T2DM was 1.92 ( 95% confidence interval ( CI ) : 0.82 , 4.35 ) for those in the second quartile , 3.07 ( 95% CI : 1.38 , 6.85 ) for those in the third quartile , and 4.51 ( 95% CI : 2.01 , 10.09 ) for those in the fourth quartile .
+The relative excess risk of T2DM was 4.78 for individuals who smoked and 8.93 for people who had a body mass index ( weight ( kg)/height ( m)(2) ) greater than 25 .
+These findings suggest that exposure to modest levels of arsenic in drinking water was associated with increased risk of T2DM in Bangladesh .
+Being overweight or smoking was also associated with increased risk of T2DM .

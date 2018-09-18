@@ -1,0 +1,10 @@
+Occupational and toxicological studies have demonstrated adverse health effects from exposure to toxic air contaminants .
+Data on outdoor levels of toxic air contaminants have not been available for most communities in the United States , making it difficult to assess the potential for adverse human health effects from general population exposures .
+Emissions data from stationary and mobile sources are used in an atmospheric dispersion model to estimate outdoor concentrations of 148 toxic air contaminants for each of the 60,803 census tracts in the contiguous United States for 1990 .
+Outdoor concentrations of air toxics were compared to previously defined benchmark concentrations for cancer and noncancer health effects .
+Benchmark concentrations are based on standard toxicological references and represent air toxic levels above which health risks may occur .
+The number of benchmark concentrations exceeded by modeled concentrations ranged from 8 to 32 per census tract , with a mean of 14 .
+Estimated concentrations of benzene , formaldehyde , and 1,3-butadiene were greater than cancer benchmark concentrations in over 90% of the census tracts .
+Approximately 10% of all census tracts had estimated concentrations of one or more carcinogenic HAPs greater than a 1-in-10,000 risk level .
+Twenty-two pollutants with chronic toxicity benchmark concentrations had modeled concentrations in excess of these benchmarks , and approximately 200 census tracts had a modeled concentration 100 times the benchmark for at least one of these pollutants .
+This comprehensive assessment of air toxics concentrations across the United States indicates hazardous air pollutants may pose a potential public health problem .

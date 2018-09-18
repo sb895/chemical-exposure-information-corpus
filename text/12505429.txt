@@ -1,0 +1,12 @@
+The association between long-term arsenic exposure and peripheral vascular disease has been well documented in our previous epidemiologic studies .
+The purpose of this study was to evaluate whether long-term arsenic exposure could be associated with ischemic heart disease ( IHD ) .
+A total of 462 subjects living in the blackfoot disease-hyperendemic villages along the southwestern coast of Taiwan and characterized by long-term arsenic exposure from drinking artesian well water was studied .
+The subjects were recruited from an epidemiologic cohort who participated in a health examination .
+IHD was diagnosed by coding the resting electrocardiograms with the Minnesota code .
+History of arsenic exposure was estimated through information obtained from a personal interview according to a structured questionnaire and the arsenic content in artesian well water of the villages .
+Cumulative arsenic exposure ( CAE ) was calculated as the sum of the products multiplying the arsenic concentration in artesian well water ( mg/l ) by the duration of drinking the water ( years ) in consecutive periods of living in the different villages .
+Among the subjects , 78 cases ( 16.9% ) were diagnosed as having IHD .
+The prevalence rates of IHD for the age groups of 30-39 , 40-49 , 50-59 , and >/=60 years were 4.9 , 7.5 , 16.8 , and 30.7% , respectively ( P<0.001 ) .
+For those with CAE of 0 , 0.1-14.9 and >/=15 mg/l-years , the prevalence rates of IHD were 5.2 , 10.9 and 24.1% , respectively ( P<0.001 ) .
+The odds ratios ( 95% confidence intervals ) for IHD were 1.60 ( 0.48 , 5.34 ) , and 3.60 ( 1.11 , 11.65 ) , respectively , for those with CAE of 0.1-14.9 and >/=15.0 mg/l-years , when compared with those lacking drinking water exposure to arsenic after multivariate adjustment .
+It is concluded that IHD in the arseniasis-hyperendemic villages in Taiwan was associated with long-term arsenic exposure .

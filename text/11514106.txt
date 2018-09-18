@@ -1,0 +1,9 @@
+In 1999 , a campaign of the Flemish Ministry of Health , Belgium was set up to assess pollutant concentrations and related health effect biomarkers in humans living in two regions of Flanders .
+The study was called the ' Flemish Environment and Health Study ' ( FLEHS ) .
+Concentrations of selected organochiorine pesticides , polychlorinated biphenyls ( PCB ) and polychlorinated dibenzo-p-dioxins ( PCDD ) and flirans ( PCDF ) were measured by gas chromatography-mass spectrometry in 47 pooled human serum samples originating from 200 individual women between 50 and 65 years living in two Flemish regions .
+The CALUX ( Chemical-Activated Luciferase gene eXpression ) bioassay was assessed on the same pools .
+The correlation between CALUX-TEQ and total TEQ ( sum of PCDD/PCDF , non- and mono-ortho PCBs ) varied from 0.43 to 0.73 for the rural and urban region , respectively .
+The mean value for the total TBQ ( 75 pg WHO-TEQ/g fat ) was two times higher than the mean TEQ value determined with the CALUX bioassay ( 36 pg TEQ/g fat ) .
+This shows that the assessment of dioxin-like exposure by these two measurements was different .
+However , regional differences in concentrations were observed for neither total TEQs , nor CALUX-TEQs .
+It was concluded that the CALUX can be an alternative screening tool for biomonitoring purposes , especially when the objective is to compare different groups of people ( e.g. living in different regions ) .

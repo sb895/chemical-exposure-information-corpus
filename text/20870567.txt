@@ -1,0 +1,7 @@
+BACKGROUND High-molecular-weight phthalates , such as diisononyl phthalate ( DINP ) and diisodecyl phthalate ( DIDP ) , are used primarily as polyvinyl chloride plasticizers.Objectives : We assessed exposure to DINP and DIDP in a representative sample of persons \u2265 6 years of age in the U.S. general population from the 2005-2006 National Health and Nutrition Examination Survey ( NHANES ) .
+METHODS We analyzed 2,548 urine samples by using online solid-phase extraction coupled to isotope dilution high-performance liquid chromatography-tandem mass spectrometry .
+RESULTS We detected monocarboxyisooctyl phthalate ( MCOP ) , a metabolite of DINP , and monocarboxyisononyl phthalate ( MCNP ) , a metabolite of DIDP , in 95.2% and 89.9% of the samples , respectively .
+We detected monoisononyl phthalate ( MNP ) , a minor metabolite of DINP , much less frequently ( 12.9% ) and at concentration ranges ( > 0.8 µg/L-148.1 µg/L ) much lower than MCOP ( > 0.7 µg/L- 4,961 µg/L ) .
+Adjusted geometric mean concentrations of MCOP and MCNP were significantly higher ( p < 0.01 ) among children than among adolescents and adults .
+CONCLUSIONS The general U.S. population , including children , was exposed to DINP and DIDP .
+In previous NHANES cycles , the occurrence of human exposure to DINP by using MNP as the sole urinary biomarker has been underestimated , thus illustrating the importance of selecting the most adequate biomarkers for exposure assessment .

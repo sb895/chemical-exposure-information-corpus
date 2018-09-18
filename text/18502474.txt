@@ -1,0 +1,12 @@
+BACKGROUND Mercury is a global pollutant that affects neurodevelopment of children .
+OBJECTIVE The objectives were to measure and evaluate mercury concentration of children and mothers , and its association with exposure .
+METHODS A cross-sectional assessment was done using questionnaires and hair mercury were analysed by Cold Vapor Atomic Absorption Spectrometry in the National Institute for Minamata Disease in Japan .
+RESULTS A total of 112 children and 111 mothers were included ; mean age was 34 months and 32 years , respectively. 17.9% of children and 34.2% of mothers had concentrations greater than 1 parts per million ( ppm ) as reference level .
+Body weight at birth , feeding methods , maternal age , and maternal education level were significantly different in each group ( p<.05 ) .
+Mean maternal hair mercury level ( 0.91 ppm ) was higher than children ( 0.74 ppm ) , and has a positive correlation between them ( p<.05). 68.1% of children , 75% of pregnant period , 63.4% of lactating period , and 78.6% of last six months have been consuming fish .
+With multiple regression analysis , hair mercury levels in children aged less than 6 months had a linear relationship with body weight at birth , gestational weeks , feeding methods ( breast- or bottle- feeding ) and maternal educational level .
+While children aged over 6 months significantly differed with gender , frequency of fish servings per week , and frequency of maternal fish consumption in lactation period .
+And hair mercury levels had inverse linear relationship with maternal monthly income in this age group .
+Maternal mercury levels had linear relationship with maternal age .
+CONCLUSION Mercury levels in children may be affected by their mothers due to similar dietary patterns .
+Further long-term large-scale and follow-up studies are needed .

@@ -1,0 +1,8 @@
+This study presents the pattern of exposure to uranium and other occupational pollutants known to be potentially carcinogenic , mutagenic or toxic and used at the main uranium conversion plant in France .
+For different uranium compounds specified according to their solubility and purity , and 16 other categories of pollutants : chemicals , fibres , vapours , dust , and heat a time- and plant-specific job exposure matrix ( JEM ) was created covering the period 1960-2006 .
+For 73 jobs and for each pollutant the amount and frequency of exposure were assessed on a four-level scale by different time periods .
+The JEM shows 73% sensitivity and 83% specificity .
+Although exposure assessment was semi-quantitative , the JEM allows computing of individual cumulative exposure score for each pollutant across time .
+Despite the predominant natural uranium compounds exposure , the amount of exposure to other pollutants such as TCE and other chlorinated products , asbestos , and fibres , is important at the plant .
+Numerous correlations detected between uranium compounds exposure and exposure to chemicals warrants improving biological monitoring of exposed workers and accounting for associated exposures in epidemiological studies .
+Results of this study will be used for further investigation of association between exposure and mortality among uranium conversion workers cohort .

@@ -1,0 +1,11 @@
+Exposure to traffic-related particulate matter ( PM ) is considered a potential risk for cardiovascular events .
+Little is known about whether improving air quality in car can modify cardiovascular effects among human subjects during commuting .
+We recruited a panel of 60 healthy subjects to commute for 2 h by a car equipped with an air conditioning ( AC ) system during the morning rush hour in Taipei .
+Operation modes of AC system using outside air ( OA-mode ) , circulating inside air ( IA-mode ) and turning off ( Off-mode ) were examined .
+Repeated measurements of heart rate variability ( HRV ) indices , PM\u22642.5 \u03bcm in aerodynamic diameter ( PM2.5 ) and noise level were conducted for each participant in different modes during the commute .
+We used linear mixed-effects models to associate HRV indices with in-car PM2.5 .
+We found that decreases in HRV indices were associated with increased levels of in-car PM2.5 .
+For Off-mode , an interquartile range ( IQR ) increase in in-car PM2.5 with 15-min moving average was associated with 2.7% and 4.1% decreases in standard deviation of NN intervals ( SDNN ) and the square root of the mean of the sum of the squares of differences between adjacent NN intervals ( r-MSSD ) , respectively .
+During OA and IA modes , participants showed slight decreases in SDNN ( OA mode : 0.1% ; IA mode : 1.3% ) and r-MSSD ( OA mode : 1.1% ; IA mode : 1.8% ) by an IQR increase in in-car PM2.5 with 15-min moving average .
+We concluded that in-car PM2.5 is associated with autonomic alteration .
+Utilization of the car's AC system can improve air quality and modify the effects of in-car PM2.5 on HRV indices among human subjects during the commute .

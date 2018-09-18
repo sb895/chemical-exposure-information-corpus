@@ -1,0 +1,9 @@
+There are few established causes of leukemia , the most common type of cancer in children .
+Studies in adults suggest a role for specific environmental agents , but little is known about any effect from exposures in pregnancy to toxics in ambient air .
+In our case-control study , we ascertained 69 cases of acute lymphoblastic leukemia ( ALL ) and 46 cases of acute myeloid leukemia ( AML ) from California Cancer Registry records of children <age 6 , and 19,209 controls from California birth records within 2km ( 1.3 miles ) ( ALL ) and 6km ( 3.8 miles ) ( AML ) of an air toxics monitoring station between 1990 and 2007 .
+Information on air toxics exposures was taken from community air monitors .
+We used logistic regression to estimate the risk of leukemia associated with one interquartile range increase in air toxic exposure .
+Risk of ALL was elevated with 3(rd) trimester exposure to polycyclic aromatic hydrocarbons ( OR=1.16 , 95% CI 1.04 , 1.29 ) , arsenic ( OR=1.33 , 95% CI 1.02 , 1.73 ) , benzene ( OR=1.50 , 95% CI 1.08 , 2.09 ) , and three other toxics related to fuel combustion .
+Risk of AML was increased with 3rd trimester exposure to chloroform ( OR=1.30 , 95% CI 1.00 , 1.69 ) , benzene ( 1.75 , 95% CI 1.04 , 2.93 ) , and two other traffic-related toxics .
+During the child's first year , exposure to butadiene , ortho-xylene , and toluene increased risk for AML and exposure to selenium increased risk for ALL .
+Benzene is an established cause of leukemia in adults ; this study supports that ambient exposures to this and other chemicals in pregnancy and early life may also increase leukemia risk in children .

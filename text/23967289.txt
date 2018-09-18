@@ -1,0 +1,10 @@
+Published studies have shown that workers in animal slaughterhouses are at a higher risk of lung cancers as compared to the general population .
+No specific causal agents have been identified , and exposures to several chemicals have been examined and found to be unrelated .
+Evidence suggests a biological aetiology as the risk is highest for workers who are exposed to live animals or to biological material containing animal faeces , urine or blood .
+To investigate possible biological exposures in animal slaughterhouses , we used a metagenomic approach to characterise the profile of organisms present within an aerosol sample .
+An assessment of aerosol exposures for individual workers was achieved by the collection of personal samples that represent the inhalable fraction of dust/bioaerosol in workplace air in both cattle and sheep slaughterhouses .
+Two sets of nine personal aerosol samples were pooled for the cattle processing and sheep processing areas respectively , with a total of 332,677,346 sequence reads and 250,144,492 sequence reads of 85 bp in length produced for each .
+Eukaryotic genome sequence was found in both sampling locations , and bovine , ovine and human sequences were common .
+Sequences from WU polyomavirus and human papillomavirus 120 were detected in the metagenomic dataset from the cattle processing area , and these sequences were confirmed as being present in the original personal aerosol samples .
+This study presents the first metagenomic description of personal aerosol exposure and this methodology could be applied to a variety of environments .
+Also , the detection of two candidate viruses warrants further investigation in the setting of occupational exposures in animal slaughterhouses .

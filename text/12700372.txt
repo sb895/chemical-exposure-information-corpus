@@ -1,0 +1,10 @@
+BACKGROUND Environmental lead exposure has been linked to alterations in growth and endocrine function .
+It is not known whether such exposure affects pubertal development .
+METHODS We analyzed the relations between blood lead concentration and pubertal development among girls ( defined as females 8 to 18 years of age ) who were enrolled in a cross-sectional study ( the third National Health and Nutrition Examination Survey ) in which race was self-reported or proxy-reported : 600 were non-Hispanic white , 805 were non-Hispanic African-American , and 781 were Mexican-American girls .
+Puberty was measured on the basis of the age at menarche and Tanner stage for pubic-hair and breast development .
+RESULTS Geometric mean lead concentrations were less than 3 microg per deciliter ( 0.144 micromol per liter ) in all three groups .
+As compared with concentrations of 1 microg per deciliter ( 0.048 micromol per liter ) , lead concentrations of 3 microg per deciliter were associated with decreased height ( P<0.001 ) , after adjustment for age , race , and other factors , but not with body-mass index or weight .
+Blood lead concentrations of 3 microg per deciliter were associated with significant delays in breast and pubic-hair development in African-American and Mexican-American girls .
+The delays were most marked among African-American girls ; in this group , the delays in reaching Tanner stages 2 , 3 , 4 , and 5 associated with a lead concentration of 3 microg per deciliter as compared with 1 microg per deciliter were 3.8 , 5.3 , 5.8 , and 2.1 months , respectively , for breast development and 4.0 , 5.5 , 6.0 , and 2.2 months , respectively , for pubic-hair development ; the associated delay in age at menarche was 3.6 months .
+In white girls , there were nonsignificant delays in all pubertal measures in association with a lead concentration of 3 microg per deciliter .
+CONCLUSIONS These data suggest that environmental exposure to lead may delay growth and pubertal development in girls , although confirmation is warranted in prospective studies .

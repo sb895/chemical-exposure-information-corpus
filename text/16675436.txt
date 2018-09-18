@@ -1,0 +1,9 @@
+Several studies have shown that prenatal and/or postnatal background-level exposure to environmental chemicals , such as polychlorinated biphenyls ( PCBs ) and dioxins , induces adverse effects on the neurodevelopment of children .
+However , other studies have not detected any harmful influences on neurodevelopment .
+Furthermore , except in western countries , no developmental tests have been carried out in relation to detailed assessment of exposure to PCBs and dioxins .
+In this study ( the Hokkaido Study on Environment and Children's Health ) , the effect of prenatal exposure to background levels of PCBs and dioxins on infant neurodevelopment in Japan/Sapporo was elucidated .
+The associations between the total or individual isomer level of PCBs and dioxins in 134 Japanese pregnant women's peripheral blood and the mental or motor development of their 6-month-old infants were evaluated using the second edition of the Bayley Scales of Infant Development .
+The mean level of total toxicity equivalency quantity ( TEQ ) was 18.8 ( 4.0-51.2 ) pg/g lipid in blood of 134 mothers .
+After adjustment for potential confounding variables , the total TEQ value was shown not to be significantly associated with mental developmental index ( MDI ) or psychomotor developmental index ( PDI ) .
+However , the levels of one polychlorinated dibenzo-p-dioxin ( PCDD ) isomer , total PCDDs , and total PCDDs/polychlorinated dibenzofurans ( PCDFs ) were significantly negatively associated with MDI , and the levels of two PCDD isomers and three PCDF isomers were significantly negatively associated with the PDI .
+In conclusion , the background-level exposure of several isomers of dioxins during the prenatal period probably affects the motor development of 6-month-old infants more than it does their mental development .

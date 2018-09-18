@@ -1,0 +1,8 @@
+A number of past studies have shown the prevalence of a considerable amount of volatile organic compounds ( VOCs ) in workplace , home and outdoor microenvironments .
+The quantification of an individual's personal exposure to VOCs in each of these microenvironments is an essential task to recognize the health risks .
+In this paper , such a study of source apportionment of the human exposure to VOCs in homes , offices , and outdoors has been presented .
+Air samples , analysed for 25 organic compounds and sampled during one week in homes , offices , outdoors and close to persons , at seven locations in the city of Leipzig , have been utilized to recognize the concentration pattern of VOCs using the chemical mass balance ( CMB ) receptor model .
+In result , the largest contribution of VOCs to the personal exposure is from homes in the range of 42 to 73% , followed by outdoors , 18 to 34% , and the offices , 2 to 38% with the corresponding concentration ranges of 35 to 80 microg m(- 3 ) , 10 to 45 microg m(- 3 ) and 1 to 30 microg m(- 3 ) respectively .
+The species such as benzene , dodecane , decane , methyl-cyclopentane , triethyltoluene and trichloroethylene dominate outdoors ; methyl-cyclohexane , triethyltoluene , nonane , octane , tetraethyltoluene , undecane are highest in the offices ; while , from the terpenoid group like 3-carane , limonene , a-pinene , b-pinene and the aromatics toluene and styrene most influence the homes .
+A genetic algorithm ( GA ) model has also been applied to carry out the source apportionment .
+Its results are comparable with that of CMB .

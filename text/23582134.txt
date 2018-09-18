@@ -1,0 +1,8 @@
+Women in the United States have breast milk concentrations of polybrominated diphenyl ethers ( PBDEs ) that are among the highest in the world , leading to concerns over the potential health implications to breastfeeding infants during critical stages of growth and development .
+Developing cost-effective and sustainable methods for assessing chemical exposures in infants is a high priority to federal agencies and local communities .
+PBDE data are available in nationally representative serum samples but not in breast milk .
+As a method to predict PBDE concentrations in U.S. breast milk , we present the development of congener-specific linear regression partitioning models and their application to U.S. serum data .
+Models were developed from existing paired milk and serum data and applied to 2003-2004 NHANES serum data for U.S. women .
+Highest estimated median U.S. breast milk concentrations were for BDE-47 ( 30.6 ng/g lipid ) and BDE-99 ( 6.1 ng/g lipid ) with the median concentration of \u03a37PBDEs estimated at 54.2 ng/g lipid .
+Predictions of breast milk PBDE concentration were consistent with reported concentrations from 11 similarly timed U.S. studies .
+When applied to NHANES data , these models provide a sustainable method for estimating population-level concentrations of PBDEs in U.S. breast milk and should improve exposure estimates in breastfeeding infants .

@@ -1,0 +1,10 @@
+In this study , an analytical method was optimized for the determination of bisphenol-A ( BPA ) , triclosan ( TCS ) and 4-n-nonylphenol ( 4n-NP ) , environmental contaminants with potential endocrine disruptive activities , in human tissues .
+The method consisted of a liquid extraction step , derivatization with pentafluorobenzoylchloride followed by a clean-up on acidified silica and detection with gas chromatography coupled with mass spectrometry ( GC-ECNI/MS ) .
+Recoveries ranged between 92% and 102% with a precision below 5% .
+Limits of quantification ranged between 0.3-0.4 ng g(-1) , 0.045-0.06 ng g(-1) and 0.003-0.004 ng g(-1) for BPA , TCS and 4n-NP in different tissues , respectively .
+The method was applied for the determination of BPA , TCS and 4n-NP in paired adipose tissue , liver and brain samples from 11 individuals .
+BPA could be detected in almost all tissues , with the highest concentrations found in adipose tissue ( mean 3.78 ng g(-1) ) , followed by liver ( 1.48 ng g(-1) ) and brain ( 0.91 ng g(-1) ) .
+TCS showed the highest concentrations in liver ( 3.14 ng g(-1) ) , followed by adipose tissue ( 0.61 ng g(-1) ) , while it could be detected in only one brain sample .
+Levels of 4n-NP were much lower , mostly undetected , and therefore 4n-NP is considered of minor importance for human exposure .
+Despite the measurable concentrations in adipose tissue , these compounds seem to have a low bioaccumulation potential .
+The reported concentrations of free BPA in the various tissues are slight disagreement with pharmacokinetic models in humans and rats and therefore the possibility of external contamination with BPA during sample collection/storage cannot be ruled out .

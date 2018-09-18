@@ -1,0 +1,7 @@
+The objective of this study was to quantify organic chlorinated pesticides ( OCPs ) , polychlorinated biphenyls ( PCBs ) , polybrominated diphenyl ethers ( PBDEs ) , and polycyclic aromatic hydrocarbons ( PAHs ) in blood plasma collected from 111 healthy residents in Hong Kong to assess the levels of these pollutants in the general population during the period of March to April , 2008 .
+Concentrations of these residues in blood plasma obtained from the Hong Kong Red Cross Blood Transfusion Service were determined by gas chromatography-mass spectrometry .
+Naphthalene , phenanthrene , p,p'-DDE , PCB-180 , and PBDE-47 were detected in 100% of the participants .
+Females had significantly greater concentrations of acenaphthylene ( female : 93.3 ng/g lipid ; male : 39.8 , p < 0.05 ) , anthracene ( 22.3 ; 15.3 , p < 0.05 ) , fluoranthene ( 138 ; 125 , p < 0.05 ) , p,p'-DDE , p,p'-DDT , PCB-183 , BDE-99 than males .
+Blood of smokers contained significantly greater ( p < 0.05 ) concentrations of acenaphthene , benzo(a)pyrene , p,p'-DDE , p,p'-DDT , PCB-138 , BDE-47 , and BDE-99 than did blood of nonsmokers .
+Positive correlations were found between concentrations of each class of pollutant , with respect to seafood diet habit , Body Mass Index ( BMI ) , and age .
+Concentrations of HCHs and DDTs in blood plasma of healthy Hong Kong residents were greater than those of other countries , and it was found that smoking , consumption of a seafood diet , BMI , and age could influence concentrations in human blood .

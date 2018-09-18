@@ -1,0 +1,9 @@
+Prenatal pesticide exposures may adversely affect children's health .
+However , exposure and health research is hampered by the lack of reliable fetal exposure data .
+No studies have been published that report measurements of commonly used nonpersistent pesticides in human amniotic fluid , although recent studies of pesticides in urine from pregnant women and in meconium indicate that fetuses are exposed to these chemicals .
+Amniotic fluid collected during amniocentesis is the only medium available to characterize direct fetal exposures early in pregnancy ( approximately 18 weeks of gestation ) .
+As a first step in validating this exposure biomarker , we collected 100 amniotic fluid samples slated for disposal and evaluated analytical methods to measure organophosphate and carbamate pesticides and metabolites , synthetic pyrethroid metabolites , herbicides , and chlorinated phenolic compounds .
+The following six phenols were detected ( detection frequency ) : 1- and 2-naphthol ( 70% ) , 2,5-dichlorophenol ( 55% ) , carbofuranphenol ( 5% ) , ortho-phenylphenol ( 30% ) , and pentachlorophenol ( 15% ) , with geometric mean concentrations of 0.72 , 0.39 , 0.12 , 0.13 , and 0.23 microg/L , respectively , for positive values .
+The organophosphate metabolites diethylphosphate and dimethylphosphate were detected in two ( 10% ) samples , and dimethylthiophosphate was detected in one ( 5% ) sample , with geometric mean concentrations of 0.31 , 0.32 , and 0.43 microg/L , respectively , for positive values .
+These levels are low compared with levels reported in urine , blood , and meconium in other studies , but indicate direct exposures to the young fetus , possibly during critical periods of development .
+Results of this pilot study suggest that amniotic fluid offers a unique opportunity to investigate fetal exposures and health risks .

@@ -1,0 +1,1 @@
+< < < <Biomonitoring--effect marker-- AND  Biomonitoring--exposure biomarker--urine--<Biomonitoring--effect marker--biomarker--molecule--protein AND  Biomonitoring--effect marker--physiological parameter<  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--exposure biomarker--urine--< <  Biomonitoring--exposure biomarker--urine--< < < < 

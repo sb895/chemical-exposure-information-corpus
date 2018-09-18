@@ -1,0 +1,9 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) and dichlorodiphenyltrichloroethane ( DDT ) are persistent , bioaccumulative , and toxic pollutants that were broadly used in the United States until the 1970s .
+Common exposure to PCBs , DDT , and dichlorodiphenyldichloroethylene ( DDE ) , the most stable metabolite of DDT , may influence children's neurodevelopment , but study results are not consistent .
+OBJECTIVES We examined the associations between lactational exposure to PCBs , DDT , and DDE and infant development at 12 months , using data from the Pregnancy , Infection , and Nutrition Babies Study , 2004-2006 .
+METHODS We measured PCBs , DDT , and DDE in breast milk at the third month postpartum .
+Lactational exposure of these chemicals was estimated by the product of chemical concentrations and the duration of breast-feeding .
+Infant development at 12 months of age was measured by the Mullen Scales of Early Learning ( n=231 ) and the Short Form : Level I ( infant ) of the MacArthur-Bates Communicative Development Indices ( n=218 ) .
+RESULTS No consistent associations were observed between lactational exposure to PCBs , DDT , and DDE through the first 12 months and the measures of infant development .
+However , DDE was associated with scoring below average on the gross motor scale of the Mullen among males only ( adjusted odds ratio=1.9 ; 95% confidence interval , 1.1-3.3 ) .
+CONCLUSION Infant neurodevelopment at 12 months of age was not impaired by PCBs , DDT , and DDE at the concentrations measured here , in combination with benefits from long duration of breast-feeding in this population .

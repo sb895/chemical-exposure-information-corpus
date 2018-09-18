@@ -1,0 +1,10 @@
+BACKGROUND Millions of people in Bangladesh are at risk of chronic arsenic toxicity from drinking contaminated groundwater , but little is known about diet as an additional source of As exposure .
+METHODS We employed a duplicate diet survey to quantify daily As intake in 47 women residing in Pabna , Bangladesh .
+All samples were analyzed for total As , and a subset of 35 samples were measured for inorganic arsenic ( iAs ) using inductively coupled plasma mass spectrometry equipped with a dynamic reaction cell .
+RESULTS Median daily total As intake was 48 microg As/day [ interquartile range ( IQR ) , 33-67 ) from food and 4 microg As/day ( IQR , 2-152 ) from drinking water .
+On average , iAs comprised 82% of the total As detected in dietary samples .
+After adjusting for the estimated inorganic fraction , 34% [ 95% confidence interval ( CI ) , 21-49% ] of all participants exceeded the World Health Organization's provisional tolerable daily intake ( PTDI ) of 2.1 microg As/kg-day .
+Two of the 33 women who used a well with < 50 microg As/L exceeded this recommendation .
+CONCLUSIONS When drinking water concentrations exceeded the Bangladesh drinking water standard of 50 microg As/L , ingested water was the dominant source of exposure .
+However , as drinking water As concentrations decrease , the relative contribution of dietary As sources becomes more important to ingested dose .
+The combined intake from both diet and drinking water can cause some individuals to exceed the PTDI in spite of using a tube well that contains < 50 microg As/L .

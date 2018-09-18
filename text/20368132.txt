@@ -1,0 +1,12 @@
+BACKGROUND Phthalates , ubiquitous environmental pollutants that may disturb the endocrine system , are used primarily as plasticizers of polyvinyl chloride and as additives in consumer and personal care products.Objectives : In this study , we examined the association between urinary concentrations of nine phthalate metabolites and breast cancer ( BC ) in Mexican women .
+METHODS We age-matched 233 BC cases to 221 women residing in northern Mexico .
+Sociodemographic and reproductive characteristics were obtained by direct interviews .
+Phthalates were determined in urine samples ( collected pretreatment from the cases ) by isotope dilution/high-performance liquid chromatography coupled to tandem mass spectrometry .
+RESULTS Phthalate metabolites were detected in at least 82% of women .
+The geometric mean concentrations of monoethyl phthalate ( MEP ) were higher in cases than in controls ( 169.58 vs. 106.78 microg/g creatinine ) .
+Controls showed significantly higher concentrations of mono-n-butyl phthalate , mono(2-ethyl-5-oxohexyl) phthalate , and mono(3-carboxypropyl) phthalate ( MCPP ) than did the cases .
+After adjusting for risk factors and other phthalates , MEP urinary concentrations were positively associated with BC [ odds ratio ( OR ) , highest vs. lowest tertile = 2.20 ; 95% confidence interval ( CI ) , 1.33-3.63 ; p for trend < 0.01 ] .
+This association became stronger when estimated for premenopausal women ( OR , highest vs. lowest tertile = 4.13 ; 95% CI , 1.60-10.70 ; p for trend < 0.01 ) .
+In contrast , we observed significant negative associations for monobenzyl phthalate ( MBzP ) and MCPP .
+CONCLUSIONS We show for the first time that exposure to diethyl phthalate , the parent compound of MEP , may be associated with increased risk of BC , whereas exposure to the parent phthalates of MBzP and MCPP might be negatively associated .
+These findings require confirmation .

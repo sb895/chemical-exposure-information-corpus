@@ -1,0 +1,10 @@
+BACKGROUND Evidence for a causal relationship between disinfection byproducts in chlorinated water and cancer is not conclusive .
+This study investigates the association between disinfection byproducts in chlorinated water , as measured by trihalomethane concentration , and the frequency of micronuclei in urinary bladder epithelial cells , thereby assessing the carcinogenic potential of disinfection byproducts .
+METHODS A cohort study was undertaken in 1997 in 3 Australian communities with varying levels of disinfection byproducts in the water supply .
+Exposure was assessed using both available dose ( total trihalomethane concentration in the water supply ) and intake dose ( calculated by adjusting for individual variations in ingestion , inhalation , and dermal absorption ) .
+Micronuclei in urinary bladder epithelial cells were used as a preclinical biomarker of genotoxicity .
+RESULTS Cells were scored for micronuclei for 228 participants , of whom 63% were exposed to disinfection by products and 37% were unexposed .
+Available dose of total trihalomethane for the exposed group ranged from 38 to 157 micro ;g/L , whereas intake dose ranged from 3 to 469 micro g/kg per day .
+Relative risk for DNA damage to bladder cells , per 10 micro g/L of available dose total trihalomethane , was 1.01 ( 95% confidence interval [ CI ] = 0.97-1.06 ) for smokers and 0.996 ( CI = 0.961-1.032 ) for nonsmokers .
+Relative risk , per 10 micro g/kg per day of intake dose of total trihalomethane , was 0.99 ( CI = 0.96-1.03 ) for smokers and 1.003 ( CI = 0.984-1.023 ) for nonsmokers .
+CONCLUSION This study provides no evidence that trihalomethane concentrations , at the levels we investigated , are associated with DNA damage to bladder cells .

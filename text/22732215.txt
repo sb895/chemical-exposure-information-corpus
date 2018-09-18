@@ -1,0 +1,9 @@
+BACKGROUND Few data exist in Latin America concerning the association between organophosphate ( OP ) urinary metabolites and the consumption of fruits and vegetables and other exposure risk variables in schoolchildren .
+METHODS We collected samples of urine from 190 Chilean children aged 6-12 years , fruits and vegetables , water and soil from schools and homes , and sociodemographic data through a questionnaire .
+We measured urinary dialkylphosphate ( DAP ) OP metabolites and OP pesticide residues in food consumed by these 190 children during two seasons : December 2010 ( summer ) and May 2011 ( fall ) .
+We analyzed the relationship between urinary DAP concentrations and pesticide residues in food , home pesticide use , and residential location .
+RESULTS Diethylalkylphosphates ( DEAP ) and dimethylalkylphosphates ( DMAP ) were detected in urine in 76% and 27% of the samples , respectively .
+Factors associated with urinary DEAP included chlorpyrifos in consumed fruits ( p<0.0001 ) , urinary creatinine ( p<0.0001 ) , rural residence ( p=0.02 ) and age less than 9 years ( p=0.004 ) .
+Factors associated with urinary DMAP included the presence of phosmet residues in fruits ( p<0.0001 ) , close proximity to a farm ( p=0.002 ) , home fenitrothion use ( p=0.009 ) , and season ( p<0.0001 ) .
+CONCLUSIONS Urinary DAP levels in Chilean school children were high compared to previously reported studies .
+The presence of chlorpyrifos and phosmet residues in fruits was the major factor predicting urinary DAP metabolite concentrations in children .

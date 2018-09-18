@@ -1,0 +1,11 @@
+This study was designed to assess possible associations between biomarkers of mercury ( Hg ) exposure and oxidative stress in fish-eating Amazonian communities .
+Clinical samples were obtained from riparians living in the Brazilian Amazon .
+Biomarkers of oxidative stress ( glutathione - GSH , glutathione peroxidase - GSH-Px , catalase - CAT , activity and reactivation index of delta-aminolevulinate dehydratase - ALA-D ( R% ) were determined in blood .
+Total Hg was measured in whole blood ( B-Hg ) , plasma ( P-Hg ) and hair ( H-Hg ) .
+Association between biomarkers of Hg exposure and oxidative stress were examined using multiple regression models , including age , gender , alcohol consumption , smoking status , fish consumption and then stratified for gender .
+Significant inverse relations were observed between GSH-Px , GSH , CAT , ALA-D activity and B-Hg or H-Hg ( p<0.05 ) .
+ALA-D reactivation index was positively related to B-Hg ( p<0.0001 ) .
+P-Hg was directly related to ALA-D reactivation index and inversely associated with GSH-Px , GSH , and ALA-D activity ( p<0.05 ) .
+When stratified for gender , women showed significant inverse associations between all biomarkers of Hg exposure and CAT ( p<0.05 ) or GSH ( p<0.05 ) , while for men only P-Hg showed a significant inverse relation with GSH ( p<0.001 ) .
+Our results clearly demonstrated an association between Hg exposure and oxidative stress .
+Moreover , for B-Hg , P-Hg and H-Hg gender differences were present .

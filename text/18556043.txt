@@ -1,0 +1,11 @@
+Triclosan ( 2,4,4'-trichloro-2'-hydroxydiphenyl ether ) is a widely used antibacterial agent .
+However , it was concerned recently that triclosan might act as an antibiotic and will cause resistant bacterial strains .
+Furthermore , possible formation of toxic chloroform was also reported when the triclosan contained in household dishwashing soaps reacted with the chlorinated water .
+To assess the associate risks from possible exposures , concentrations of triclosan in household food detergents of Taiwan were determined in this study .
+High performance liquid chromatography ( HPLC ) with UV detector at 280 nm was used to analyze the triclosan in samples .
+Factors that might affect the residual characteristics of triclosan from detergents on dishware and fruits , including the concentrations of detergents used , the temperature and immersion time for water before the cleaning processes , the temperatures of water used for the cleaning processes , and the materials of dishware made of , were evaluated under the orthogonal experiment design by the Taguchi method .
+By the analysis of variance , the orders of importance of different parameters were determined .
+The concentrations of triclosan detected in household food detergents were found to be 1.7 x 10(-2) -5.6 x 10(-1) ( triclosan/detergent , mg g(-1) ) .
+For residual characteristics , the concentration of detergents used as well as the materials of dishware were found to be the significant factors that will affect the triclosan left on the dishware .
+On the other hand , the concentration of triclosan in the detergents was found to be the only factor that will affect the triclosan left on fruits .
+The maximum dose of triclosan exposures from the use of household food detergents in Taiwan was also estimated in the study .

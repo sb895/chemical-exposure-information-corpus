@@ -1,0 +1,10 @@
+Mining activities may affect the health of miners and communities living near mining sites , and these health effects may persist even when the mine is abandoned .
+During mining processes various toxic wastes are produced and released into the surrounding environment , resulting in contamination of air , drinking water , rivers , plants , and soils .
+In a geochemical sampling campaign undertaken in the Panasqueira Mine area of central Portugal , an anomalous distribution of several metals and arsenic ( As ) was identified in various environmental media .
+Several potentially harmful elements , including As , cadmium ( Cd ) , chromium ( Cr ) , manganese ( Mn ) , nickel ( Ni ) , lead ( Pb ) , and selenium ( Se ) , were quantified in blood , urine , hair , and nails ( toe and finger ) from a group of individuals living near the Panasqueira Mine who were environmentally and occupationally exposed .
+A group with similar demographic characteristics without known exposure to mining activities was also compared .
+Genotoxicity was evaluated by means of T-cell receptor ( TCR ) mutation assay , and percentages of different lymphocyte subsets were selected as immunotoxicity biomarkers .
+Inductively coupled plasma-mass spectrometry ( ICP-MS ) and inductively coupled plasma-atomic emission spectrometry ( ICP-AES ) analysis showed elevated levels of As , Cd , Cr , Mn , and Pb in all biological samples taken from populations living close to the mine compared to controls .
+Genotoxic and immunotoxic differences were also observed .
+The results provide evidence of an elevated potential risk to the health of populations , with environmental and occupational exposures resulting from mining activities .
+Further , the results emphasize the need to implement preventive measures , remediation , and rehabilitation plans for the region .

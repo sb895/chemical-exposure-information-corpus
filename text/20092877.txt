@@ -1,0 +1,11 @@
+Mercury ( Hg ) is released either naturally in the environment or by anthropogenic activities .
+During its global circulation , Hg presents in a diversity of chemical forms and transforms between each other .
+Among Hg species , methylmercury ( MeHg ) is readily absorbed by humans via the aquatic food chain and thus it is very neurotoxic to exposed populations including fetuses due to perinatal exposure .
+In 2005 , a survey was carried out in Temirtau , an Hg-contaminated site in North Central Kazakhstan , to investigate Hg concentrations in the hair samples of the residents and the relationship between Hg exposure levels and the related factors .
+Among the 289 hair samples , Hg concentrations ranged from 0.009 to 5.184µg/g with a mean of 0.577µg/g .
+Nearly 17% of the population exceeded 1µg/g for hair Hg , which corresponds to the reference of dose ( RfD ) 0.1µg/kg body weight/day developed by the United States Environmental Protection Agency ( USEPA ) .
+Subgroups of males , people aged over 45 and fishermen or anglers were found to have elevated Hg exposure levels in their hair .
+A positive correlation was found between Hg concentrations in hair and frequencies of river fish consumption .
+As a result , the finding that people were exposed to high levels of Hg was expected due to the frequent consumption of fish caught from the polluted River Nura or the neighbouring lakes .
+A regression model showed that approximately 41% of variance of Hg concentrations in the study population's hair was attributed to the variables of gender , residential location , age and fishery occupation .
+The model implied that demographic characteristics together with dietary behaviour should be taken into account in studies associated with Hg exposure risk , in order to clearly define the group potentially sensitive to Hg exposure .

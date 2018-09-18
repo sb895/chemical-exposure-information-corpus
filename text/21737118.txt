@@ -1,0 +1,10 @@
+Thyroid hormones , which influence body metabolism and development , could be affected by persistent organic pollutants .
+We sought to examine the relationship between polybrominated biphenyls ( PBBs ) and polychlorinated biphenyls ( PCBs ) and thyroid disease .
+We employed incidence density sampling to perform a nested case control analysis of the Michigan Long-Term PBB Cohort .
+Cohort members ( n=3333 ) were exposed to PBBs through contaminated cattle feed in 1973-1974 and to PCBs through daily life .
+Those with detectable serum PBB and PCB concentrations at enrollment were categorized into tertiles of PBB and PCB exposure .
+Case-patients were cohort members answering " Yes " to " Has a healthcare provider ever told you that you had a thyroid problem? " during follow-up interviews ; control-patients were cohort members answering " No". We used odds ratios ( OR ) with 95% confidence intervals ( CI ) to compare odds of thyroid disease by PBB and PCB exposure and by various risk factors .
+Total cumulative thyroid disease incidence after 33 years was 13.9% among women and 2.6% among men .
+After adjusting for body mass index , we found no statistically significant differences in odds of any type of thyroid disease among women or men with elevated PBB or PCB exposure .
+Compared to control-patients , women with thyroid disease had increased odds of being overweight/obese ( OR=2.82 , 95% CI : 1.94-4.11 ) and developing infertility ( OR=1.71 , 95% CI : 1.08-2.69 ) , diabetes ( OR=1.61 , 95% CI : 1.04-2.51 ) , or arthritis ( OR=1.71 , 95% CI : 1.18-2.50 ) during follow-up .
+Additional research should explore potential associations between PBBs/PCBs and thyroid disease among children exposed in utero .

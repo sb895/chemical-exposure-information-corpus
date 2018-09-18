@@ -1,0 +1,8 @@
+Pooled serum samples collected from 8132 residents in 2002/ 03 and 2004/05 were analyzed to assess human polybrominated diphenyl ether ( PBDE ) concentrations from specified strata of the Australian population .
+The strata were defined by age ( 0-4 years , 5-15 years , < 16 years , 16-30 years , 31-45 years , 46-60 years , and > 60 years ) ; region ; and gender .
+For both time periods , infants and older children had substantially higher PBDE concentrations than adults .
+For samples collected in 2004/ 05 , the mean +/- standard deviation sigmaPBDE ( sum of the homologue groups for the mono- , di- , tri- , tetra- , penta- , hexa- , hepta- , octa- , nona- , and deca-BDEs ) concentrations for 0-4 and 5-15 years were 73 +/- 7 and 29 +/- 7 ng g(-1) lipid , respectively , while for all adults > 16 years , the mean concentration was lower at 18 +/- 5 ng g(-1) lipid .
+A similar trend was observed for the samples collected in 2002/03 , with the mean sigmaPBDE concentration for children < 16 years being 28 +/- 8 ng g(-1) lipid and for the adults >16 years , 15 +/- 5 ng g(-1) lipid .
+No regional or gender specific differences were observed .
+Measured data were compared with a model that we developed to incorporate the primary known exposure pathways ( food , air , dust , breast milk ) and clearance ( half-life ) data .
+The model was used to predict PBDE concentration trends and indicated that the elevated concentrations in infants were primarily due to maternal transfer and breast milk consumption with inhalation and ingestion of dust dust making a comparatively lower contribution .

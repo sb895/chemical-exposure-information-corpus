@@ -1,0 +1,9 @@
+The objective of this study was to evaluate the short-term effect of ambient air pollution on the pulmonary function of schoolchildren .
+We sampled 941 children in primary school in three communities in Taiwan ( Sanchun , Taihsi , and Linyuan ) .
+The nearby stations of the Taiwan air quality monitoring network provided the hourly ambient concentrations of sulfur dioxide , carbon monoxide , ozone , particulate matter < or = to 10 microm in aerodynamic diameter , and nitrogen dioxide .
+Spirometry was performed once for each sampled child .
+We also obtained the status of indoor air pollution and chronic respiratory disease history by using a structured questionnaire .
+Multivariate linear model analysis was used to evaluate pulmonary function effects of each pollutant in addition to determinants of indoor air pollution and meteorologic conditions .
+We found a significantly negative association of peak O(3) concentration on the day before spirometry with individual forced vital capacity and forced expiratory volume in 1 sec .
+The decrease in children's lung function can occur at peak hourly O(3) concentrations < 80 ppb .
+The slope of lung function decrease for Taiwanese children is approximately 1 mL/ppb for peak hourly O(3) exposure .

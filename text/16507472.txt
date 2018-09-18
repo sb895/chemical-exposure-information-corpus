@@ -1,0 +1,11 @@
+Children's exposure to arsenic and chromium from playground equipment constructed with chromated copper arsenate ( CCA)-treated wood is a potential concern because of children's hand-to-mouth activity .
+However , there exists no direct measure of Cr levels on the hands of children after playing in such playgrounds .
+In this study we measured both soluble and total Cr on the hands of 139 children playing in playgrounds , eight of which were constructed with CCA-treated wood and eight of which were not .
+Children's age and duration of play were recorded .
+The hands of each child were washed after play with 150 mL deionized water , which was collected in a bag and subsequently underwent analysis of Cr and 20 other elements , using inductively coupled plasma mass spectrometry .
+Total average Cr on the hands of 63 children who played in CCA playgrounds was 1,112 +/- 1,089 ng ( median , 688 ; range 78-5,875 ) .
+Total average Cr on the hands of 64 children who played in non-CCA playgrounds was 652 +/- 586 ng ( median , 492 ; range 61-3,377 ) .
+The difference between the two groups is statistically significant ( p < 0.01 ) .
+Cr levels were highly correlated to both Cu ( r = 0.672 ) and As ( r = 0.736 ) levels in CCA playgrounds ( p < or = 0.01 ) , but not non-CCA playgrounds ( r = 0.252 and 0.486 for Cu and As , respectively ) .
+Principal-component analysis indicates that Cr , Cu , and As are more closely grouped together in CCA than in non-CCA playgrounds .
+These results suggest that the elevated levels of Cr and As on children's hands are due to direct contact with CCA wood .

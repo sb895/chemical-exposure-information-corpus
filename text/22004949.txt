@@ -1,0 +1,11 @@
+BACKGROUND Physical inactivity and exposure to air pollution are important risk factors for death and disease globally .
+The built environment may influence exposures to these risk factors in different ways and thus differentially affect the health of urban populations .
+OBJECTIVE We investigated the built environment's association with air pollution and physical inactivity , and estimated attributable health risks .
+METHODS We used a regional travel survey to estimate within-urban variability in physical inactivity and home-based air pollution exposure [ particulate matter with aerodynamic diameter \u2264 2.5 \u03bcm ( PM2.5 ) , nitrogen oxides ( NOx ) , and ozone ( O3) ] for 30,007 individuals in southern California .
+We then estimated the resulting risk for ischemic heart disease ( IHD ) using literature-derived dose-response values .
+Using a cross-sectional approach , we compared estimated IHD mortality risks among neighborhoods based on " walkability " scores .
+RESULTS The proportion of physically active individuals was higher in high- versus low-walkability neighborhoods ( 24.9% vs. 12.5% ) ; however , only a small proportion of the population was physically active , and between-neighborhood variability in estimated IHD mortality attributable to physical inactivity was modest ( 7 fewer IHD deaths/100,000/year in high- vs. low-walkability neighborhoods ) .
+Between-neighborhood differences in estimated IHD mortality from air pollution were comparable in magnitude ( 9 more IHD deaths/100,000/year for PM2.5 and 3 fewer IHD deaths for O3 in high- vs. low-walkability neighborhoods ) , suggesting that population health benefits from increased physical activity in high-walkability neighborhoods may be offset by adverse effects of air pollution exposure .
+POLICY IMPLICATIONS Currently , planning efforts mainly focus on increasing physical activity through neighborhood design .
+Our results suggest that differences in population health impacts among neighborhoods are similar in magnitude for air pollution and physical activity .
+Thus , physical activity and exposure to air pollution are critical aspects of planning for cleaner , health-promoting cities .

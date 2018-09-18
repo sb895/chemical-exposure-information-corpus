@@ -1,0 +1,12 @@
+BACKGROUND There are few studies on associations between children's respiratory heath and air pollution in schools in China .
+The industrial development and increased traffic may affect the indoor exposure to air pollutants in school environment .
+Moreover , there is a need to study respiratory effects of environmental tobacco smoke ( ETS ) and emissions from new building materials in homes in China .
+OBJECTIVES We studied the associations between pupils ' asthmatic symptoms and indoor and outdoor air pollution in schools , as well as selected home exposures , in a coal-burning city in north China .
+METHODS A questionnaire survey was administered to pupils ( 11-15 years of age ) in 10 schools in urban Taiyuan , collecting data on respiratory health and selected home environmental factors .
+Indoor and outdoor school air pollutants and climate factors were measured in winter .
+RESULTS A total of 1,993 pupils ( 90.2% ) participated ; 1.8% had cumulative asthma , 8.4% wheezing , 29.8% had daytime attacks of breathlessness .
+The indoor average concentrations of sulfur dioxide , nitrogen dioxide , ozone , and formaldehyde by class were 264.8 , 39.4 , 10.1 , and 2.3 microg/m3 , respectively .
+Outdoor levels were two to three times higher .
+Controlling for possible confounders , either wheeze or daytime or nocturnal attacks of breathlessness were positively associated with SO2 , NO2 , or formaldehyde .
+In addition , ETS and new furniture at home were risk factors for wheeze , daytime breathlessness , and respiratory infections .
+CONCLUSIONS Indoor chemical air pollutants of mainly outdoor origin could be risk factors for pupils ' respiratory symptoms at school , and home exposure to ETS and chemical emissions from new furniture could affect pupils ' respiratory health .

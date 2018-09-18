@@ -1,0 +1,7 @@
+In breast milk , concentrations of polychlorinated biphenyls ( PCBs ) are higher than those of polychlorinated dibenzo-p-dioxins ( PCDDs ) and dibenzofurans ( PCDFs ) , making PCB analyses less time-consuming and expensive .
+We searched for PCB " markers " of PCDD/DF concentrations , by studying associations between concentrations of PCB and PCDD/DFs ( expressed as toxic equivalents , TEQs ) in breast milk from 27 women ( primiparas , 22-35 years ) .
+These women donated breast milk in 1996-1999 together with 183 other primiparas from Uppsala County , Sweden .
+Regression analyses showed that both dioxin-like and non-dioxin-like penta- to hepta-chlorinated PCBs could be used as markers of TEQ concentrations in this group of women , in some cases after age adjustment of the regressions .
+The strong positive association between concentrations of dioxin-like PCB/DD/DFs and non-dioxin-like PCBs will in future epidemiological studies make it difficult to separate Ah receptor-dependent effects from non-Ah receptor-dependent effects .
+With the use of regression equations and concentrations in breast milk samples collected in 1994 , TEQ concentrations were estimated in the 1994 samples .
+Comparisons between estimated and measured concentrations indicated that associations between concentrations of marker substances and TEQs should be determined separately within each study population , in order to obtain reliable TEQ exposure assessments from PCB markers .

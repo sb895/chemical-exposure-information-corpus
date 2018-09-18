@@ -1,0 +1,1 @@
+< <  Biomonitoring--exposure biomarker--blood--cord blood< <Biomonitoring--effect marker--physiological parameter AND  Biomonitoring--exposure biomarker--blood--cord blood<Biomonitoring--effect marker--physiological parameter AND  Biomonitoring--exposure biomarker--blood--cord blood< <exposure routes--combined< 

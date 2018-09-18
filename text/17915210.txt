@@ -1,0 +1,11 @@
+OBJECTIVES To evaluate the effect of short-term exposure to air pollutants on inflammation-sensitive biomarkers in apparently healthy individuals .
+METHODS We enrolled all participants from The Tel-Aviv Sourasky Medical Center inflammation survey held between 2003 and 2006 , excluding participants with an acute or chronic inflammatory disease , pregnancy , steroidal or nonsteroidal treatment , or a recent invasive procedure .
+Additional subjects were excluded for living more than 11km from the nearest air pollution monitoring station .
+Analysis was performed separately for men and women .
+Linear regression models were fitted for each inflammatory variable against air pollutant variables ( particulate matter under 10microm , sulfur dioxide , nitrogen dioxide , carbon monoxide , and ozone ) for increasing lag times of up to 7 days , and adjusted for all possible and known confounding parameters .
+RESULTS The study population comprised 3659 individuals ( 2203 males and 1456 females ) .
+We found a statistically significant negative correlation in the male population between air pollutants , mainly NO2 , SO2 , and CO , and fibrinogen in several lag days .
+A positive correlation was found for PM10 at day 7 .
+No such correlation was found for CRP and WBC , or for the female population .
+CONCLUSION Our findings do not support the potential link between short-term exposure to air pollution and enhanced inflammation as a possible explanation for increased cardiovascular morbidity .
+Additional large-scale population-based studies with good methodological design are needed in order to clarify this issue .

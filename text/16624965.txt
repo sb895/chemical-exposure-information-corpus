@@ -1,0 +1,9 @@
+Millions of persons around the world are exposed to low doses of arsenic through drinking water .
+However , estimates of health effects associated with low-dose arsenic exposure have been extrapolated from high-dose studies .
+In Bangladesh , many persons have been exposed to a wide range of doses of arsenic from drinking water over a significant period of time .
+The authors evaluated dose-response relations between arsenic exposure from drinking water and premalignant skin lesions by using baseline data on 11,746 participants recruited in 2000-2002 for the Health Effects of Arsenic Longitudinal Study in Araihazar , Bangladesh .
+Several measures of arsenic exposure were estimated for each participant based on well-water arsenic concentration and usage pattern of the wells and on urinary arsenic concentration .
+In different regression models , consistent dose-response effects were observed for all arsenic exposure measures .
+Compared with drinking water containing <8.1 microg/liter of arsenic , drinking water containing 8.1-40.0 , 40.1-91.0 , 91.1-175.0 , and 175.1-864.0 microg/liter of arsenic was associated with adjusted prevalence odds ratios of skin lesions of 1.91 ( 95% confidence interval ( CI ) : 1.26 , 2.89 ) , 3.03 ( 95% CI : 2.05 , 4.50 ) , 3.71 ( 95% CI : 2.53 , 5.44 ) , and 5.39 ( 95% CI : 3.69 , 7.86 ) , respectively .
+The effect seemed to be influenced by gender , age , and body mass index .
+These findings provide information that should be considered in future research and policy decisions .

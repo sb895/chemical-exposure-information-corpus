@@ -1,0 +1,11 @@
+BACKGROUND Approximately 35 million people in Bangladesh are chronically exposed to inorganic arsenic ( InAs ) in drinking water .
+Methylation of InAs to monomethylarsonic ( MMA ) and dimethylarsinic acids ( DMA ) relies on folate-dependent one-carbon metabolism and facilitates urinary arsenic ( uAs ) elimination .
+OBJECTIVES We examined the relationships between folate , cobalamin , cysteine , total homocysteine ( tHcys ) , and uAs metabolites in a sample of 6-year-old Bangladeshi children ( n = 165 ) .
+METHODS Children provided blood samples for measurement of tHcys , folate , cobalamin , and cysteine , and urine specimens for the measurement of total uAs and As metabolites .
+RESULTS Consistent with our studies in adults , mean tHcys concentrations ( 7.9 micromol/L ) were higher than those reported among children of similar ages in other populations .
+Nineteen percent of the children had plasma folate concentrations < 9.0 nmol/L .
+The proportion of total uAs excreted as InAs ( %InAs ) was inversely correlated with folate ( r = -0.20 , p = 0.01 ) and cysteine ( r = -0.23 , p = 0.003 ) , whereas the correlations between %DMA and both folate ( r = 0.12 , p = 0.14 ) and cysteine ( r = 0.11 , p = 0.15 ) were positive .
+Homocysteine was inversely correlated ( r = -0.27 , p = 0.009 ) with %MMA in males , and the correlation with %DMA was positive ( r = 0.13 , p = 0.10 ) .
+CONCLUSIONS These findings suggest that , similar to adults , folate and cysteine facilitate As methylation in children .
+However , the inverse correlation between tHcys and %MMA , and positive correlation with %DMA , are both opposite to our previous findings in adults .
+We propose that upregulation of one-carbon metabolism , presumably necessary to meet the considerable demands for DNA and protein biosynthesis during periods of rapid growth , results in both increased tHcys biosynthesis and increased As methylation .

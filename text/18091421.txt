@@ -1,0 +1,13 @@
+BACKGROUND Long-term air pollution exposure is associated with increased mortality , but the association with incidence of fatal and nonfatal coronary heart disease is less certain .
+Moreover , it is unknown how chronic exposure to air pollution affects prognosis among survivors of a first coronary event .
+This study evaluated the association between long-term traffic-related air pollution exposure and incidence of nonfatal and fatal coronary events , as well as subsequent hospital readmission and mortality among myocardial infarction survivors .
+METHODS The study population comprised all residents of Rome aged 35-84 years during the period 1998-2000 .
+Residential nitrogen dioxide ( NO2 ) exposure as a marker of traffic pollution was assessed by a land-use regression model in 1995-1996 ( R = 0.69 ) .
+A total of 11,167 incident coronary events were observed ( 4654 fatal , including 3598 out-of-hospital coronary deaths , and 6513 nonfatal ) .
+The cohort of 6513 survivors was followed 4.0-7.5 years for readmission or mortality , starting 28 days from the date of first event .
+Relative risks per 10 mug/m of NO2 exposure , adjusted for age , sex , and socioeconomic status , were calculated by Poisson regression ( population-based incidence ) and Cox regression ( cohort analysis ) .
+RESULTS The relative risk for incidence in coronary events per 10 mug/m of NO2 was 1.03 ( 95% confidence interval = 1.00-1.07 ) .
+Stronger associations were found for fatal cases ( 1.07 ; 1.02-1.12 ) and out-of-hospital deaths ( 1.08 ; 1.02-1.13 ) .
+Using NO2 exposure at the time of the first event , there was no association of air pollution exposure with either subsequent hospital readmission or mortality among survivors of the first coronary event .
+CONCLUSIONS Long-term air pollution exposure increases the risk of coronary heart disease , particularly fatal events .
+Hospital readmission or subsequent mortality among survivors was not associated with traffic air pollution .

@@ -1,0 +1,6 @@
+We have characterized the spectrum of PCB contaminants in human milk samples from 95 women in Kazakhstan using GC/MS congener specific analysis .
+In these samples , 12 PCBs comprised 83% of total PCB concentration , and were similar to the major PCBs reported in other published human milk studies .
+By summing concentration levels of 80 PCB congeners in the Kazakhstan samples , a mean total PCB concentration of 368 ng/g fat was obtained .
+This is lower than levels reported in human milk samples from Western Europe .
+Six indicator PCBs were summed in Kazakh milk samples ; their aggregate value was similar to literature values published for human milk from the former Soviet Union .
+Using WHO's recent TEF scheme , the mean sum of PCDD/F , coplanar PCB , mono-ortho PCB , and di-ortho PCB TEQ is 42 pg TEQ/g fat .

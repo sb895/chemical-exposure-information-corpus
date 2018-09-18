@@ -1,0 +1,7 @@
+We have investigated the relationships among the concentration of total serum polychlorinated biphenyls ( PCBs ) , various PCB congener groupings , and three pesticides to total serum lipids in humans with and without self-reported cardiovascular disease .
+Blood samples were obtained from 335 adult Akwesasne Mohawks , and were analyzed for 101 PCB congeners , mirex , dichloro-diphenyl-dichloro-ethylene ( DDE ) , and hexachlorobenzene ( HCB ) , as well as serum triglycerides and cholesterol .
+Structural equation modeling , following the definition of latent variables by means of confirmatory factor analysis , was used to analyze the relationships between serum lipids with PCBs and heart disease .
+There were significant associations among PCBs , lipids , age , and body mass index ( BMI ) , a fact which justified the application of the structural equation model .
+Gender of the participant was unrelated to any of the remaining study variables .
+The results of this study are consistent with a model in which age is considered as both an exogenous explanatory variable and a biological driving mechanism for the acquisition of PCBs .
+Moreover , the results of this study are consistent with the conclusion that PCBs , acting through P450 enzymes , are directly responsible for increased synthesis of cholesterol and triglycerides , substances known to be major risk factors for cardiovascular disease .

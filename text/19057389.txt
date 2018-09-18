@@ -1,0 +1,10 @@
+BACKGROUND Large-scale methylmercury poisonings have occurred in Japan ( Minamata and Niigata ) and in Iraq .
+The current WHO threshold for adult exposure ( hair level : 50 microg/g ) was based on evidence from Niigata , which included only acute and severe cases .
+That study leaves open the possibility of more subtle effects at lower exposure levels .
+METHODS The Shiranui sea had been contaminated in the 1950s by the discharge of methylmercury from a factory near Minamata.In 1960 , the hair mercury content of 1694 residents living on the coastline of the Shiranui sea was measured by researchers from the Kumamoto Prefecture Institute for Health Research .
+Independently , in 1971 , a population-based study to examine neurologic signs was conducted in the Minamata and Goshonoura areas , on the coastline of the Shiranui Sea , and the Ariake area ( reference ) , by researchers at Kumamoto University .
+We identified 120 residents from exposed areas who were included in both datasets , plus 730 residents of Ariake ( an unexposed area ) who were also examined for neurologic signs .
+RESULTS Hair mercury levels were associated with perioral sensory loss in a dose-response relationship .
+The adjusted prevalence odds ratios and 95% confidence intervals for perioral sensory loss , compared with the lowest exposure category ( 0-10 microg/g ) , were 4.5 ( 0.5-44 ) , 9.1 ( 1.0-83 ) , and 10 ( 0.9-110 ) , for the dose categories >10 to 20 , >20 to 50 , and >50 microg/g , respectively .
+The prevalence of all neurologic signs was higher in the exposure area than in Ariake .
+CONCLUSIONS An increased prevalence of neurologic signs , especially perioral sensory loss , was found among residents with hair mercury content below 50 microg/g .

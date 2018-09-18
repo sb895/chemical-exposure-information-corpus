@@ -1,0 +1,6 @@
+Cancer risk as a result of air pollution may be quantified by different approaches .
+We compared the sum of unit risk based effects of single pollutants with an epidemiology-based method by using PM(10) as a surrogate of the total air pollution .
+The excess rate for lung cancer cases attributable to an increase of 10 microg/m3 in average PM(10) exposure was estimated from available cohort studies .
+Applying the epidemiology-based risk method to the air pollution situation in the Basel area ( Switzerland ) resulted in 13.3 ( 95% CI = 6.9-19.8 ) excess lung cancer cases per 100,000 person years .
+This estimate was considerably higher than the unit risk-based estimate yielding 1.1 ( range , 0.45-2.8 ) cancer cases per 100,000 person years .
+We discuss these discrepancies in light of inherent differences between approaches in toxicology and epidemiology .

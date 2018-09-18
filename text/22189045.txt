@@ -1,0 +1,11 @@
+BACKGROUND Chromosomal abnormalities contribute substantially to reproductive problems , but the role of environmental risk factors has received little attention .
+OBJECTIVES We evaluated the association of polychlorinated biphenyl ( PCB ) and dichlorodiphenyldichloroethylene ( p,p'-DDE ) exposures with sperm sex-chromosome disomy .
+METHODS We conducted a cross-sectional study of 192 men from subfertile couples .
+We used multiprobe fluorescence in situ hybridization ( FISH ) for chromosomes X , Y , and 18 to determine XX , YY , XY , and total sex-chromosome disomy in sperm nuclei .
+Serum was analyzed for concentrations of 57 PCB congeners and p,p'-DDE .
+Poisson regression models were used to calculate incidence rate ratios ( IRRs ) for disomy by exposure quartiles , controlling for demographic characteristics and semen parameters .
+RESULTS The median percent disomy was 0.3 for XX and YY , 0.9 for XY , and 1.6 for total sex-chromosome disomy .
+We observed a significant trend of increasing IRRs for increasing quartiles of p,p'-DDE in XX , XY , and total sex-chromosome disomy , and a significant trend of increasing IRRs for increasing quartiles of PCBs for XY and total sex-chromosome disomy ; however , there was a significant inverse association for XX disomy .
+CONCLUSIONS Our findings suggest that exposure to p,p'-DDE may be associated with increased rates of XX , XY , and total sex-chromosome disomy , whereas exposure to PCBs may be associated with increased rates of YY , XY , and total sex-chromosome disomy .
+In addition , we observed an inverse association between increased exposure to PCBs and XX disomy .
+Further work is needed to confirm these findings .

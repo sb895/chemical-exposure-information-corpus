@@ -1,0 +1,10 @@
+Data on polybrominated diphenyl ether ( PBDE ) and hexabromocyclododecane ( HBCD ) concentrations from Stockholm , Sweden , indoor microenvironments were combined with information from detailed questionnaires regarding the sampling location characteristics , including furnishing and equipment present .
+These were used to elucidate relationships between possible flame-retarded sources and the contaminant concentrations found in air and dust .
+Median concentration ranges of \u03a3Penta- , \u03a3Octa- , \u03a3DecaBDE and HBCD from all microenvironments were 19-570 , 1.7-280 , 29-3200 and <1.6-2 pg/m(3) in air and 22-240 , 6.1-80 , 330-1400 and 45-340 ng/g in dust , respectively .
+Significant correlations were found between concentrations of some PBDEs and HBCD in air and/or dust and the presence of electronic/electrical devices , foam furniture , PUF mattresses and synthetic bed pillows in , as well as floor area and construction year of the microenvironment .
+Car interiors were a source to indoor air in dealership halls .
+Using median and maximum concentrations of \u03a3Penta- , \u03a3Octa- , \u03a3DecaBDE and HBCD in air and dust , adult and toddler ( 12-24 months ) intakes from inhalation and dust ingestion were estimated .
+Toddlers had higher estimated intakes of \u03a3Penta- , \u03a3DecaBDE and HBCD ( 7.8 , 43 , 7.6 ng/d , respectively ) from dust ingestion than adults ( 5.8 , 38 , 6.0 ng/d , respectively ) .
+Air inhalation in offices was also an important exposure pathway for \u03a3Penta- , \u03a3Octa- and \u03a3DecaBDE in adults .
+For \u03a3PentaBDE and HBCD , air inhalation and dust ingestion play minor roles when compared to previously published Swedish dietary intakes ( median exposures ) .
+However , in worst case scenarios using maximum concentrations , dust ingestion may represent 77 and 95% of toddler intake for \u03a3PentaBDE and HBCD , respectively .

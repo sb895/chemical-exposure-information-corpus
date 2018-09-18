@@ -1,0 +1,17 @@
+Phthalates are multifunctional chemicals that are used in a variety of consumer products including cosmetic and personal care products .
+This study aims at determining phthalate levels in cosmetic and personal care products obtained from the Canadian market .
+Overall 252 products including 98 baby care products were collected at retail stores in several provinces across Canada in year 2007 .
+These products included fragrances , hair care products ( hair sprays , mousses , and gels ) , deodorants ( including antiperspirants ) , nail polishes , lotions ( body lotions and body creams ) , skin cleansers , and baby products ( oils , lotions , shampoos and diaper creams ) .
+Samples were extracted with different organic solvents , depending on the types of the products , followed by gas chromatography-mass spectrometry ( GC-MS ) analysis .
+Of the 18 investigated phthalates , diethyl phthalate ( DEP ) , dimethyl phthalate ( DMP ) , diisobutyl phthalate ( DiBP ) , di-n-butyl phthalate ( DnBP ) and di(2-ethylhexyl) phthalate ( DEHP ) were detected .
+The detection frequencies were in the following order : DEP ( 103 out of 252 products)>DnBP ( 15/252)>DiBP ( 9/252)>DEHP ( 8/252)>DMP ( 1/252 ) .
+DEP was detected in almost all types of surveyed products with the highest levels ( 25,542 \u03bcg/g , equal to 2.6% ) found in fragrances .
+DnBP was largely present in nail polish products with the highest concentration of 24,304 \u03bcg/g ( 2.4% ) .
+DnBP was also found in other products such as hair sprays , hair mousses , skin cleansers and baby shampoos at much lower concentrations ( 36 \u03bcg/g and less ) .
+Levels of other detected phthalates were generally low in the products .
+Based on these values , daily dermal exposure dosage to five phthalates was estimated for three age groups , female adults ( 60 kg ) ; toddlers ( 0.5-4 years ) and infants ( 0-6 months ) , through the use of cosmetic and personal care products .
+The exposure estimation , however , was based on existing products use pattern data , instead of probabilistic model based population use distribution .
+For female adults , the maximal daily exposure of 78 \u03bcg/kg bw/d was determined for DEP .
+The maximal daily exposure was much lower for the other four phthalates ( DEHP , 0.82 \u03bcg/kg bw/d ; DnBP , 0.36 \u03bcg/kg bw/d ; and DMP , 0.03 \u03bcg/kg bw/d ) .
+The exposure for DiBP was not calculated due to its very low levels ( <10 \u03bcg/g ) in products .
+Toddlers and infants in this case had a maximal daily exposure to DEP of 20 and 42 \u03bcg/kg bw/d , respectively .

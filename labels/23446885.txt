@@ -1,0 +1,1 @@
+<exposure routes--dermal uptake-- AND exposure routes--inhalation-- AND exposure routes--oral intake-- AND exposure routes--oral intake--drinking water--< < <exposure routes--dermal uptake-- AND exposure routes--inhalation-- AND exposure routes--oral intake--<exposure routes--inhalation--other--<exposure routes--oral intake--drinking water--

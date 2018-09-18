@@ -1,0 +1,7 @@
+We measured adipose tissue concentrations of polychlorinated dibenzo-p-dioxins , dibenzofurans ( PCDD/Fs ) , and polychlorinated biphenyls ( PCBs ) in 420 general Finns living in southern Finland .
+The mean ( median ) concentrations of WHO(PCDD/F)-TEQ and WHO(PCB)-TEQ were 29.0 ( 24.1 ) and 20.7 ( 16.7 ) pg g-1 fat , respectively .
+The concentrations clearly correlated with age .
+Expressing the concentrations as a function of subject's ages revealed that the exposure of Finns has declined over the last 30 years .
+A downward gradient was found in the concentrations from the Baltic Sea coast to inland areas in Finland , and this was assessed to be due to consumption of the Baltic Sea fish , especially Baltic herring .
+Linear regression models for natural logarithm WHO(PCDD/F)-TEQ , natural logarithm WHO(PCB)-TEQ , and natural logarithm WHO(total)-TEQ , explained 70% , 69% , and 72% of the variability , respectively .
+Age , lactation , place of residence , and fish consumption frequencies were significant predictors in the models .

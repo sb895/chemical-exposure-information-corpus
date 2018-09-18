@@ -1,0 +1,12 @@
+BACKGROUND Only limited data exist on lactation as an exposure source of persistent perfluorinated chemicals ( PFCs ) for children .
+OBJECTIVES We studied occurrence and levels of PFCs in human milk in relation to maternal serum together with the temporal trend in milk levels between 1996 and 2004 in Sweden .
+Matched , individual human milk and serum samples from 12 primiparous women in Sweden were analyzed together with composite milk samples ( 25-90 women/year ) from 1996 to 2004 .
+RESULTS Eight PFCs were detected in the serum samples , and five of them were also above the detection limits in the milk samples .
+Perfluorooctanesulfonate ( PFOS ) and perfluorohexanesulfonate ( PFHxS ) were detected in all milk samples at mean concentrations of 0.201 ng/mL and 0.085 ng/mL , respectively .
+Perfluorooctanesulfonamide ( PFOSA ) , perfluorooctanoic acid ( PFOA ) , and perfluorononanoic acid ( PFNA ) were detected less frequently .
+DISCUSSION The total PFC concentration in maternal serum was 32 ng/mL , and the corresponding milk concentration was 0.34 ng/mL .
+The PFOS milk level was on average 1% of the corresponding serum level .
+There was a strong association between increasing serum concentration and increasing milk concentration for PFOS ( r(2) = 0.7 ) and PFHxS ( r(2) = 0.8 ) .
+PFOS and PFHxS levels in composite milk samples were relatively unchanged between 1996 and 2004 , with a total variation of 20 and 32% coefficient of variation , respectively .
+CONCLUSION The calculated total amount of PFCs transferred by lactation to a breast-fed infant in this study was approximately 200 ng/day .
+Lactation is a considerable source of exposure for infants , and reference concentrations for hazard assessments are needed .

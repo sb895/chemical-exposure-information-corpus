@@ -1,0 +1,15 @@
+There is a growing concern that persistent organic pollutants like organochlorine pesticides ( OCPs ) can impair fetal growth and affect birth size .
+However , currently available epidemiological evidence is inconclusive .
+In this case-control study , we examined the association between exposure to hexachlorocyclohexane ( HCH ) and its isomers ( \u03b1-HCH , \u03b2-HCH and \u03b3-HCH ) , dichlorodiphenyltrichloroethane ( DDT ) and dichlorodiphenyldichloroethylene ( DDE ) and birth size .
+We recruited 60 infant-mother pairs , comprising of 30 term , small for gestational age babies with their mothers ( Case group ) , and another 30 term , appropriate for gestational age babies with their mothers ( Control group ) .
+This study was conducted in a tertiary hospital in Delhi , India , between March , 2009 and February 2010 .
+Organochlorine pesticides were estimated in maternal blood , cord blood , placenta and breastmilk samples , using gas-liquid chromatography .
+Transplacental and transmammary transfer of OCPs was assessed by correlating the maternal blood OCP levels with those in cord blood and breastmilk by simple linear regression .
+The birthweight , crown heel length , head circumference , mid-arm circumference and ponderal index of the neonates was correlated with OCP levels in the maternal blood , cord blood , placenta and breastmilk .
+The OCP estimates were compared between samples of the case and control group .
+There was a significant ( P<0.001 ) transplacental transfer of all OCPs , however the transmammary transfer was insignificant for most OCPs except \u03b1-HCH .
+The OCP levels in the case group were higher than the control group ; these were significantly more for t-HCH in cord blood and breastmilk ; \u03b2-HCH in maternal blood , cord blood and breastmilk ; DDE in placenta and DDT in breastmilk .
+There was a significant negative correlation between birthweight and t-HCH levels in maternal blood ( P=0.022 ) , cord blood ( P<0.001 ) , placenta ( P=0.008 ) and breastmilk ( P=0.005 ) ; \u03b2-HCH in cord blood ( P<0.001 ) and placenta ( P=0.020 ) ; \u03b3-HCH in placenta ( P=0.045 ) ; and DDT ( P=0.009 ) .
+Length at birth had a significant negative correlation with t-HCH in cord blood ( P=0.014 ) and breastmilk ( P<0.001 ) ; \u03b2-HCH in cord blood ( P=0.016 ) and breastmilk ( P=0.012 ) ; DDE in placenta ( P=0.016 ) ; and DDT in breastmilk ( P=0.006 ) .
+Similarly , OCP levels were also found to be negatively correlated with head circumference , ponderal index and chest circumference in neonates .
+We conclude that prenatal exposure to some OCPs could impair the anthropometric development of the fetus , reducing the birthweight , length , head circumference , chest circumference and ponderal index .

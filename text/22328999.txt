@@ -1,0 +1,11 @@
+BACKGROUND Exposure to organochlorines has been examined as a potential risk factor for non-Hodgkin lymphoma ( NHL ) , with inconsistent results that may be related to limited statistical power or to imprecise exposure measurements .
+OBJECTIVE Our purpose was to examine associations between organochlorine concentrations in prediagnostic adipose tissue samples and the risk of NHL .
+METHODS We conducted a case\u2013cohort study using a prospective Danish cohort of 57,053 persons enrolled between 1993 and 1997 .
+Within the cohort we identified 256 persons diagnosed with NHL in the population-based nationwide Danish Cancer Registry and randomly selected 256 subcohort persons .
+We measured concentrations of 8 pesticides and 10 polychlorinated biphenyl ( PCB ) congeners in adipose tissue collected upon enrollment .
+Associations between the 18 organochlorines and NHL were analyzed in Cox regression models , adjusting for body mass index .
+RESULTS Incidence rate ratios and confidence intervals ( CIs ) for interquartile range increases in concentrations of dichlorodiphenyltrichlorethane ( DDT ) , cis-nonachlor , and oxychlordane were 1.35 ( 95% CI : 1.10 , 1.66 ) , 1.13 ( 95% CI : 0.94 , 1.36 ) , and 1.11 ( 95% CI : 0.89 , 1.38 ) , respectively , with monotonic dose\u2013response trends for DDT and cis-nonachlor based on categorical models .
+The relative risk estimates were higher for men than for women .
+In contrast , no clear association was found between NHL and PCBs .
+CONCLUSION We found a higher risk of NHL in association with higher adipose tissue levels of DDT , cis-nonachlor , and oxychlordane , but no association with PCBs .
+This is the first study of organochlorines and NHL using prediagnostic adipose tissue samples in the exposure assessment and provides new environmental health evidence that these organochlorines contribute to NHL risk .

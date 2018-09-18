@@ -1,0 +1,11 @@
+BACKGROUND We conducted a nested case-control study in a cohort of European asphalt workers in which an increase in lung cancer risk has been reported among workers exposed to airborne bitumen fume , although potential bias and confounding were not fully addressed .
+OBJECTIVE We investigated the contribution of exposure to bitumen , other occupational agents , and tobacco smoking to the risk of lung cancer among asphalt workers .
+METHODS Cases were cohort members in Denmark , Finland , France , Germany , the Netherlands , Norway , and Israel who had died of lung cancer between 1980 and the end of follow-up ( 2002-2005 ) .
+Controls were individually matched in a 3:1 ratio to cases on year of birth and country .
+We derived exposure estimates for bitumen fume and condensate , organic vapor , and polycyclic aromatic hydrocarbons , as well as for asbestos , crystalline silica , diesel motor exhaust , and coal tar .
+Odds ratios ( ORs ) were calculated for ever-exposure , duration , average exposure , and cumulative exposure after adjusting for tobacco smoking and exposure to coal tar .
+RESULTS A total of 433 cases and 1,253 controls were included in the analysis .
+The OR was 1.12 [ 95% confidence interval ( CI ) , 0.84-1.49 ] for inhalation exposure to bitumen fume and 1.17 ( 95% CI , 0.88-1.56 ) for dermal exposure to bitumen condensate .
+No significant trend was observed between lung cancer risk and duration , average exposure , or cumulative exposure to bitumen fume or condensate .
+CONCLUSIONS We found no consistent evidence of an association between indicators of either inhalation or dermal exposure to bitumen and lung cancer risk .
+A sizable proportion of the excess mortality from lung cancer relative to the general population observed in the earlier cohort phase is likely attributable to high tobacco consumption and possibly to coal tar exposure , whereas other occupational agents do not appear to play an important role .

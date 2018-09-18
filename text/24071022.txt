@@ -1,0 +1,13 @@
+Maternal diet not only provides essential nutrients to the developing fetus but is also a source of prenatal exposure to environmental contaminants .
+We investigated the association between dietary intake of dioxins and PCBs during pregnancy and birth size .
+The study included 50,651 women from the Norwegian Mother and Child Cohort Study ( MoBa ) .
+Dietary information was collected by FFQs and intake estimates were calculated by combining food consumption and food concentration of dioxins , dioxin-like PCBs and non-dioxin-like PCBs .
+We used multivariable regression models to estimate the association between dietary intake of dioxins and PCBs and fetal growth .
+The contribution of fish and seafood intake during pregnancy was 41% for dietary dioxins and dioxin-like PCBs and 49% for dietary non-dioxin-like PCBs .
+Further stratified analysis by quartiles of seafood intake during pregnancy was conducted .
+We found an inverse dose-response association between dietary intake of dioxins and PCBs and fetal growth after adjustment for confounders .
+Newborns of mothers in the upper quartile of dioxin and dioxin-like PCBs intake had 62g lower birth weight ( 95% CI : -73 , -50 ) , 0.26cm shorter birth length ( 95% CI : -0.31 , -0.20 ) and 0.10cm shorter head circumference ( 95% CI : -0.14 , -0.06 ) than newborns of mothers in the lowest quartile of intake .
+Similar negative associations for intake of dioxins and dioxin-like PCBs were found after excluding women with intakes above the tolerable weekly intake ( TWI=14pg TEQ/kg bw/week ) .
+The negative association of dietary dioxins and PCBs with fetal growth was weaker as seafood intake was increasing .
+No association was found between dietary dioxin and PCB intake and the risk for small-for-gestational age neonate .
+In conclusion , dietary intakes of dioxins and PCBs during pregnancy were negatively associated with fetal growth , even at intakes below the TWI .

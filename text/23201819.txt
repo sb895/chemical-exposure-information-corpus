@@ -1,0 +1,12 @@
+Dermal application of personal care products ( PCPs ) is considered an important human exposure route for siloxanes .
+Their presence as minor or major constituents in many personal care products ( PCPs ) and cosmetics is of concern for human exposure .
+The aim of this study was to quantify cyclic volatile methylsiloxanes ( cVMS ) in blood plasma of pregnant and postmenopausal women , and to investigate possible links to self-reported use of PCPs for the latter group .
+Participants were recruited from two studies , namely the Norwegian Women and Cancer Study ( NOWAC ) and the North Norwegian Mother-and-child Study ( MISA ) .
+For the NOWAC cohort , 94 plasma samples from postmenopausal women were analyzed ( blood drawn in 2005 ) and information about PCP use and breast implants was derived from a self-administered questionnaire .
+In the MISA study , the collection of the plasma samples ( blood drawn in 2009 ) constituted a re-sampling because the original serum vacutainers used were contaminated with cVMS .
+D4 ( octamethylcyclotetrasiloxane ) was the dominant compound in plasma for both cohorts .
+For the NOWAC samples , more than 85% of the women had D4 concentrations above the LOQ ( 2.74 ng/mL ) , while the detection frequency was only 18% for the MISA participants .
+The highest cVMS plasma concentrations were observed for D4 : 12.7 ng/mL ( NOWAC ) and 2.69 ng/mL ( MISA ) .
+For the other cVMS , decamethylcyclopentasiloxane ( D5 ) and dodecamethylcyclohexasiloxane ( D6 ) concentrations were below the detection limit in most samples .
+There was no significant correlation between the concentrations of D4 and the reported total body cream use .
+Sampling time ( 2005 versus 2009 ) and age of the donors could explain the differences between the two cohorts .

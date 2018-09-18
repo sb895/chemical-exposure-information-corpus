@@ -1,0 +1,8 @@
+A systematic and efficient strategy is needed to assess and manage potential risks to human health that arise from the manufacture and use of thousands of chemicals .
+Among available tools for rapid assessment of large numbers of chemicals , significant gaps are associated with the capability to evaluate exposures that occur indoors .
+For semivolatile organic compounds ( SVOCs ) , exposure is strongly influenced by the types of products in which these SVOCs occur .
+We propose methods for obtaining screening-level estimates for two primary SVOC source classes : additives in products used indoors and ingredients in products sprayed or applied to interior surfaces .
+Accounting for product use , emission characteristics , and the properties of the SVOCs , we estimate exposure via inhalation of SVOCs in the gas-phase , inhalation of SVOCs sorbed to airborne particles , ingestion of SVOCs sorbed to dust , and dermal sorption of SVOCs from the air into the blood .
+We also evaluate how exposure to the general public will change if chemical substitutions are made .
+Further development of a comprehensive set of models including the other SVOC-containing products and the other SVOC exposure pathways , together with appropriate methods for estimating or measuring the key parameters ( in particular , the gas-phase concentration in equilibrium with the material-phase concentration of the SVOC in the product , or y(0) ) , is needed .
+When combined with rapid toxicity estimates , screening-level exposure estimates can contribute to health-risk-based prioritization of a wide range of chemicals of concern .

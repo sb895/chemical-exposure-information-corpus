@@ -1,0 +1,12 @@
+The EPA reference dose for methylmercury ( MeHg ) was established using data from populations with greater exposures than those typical of the US .
+Few data are available on potential adverse health effects at lower levels .
+We examined relationships between hair mercury ( Hg ) levels and neuropsychological outcomes in a population of US children .
+This study included data from 355 children ages 6-10 enrolled in the New England Children's Amalgam Trial .
+Data on total hair Hg levels , sociodemographic information and neuropsychological function were collected .
+We evaluated associations between hair Hg and neuropsychological test scores with linear regression methods and used generalized additive models to determine the shape of associations that departed from linearity .
+Models controlled for relevant covariates , including the potential beneficial effects of consuming fish .
+In adjusted models , we observed no significant linear relationships between hair Hg level and any test score .
+Significant departures from linearity were identified for WIAT Math Reasoning and WRAMVA Visual-Motor Composite scores .
+The association was positive for hair Hg levels below 0.5 microg/g and negative for levels between 0.5 and 1.0 microg/g .
+Overall , test scores of children with hair Hg levels 1.0 microg/g appeared to be lower than those of children with levels < 1.0 microg/g , but few children had levels in this upper range and these differences did not reach statistical significance .
+Hair Hg levels below 1.0 microg/g in US school-age children were not adversely related to neuropsychological function .

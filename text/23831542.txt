@@ -1,0 +1,9 @@
+We examine the balance between intake , intrinsic elimination half-lives and human body burdens measured in biomonitoring for polybrominated diphenyl ethers ( PBDEs ) in the North American population using the population-level pharmacokinetic model developed by Ritter et al .
+( 2011 ) .
+Empirical data are collected from two studies that made total intake estimates for the North American population for the years 2004 and 2005 , and eight biomonitoring studies for the years 1992 to 2009 .
+We assume intake of PBDEs increased exponentially to a peak in 2004 , and has since exponentially declined .
+The model is fitted to the empirical PBDE intake and biomonitoring data on PBDE body burden using a least-square optimization method by adjusting the intake in 2004 and 2038 , and the intrinsic elimination rate constants , which can be expressed as equivalent half-lives .
+We fit the model in two types of scenarios using different combinations of PBDE intake estimates and biomonitoring data .
+Our modeling results indicate that there is an inconsistency between the PBDE intake estimates and the biomonitoring data , and that the inconsistency is likely due to underestimation of population-level intake .
+More efforts are needed to better characterize intake rates and identify potentially-unrecognized exposure pathways .
+Additional age-stratified biomonitoring data , and time trends of PBDE intakes would better constrain the model and provide an improved estimation of the intrinsic elimination half-lives .

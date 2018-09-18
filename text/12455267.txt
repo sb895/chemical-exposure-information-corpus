@@ -1,0 +1,7 @@
+We investigated the levels of the major house dust mite allergens , Der p 1 and Der f 1 , in dust collected from various locations in 41 day-care centers from two German cities ( Düsseldorf and Bonn ) .
+One hundred and thirty-seven ( 96% ) of 143 samples yielded detectable amounts of house dust mite allergen ( range , < 15-85,000 ng/g ; interquartile range , 210-1,480 ng group I allergen [ sum of Der p 1 and Der f 1]/g dust ) , and 24 ( 17% ) of the samples ( 8/34 mattresses ; 11/46 cushions/soft toys ; 5/43 carpeted floors , 0/20 smooth floors ) exceeded the proposed " threshold " level of 2,000 ng/g dust in 18 ( 44% ) of 41 day-care centers .
+Der p 1 and Der f 1 could be detected in nearly an equal number of samples .
+The highest concentrations of house dust mite allergens were found in dust from mattresses ( geometric mean , 1,103 ng/g dust ) and cushions/soft toys ( geometric mean , 1,004 ng/g dust ) .
+The allergen load per unit area from carpeted floors exceeded that from smooth floors by more than two orders of magnitude .
+In comparison with dust samples from private homes within the same geographical area , the mite allergen levels in mattress dust ( RR , 0.34 ; CI95 , 0.18-0.64 ) and floor dust ( RR , 0.21 ; CI95 , 0.09-0.49 ) from day-care centers were significantly lower ( p < 0.001 ) .
+We conclude that day-care centers should be included as potential places of additional exposure to house dust mite allergens if avoidance measures are taken .

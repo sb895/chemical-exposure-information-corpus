@@ -1,0 +1,7 @@
+Polychlorinated biphenyls ( PCBs ) are ubiquitously present in the environment and suspected of carcinogenic , neurological , and immunological effects .
+Our purpose was to identify predictors of adipose tissue levels of mono- , di- , and tri-ortho-substituted PCBs experienced by a general population and to establish whether predictors vary according to substitution group .
+In this study of 245 randomly selected persons from a prospective Danish cohort of 57,053 persons , we examined geographical area , age , lactation , BMI , and intake of eight major dietary groups as potential determinants of adipose concentrations of mono- , di- , and tri-ortho-substituted PCBs by linear regression analyses .
+Lactation , BMI , and intake of fruit , vegetables , and dairy products showed negative associations with PCB concentrations in adipose tissue in all models , and living in Copenhagen city , age , and consumption of fish ( particularly fatty fish ) were positively associated .
+The associations between several of the predictors and mono-ortho-substituted PCBs tended to differ from the associations found for di- and tri-ortho-substituted PCBs .
+In conclusion , geography , age , lactation , BMI , and consumption of fatty fish consistently predicted the concentration of PCBs in adipose tissue .
+Our results indicate that predictors of PCBs varied according to substitution group , suggesting that ortho-substituted groups should be analyzed separately .

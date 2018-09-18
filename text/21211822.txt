@@ -1,0 +1,10 @@
+Heavy metal contamination from occupational origin is a cause for concern because of its potential accumulation in the environment and in living organisms leading to long term toxic effects .
+This study was aimed to assess Cd , Cr , Mn , Ni and Pb levels in whole blood , urine , axillary hair and saliva from 178 individuals with occupational exposure to heavy metals .
+Levels of metal compounds were determined by atomic absorption spectrometry .
+We collected information on occupation , lifestyle habits and food intake by questionnaire .
+Multiple linear regression analyses for metal ion concentration in whole blood , urine , axillary hair and saliva were adjusted for age , gender , smoking and alcohol consumption , lifetime workplace exposure , residence area and food habits .
+Overall , blood and urine median concentrations found for the five metals analyzed do not exceed biological exposure indexes , so that they are very similar to a non-occupationally exposed population .
+Toxicokinetic differences may account for the lack of correlations found for metal levels in hair and saliva with those in blood or urine .
+For those heavy metals showing higher median levels in blood with respect to hair ( Cd , Mn and Pb ) indicating lesser hair incorporation from blood , the lifetime working experience was inversely correlated with their hair levels .
+The longer the lifetime working experience in industrial environments , the higher the Mn and Ni concentration in saliva .
+Axillary hair and saliva may be used as additional and/or alternative samples to blood or urine for biomonitoring hair Mn , and saliva Ni in subjects with occupational exposure .

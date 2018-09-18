@@ -1,0 +1,12 @@
+BACKGROUND There is increasing concern about the potential effects of traffic-related air pollution ( TRAP ) on the developing brain .
+The impact of TRAP exposure on childhood behavior is not fully understood because of limited epidemiologic studies .
+OBJECTIVE We explored the association between early-life exposure to TRAP using a surrogate , elemental carbon attributed to traffic ( ECAT ) , and attention deficit/hyperactivity disorder ( ADHD ) symptoms at 7 years of age .
+METHODS From the Cincinnati Childhood Allergy and Air Pollution Study ( CCAAPS ) birth cohort we collected data on exposure to ECAT during infancy and behavioral scores at 7 years of age .
+Children enrolled in CCAAPS had at least one atopic parent and a birth residence either < 400 m or > 1,500 m from a major highway .
+Children were followed from infancy through 7 years of age .
+ECAT exposure during the first year of life was estimated based on measurements from 27 air sampling sites and land use regression modeling .
+Parents completed the Behavioral Assessment System for Children , 2nd Edition , when the child was 7 years of age .
+ADHD-related symptoms were assessed using the Hyperactivity , Attention Problems , Aggression , Conduct Problems , and Atypicality subscales .
+RESULTS Exposure to the highest tertile of ECAT during the child's first year of life was significantly associated with Hyperactivity T-scores in the " at risk " range at 7 years of age , after adjustment [ adjusted odds ratio ( aOR ) = 1.7 ; 95% CI : 1.0 , 2.7 ] .
+Stratification by maternal education revealed a stronger association in children whose mothers had higher education ( aOR = 2.3 ; 95% CI : 1.3 , 4.1 ) .
+CONCLUSIONS ECAT exposure during infancy was associated with higher Hyperactivity scores in children ; this association was limited to children whose mothers had more than a high school education .

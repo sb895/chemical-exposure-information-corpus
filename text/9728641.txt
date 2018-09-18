@@ -1,0 +1,9 @@
+CONTEXT Human neurodevelopmental consequences of exposure to methyl-mercury ( MeHg ) from eating fish remain a question of public health concern .
+OBJECTIVE To study the association between MeHg exposure and the developmental outcomes of children in the Republic of Seychelles at 66 months of age .
+DESIGN A prospective longitudinal cohort study .
+PARTICIPANTS A total of 711 of 779 cohort mother-child pairs initially enrolled in the Seychelles Child Development Study in 1989 .
+SETTING The Republic of Seychelles , an archipelago in the Indian Ocean where 85% of the population consumes ocean fish daily .
+MAIN OUTCOME MEASURES Prenatal and postnatal MeHg exposure and 6 age-appropriate neurodevelopmental tests : the McCarthy Scales of Children's Abilities , the Preschool Language Scale , the Woodcock-Johnson Applied Problems and Letter and Word Recognition Tests of Achievement , the Bender Gestalt test , and the Child Behavior Checklist .
+RESULTS The mean maternal hair total mercury level was 6.8 ppm and the mean child hair total mercury level at age 66 months was 6.5 ppm .
+No adverse outcomes at 66 months were associated with either prenatal or postnatal MeHg exposure .
+CONCLUSION In the population studied , consumption of a diet high in ocean fish appears to pose no threat to developmental outcomes through 66 months of age .

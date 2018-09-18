@@ -1,0 +1,10 @@
+Polychlorinated biphenyls ( PCBs ) are carcinogenic .
+Estimating PCB half-life in the body based on levels in sera from exposed workers is complicated by the fact that occupational exposure to PCBs was to commercial PCB products ( such as Aroclors 1242 and 1254 ) comprised of varying mixtures of PCB congeners .
+Half-lives were estimated using sera donated by 191 capacitor manufacturing plant workers in 1976 during PCB use ( 1946-1977 ) , and post-exposure ( 1979 , 1983 , and 1988 ) .
+Our aims were to : ( 1 ) determine the role of covariates such as gender on the half-life estimates , and ( 2 ) compare our results with other published half-life estimates based on exposed workers .
+All serum PCB levels were adjusted for PCB background levels .
+A linear spline model with a single knot was used to estimate two separate linear equations for the first two serum draws ( Equation A ) and the latter two ( Equation B ) .
+Equation A gave half-life estimates of 1.74 years and 6.01 years for Aroclor 1242 and Aroclor 1254 , respectively .
+Estimates were 21.83 years for Aroclor 1242 and 133.33 years for Aroclor 1254 using Equation B. High initial body burden was associated with rapid PCB elimination in workers at or shortly after the time they were occupationally exposed and slowed down considerably when the dose reached background PCB levels .
+These concentration-dependent half-life estimates had a transition point of 138.57 and 34.78 ppb for Aroclor 1242 and 1254 , respectively .
+This result will help in understanding the toxicological and epidemiological impact of exposure to PCBs in humans .

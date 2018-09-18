@@ -1,0 +1,14 @@
+Accurate estimates of inorganic arsenic intake are critical for evaluating potential health risks .
+Intake estimates have not been critically examined in regions of the United States where people are at risk from arsenic concentrations in drinking water exceeding the maximum contaminant limit of 10 microg/l .
+In southeastern Michigan , approximately 8% of the population is exposed to arsenic in drinking water >10 microg/l .
+Four hundred and forty participants of a control group in this region , frequency matched to cases in a population-based bladder cancer case-control study , answered a questionnaire about water and food consumption and smoking history .
+Water samples were collected from participants ' current residences and analyzed for arsenic .
+Water arsenic data were combined with questionnaire data and published data of inorganic arsenic concentrations in select foods and cigarettes to examine the influence of arsenic in water at home , at work , and at other places , as well as inorganic arsenic intake from food and cigarettes .
+Monte Carlo simulations and analyses of individual-level intake estimates were conducted to quantify the variability attributed to different parameters in this primarily elderly white male population of southeastern Michigan .
+The 95th percentile of total inorganic arsenic intake ranges from 11 to 24 microg/day , depending on the intake metric selected .
+Results indicate that arsenic in home drinking water is the largest source of inorganic arsenic , accounting for 55.1% of the variance in the intake estimates .
+Food intake explains 37.3% of the variance , with rice being the largest contributor .
+In the upper decile of intake , consumption of plain water and beverages made with water at home , and ingestion of arsenic in water at work , also contribute to intake estimates .
+Water used for cooking and arsenic from smoking , however , only minimally alter the intake estimates .
+This is due to a relatively small volume of water absorbed into cooked foods and low concentrations of arsenic in cigarettes .
+Results from this study will assist investigators in better characterizing exposure to inorganic arsenic .

@@ -1,0 +1,10 @@
+N-Methyl-2-pyrrolidone ( NMP ) is a versatile organic solvent frequently used for surface cleaning such as paint stripping or graffiti removal .
+Liquid NMP is rapidly absorbed through the skin but dermal vapour phase absorption might also play an important role for the uptake of the solvent .
+This particular aspect was investigated in an experimental study with 16 volunteers exposed to 80 mg/m(3) NMP for 8 h under either whole-body , i.e. inhalational plus dermal , or dermal-only conditions .
+Additionally , the influence of moderate physical workload on the uptake of NMP was studied .
+The urinary concentrations of NMP and its metabolites 5-hydroxy-N-methyl-2-pyrrolidone ( 5-HNMP ) and 2-hydroxy-N-methylsuccinimide ( 2-HMSI ) were followed for 48 h and analysed by gas chromatography-mass spectrometry ( GC-MS ) .
+Percutaneous uptake delayed the elimination peak times and the apparent biological half-lives of NMP and 5-HNMP .
+Under resting conditions , dermal-only exposure resulted in the elimination of 71 +/- 8 mg NMP equivalents as compared to 169 +/- 15 mg for whole-body exposure .
+Moderate workload yielded 79 +/- 8 mg NMP ( dermal-only ) and 238 +/- 18 mg ( whole-body ) .
+Thus , dermal absorption from the vapour phase may contribute significantly to the total uptake of NMP , e.g. from workplace atmospheres .
+As the concentration of airborne NMP does not reflect the body dose , biomonitoring should be carried out for surveillance purposes .

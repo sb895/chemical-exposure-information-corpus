@@ -1,0 +1,9 @@
+BACKGROUND Indoor air pollution from solid fuels is a potentially important risk factor for cancer , yet data on cancers from organs other than the lung are scarce .
+We investigated if indoor air pollution from coal and wood are risk factors for additional cancers , particularly that of the upper aerodigestive tract ( oral cavity , larynx , pharynx and esophagus ) in the high-risk areas of central and eastern Europe .
+METHODS We used data from multi-center hospital-based case-control study of 1065 histologically confirmed upper aerodigestive tract cancer cases and 1346 controls .
+Standardized questionnaires were used to collect information on residential fuel use for cooking and heating .
+Using unconditional logistic regression , we calculated odds ratios ( ORs ) and 95% confidence intervals ( 95% CIs ) for upper aerodigestive tract cancer risk after adjusting for potential confounders .
+RESULTS Lifelong wood use was associated with pharyngeal and esophageal ( OR 4.05 , 95% CI : 1.30-12.68 and OR 2.71 , 95% CI : 1.21-6.10 , respectively ) .
+We observed an exposure-response relationship between duration of wood use and risk of pharyngeal cancer among those who had never used coal ( P(trend)=0.04 ) , ruling out the possibility of residual confounding by coal .
+Similarly , we observed an increased risk of laryngeal cancers and head & neck cancers among those who always used coal , with a noted exposure-response relationship ( P(trend)<0.01 ) .
+CONCLUSIONS Our results suggest a possible role of indoor air pollution from solid fuel use in head and neck carcinogenesis in the high risk area of central and eastern Europe .

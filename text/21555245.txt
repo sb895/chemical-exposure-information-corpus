@@ -1,0 +1,12 @@
+Tobacco smoke is a major source of adult exposure to cadmium ( Cd ) .
+Urine Cd levels ( CdU ) above 1.0 , 0.7 , and 0.5 \u03bcgCd/g creatinine have been associated with increased rates of microproteinuria and reduction in glomerular filtration rate .
+The two study objectives were to determine the prevalence and relative risk ( RR ) by smoking status for CdU above 1.0 , 0.7 , and 0.5 \u03bcgCd/g creatinine in U.S. adults ; and to describe geometric mean CdU by smoking status , age , and sex .
+NHANES 1999-2006 data for adults without chronic kidney disease were used to compute prevalence rates above the three CdU in current and former cigarette smokers , and non-smokers .
+RRs for smokers adjusted for age and sex were computed by logistic regression .
+Analysis of covariance was used to calculate geometric means of CdU adjusted for age , sex , smoking status , log urine creatinine , and interaction terms : age-smoking status and sex-smoking status .
+At selected ages , adjusted RR for exceeding each risk-associated CdU was highest for current smokers ( 3-13 times ) , followed by former smokers ( 2-3 times ) , compared to non-smokers .
+Adjusted RR for smokers increased with age and was higher in females than males .
+Adjusted geometric means of CdUs increased with age , were higher in females than in males regardless of smoking status , and were higher in current smokers than former smokers , who had higher levels than non-smokers at any age .
+Cigarette smoking greatly increases RR of exceeding renal risk-associated CdU .
+Former smokers retain significant risk of exceeding these levels compared to non-smokers .
+CdU increased with age , particularly in current smokers .

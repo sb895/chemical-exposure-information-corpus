@@ -1,0 +1,11 @@
+This study explored urinary cadmium levels among Torres Strait Islanders in response to concerns about potential health impact of high levels of cadmium in some traditional seafood ( dugong and turtle liver and kidney ) .
+Cadmium levels were measured by inductively coupled mass spectrometry in de-identified urine samples collected during general screening programs in 1996 in two communities with varying dugong and turtle catch statistics .
+Statistical analysis was performed to identify links between cadmium levels and demographic and background health information .
+Geometric mean cadmium level among the sample group was 0.83 mug/g creatinine with 12% containing over 2 microg/g creatinine .
+Cadmium level was most strongly associated with age ( 46% of variation ) , followed by sex ( females >males , 7% ) and current smoking status ( smokers >non-smokers , 4.7% ) .
+Adjusting model conditions suggested further positive associations between cadmium level and diabetes ( p=0.05 ) and residence in the predicted higher exposure community ( p=0.07 ) .
+Positive correlations between cadmium and body fat in bivariate analysis were eliminated by control for age and sex .
+This study found only suggestive differences in cadmium levels between two communities with predicted variation in exposure from traditional foods .
+However , the data indicate that factors linked with higher cadmium accumulation overlap with those of renal disease risk ( i.e. older , females , smokers , diabetes ) and suggest that levels may be sufficient to contribute to renal pathology .
+More direct assessment of exposure and health risks of cadmium to Torres Strait Islanders is needed given the disproportionate level of diet-related disease and the cultural importance of dugong and turtle .
+This study highlights the need to consider social and cultural variation in exposure and to define " safe " cadmium levels during diabetes given its rising global prevalence .

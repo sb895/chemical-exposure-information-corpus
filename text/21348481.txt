@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) have been widely used as flame retardants in textiles , polyurethane foams , and plastics .
+PBDEs exert toxic effects in various organisms , including humans , and are ubiquitous in the outdoor and indoor environment .
+Here we estimate total daily PBDE doses received by consumers in North America and Europe , along with the most important pathways and congeners , and derive PBDE elimination half-lives for chronic exposure .
+We estimate distributions for all parameters ( PBDE concentrations in exposure media , food consumption rates , etc. ) and conduct a probabilistic exposure assessment .
+We find that Americans are exposed the most , likely due to stricter fire regulations , followed by consumers from the UK and Continental Europe .
+In the central quantiles of the exposure distributions derived , food is the dominant pathway ; in the upper quantiles either food or oral and dermal exposure to dust .
+This reflects the lipophilic and persistent nature of PBDEs and their use in products for indoor-use .
+Median elimination half-lives are in a range of 1-3 years except for BDE-153 with about seven years and BDE-209 with 4-7 days .

@@ -1,0 +1,11 @@
+Environmental exposure to heavy metals is a well-known risk factor for cancers .
+To evaluate potential health risks of heavy metals ( Cr , Cd , Pb , As and Hg ) and Se in cultivated topsoil and grains , we investigated the concentrations of Hg , As and Se using atomic fluorescence spectrometry and Cr , Cd and Pb using inductive coupled plasma emission spectrometry ( ICP-MS ) .
+We also analyzed human cancer tissues for heavy metals .
+Potential health risks for local residents were evaluated by calculating the hazard index ( HI ) and the total carcinogenic risk ( TCR ) for soil heavy metals and the target hazard quotient ( THQ ) and the carcinogenic risk ( CR ) for grain heavy metals .
+A bioconcentration factor ( BCF ) was applied to quantify the bioaccumulation of heavy metals .
+Our results demonstrated that the mean concentrations of heavy metals in soil were all within the safety limits set by FAO/WHO and Chinese regulations ; however , the mean concentrations of Cr and Hg in grain exceeded the safety limits .
+HI and TCR for soil heavy metals were all within acceptable levels , but the THQ for four grain heavy metals exceeded the target value of 1 ( Cr , 2.64 ; Pb , 1.41 ; As , 1.24 ; Hg , 1.07 ; Cd , 0.39 ) .
+The grain CR for Cr , Pb and As exceeded the accepted risk level of 10(-6) .
+BCF values indicated that the bioaccumulation capacity decreased in the following sequence : Hg>Se>Cd>Cr>Pb>As .
+We also observed statistically significant correlations of topsoil Pb concentration with human gastric cancer and grain Hg with human liver cancer .
+Therefore , long-term low dose exposure of heavy metals may play a key role in tumorigenesis , and it may not be necessary to accumulate a high concentration of heavy metals in the human body for those metals to induce tumorigenesis .

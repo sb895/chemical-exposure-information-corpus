@@ -1,0 +1,10 @@
+Between 2001 and 2003 , the authors studied pregnancy outcomes and infant mortality among 202 married women in West Bengal , India .
+Reproductive histories were ascertained using structured interviews .
+Arsenic exposure during each pregnancy , including all water sources used , was assessed ; this involved measurements from 409 wells .
+Odds ratios for spontaneous abortion , stillbirth , neonatal mortality , and infant mortality were estimated with logistic regression based on the method of generalized estimating equations .
+Exposure to high concentrations of arsenic ( > or =200 microg/liter ) during pregnancy was associated with a sixfold increased risk of stillbirth after adjustment for potential confounders ( odds ratio ( OR ) = 6.07 , 95% confidence interval ( CI ) : 1.54 , 24.0 ; p = 0.01 ) .
+Arsenic-related skin lesions were found in 12 women who had a substantially increased risk of stillbirth ( OR = 13.1 , 95% CI : 3.17 , 54.0 ; p = 0.002 ) .
+The odds ratio for neonatal death was 2.81 ( 95% CI : 0.73 , 10.8 ) .
+No association was found between arsenic exposure and spontaneous abortion ( OR = 1.01 , 95% CI : 0.38 , 2.70 ) or overall infant mortality ( OR = 1.33 , 95% CI : 0.43 , 4.04 ) .
+This study adds to the limited evidence that exposure to high concentrations of arsenic during pregnancy increases the risk of stillbirth .
+However , there was no indication of the increased rates of spontaneous abortion and overall infant mortality that have been reported in some studies .

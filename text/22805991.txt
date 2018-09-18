@@ -1,0 +1,7 @@
+Adverse birth outcomes are associated with exposure to air pollution during pregnancy .
+Road proximity is a simple , widely available metric for capturing local variation in exposure to traffic-related air pollution .
+We characterized maternal exposure to traffic-related air pollution during pregnancy using residential proximity to major roadways among 2004-2008 singleton births in NC .
+Controlling for maternal race , age , education , nativity , marital status , and tobacco use , and season of birth , parity , infant sex , and Census tract-level urbanization and income , we evaluated the association between road proximity and pregnancy outcomes using generalized linear mixed models with a random intercept for each Census tract .
+Birth weight , birth weight percentile for gestational age , gestational hypertension , and small-for-gestational age were not associated with road proximity ; however , women residing within 250\u2009m of a major roadway were at 3-5% increased odds of low birth weight , preterm birth , and late preterm birth compared with women residing beyond 250\u2009m ( P<0.05 ) .
+Our analyses demonstrate an association between proximity to major roadways and pregnancy outcomes using a large sample .
+Road proximity may represent a relatively straightforward method for assessing maternal risk from exposure to traffic-related air pollution , with results offering guidance for studies that can more accurately characterize air pollution exposures .

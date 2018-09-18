@@ -1,0 +1,7 @@
+Breast milk samples ( n=74 ) from the general maternal population of Zhejiang province were analyzed for polychlorinated dibenzo-p-dioxins/furans ( PCDD/Fs ) , polychlorinated biphenyls ( PCBs ) , and polybrominated diphenyl ethers ( PBDEs ) .
+Samples were divided into urban and rural groups .
+Mean \u2211PCDD/F , \u2211PCB and \u2211PBDE concentrations were 71.4±40.8 , 42774±27841 and 2679±944 pg g(-1) lipid in the urban group and 38.6±38.1 , 26546±11375 and 2731±1093 pg g(-1) lipid in the rural group , respectively .
+WHO-TEQ concentrations for dioxin-like PCBs and PCDD/Fs were 2.66±1.43 and 3.90±2.60 pg g(-1) lipid in the urban group and 1.83±0.93 and 2.27±1.55 pg g(-1) lipid in the rural group , respectively .
+Congener profiles for these pollutants were compared between human samples ( adipose tissue and breast milk ) and foodstuffs ( seafood , hen eggs , and freshwater fish ) .
+Similar PCB and PCDD/F congener patterns were observed , suggesting that dietary intake is a significant source for human exposure to PCBs and PCDD/Fs .
+However , much lower PBDE congener levels were detected in breast milk than in foodstuffs , which implies that pathways other than dietary intake may also account for human exposure to PBDEs .

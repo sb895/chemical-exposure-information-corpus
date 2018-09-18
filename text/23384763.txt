@@ -1,0 +1,8 @@
+Systematic characterization of morphological , mineralogical , chemical and toxicological properties of various size fractions of the atmospheric particulate matter was a main focus of this study together with an assessment of the human health risks they pose .
+Even though near-ground atmospheric aerosols have been a subject of intensive research in recent years , data integrating chemical composition of particles and health risks are still scarce and the particle size aspect has not been properly addressed yet .
+Filling this gap , however , is necessary for reliable risk assessment .
+A high volume ambient air sampler equipped with a multi-stage cascade impactor was used for size specific particle collection , and all 6 fractions were a subject of detailed characterization of chemical ( PAHs ) and mineralogical composition of the particles , their mass size distribution and genotoxic potential of organic extracts .
+Finally , the risk level for inhalation exposure associated to the carcinogenic character of the studied PAHs has been assessed .
+The finest fraction ( <0.45 \u03bcm ) exhibited the highest mass , highest active surface , highest amount of associated PAHs and also highest direct and indirect genotoxic potentials in our model air sample .
+Risk assessment of inhalation scenario indicates the significant cancer risk values in PM 1.5 size fraction .
+This presented new approach proved to be a useful tool for human health risk assessment in the areas with significant levels of air dust concentration .

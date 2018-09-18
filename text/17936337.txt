@@ -1,0 +1,12 @@
+A proper selection of route through the urban area may significantly reduce the air pollution exposure .
+This is the main conclusion from the presented study .
+Air pollution exposure is determined for two selected cohorts along the route going from home to working place , and back from working place to home .
+Exposure is determined with a street pollution model for three scenarios : bicycling along the shortest possible route , bicycling along the low exposure route along less trafficked streets , and finally taking the shortest trip using public transport .
+Furthermore , calculations are performed for the cases the trip takes place inside as well as outside the traffic rush hours .
+The results show that the accumulated air pollution exposure for the low exposure route is between 10% and 30% lower for the primary pollutants ( NO(x) and CO ) .
+However , the difference is insignificant and in some cases even negative for the secondary pollutants ( NO(2) and PM(10)/PM(2.5) ) .
+Considering only the contribution from traffic in the travelled streets , the accumulated air pollution exposure is between 54% and 67% lower for the low exposure route .
+The bus is generally following highly trafficked streets , and the accumulated exposure along the bus route is therefore between 79% and 115% higher than the high exposure bicycle route ( the short bicycle route ) .
+Travelling outside the rush hour time periods reduces the accumulated exposure between 10% and 30% for the primary pollutants , and between 5% and 20% for the secondary pollutants .
+The study indicates that a web based route planner for selecting the low exposure route through the city might be a good service for the public .
+In addition the public may be advised to travel outside rush hour time periods .

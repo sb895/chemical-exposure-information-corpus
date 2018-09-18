@@ -1,0 +1,9 @@
+Seven polybrominated diphenyl ethers ( PBDEs ) congeners ( BDE-28 , BDE-47 , BDE-99 , BDE-100 , BDE-153 , BDE-154 and BDE-183 ) and six indicator polychlorinated biphenyls ( PCBs ) congeners ( CB-28 , CB-52 , CB-101 , CB-138 , CB-153 and CB-180 ) were measured in 24 pooled human milk samples comprised of 1237 individual samples from 12 provinces in China .
+The samples were taken to estimate the background body burden of general population and assess nursing infant exposure via human milk in China .
+The median concentrations of \u2211(7)PBDEs and \u2211(6)PCBs were 1.49 and 10.50 ng g(-1) lipid weight ( lw ) , respectively .
+BDE-28 , BDE-47 and BDE-153 were predominant PBDE congeners accounting for nearly 70% of \u2211(7)PBDEs .
+As for indicator PCBs , CB-153 was the most abundant congener , followed by CB-138 .
+In our study , there was no significantly statistical relationship between concentrations of PBDEs in milk samples and maternal age as well as dietary habits. \u2211(7)PBDEs did not correlate to \u2211(6)PCBs in Chinese mothers ' milk .
+The human exposure to indicator PCBs in China was found to be significantly determined by maternal age , dietary habits and geographical factors .
+It is suggested that Chinese general population is probably exposed to PBDEs with multiple sources and pathways .
+The estimated daily intakes ( EDI ) of BDE-47 , BDE-99 and BDE-153 for the Chinese nursing infant were much lower than corresponding threshold reference values suggested by USEPA .

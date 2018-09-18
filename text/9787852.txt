@@ -1,0 +1,17 @@
+Although female breast cancer rates are lower in China than in Western countries , rates have been rising rapidly in China .
+This increase may be due to changes in established breast cancer risk factors , but it is possible that exposure to occupational and environmental carcinogens in Shanghai also have contributed to the rise in incidence .
+We used data collected by the Shanghai Cancer Registry and the Chinese Third National Census to study the risk of breast cancer by occupation and by occupational exposures .
+Standardized incidence ratios ( SIRs ) were used to compare observed cases to expected numbers of cases , based on the incidence rates for Shanghai and the number of women in each occupation according to the 1982 census .
+Statistically elevated SIRs for breast cancer were seen for a number of professional occupational categories , with the greatest risk seen among scientific research workers ( SIR = 3.3 ) .
+Administrative clerks , political and security personnel , and makers of rubber and plastics products also had significant excesses .
+Significant deficits of risk were seen for the categories of production and related workers , construction workers , and transportation equipment operators .
+For specific occupations , the highest SIRs were observed among doctors of Chinese-Western medicine ( SIR = 14.7 , 95% CI = 5.9-30.3 ) and doctors of Chinese medicine ( SIR = 7.2 , 95% CI = 4.4-11.4 ) .
+We also found excesses among teachers at each level of education , librarians , clerical workers , electrical and electronic engineers , nurses , lab technicians , accountants and bookkeepers , rubber manufacturing products makers , weavers , and knitters .
+SIRs were significantly elevated for high probability of exposure to organic solvents ( SIR = 1.4 ) .
+For benzene exposure , we found significant excesses for overall exposure ( SIR = 1.1 ) and for medium level of exposure ( SIR = 1.3 ) .
+There was no evidence of an association between risk and electromagnetic fields ( EMF ) exposure .
+Based on a small number of exposed , SIRs were elevated for both medium probability and high level of exposure to pesticides .
+The elevations in occupations reported here support some previous reports .
+Our finding of an increased risk associated with benzene also has been reported previously ; the finding for organic solvents is new .
+However , the literature on the risk of breast cancer related to occupational exposures is limited and there is no consistent body of literature for any of the exposures studied here .
+Further , many comparisons were made and the problem of multiple hypothesis testing cannot be ignored in a survey such as ours .

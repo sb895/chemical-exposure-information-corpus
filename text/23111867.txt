@@ -1,0 +1,6 @@
+Ambient aerosol concentrations along the roadside of metropolitan cities of Pakistan were measured using a Grimm 1.109 dust monitor .
+Considering the high ambient aerosol concentrations , regional lung deposition of aerosol particles in the human respiratory tract was calculated to assess extent of exposure .
+Lung deposition was computed in terms of mass concentration and the associated surface area for 12 male traffic wardens using the latest version of the stochastic lung deposition code Inhalation , Deposition , and Exhalation of Aerosols in the Lung .
+The results have revealed 4 to 10 times higher concentrations than recommended by WHO guidelines .
+The deposition results derived from the model disclose that extrathoracic deposition is in the range of 22 to 28 % with total lung deposition ranging from 40 to 44 % for the scanned particle window of 0.25-10 \u03bcm .
+Considering an average 8-h shift per day and an average breathing rate of 1.3 m(3) h(-1) , it is approximated that in a worker , up to 1.6 mg of inhalable particle mass can deposit per day .

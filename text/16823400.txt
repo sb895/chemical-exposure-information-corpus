@@ -1,0 +1,10 @@
+We analyzed the weighted 2001-2002 National Health and Nutrition Examination Survey data to assess potential differences in mean total 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) TEQ between various groups of individuals and to determine serum reference concentrations for polychlorinated dibenzo-p-dioxins , dibenzofurans ( PCDD/Fs ) and dioxin-like polychlorinated biphenyls ( PCBs ) in the general US population .
+Differences appeared to exist between female smokers and non-smokers and between non-Hispanic groups and all other races .
+Potential differences were also observed among the four age groups with an increasing trend in mean total TCDD TEQ with increasing age .
+Both age and gender appeared to confound the association between smoking status and total TCDD TEQ , dictating the need for further analysis .
+As anticipated , PCBs contributed appreciably to the total TCDD TEQ levels in the referent population and accounted for 38% to 41% of the total TEQ depending on age .
+Nearly 80% of the mean total TCDD TEQ was attributable to four PCDD/F congeners and three PCB congeners .
+In this analysis , two methods were used to assess samples where the concentrations were below the limits of detection ( LODs ) , and this did not have significant impact on the mean total TCDD TEQ at the higher percentiles and for older individuals .
+Comparison of our results to those from a recent PCDD/F biomonitoring study indicates that the mean TCDD TEQ serum concentration of the individuals studied does not appear to be different from typical levels found in the general US population .
+Additionally , an assessment of data from the National Human Adipose Tissue Survey using our referent statistics shows that levels of these chemicals have been declining in the general population for at least two decades .
+The reference TEQs presented in this paper provide relevant , current data that can be used to evaluate biomonitoring results of individuals or groups exposed or potentially exposed to PCDD/Fs and PCBs above referent levels .

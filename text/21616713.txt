@@ -1,0 +1,10 @@
+In the past , polychlorinated biphenyls ( PCBs ) have been widely used and were distributed in the environment .
+Due to their high persistence and bioaccumulative potential , they can still be detected in the blood of the general population , despite their ban more than 20 years ago .
+Among the various congeners , the presence of dioxin-like PCBs in blood raises the highest environmental concerns due to their critical toxicological properties .
+We determined the plasma concentrations of 6 non-dioxin-like and 12 dioxin-like PCBs as well as the organochlorine pesticides HCB and p,p'-DDE ( p,p'-dichlorodiphenyldichloroethylene ) in a group of 105 non-smokers out of the German general population by GC/MS as an estimate of the background burden to these compounds .
+The organochlorine compounds were extracted from plasma with n-hexane , cleaned up on a silica gel column and finally quantified using GC/MS and ( 13)C(12)-labelled internal standards .
+The limit of detection for all congeners was determined to be 0.01 \u03bcg/Lplasma .
+Age had a strong influence on the plasma levels of HCB ( hexachlorobenzene ) , p,p'-DDE and all higher chlorinated PCB congeners , while no gender difference was observed .
+Among the dioxin-like PCBs , PCB 118 , PCB 156 and PCB 167 were detectable in 74-98% of all samples .
+Highly significant correlations between several PCB-congeners were observed .
+Our results provide for the first time volume-based data on the extent of the age-related background burden to dioxin-like PCBs in Germany .

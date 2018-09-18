@@ -1,0 +1,6 @@
+OBJECTIVE Thyroid hormones play an important role in human brain development , and some organochlorine compounds ( OCs ) act as thyroid disruptors .
+The objective of the present study was to evaluate the association between prenatal exposure to organochlorine compounds and thyroid function in newborns from a general population birth cohort in Menorca , with an a-priori specific focus on beta-HCH .
+METHODS Levels of polychlorinated biphenyls ( PCB congeners 28 , 52 , 101 , 118 , 138 , 153 and 180 ) , hexachlorobenzene ( HCB ) , beta-hexachlorocyclohexane ( beta-HCH ) , dichlorodiphenyl dichloroethylene ( p'p'-DDE ) and dichlorodiphenyl trichloroethane ( p'p-DDT ) in cord serum , and thyrotropin ( TSH ) concentration in plasma three days after birth were measured in 387 newborns from Menorca .
+The TSH concentration was categorized ( high or low ) , except for 27 children whose TSH levels were quantified .
+RESULTS Levels of beta-HCH and PCB-153 were positively related to TSH concentrations ( gestational age-adjusted coefficient ( p-value ) : 0.26 ( p = 0.006 ) and 0.31 ( p = 0.050 ) , respectively ) .
+CONCLUSIONS beta-HCH is potentially a new thyroid disrupting compound , deserving special interest in future studies given its high body burden in humans .

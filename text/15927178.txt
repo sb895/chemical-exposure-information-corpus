@@ -1,0 +1,12 @@
+Endocrine-disrupting chemicals ( EDCs ) have been proposed as risk factors for endometriosis .
+Persistent organochlorine compounds , a group of suspected EDCs , are present to some extent in almost all human adipose tissue and blood via the food chain .
+A few animal studies have confirmed that exposure to these compounds can increase the incidence of endometriosis .
+In this study , we examined the associations between endometriosis and exposure to selected organochlorine compounds , including 8 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) , 4 coplanar polychlorinated biphenyls ( cPCBs ) , 36 ortho-substituted polychlorinated biphenyls ( PCBs ) , and 13 chlorinated pesticides or their metabolites .
+The participants were 139 infertile Japanese women who were examined by laparoscopy and diagnosed as either endometriosis cases ( Stages II-IV ) or controls ( Stages 0-I ) .
+The serum levels ( lipid adjusted ) of the targeted organochlorine compounds were in both 58 cases and 81 controls .
+There were very few differences in the various levels between endometriosis cases and controls .
+The total serum toxic equivalency ( TEQ ) value of PCDDs was significantly higher in the controls than in the cases ( P=0.02 ) .
+No other total TEQ values differed between cases and controls .
+For PCDDs , PCDFs , cPCBs , and PCBs , the multivariate odds ratio was 0.38 [ 95% confidence interval ( CI ) , 0.12-1.17 ] and 0.41 ( 95% CI , 0.14-1.27 ) for the third and highest quartiles , respectively , compared to the lowest quartile of total TEQ values .
+A weak , negative dose-response relationship was evident for total TEQs ( P for trend of 0.06 ) .
+The results of this study provide some evidence that serum levels of these organochlorine compounds are not associated with an increased risk of endometriosis in infertile Japanese women .

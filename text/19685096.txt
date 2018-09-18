@@ -1,0 +1,10 @@
+In this study , the concentrations of 13 perfluorinated compounds ( PFCs ) ( PFBuS , PFHxS , PFOS , THPFOS , PFHxA , PFHpA , PFOA , PFNA , PFDA , PFUnDA , PFDoDA , PFTDA , and PFOSA ) were analyzed in municipal drinking water samples collected at 40 different locations from 5 different zones of Catalonia , Spain .
+Detection limits ranged between 0.02 ( PFHxS ) and 0.85 ng/L ( PFOA ) .
+The most frequent compounds were PFOS and PFHxS , which were detected in 35 and 31 samples , with maximum concentrations of 58.1 and 5.30 ng/L , respectively .
+PFBuS , PFHxA , and PFOA were also frequently detected ( 29 , 27 , and 26 samples , respectively ) , with maximum levels of 69.4 , 8.55 , and 57.4 ng/L .
+In contrast , PFDoDA and PFTDA could not be detected in any sample .
+The most contaminated water samples were found in the Barcelona Province , whereas none of the analyzed PFCs could be detected in two samples ( Banyoles and Lleida ) , and only one PFC could be detected in four of the samples .
+Assuming a human water consumption of 2 L/day , the maximum daily intake of PFOS and PFOA from municipal drinking water would be , for a subject of 70 kg of body weight , 1.7 and 1.6 ng/kg/day .
+This is clearly lower than the respective Tolerable Daily Intake set by the European Food Safety Authority .
+In all samples , PFOS and PFOA also showed lower levels than the short-term provisional health advisory limit for drinking water ( 200 ng PFOS/L and 400 ng PFOA/L ) set by the US Environmental Protection Agency .
+Although PFOS and PFOA concentrations found in drinking water in Catalonia are not expected to pose human health risks , safety limits for exposure to the remaining PFCs are clearly necessary , as health-based drinking water concentration protective for lifetime exposure is set to 40 ng/L for PFOA .

@@ -1,0 +1,6 @@
+Benzene , naphthalene , and 1- and 2-naphthol were measured in urine samples obtained from 322 U.S. Air Force personnel categorized a priori as likely to have low , moderate , or high exposure to jet fuel [ jet propulsion fuel-8 ( JP-8) ] .
+In postexposure samples , levels of these analytes in the high-exposure group were 3- to 29-fold greater than in the low-exposure group and 2- to 12-fold greater than in the moderate-exposure group .
+Heavy exposure to JP-8 contributed roughly the same amount of benzene and more than three times the amount of naphthalene compared with cigarette smoking .
+Strong correlations were observed among postexposure levels of naphthalene-based biomarkers in urine and naphthalene in air and breath .
+We conclude that urinary naphthalene and the naphthols can serve as biomarkers of exposure to jet fuel .
+Of these , the naphthols are probably more useful because of their greater abundance and slower elimination kinetics .

@@ -1,0 +1,9 @@
+We sought to characterize the relationships between cord serum concentrations of chlordane and permethrin pesticides , inflammatory cytokines , gestational age , and size at birth .
+Umbilical cord serum levels of trans-nonachlor , oxychlordane , cis- and trans-permethrin , piperonyl butoxide , and cytokines ( TNF-\u03b1 , IFN-\u03b3 , IL-1\u03b2 , IL-2 , IL-6 , IL-8 , IL-10 , IL-12p70 , GMCSF ) were quantified in 300 newborns at the Johns Hopkins Hospital in Baltimore , MD ( 2004-2005 ) .
+Principal component analyses were used to quantitate chlordane and permethrin mixtures and to identify independent cytokine components .
+Five cytokine components described 87% of the variance in cord serum cytokine levels ; these ( and predominant loadings ) were as follows : ( 1 ) all 9 cytokines ; ( 2 ) acute phase ( IL-1\u03b2 , IL-6 ) ; ( 3 ) anti-inflammatory ( IL-10 ) ; ( 4 ) TNF-\u03b1 ; and ( 5 ) IL-1\u03b2 .
+Of these , the TNF-\u03b1 component was significantly associated with a 2-day decrease in gestational age .
+Chlordane was associated with lower levels of the pro-inflammatory IL-1\u03b2 [ \u03b2 : -0.11 ( -0.20 , -0.02) ] .
+Permethrin was negatively associated with the anti-inflammatory cytokine IL-10 [ \u03b2 : -0.14 ( -0.22 , -0.05) ] .
+Neither pesticides nor cytokines were significantly associated with birthweight , length , or head circumference , and pesticides were not associated with gestational age .
+Our findings suggest that chlordane and permethrin concentrations in cord blood may be associated with levels of inflammatory cytokines in the fetus .

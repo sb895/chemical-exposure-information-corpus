@@ -1,0 +1,15 @@
+CONTEXT Dental ( silver ) amalgam is a widely used restorative material containing 50% elemental mercury that emits small amounts of mercury vapor .
+No randomized clinical trials have determined whether there are significant health risks associated with this low-level mercury exposure .
+OBJECTIVE To assess the safety of dental amalgam restorations in children .
+DESIGN A randomized clinical trial in which children requiring dental restorative treatment were randomized to either amalgam for posterior restorations or resin composite instead of amalgam .
+Enrollment commenced February 1997 , with annual follow-up for 7 years concluding in July 2005 .
+SETTING AND PARTICIPANTS A total of 507 children in Lisbon , Portugal , aged 8 to 10 years with at least 1 carious lesion on a permanent tooth , no previous exposure to amalgam , urinary mercury level <10 microg/L , blood lead level <15 microg/dL , Comprehensive Test of Nonverbal Intelligence IQ > or =67 , and with no interfering health conditions .
+INTERVENTION Routine , standard-of-care dental treatment , with one group receiving amalgam restorations for posterior lesions ( n = 253 ) and the other group receiving resin composite restorations instead of amalgam ( n = 254 ) .
+MAIN OUTCOME MEASURES Neurobehavioral assessments of memory , attention/concentration , and motor/visuomotor domains , as well as nerve conduction velocities .
+RESULTS During the 7-year trial period , children had a mean of 18.7 tooth surfaces ( median , 16 ) restored in the amalgam group and 21.3 ( median , 18 ) restored in the composite group .
+Baseline mean creatinine-adjusted urinary mercury levels were 1.8 microg/g in the amalgam group and 1.9 microg/g in the composite group , but during follow-up were 1.0 to 1.5 microg/g higher in the amalgam group than in the composite group ( P<.001 ) .
+There were no statistically significant differences in measures of memory , attention , visuomotor function , or nerve conduction velocities ( average z scores were very similar , near zero ) for the amalgam and composite groups over all 7 years of follow-up , with no statistically significant differences observed at any time point ( P values from .29 to .91 ) .
+Starting at 5 years after initial treatment , the need for additional restorative treatment was approximately 50% higher in the composite group .
+CONCLUSIONS In this study , children who received dental restorative treatment with amalgam did not , on average , have statistically significant differences in neurobehavioral assessments or in nerve conduction velocity when compared with children who received resin composite materials without amalgam .
+These findings , combined with the trend of higher treatment need later among those receiving composite , suggest that amalgam should remain a viable dental restorative option for children .
+TRIAL REGISTRATION clinicaltrials.gov Identifier : NCT00066118 .

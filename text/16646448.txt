@@ -1,0 +1,16 @@
+Urinary methoxyphenols have been proposed as biomarkers for woodsmoke exposure , but the relationship between exposure and urinary methoxyphenol concentrations has not been characterized .
+We collected personal particulate matter2.5 and urine samples from 9 adults experimentally exposed to smoke from an open wood fire to characterize this relationship .
+Personal exposures ( PM2.5 mean 1500 microg/ m3 ) varied 3.5-fold .
+Twenty-two methoxyphenols , levoglucosan , and 17 polynuclear hydrocarbons were quantified by gas chromatography/mass spectrometry assays for personal filter samples and urine samples .
+Most methoxyphenols had measurable preexposure levels .
+Propylguaiacol , syringol , methylsyringol , ethylsyringol , and propylsyringol had peak urinary concentrations after the woodsmoke exposure .
+Eight subjects had peak urinary elimination of methoxyphenols within 6 h ( t1/2 3-5 h ) , whereas one had delayed elimination .
+Several metrics for urinary excretion were evaluated .
+Analyte concentration was greatly affected by diuresis .
+Excretion rate and analyte concentrations normalized by creatinine gave a clearer signal and were equivalent in predictive ability .
+Twelve-hour average creatinine-normalized concentrations of each of the 5 methoxyphenols gave a Pearson correlation > or = 0.8 with their particle-phase concentration .
+The sum of urinary concentrations for the 5 methoxyphenols versus levoglucosan on personal filters gave a regression coefficient of 0.75 .
+This sum versus PM2.5 gave a regression coefficient of 0.79 .
+The intercept of this regression suggests that the threshold for detection of an acute exposure event would be approximately 760 microg/m3 particulate matter from woodsmoke .
+The signal-to-noise ( 12-h postexposure average/preexposure average ) ranged from 1.1 to 8 for the 5 methoxyphenols .
+Analysis of multiple compounds provided assurance that elevations were not artifactual due to food or other products .

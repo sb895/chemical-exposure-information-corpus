@@ -1,0 +1,9 @@
+The mercury concentration in blood or scalp hair has been widely used as a biomarker for methylmercury exposure .
+Because of the increased risks associated with exposures during prenatal and early postnatal development , biomarker results must be interpreted with regard to the age-dependent susceptibility .
+The authors compared regression coefficients for five sets of exposure biomarkers in 917 children from the Faroe Islands examined at birth , 1 year , and 7 years .
+Outcome variables were the results of neuropsychologic examination carried out in 1993-1994 at age 7 years .
+After adjustment for covariates , the cord-blood concentration showed the clearest associations with deficits in language , attention , and memory .
+Fine-motor function deficits were particularly associated with the maternal hair mercury at parturition .
+Mercury concentrations in the child's blood and hair at age 7 years were significant predictors only of performance on memory for visuospatial information .
+These findings emphasize the usefulness of the cord-blood mercury concentration as a main risk indicator .
+They also support the notion that the greatest susceptibility to methylmercury neurotoxicity occurs during late gestation , while early postnatal vulnerability is less , and they suggest that the time-dependent susceptibility may vary for different brain functions .

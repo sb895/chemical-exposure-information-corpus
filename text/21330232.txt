@@ -1,0 +1,10 @@
+BACKGROUND Residential proximity to agricultural pesticide applications has been used as a surrogate for exposure in epidemiologic studies , although little is known about the relationship with levels of pesticides in homes .
+OBJECTIVE We identified determinants of concentrations of agricultural pesticides in dust .
+METHODS We collected samples of carpet dust and mapped crops within 1,250 m of 89 residences in California .
+We measured concentrations of seven pesticides used extensively in agriculture ( carbaryl , chlorpyrifos , chlorthal-dimethyl , diazinon , iprodione , phosmet , and simazine ) .
+We estimated use of agricultural pesticides near residences from a statewide database alone and by linking the database with crop maps .
+We calculated the density of pesticide use within 500 and 1,250 m of residences for 180 , 365 , and 730 days before collection of dust and evaluated relationships between agricultural pesticide use estimates and pesticide concentrations in carpet dust .
+RESULTS For five of the seven pesticides evaluated , residences with use of agricultural pesticides within 1,250 m during the previous 365 days had significantly higher concentrations of pesticides than did residences with no nearby use .
+The highest correlation with concentrations of pesticides was generally for use reported within 1,250 m of the residence and 730 days before sample collection .
+Regression models that also accounted for occupational and home use of pesticides explained only a modest amount of the variability in pesticide concentrations ( 4-28% ) .
+CONCLUSIONS Agricultural pesticide use near residences was a significant determinant of concentrations of pesticides in carpet dust for five of seven pesticides evaluated .

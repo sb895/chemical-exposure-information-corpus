@@ -1,0 +1,8 @@
+A case-control study comprising 224 male and 92 female incident lung cancer cases and the same number of individually matched hospital controls was conducted from June 1983 to June 1984 in Guangzhou , People's Republic of China , to evaluate the association between indoor air pollution and lung cancer risk .
+Guangzhou residents were exposed to several sources of pollution in their homes , most importantly to cooking fumes .
+Increased risks were found among subjects living in a house without a separate kitchen ( the exposure odds ratio was 2.4 ( 95% confidence interval ( CI ) 1.4-4.2 ) for men and 5.9 ( 95% CI 2.1-16.0 ) for women ) .
+Similarly , living in a house with poor air circulation was associated with an exposure odds ratio of 2.1 ( 95% CI 1.2-3.8 ) for men and 3.6 ( 95% CI 1.4-9.3 ) for women .
+A trend in the association between lung cancer risk and factors pertaining to house and kitchen ventilation was observed , and a decreasing risk of lung cancer was observed for several variables indicating better ventilation , even after adjustment for potential confounders such as education , occupation , living area , smoking , and history of chronic respiratory diseases .
+No statistically significant differences were found between cases and controls for frequency of cooking at home , presence of a chimney in the kitchen , or type of cooking fuel .
+Smoking was clearly related to risk of lung cancer in both men and women , and among nonsmoking women , exposure to tobacco smoke from their spouses was also associated with an increased risk .
+These results suggest that , in addition to smoking , indoor air pollution may be a risk factor for lung cancer .

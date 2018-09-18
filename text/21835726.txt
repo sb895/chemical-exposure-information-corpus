@@ -1,0 +1,10 @@
+BACKGROUND Cadmium is a nephrotoxicant at high exposure levels .
+Few studies have evaluated the role of cadmium in kidney function at low-exposure levels .
+OBJECTIVE We evaluated the association of blood cadmium with estimated glomerular filtration rate ( eGFR ) in the Korean adult population .
+METHODS We evaluated 1,909 adults \u2265 20 years of age who participated in the 2005 Korean National Health and Nutrition Examination Survey and had blood cadmium determinations. eGFR was calculated using the Modification of Diet in Renal Disease equation .
+RESULTS Blood cadmium geometric means were 1.57 \u03bcg/L for men and 1.49 \u03bcg/L for women .
+The difference in eGFR levels that compared participants in the highest versus lowest cadmium tertiles , after multivariable adjustment , was -1.85 [ 95% confidence interval ( CI ) : -3.55 , -0.16 ] mL/min per 1.73 m2 in women and 0.67 ( -1.16 , 2.50 ) mL/min per 1.73 m2 in men .
+Among men , the association between blood cadmium and eGFR was modified by blood lead levels ( p-value for interaction = 0.048 ) .
+The fully adjusted differences in eGFR levels for a 2-fold increase in blood cadmium levels were -1.14 ( -3.35 , 1.07 ) and 1.84 ( 0.54 , 3.14 ) mL/min per 1.73 m2 in men with blood lead levels below and above the median ( 2.75 \u03bcg/dL ) , respectively .
+CONCLUSION Elevated blood cadmium levels were associated with lower eGFR in women , which supports the role of cadmium as a risk factor for chronic kidney disease .
+In men , there was no overall association , although elevated blood cadmium levels were associated with higher eGFR levels in men with high blood lead levels and nonstatistically associated with lower eGFR levels in men with low blood lead levels .

@@ -1,0 +1,8 @@
+This research has the aim to evaluate the risk of pesticide dermal exposure for workers in greenhouses .
+We considered the following crops : tomato , cucumber and strawberry , largely spread in Bracciano lake district .
+The pesticides monitored were : tetradifon on strawberry : metalaxyl , azoxystrobin and fenarimol on cucumber ; acrinathrin , azoxystrobin and chlorpyrifos ethyl on tomato .
+The dermal exposure was evaluated by Dislodgeable Foliar Residue ( DFR ) measurements employing transfer coefficients got from literature .
+For risk evaluation , we have compared the dermal exposures with Acceptable Operator Exposure Levels ( AOEL ) .
+The re-entry time were obtained intercepting the dose decay curves with AOEL values .
+The re-entry times result higher than two days in the cases of chlorpyrifos on tomato ( re-entry time : 3 days ) , azoxystrobin on tomato ( 4 days ) , and tetradifon on strawberry ( 8 days ) .
+The need of measuring specific transfer coefficients is pointed out .

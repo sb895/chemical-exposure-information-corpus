@@ -1,0 +1,10 @@
+Indoor air concentrations of polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) measured in 20 locations in Toronto ranged 0.008-16 ng·m(-3) ( median 0.071 ng·m(-3) ) and 0.8-130.5 ng·m(-3) ( median 8.5 ng·m(-3) ) , respectively .
+PBDE and PCB air concentrations in homes tended to be lower than that in offices .
+Principal component analysis of congener profiles suggested that electrical equipment was the main source of PBDEs in locations with higher concentrations , whereas PUF furniture and carpets were likely sources to locations with lower concentrations .
+PCB profiles in indoor air were similar to Aroclors 1248 , 1232 , and 1242 and some exterior building sealant profiles .
+Individual PBDE and PCB congener concentrations in air were positively correlated with colocated dust concentrations , but total PBDE and total PCB concentrations in these two media were not correlated .
+Equilibrium partitioning between air and dust was further examined using log-transformed dust/air concentration ratios for which lower brominated PBDEs and all PCBs were correlated with K(OA) .
+This was not the case for higher brominated BDEs for which the measured ratios fell below those based on K(OA) suggesting the air-dust partitioning process could be kinetically limited .
+Total emissions of PBDEs and PCBs to one intensively studied office were estimated at 87-550 ng·h(-1) and 280-5870 ng·h(-1) , respectively , using the Multimedia Indoor Model of Zhang et al .
+Depending on the air exchange rate , up to 90% of total losses from the office could be to outdoors by means of ventilation .
+These results support the hypotheses that dominant sources of PBDEs differ according to location and that indoor concentrations and hence emissions contribute to outdoor concentrations due to higher indoor than outdoor concentrations along with estimates of losses via ventilation .

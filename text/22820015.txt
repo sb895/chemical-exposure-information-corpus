@@ -1,0 +1,12 @@
+OBJECTIVE Perfluorooctanoic acid ( PFOA ) has applications in numerous industrial and consumer products .
+The widespread prevalence of PFOA in humans demonstrated in recent studies has drawn considerable interest from the public .
+We aimed to evaluate the exposure of mothers to PFOA and the potential hazards to neonates in a primitive electronic waste recycling area , Guiyu , China , and a control area , Chaonan , China .
+METHODS Our investigation included analyses of maternal serum samples , health effect examinations , and other relevant factors .
+Questionnaires were administered and maternal serum samples were collected for 167 pregnant women .
+Solid phase extraction method was used for all analytical sample preparation , and analyses were completed using high performance liquid chromatography tandem mass spectrometry method .
+RESULTS The PFOA concentration was higher in maternal serum samples from Guiyu than in samples from Chaonan ( median 16.95 , range 5.5-58.5 ng mL(-1) ; vs. 8.7 , range 4.4-30.0 ng mL(-1) ; P<0.001 ) .
+Residence in Guiyu , involvement in e-waste recycling , husband's involvement in e-waste and use of the family residence as workshop were significant factors contributing to PFOA exposure .
+Maternal PFOA concentrations were significantly different between normal births and adverse birth outcomes including premature delivery , term low birth weight , and stillbirths .
+After adjusting for potential confounders , PFOA was negatively associated with gestational age [ per lg-unit : \u03b2=-15.99 days , 95% confidence interval ( CI ) , -27.72 to -4.25 ] , birth weight ( per lg-unit : \u03b2=-267.3g , 95% CI , -573.27 to -37.18 ) , birth length ( per lg-unit : \u03b2=-1.91 cm , 95% CI , -3.31 to -0.52 ) , and Apgar scores ( per lg-unit : \u03b2=-1.37 , 95% CI , -2.42 to -0.32 ) , but not associated with ponderal index .
+CONCLUSIONS Mothers from Guiyu were exposed to higher levels of PFOA than those from control areas .
+Prenatal exposure to PFOA was associated with decreased neonatal physical development and adverse birth outcomes .

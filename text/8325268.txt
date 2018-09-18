@@ -1,0 +1,10 @@
+Chronic exposure to particulates has been associated with increased rates of bronchitis and other respiratory ailments , with loss of lung function , and with increased risk of lung cancer .
+Despite these findings , debate continues about the adverse health effects of exposure to airborne particles at concentrations often seen in urban areas .
+This issue was examined by looking at reported rates of chronic respiratory illness by standardized questionnaire across 53 urban areas in the United States .
+Diagnosis of respiratory illness by an examining physician in the First National Health and Nutrition Examination Survey was also considered as an outcome .
+After controlling for age , race , sex , and cigarette smoking , annual average total suspended particulate concentrations ( TSP ) were associated with increased risk of chronic bronchitis ( odds ratio ( OR ) = 1.07 , 95% confidence interval ( CI ) 1.02-1.12 ) and of a respiratory diagnosis by the examining physician ( OR = 1.06 , 95% CI = 1.02-1.11 ) .
+The odds ratios are for a 10 micrograms/m3 increase in TSP .
+When the analysis was restricted to never smokers , the associations remained , with a slight increase in the relative odds associated with airborne particles .
+Plots of the relative odds by quartiles of TSP exposure , adjusting for covariates , showed dose-dependent increases in risk with increasing exposure .
+The risk appeared to continue to concentrations below the ambient air quality standard .
+Given the other recent findings of both acute and chronic effects of particulate pollution , these associations are likely causal .

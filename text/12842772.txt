@@ -1,0 +1,9 @@
+Short-term changes in ambient particulate matter with aerodynamic diameters < 10 micro m ( PM10 ) have been associated with short-term fluctuations in mortality or morbidity in many studies .
+In this study , we tested whether those deaths are just advanced by a few days or weeks using a multicity hierarchical modeling approach for all-cause , respiratory , and cardiovascular deaths , for all ages and stratifying by age groups , within the APHEA-2 ( Air Pollution and Health : A European Approach ) project .
+We fit a Poisson regression and used an unconstrained distributed lag to model the effect of PM10 exposure on deaths up to 40 days after the exposure .
+In baseline models using PM10 the day of and day before the death , we found that the overall PM10 effect ( per 10 micro g/m3 ) was 0.74% [ 95% confidence interval ( 95% CI ) , -0.17 to 1.66 ] for respiratory deaths and 0.69% ( 95% CI , 0.31-1.08 ) for cardiovascular deaths .
+In unrestricted distributed lag models , the effect estimates increased to 4.2% ( 95% CI , 1.08-7.42 ) for respiratory deaths and to 1.97% ( 95% CI , 1.38-2.55 ) for cardiovascular deaths .
+Our study confirms that most of the effect of air pollution is not simply advanced by a few weeks and that effects persist for more than a month after exposure .
+The effect size estimate for PM10 doubles when we considered longer-term effects for all deaths and for cardiovascular deaths and becomes five times higher for respiratory deaths .
+We found similar effects when stratifying by age groups .
+These larger effects are important for risk assessment .

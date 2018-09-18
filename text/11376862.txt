@@ -1,0 +1,7 @@
+A follow-up survey on 2101 inhabitants ( 1566 men , 535 women ) , who participated in a 1967 health survey and had resided in their present rural community since birth was conducted to determine the influence of environmental cadmium exposure on the mortality of the general population in the Jinzu River basin .
+The survey was conducted over 6128 days from August 1 , 1967 to May 10 , 1984 .
+The rural communities were divided into two groups , one with a cadmium concentration in rice of < 0.30 ppm and the other > or = 0.30 ppm .
+The influence of cadmium concentration in rice on mortality was analyzed using SMRs and a Cox's proportional hazards model .
+In both sexes , SMRs tended to be greater in the > or = 0.3 ppm group as compared to < 0.3 ppm group .
+The Cox hazard ratios for males and females in the > or = 0.30 ppm group , to those in the < 0.30 ppm group , were 1.42 and 1.10 , respectively ( significant in the men ) .
+Since the mean cadmium concentration in rice in each rural community was closely related to the development of renal injury , in regions with high cadmium concentrations in rice , the development of renal injury induced by cadmium is believed to be the factor underlying the increased mortality observed .

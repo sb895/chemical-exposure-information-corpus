@@ -1,0 +1,10 @@
+Urban soil quality may be severely affected by PAH and PCB contamination , impairing environmental and human health .
+A comprehensive study was conducted in two contrasting Portuguese urban areas ( Lisbon and Viseu ) in order to assess the levels of these contaminants and potential risks to human health , to identify sources and study their behavior in soils .
+The concentrations of PAHs and PCBs were related to the size of the city .
+The concentrations found in the larger city ( Lisbon ) were similar to other urban areas .
+Differences between profiles of the two urban areas were observed for both groups of contaminants , which could be attributed to differences of sources or climate .
+Lisbon seems to be affected by nearby sources ( traffic , industry and incineration processes ) whereas in the smaller city atmospheric transport may be playing an important role .
+Cluster analysis revealed that PAHs and PCBs were associated with anthropogenic toxic elements ( Cu , Pb , Zn and Hg in Lisbon ; Pb and Hg in Viseu ) , therefore reflecting common sources .
+It was also found that organic carbon was an important factor for PAHs and high chlorinated PCB retention in soils .
+The incremental probability of developing cancer over lifetime , based on a reasonable maximum exposure to PAHs present in Lisbon residential soils , was 9.0 × 10(-6) and 2.4 × 10(-6) for an occupational exposure , both slightly higher than the target risk of 1 × 10(-6) .
+Similarly , the mutagenic risk of PAHs in Lisbon was 3.3 × 10(-5) for residential soils and 1.8 × 10(-6) in recreational areas .

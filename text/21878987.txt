@@ -1,0 +1,11 @@
+The large disparity between arsenic concentrations in drinking water and urine remains unexplained .
+This study aims to evaluate predictors of urinary arsenic in a population exposed to low concentrations ( \u226450\u2009\u03bcg/l ) of arsenic in drinking water .
+Urine and drinking water samples were collected from a subsample ( n=343 ) of a population enrolled in a bladder cancer case-control study in southeastern Michigan .
+Total arsenic in water and arsenic species in urine were determined using ICP-MS : arsenobetaine ( AsB ) , arsenite ( As[III] ) , arsenate ( As[V] ) , methylarsenic acid ( MMA[V] ) , and dimethylarsenic acid ( DMA[V] ) .
+The sum of As[III] , As[V] , MMA[V] , and DMA[V] was denoted as SumAs .
+Dietary information was obtained through a self-reported food intake questionnaire .
+Log(10)-transformed drinking water arsenic concentration at home was a significant ( P<0.0001 ) predictor of SumAs ( R(2)=0.18 ) .
+Associations improved ( R(2)=0.29 , P<0.0001 ) when individuals with less than 1\u2009\u03bcg/l of arsenic in drinking water were removed and further improved when analyses were applied to individuals who consumed amounts of home drinking water above the median volume ( R(2)=0.40 , P<0.0001 ) .
+A separate analysis indicated that AsB and DMA[V] were significantly correlated with fish and shellfish consumption , which may suggest that seafood intake influences DMA[V] excretion .
+The Spearman correlation between arsenic concentration in toenails and SumAs was 0.36 and between arsenic concentration in toenails and arsenic concentration in water was 0.42 .
+Results show that arsenic exposure from drinking water consumption is an important determinant of urinary arsenic concentrations , even in a population exposed to relatively low levels of arsenic in drinking water , and suggest that seafood intake may influence urinary DMA[V] concentrations .

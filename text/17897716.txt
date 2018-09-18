@@ -1,0 +1,10 @@
+Because of the similarities in European and North American dietary exposure , it has been suggested that the order of magnitude higher body burdens in North Americans may be due to international variations in exposure via ingestion of indoor dust .
+Furthermore , ingestion of indoor dust has been suggested as a possible source of PBDEs in the blood serum of New Zealanders .
+Hence , polybrominated diphenyl ethers ( PBDEs ) were measured in domestic indoor dust from : Amarillo/Austin , Texas , US ; Birmingham , UK ; Toronto , Canada ; and Wellington , New Zealand .
+Concentrations of BDE 209 in two UK samples were - at 520,000 and 100,000 ng g(-1) - the highest ever recorded in a domestic ( or office ) indoor dust sample .
+Median concentrations in ng g(-1) were : in Canada 620 and 560 for Sigmatri-hexa-BDEs and BDE 209 respectively ; in New Zealand 96 , BDE 209 not determined ; in the UK 59 and 2,800 ; and in the US 1600 and 1300 .
+With respect to BDE 209 , concentrations were in the order : UK approximately US>Canada .
+For Sigmatri-hexa-BDEs , the order of concentrations was US approximately Canada>New Zealand approximately UK .
+Combined with principal component analysis of congener patterns , this suggests that , while North American dusts are contaminated by both Deca- and Penta-BDE commercial formulations , UK dusts are contaminated predominantly by Deca-BDE .
+The Octa-BDE formulation appears of minimal importance in accordance with available market demand figures .
+Despite the commercial formulations of PBDEs never having been manufactured in , nor imported into New Zealand , their presence in dusts from that country suggests international trade in PBDE-containing goods is an important pathway effecting their global distribution .

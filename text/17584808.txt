@@ -1,0 +1,9 @@
+Bangladesh has already experienced the biggest catastrophe in the world due to arsenic contamination of drinking water .
+This study investigates the association of drinking arsenic-contaminated water ( DACW ) with both personal and household characteristics of 9116 household respondents using the household data of the Bangladesh Demographic and Health Survey ( BDHS ) 2004 .
+Here DACW means that arsenic level in the drinking water is greater than the permissible limit ( 50 microg/l ) of Bangladesh .
+The overall rate of DACW was 7.9% .
+It was found to be significantly associated with education , currently working , and division of Bangladesh , either by cross tabulation or multivariate logistic regression analyses or both .
+Similarly , household characteristics -- namely television , bicycle , materials of the wall and floor , total family members , number of sleeping rooms , and availability of foods -- were significantly associated in bivariate analyses .
+Many household characteristics -- namely electricity , television , wall and floor materials , and number of sleeping rooms -- revealed significant association in the logistic regression analysis when adjusted for age , education and division .
+This study indicates that respondents from Chittagong division and lower socio-economic groups ( indicated by household characteristics ) are at significantly higher risk of DACW .
+These findings should be taken into account during the planning of future intervention activities in Bangladesh .

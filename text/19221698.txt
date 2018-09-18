@@ -1,0 +1,9 @@
+Deficiency of minerals causes functional abnormality of enzymes , frequently resulting in metabolic disturbance .
+We investigated possible relationship between minerals and metabolic syndrome by analysis of hair tissue minerals .
+We selected 848 subjects older than 20 years of age at Ajou University Hospital from May 2004 to February 2007 .
+We excluded the subjects who had cancers , steroid and thyroid medication , and incomplete record from the study .
+Finally , 343 subjects were eligible .
+We performed cross-sectional analysis for the relationship between minerals and metabolic syndrome .
+The contents of calcium , magnesium , and copper in the metabolic syndrome group were significantly lower than those of the normal group , whereas the amounts of sodium , potassium , and mercury in the metabolic syndrome group were significantly higher than those of the normal group .
+By dividing the subjects into quartile with the level of calcium , magnesium , and mercury concentrations , we carried out logistic regression analysis to study the subjects and found that the subjects in the third quartile of calcium and magnesium concentrations had significantly lower odds ratio ( OR ) of the metabolic syndrome compared with that of the lowest quartile group [ OR = 0.30 , confidence interval ( CI ) = 0.10-0.89 ; OR = 0.189 , CI = 0.063-0.566 ] and that the subjects in the highest mercury quartile had significantly higher OR of the metabolic syndrome compared with that of the lowest mercury quartile group ( OR = 7.35 , CI = 1.73-31.1 ) .
+As part of the metabolic syndrome , the optimal calcium and magnesium concentrations in hair tissue may reflect decreased risk of metabolic syndrome , whereas high mercury concentration in hair tissue may indicate increased risk of metabolic syndrome .

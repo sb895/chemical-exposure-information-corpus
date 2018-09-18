@@ -1,0 +1,10 @@
+Fish is a major source of harmful methylmercury ( MeHg ) and beneficial docosahexaenoic acid ( DHA ) in the developing brain .
+In this study , we investigated the correlations among maternal and umbilical cord ( cord ) MeHg and DHA levels at parturition , and mercury ( Hg ) concentration in 1-cm incremental segments hair samples which grew during gestation representing monthly MeHg exposure levels throughout the period .
+Whole blood Hg and plasma DHA levels were measured in blood sample pairs collected from 54 mothers at early gestation and parturition , and in cord blood .
+Maternal hair samples were collected at parturition , and Hg concentrations were measured in 1-cm incremental segments .
+Hg level in mothers at parturition was slightly lower than that at early gestation and the level in cord blood were approximately 1.9 times higher than that in mothers at parturition .
+On the other hand , DHA level in mothers at parturition was approximately 2.3 and 1.6 times higher than those in mothers at early gestation and in cord plasma , respectively .
+These results indicate that kinetics of these chemicals in mothers during gestation and placental transfer are completely different .
+However , Hg and DHA levels had significant positive correlation in fetal circulation .
+The cord blood Hg showed the strongest correlation with maternal hair Hg in the first 1-cm segment from the scalp at parturition ( r=0.87 ) , indicating that fetal MeHg level reflects maternal MeHg burden at late gestation .
+In contrast , maternal and cord plasma DHA concentrations at parturition showed the highest correlation coefficients with Hg in the fifth ( r=0.43 ) and fourth ( r=0.38 ) 1-cm hair segments , suggesting that maternal and fetal DHA levels reflects maternal fish intake during mid-gestation .

@@ -1,0 +1,25 @@
+This study was conducted to : ( a ) investigate the antagonistic interaction between selenium ( Se ) and mercury ( Hg ) in mothers and their newborns , ( b ) delineate the role of oxidative mechanisms induced by Hg exposure and ( c ) examine the protective effect of Se on Hg-induced oxidative stress and birth outcomes .
+Levels of Hg and Se were measured in umbilical cord blood and the placentas of 250 healthy mothers who participated in a study between 2006 and 2006 assessing prenatal exposure various pollutants .
+Levels of malondialdehyde ( MDA ) in cord and maternal blood and of 8-hydroxy-2-deoxyguanosine in urine were measured for assessing oxidative stress .
+Tail moment ( TM ) in the comet assay , as a biomarker of DNA damage was measured in samples of cord and maternal blood .
+The mean Se levels in umbilical cord blood ( 67.618±12.897μg/l ) were lower than those reported in many countries , but none of the newborns had Se levels <20\u03bcg/l ( the threshold limit of Keshan disease ) .
+More than 80% of the newborns , though , had Se levels below the 80\u03bcg/l needed for maximum glutathione peroxidase activity .
+Even though 18.6% of the newborns had levels of Hg \u22655.8\u03bcg/l ( the reference dose of the Environmental Protection Agency ) , no relationship was observed with the biomarkers of oxidative stress .
+The mean placental Hg levels ( 0.056±0.075μg/g dry wt. ) were higher than those reported for newborns with abnormal fetal development .
+Our study also documented significant placental transfer of Hg and Se to the fetus .
+The Hg/Se molar ratio in both cord blood and placental tissue was well below 1 .
+The average amount of Se in both matrices was approximately 50-fold in molar excess over Hg .
+The molar excess of Se in the umbilical cord ( 0.843\u03bcmol/l ) , however , was lower than in placental tissues ( 13.098\u03bcmol/kg dry wt. ) .
+In further support of the relationships of Hg and Se on oxidative stress , we observed significantly lower levels of maternal MDA associated with Se levels in both cord blood and placental tissues and significantly higher TM levels associated with placental Hg in both newborns and their mothers .
+In contrast , Se/Hg molar ratios in placental tissues were positively associated with MDA and negatively with TM .
+The disproportion between Hg and Se might be influenced by the length of Hg exposure that in turn might affect Se bioavailability .
+Each birth anthropometric outcome was modeled as a function of Hg , Se and their interactions .
+After an adjustment for confounding variables , Hg in cord blood had a significantly positive rather than the expected negative association with crown-heel length .
+Placental Hg was associated with reduced birth height .
+Both associations were independent of prematurity .
+The status of Se in newborns was positively associated with crown-heel length and placental weight , with and without preterm births , and with birth weight , but only without preterm births .
+In contrast , a lower cephalization index was correlated with Se levels in cord blood , which may be an indicator of a detrimental effect on health .
+Our study , however , revealed associations between significantly lower levels of placental Se and several birth anthropometric measures ( head circumference , birth weight and birth height ) but the significance disappeared after excluding preterm births .
+Regression analyses generally indicated either significant or marginally significant Hg-Se antagonistic interactions that may have moderated the toxic effect of Hg on head circumference and birth weight .
+This finding may be due to chance or residual confounding and so may not be clinically relevant , but it may also suggest that Hg , Se and Hg-Se interactions are important factors for understanding Hg-induced adverse birth outcomes .
+Additional research will be necessary to evaluate the biological impact of combined metals in the assessment of fetal growth and development .

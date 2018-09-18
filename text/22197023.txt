@@ -1,0 +1,15 @@
+From 1996/1997 to 2008/2009 , blood and urine were sampled from 9- to 11-year-old pupils in the state of Baden-Württemberg , South-West Germany .
+In blood samples the chlororganics DDE , HCB , PCB-138 , PCB-153 and PCB-180 were analysed by gas chromatography and ECD detection .
+PCDD/PCDF were measured in pooled blood samples using GC/MS .
+Lead concentrations in blood were quantified by graphite furnace atomic absorption spectrometry ( AAS ) , mercury in urine by using cold vapour AAS .
+For all chlororganics and heavy metals a distinct decrease of the internal concentration could be shown within the 12-year investigation period .
+For DDE , the median decreased from 0.32 \u03bcg/l to 0.11 \u03bcg/l .
+The median of HCB fell from 0.19 \u03bcg/l to 0.07 \u03bcg/l .
+The median of the sum of the three PCB-congeners PCB-138 , PCB-153 and PCB-180 decreased from 0.47 \u03bcg/l to 0.18 \u03bcg/l .
+The burden of PCDD/PCDF in pooled blood samples resulted in approximately half the concentration after the 12-year period .
+The internal concentrations of the chlororganics were distinctly higher in breastfed children than in non-breastfed children .
+In 2008/2009 , these differences were strongest for PCB and DDE ( 2-fold ) , moderate for PCDD/PCDF ( 1.6-fold ) , and slight for HCB ( 1.2-fold ) .
+The median of lead concentrations in blood dropped from 23.6 \u03bcg/l to 15.9 \u03bcg/l .
+The median of mercury concentrations in urine decreased from 0.25 \u03bcg/l to a value below the limit of quantification of 0.2 \u03bcg/l ; the 95th percentile was reduced from 3.1 \u03bcg/l to less than 0.2 \u03bcg/l .
+The decline of amalgam fillings in children during the investigation period had a strong influence on internal concentrations of mercury .
+The internal concentration of the persistent xenobiotics investigated here decreased to a low level not likely to be of concern for human health .

@@ -1,0 +1,15 @@
+Indoor air pollution from solid fuel use has severe health effects. 60% of the Chinese population lives in rural areas , where most people rely on solid fuels for cooking and heating .
+We estimate exposure by combining information on the amount of time spent in different microenvironments and estimates of the particle concentrations ( PM(10) ) in these environments .
+According to our estimates , 70% of the exposure experienced by the rural population is due to indoor air pollution ( IAP ) .
+The urban coal using population experience a 17% increase in exposure from IAP .
+We apply Monte Carlo simulations to quantify variability and uncertainty in the exposure , morbidity and mortality estimates .
+We find that applying Monte Carlo simulations reduces the estimated uncertainty compared to analytical methods based on approximate distributions and the central limit theorem .
+We find that annually about 4% ( geometric S.D. sigma(g) , 3.2 ) and 35% ( sigma(g) , 2.6 ) of the deaths in the urban and rural populations , respectively , could be avoided by switching to clean fuels .
+Upgrading the stoves in rural areas to the standard found in urban areas is estimated to reduce mortality by 23% ( sigma(g) , 3.1 ) .
+Moreover , we estimate that chronic respiratory illness ( CRI ) in children can be reduced by , respectively , about 9% ( sigma(g) , 2.5 ) and 80% ( sigma(g) 1.9 ) by switching to clean fuels in the urban and rural areas .
+Upgrading the stoves in rural areas is estimated to reduce CRI in children with about 58% ( sigma(g) 2.3 ) .
+For adults the reduction in CRI was estimated to be 6% ( sigma(g) 2.4 ) and 45% ( sigma(g) 1.8 ) for the urban and rural population following a fuel switch , and 31% ( sigma(g) 2.4 ) for the rural population from stove improvements .
+Contrary to our expectations we find small gender differences in exposure .
+We ascribe that to comparable kitchen and living area concentrations and similar indoor occupation times for the genders .
+Young children and the elderly spend the most time indoors , and have the highest daily exposure in the coal using population .
+The rural population experience higher exposure than the urban population , even though the outdoor air is significantly cleaner in rural areas .

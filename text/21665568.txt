@@ -1,0 +1,11 @@
+BACKGROUND Exposure to traffic-related air pollution is a risk factor for cardiovascular events , probably involving mechanisms of inflammation and coagulation .
+Little is known about effects of the short exposures encountered while participating in traffic .
+OBJECTIVES The objective of the study was to examine effects of exposure of commuters to air pollution on cardiovascular biomarkers .
+METHODS Thirty-four healthy adult volunteers commuted for 2 hr by bus , car , or bicycle during the morning rush hour .
+During the commute , exposure to particle number , particulate matter ( PM ) \u2264 2.5 µm in aerodynamic diameter ( PM2.5 ) , PM \u2264 10 µm in diameter ( PM10 ) , and soot was measured .
+We estimated inhaled doses based on heart rate monitoring .
+Shortly before exposure and 6 hr after exposure , blood samples were taken and analyzed for CC16 ( Clara cell protein 16 ) , blood cell count , coagulation markers , and inflammation markers .
+Between June 2007 and June 2008 , 352 pre- and postexposure blood samples were collected on 47 test days .
+We used mixed models to analyze the associations between exposure and changes in health parameters .
+RESULTS We observed no consistent associations between the air pollution exposures and doses and the various biomarkers that we investigated .
+CONCLUSIONS Air pollution exposure during commuting was not consistently associated with acute changes in inflammation markers , blood cell counts , or blood coagulation markers .

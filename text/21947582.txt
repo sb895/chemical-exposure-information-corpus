@@ -1,0 +1,11 @@
+BACKGROUND Lead exposure in adults is associated with hypertension .
+Altered prenatal nutrition is associated with subsequent risks of adult hypertension , but little is known about whether prenatal exposure to toxicants , such as lead , may also confer such risks .
+OBJECTIVES We investigated the relationship of prenatal lead exposure and blood pressure ( BP ) in 7- to 15-year-old boys and girls .
+METHODS We evaluated 457 mother-child pairs , originally recruited for an environmental birth cohort study between 1994 and 2003 in Mexico City , at a follow-up visit in 2008-2010 .
+Prenatal lead exposure was assessed by measurement of maternal tibia and patella lead using in vivo K-shell X-ray fluorescence and cord blood lead using atomic absorption spectrometry .
+BP was measured by mercury sphygmomanometer with appropriate-size cuffs .
+RESULTS Adjusting for relevant covariates , maternal tibia lead was significantly associated with increases in systolic BP ( SBP ) and diastolic BP ( DBP ) in girls but not in boys ( p-interaction with sex = 0.025 and 0.007 for SBP and DBP , respectively ) .
+Among girls , an interquartile range increase in tibia lead ( 13 \u03bcg/g ) was associated with 2.11-mmHg [ 95% confidence interval ( CI ) : 0.69 , 3.52 ] and 1.60-mmHg ( 95% CI : 0.28 , 2.91 ) increases in SBP and DBP , respectively .
+Neither patella nor cord lead was associated with child BP .
+CONCLUSIONS Maternal tibia lead , which reflects cumulative environmental lead exposure and a source of exposure to the fetus , is a predisposing factor to higher BP in girls but not boys .
+Sex-specific adaptive responses to lead toxicity during early-life development may explain these differences .

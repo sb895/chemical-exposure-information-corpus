@@ -1,0 +1,12 @@
+OBJECTIVE To study whether maternal cigarette smoking during pregnancy is associated with alterations in the growth of fetal lungs , kidneys , liver , brain , and placenta .
+DESIGN A case-control study , with operators performing the image analysis blinded .
+SETTING Study performed on a research-dedicated magnetic resonance imaging ( MRI ) scanner ( 1.5 T ) with participants recruited from a large teaching hospital in the United Kingdom .
+PARTICIPANTS A total of 26 pregnant women ( 13 current smokers , 13 non smokers ) were recruited ; 18 women ( 10 current smokers , 8 nonsmokers ) returned for the second scan later in their pregnancy .
+METHODS Each fetus was scanned with MRI at 22-27 weeks and 33-38 weeks gestational age ( GA ) .
+MAIN OUTCOME MEASURES Images obtained with MRI were used to measure volumes of the fetal brain , kidneys , lungs , liver and overall fetal size , as well as placental volumes .
+RESULTS Exposed fetuses showed lower brain volumes , kidney volumes , and total fetal volumes , with this effect being greater at visit 2 than at visit 1 for brain and kidney volumes , and greater at visit 1 than at visit 2 for total fetal volume .
+Exposed fetuses also demonstrated lower lung volume and placental volume , and this effect was similar at both visits .
+No difference was found between the exposed and nonexposed fetuses with regards to liver volume .
+CONCLUSION Magnetic resonance imaging has been used to show that maternal smoking is associated with reduced growth of fetal brain , lung and kidney ; this effect persists even when the volumes are corrected for maternal education , gestational age , and fetal sex .
+As expected , the fetuses exposed to maternal smoking are smaller in size .
+Similarly , placental volumes are smaller in smoking versus nonsmoking pregnant women .

@@ -1,0 +1,9 @@
+BACKGROUND Few studies in the world have assessed the incidence of multiple sclerosis ( MS ) with soil heavy metal concentrations .
+We explored the association of soil heavy metal factors and the MS incidence in Taiwan .
+METHODS There were 1240 new MS cases from the National Health Insurance Research Database and were verified with serious disabling disease certificates , 1997-2008 .
+Soil heavy metal factors records included arsenic , mercury , cadmium , chromium , copper , nickel , lead and zinc in Taiwan from 1986 to 2002 .
+Spatial regression was used to reveal the association of soil heavy metals and age- and gender-standardized incidence ratios for townships by controlling sunlight exposure hours , smoking prevalence and spatial autocorrelation .
+RESULTS The lead ( Pb ) concentration in the soil positively correlated with the township incidence ; on the other hand , the arsenic ( As ) concentration in soil negatively correlated with the township incidence and when found together controlled each other .
+The positive correlation of lead ( Pb ) predominated in males , whereas the negative correlation of arsenic ( As ) in soil predominated in females .
+CONCLUSIONS We conclude that exposure to lead ( Pb ) in soil positive associated with incidence of MS in Taiwan , especially in males .
+Exposure to arsenic ( As ) in soil negative associated with MS in Taiwan , especially in females .

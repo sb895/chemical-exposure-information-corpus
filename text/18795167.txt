@@ -1,0 +1,9 @@
+BACKGROUND High levels of cadmium exposure are known to cause emphysema in occupationally exposed workers , but little has been reported to date on the association between chronic environmental cadmium exposure and pulmonary function .
+OBJECTIVE In this study we examined the association between pulmonary function and cadmium body burden in a subcohort of the Normative Aging Study , a community-based study of aging .
+METHODS We examined 96 men who had cadmium measured in single 24-hr urinary specimens collected in 1994-1995 and who had one to three tests of pulmonary function between 1994 and 2002 ( a total of 222 observations ) .
+We used mixed-effect models to predict pulmonary function based on individual 24-hr urinary cadmium output , adjusted for age , height , time elapsed from the baseline , and smoking status .
+We assessed effect modification by smoking status .
+RESULTS Among all subjects , a single log-unit increase in baseline urinary cadmium was inversely associated with forced expiratory volume in 1 sec ( FEV(1) ) percent predicted [ beta = -7.56% ; 95% confidence interval ( CI ) -13.59% to -1.53% ] ; forced vital capacity ( FVC ) percent predicted ( beta = -2.70% ; 95% CI -7.39% to 1.99% ) , and FEV(1)/FVC ratio ( beta = -4.13% ; 95% CI -7.61% to -0.66% ) .
+In models including an interaction between urinary cadmium and smoking status , there was a graded , statistically significant reduction in FEV(1)/FVC ratio across smoking status in association with urinary cadmium .
+CONCLUSIONS This study suggests that chronic cadmium exposure is associated with reduced pulmonary function , and cigarette smoking modifies this association .
+These results should be interpreted with caution because the sample size is small , and further studies are needed to confirm our findings .

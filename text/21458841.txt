@@ -1,0 +1,9 @@
+Arsenic ( As ) is an important environmental toxicant that can cause cancer and cardiovascular disease , but the relationship between As exposure and renal dysfunction is not clear .
+The aim of this study is to examine the association between As exposure and renal dysfunction in a community-based population in central Taiwan .
+One thousand and forty-three subjects were recruited between 2002 and 2005 .
+The risk for type 2 diabetes was increased by 2-fold ( p<0.05 ) in subjects with total urinary As ( U-As)>75 \u03bcg g(-1) creatinine as compared with subjects whose U-As was \u2264 35 \u03bcg g(-1) creatinine after the adjustment for potential confounders .
+The adjusted odds ratio for an abnormal \u03b22 microglobulin ( B2MG>0.154 mg L(-1) ) was significantly higher in subjects with U-As>35 \u03bcg g(-1) creatinine as compared with the reference group adjusted for age , sex , living area , cigarette smoking , diabetes , and hypertension .
+The risk for abnormal B2MG and estimated glomerular filtration rate ( eGFR<90 mL min(-1)(1.73 m(2))(-1) ) was both increased around 2-fold ( p<0.05 ) in subjects with U-As>75 \u03bcg g(-1) creatinine as compared with those with U-As \u2264 35 \u03bcg g(-1) creatinine adjusted for all the risk factors plus lead ( Pb ) , cadmium and nickel .
+The prevalence of abnormal B2MG was 4.82 times higher in subjects with both over the median levels of U-As ( 85.1 \u03bcg L(-1) ) and urinary Pb ( 18.9 \u03bcg L(-1) ) as compared to both lower than the median ( p<0.001 ) .
+These results indicate that U-As might relate to renal dysfunction even other important risk factors were taken into account .
+Follow-up studies for causal inference are warranted .

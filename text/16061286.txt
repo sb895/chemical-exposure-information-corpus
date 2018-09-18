@@ -1,0 +1,11 @@
+Addition of urea-based antifreeze admixtures during cement mixing can make it possible to produce concrete cement in construction of buildings in cold weather ; this , however , has led to increasing indoor air pollution due to continuous transformation and emission from urea to gaseous ammonia in indoor concrete wall .
+It is believed that ammonia is harmful to human body and exposure to ammonia can cause some serious symptoms such as headaches , burns , and even permanent damage to the eyes and lungs .
+In order to understand the emission of ammonia from indoor concrete wall in civil building and assess the health risk of people living in these buildings , the experimental pieces of concrete wall were first prepared by concreting cement and urea-based antifreeze admixtures to simulate the indoor wall in civil building in this work .
+Then environmental chamber was adopted for studying the effect of temperature , relative humility and air exchange rate on emission of ammonia from experimental pieces of concrete wall .
+Also the field experiment was made at selected rooms in given civil buildings .
+Exposure and potential dose of adult and children exposed to indoor/outdoor ammonia in summer and in winter are calculated and evaluated by using Scenario Evaluation Approach .
+The results indicated that high air exchange rate leads to decreased ammonia concentration , and elevation of temperature causes increasing ammonia concentration and volatilizing rate in chamber .
+The complete emission of ammonia from the wall containing urea-based antifreeze admixtures needs more than 10 years in general .
+Ventilating or improving air exchange can play a significant role in reducing ammonia concentration in actual rooms in field experiments .
+Urea-based antifreeze admixtures in concrete wall can give rise to high exposure and potential dose , especially in summer .
+Generally , adults have a high potential dose than children , while children have personal average dose rate beyond adults in the same conditions .

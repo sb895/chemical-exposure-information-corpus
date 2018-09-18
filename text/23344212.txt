@@ -1,0 +1,10 @@
+BACKGROUND Epidemiologic studies have reported increased risk of lymphohematopoietic cancers , lung cancer , and pancreatic cancer after exposure to styrene , although findings across studies are not consistent .
+METHODS We update a large study of reinforced plastic industry workers with relatively high exposures to styrene , examining cancer risks associated with exposure levels .
+The study includes 15,826 workers who were exposed between 1948 and 1977 with vital-status follow-up from 1948 to 2008 .
+We examine mortality rates associated with cumulative exposure , duration of exposure , peak exposures , average exposure , and time since first exposure to styrene .
+Exposure estimates were truncated starting in 1977 , the period with the lowest exposures , leaving 27% of the study group with incomplete work histories .
+RESULTS The standardized mortality ratios were 0.84 ( 95% confidence interval = 0.69-1.02 ) for all lymphatic and hematopoietic cancers combined , 0.72 ( 0.50-1.00 ) for non-Hodgkin lymphoma , and 0.84 ( 0.60-1.14 ) for leukemia .
+There was no trend with either cumulative exposure to styrene or number of peaks .
+Pancreatic cancer deaths were at expected levels ( 0.96 [ 0.73-1.22] ) .
+There were more lung cancer deaths than expected ( 1.34 [ 1.23-1.46] ) , although with a marked inverse trend with cumulative exposure .
+CONCLUSION We found no coherent evidence that styrene exposure increases risk from cancers of the lymphatic and hematopoietic tissue , pancreas , or lung .

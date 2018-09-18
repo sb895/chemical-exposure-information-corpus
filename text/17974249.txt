@@ -1,0 +1,7 @@
+Based on the investigation of heavy metal pollutions on an abandoned metal smelter site in Shenyang , and by using the United States Environmental Protection Agency methodologies for human health risk assessment , the human health risk of the polluted soil on the study site was assessed .
+For the defined future land use patterns , the industrial ( I ) and recreational ( II ) exposure scenarios were assumed and evaluated .
+The combined hazard index for all the contaminants of potential concern was 2.65 x 10(-2) for Scenario I and 3.67 x 10(-2) for Scenario II .
+Regarding the potential carcinogenic risk associated with inhalation route , only cadmium was a contributor , with the risk of 4.48 x 10(-9) and 7.30 x 10(-10) for Scenario I and Scenario II , respectively .
+The hazard indices were less than a unit , and the carcinogenic health risk was negligible .
+The potential health risks of the study site ( for both industrial and recreational scenarios ) were mainly associated with the exposure to copper .
+The risk-based remedial goals calculated for the industrial scenario were lower than the environment quality risk assessment criteria for soil at the manufacturing facilities of China .

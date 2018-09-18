@@ -1,0 +1,1 @@
+< < <biomonitoring--exposure biomarker--blood--pregnant women AND biomonitoring--exposure biomarker--urine--pregnant women< < < <  Biomonitoring--exposure biomarker--urine--<  Biomonitoring--exposure biomarker--blood--<  Biomonitoring--exposure biomarker--blood--<exposure routes--oral intake--products--pregnant women< < < < < 

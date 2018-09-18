@@ -1,0 +1,10 @@
+Studies published in the last 3 decades have demonstrated global human exposure to polybrominated diphenyl ether ( PBDE ) flame retardants .
+A growing body of literature suggests that PBDEs may disrupt thyroid hormone homeostasis .
+Although thyroid hormones play an essential role in brain development , few studies have investigated relations between prenatal exposure to PBDEs and neonatal thyroid hormone levels , and none have measured thyroid-stimulating hormone ( TSH ) levels in neonates .
+The authors measured 10 PBDE congeners in serum collected between October 1999 and October 2000 from 289 pregnant women living in California's Salinas Valley and abstracted TSH levels from their children's medical records .
+Individual PBDE congeners showed null or weak nonsignificant inverse relations with neonatal TSH .
+Total serum PBDE was not associated with neonatal TSH ( \u03b2 = 0.00 , 95% confidence interval : -0.06 , 0.06 ) .
+Except for brominated diphenyl ether 153 , a higher serum PBDE level was related to elevated odds of high TSH ( \u226580th percentile ) , but associations were not statistically significant .
+Associations were not modified by infant sex , age at TSH measurement , maternal serum polychlorinated biphenyl concentration , or mode of delivery .
+Results were robust to sensitivity analysis .
+The authors found no conclusive evidence that prenatal exposure to PBDEs at levels similar to those of the general US population is related to neonatal TSH .

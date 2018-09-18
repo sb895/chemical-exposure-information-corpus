@@ -1,0 +1,11 @@
+Fetal toxicity of cadmium ( Cd ) is well documented in rodents .
+However , little information is available regarding the human fetus .
+To investigate the effect of low levels of Cd on the human placenta and the consequences on birthweight , we conducted a study of 102 mothers and their newborns in an obstetrical care unit .
+Placental and hair samples were collected at delivery to determine Cd concentrations .
+The main finding of this study was the relationship between a decrease in birthweight and an increase of newborn hair Cd which varied in the presence of placental calcification .
+In cases of parenchymal calcifications , placental Cd levels were higher ( Wilcoxon test , P < 0.05 ) and newborn hair Cd levels were lower ( Wilcoxon test , P < 0.01 ) than in the absence of calcification .
+These relationships remained significant even after taking into account smoking habits and gestational age .
+In the presence of calcification , an increase in the level of Cd in newborn hair was related to a decrease in birthweight which was independent of placental Cd concentration ( rpartial = -0.49 , P < 0.01 ) .
+In the absence of calcification , a decrease in birthweight was observed for the upper values of newborn hair Cd ( r = -0.44 , P < 0.05 when Cd > or = 0.3 ppm ) .
+The difference in birthweight between infants in the first and last quartiles of newborn hair Cd was 472 g in cases of calcifications and 122 g in the absence of calcification .
+Other placental parameters were not significantly related to placental Cd concentration .

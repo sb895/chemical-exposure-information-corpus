@@ -1,0 +1,11 @@
+BACKGROUND A cross-sectional survey was conducted between April 1995 and March 1996 to investigate arsenic-associated skin lesions of keratosis and hyperpigmentation in West Bengal , India , and to determine their relationship to arsenic water levels .
+METHODS In all , 7683 participants were examined and interviewed , and the arsenic levels in their drinking water measured .
+RESULTS Although water concentrations ranged up to 3400 microg/l of arsenic , over 80% of participants were consuming water containing <500 microg/l .
+The age-adjusted prevalence of keratosis was strongly related to water arsenic levels , rising from zero in the lowest exposure level ( <50 microg/l ) to 8.3 per 100 for females drinking water containing >800 microg/l , and increasing from 0.2 per 100 in the lowest exposure category to 10.7 per 100 for males in the highest exposure level ( > or =800 microg/l ) .
+However , 12 cases with keratosis ( 2 females and 10 males ) were drinking water containing <100 microg/l of arsenic .
+Findings were similar for hyperpigmentation , with strong dose-response relationships .
+Among those with hyperpigmentation , 29 cases were exposed to drinking water containing <100 microg/l .
+Calculation by dose per body weight showed that men had roughly two to three times the prevalence of both keratosis and hyperpigmentation compared to women apparently ingesting the same dose of arsenic from drinking water .
+Subjects who were below 80% of the standard body weight for their age and sex had a 1.6 fold increase in the prevalence of keratoses , suggesting that malnutrition may play a small role in increasing susceptibility .
+CONCLUSION The surprising finding of cases who had arsenic-associated skin lesions with apparently low exposure to arsenic in drinking water needs to be confirmed in studies with more detailed exposure assessment .
+Further research is also needed concerning susceptibility factors which might be present in the exposed population .

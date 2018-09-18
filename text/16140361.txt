@@ -1,0 +1,11 @@
+Exposure to benzene and toluene from the combustion of solid biomass fuels is one of the important causes of morbidity and mortality in developing countries .
+In this study , we assessed the exposure of cooks to benzene and toluene from biomass fuel combustion in 55 rural homes .
+The GC-MS was used for quantification while a personnel sampler was used for environmental monitoring .
+The benzene exposure differed significantly ( p < 0.0001 ) across different types of indoor kitchen fuel combinations .
+The geometrical mean ( GM ) of benzene exposure for cooks during cooking hours in an indoor kitchen using mixed fuel was 75.3 microg/m3 ( with partition ) and 63.206 microg/m3 ( without partition ) , while the exposure was 11.7 microg/m3 for open type .
+The benzene exposure was significantly higher ( p < 0.05 ) in an indoor kitchen with respect to open type using mixed fuels .
+Concentration of benzene ( 114.1 microg/m3 ) for cooks in an indoor kitchen with partition using dung fuel was significantly higher in comparison to non-cooks ( 5.1 microg/m3 ) for open type .
+Benzene exposure was not significantly different for kitchen with ventilation ( 31.2 microg/m3 ) and without ventilation ( 45.0 microg/m3 ) using wood fuel .
+However , this value was significantly ( p < 0.05 ) lower than in indoor kitchens with or without partition .
+An almost similar trend was observed for toluene but the difference was statistically non-significant .
+This study may be helpful in developing a regional exposure database and in the facilitation of health risk assessment due to volatile organic pollutants in our day-to-day environment .

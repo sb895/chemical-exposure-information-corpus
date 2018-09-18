@@ -1,0 +1,9 @@
+Puerto Rico has higher rates of a range of endocrine-related diseases and disorders compared to the United States .
+However , little is known to date about human exposures to known or potential endocrine disrupting chemicals ( EDCs ) in Puerto Rico .
+We recruited 105 pregnant women in Northern Puerto Rico who provided urine samples and questionnaire data at three times ( 18 ± 2 , 22 ± 2 , and 26 ± 2 weeks ) during gestation .
+We measured the urinary concentrations of five phenols and three parabens : 2,4-dichlorophenol ( 24-DCP ) , 2,5-dichlorophenol ( 25-DCP ) , benzophenone-3 ( BP-3 ) , bisphenol A ( BPA ) , triclosan ( TCS ) , butyl paraben ( B-PB ) , methyl paraben ( M-PB ) , and propyl paraben ( P-PB ) .
+The frequent detection of these chemicals suggests that exposure is highly prevalent among these Puerto Rican pregnant women .
+Urinary concentrations of TCS , BP-3 , and 25-DCP were higher than among women of reproductive age in the US general population , while concentrations of BPA , 24-DCP , and parabens were similar .
+Intraclass correlation coefficients ( ICC ) varied widely between biomarkers ; BPA had the lowest ICC ( 0.24 ) and BP-3 had the highest ( 0.62 ) , followed by 25-DCP ( 0.49 ) and TCS ( 0.47 ) .
+We found positive associations between biomarker concentrations with self-reported use of liquid soap ( TCS ) , sunscreen ( BP-3 ) , lotion ( BP-3 and parabens ) , and cosmetics ( parabens ) .
+Our results can inform future epidemiology studies and strategies to reduce exposure to these chemicals or their precursors .

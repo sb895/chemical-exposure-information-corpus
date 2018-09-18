@@ -1,0 +1,10 @@
+This research evaluates the lifetime cancer risks from trihalomethanes in Tehran's drinking water .
+The Trihalomethanes were measured in seven different water districts .
+Sixty-three samples were taken from tap water across the city for 7 months .
+The samples were analyzed for trihalomethanes using US EPA method 524.2 .
+The average concentration of total trihalomethanes in different districts were between 0.81 and 9.0 \u03bcg/L , and the highest concentrations were detected in district 2 at 19.5 \u03bcg/L .
+Total lifetime cancer risks assessment from exposure to trihalomethanes in drinking water ( ingestion , inhalation , and skin routes ) were performed for people living in different districts in Tehran .
+The lifetime cancer risk was 7.19 × 10(-5) in district 2 ( a more affluent neighborhood ) where mostly surface water sources is used to supply drinking water and 9.38 × 10(-6) in district 7 ( a less affluent neighborhood ) which is mainly supplied with well water sources .
+Based on the population data , the total expected lifetime cancer cases from exposure to trihalomethanes are 104 , 108 , 81 , 81 , 41 , 27 , and three for districts 1 through 7 , respectively .
+The average lifetime cancer risk was 4.33 × 10(-5) which means a total of 606 lifetime cancer cases for the entire province of Tehran .
+The highest risk from THMs seems to be from the inhalation route followed by ingestion and dermal contacts .

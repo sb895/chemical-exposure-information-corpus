@@ -1,0 +1,11 @@
+UNLABELLED Polybrominated diphenyl ethers ( PBDEs ) are considered harmful to human health because of their toxicities and persistence in environments .
+In the current study , the distribution and fate of PBDEs in classrooms and computer rooms in 17 elementary schools in South Korea have been described .
+Eight congeners ( brominated diphenyl ether-28 , -47 , -99 , -100 , -153 , -154 , -183 , and -209 ) in air , floor dust , and product surface dust were measured .
+While Sigma(8)PBDEs in the air in classrooms showed considerable variations ( 0.659-1600 pg/m(3) , arithmetic mean +/- s.d. : 377 +/- 441 pg/m(3) ) , those in computer rooms were somewhat similar ( 134-220 pg/m(3) , arithmetic mean +/- s.d. : 169 +/- 40 pg/m(3) ) .
+Sigma(8)PBDEs in floor dust varied over a wide range , from 453 to 45,700 ng/g , for all rooms .
+Based on congener patterns , two groups were created--CL-1 that is dominated by high-brominated congeners and CL-2 primarily comprising low-brominated congeners--for both air and floor dust of classrooms .
+Surface dust had low concentrations , ranged from ND to 181 , from ND to 128 , and from ND to 256 pg/cm(2) for desk/chair sets , lockers , and playing tools , respectively .
+Pearson correlation coefficients were calculated individually for air , floor dust , and surface dust .
+The results indicate that both surface dust and floor dust may act as a secondary source of PBDEs in indoor environments after emission from facilities .
+PRACTICAL IMPLICATIONS Children have been estimated to have a higher potential exposure to PBDEs than adults .
+Since children spend most of their day time at school , PBDE distributions in school environments should be a matter of great concern .

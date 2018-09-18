@@ -1,0 +1,14 @@
+BACKGROUND Epidemiologic studies have shown associations between asthma outcomes and outdoor air pollutants such as nitrogen dioxide and particulate matter mass < 2.5 microm in diameter ( PM(2.5) ) .
+Independent effects of specific pollutants have been difficult to detect because most studies have relied on highly correlated central-site measurements .
+OBJECTIVES This study was designed to evaluate the relationship of daily changes in percent-predicted forced expiratory volume in 1 sec ( FEV(1) ) with personal and ambient air pollutant exposures .
+METHODS For 10 days each , we followed 53 subjects with asthma who were 9-18 years of age and living in the Los Angeles , California , air basin .
+Subjects self-administered home spirometry in themorning , afternoon , and evening .
+We measured personal hourly PM(2.5) mass , 24-hr PM(2.5) elemental and organic carbon ( EC-OC ) , and 24-hr NO(2) , and the same 24-hr average outdoor central-site(ambient) exposures .
+We analyzed data with transitional mixed models controlling for personal temperature and humidity , and as-needed beta(2)-agonist inhaler use .
+RESULTS FEV(1) decrements were significantly associated with increasing hourly peak and daily average personal PM(2.5) , but not ambient PM(2.5) .
+Personal NO(2) was also inversely associated with FEV(1) .
+Ambient NO(2) was more weakly associated .
+We found stronger associations among 37 subjects not taking controller bronchodilators as follows : Personal EC-OC was inversely associated with morning FEV(1) ; for an interquartile increase of 71 microg/m(3) 1-hr maximum personal PM(2.5) , overall percent-predicted FEV(1) decreased by 1.32% [ 95% confidence interval ( CI ) , -2.00 to -0.65% ] ; and for an interquartile increase of 16.8 ppb 2-day average personal NO(2) , overall percent-predicted FEV(1) decreased by 2.45% ( 95% CI , -3.57 to -1.33% ) .
+Associations of both personal PM(2.5) and NO(2) with FEV(1) remained when co-regressed , and both confounded ambient NO(2) .
+CONCLUSIONS Independent pollutant associations with lung function might be missed using ambient data alone .
+Different sets of causal components are suggested by independence of FEV(1) associations with personal PM(2.5) mass from associations with personal NO(2) .

@@ -1,0 +1,8 @@
+The concentrations of hexachlorocyclohexanes ( HCHs ) were investigated in urban soil samples collected from business area , classical garden ( CL ) , culture and educational area , large public green space ( LA ) , residential area , and roadside area in Beijing .
+HCH concentrations ranged from 0.32 to 136.43 ng/g , with a geometric mean of 3.46 ng/g .
+The HCH concentrations in CL and LA were much higher than that in the other types of land use , which was due to the usage of HCHs to protect vegetation in CL and LA .
+Source identification showed that contamination source of HCHs was derived from historical HCHs ( including technical HCHs and Lindane ) as well as the long-range atmospheric transportation of HCHs .
+HCH concentrations showed a decreasing trend from the city centre to the suburb , and it increased with the age of the urban area .
+HCHs were negatively correlated with pH and positively correlated with total organic carbon and black carbon in soils .
+Health risk assessment with CalTOX and Monte Carlo analysis showed that health risks mainly came from dermal uptake and inhalation exposure pathways , and the total risk values were lower than the acceptable health risk value ( 10(-\u20096) ) .
+The sensitivity analysis indicated that the reaction half-life of HCHs in soil , fraction dermal uptake from soil , exposure duration , and organic carbon fraction in soil significantly contributed to the variance of the health risk .

@@ -1,0 +1,9 @@
+We examined ambient exposure to specific air toxics in the perinatal period in relation to retinoblastoma development .
+Cases were ascertained from California Cancer Registry records of children diagnosed between 1990 and 2007 and matched to California birth certificates .
+Controls were randomly selected from state birth records for the same time period .
+We chose 27 air toxics for the present study that had been listed as possible , probable , or established human carcinogens by the International Agency for Research on Cancer .
+Children ( 103 cases and 30,601 controls ) included in the study lived within 5 miles of an air pollution monitor .
+Using logistic regression analyses , we modeled the risk of retinoblastoma due to air toxic exposure , separately for exposures in pregnancy and the first year of life .
+With a per interquartile range increase in air toxic exposure , retinoblastoma risk was found to be increased with pregnancy exposure to benzene ( OR=1.67 , 95% CI : 1.06 , 2.64 ) and other toxics which primarily arise from gasoline and diesel combustion : toluene , 1,3-butadiene , ethyl benzene , ortho-xylene , and meta/para-xylene ; these six toxics were highly correlated .
+Retinoblastoma risk was also increased with pregnancy exposure to chloroform ( OR=1.35 , 95% CI : 1.07 , 1.70 ) , chromium ( OR=1.29 , 95% CI : 1.04 , 1.60 ) , para-dichlorobenzene ( OR=1.24 , 95% CI : 1.04 , 1.49 ) , nickel ( OR=1.48 , 95% CI : 1.08 , 2.01 ) , and in the first year of life , acetaldehyde ( OR=1.62 , 95% CI : 1.06 , 2.48 ) .
+Sources of these agents are discussed.Journal of Exposure Science and Environmental Epidemiology advance online publication , 27 November 2013 ; doi:10.1038/jes.2013.84 .

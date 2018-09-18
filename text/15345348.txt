@@ -1,0 +1,9 @@
+Exposure to arsenic has long been known to have neurologic consequences in adults , but to date there are no well-controlled studies in children .
+We report results of a cross-sectional investigation of intellectual function in 201 children 10 years of age whose parents participate in our ongoing prospective cohort study examining health effects of As exposure in 12,000 residents of Araihazar , Bangladesh .
+Water As and manganese concentrations of tube wells at each child's home were obtained by surveying all wells in the study region .
+Children and mothers came to our field clinic , where children received a medical examination in which weight , height , and head circumference were measured .
+Children's intellectual function on tests drawn from the Wechsler Intelligence Scale for Children , version III , was assessed by summing weighted items across domains to create Verbal , Performance , and Full-Scale raw scores .
+Children provided urine specimens for measuring urinary As and creatinine and were asked to provide blood samples for measuring blood lead and hemoglobin concentrations .
+Exposure to As from drinking water was associated with reduced intellectual function after adjustment for sociodemographic covariates and water Mn .
+Water As was associated with reduced intellectual function , in a dose-response manner , such that children with water As levels > 50 microg/L achieved significantly lower Performance and Full-Scale scores than did children with water As levels < 5.5 microg/L .
+The association was generally stronger for well-water As than for urinary As .

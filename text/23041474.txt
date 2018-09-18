@@ -1,0 +1,9 @@
+This study determined exposure of pregnant women to ochratoxin A ( OTA ) .
+Forty samples of first-void urine samples from Croatian women in the third trimester of pregnancy were analyzed for OTA and its major metabolite ochratoxin alpha ( OT\u03b1 ) .
+The subjects filled a short food frequency questionnaire ( FFQ ) .
+Analysis was performed by HPLC-FLD following liquid-liquid extraction .
+All samples were subjected in parallel to enzymatic treatment ( \u03b2-glucuronidase/aryl sulfatase ) to release OTA and OT\u03b1 from the conjugates .
+The median urinary levels of OTA and OT\u03b1 before treatment were 0.02 ( range : nd-1.07 ) ng/mL and 0.16 ( nd-1.86 ) ng/mL ; the concentrations after enzyme hydrolysis were 0.02 ( nd-1.11 ) ng/mL and 1.18 ( 0.11-7.57 ) ng/mL .
+While OT\u03b1 levels increased significantly following enzymatic treatment , evidence for OTA conjugation was weak .
+The ratio of urinary OT\u03b1 medians after and before hydrolysis was 1.5 times higher than previously reported for nonpregnant female subjects , possibly indicating upregulated metabolism and/or elimination of the mycotoxin and metabolites in pregnancy .
+The mean daily dietary OTA intake calculated from FFQs ( 1.08±0.57 ng/kg body weight ) was well below the provisional tolerable daily intake and the greatest contributors to intake were cereal products , fruit juices , chocolate and coffee .

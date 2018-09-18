@@ -1,0 +1,11 @@
+BACKGROUND Previous studies suggest that elevated exposure to drinking water disinfection by-products ( DBPs)--in particular , total trihalomethanes ( TTHMs)--may lead to fetal growth restriction .
+We examined the effects of exposure to TTHMs , haloacetic acids , and total organic halide on the probability of delivering a small-for-gestational-age ( SGA ) infant and on birth weight at term .
+METHODS Women early in pregnancy ( < or =12 weeks ' gestation ) or planning a pregnancy were enrolled in a prospective pregnancy study conducted in 3 US communities from 2000 through 2004 .
+Weekly ( or biweekly ) water samples were collected at each site as well as individual-level participant data .
+Associations between DBP exposures ( TTHMs , haloacetic acids , total organic halide ) and fetal growth were assessed using log-binomial regression for SGA ( n = 1958 ) and linear regression for term birth weight ( n = 1854 ) .
+We conducted a Bayesian analysis to examine associations between individual DBP species and fetal growth .
+RESULTS Haloacetic acids and total organic halide were not associated with SGA or term birth weight .
+The probability of delivering an SGA infant was elevated when comparing women with an average third-trimester residential TTHM concentration > or =80 microg/L to women with exposure <80 microg/L ( risk ratio = 2.0 [ 95% confidence interval = 1.1-3.6] ) , but not when examining other exposure contrasts .
+Bayesian analyses did not support a consistent association between any DBP species and fetal growth , although these analyses were based on small sample sizes .
+CONCLUSIONS Our results do not suggest an adverse effect of haloacetic acid or total organic halide exposure on fetal growth .
+An association of TTHM with SGA was seen only for average residential concentrations above the current regulatory standard .

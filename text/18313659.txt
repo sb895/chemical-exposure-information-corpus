@@ -1,0 +1,9 @@
+Urinary monohydroxy polycyclic aromatic hydrocarbons ( OH-PAHs ) are a class of PAH metabolites used as biomarkers for assessing human exposure to PAHs .
+The Centers for Disease Control and Prevention's National Health and Nutrition Examination Survey ( NHANES ) uses OH-PAHs to establish reference range concentrations for the US population , and to set benchmarks for future epidemiologic and biomonitoring studies .
+For the years 2001 and 2002 , 22 OH-PAH metabolites were measured in urine specimens from 2748 NHANES participants .
+Percentages of samples with detectable levels ranged from nearly 100% for metabolites of naphthalene , fluorene , phenanthrene , and pyrene , to less than 5% for metabolites from parent compounds with higher molecular weight such as chrysene , benzo[c]phenanthrene , and benz[a]anthracene .
+The geometric mean for 1-hydroxypyrene ( 1-PYR)--the most commonly used biomarker for PAH exposure--was 49.6 ng/L urine , or 46.4 ng/g creatinine .
+Children ( ages 6-11 ) generally had higher levels than did adolescents ( ages 12-19 ) or adults ( ages 20 and older ) .
+Model-adjusted , least-square geometric means for 1-PYR were 87 , 53 and 43 ng/L for children , adolescents ( ages 12-19 ) and adults ( ages 20 years and older ) , respectively .
+Log-transformed concentrations for major detectable OH-PAHs were significantly correlated with each other .
+The correlation coefficients between 1-PYR and other metabolites ranging from 0.17 to 0.63 support the use of 1-PYR as a useful surrogate representing PAH exposure .

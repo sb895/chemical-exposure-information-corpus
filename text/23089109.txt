@@ -1,0 +1,10 @@
+BACKGROUND Fish consumption and omega-3 polyunsaturated fatty acid ( PUFA ) intake are shown to protect from cardiovascular diseases ( CVD ) .
+However , most fish contain environmental contaminants such as dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) , polychlorinated biphenyls ( PCBs ) , and methylmercury ( MeHg ) that may have adverse effects on cardiovascular health .
+OBJECTIVE Our aim was to elucidate the associations of fish consumption , omega-3 PUFAs , environmental contaminants with low-grade inflammation , early atherosclerosis , and traditional CVD risk factors .
+METHODS The Health 2000 survey participants ( n=1173 ) represented the general Finnish population and the Fishermen study participants ( n=255 ) represented a population with high fish consumption and high exposure to environmental contaminants .
+Model-adjusted geometric means and tests for linear trend were calculated for CVD risk factors by tertiles of fish consumption and serum omega-3 PUFAs , and additionally in the Fishermen study only , by tertiles of serum PCDD/F+PCB , and blood MeHg .
+RESULTS Serum triglyceride decreased across omega-3 PUFA tertiles in both sexes and studies .
+Insulin resistance , C-reactive protein , tumour necrosis factor \u03b1 , and interleukin 6 decreased across omega-3 PUFA tertiles among the Health 2000 survey participants .
+Among the Fishermen study men , insulin resistance and arterial stiffness indicated by \u03b2-stiffness index tended to increase and the RR estimate for carotid artery plaque tended to decrease across tertiles of PCDD/F+PCB and MeHg .
+CONCLUSION Previously established hypotriglyceridemic and anti-inflammatory effects of omega-3 PUFAs were seen also in this study .
+The hypothesised favourable effect on insulin sensitivity and arterial elasticity was suggested to be counteracted by high exposure to environmental contaminants but the effect on plaque prevalence appeared not to be harmful .

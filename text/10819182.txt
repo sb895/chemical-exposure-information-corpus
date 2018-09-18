@@ -1,0 +1,4 @@
+The authors of this paper chose several target compounds that have been found in average US homes , applied the current United States Environmental Protection Agency ( USEPA ) Superfund risk assessment methodologies to indoor air quality , and produced risk numbers for hazard quotients and predicted increases in incidence of cancer which would be unacceptable at US hazardous waste sites .
+The calculations were made for the average child and adult with USEPA default exposure values .
+Calculations were also made for a worst case scenario using maximum concentrations and exposure estimates defined by the USEPA as describing the reasonable exposure ( RME ) .
+Significant cancer risks and non-cancer hazard quotients were predicted .

@@ -1,0 +1,14 @@
+BACKGROUND Assessment of the imprecision of exposure biomarkers usually focuses on laboratory performance only .
+Unrecognized imprecision leads to underestimation of the true toxicity of the exposure .
+We have assessed the total imprecision of exposure biomarkers and the implications for calculation of exposure limits .
+METHODS In a birth cohort study , mercury concentrations in cord blood , cord tissue , and maternal hair were used as biomarkers of prenatal methylmercury exposure .
+We determined their mutual correlations and their associations with the child's neurobehavioral outcome variables at age 7 years .
+With at least three exposure parameters available , factor analysis and structural equation modeling could be applied to determine the total imprecision of each biomarker .
+The estimated imprecision was then applied to adjust benchmark dose calculations and the derived exposure limits .
+RESULTS The exposure biomarkers correlated well with one another , but the cord blood mercury concentration showed the best associations with neurobehavioral deficits .
+Factor analysis and structural equation models showed a total imprecision of the cord-blood parameter of 25-30% , and almost twice as much for maternal hair .
+These imprecisions led to inflated benchmark dose levels .
+Adjusted calculations resulted in an exposure limit 50% below the level recommended by the U.S. National Research Council .
+CONCLUSIONS The biomarker imprecisions of 25-50% much exceeded normal laboratory variability .
+Such imprecision causes underestimation of dose-related toxicity and therefore must be considered in the data analysis and when deriving exposure limits .
+Future studies should ideally include at least three exposure parameters to allow independent assessment of total imprecision .

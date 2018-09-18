@@ -1,0 +1,13 @@
+BACKGROUND Little is known about the variation in exposure to toxic metals by age and gender and other potential modifying factors .
+We evaluated age and gender differences by measurements of metal/element concentrations in urine in a rural population in Matlab , Bangladesh , in three age groups : 8-12 ( N=238 ) , 14-15 ( N=107 ) and 30-88 ( N=710 ) years of age , living in an area with no point sources of metal exposure but where elevated water arsenic concentrations are prevalent .
+RESULTS We found marked differences in urine concentrations of metals and trace elements by gender , age , tobacco use , socioeconomic and nutritional status .
+Besides a clearly elevated urinary arsenic concentration in all age groups ( medians 63-85 \u03bcg As/L ) , and despite the low degree of contamination from industries and traffic , the urine concentrations of toxic metals such as cadmium and lead were clearly elevated , especially in children ( median 0.31 \u03bcg Cd/L and 2.9 \u03bcg Pb/L , respectively ) .
+In general , women had higher urinary concentrations of toxic metals , especially Cd ( median 0.81 \u03bcg/L ) compared to men ( 0.66 \u03bcg/L ) and U ( median 10 ng/L in women , compared to 6.4 ng/L in men ) , while men had higher urinary concentrations of the basic and essential elements Ca ( 69 mg/L in men , 30-50 years , compared to 52 mg/L in women ) , Mg ( 58 mg/L in men compared to 50 mg/L in women ) , Zn ( 182 \u03bcg/L in men compared to 117 \u03bcg/L in women ) and Se ( 9.9 \u03bcg/L in men compared to 8.7 \u03bcg/L in women ) .
+Manganese was consistently higher in females than in males in all age groups , suggesting a biological difference between females and males in Mn metabolism .
+Increasing socioeconomic status decreased the toxic metal exposure significantly in children and especially in men .
+Poor iron status was detected in 17% of children , adolescents and women , but only in 6% of men .
+Also zinc deficiency was more prevalent in females than in males .
+CONCLUSIONS Women and children seemed to be more at risk for toxic metal exposure than men and at the same time more vulnerable to micronutrient deficiency .
+Higher concentrations of the toxic metals in urine in women are likely to reflect an increased gastrointestinal absorption of these metals at micronutrient deficiency , such as low body iron stores and Zn deficiency .
+Higher urinary concentrations of the essential elements in men likely reflect a better nutritional status .
+There is a need for information on exposure , lifestyle and socioeconomic factors , stratified by gender and age , for the purpose of conducting balanced risk assessment and management that considers such differences .

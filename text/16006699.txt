@@ -1,0 +1,14 @@
+BACKGROUND Incinerator workers are not considered to have arsenic overexposure although they have the risk of overexposure to other heavy metals .
+AIM To examine the relationship between arsenic burden and risk of occupational exposure in employees working at a municipal refuse incinerator by determining the concentrations of arsenic in the blood and urine .
+SETTINGS AND DESIGN The workers were divided into three groups based on their probability of contact with combustion-generated residues , namely Group 1 : indirect contact , Group 2 : direct contact and Group 3 : no contact .
+Healthy age- and sex-matched residents living in the vicinity were enrolled as the control group .
+MATERIALS AND METHODS Heavy metal concentrations were measured by atomic absorption spectrophotometer .
+Downstream rivers and drinking water of the residents were examined for environmental arsenic pollution .
+A questionnaire survey concerning the contact history of arsenic was simultaneously conducted .
+STATISTICAL ANALYSIS Non-parametric tests , cross-tabulation and multinomial logistic regression .
+RESULTS This study recruited 122 incinerator workers .
+The urine and blood arsenic concentrations as well as incidences of overexposure were significantly higher in the workers than in control subjects .
+The workers who had indirect or no contact with combustion-generated residues had significantly higher blood arsenic level .
+Arsenic contact history could not explain the difference .
+Airborne and waterborne arsenic pollution were not detected .
+CONCLUSION Incinerator workers run the risk of being exposed to arsenic pollution , especially those who have incomplete protection in the workplace even though they only have indirect or no contact with combustion-generated pollutants .

@@ -1,0 +1,10 @@
+INTRODUCTION We present data from the Korean National Health and Nutrition Examination Survey 2005-2010 regarding the association between levels of blood cadmium , mercury , and lead and metabolic syndrome ( MS ) in a representative sample of the adult South Korean population .
+MS is defined as a cluster of disorders including central obesity , glucose intolerance , hypertension , low high-density lipoprotein cholesterol , and high triglycerides .
+METHODS The analysis was restricted to participants \u226520 years of age who completed the health examination survey , including blood lead , cadmium , and mercury measurements .
+Odds ratios ( ORs ) for MS were calculated for log2 -transformed blood metal levels and tertiles thereof after covariate adjustment .
+RESULTS No significant results were observed in females .
+In males , adjusted ORs indicated that a doubling of blood cadmium resulted in a 23.0% increase in the risk of MS. Male subjects in the highest tertile of blood cadmium were 36.7% more likely to have MS versus those in the lowest tertile .
+There were no significant ORs for having MS or its components in any of the models of blood lead and mercury levels after covariate adjustment .
+CONCLUSION The association between blood cadmium level and MS was significant regardless of the type of variable ( continuous or categorical ) among men with lower blood cadmium levels .
+Thus , blood cadmium levels were robust risk factors for MS in men .
+To our knowledge , this is the first report of an association between cadmium exposure and MS .

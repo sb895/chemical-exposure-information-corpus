@@ -1,0 +1,10 @@
+We analyzed the influence of emissions from burning sugar cane on the respiratory system during almost 1 year in the city of Piracicaba in southeast Brazil .
+From April 1997 through March 1998 , samples of inhalable particles were collected , separated into fine and coarse particulate mode , and analyzed for black carbon and tracer elements .
+At the same time , we examined daily records of children ( <13 years of age ) and elderly people ( >64 years of age ) admitted to the hospital because of respiratory diseases .
+Generalized linear models were adopted with natural cubic splines to control for season and linear terms to control for weather .
+Analyses were carried out for the entire period , as well as for burning and nonburning periods .
+Additional models were built using three factors obtained from factor analysis instead of particles or tracer elements .
+Increases of 10.2 microg/m3 in particles<or=2.5 microm/m3 aerodynamic diameter ( PM2.5 ) and 42.9 microg/m3 in PM10 were associated with increases of 21.4% [ 95% confidence interval ( CI ) , 4.3-38.5 ] and 31.03% ( 95% CI , 1.25-60.21 ) in child and elderly respiratory hospital admissions , respectively .
+When we compared periods , the effects during the burning period were much higher than the effects during nonburning period .
+Elements generated from sugar cane burning ( factor 1 ) were those most associated with both child and elderly respiratory admissions .
+Our results show the adverse impact of sugar cane burning emissions on the health of the population , reinforcing the need for public efforts to reduce and eventually eliminate this source of air pollution .

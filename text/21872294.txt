@@ -1,0 +1,10 @@
+Hypertension is the leading cause of cardiovascular disease worldwide .
+Long-term arsenic exposure has been linked to increased risk for hypertension ; however , little is known whether a previous exposure has lingering effects on hypertension after the exposure being reduced significantly for decades .
+The study cohort was established in 1990 in an arseniasis-endemic area of 3 villages - Homei , Fuhsin , and Hsinming in Putai Township located on the southwestern coast of Taiwan , where residents were exposed to artesian well water ( median level=700 to 930 \u03bcg/L ) until early 1970s .
+The original cohort consisted of 490 non-hypertensive residents over 30-yrs-old and 352 of them were successfully followed up in 2002/03 .
+Arsenic concentrations in the artesian well water consumed by residents during 1960s were used to indicate the previous exposure while urinary arsenic species measured in 2002/3 was used to represent current exposure .
+Hypertension incidences were 27.4 , 65.6 , and 69.1 , per 1000 person-years for men aged 35-49 , 50-64 , and 65-74 years , respectively being higher than the corresponding rates of 25.1 , 46.1 , and 57.2 in a community-based longitudinal study .
+Cancer was the major cause of the total deaths ( 17/30=57% ) .
+Diastolic blood pressure was shown to increase with an increased cumulative arsenic ingestion from drinking water ( \u03b2=0.27 , p<0.001 ) .
+The incidence was increased by 2.43-fold in subjects of As(V)\u22652.67 \u03bcg/g creatinine as compared to those of As(V)<1.20 \u03bcg/g creatinine ( the third vs. first tertile ; p=0.047 ) after adjustment for conventional risk factors .
+This study suggests that three decades after cessation of drinking artesian well water , residents of the endemic area are still at increased risk for developing hypertension , particularly those who excrete high amounts of As(V) .

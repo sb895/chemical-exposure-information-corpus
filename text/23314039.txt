@@ -1,0 +1,10 @@
+The sources and pathways of human exposure to perfluoroalkyl acids ( PFAAs ) are not well characterized , particularly in China where many perfluorinated substances are now manufactured .
+Here , isomer-specific PFAA analysis was used for the first time to evaluate exposure sources for Chinese people , by applying the method to 129 serum samples collected in two typical cities ( Shijiazhuang and Handan ) in North China .
+Among all samples , total perfluorooctanesulfonate ( \u2211PFOS , mean 33.3 ng/ml ) was the predominant PFAA followed by perfluorohexanesulfonate ( 2.95 ng/ml ) , total perfluorooctanoate ( \u2211PFOA , 2.38 ng/ml ) , and perfluorononanoate ( 0.51 ng/ml ) .
+The level of \u2211PFOS was higher than in people from North America in recent years .
+The mean concentrations of \u03a3PFAAs in the participants living in urban Shijiazhuang ( 59.0 ng/ml ) and urban Handan ( 35.6 ng/ml ) were significantly higher ( p<0.001 and p=0.041 , respectively ) than those living in the rural district of Shijiazhuang ( 24.3 ng/ml ) .
+The young female sub-population had the lowest \u03a3PFAA concentrations compared with older females and all males .
+On average , the proportion of linear PFOS ( n-PFOS ) was only 48.1% of \u2211PFOS , which is much lower than what was present in technical PFOS from the major historical manufacturer ( ca. 70% linear ) , and which is also lower than data reported from any other countries .
+Moreover , the proportion of n-PFOS decreased significantly with increasing \u2211PFOS concentration in the serum samples ( r=-0.694 , p<0.001 ) .
+Taken together , the data lend weight to previous suggestions that i ) high branched PFOS content in serum is a biomarker of exposure to PFOS-precursors , and ii ) that people with the highest \u2211PFOS concentrations are exposed disproportionately to high concentrations of PFOS-precursors .
+On average , linear PFOA ( n-PFOA ) contributed 96.1% of \u2211PFOA , significantly higher than in technical PFOA ( ca. 75-80% linear ) , but lower than in Americans , suggesting higher exposure to electrochemically fluorinated PFOA than in other countries , including the United States .

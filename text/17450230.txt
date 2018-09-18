@@ -1,0 +1,11 @@
+The susceptibility to arsenic-induced diseases differs greatly between individuals , possibly due to interindividual variations in As metabolism that affect retention and distribution of toxic metabolites .
+To elucidate the role of genetic factors in As metabolism , we studied how polymorphisms in six genes affected the urinary metabolite pattern in a group of indigenous women ( n = 147 ) in northern Argentina who were exposed to approximately 200 microg/L As in drinking water .
+These women had low urinary percentages of monomethylated As ( MMA ) and high percentages of dimethylated As ( DMA ) .
+MMA has been associated with adverse health effects , and DMA has the lowest body retention of the metabolites .
+The genes studied were arsenic(+III)methyltransferase ( AS3MT ) , glutathione S-transferase omega 1 ( GSTO1 ) , 5-methyltetrahydrofolate-homocysteine methyltransferase ( MTR ) , methylenetetrahydrofolate reductase ( MTHFR ) , and glutathione S-transferases mu 1 ( GSTM1 ) and theta 1 ( GSTT1 ) .
+We found three intronic polymorphisms in AS3MT ( G12390C , C14215T , and G35991A ) associated with a lower percentage of MMA ( %MMA ) and a higher percentage of DMA ( %DMA ) in urine .
+The variant homozygotes showed approximately half the %MMA compared with wild-type homozygotes .
+These polymorphisms were in strong linkage , with high allelic frequencies ( 72-76% ) compared with other populations .
+We also saw minor effects of other polymorphisms in the multivariate regression analysis with effect modification for the deletion genotypes for GSTM1 ( affecting %MMA ) and GSTT1 ( affecting %MMA and %DMA ) .
+For pregnant women , effect modification was seen for the folate-metabolizing genes MTR and MTHFR .
+In conclusion , these findings indicate that polymorphisms in AS3MT-and possibly GSTM1 , GSTT1 , MTR , and MTHFR-are responsible for a large part of the interindividual variation in As metabolism and susceptibility .

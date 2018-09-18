@@ -1,0 +1,12 @@
+BACKGROUND Living near traffic has been associated with asthma and other respiratory symptoms .
+Most studies , however , have been conducted in areas with high background levels of ambient air pollution , making it challenging to isolate an independent effect of traffic .
+Additionally , most investigations have used surrogates of exposure , and few have measured traffic pollutants directly as part of the study .
+OBJECTIVE We conducted a cross-sectional study of current asthma and other respiratory symptoms in children ( n = 1,080 ) living at varying distances from high-traffic roads in the San Francisco Bay Area , California , a highly urbanized region characterized by good regional air quality due to coastal breezes .
+METHODS We obtained health information and home environmental factors by parental questionnaire .
+We assessed exposure with several measures of residential proximity to traffic calculated using geographic information systems , including traffic within a given radius and distance to major roads .
+We also measured traffic-related pollutants ( nitrogen oxides and nitrogen dioxide ) for a subset of households to determine how well traffic metrics correlated with measured traffic pollutants .
+RESULTS Using multivariate logistic regression analyses , we found associations between current asthma and residential proximity to traffic .
+For several traffic metrics , children whose residences were in the highest quintile of exposure had approximately twice the adjusted odds of current asthma ( i.e. , asthma episode in the preceeding 12 months ) compared with children whose residences were within the lowest quintile .
+The highest risks were among those living within 75 m of a freeway/highway .
+Most traffic metrics correlated moderately well with actual pollutant measurements .
+CONCLUSION Our findings provide evidence that even in an area with good regional air quality , proximity to traffic is associated with adverse respiratory health effects in children .

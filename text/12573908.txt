@@ -1,0 +1,15 @@
+Aflatoxins are immunotoxins that frequently contaminate staple foods in The Gambia and other parts of sub-Saharan Africa , resulting in high exposure throughout life .
+Impaired infant immune system development may be a key predictor of mortality from infectious disease .
+In this study we aimed to determine the effect of dietary aflatoxin exposure on a number of immune parameters in Gambian children .
+A cohort of 472 Gambian children 6-9 years of age was recruited .
+Serum aflatoxin-albumin ( AF-alb ) adducts were analyzed to provide a measure of exposure .
+Immune parameters included secretory IgA ( sIgA ) in saliva , cell-mediated immunity ( CMI ) , determined using the CMI multitest where test antigens are applied to the skin , and antibody responses to both rabies and pneumococcal polysaccharide vaccines .
+Birth weight , current anthropometry , and micronutrient status were also recorded .
+AF-alb adducts were detected in 93% of the children ( geometric mean level 22.3 pg/mg ; range 5-456 pg/mg ) .
+AF-alb level was strongly influenced by month of sampling .
+In a multivariable analysis , sIgA was markedly lower in children with detectable AF-alb compared with those with nondetectable levels [ 50.4 micro g/mg protein ( 95% confidence interval [ CI ] 48.0-52.8 ) and 70.2 micro g/mg protein ( 95% CI 61.1-79.2 ) , respectively ; p < 0.0001 ] .
+Antibody response to one of four pneumococcal serotypes , but not rabies vaccine , was weakly associated with higher levels of AF-alb .
+There was no association between CMI responses to test antigens and AF-alb .
+These data confirm that children in rural Gambia are frequently exposed to high levels of aflatoxin .
+The study provides evidence that sIgA in saliva may be reduced because of dietary levels of aflatoxin exposure .
+Given the high burden of infection-related mortality in West Africa , further investigation of the immune effects of aflatoxin exposure in children is merited .

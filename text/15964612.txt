@@ -1,0 +1,10 @@
+Historically , dichlorodiphenyltrichloroethane ( DDT ) was used in northern Thailand for malaria control and farming purposes .
+Several studies have investigated its effects on end points of adverse reproductive health outcomes .
+However , the few previous studies investigated hormonal effects in men and available data are inconclusive .
+The authors aimed to explore the main hypothesis that plasma DDT levels in adult men were associated with reproductive hormone levels .
+A cross-sectional study was performed of 97 adult men living in a highland village named Mae Sa Mai , 35 km north of Chiang Mai , Thailand .
+Venous blood samples were collected for measuring plasma levels of DDT and its metabolites and reproductive hormones , including 17beta-estradiol ( E2 ) , testosterone , luteinizing hormone ( LH ) , and follicle stimulating hormone ( FSH). 1,1-Dichloro-2,2-di(4-chlorophenyl)ethylene ( p,p'-DDE ) and 1,1,1-trichloro-2,2-di(4-chlorophenyl)ethane ( p,p'-DDT ) were detected in all plasma samples. p,p'-DDE had the highest level with a median of 4057.7 ng/g lipids and a relatively higher level compared with most other studies .
+Plasma p,p'-DDT levels were positively associated with years of residence ( beta+SE=0.472+0.208 , P=0.028 ) and years of DDT usage for farming ( beta+SE=0.177+0.084 , P=0.04 ) .
+The remarkable findings were the negative association of plasma E2 levels with plasma p,p'-DDE levels ( beta+SE=-7.093+2.899 , P=0.016 ) and the positive association with plasma 1,1-dichloro-2-(2-chlorophenyl)-2-(4-chlorophynyl)ethylene ( o,p'-DDE ) levels ( beta+SE=16.381+5.596 , P=0.008 ) after adjusting for age and body mass index ( BMI ) .
+However , these associations were rather weak .
+Our results suggest that these associations may reflect their different mechanisms of hormonal activities and they would be warrant further detail investigations .

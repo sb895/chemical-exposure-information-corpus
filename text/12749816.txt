@@ -1,0 +1,8 @@
+Chronic exposure to inorganic arsenic is known to cause non-melanocytic skin and internal cancers in humans .
+An estimated 50-70 million people in Bangladesh have been chronically exposed to arsenic from drinking water and are at risk of skin and other cancers .
+We undertook the first study to examine whether genetic susceptibility , as determined by the codon 751 SNP ( A-->C ) of the DNA repair gene XPD , influences the risk of arsenic-induced hyperkeratotic skin lesions , precursors of skin cancer , in a case-control study of 29 hyperkeratosis cases and 105 healthy controls from the same community in an area of Bangladesh .
+As expected , there was a monotonic increase in risk of hyperkeratosis in relation to urinary arsenic measures but the XPD genotype was not independently associated with the risk .
+However , the increase in hyperkeratosis risk in relation to urinary arsenic measures genotype was borderline significant for urinary total arsenic ( P for trend=0.06 ) and statistically significant for urinary creatinine adjusted arsenic ( P for trend=0.01 ) among subjects with the XPD A allele ( AA ) but not among subjects with the other XPD genotypes .
+Among AA carriers , the risk for the highest arsenic exposed group compared with the lowest was more than 7-fold for urinary total arsenic and about 11-fold for urinary creatinine adjusted arsenic .
+In conclusion , our findings suggest that the DNA repair gene XPD may influence the risk of arsenic-induced premalignant hyperkeratotic skin lesions .
+Future larger studies are needed to confirm this novel finding and investigate how combinations of different candidate genes and/or other host and environmental factors may influence the risk of arsenic induced skin and other cancers .

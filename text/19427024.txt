@@ -1,0 +1,8 @@
+The authors have previously published a methodology which combines quantitative probabilistic human health risk assessment and spatial statistical methods ( geostatistics ) to produce an assessment , incorporating uncertainty , of risks to human health from exposure to contaminated land .
+The model assumes a constant soil to plant concentration factor ( CF(veg) ) when calculating intake of contaminants .
+This model is modified here to enhance its use in a situation where CF(veg) varies according to soil pH , as is the case for cadmium .
+The original methodology uses sequential indicator simulation ( SIS ) to map soil concentration estimates for one contaminant across a site .
+A real , age-stratified population is mapped across the contaminated area , and intake of soil contaminants by individuals is calculated probabilistically using an adaptation of the Contaminated Land Exposure Assessment ( CLEA ) model .
+The proposed improvement involves not only the geostatistical estimation of the contaminant concentration , but also that of soil pH , which in turn leads to a variable CF(veg) estimate which influences the human intake results .
+The results presented demonstrate that taking pH into account can influence the outcome of the risk assessment greatly .
+It is proposed that a similar adaptation could be used for other combinations of soil variables which influence CF(veg) .

@@ -1,0 +1,11 @@
+Dental technicians use various materials , particularly metal alloys and monomers and polymers based on methylmethacrylate .
+Environmental hygiene issues surrounding the work of dental technicians have been recognized .
+Despite the need for observance of occupational environmental controls and work management , compliance among dental laboratories appears to be low .
+We evaluated the relationship between genotoxic effects in dental technicians and occupational environmental controls and work management .
+We used cytokinesis-blocked micronuclei ( CB-MN ) frequencies in peripheral lymphocytes and metal levels in scalp hair .
+We also assessed nutritional factors related to anti-genotoxic effects using a self-administered brief diet history questionnaire .
+Study subjects were 54 male dental technicians and 38 male clerical workers .
+The parameters on the micronuclei ( MN ) frequency in dental technicians and clerical workers were analyzed by forward stepwise multiple regression analyses .
+Age ( P < 0.01 , \u03b2 = 0.561 ) , occupation as a dental technician ( P < 0.01 , \u03b2 = 0.636 ) and aluminum levels in scalp hair ( P < 0.05 , \u03b2 = 0.213 ) were risk factors that significantly increased MN frequency .
+The significant parameters on the MN frequency in dental technicians were observance of hand-washing as work management ( P < 0.01 , \u03b2 = -0.304 ) , work period ( P < 0.01 , \u03b2 = 0.509 ) , germanium levels in scalp hair ( P < 0.01 , \u03b2 = -0.314 ) and workplace ( P < 0.05 , \u03b2 = 0.235 ) .
+To avoid genotoxic effects , observance of occupational environmental controls and work management is necessary for dental technicians .

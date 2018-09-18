@@ -1,0 +1,14 @@
+The most frequently used pesticide in U.S. homes , as well as in schools and day care centers , is chlorpyrifos .
+In 1998 , this insecticide was detected in household dust from the former U.S. Forces housing estates in Frankfurt am Main , Germany , resulting from its earlier use up to 1993 , i.e. , at least 4 years ago .
+This led to great concern in the new inhabitants .
+To investigate their internal exposure to the substance , they were offered the opportunity of taking part in biomonitoring examinations .
+Children playing on the floor were assumed to be especially at risk due to increased exposure to chlorpyrifos via oral or dermal intake .
+A total of 1146 inhabitants took part in this voluntary investigation .
+All of them stated that they had never used chlorpyrifos in their homes .
+Spot urine samples of the study participants were analyzed for six metabolites of organophosphorous insecticides [ dimethylphosphate ( DMP ) , diethylphosphate ( DEP ) , dimethylthiophosphate ( DMTP ) , diethylthiophosphate ( DETP ) , dimethyldithiophosphate ( DMDTP ) , and diethyldithiophosphate ( DEDTP) ] using a very sensitive gas chromatographic method with mass-selective detection and a limit of detection of 1 microg/L .
+No evidence was found of increased internal exposure due to former chlorpyrifos application in these homes ( >4 years ago ) , either in children or in adults .
+The median values and 95th percentiles of the urinary metabolite concentrations in 484 adults were ( microg/g creatinine ) : DMP , 15.5 and 102.5 ; DMTP , 13.5 and 125.8 ; DMDTP , <1 and 13.1 ; DEP , 2.1 and 11.6 ; DETP , <1 and 6.4 ; DEDTP , both <1 .
+The urinary metabolite concentrations in children <6 years of age were higher ; this was caused mainly by lower creatinine concentrations .
+To conclude , no increase in internal exposure due to former indoor application of chlorpyrifos could be found , and the reference values published for internal organophosphate exposure in adults in Germany were confirmed .
+However , as shown in other environmental studies , the urinary excretion of organophosphorous metabolites exceeds dietary intake several fold ; this has been estimated from the data in various duplicate dietary studies .
+This observation calls for further investigation .

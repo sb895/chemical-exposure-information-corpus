@@ -1,0 +1,8 @@
+Perfluorinated compounds ( PFCs ) can be released to the surrounding environment during manufacturing and usage of PFC containing products , which are considered as main direct sources of PFCs in the environment .
+This study evaluates the release of perfluorooctane sulfonate ( PFOS ) and other PFCs to the ambient environment around a manufacturing plant .
+Among the nine PFCs analyzed , only PFOS , perfluorooctanoic acid ( PFOA ) , and perfluorohexane sulfonate ( PFHxS ) were found in dust , water , soil , and chicken eggs .
+Very high concentrations of PFOS and PFOA were found in dust from the production storage , raw material stock room , and sulfonation workshop in the manufacturing facility , with the highest value at 4962 \u03bcg/g ( dry weight ) for PFOS and 160 \u03bcg/g for PFOA .
+A decreasing trend of the three PFCs concentrations in soils , water , and chicken eggs with increasing distance from the plant was found , indicating the production site to be the primary source of PFCs in this region .
+Risk quotients ( RQs ) assessment for surface water >500 m away from the plant were less than unity .
+Risk assessment of PFOS using predicted no-effect concentration ( PNEC , 3.23 ng/g on a logarithmic scale ) indicated no immediate ecological risk of a reduction in offspring survival .
+PFOS concentrations in most egg samples did not exceed the benchmark concentration derived in setting a reference dose for noncancer health effects ( 0.025 \u03bcg/(kgxd) ) .

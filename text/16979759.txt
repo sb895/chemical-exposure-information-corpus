@@ -1,0 +1,11 @@
+A food market-basket , representative for the general Belgian population , containing various meat , fish and dairy food products , was assembled and analysed for its polybrominated diphenyl ether ( PBDE ) content .
+Additionally , fast food samples were also investigated .
+Based on the measured PBDE levels , an average daily dietary intake estimate of PBDEs was calculated .
+Of all foods analysed , fish had the highest average sum of PBDE levels ( BDEs 28 , 47 , 99 , 100 , 153 , 154 , and 183 ; 460 pg/g ww ) , followed by dairy products and eggs ( 260 pg/g ww ) , fast food ( 86 pg/g ww ) and meat products ( 70 pg/g ww ) .
+One fresh salmon filet had the highest total concentration of PBDEs ( 2360 pg/g ww ) , whereas levels in steak and chicken breast were the lowest of all foods analysed .
+BDE 209 was never found above LOQ in any food .
+PBDE intake calculations were based on the average daily food consumption in Belgium and were estimated between 23 and 48 ng/day of total PBDEs ( lower and upper bound ) .
+This value is in accordance with what was previously reported for diets from geographical distinct areas , such as Canada , Finland , Spain , Sweden and the UK .
+Although it is only a minor constituent of the Belgian diet , fish is the major contributor to the total daily PBDE-intake ( around 40% ) due to the high PBDE levels in this type of food .
+Although low contaminated , meat products account for around 30% of the total dietary intake of PBDEs .
+Dairy products and eggs contribute to a lesser degree ( less than 30% ) .

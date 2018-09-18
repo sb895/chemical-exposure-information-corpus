@@ -1,0 +1,10 @@
+There is a dearth of information on the temporal changes in polychlorinated dibenzodioxin/furans ( PCDD/Fs ) and dioxin-like polychlorinated biphenyls ( dl-PCBs ) contamination , in both environmental and biological specimens , in China .
+We compared the concentrations of PCDD/Fs and dl-PCBs in human milk collected in Shijiazhuang , Hebei Province , in northern China in 2002 ( n=30 ) and 2007 ( n=20 ) .
+The level of PCDD/Fs and dl-PCBs showed an increasing trend .
+The mean concentrations of PCDD/Fs plus dl-PCBs were 4.47 TEQ pg g(-1) fat and 6.24 TEQ pg g(-1) fat in human milk from Shijiazhuang in 2002 and in 2007 , respectively .
+Based on statistical analysis of questionnaire data collected by in-person interviews with mothers , we found positive correlations between consumption of sea fish and PCDFs .
+The PCDDs , PCDFs , PCDD/Fs , and PCDD/Fs plus dl-PCBs levels in individuals consuming greater amounts of sea fish were higher than those consuming less sea fish , both with and without adjustments for potential confounding factors .
+Among 17 congeners of PCDD/Fs , the 2,3,7,8-TCDF , 1,2,3,7,8-PeCDF , 2,3,4,7,8-PeCDF , 1,2,3,4,7,8-HxCDF , 1,2,3,6,7,8-HxCDF , and 2,3,4,6,7,8-HxCDF congener concentrations in 2007 increased 134% , 55% , 53% , 57% , 65% and 130% when compared to 2002 levels , respectively .
+The 2007 dl-PCB congener levels were greater than those of the 2002 samples , with the exception of PCB81 and PCB77 .
+Specifically , PCB105 , PCB114 , PCB118 , PCB123 and PCB156 had increased greater than twofold from 2002 to 2007 .
+Continuous surveillance of PCDD/F and dl-PCB levels in human milk is needed to accurately evaluate both environmental contamination and the human health risk to neonates in China .

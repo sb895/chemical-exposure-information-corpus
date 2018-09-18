@@ -1,0 +1,13 @@
+Although consumption of drinking water contaminated with inorganic arsenic is usually considered the primary exposure route , aggregate exposure to arsenic depends on direct consumption of water , use of water in food preparation , and the presence in arsenicals in foods .
+To gain insight into the effects of biological and behavioral factors on arsenic exposure , we determined arsenic concentrations in urine and toenails in a U.S. population that uses public or private water supplies containing inorganic arsenic .
+Study participants were 904 adult residents of Churchill County , Nevada , whose home tap water supplies contained <3 to about 1200 µg of arsenic per liter .
+Biomarkers of exposure for this study were summed urinary concentrations of inorganic arsenic and its methylated metabolites ( speciated arsenical ) , of all urinary arsenicals ( total arsenical ) , and of all toenail arsenicals ( total arsenical ) .
+Increased tap water arsenic concentration and consumption were associated with significant upward trends for urinary speciated and total and toenail total arsenical concentrations .
+Significant gender differences in concentrations of speciated and total arsenicals in urine and toenails reflected male-female difference in water intake .
+Both recent and higher habitual seafood consumption significantly increased urinary total but not speciated arsenical concentration .
+In a stepwise general linear model , seafood consumption significantly predicted urinary total arsenical but not urinary speciated or toenail total arsenical concentrations .
+Smoking behavior significantly predicted urinary speciated or total arsenical concentration .
+Gender , tap water arsenic concentration , and primary drinking water source significantly predicted urinary speciated and total concentrations and toenail total arsenical concentrations .
+These findings confirm the primacy of home tap water as a determinant of arsenic concentration in urine and toenails .
+However , biological and behavioral factors can modify exposure-response relations for these biomarkers .
+Refining estimates of the influence of these factors will permit better models of dose-response relations for this important environmental contaminant .

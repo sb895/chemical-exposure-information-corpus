@@ -1,0 +1,15 @@
+BACKGROUND Inorganic arsenic has been linked to decreased kidney function through oxidative damage .
+Arsenic methylation is believed to be a pathway for arsenic metabolism .
+Lycopene is an antioxidant that reduces oxidative stress ; however , the association between urinary arsenic species , plasma lycopene level , and chronic kidney disease ( CKD ) has seldom been evaluated .
+STUDY DESIGN Case-control study .
+SETTING & PARTICIPANTS 125 patients with CKD and 229 controls were recruited from a hospital-based pool .
+PREDICTOR Urinary arsenic species and plasma lycopene level .
+OUTCOMES & MEASUREMENTS CKD was defined as estimated glomerular filtration rate ( eGFR ) less than 60 mL/min/1.73 m(2) , calculated by using the Modification of Diet in Renal Disease Study equation .
+Plasma lycopene was measured by means of high-performance liquid chromatography .
+Urinary arsenic species , including arsenite , arsenate , monomethylarsonic acid , and dimethylarsinic acid , were determined by means of high-performance liquid chromatography and hydride generator-atomic absorption spectrometry .
+RESULTS Lycopene level was associated positively with eGFR , and participants with a high serum lycopene level had a significant , inverse association with CKD ( odds ratio , 0.41 ; 95% confidence interval , 0.21 to 0.81 ) .
+Total arsenic level was associated significantly with CKD in a dose-response relationship , especially in participants with a total arsenic level greater than 20.74 compared with 11.78 microg/g creatinine or less ( odds ratio , 4.34 ; 95% confidence interval , 1.94 to 9.69 ) .
+Furthermore , participants with a high urinary total arsenic level or participants with a low percentage of dimethylarsinic acid had a positive association with CKD when their plasma lycopene level was low .
+LIMITATIONS Because of the single spot evaluation of plasma antioxidants and urinary arsenic species and the small sample size , statistical significance should be interpreted with caution .
+CONCLUSIONS This study shows that high urinary total arsenic or low plasma lycopene level is associated positively with CKD .
+Results suggest that the capacity for arsenic methylation may be associated with CKD in individuals who ingest low arsenic levels in drinking water and also have a low plasma lycopene level .

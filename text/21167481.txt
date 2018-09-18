@@ -1,0 +1,16 @@
+BACKGROUND An association between cadmium exposure and bone mineral density ( BMD ) has been demonstrated in elderly women , but has not been well studied in youths and men .
+Some studies report either no or a weak association between cadmium exposure and bone damage .
+OBJECTIVES This study was designed to investigate the relationship between the urinary cadmium ( U-Cd ) levels and BMD of females and males of all ages .
+METHODS A total of 804 residents near an industrial complex were surveyed in 2007 .
+U-Cd and BMD on the heel ( non-dominant calcaneus ) were analyzed with AAS-GTA and Dual-Energy X-ray absorptiometry , respectively .
+Demographic characteristics were collected by structured questionnaires .
+Osteoporosis and osteopenia were defined by BMD cut-off values and T-scores set by the WHO ; T score>-1 , normal ; -2.5<T score <-1 , osteopenia ; and T score <-2.5 , osteoporosis .
+Logistic and multiple linear regressions were applied to estimate the association between U-Cd levels and BMD .
+RESULTS The U-Cd levels in females ( 0.64 \u03bcg/g creatinine ) were higher than those in males ( 0.48 \u03bcg/g creatinine ) ( p<0.001 ) .
+With the logistic regression model , osteopenia was associated with high U-Cd levels ( \u2265 1.0 \u03bcg/g creatinine ) in females ( OR=2.92 ; 95% CI , 1.51-5.64 ) and in males ( OR=3.37 ; 95% CI , 1.09-10.38 ) .
+With the multiple linear regression model , the BMD of the adult group was negatively associated with U-Cd ( <0.05 ) , gender ( female , p<0.001 ) and age ( p<0.001 ) .
+The BMD of participants who were \u2264 19 years of age was negatively associated with gender ( female , p<0.01 ) , whereas it was positively associated with age and BMI ( p<0.001 ) .
+BMD was not associated with exercise , smoking habits , alcohol consumption , job or parental education .
+CONCLUSION Results suggested that U-Cd might be associated with osteopenia as well as osteoporosis in both male and female adults .
+Age and female gender were negatively associated with BMD in the adult group , whereas age was positively associated with BMD in the youth group .
+Cadmium exposure may be a potential risk factor for lower-BMD and osteopenia symptoms as well as for osteoporosis symptoms .

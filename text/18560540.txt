@@ -1,0 +1,11 @@
+BACKGROUND Although animal experiments have shown that cadmium exposure results in severe dental caries , limited epidemiologic data are available on this issue .
+OBJECTIVES We aimed to examine the relationship between environmental cadmium exposure and dental caries in children 6-12 years of age .
+METHODS We analyzed cross-sectional data , including urine cadmium concentrations and counts of decayed or filled tooth surfaces , from the Third National Health and Nutrition Examination Survey .
+We used logistic and zero-inflated negative binomial ( ZINB ) regression to estimate the association between urine cadmium concentrations and caries experience , adjusting these analyses for potential confounders including environmental tobacco smoke ( ETS ) .
+RESULTS Urine cadmium concentrations ranged from 0.01 to 3.38 ng/mL .
+Approximately 56% of children had experienced caries in their deciduous teeth , and almost 30% had been affected by caries in their permanent dentition .
+An interquartile range ( IQR ) increase in creatinine-corrected cadmium concentrations ( 0.21 microg/g creatinine ) corresponded to a 16% increase in the odds of having experienced caries in deciduous teeth [ prevalence odds ratio ( OR)=1.16 ; 95% confidence interval ( CI ) , 0.96-1.40 ] .
+This association was statistically significant in children with low ETS exposure ( prevalence OR=1.30 ; 95% CI , 1.01-1.67 ) .
+The results from the ZINB regression indicated that , among children with any caries history in their deciduous teeth , an IQR increase in cadmium was associated with 17% increase in the number of decayed or filled surfaces .
+We observed no association between cadmium and caries experience in permanent teeth .
+CONCLUSIONS Environmental cadmium exposure may be associated with increased risk of dental caries in deciduous teeth of children .

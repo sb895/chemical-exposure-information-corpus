@@ -1,0 +1,14 @@
+The aim of this work was to evaluate short-term and long-term exposure to terbuthylazine ( TBA ) in agriculture workers ( AW ) , rural residents ( RR ) , and urban residents ( UR ) using urine and hair specimens .
+Twelve AW , 13 RR , and 17 UR were included in the study .
+Urine spot samples were collected with two different protocols .
+AW urine samples were collected before the application season ( February , U0 ) , at bedtime on the day of TBA application ( March-May , U1 ) , and prior to the next shift on the day after TBA application ( U2 ) .
+RR and UR urine samples were collected on any day during the application season ( Ue ) .
+Hair samples were collected for all subjects before the application season ( February , H0 ) and at the end of the season ( June , H1 ) .
+TBA and its metabolite desethylterbuthylazine ( DET ) were measured by liquid chromatography coupled with triple quadrupole mass spectrometry detection .
+DET was exclusively found in urine , while TBA was mostly found in the hair .
+In the AW , the urinary levels of DET were not detected in the U0 samples , and they increased to median levels of 1.81 and 2.94\u03bcg/L in the U1 and U2 samples , respectively ( p<0.001 ) .
+In the RR and UR , DET was not detected in the Ue samples .
+In the UR , TBA was not detected in the H0 samples , and the median levels of TBA were 0.01ng/mg hair in both the AW and RR .
+In the H1 samples , the median TBA levels were not detected , 0.01 , and 0.08ng/mg hair in the UR , RR , and AW , respectively ( p<0.001 ) .
+Urinary DET and hair TBA are promising candidates for biomonitoring short- and long-term exposure to TBA .
+The use of this herbicide in agriculture leads to exposure in rural residents .

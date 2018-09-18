@@ -1,0 +1,11 @@
+Polychlorinated dibenzo-p-dioxins ( PCDDs , dioxins ) , polychlorinated dibenzofurans ( PCDFs ) , and polychlorinated biphenyls ( PCBs ) are environmental endocrine disruptors that have half-lives of 7-10 years in the human body and have toxicities that probably include carcinogenesis .
+A high ratio of 4-hydroxyl estradiol ( 4-OH-E2 ) to 2-hydroxyl estradiol ( 2-OH-E2 ) has been suggested as a potential biomarker for estrogen-dependent neoplasms .
+In this cohort study of maternal-fetal pairs , we examined the relationship of PCDD/PCDF and PCB exposure to levels of estrogen metabolites in the sera of 50 pregnant women 25-34 years of age from central Taiwan .
+Maternal blood was collected during the third trimester , and the placenta was collected at delivery .
+We measured 17 dioxin congeners , 12 dioxin-like PCBs , and 6 indicator PCBs in placenta using gas chromatography coupled with high-resolution mass spectrometry .
+Estrogen metabolites in maternal serum were analyzed by liquid chromatography tandem mass spectrometry .
+The ratio of 4-OH-E2:2-OH-E2 decreased with increasing exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin ( beta=-0.124 , p=0.004 by the general linear regression model , R=0.4 ) .
+Meanwhile , serum levels of 4-OH-E2 increased with increasing concentrations of high-chlorinated PCDFs ( i.e. , 1,2,3,4,6,7,8-hepta-CDF : beta=0.454 , p=0.03 , R=0.30 ) .
+Altered estrogen catabolism might be associated with body burdens of PCDDs/PCDFs .
+Our study suggests that exposure to PCDDs/PCDFs significantly affects estrogen metabolism .
+Therefore , PCDD/PCDF exposure must be considered when using the OH-E2 ratio as a breast cancer marker .

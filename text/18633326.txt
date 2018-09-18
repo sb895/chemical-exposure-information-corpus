@@ -1,0 +1,11 @@
+BACKGROUND Most studies on the association between lung cancer and air pollution have investigated mortality .
+There have been few studies of lung cancer incidence .
+METHODS We used data from the ongoing Netherlands Cohort Study on Diet and Cancer for 114,378 subjects with follow-up from September 1986 to December 1997 .
+Exposure to black smoke , nitrogen dioxide ( NO2 ) , sulfur dioxide ( SO2 ) , and particulate matter < or =2.5 microm ( PM2.5 ) and traffic intensity variables ( intensity on nearest road , intensity in a 100 m buffer , and an indicator variable for living close to a major road ) were estimated at the home address .
+We conducted Cox proportional hazard analyses in the full cohort adjusting for age , sex , smoking status , and area-level socioeconomic status .
+We also carried out case-cohort analyses using more potential confounders on a subset of study participants for whom complete information from the baseline questionnaire had been processed .
+RESULTS Adjusted analyses included 1940 cases for the full cohort and 1295 cases for the case-cohort analysis .
+Relative risks ( RRs ) for the overall air pollution concentrations were slightly below unity , and for the traffic variables RRs were slightly elevated .
+Risk was elevated among people who never smoked cigarettes ( 40,114 participants ; 252 cases ) , with RRs of 1.47 ( 95% confidence interval = 1.01-2.16 ) for overall black smoke concentration , 1.11 ( 0.88-1.41 ) for traffic intensity on nearest road , and 1.55 ( 0.98-2.43 ) for living near a major road .
+CONCLUSIONS We found evidence for an association of exposure to black smoke and traffic with lung cancer incidence in people who had never smoked .
+No associations were found for the full cohort , or for other categories of smoking .

@@ -1,0 +1,12 @@
+We report on the pilot study carried out before the start of the Elfe project ( French longitudinal study from childhood ) .
+A total of 44 samples of mature human milk were collected at home 8 weeks after delivery .
+A total of 7 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) , 12 dioxin-like ( DL ) polychlorinated biphenyls ( PCBs ) , and 6 non dioxin-like ( NDL)-PCBs were measured .
+For total TEQ ( PCDD/Fs and DL-PCBs ) , the geometric mean concentration was 17.81 pg TEQ(WHO05)/g lipids .
+Relative PCDD , PCDF , and DL-PCB contributions to the arithmetic mean TEQ(WHO05) were 38% , 18% , and 44% , respectively .
+The use of TEF(WHO05) instead of TEF(WHO98) resulted in a 27% reduction of the total TEQ value .
+Although PCDD levels did not significantly change ( less than 0.5% increase ) , PCDF and DL-PCB levels both decreased by 35% and 38% , respectively .
+Levels have been compared to data obtained during a previous non-reported national study conducted in 1998 ( TEF(WHO98) ) in French lactaria ( n=244 ) .
+The mean of PCDD/Fs has decreased about 39.4% ( 18.8 pg TEQ(WHO98)/g lipids in 1998 vs 11.4 pg TEQ(WHO98)/g lipids in pilot study ) , respectively 41.5% for PCDDs ( 10.6 pg TEQ(WHO98)/g lipids in 1998 vs 6.2 pg TEQ(WHO98)/g lipids in pilot study ) and 36.7% for PCDFs ( 7.9 pg TEQ(WHO98)/g lipids in 1998 vs 5.0 pg TEQ(WHO98)/g lipids in pilot study ) .
+For the sum of the 6 NDL-PCBs , the 2007 geometric mean concentration in milk was 176.3 ng/g lipids .
+The arithmetic mean lipid concentration in 2007 breast milk was 26.4 g/l ( range from 6.0 to 46.7 g/l ) .
+A PCDD/F and DL-PCB daily intake was estimated to be 62.3 pg TEQ(WHO05)/kg body weight per day ( 85.0 pg TEQ(WHO98)/kg body weight per day ) for a baby of 5 kg of body weight fed daily with 700 ml of maternal milk containing 25 g/l of lipids .

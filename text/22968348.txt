@@ -1,0 +1,8 @@
+Cooking oil fumes ( COF ) contain polycyclic aromatic hydrocarbons ( PAHs ) , heterocyclic aromatic amines , benzene , and formaldehyde , which may cause oxidative damages to DNA and lipids .
+We assessed the relations between exposure to COF and subsequent oxidative DNA damage and lipid peroxidation among military cooks and office-based soldiers .
+The study population , including 61 Taiwanese male military cooks and a reference group of 37 office soldiers , collected urine samples pre-shift of the first weekday and post-shift of the fifth workday .
+We measured airborne particulate PAHs in military kitchens and offices and concentrations of urinary 1-OHP , a biomarker of PAH exposure , urinary 8-hydroxydeoxyguanosine ( 8-OHdG ) , a biomarkers of oxidative DNA damage , and urinary isoprostane ( Isop ) .
+Airborne particulate PAHs levels in kitchens significantly exceeded those in office areas .
+The concentrations of urinary 1-OHP among military cooks increased significantly after 5 days of exposure to COF .
+Using generalized estimating equation analysis adjusting for confounding , a change in log(8-OHdG) and log(Isop) were statistically significantly related to a unit change in log(1-OHP) ( regression coefficient ( \u03b2 ) , \u03b2=0.06 , 95% CI 0.001-0.12 ) and ( \u03b2=0.07 , 95% CI 0.001-0.13 ) , respectively .
+Exposure to PAHs , or other compounds in cooking oil fumes , may cause both oxidative DNA damage and lipid peroxidation .

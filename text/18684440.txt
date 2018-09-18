@@ -1,0 +1,9 @@
+We conducted a cross-sectional study in Sweden , Italy and Poland to assess environmental and occupational exposure to mercury from chloralkali ( CA ) plants and the potential association with biomarkers of early renal dysfunction .
+Questionnaire data and first-morning urine samples were collected from 757 eligible subjects .
+Urine samples were analysed for mercury corrected for creatinine ( U-HgC ) , alpha-1-microglobulin ( A1M ) , N-acetyl-beta-glucosaminidase ( NAG ) and albumin .
+Determinants of urinary mercury excretion were examined .
+Levels of kidney markers were compared in three U-HgC categories , and differences were tested taking age and other covariates into account .
+In the general population , the median U-HgC was higher in Italian ( 1.2 microg/gC ) than in Polish ( 0.22 microg/gC ) or Swedish ( 0.21 microg/gC ) subjects , and no effect of living close to CA plants could be shown .
+Dental amalgam , chewing on amalgam , and fish consumption were positively associated with U-HgC .
+In subjects from the general population , no effects on the kidney markers could be detected , while in men , including workers occupationally exposed to mercury , U-HgC was positively associated with the kidney markers , especially with NAG , but to some extent also with A1M and albumin .
+Differences in urinary mercury and kidney markers in the general population between three studied countries could possibly be due to dietary factors , increased susceptibility to mercury at low selenium intake or co-exposure to other nephrotoxic metals .

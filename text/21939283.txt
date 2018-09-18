@@ -1,0 +1,11 @@
+Bisphenol A ( BPA ) is used in a variety of consumer products , including some paper products , particularly thermal receipt papers , for which it is used as a color developer .
+Nevertheless , little is known about the magnitude of BPA contamination or human exposure to BPA as a result of contact with paper and paper products .
+In this study , concentrations of BPA were determined in 15 types of paper products ( n = 202 ) , including thermal receipts , flyers , magazines , tickets , mailing envelopes , newspapers , food contact papers , food cartons , airplane boarding passes , luggage tags , printing papers , business cards , napkins , paper towels , and toilet paper , collected from several cities in the USA .
+Thermal receipt papers also were collected from Japan , Korea , and Vietnam .
+BPA was found in 94% of thermal receipt papers ( n = 103 ) at concentrations ranging from below the limit of quantitation ( LOQ , 1 ng/g ) to 13.9 mg/g ( geometric mean : 0.211 mg/g ) .
+The majority ( 81% ) of other paper products ( n = 99 ) contained BPA at concentrations ranging from below the LOQ to 14.4 \u03bcg/g ( geometric mean : 0.016 \u03bcg/g ) .
+Whereas thermal receipt papers contained the highest concentrations of BPA ( milligram-per-gram ) , some paper products , including napkins and toilet paper , made from recycled papers contained microgram-per-gram concentrations of BPA .
+Contamination during the paper recycling process is a source of BPA in paper products .
+Daily intake ( DI ) of BPA through dermal absorption was estimated based on the measured BPA concentrations and handling frequency of paper products .
+The daily intake of BPA ( calculated from median concentrations ) through dermal absorption from handling of papers was 17.5 and 1300 ng/day for the general population and occupationally exposed individuals , respectively ; these values are minor compared with exposure through diet .
+Among paper products , thermal receipt papers contributed to the majority ( >98% ) of the exposures .

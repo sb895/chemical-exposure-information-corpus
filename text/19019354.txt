@@ -1,0 +1,12 @@
+OBJECTIVE The aim of this study was to determine optimum biomarkers to detect fetal exposure to environmental pesticides by the simultaneous analysis of maternal ( hair and blood ) and infant ( cord blood , infant hair or meconium ) matrices and to determine if a combination of these biomarkers will further increase the detection rate .
+PATIENTS AND METHODS Pregnant women were prospectively recruited from an agricultural site in the Philippines with substantial use at home and in the farm of the following pesticides : propoxur , cyfluthrin , chlorpyrifos , cypermethrin , pretilachlor , bioallethrin , malathion , diazinon and transfluthrin .
+Maternal hair and blood were obtained at midgestation and at delivery and infant hair , cord blood and meconium were obtained after birth .
+All samples were analyzed by gas chromatography/mass spectrometry ( GC/MS ) for the above pesticides and some of their metabolites .
+RESULTS A total of 598 mother/infant dyads were included in this report .
+The highest rates of pesticide exposure were detected in meconium ( 23.2% to propoxur , 2.0% to pretilachlor , 1.7% to cypermethrin , 0.8% to cyfluthrin , 0.7% to 1,1,1-trichloro-2,2-bis , p-chlorophenylethane ( DDT ) and 0.3% to malathion and bioallethrin ) and in maternal hair ( 21.6% to propoxur , 14.5% to bioallethrin , 1.3% to malathion , 0.8% to DDT , 0.3% to chlorpyrifos and 0.2% to pretilachlor ) .
+Combined analysis of maternal hair and meconium increased detection rate further to 38.5% for propoxur and to 16.7% for pyrethroids .
+Pesticide metabolites were rarely found in any of the analyzed matrices .
+CONCLUSIONS There is significant exposure of the pregnant woman and her fetus to pesticides , particularly to the home pesticides , propoxur and pyrethroids .
+Analysis of meconium for pesticides was the single most sensitive measure of exposure .
+However , combined analysis of maternal hair and meconium significantly increased the detection rate .
+A major advantage of analyzing maternal hair is that prenatal pesticide exposure in the mother can be detected and intervention measures can be initiated to minimize further exposure of the fetus to pesticides .

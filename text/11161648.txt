@@ -1,0 +1,9 @@
+To investigate the threshold effects of chronic low-level occupational exposure to styrene on color vision , we examined color discrimination in 105 male workers exposed to styrene ( mean age 37.7 years ; mean length of exposure 6.2 years ; mean urinary concentration of mandelic acid 0.21 g/L ) and in 117 referents ( mean age 37.7 years ) .
+We also assessed the effects of styrene by examination of the nature of the relation between disorders of nervous function and age , alcohol consumption , and other variables .
+A standardized questionnaire was adopted to collect information about work history , occupational or nonoccupational solvent exposure , alcohol consumption , and drug use .
+Color vision was evaluated by the Lanthony desaturated panel D-15 test .
+The results of the test were expressed as the color confusion index ( CCI ) .
+There was a dose-dependent relationship between the urinary concentration of mandelic acid and color vision loss .
+The CCIs of the subgroups whose urinary mandelic acid levels were 0.1-0.2 and >0.2 g/L were significantly higher than those of each referent group ( P<0.05 and P<0.01 , respectively ) , but not in the subgroup whose urinary mandelic acid level was lower than 0.1 g/L .
+Our study suggests that a low level of styrene , presumably 0.1-0.2 g/L , involves the risk of inducing adverse effects on color vision .
+After confounding factors were adjusted for , the urinary mandelic acid level had a significant positive relationship with color vision .

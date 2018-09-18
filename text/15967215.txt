@@ -1,0 +1,10 @@
+The Columbia Center for Children's Environmental Health is using a combination of environmental and biologic measures to evaluate the effects of prenatal insecticide exposures among urban minorities in New York City .
+Of the 571 women enrolled , 85% report using some form of pest control during pregnancy and 46% report using exterminators , can sprays , and/or pest bombs .
+Chlorpyrifos , diazinon , and propoxur were detected in 99.7-100% of 48-h personal air samples collected from the mothers during pregnancy ( n = 394 ) and in 39-70% of blood samples collected from the mothers ( n = 326 ) and/or newborns ( n = 341 ) at delivery .
+Maternal and newborn blood levels are similar and highly correlated ( r = 0.4-08 , P < 0.001 ) .
+Levels of insecticides in blood samples and/or personal air samples decreased significantly following the 2000-2001 U.S. Environmental Protection Agency's regulatory actions to phase out residential use of chlorpyrifos and diazinon .
+Among infants born prior to 1/1/01 , birth weight decreased by 67.3 g ( 95% confidence interval ( CI ) -116.6 to -17.8 , P = 0.008 ) and birth length decreased by 0.43 centimeters ( 95% CI , -0.73 to -0.14 , P = 0.004 ) for each unit increase in log-transformed cord plasma chlorpyrifos levels .
+Combined measures of ( ln)cord plasma chlorpyrifos and diazinon ( adjusted for relative potency ) were also inversely associated with birth weight and length ( P </= 0.007 ) .
+Birth weight averaged 215.1 g less ( 95% CI -384.7 to -45.5 ) among those with the highest exposures compared to those without detectable levels .
+No association was seen between birth weight and length and cord plasma chlorpyrifos or diazinon among newborns born after 1/1/01 ( P > 0.8 ) .
+Results support recent regulatory action to phase out residential uses of these insecticides .

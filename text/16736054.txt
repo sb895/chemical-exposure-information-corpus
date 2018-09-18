@@ -1,0 +1,12 @@
+In support of planning efforts for the National Children's Study , we conducted a study to test field methods for characterizing pesticide exposures to 20 farmworker children aged 5-27 months old living in the Salinas Valley of Monterey County , California .
+We tested methods for collecting house dust , indoor and outdoor air , dislodgeable residues from surfaces and toys , residues on clothing ( sock and union suits ) , food , as well as spot and overnight diaper urine samples .
+We measured 29 common agricultural and home use pesticides in multiple exposure media samples .
+A subset of organophosphorus ( OP ) , organochlorine ( OC ) and pyrethroid pesticides were measured in food .
+We also analyzed urine samples for OP pesticide metabolites .
+Finally , we administered four field-based exposure assessment instruments : a questionnaire ; food diary ; home inspection ; and a self-administered child activity timeline .
+Pesticides were detected more frequently in house dust , surface wipes , and clothing than other media , with chlorpyrifos , diazinon , chlorthal-dimethyl , and cis- and trans-permethrin detected in 90% to 100% of samples .
+Levels of four of these five pesticides were positively correlated among the house dust , sock , and union suit samples ( Spearman's rho=0.18-0.76 ) .
+Pesticide loading on socks and union suits was higher for the group of 10 toddlers compared to the 10 younger crawling children .
+Several OP pesticides , as well as 4,4'-DDE , atrazine , and dieldrin were detected in the food samples .
+The child activity timeline , a novel , low-literacy instrument based on pictures , was successfully used by our participants .
+Future uses of these data include the development of pesticide exposure models and risk assessment .

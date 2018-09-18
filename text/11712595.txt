@@ -1,0 +1,9 @@
+Indoor air quality ( IAQ ) of a restaurant has increasingly received a lot of public concerns in Hong Kong .
+Unfortunately , there is limited data about the IAQ of Hong Kong restaurants .
+In order to characterize the current IAQ of local restaurants , four restaurants in metropolitan Hong Kong including a Korean barbecue style restaurant , a Chinese hot pot restaurant , a Chinese dim sum restaurant and a Western canteen were selected for this study .
+The results of this study showed that the mean concentrations of CO2 at restaurants with gas stoves for food cooking in dining areas exceeded the range from 40 to 60% indoor CO2 concentrations at restaurants without gas stoves in dining areas .
+The average levels of PM10 and PM2.5 at the Korean barbecue style restaurant were as high as 1442 and 1167 microg/m3 , respectively .
+At the Korean barbecue and Chinese hot pot restaurants , the levels of PM2.5 accounted for 80-93% of their respective PM10 concentrations .
+The 1-h average levels of CO observed at Korean barbecue style and hot pot restaurants were 15,100 and 8000 microg/m3 , respectively .
+Relatively high concentrations of CO2 , CO , PM10 , PM2.5 benzene , toluene , methylene chloride and chloroform were measured in the dining areas of the Korean barbecue style and the Chinese hot pot restaurants .
+The operations of pan-frying food and boiling food with soup in a hot pot could generate considerable quantities of air pollutants .

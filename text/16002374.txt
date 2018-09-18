@@ -1,0 +1,12 @@
+Individual exposure to trihalomethanes ( THMs ) in tap water can occur through ingestion , inhalation , or dermal exposure .
+Studies indicate that activities associated with inhaled or dermal exposure routes result in a greater increase in blood THM concentration than does ingestion .
+We measured blood and exhaled air concentrations of THM as biomarkers of exposure to participants conducting 14 common household water use activities , including ingestion of hot and cold tap water beverages , showering , clothes washing , hand washing , bathing , dish washing , and indirect shower exposure .
+We conducted our study at a single residence in each of two water utility service areas , one with relatively high and the other low total THM in the residence tap water .
+To maintain a consistent exposure environment for seven participants , we controlled water use activities , exposure time , air exchange , water flow and temperature , and nonstudy THM sources to the indoor air .
+We collected reference samples for water supply and air ( pre-water use activity ) , as well as tap water and ambient air samples .
+We collected blood samples before and after each activity and exhaled breath samples at baseline and post-activity .
+All hot water use activities yielded a 2-fold increase in blood or breath THM concentrations for at least one individual .
+The greatest observed increase in blood and exhaled breath THM concentration in any participant was due to showering ( direct and indirect ) , bathing , and hand dishwashing .
+Average increase in blood THM concentration ranged from 57 to 358 pg/mL due to these activities .
+More research is needed to determine whether acute and frequent exposures to THM at these concentrations have public health implications .
+Further research is also needed in designing epidemiologic studies that minimize data collection burden yet maximize accuracy in classification of dermal and inhalation THM exposure during hot water use activities .

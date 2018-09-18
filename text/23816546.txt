@@ -1,0 +1,12 @@
+Prenatal exposure to bisphenol A ( BPA ) may be associated with adverse health effects in the developing fetus ; however , little is known about predictors of BPA exposure during pregnancy .
+We examined BPA exposure in 491 pregnant women from the Center for the Health Assessment of Mothers and Children of Salinas ( CHAMACOS ) cohort and explored the role of living in the United States on significant dietary predictors of BPA exposure .
+Women provided urine samples up to two times during pregnancy ( n=866 total samples ) .
+We computed the intraclass correlation coefficient ( ICC ) to evaluate variability in concentrations between collections and used generalized estimating equation ( GEE ) models to assess predictors of exposure .
+Geometric mean ( GSD ) BPA concentrations were 0.9 ( 2.8)\u03bcg/L and 1.0 ( 2.6)\u03bcg/L at the first and second prenatal visits , respectively .
+We observed greater within- than between-woman variability in urinary BPA concentrations ( ICC=0.22 ) .
+GEE models suggest that women who lived in the United States their entire life had 38% ( CI : -0.1 , 89.3 ) higher urinary BPA concentrations compared with other immigrant women .
+Additionally , women who consumed \u22653 sodas per day or hamburgers three times a week or more had 58% ( CI : 18.0 , 112.1 ) and 20% ( CI : -0.2 , 45.2 ) higher urinary BPA concentrations , respectively , compared with women who consumed no sodas or hamburgers .
+A higher percentage of women who lived their entire life in the United States reported increased consumption of sodas and hamburgers compared with other immigrant women .
+Independent of other factors , BPA urinary concentrations were slightly higher when the sample was collected later in the day .
+As in previous studies , high within-woman variability in urinary BPA concentrations confirms that several samples are needed to properly characterize exposure during pregnancy .
+Results also suggest that some factors could be modified to minimize exposures during pregnancy in our study participants ( e.g. , reducing soda and hamburger intake ) and that factors associated with acculturation might increase BPA concentrations .

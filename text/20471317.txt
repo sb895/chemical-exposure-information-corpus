@@ -1,0 +1,13 @@
+Brominated flame retardants ( BFRs ) , in particular the polybrominated diphenyl ethers ( PBDEs ) , have been used in consumer products for many years to increase fire resistance .
+Recently , developmental neurotoxicity at very low levels has increased the concern about these compounds .
+The major objectives of this study were to investigate the maternal and fetal exposure to PBDEs on the basis of maternal and umbilical cord plasma samples and to study the extent of placental transfer for different PBDE congeners .
+The findings were also compared with previously observed PBDE levels and patterns determined in placental tissue from the same individuals , and the relationship with the external exposure from house dust from the participants ' homes was explored .
+Samples of maternal and umbilical cord plasma from a cohort of 51 pregnant women from the Copenhagen area were collected .
+Paired maternal and umbilical cord plasma were analysed for BDE-28 , 37 , 47 , 85 , 99 , 100 , 119 , 138 , 153 , 154 , 183 , 209 and the brominated biphenyl BB-153 using automated SPE extraction and GC-HRMS for the tri- to hepta-BDEs and GC-LRMS ( ECNI ) for BDE-209 .
+PBDEs were detected in all maternal and umbilical cord plasma samples .
+The sum of tri- to hexa-BDEs ( SigmaPBDE ) in maternal plasma varied between 640 and 51,946 pg/g lipid weight ( lw ) with a median level of 1765 pg/g lw .
+In the umbilical cord samples SigmaPBDE varied between 213 and 54,346 pg/g lw with a median of 958 pg/g lw .
+The levels observed in fetal and maternal plasma were highly correlated , but the placental transport of PBDE congeners was found to decrease with increasing diphenyl ether bromination .
+Maternal concentrations were significantly correlated ( p<0.05 ) for most congeners with the previously determined concentrations in placental tissue from the same individuals .
+Furthermore , positive correlations ( p<0.05 ) were found for BDE-28 , 47 , 100 , 209 and SigmaPBDE in maternal plasma and house dust as well as for SigmaPBDE in umbilical cord plasma and house dust .
+The positive correlations for PBDEs for both maternal and umbilical cord plasma with house dust showed that domestic house dust is a significant source of human exposure to PBDEs in Denmark including in utero exposure .

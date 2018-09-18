@@ -1,0 +1,13 @@
+No nationwide study has ever measured polychlorinated biphenyl ( PCB ) and organochlorine pesticide ( OCP ) body burden in Canadians aged 65 years and over .
+The objective of this study was to determine plasma concentrations of PCB congeners and OCPs in participants from a sub-cohort of the Canadian Study of Health and Aging and to examine the effects of socio-demographic , anthropometric and lifestyle characteristics on selected organochlorine concentrations .
+Archived plasma samples collected from 2023 subjects were analyzed by gas chromatography-mass spectrometry using negative chemical ionization for 15 PCB congeners and 11 OCPs .
+Descriptive statistics were used to report PCB congeners and OCP plasma concentrations .
+Multivariate models were used to study whether age at blood collection , sex , education , body mass index , rural residence , geographic region , smoking status and alcohol intake influences PCB 153 , the most abundant congener , and the major OCP ( beta-hexachlorocyclohexane , hexachlorobenzene , trans-nonachlor , p,p'-DDE ) plasma concentrations .
+Statistical analyses were restricted to 1979 subjects and 17 organochlorine compounds for which at least 50% of the samples had concentrations above the limit of detection .
+Of these , 775 were men ( mean age : 82.2 years ) and 1204 were women ( mean age : 84.6 years ) .
+The median concentrations ( ng/g lipid ) of PCB 153 in the plasma of men and women were 70.9 and 75.4 , respectively .
+The levels of the sum of PCBs and the sum of dioxin-like PCBs were 276 and 31.3 for men , and 300 and 45.5 for women , respectively .
+The median concentrations ( ng/g lipid ) of p,p'-DDE , the most abundant OCP , were 565 for men and 828 for women .
+All compounds were positively and significantly intercorrelated ( rs=0.39-0.99 ; p<0.001 ) .
+Except for trans-nonachlor , the multivariate models revealed that age and male sex were the determining characteristics that showed , respectively , strongly positive and negative associations with selected organochlorine concentrations .
+These plasma concentrations from a large population based study can be considered as baseline data for body burdens of older Canadians .

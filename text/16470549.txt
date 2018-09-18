@@ -1,0 +1,10 @@
+BACKGROUND Methylmercury ( MeHg ) is a developmental neurotoxicant ; exposure results principally from consumption of seafood contaminated by mercury ( Hg ) .
+In this analysis , the burden of mental retardation ( MR ) associated with methylmercury exposure in the 2000 U.S. birth cohort is estimated , and the portion of this burden attributable to mercury ( Hg ) emissions from coal-fired power plants is identified .
+METHODS The aggregate loss in cognition associated with MeHg exposure in the 2000 U.S. birth cohort was estimated using two previously published dose-response models that relate increases in cord blood Hg concentrations with decrements in IQ .
+MeHg exposure was assumed not to be correlated with native cognitive ability .
+Previously published estimates were used to estimate economic costs of MR caused by MeHg .
+RESULTS Downward shifts in IQ resulting from prenatal exposure to MeHg of anthropogenic origin are associated with 1,566 excess cases of MR annually ( range : 376-14,293 ) .
+This represents 3.2% of MR cases in the US ( range : 0.8%-29.2% ) .
+The MR costs associated with decreases in IQ in these children amount to $2.0 billion/year ( range : $0.5-17.9 billion ) .
+Hg from American power plants accounts for 231 of the excess MR cases/year ( range : 28-2,109 ) , or 0.5% ( range : 0.06%-4.3% ) of all MR. These cases cost $289 million ( range : $35 million-2.6 billion ) .
+CONCLUSIONS Toxic injury to the fetal brain caused by Hg emitted from coal-fired power plants exacts a significant human and economic toll on American children .

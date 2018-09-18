@@ -1,0 +1,12 @@
+We hypothesize that chronic exposure to environmental toxicants can induce genetic damage causing DNA repair deficiencies and leading to the postulated mutator phenotype of carcinogenesis .
+To test our hypothesis , a host cell reactivation ( HCR ) assay was used in which pCMVcat plasmids were damaged with UV light ( 175 , 350 J/m2 UV light ) , inactivating the chloramphenicol acetyltransferase reporter gene , and then transfected into lymphocytes .
+Transfected lymphocytes were therefore challenged to repair the damaged plasmids , reactivating the reporter gene .
+Xeroderma pigmentosum ( XP ) and Gaucher cell lines were used as positive and negative controls for the HCR assay .
+The Gaucher cell line repaired normally but XP cell lines demonstrated lower repair activity .
+Additionally , the repair activity of the XP heterozygous cell line showed intermediate repair compared to the homozygous XP and Gaucher cells .
+We used HCR to measure the effects of benzene exposure on 12 exposed and 8 nonexposed workers from a local benzene plant .
+Plasmids 175 J/m2 and 350 J/m2 were repaired with a mean frequency of 66% and 58% , respectively , in control workers compared to 71% and 62% in exposed workers .
+Conversely , more of the exposed workers were grouped into the reduced repair category than controls .
+These differences in repair capacity between exposed and control workers were , however , not statistically significant .
+The lack of significant differences between the exposed and control groups may be due to extremely low exposure to benzene ( < 0.3 ppm ) , small population size , or a lack of benzene genotoxicity at these concentrations .
+These results are consistent with a parallel hprt gene mutation assay .

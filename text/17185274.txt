@@ -1,0 +1,10 @@
+BACKGROUND The objective of this population-based case-referent study in Matlab , Bangladesh , was to assess the susceptibility to arsenic-induced skin lesions by age and sex , in a population drinking water from As-contaminated tube wells .
+METHODS Identification of As-related skin lesions was carried out in three steps : a ) screening of the entire population > 4 years of age ( n = 166,934 ) by trained field teams ; b ) diagnosis of suspected As-related cases by physicians ; and c ) confirmation by experts based on physicians ' records and photographs .
+A total of 504 cases with skin lesions were confirmed .
+We randomly selected 2,201 referents from the Matlab health and demographic surveillance system ; 1,955 were eligible , and 1,830 ( 94% ) were available for participation in the study .
+Individual history of As exposure was based on information obtained during interviews and included all drinking-water sources used since 1970 and concentrations of As ( assessed by atomic absorption spectrophotometry ) in all the tube wells used .
+RESULTS Cases had been exposed to As more than referents ( average exposure since 1970 : male cases , 200 microg/L ; female cases , 211 microg/L ; male referents , 143 microg/L ; female referents , 155 microg/L ) .
+We found a dose-response relationship for both sexes ( p < 0.001 ) and increased risk with increasing socioeconomic status .
+Males had a higher risk of obtaining skin lesions than females ( odds ratio 10.9 vs. 5.78 ) in the highest average exposure quintile ( p = 0.005 ) .
+Start of As exposure ( cumulative exposure ) before 1 year of age was not associated with higher risk of obtaining skin lesions compared to start of As exposure later in life .
+CONCLUSIONS The results demonstrate that males are more susceptible than females to develop skin lesions when exposed to As in water from tube wells .

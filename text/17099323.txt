@@ -1,0 +1,12 @@
+BACKGROUND Nurses and other hospital workers are exposed to antineoplastic drugs during daily activities .
+Previous studies suggest that antineoplastic drugs at occupational exposure levels may be toxic to reproduction , but these studies are not consistent or conclusive .
+METHODS Self-administered questionnaires were completed by 4393 exposed and nonexposed nurses employed between 1990 and 1997 ( 79% response ) .
+Questions were asked about pregnancy outcome , work-related exposures , and lifestyle .
+Exposure to antineoplastic drugs was estimated using task-based dermal exposure measurements and self-reported task frequencies .
+Time to pregnancy was modeled using survival analysis , and odds ratios ( ORs ) with 95% confidence intervals ( CIs ) were calculated for other reproductive outcomes using multiple logistic regression analysis .
+Associations were further explored by nonparametric regression modeling .
+RESULTS Nurses highly exposed to antineoplastic drugs took longer to conceive than referent nurses ( adjusted hazard ratio = 0.8 ; CI = 0.6-0.9 ) .
+Exposure to antineoplastic drugs was associated with premature delivery ( OR per unit increase in ln[exposure] = 1.08 ; CI = 1.00-1.17 ) and low birth weight ( OR per unit increase in ln[exposure] = 1.11 ; 1.01-1.21 ) .
+Penalized smoothed spline plots corroborated these log-linear relations .
+Spontaneous abortion , stillbirth , congenital anomalies , and sex of offspring appeared not to be related to exposure to antineoplastic drugs .
+CONCLUSION Antineoplastic drugs may reduce fertility and increase poor neonatal outcomes among occupationally exposed oncology nurses .

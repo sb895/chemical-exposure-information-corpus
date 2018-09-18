@@ -1,0 +1,11 @@
+BACKGROUND Triclosan-a ubiquitous chemical in toothpastes , soaps , and household cleaning supplies-has the potential to alter both gut microbiota and endocrine function and thereby affect body weight .
+METHODS We investigated the relationship between triclosan and body mass index ( BMI ) using National Health and Nutrition Examination Surveys ( NHANES ) from 2003-2008 .
+BMI and spot urinary triclosan levels were obtained from adults .
+Using two different exposure measures-either presence vs. absence or quartiles of triclosan-we assessed the association between triclosan and BMI .
+We also screened all NHANES serum and urine biomarkers to identify correlated factors that might confound observed associations .
+RESULTS Compared with undetectable triclosan , a detectable level was associated with a 0.9-point increase in BMI ( p<0.001 ) .
+In analysis by quartile , compared to the lowest quartile , the 2nd , 3rd and 4th quartiles of urinary triclosan were associated with BMI increases of 1.5 ( p<0.001 ) , 1.0 ( p\u200a=\u200a0.002 ) , and 0.3 ( p\u200a=\u200a0.33 ) respectively .
+The one strong correlate of triclosan identified in NHANES was its metabolite , 2,4-dichlorophenol ( \u03c1\u200a=\u200a0.4 ) ; its association with BMI , however , was weaker than that of triclosan .
+No other likely confounder was identified .
+CONCLUSIONS Triclosan exposure is associated with increased BMI .
+Stronger effect at moderate than high levels suggests a complex mechanism of action .

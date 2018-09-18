@@ -1,0 +1,13 @@
+OBJECTIVES Polycyclic aromatic hydrocarbons ( PAHs ) are ubiquitously distributed human mutagens and carcinogens .
+However , lack of adequate air monitoring data has limited understanding of the effects of airborne PAHs on fetal growth .
+To address this gap in knowledge , we examined the association between prenatal exposure to airborne PAHs and birth weight , birth length , and birth head circumference , respectively , in Krakow , Poland , and New York City ( NYC ) .
+METHODS The parallel prospective cohort studies enrolled nonsmoking , healthy , and nonoccupationally exposed women and their newborns .
+Personal air monitoring of pregnant women was conducted over 48 hr .
+To control for maternal environmental tobacco smoke ( ETS ) exposure , we excluded those with umbilical cord plasma cotinine concentrations > 25 ng/mL .
+Mean cord plasma cotinine concentrations in both ethnic groups were <or= 0.5 ng/mL .
+RESULTS Prenatal PAH exposure was 10-fold higher in Krakow than in NYC .
+Prenatal PAH exposure was associated with significantly reduced birth weight in both Krakow Caucasians ( p < 0.01 ) and in NYC African Americans ( p < 0.01 ) , controlling for known and potential confounders , but not in NYC Dominicans .
+Within the lower exposure range common to the two cities ( 1.80-36.47 ng/m3 ) , the effect per unit PAH exposure on birth weight was 6-fold greater for NYC African Americans than for Krakow Caucasians ( p = 0.01 ) .
+CONCLUSIONS These results confirm the adverse reproductive effect of relatively low PAH concentrations in two populations and suggest increased susceptibility of NYC African Americans .
+Fetal growth impairment has been linked to child developmental and health problems .
+Thus , substantial health benefits would result from global reduction of PAH emissions .

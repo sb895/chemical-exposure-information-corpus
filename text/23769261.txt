@@ -1,0 +1,8 @@
+Arsenic ( As ) , a ubiquitous environmental toxicant , has recently been linked to disrupted immune function and enhanced infection susceptibility in highly exposed populations .
+In drinking water , as levels above the EPA maximum contaminant level occur in our US study area and are a particular health concern for pregnant women and infants .
+As a part of the New Hampshire Birth Cohort Study , we investigated whether in utero exposure to As affects risk of infant infections .
+We prospectively obtained information on 4-month-old infants ( n=214 ) using a parental telephone survey on infant infections and symptoms , including respiratory infections , diarrhea and specific illnesses , as well as the duration and severity of infections .
+Using logistic regression and Poisson models , we evaluated the association between maternal urinary As during pregnancy and infection risks adjusted for potentially confounding factors .
+Maternal urinary As concentrations were related to total number of infections requiring a physician visit ( relative risk ( RR ) per one-fold increase in As in urine=1.5 ; 95% confidence interval ( CI)=1.0 , 2.1 ) or prescription medication ( RR=1.6 ; 95% CI=1.1 , 2.4 ) , as well as lower respiratory infections treated with prescription medication ( RR=3.3 ; 95% CI=1.2 , 9.0 ) .
+Associations were observed with respiratory symptoms ( RR=4.0 ; 95% CI=1.0 , 15.8 ) , upper respiratory infections ( RR=1.6 ; 95% CI=1.0 , 2.5 ) , and colds treated with prescription medication ( RR=2.3 ; 95% CI=1.0 , 5.2 ) .
+Our results provide initial evidence that in utero As exposure may be related to infant infection and infection severity and provide insight into the early life impacts of fetal As exposure .

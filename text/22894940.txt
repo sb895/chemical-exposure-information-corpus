@@ -1,0 +1,13 @@
+BACKGROUND Exposure to methylmercury from fish has been associated with increased risk of myocardial infarction ( MI ) in some studies .
+At the same time , marine n-3 ( omega-3 ) PUFAs are an inherent constituent of fish and are regarded as beneficial .
+To our knowledge , no risk-benefit model on the basis of data on methylmercury , PUFA , and MI risk has yet been presented .
+OBJECTIVE The objective of this study was to describe how exposure to both marine n-3 PUFAs and methylmercury relates to MI risk by using data from Finland and Sweden .
+DESIGN We used matched case-control sets from Sweden and Finland that were nested in population-based , prospective cohort studies .
+We included 361 men with MI from Sweden and 211 men with MI from Finland .
+MI risk was estimated in a logistic regression model with the amount of mercury in hair ( hair-Hg ) and concentrations of n-3 PUFAs ( EPA and DHA ) in serum ( S-PUFA ) as independent variables .
+RESULTS The median hair-Hg was 0.57 \u03bcg/g in Swedish and 1.32 \u03bcg/g in Finnish control subjects , whereas the percentage of S-PUFA was 4.21% and 3.83% , respectively .
+In combined analysis , hair-Hg was associated with higher ( P = 0.005 ) and S-PUFA with lower ( P = 0.011 ) MI risk .
+Our model indicated that even a small change in fish consumption ( ie , by increasing S-PUFA by 1% ) would prevent 7% of MIs , despite a small increase in mercury exposure .
+However , at a high hair-Hg , the modeled beneficial effect of PUFA on MI risk was counteracted by methylmercury .
+CONCLUSIONS Exposure to methylmercury was associated with increased risk of MI , and higher S-PUFA concentrations were associated with decreased risk of MI .
+Thus , MI risk may be reduced by the consumption of fish high in PUFAs and low in methylmercury .

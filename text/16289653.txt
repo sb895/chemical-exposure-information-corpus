@@ -1,0 +1,12 @@
+The aim of this study was to assess gasoline filling-station attendants ' exposure to benzene and to determine which biological exposure index ( BEI ) , trans,trans-muconic acid ( t,t-MA ) or S-phenylmercapturic acid ( S-PMA ) , shows better correlation with environmental exposure .
+Exposure to benzene was measured using passive samplers ( Radiello ) attached to the collar of the overalls of subjects ( n=33 ) just before the work-shift ( approximately 8h ) ; analysis was performed by GC-FID .
+S-PMA and t,t-MA were determined , respectively , by an immunochemiluminescent assay based on specific monoclonal antibodies and by HPLC-UV at 264 nm .
+Both methods of biological monitoring were performed on beginning and end-shift urine samples , and expected t,t-MA and S-PMA values were calculated .
+Smoking habits and life-style were ascertained by means of a questionnaire .
+Both environmental and biological monitoring data showed that benzene exposure for gasoline filling-station attendants was low when compared with the respective ACGIH limit values ( means-benzene : 0.044 mg/m(3) ; t,t-MA : 171 microg/g creatinine ; S-PMA : 2.7 microg/g creatinine ) .
+No significant correlation was found between exposure to benzene and t,t-MA or S-PMA excretion data .
+The use of expected values was also experimented for S-PMA and t,t-MA .
+This consists of calculating , on the basis of the known half-life of the benzene metabolite , the concentration of that metabolite that a worker should present at the end of the work-shift , the difference between this value and the value actually found is a measure of benzene exposure during work .
+The use of expected values in biological monitoring did not improve correlations .
+At these low benzene levels , environmental monitoring seems to be the best method of evaluating individual exposure .
+However , biological monitoring remains useful , as a mean of assessing group exposure .

@@ -1,0 +1,13 @@
+BACKGROUND Parabens are commonly used as antimicrobial preservatives in cosmetics , pharmaceuticals , and food and beverage processing .
+Widespread human exposure to parabens has been recently documented , and some parabens have demonstrated adverse effects on male reproduction in animal studies .
+However , human epidemiologic studies are lacking .
+OBJECTIVE We investigated relationships between urinary concentrations of parabens and markers of male reproductive health in an ongoing reproductive epidemiology study .
+METHODS Urine samples collected from male partners attending an infertility clinic were analyzed for methyl paraben ( MP ) , propyl paraben ( PP ) , butyl paraben ( BP ) , and bisphenol A ( BPA ) .
+Associations with serum hormone levels ( n = 167 ) , semen quality parameters ( n = 190 ) , and sperm DNA damage measures ( n = 132 ) were assessed using multivariable linear regression .
+RESULTS Detection rates in urine were 100% for MP , 92% for PP , and 32% for BP .
+We observed no statistically significant associations between MP or PP and the outcome measures .
+Categories of urinary BP concentration were not associated with hormone levels or conventional semen quality parameters , but they were positively associated with sperm DNA damage ( p for trend = 0.03 ) .
+When urinary BPA quartiles were added to the model , BP and BPA were both positively associated with sperm DNA damage ( p for trend = 0.03 ) .
+Assessment of paraben concentrations measured on repeated urine samples from a subset of the men ( n = 78 ) revealed substantial temporal variability .
+CONCLUSIONS We found no evidence for a relationship between urinary parabens and hormone levels or semen quality , although intraindividual variability in exposure and a modest sample size could have limited our ability to detect subtle relationships .
+Our observation of a relationship between BP and sperm DNA damage warrants further investigation .

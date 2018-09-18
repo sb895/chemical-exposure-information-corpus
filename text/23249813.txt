@@ -1,0 +1,9 @@
+BACKGROUND The prevalence of autistic disorder ( AD ) , a serious developmental condition , has risen dramatically over the past two decades , but high-quality population-based research addressing etiology is limited .
+OBJECTIVES We studied the influence of exposures to traffic-related air pollution during pregnancy on the development of autism using data from air monitoring stations and a land use regression ( LUR ) model to estimate exposures .
+METHODS Children of mothers who gave birth in Los Angeles , California , who were diagnosed with a primary AD diagnosis at 3-5 years of age during 1998-2009 were identified through the California Department of Developmental Services and linked to 1995-2006 California birth certificates .
+For 7,603 children with autism and 10 controls per case matched by sex , birth year , and minimum gestational age , birth addresses were mapped and linked to the nearest air monitoring station and a LUR model .
+We used conditional logistic regression , adjusting for maternal and perinatal characteristics including indicators of SES .
+RESULTS Per interquartile range ( IQR ) increase , we estimated a 12-15% relative increase in odds of autism for ozone [ odds ratio ( OR ) = 1.12 , 95% CI : 1.06 , 1.19 ; per 11.54-ppb increase ] and particulate matter \u2264 2.5 µm ( OR = 1.15 ; 95% CI : 1.06 , 1.24 ; per 4.68-\u03bcg/m3 increase ) when mutually adjusting for both pollutants .
+Furthermore , we estimated 3-9% relative increases in odds per IQR increase for LUR-based nitric oxide and nitrogen dioxide exposure estimates .
+LUR-based associations were strongest for children of mothers with less than a high school education .
+CONCLUSION Measured and estimated exposures from ambient pollutant monitors and LUR model suggest associations between autism and prenatal air pollution exposure , mostly related to traffic sources .

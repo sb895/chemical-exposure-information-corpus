@@ -1,0 +1,7 @@
+A screening level human health risk assessment based on the worst-case scenario was conducted on the occupational and residential exposures to dechlorane plus ( DP ) in the manufacturing facility region and an electronic-waste ( e-waste ) recycling site in China , which are two of the most polluted areas of DP in the world .
+Total estimated exposure doses ( EEDs ) via dietary intake , dermal contact , and inhalation was approximately 0.01 mg kg(-1) d(-1) for people living in the manufacturing facility region .
+In comparison , total EEDs ( approximate 0.03 \u03bcg kg(-1) , d(-1) ) were 300-fold lower in people living near an e-waste recycling site in China .
+Chronic oral , dermal , and inhalation reference doses ( RfDs ) were estimated to be 5.0 , 2.0 , and 0.01 mg kg(-1)d ( -1 ) , respectively .
+The oral RfD was markedly greater than Mirex ( 2×10(-4) mg kg(-1) d(-1) ) and decabromodiphenyl ether ( BDE-209 ; 7×10(-3) mg kg(-1) d(-1) ) , which have been or might be replaced by DP as a flame retardant with less toxicity .
+Monte Carlo simulation was used to generate the probability densities and functions for the hazard index which was calculated from the EEDs and RfDs to assess the human health risk .
+The hazard index was three orders of magnitude lower than 1 , suggesting that occupational and residential exposures were relatively safe in the manufacturing facility region and e-waste recycling site .

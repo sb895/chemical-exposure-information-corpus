@@ -1,0 +1,6 @@
+The relationship between exposure to styrene and nerve conduction velocities was investigated in 32 workers occupationally exposed to styrene .
+There was a dose-dependent relationship between urinary mandelic acid and ulnar and peroneal motor distal latencies ( MDLs ) .
+The ulnar and peroneal MDLs of subgroup B ( urinary mandelic acid > or = 250 mg/l ) were significantly longer than those of subgroup A ( urinary mandelic acid < 250 mg/l)(p < 0.05 ) , and the referent group ( p < 0.03 ) .
+After adjusting confounding factors , urinary mandelic acid had a significant positive relationship with ulnar and peroneal MDL .
+Our study suggests that a low level of styrene , below the 50 ppm exposure limit of the American Conference of Governmental Industrial Hygienists ( ACGIH ) , involves the risk of inducing adverse effects on the peripheral nervous system .
+The study also indicated that motor distal latency is a sensitive parameter of toxic peripheral neuropathy .

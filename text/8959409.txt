@@ -1,0 +1,12 @@
+Inorganic arsenic ( In-As ) , an occupational and environmental human carcinogen , undergoes biomethylation to monomethylarsonate ( MMA ) and dimethylarsinate ( DMA ) .
+It has been proposed that saturation of methylation capacity at high exposure levels may lead to a threshold for the carcinogenicity of In-As .
+The relative distribution of urinary In-As , MMA , and DMA is used as a measure of human methylation capacity .
+The most common pathway for elevated environmental exposure to In-As worldwide is through drinking water .
+We conducted a biomarker study in northern Chile of a population chronically exposed to water naturally contaminated with high arsenic content ( 600 micrograms/l ) .
+In this paper we present the results of a prospective follow-up of 73 exposed individuals , who were provided with water of lower arsenic content ( 45 micrograms/l ) for 2 months .
+The proportions of In-As , MMA , and DMA in urine were compared before and after intervention , and the effect of other factors on the distribution of arsenic metabolites was also analyzed .
+The findings of this study indicate that the decrease in arsenic exposure was associated with a small decrease in the percent In-As in urine ( from 17.8% to 14.6% ) and in the MMA/DMA ratio ( from 0.23 to 0.18 ) .
+Other factors such as smoking , gender , age , years of residence , and ethnicity were associated mainly with changes in the MMA/DMA ratio , with smoking having the strongest effect .
+Nevertheless , the factors investigated accounted for only about 20% of the large interindividual variability observed .
+Genetic polymorphisms in As-methylating enzymes and other co-factors are likely to contribute to some of the unexplained variation .
+The changes observed in the percent In-As and in the MMA/DMA ratio do not support an exposure-based threshold for arsenic methylation in humans .

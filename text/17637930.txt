@@ -1,0 +1,11 @@
+BACKGROUND Manganese is a common natural contaminant of groundwater in Bangladesh .
+In this cross-sectional study we assessed the association between water manganese and all-cause infant mortality in the offspring of female participants in the Health Effects of Arsenic Longitudinal Study Cohort .
+METHODS In 2001 , drinking water samples were collected , a history of well use was obtained , and a history of birth outcomes was ascertained .
+To avoid misclassification of exposure , women were included only if they had been drinking from the same well for most of their childbearing years ( marriage years - well years </= 2 ) .
+Of a total of 26,002 births ( among 6,537 mothers ) , 3,837 children were born to women with this profile .
+The current analysis was based on the portion of these infants ( n = 3,824 ) with recorded exposure and outcome status , 335 of whom died before reaching 1 year of age .
+RESULTS Infants exposed to water manganese greater than or equal to the 2003 World Health Organization standard of 0.4 mg/L had an elevated mortality risk during the first year of life compared with unexposed infants [ odds ratio ( OR ) = 1.8 ; 95% confidence interval ( CI ) , 1.2-2.6 ] .
+Adjustment for water arsenic , indicators of social class , and other variables did not appreciably alter these results .
+When the population was restricted to infants born to recently married parents ( marriage year 1991 or after ) , this elevation was more pronounced ( OR = 3.4 ; 95% CI , 1.5-7.9 ) .
+CONCLUSIONS These preliminary findings indicate a possible association between manganese exposure and infant mortality .
+However , given the methodologic limitations of this study , the association needs to be confirmed through future work .

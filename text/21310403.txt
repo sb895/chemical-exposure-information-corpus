@@ -1,0 +1,7 @@
+Perfluorinated acids ( PFAs ) are prominent and widespread contaminants of human blood .
+In animal studies there is evidence that suggests certain PFAs can disrupt thyroid hormone homeostasis .
+A commonly reported condition in exposed animals is hypothyroxinemia , whereby serum free thyroxine ( fT4 ) is decreased despite normal thyroid stimulating hormone ( TSH ) concentrations .
+We designed an individually matched case-control study to investigate whether exposure to perfluorooctanoate ( PFOA ) , perfluorohexane sulfonate ( PFHxS ) , and perfluorooctane sulfonate ( PFOS ) was associated with hypothyroxinemia in pregnant women from Edmonton , Alberta , Canada , in 2005-2006 , who underwent a " triple screen " blood test at 15-20 weeks gestation as part of ante-natal care .
+Thyroid hormones , fT4 and TSH , were measured in serum from 974 women , and from these we measured PFAs in the sera of 96 hypothyroxinemic cases ( normal TSH , the lowest 10th percentile of fT4 ) and 175 controls ( normal TSH , fT4 between the 50th and 90th percentiles ) matched on age and referring physician .
+Analyses by conditional logistic regression indicated that the concentrations of PFAs in this population were not associated with hypothyroxinemia among pregnant women .
+The current findings do not support a causal link between PFA exposure and maternal hypothyroxinemia in the studied population .

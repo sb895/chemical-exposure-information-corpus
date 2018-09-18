@@ -1,0 +1,10 @@
+BACKGROUND In Bangladesh , millions of people are exposed to arsenic in drinking water ; arsenic is associated with increased risk of cancer .
+Once ingested , arsenic is metabolized via methylation and excreted in urine .
+Knowledge about nutritional factors affecting individual variation in methylation is limited .
+OBJECTIVES The purpose of this study was to examine associations between intakes of protein , methionine , and cysteine total urinary arsenic in a large population-based sample .
+METHODS The study subjects were 10,402 disease-free residents of Araihazar , Bangladesh , who participated in the Health Effects of Arsenic Longitudinal Study ( HEALS ) .
+Food intakes were assessed using a validated food frequency questionnaire developed for the study population .
+Nutrient composition was determined by using the U.S. Department of Agriculture National Nutrient Database for Standard Reference .
+Generalized estimating equations were used to examine association between total urinary arsenic across quintiles of nutrient intakes while controlling for arsenic exposure from drinking water and other predictors of urinary arsenic .
+RESULTS Greater intakes of protein , methionine , and cysteine were associated with 10-15% greater total urinary arsenic excretion , after controlling for total energy intake , body weight , sex , age , tobacco use , and intake of some other nutrients .
+CONCLUSIONS Given previously reported risks between lower rates of arsenic excretion and increased rates of cancer , these findings support the role of nutrition in preventing arsenic-related disease .

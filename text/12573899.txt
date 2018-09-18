@@ -1,0 +1,11 @@
+Ambient particulate air pollution assessed as outdoor concentrations of particulate matter less than or equal to 2.5 micro m in diameter ( PM(2.5) ) in urban background has been associated with cardiovascular diseases at the population level .
+However , the significance of individual exposure and the involved mechanisms remain uncertain .
+We measured personal PM(2.5) and carbon black exposure in 50 students four times in 1 year and analyzed blood samples for markers of protein and lipid oxidation , for red blood cell ( RBC ) and platelet counts , and for concentrations of hemoglobin and fibrinogen .
+We analyzed protein oxidation in terms of gamma-glutamyl semialdehyde in hemoglobin ( HBGGS ) and 2-aminoadipic semialdehyde in hemoglobin ( HBAAS ) and plasma proteins ( PLAAS ) , and lipid peroxidation was measured as malondialdehyde ( MDA ) in plasma .
+Median exposures were 16.1 micro g/m(3) for personal PM(2.5) exposure , 9.2 micro g/m(3) for background PM(2.5) concentration , and 8.1 X 10(-6)/m for personal carbon black exposure .
+Personal carbon black exposure and PLAAS concentration were positively associated ( p < 0.01 ) , whereas an association between personal PM(2.5) exposure and PLAAS was only of borderline significance ( p = 0.061 ) .
+A 3.7% increase in MDA concentrations per 10 micro g/m(3) increase in personal PM(2.5) exposure was found for women ( p < 0.05 ) , whereas there was no significant relationship for the men .
+Similarly , positive associations between personal PM(2.5)exposure and both RBC and hemoglobin concentrations were found only in women ( p < 0.01 ) .
+There were no significant relationships between background PM(2.5) concentration and any of the biomarkers .
+This suggests that exposure to particles in moderate concentrations can induce oxidative stress and increase RBCs in peripheral blood .
+Personal exposure appears more closely related to these biomarkers potentially related to cardiovascular disease than is ambient PM(2.5) background concentrations .

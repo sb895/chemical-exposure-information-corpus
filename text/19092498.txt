@@ -1,0 +1,9 @@
+OBJECTIVE The objective of this study was to determine the effect of non-occupational exposure to manganese ( Mn ) on postural balance .
+METHODS Residents living near a ferromanganese refinery provided hair and blood samples after postural balance testing .
+The relationship between hair Mn and postural balance was analyzed with logistic regression .
+Following covariate adjustment , postural balance was compared with control data by analysis of covariance .
+RESULTS Mean hair Mn was 4.4 microg/g .
+A significantly positive association was found between hair Mn and sway area ( eyes open on the platform , P = 0.05 ; eyes closed on the platform , P = 0.04 ) and sway length ( eyes open on the platform , P = 0.05 ; eyes closed on the platform , P = 0.04 ) .
+Postural balance of residents was significantly larger than controls in 5 out of 8 postural balance outcomes .
+CONCLUSION Preliminary findings suggest subclinical impairment in postural balance among residents chronically exposed to ambient Mn .
+A prospective study with a larger sample size is warranted .

@@ -1,0 +1,11 @@
+BACKGROUND Chronic arsenic exposure causes a wide range of health effects , but little is known about critical windows of exposure .
+Arsenic readily crosses the placenta , but the few available data on postnatal exposure to arsenic via breast milk are not conclusive .
+AIM Our goal was to assess the arsenic exposure through breast milk in Bangladeshi infants , living in an area with high prevalence of arsenic-rich tube-well water .
+METHODS We analyzed metabolites of inorganic arsenic in breast milk and infant urine at 3 months of age and compared them with detailed information on breast-feeding practices and maternal arsenic exposure , as measured by concentrations in blood , urine , and saliva .
+RESULTS Arsenic concentrations in breast-milk samples were low ( median , 1 microg/kg ; range , 0.25-19 microg/kg ) , despite high arsenic exposures via drinking water ( 10-1,100 microg/L in urine and 2-40 microg/L in red blood cells ) .
+Accordingly , the arsenic concentrations in urine of infants whose mothers reported exclusive breast-feeding were low ( median , 1.1 microg/L ; range , 0.3-29 microg/L ) , whereas concentrations for those whose mothers reported partial breast-feeding ranged from 0.4 to 1,520 microg/L ( median 1.9 microg/L ) .
+The major part of arsenic in milk was inorganic .
+Still , the infants had a high fraction ( median , 87% ) of the dimethylated arsenic metabolite in urine .
+Arsenic in breast milk was associated with arsenic in maternal blood , urine , and saliva .
+CONCLUSION Very little arsenic is excreted in breast milk , even in women with high exposure from drinking water .
+Thus , exclusive breast-feeding protects the infant from exposure to arsenic .

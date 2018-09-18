@@ -1,0 +1,10 @@
+INTRODUCTION Dyslipidemia in children is associated with accelerated atherosclerosis and earlier cardiovascular disease development .
+Environmental exposure to perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) have been shown to be associated with dyslipidemia in adults .
+However , there are few general population studies examining this association in children or adolescents .
+In this context , we examined the association between serum PFOA and PFOS levels and dyslipidemia in a nationally representative sample of US adolescents .
+METHODS A cross-sectional study was performed on 815 participants \u2a7d18years of age from the National Health and Nutrition Examination Survey 1999-2008 .
+The main outcome was dyslipidemia , defined as total cholesterol >170mg/dL , low-density lipoprotein cholesterol ( LDL-C ) >110mg/dL , high-density lipoprotein cholesterol ( HDL-C ) <40mg/dL or triglycerides >150mg/dL .
+RESULTS We found that serum PFOA and PFOS were positively associated with high total cholesterol and LDL-C , independent of age , sex , race-ethnicity , body mass index , annual household income , physical activity and serum cotinine levels .
+Compared to subjects in quartile 1 ( referent ) , the multivariable-adjusted odds ratio ( 95% confidence interval ) for high total cholesterol among children in quartile 4 was 1.16 ( 1.05-2.12 ) for PFOA and 1.53 ( 1.11-1.64 ) for PFOS .
+PFOA and PFOS were not significantly associated with abnormal HDL-C and triglyceride levels .
+DISCUSSION Our findings indicate that serum PFOA and PFOS are significantly associated with dyslipidemia in adolescents , even at the lower " background " exposure levels of the US general population .

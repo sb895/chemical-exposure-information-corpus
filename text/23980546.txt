@@ -1,0 +1,13 @@
+Perfluoroalkyl acids ( PFAAs ) are persistent and bioaccumulative compounds that have been associated with adverse health outcomes .
+In human blood , PFAAs exist as both linear and branched isomers , yet for most linear homologues , and for all branched isomers , elimination rates are unknown .
+Paired blood and urine samples ( n = 86 ) were collected from adults in China .
+They were analyzed by a sensitive isomer-specific method that permitted the detection of many PFAAs in human urine for the first time .
+For all PFAAs except perfluoroundecanoate ( PFUnA ) , levels in urine correlated positively with levels in blood .
+Perfluoroalkyl carboxylates ( PFCAs ) were excreted more efficiently than perfluoroalkane sulfonates ( PFSAs ) of the same carbon chain-length .
+In general , shorter PFCAs were excreted more efficiently than longer ones , but for PFSAs , perfluorooctanesulfonate ( PFOS , a C8 compound ) was excreted more efficiently than perfluorohexanesulfonate ( PFHxS , a C6 compound ) .
+Among PFOS and perfluorooctanoate ( PFOA ) isomers , major branched isomers were more efficiently excreted than the corresponding linear isomer .
+A one-compartment model was used to estimate the biological elimination half-lives of PFAAs .
+Among all PFAAs , the estimated arithmetic mean elimination half-lives ranged from 0.5 ± 0.1 years ( for one branched PFOA isomer , 5m-PFOA ) to 90 ± 11 years ( for one branched PFOS isomer , 1m-PFOS ) .
+Urinary excretion was the major elimination route for short PFCAs ( C \u2264 8 ) , but for longer PFCAs , PFOS and PFHxS , other routes of excretion likely contribute to overall elimination .
+Urinary concentrations are good biomarkers of the internal dose , and this less invasive strategy can therefore be used in future epidemiological and biomonitoring studies .
+The very long half-lives of long-chain PFCAs , PFHxS , and PFOS isomers in humans stress the importance of global and domestic exposure mitigation strategies .

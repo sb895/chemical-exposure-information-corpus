@@ -1,0 +1,9 @@
+BACKGROUND Occupational risks , the present nuclear threat , and the potential danger associated with nuclear power have raised concerns regarding the metabolism of plutonium in pregnant women .
+OBJECTIVE We measured plutonium levels in the milk teeth of children born between 1951 and 1995 to assess the potential risk that plutonium incorporated by pregnant women might pose to the radiosensitive tissues of the fetus through placenta transfer .
+METHODS We used milk teeth , whose enamel is formed during pregnancy , to investigate the transfer of plutonium from the mother's blood plasma to the fetus .
+We measured plutonium using sensitive sector field inductively coupled plasma mass spectrometry techniques .
+We compared our results with those of a previous study on strontium-90 ( (90)Sr ) released into the atmosphere after nuclear bomb tests .
+RESULTS Results show that plutonium activity peaks in the milk teeth of children born about 10 years before the highest recorded levels of plutonium fallout .
+By contrast , ( 90)Sr , which is known to cross the placenta barrier , manifests differently in milk teeth , in accordance with ( 90)Sr fallout deposition as a function of time .
+CONCLUSIONS These findings demonstrate that plutonium found in milk teeth is caused by fallout that was inhaled around the time the milk teeth were shed and not from any accumulation during pregnancy through placenta transfer .
+Thus , plutonium may not represent a radiologic risk for the radiosensitive tissues of the fetus .

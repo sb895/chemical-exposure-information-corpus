@@ -1,0 +1,13 @@
+BACKGROUND Cadmium ( Cd ) is a toxic metal associated with increased morbidity and mortality .
+Urinary Cd ( U-Cd ) concentration is considered a biomarker of long-term exposure .
+OBJECTIVES Our objectives were to evaluate the within-person correlation among repeat samples and to identify predictors of U-Cd concentrations .
+METHODS U-Cd concentrations ( micrograms per liter ) were measured in 24-hr urine samples collected from 296 women enrolled in the California Teachers Study in 2000 and a second 24-hr sample collected 3-9 months later from 141 of the participants .
+Lifestyle and sociodemographic characteristics were obtained via questionnaires .
+The Total Diet Study database was used to quantify dietary cadmium intake based on a food frequency questionnaire .
+We estimated environmental cadmium emissions near participants ' residences using a geographic information system .
+RESULTS The geometric mean U-Cd concentration was 0.27 µg/L and the range was 0.1-3.6 µg/L .
+The intraclass correlation among repeat samples from an individual was 0.50 .
+The use of a single 24-hr urine specimen to characterize Cd exposure in a case-control study would result in an observed odds ratio of 1.4 for a true odds ratio of 2.0 .
+U-Cd concentration increased with creatinine , age , and lifetime pack-years of smoking among ever smokers or lifetime intensity-years of passive smoking among nonsmokers , whereas it decreased with greater alcohol consumption and number of previous pregnancies .
+These factors explained 42-44% of the variability in U-Cd concentrations .
+CONCLUSION U-Cd levels varied with several individual characteristics , and a single measurement of U-Cd in a 24-hr sample did not accurately reflect medium- to long-term body burden .

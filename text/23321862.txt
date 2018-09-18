@@ -1,0 +1,9 @@
+We examine the association between exposure to herbicides and childhood acute lymphoblastic leukemia ( ALL ) .
+Dust samples were collected from homes of 269 ALL cases and 333 healthy controls ( <8 years of age at diagnosis/reference date and residing in same home since diagnosis/reference date ) in California , using a high-volume surface sampler or household vacuum bags .
+Amounts of agricultural or professional herbicides ( alachlor , metolachlor , bromoxynil , bromoxynil octanoate , pebulate , butylate , prometryn , simazine , ethalfluralin , and pendimethalin ) and residential herbicides ( cyanazine , trifluralin , 2-methyl-4-chlorophenoxyacetic acid ( MCPA ) , mecoprop , 2,4-dichlorophenoxyacetic acid ( 2,4-D ) , chlorthal , and dicamba ) were measured .
+Odds ratios ( OR ) and 95% confidence intervals ( CI ) were estimated by logistic regression .
+Models included the herbicide of interest , age , sex , race/ethnicity , household income , year and season of dust sampling , neighborhood type , and residence type .
+The risk of childhood ALL was associated with dust levels of chlorthal ; compared to homes with no detections , ORs for the first , second , and third tertiles were 1.49 ( 95% CI : 0.82-2.72 ) , 1.49 ( 95% CI : 0.83-2.67 ) , and 1.57 ( 95% CI : 0.90-2.73 ) , respectively ( P-value for linear trend=0.05 ) .
+The magnitude of this association appeared to be higher in the presence of alachlor .
+No other herbicides were identified as risk factors of childhood ALL .
+The data suggest that home dust levels of chlorthal , and possibly alachlor , are associated with increased risks of childhood ALL .

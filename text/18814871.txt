@@ -1,0 +1,8 @@
+BACKGROUND Several prospective studies have revealed that prenatal exposure to polychlorinated biphenyls ( PCBs ) and other organochlorine compounds ( OCs ) affect neurodevelopment during infancy .
+One of the mechanisms by which PCBs might interfere with neurodevelopment is a deficit in thyroid hormone ( TH ) concentrations .
+OBJECTIVES We investigated the potential impact of transplacental exposure to PCBs and hexachlorobenzene ( HCB ) on TH concentrations in neonates from two remote coastal populations exposed to OCs through the consumption of seafood products .
+METHODS Blood samples were collected at birth from the umbilical cord of neonates from Nunavik ( n=410 ) and the Lower North Shore of the St. Lawrence River ( n=260 ) ( Québec , Canada ) for thyroid parameters [ thyroid-stimulating hormone ( TSH ) , free T4 ( fT4 ) , total T3 ( tT3 ) , and thyroxine-binding globuline ( TBG) ] and contaminants analyses .
+RESULTS In multivariate models , umbilical cord plasma concentrations of PCB 153 , the predominant PCB congener , were not associated with TH and TSH levels in both populations .
+Prenatal exposure to HCB was positively associated with fT4 levels at birth in both populations ( Nunavik , beta=0.12 , p=0.04 ; St. Lawrence , beta=0.19 , p<0.01 ) , whereas TBG concentrations were negatively associated with PCB 153 concentrations ( beta=-0.13 , p=0.05 ) in the St. Lawrence cohort .
+CONCLUSION OCs levels were not associated to a reduction in THs in neonates from our two populations .
+Essential nutrients derived from seafood such as iodine may have prevented the negative effects of OCs on the thyroid economy during fetal development .

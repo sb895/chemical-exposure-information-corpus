@@ -1,0 +1,13 @@
+BACKGROUND Although urinary concentrations of phthalate metabolites are frequently used as biomarkers in epidemiologic studies , variability during pregnancy has not been characterized .
+METHODS We measured phthalate metabolite concentrations in spot urine samples collected from 246 pregnant Dominican and African-American women .
+Twenty-eight women had repeat urine samples collected over a 6-week period .
+We also analyzed 48-hr personal air samples ( n = 96 women ) and repeated indoor air samples ( n = 32 homes ) for five phthalate diesters .
+Mixed-effects models were fit to evaluate reproducibility via intraclass correlation coefficients ( ICC ) .
+We evaluated the sensitivity and specificity of using a single specimen versus repeat samples to classify a woman's exposure in the low or high category .
+RESULTS Phthalates were detected in 85-100% of air and urine samples .
+ICCs for the unadjusted urinary metabolite concentrations ranged from 0.30 for mono-ethyl phthalate to 0.66 for monobenzyl phthalate .
+For indoor air , ICCs ranged from 0.48 [ di-2-ethylhexyl phthalate ( DEHP) ] to 0.83 [ butylbenzyl phthalate ( BBzP) ] .
+Air levels of phthalate diesters correlated with their respective urinary metabolite concentrations for BBzP ( r = 0.71 ) , di-isobutyl phthalate ( r = 0.44 ) , and diethyl phthalate ( DEP ; r = 0.39 ) .
+In women sampled late in pregnancy , specific gravity appeared to be more effective than creatinine in adjusting for urine dilution .
+CONCLUSIONS Urinary concentrations of DEP and DEHP metabolites in pregnant women showed lower reproducibility than metabolites for di-n-butyl phthalate and BBzP .
+A single indoor air sample may be sufficient to characterize phthalate exposure in the home , whereas urinary phthalate biomarkers should be sampled longitudinally during pregnancy to minimize exposure misclassification .

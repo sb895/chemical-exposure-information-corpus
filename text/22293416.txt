@@ -1,0 +1,10 @@
+The hair-to-blood ratio and biological half-life of methylmercury in a one-compartment model seem to differ between past and recent studies .
+To reevaluate them , 27 healthy volunteers were exposed to methylmercury at the provisional tolerable weekly intake ( 3.4 µg/kg body weight/week ) for adults through fish consumption for 14 weeks , followed by a 15-week washout period after the cessation of exposure .
+Blood was collected every 1 or 2 weeks , and hair was cut every 4 weeks .
+Total mercury ( T-Hg ) concentrations were analyzed in blood and hair .
+The T-Hg levels of blood and hair changed with time ( p < 0.001 ) .
+The mean concentrations increased from 6.7 ng/g at week 0 to 26.9 ng/g at week 14 in blood , and from 2.3 to 8.8 µg/g in hair .
+The mean hair-to-blood ratio after the adjustment for the time lag from blood to hair was 344 ± 54 ( S.D. ) for the entire period .
+The half-lives of T-Hg were calculated from raw data to be 94 ± 23 days for blood and 102 ± 31 days for hair , but the half-lives recalculated after subtracting the background levels from the raw data were 57 ± 18 and 64 ± 22 days , respectively .
+In conclusion , the hair-to-blood ratio of methylmercury , based on past studies , appears to be underestimated in light of recent studies .
+The crude half-life may be preferred rather than the recalculated one because of the practicability and uncertainties of the background level , though the latter half-life may approximate the conventional one .

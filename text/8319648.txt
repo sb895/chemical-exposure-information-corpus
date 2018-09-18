@@ -1,0 +1,7 @@
+The glycophorin A ( GPA ) assay is a human mutation assay that is potentially useful for large epidemiological studies .
+The assay is rapid and requires a minimal amount of blood , which can be stored before analysis .
+The data presented here were collected from workers exposed to styrene in a boat manufacturing plant .
+This study was the first to apply the GPA assay to an occupationally exposed population .
+Subjects with a mean styrene exposure of 30 ppm had a higher frequency of GPA N phi variant cells than subjects with mean exposure of 1 ppm , but the subjects differed in respect to smoking and age distribution .
+Results indicate that the original 1-W-1 version of the assay may not be suitable for studies of small numbers of exposed subjects due to variability and artifacts .
+The newer BR6 version , however , has much lower variability and shows promise for use in the occupational setting .

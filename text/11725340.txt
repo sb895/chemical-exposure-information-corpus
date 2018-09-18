@@ -1,0 +1,12 @@
+Multifactorial risk factors are responsible for many diseases .
+They can be broadly categorized as environmental , genetic and life style factors .
+Much attention has been focused on the first two categories , e.g. the identification of environmental toxicants/carcinogens and the elucidation of genetic susceptibility to disease .
+Life style risk factors such as aging , poor nutrition , infection and exposure to toxicants can also increase susceptibility to illnesses .
+These life style factors can therefore be considered to cause acquired susceptibility for increased risk for environmental disease .
+Among Egyptians , infection with the parasite , Schistosoma , is the primary risk factor for bladder cancer and the risk is enhanced by exposure to mutagenic chemicals .
+We have shown that inheritance of susceptible metabolizing genes that can increase body burden of mutagenic chemicals enhances the risk .
+We have also hypothesized that chronic exposure to mutagenic chemicals causes cellular abnormalities that can reduce the capacity of cells to repair DNA damage and thus increase the risk for environmental disease .
+We have used a challenge assay to show that cells from cigarette smokers and from populations exposed to uranium , butadiene and pesticides have abnormal DNA repair responses compared to matched controls .
+On the other hand , the response is normal in workers exposed to very low concentrations of butadiene and benzene , and in mothers who had children with birth defects .
+This suggests that exposure to high enough concentrations of certain mutagens can cause acquired susceptibility in human populations .
+The acquired susceptibility is expected to interact with environmental factors and with genetic susceptibility to increase risk for environmental disease .

@@ -1,0 +1,12 @@
+In this study , we investigated 17- to 18-year-old boys and girls to determine whether changes in humoral or cellular immunity or respiratory complaints were related to blood serum levels of polychlorinated biphenyls ( PCBs ) and dioxin-like compounds after lifetime exposure in Flanders ( Belgium ) .
+We obtained blood samples from and administered questionnaires to 200 adolescents recruited from a rural area and two urban suburbs .
+Physicians recorded medical history and respiratory diseases .
+We measured immunologic biomarkers such as differential blood cell counts , lymphocyte phenotypes , and serum immunoglobulins .
+As biomarkers of exposure , we determined the serum concentrations of PCBs ( PCB 138 , PCB 153 , and PCB 180 ) and dioxin-like compounds [ chemical-activated luciferase expression ( CALUX ) bioassay ] .
+The percentages of eosinophils and natural killer cells in blood were negatively correlated with CALUX toxic equivalents ( TEQs ) in serum ( p = 0.009 and p = 0.05 , respectively ) .
+Increased serum CALUX TEQs resulted in an increase in serum IgA levels ( p = 0.05 ) .
+Furthermore , levels of specific IgEs ( measured by radioallergosorbent tests ) of cat dander , house dust mite , and grass pollen were also significantly and negatively associated with the CALUX TEQ , with odds ratios ( ORs ) equal to 0.63 [ 95% confidence interval ( CI ) , 0.42-0.96 ] , 0.68 ( 0.5-0.93 ) , and 0.70 ( 0.52-0.95 ) , respectively .
+In addition , reported allergies of the upper airways and past use of antiallergic drugs were negatively associated with CALUX TEQs , with ORs equal to 0.66 ( 0.47-0.93 ) and 0.58 ( 0.39-0.85 ) , respectively .
+We found a negative association between IgGs and marker PCBs in serum ( p = 0.009 ) .
+This study shows that immunologic measurements and respiratory complaints in adolescents were associated with environmental exposure to polyhalogenated aromatic hydrocarbons ( PHAHs ) .
+The negative correlation between PHAHs and allergic responses in adolescents suggested that exposure may entail alterations in the immune status .

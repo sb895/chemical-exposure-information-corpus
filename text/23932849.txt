@@ -1,0 +1,10 @@
+Human exposure to modern non-persistent chemicals is difficult to ascertain in epidemiological studies as exposure patterns and excretion rates may show temporal and diurnal variations .
+The aim of this study was to assess the temporal variability in repeated measurements of urinary excretion of bisphenol A ( BPA ) and seven other phenols .
+All analytes were determined using TurboFlow-LC-MS/MS .
+Two spot , three first morning and three 24-h urine samples were collected from 33 young Danish men over a three months period .
+Temporal variability was estimated by means of intraclass correlation coefficients ( ICCs ) .
+More than 70% of the urine samples had detectable levels of BPA , triclosan ( TCS ) , benzophenone-3 ( BP-3 ) and sum of 2,4-dichlorophenol and 2,5-dichlorophenol ( \u03a3DCP ) .
+We found low to moderate ICCs for BPA ( 0.10-0.42 ) and \u03a3DCP ( 0.39-0.72 ) , whereas the ICCs for BP-3 ( 0.69-0.80 ) and TCS ( 0.55-0.90 ) were higher .
+The ICCs were highest for the two spot urine samples , which were collected approximately 4 days apart , compared with the 24-h urine samples and the first morning urine samples , which were collected approximately 40 days apart .
+A consequence of the considerable variability in urinary excretion of BPA may be misclassification of individual BPA exposure level in epidemiological studies , which may lead to attenuation of the association between BPA and outcomes .
+Our data do not support that collection of 24-h samples will improve individual exposure assessment for any of the analysed phenols .

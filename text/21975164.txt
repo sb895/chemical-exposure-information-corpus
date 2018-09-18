@@ -1,0 +1,11 @@
+BACKGROUND Since 2006 polybrominated diphenyl ether ( PBDE ) concentrations have been analyzed within the scope of the breast milk project conducted by the Governmental Institute of Public Health of Lower Saxony .
+OBJECTIVES Temporal trends and regional distributions of the resident population as well as the relevance of individual factors influencing PBDE concentration were to be determined .
+METHODS Four PBDE congeners ( BDE-47 , BDE-153 , BDE-99 , BDE-100 ) have been analyzed .
+The concentrations are fitted by linear regression models , whereby individual factors of the mother are surveyed by a standardized questionnaire .
+RESULTS A total of 2173 samples taken between 2006 and 2009 shows an estimated total PBDE mean value of 1.68 ng/g lipid weight ( l.w. ) .
+In contrast to most other studies , the proportion of BDE-153 exceeds the one of BDE-47 ( median : 0.51 ng/g l.w. vs. 0.31 ng/g l.w. ) .
+BMI shows a positive correlation with BDE-47 and a negative correlation with BDE-153 , both statistically significant ( p<0.001 ) .
+For BDE-153 , other significant factors ( former breast feeding periods , birth year of the mother and country of birth ) reflect also dilution effects and the time of accumulation .
+A decreasing temporal trend is observed for BDE-47 but not for BDE-153 .
+CONCLUSIONS The correlation patterns , the temporal trends and the various influencing factors may reflect differences in exposure sources and/or metabolism between the major congeners BDE-47 and BDE-153 .
+Therefore it seems to be necessary to discuss the concentrations of BDE-47 and BDE-153 separately as leading indicators instead of using a total PBDE .

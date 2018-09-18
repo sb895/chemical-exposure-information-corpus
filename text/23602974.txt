@@ -1,0 +1,8 @@
+The modified BCR ( the European Community Bureau of Reference ) sequential extraction procedure was applied for partitioning and evaluating the mobility , availability and persistence of trace metals ( Al , Cd , Co , Cr , Cu , Ni , Pb , Sr , V and Zn ) in urban street dusts collected from different areas of Nanjing , China .
+The mobility sequence based on the sum of the BCR sequential extraction stages was : Sr ( 91.65%)>Pb ( 79.16%)>Zn ( 74.26%)>Cu ( 68.53%)>Co ( 45.98%)>Al ( 40.01%)\u2248V ( 38.45%)\u2248Ni ( 37.88%)>Cr ( 29.35%)>Cd ( 22.68% ) .
+Almost every trace metal had its highest total concentrations in the industrial area , except for Sr which had its highest concentration in the commercial area .
+Contamination factors ( Cf ) , risk assessment code ( RAC ) and enrichment factor ( Ef ) were then calculated to further assess the environmental risk and provide a preliminary estimate of the main sources of trace metals in street dusts .
+Non-carcinogenic effects and carcinogenic effects due to exposure to urban street dusts were assessed for both children and adults .
+For non-carcinogenic effects , ingestion was the main route of exposure to street dusts for these metals , followed by dermal contact and inhalation .
+Hazard index values for all studied metals were lower than the safe level of 1 , and Pb exhibited the highest risk value ( 0.125 ) in the case of children .
+The carcinogenic risk for Cd , Co , Cr and Ni were all below the acceptable level ( <10(-6) ) .

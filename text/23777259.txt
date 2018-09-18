@@ -1,0 +1,11 @@
+Although levels of poly- and perfluoroalkyl substances ( PFASs ) in human maternal and neonatal blood have been widely reported in the literature , relationship of maternal-fetal transmission of PFASs with carbon chain length is presently not well understood .
+In this study , 11 PFASs were analyzed in matched samples , including not only maternal blood ( MB , n = 31 ) and cord blood ( CB , n = 30 ) , but also placenta ( n = 29 ) and amniotic fluid ( AF , n = 29 ) .
+Except for perfluorohexanoic acid ( PFHxA ) , the detection frequencies of PFASs were similar among placenta , MB , and CB ( >80% for 8 PFASs , nondetectable for 2 PFASs ) .
+Though only perfluorooctanoic acid ( PFOA ) was frequently detected ( >90% ) in AF , with a median concentration of 0.043 ng/mL , other 5 PFASs were also detectable in AF samples with low concentrations ( mean : 0.013-0.191 ng/mL ) .
+This suggests that in addition to blood-borne in utero exposure , the fetus is also exposed to low levels of PFASs through AF .
+Concentrations of PFOA in AF were positively correlated with those in MB ( r = 0.738 , p < 0.01 ) and CB ( r = 0.683 , p < 0.001 ) , suggesting that AF concentration could reflect fetal PFOA exposure during pregnancy and can be used as a biomarker .
+To clarify the effects of carbon chain length on maternal transfer of PFASs , we calculated maternal transfer efficiencies of PFASs from MB to CB ( TMB-CB ) .
+A U-shaped trend in TMB-CB of C7-C12 perfluoroalkyl carboxylic acids ( PFCAs ) with increasing carbon chain length was found in this study for the first time .
+The U-shaped TMB-CB of PFCAs with carbon chain length is an integrated result of opposite trend of the ratios between MB/placenta and placenta/CB based on carbon chain length .
+This is the first study to report the occurrence of PFASs in human placenta .
+The results reported here enable better understanding of the maternal-fetal transmission of PFASs .

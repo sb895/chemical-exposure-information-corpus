@@ -1,0 +1,11 @@
+At the end of April 2002 , the Swedish Food Administration reported the presence of acrylamide in heat treated food products .
+Acrylamide has been shown to be toxic and carcinogenic in animals , and has been classified by the WHO/IARC among others as ' probably carcinogenic for humans ' .
+The purposes of this study were firstly to analyse acrylamide contents of the most important foods contributing to such exposure , secondly , to estimate the acrylamide exposure in a representative sample of the Dutch population , and thirdly to estimate the public health risks of this consumption .
+We analysed the acrylamide content of foods with an LC-MS-MS method .
+The results were then used to estimate the acrylamide exposure of consumers who participated in the National Food Consumption Survey ( NFCS ) in 1998 ( n=6250 ) .
+The exposure was estimated using the probabilistic approach for the total Dutch population and several age groups .
+For 344 food products , acrylamide amounts ranged from <30 to 3100 microg/kg .
+Foods with the highest mean acrylamide amounts were potato crisps ( 1249 microg/kg ) , chips ( deep-fried ) ( 351 microg/kg ) , cocktail snacks ( 1060 microg/kg ) , and gingerbread ( 890 microg/kg ) .
+The mean acrylamide exposure of the NFCS participants was 0.48 microg/kg bw/day .
+Risk of neurotoxicity is negligible .
+From exposure estimations it appears that the additional cancer risk might not be negligible .

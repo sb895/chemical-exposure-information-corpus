@@ -1,0 +1,16 @@
+Elemental concentrations in hair from hemodialysis ( HD ) patients have not been well investigated .
+We examined the relationships between the elemental concentrations in scalp hair and health-related quality of life ( HRQOL ) and nutritional status in HD patients .
+Twenty six elemental concentrations were measured in scalp hair samples from 60 male HD patients using inductively-coupled plasma mass spectrometry .
+To evaluate HRQOL , the Short Form 36 item health survey ( SF36 ) was used .
+As indices of nutritional status , body mass index , serum parameters , and geriatric nutritional risk index ( GNRI ) were used .
+Phosphorus correlated positively with serum creatinine , blood urea nitrogen ( BUN ) , GNRI and the physical domains of the SF36 .
+Zinc correlated positively with serum creatinine , BUN and the physical domains of the SF36 .
+Mercury and arsenic correlated positively with BUN .
+Cadmium correlated negatively with serum albumin , BUN and GNRI .
+Copper correlated positively with the physical domains of the SF36 .
+Iodine correlated negatively with the physical domains of the SF36 .
+Selenium correlated negatively with the mental domains of the SF36 .
+In conclusion , phosphorus and zinc concentrations in scalp hair can be additional biomarkers of HRQOL and/or nutritional status in HD patients .
+Cadmium accumulation correlated with malnutrition .
+Iodine and selenium accumulation may adversely affect HRQOL .
+Further investigation is necessary to determine precisely how these elements affect these measures .

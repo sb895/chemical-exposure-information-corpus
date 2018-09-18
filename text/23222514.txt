@@ -1,0 +1,11 @@
+BACKGROUND Evidence based largely on US cohorts suggests that long-term exposure to fine particulate matter is associated with cardiovascular mortality .
+There is less evidence for other pollutants and for cardiovascular morbidity .
+By using a cohort of 836,557 patients age 40 to 89 years registered with 205 English general practices in 2003 , we investigated relationships between ambient outdoor air pollution and incident myocardial infarction , stroke , arrhythmia , and heart failure over a 5-year period .
+METHODS Events were identified from primary care records , hospital admissions , and death certificates .
+Annual average concentrations in 2002 for particulate matter with a median aerodynamic diameter <10 ( PM10 ) and <2.5 microns , nitrogen dioxide ( NO2 ) , ozone , and sulfur dioxide at a 1 × 1 km resolution were derived from emission-based models and linked to residential postcode .
+Analyses were performed using Cox proportional hazards models adjusting for relevant confounders , including social and economic deprivation and smoking .
+RESULTS While evidence was weak for relationships with myocardial infarction , stroke , or arrhythmia , we found consistent associations between pollutant concentrations and incident cases of heart failure .
+An interquartile range change in PM10 and in NO2 ( 3.0 and 10.7 µg/m , respectively ) both produced a hazard ratio of 1.06 ( 95% confidence interval = 1.01-1.11 ) after adjustment for confounders .
+There was some evidence that these effects were greater in more affluent areas .
+CONCLUSIONS This study of an English national cohort found evidence linking long-term exposure to particulate matter and NO2 with the development of heart failure .
+We did not , however , replicate associations for other cardiovascular outcomes that have been reported elsewhere .

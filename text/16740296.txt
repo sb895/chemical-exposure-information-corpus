@@ -1,0 +1,12 @@
+The aim of this study was to measure the concentrations of lead ( Pb ) and cadmium ( Cd ) in human teeth and to investigate the affecting factors .
+Teeth samples ( n = 268 ) were collected from people living in different cities in Jordan including Amman , Zarqa , Al-Mafraq and Irbid and analyzed for Pb and Cd using atomic absorption spectrometry ( AAS ) .
+A questionnaire was used to gather information on each person , such as age , sex , place where the patient lives , smoking , presence of amalgam fillings inside the mouth , and whether the patient uses toothpaste or not .
+The mean concentrations of Pb and Cd were 28.91 microg/g and 0.44 microg/g , respectively .
+The results indicate that there is a clear relation between Pb and Cd concentrations and the presence of amalgam fillings , smoking , and place of living .
+Pb was sex-dependent , whereas Cd was not .
+Our results show that Pb and Cd concentrations in samples obtained from Al-Mafraq and Irbid are higher than those obtained from Amman and Zarqa .
+Pb was highest in Mafraq , whereas Cd was highest in Irbid .
+The Pb and Cd concentrations in teeth from smokers ( means : Pb = 31.89 microg/g , Cd = 0.49 microg/g ) were significantly higher than those from nonsmokers ( means : Pb = 24.07 microg/g , Cd = 0.37 microg/g ) .
+Pb and Cd concentrations in teeth of patients with amalgam fillings ( means : Pb = 31.02 microg/g and Cd = 0.52 microg/g ) were significantly higher than those from patients without amalgam fillings ( means : Pb = 26.87 microg/g and Cd = 0.41 microg/g ) .
+Our results show that brushing the teeth daily with toothpaste does not significantly decrease the concentration of both Pb and Cd .
+The mean concentrations of Pb and Cd do not vary significantly between the ages 20-30 , 31-40 , and 41-50 , but both increased rapidly at age 51-60 .

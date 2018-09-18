@@ -1,0 +1,10 @@
+Currently , the major determinants of children's exposure to pesticides are not fully understood , and approaches for measuring and assessing dermal exposure in a residential setting have not been sufficiently evaluated .
+In one approach , dermal exposure is estimated using empirically derived transfer coefficients .
+To assess the feasibility of using this approach for assessing children's exposure to pesticides , we conducted a study was conducted in a child care center that had a preexisting contract with a pest control service for regular monthly pesticide applications .
+Children in the selected child care center were monitored using full-body cotton garments to measure dermal loading .
+Pesticide residues on classroom surfaces were measured in the areas where the children spent time .
+Measured surface-wipe loadings ranged from 0.47 to 120 ng/cm2 , and total garment loadings ranged from 0.5 to 660 pg/cm2 .
+The garment and surface loading measurements were used to calculate dermal-transfer coefficients for use in assessing children's residential exposure to pesticides .
+Dermal-transfer coefficients calculated using these data range from approximately 10 to 6,000 cm2/hr .
+The wide range in these values demonstrates the importance of developing standard surface-measurement protocols if this approach is to be used to assess dermal exposure in a residential environment .
+The upper-range values resulting from this study were found to be similar to the default value used by the U.S. Environmental Protection Agency to assess children's dermal exposures resulting from contact with indoor surfaces .

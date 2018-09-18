@@ -1,0 +1,14 @@
+Cyanobacteria are commonly-occurring contaminants of surface waters worldwide .
+Microcystins , potent hepatotoxins , are among the best characterized cyanotoxins .
+During November , 2001 , a group of 44 hemodialysis patients were exposed to microcystins via contaminated dialysate .
+Serum microcystin concentrations were quantified with enzyme-linked immunosorbent assay which measures free serum microcystin LR equivalents ( ME ) .
+We describe serum ME concentrations and biochemical outcomes among a subset of patients during 8 weeks following exposure .
+Thirteen patients were included ; 6 were males , patients ' median age was 45 years ( range 16-80 ) , one was seropositive for hepatitis B surface antigen .
+The median serum ME concentration was 0.33 ng/mL ( range : <0.16-0.96 ) .
+One hundred thirty nine blood samples were collected following exposure .
+Patients ' biochemical outcomes varied , but overall indicated a mixed liver injury .
+Linear regression evaluated each patient's weekly mean biochemical outcome with their maximum serum ME concentration ; a measure of the extrinsic pathway of clotting function , prothrombin time , was negatively and significantly associated with serum ME concentrations .
+This group of exposed patients ' biochemical outcomes display evidence of a mixed liver injury temporally associated with microcystin exposure .
+Interpretation of biochemical outcomes are complicated by the study population's underlying chronic disease status .
+It is clear that dialysis patients are a distinct ' at risk ' group for cyanotoxin exposures due to direct intravenous exposure to dialysate prepared from surface drinking water supplies .
+Careful monitoring and treatment of water supplies used to prepare dialysate is required to prevent future cyanotoxin exposure events .

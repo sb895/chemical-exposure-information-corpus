@@ -1,0 +1,11 @@
+Few studies investigated the association between chronic arsenic exposure and the mortality of cancers by estimating individual urinary arsenic methylation profiles .
+Therefore , we compared with the general population in Taiwan to calculate the standardized mortality ratio ( SMR ) in arseniasis-endemic area of Taiwan from 1996 to 2010 and evaluated the dose-response relationships between environmental arsenic exposure indices or urinary arsenic profiles and the mortality of cause-specific cancer .
+A cohort of 1563 residents was conducted and collected their urine sample and information regarding arsenic exposure from a questionnaire .
+All-cause death was identified using the National Death Registry of Taiwan .
+Urinary arsenic profiles were measured using high performance liquid chromatography-hydride generator-atomic absorption spectrometry .
+We used Cox proportional hazard models to evaluate the mortality risks .
+In results , 193 all-site cancer deaths , and 29 , 71 , 43 deaths respectively for liver , lung and bladder cancers were ascertained .
+The SMRs were significantly high in arseniasis-endemic areas for liver , lung , and bladder cancers .
+People with high urinary InAs% or low DMA% or low secondary methylation index ( SMI ) were the most likely to suffer bladder cancer after adjusting other risk factors .
+Even stopping exposure to arsenic from the artesian well water , the mortality rates of the residents were higher than general population .
+Finally , urinary InAs% , DMA% and SMI could be the potential biomarkers to predict the mortality risk of bladder cancer .

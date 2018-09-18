@@ -1,0 +1,8 @@
+Few data exist on the association between dietary habits and urinary biomarker concentrations of pesticides in children .
+The objective was to examined the association between the weekly intake frequency of 65 food items and urinary biomarkers of exposure to chlorpyrifos ( 3,5,6-trichloro-2-pyridinol [ TCP] ) , permethrin ( 3-phenoxybenzoic acid [ 3-PBA] ) , and 2,4-dichlorophenoxyacetic acid [ 2,4-D ] in 135 preschool-aged children .
+TCP and 3-PBA are nonspecific biomarkers as they are also urinary metabolites of other pesticides .
+TCP , 3-PBA , and 2,4-D were detected in 99% , 64% , and 92% of the urine samples , respectively .
+Mean urinary TCP concentrations were statistically significantly higher in children consuming fresh apples ( 9.40±15.5 ng/mL versus 5.76±3.57 ng/mL , p=0.040 ) and fruit juices ( 8.41±11.5 ng/mL versus 4.11±2.77 ng/mL , p=0.020 ) \u22653 times a week compared to <3 times a week .
+For 3-PBA , mean urinary metabolite concentrations were statistically significantly greater in children consuming chicken/turkey meats ( 0.79±0.81 versus 0.41±0.39 , p=0.013 ) \u22653 times a week compared to <3 times a week .
+No association occurred between the consumption of any food item and children's mean urinary 2,4-D concentrations by intake group .
+In conclusion , frequent consumption of fresh apples and fruit juices or chicken/turkey meats were significant dietary predictors of urinary levels of TCP or 3-PBA , respectively .

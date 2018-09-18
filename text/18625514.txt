@@ -1,0 +1,9 @@
+The Cincinnati Childhood Allergy and Air Pollution Study ( CCAAPS ) is a prospective birth cohort whose purpose is to determine if exposure to high levels of diesel exhaust particles ( DEP ) during early childhood increases the risk for developing allergic diseases .
+In order to estimate exposure to DEP , a land-use regression ( LUR ) model was developed using geographic data as independent variables and sampled levels of a marker of DEP as the dependent variable .
+A continuous wind direction variable was also created .
+The LUR model predicted 74% of the variability in sampled values with four variables : wind direction , length of bus routes within 300 m of the sample site , a measure of truck intensity within 300 m of the sampling site , and elevation .
+The LUR model was subsequently applied to all locations where the child had spent more than eight hours per week from through age three .
+A time-weighted average ( TWA ) microenvironmental exposure estimate was derived for four time periods : 0-6 months , 7-12 months , 13-24 months , 25-36 months .
+By age two , one third of the children were spending significant time at locations other than home and by 36 months , 39% of the children had changed their residential addresses .
+The mean cumulative DEP exposure estimate increased from age 6 to 36 months from 70 to 414 microg/m3-days .
+Findings indicate that using birth addresses to estimate a child's exposure may result in exposure misclassification for some children who spend a significant amount of time at a location with high exposure to DEP .

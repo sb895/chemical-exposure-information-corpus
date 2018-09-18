@@ -1,0 +1,10 @@
+We evaluated the association between chlorination byproducts and colon and rectal cancer risk in a population-based case-control study conducted in Iowa in 1986-1989 .
+Data were gathered from 685 colon cancer cases , 655 rectal cancer cases , and 2,434 controls .
+We calculated odds ratios for the 560 colon cancer cases , 537 rectal cancer cases , and 1,983 controls for whom water exposure information was available for at least 70% of their lifetime .
+We estimated exposure to chlorination byproducts with two types of measures : duration of lifetime at residences served by chlorinated water and estimated lifetime trihalomethane exposure .
+For rectal cancer , we observed an association with duration of chlorinated surface water use , with adjusted odds ratios of 1.1 , 1.6 , 1.6 , and 2.6 for 1-19 , 20-39 , 40-59 , and > or =60 years of exposure , compared with no exposure .
+Rectal cancer risk was also associated with several different measures of estimated lifetime trihalomethane exposure .
+For colon cancer and subsites , we detected no important increase in risk associated with duration of chlorinated surface water , nor with trihalomethane estimates .
+When we evaluated chlorination byproducts jointly with other factors , we found larger relative risk estimates for rectal cancer among subjects with low dietary fiber intake .
+The risk related to > or =40 years of exposure to a chlorinated surface water source was 2.4 ( 95% confidence interval = 1.5-4.0 ) for persons with low fiber intake and 0.9 ( 95% confidence interval = 0.4-1.8 ) for persons with high fiber intake , relative to the risk of persons with high-fiber diets and no exposure to chlorinated surface water .
+We observed a similar risk differential for low and high levels of physical activity .

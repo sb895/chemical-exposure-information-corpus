@@ -1,0 +1,6 @@
+The cadmium levels in kidney cortex ( K-Cd ) did not differ statistically between 10 nonsmoking farmers from the south of Sweden , who had a high intake of locally produced food and who were affected by acid precipitation ( as indicated by low pH in the drinking water from their private wells ) and 10 farmers less affected ( medians : K-Cd , 18 vs. 14 microg/g ; water pH , 5.2 vs. 7.8 ) .
+Neither did 10 farmers selected because of " high " blood cadmium ( B-Cd ) differ from 10 with " low " [ medians : K-Cd , 15 vs. 9 microg/g ; B-Cd , 2.6 vs. 1.3 nmol/L ( 0.29 vs. 0.14 microg/L) ] .
+In all 40 farmers , there was an increase of urinary cadmium levels ( U-Cd ) with decreasing drinking water pH ( r(s) = -0.32 , P = 0.045 ) .
+Further , K-Cd increased with rising B-Cd ( r(s) = 0.33 , P = 0.037 ) , and both B-Cd ( r(s) = 0.73 , P = 0.0005 ) , and U-Cd ( r(s) = 0.74 , P = 0.0005 ) rose with increasing age .
+Further , there was an association between U-Cd and B-Cd ( r(s) = 0.68 , P = 0.0005 ) .
+We could not demonstrate with certainty any effect of the acid precipitation on the cadmium retention in the farmers , although the association between U-Cd and drinking water pH deserves further study .

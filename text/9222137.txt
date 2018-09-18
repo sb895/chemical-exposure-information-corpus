@@ -1,0 +1,11 @@
+The relationship between maternal exposure to air pollution during periods of pregnancy ( entire and specific periods ) and birth weight was investigated in a well-defined cohort .
+Between 1988 and 1991 , all pregnant women living in four residential areas of Beijing were registered and followed from early pregnancy until delivery .
+Information on individual mothers and infants was collected .
+Daily air pollution data were obtained independently .
+The sample for analysis included 74,671 first-parity live births were gestational age 37-44 weeks .
+Multiple linear regression and logistic regression were used to estimate the effects of air pollution on birth weight and low birth weight ( < 2,500 g ) , adjusting for gestational age , residence , year of birth , maternal age , and infant gender .
+There was a significant exposure-response relationship between maternal exposures to sulfur dioxide ( SO2 ) and total suspended particles ( TSP ) during the third trimester of pregnancy and infant birth weight .
+The adjusted odds ratio for low birth weight was 1.11 ( 95% CI , 1.06-1.16 ) for each 100 micrograms/m3 increase in SO2 and 1.10 ( 95% CI , 1.05-1.14 ) for each 100 micrograms/m3 increase in TSP .
+The estimated reduction in birth weight was 7.3 g and 6.9 g for each 100 micrograms/m3 increase in SO2 and in TSP , respectively .
+The birth weight distribution of the high-exposure group was more skewed toward the left tail ( i.e. , with higher proportion of births < 2,500 g ) than that of the low-exposure group .
+Although the effects of other unmeasured risk factors cannot be excluded with certainty , our data suggests that TSP and SO2 , or a more complex pollution mixture associated with these pollutants , contribute to an excess risk of low birth weight in the Beijing population .

@@ -1,0 +1,12 @@
+We assessed dietary exposure to acrylamide in 119 pregnant Norwegian women .
+The aim of the study was to explore three different methods for estimation of long-term intake of acrylamide and whether it is possible by a food frequency questionnaire ( FFQ ) to identify pregnant women with high exposure to acrylamide .
+Acrylamide excreted as mercapturic acid metabolites in 24-h urine was used as an evaluation tool .
+Food consumption was assessed by an FFQ and by a 4-day weighed food diary ( FD ) .
+Acrylamide intake was also estimated by a probabilistic approach based on 2 days from the FD .
+Primarily , acrylamide concentrations reported from analyses of Norwegian foods were used .
+The dietary exposure to acrylamide estimated as mug/kg bw/day ( median and 95 percentile ) was 0.48 ( 0.92 ) by the FFQ , 0.41 ( 0.82 ) by the FD and 0.42 ( 0.70 ) by the probabilistic approach .
+The amount of acrylamide excreted as urinary metabolites ( median and 95 percentile ) was 0.16 microg/kg bw/24-h ( 0.50 ) in non-smokers , corresponding to a dietary exposure of approximately 0.30 microg/kg bw/day ( 0.91 ) .
+Linear regression of acrylamide excreted as urinary metabolites identified crisp bread and potato crisps as significant independent predictors , along with cooking oil and onion/garlic .
+Dietary exposure to acrylamide calculated by FFQ , FD and probabilistic modelling were comparable .
+The comparison of FFQ acrylamide estimates with levels of urinary acrylamide metabolites showed that the MoBa FFQ was able to identify participants with high dietary acrylamide exposure .
+Our findings facilitate future studies on acrylamide exposure and health outcomes in the MoBa study .

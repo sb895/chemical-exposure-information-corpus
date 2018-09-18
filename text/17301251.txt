@@ -1,0 +1,7 @@
+Arsenic exposure from drinking water is considered to be a risk factor for skin and internal cancers .
+Animal studies suggest a potential antagonism between arsenic and selenium in the body .
+We did a case-cohort analysis to prospectively evaluate the association between arsenic-related premalignant skin lesions and prediagnostic blood selenium levels in 303 cases of skin lesions newly diagnosed from November 2002 to April 2004 and 849 subcohort members randomly selected from the 8,092 participants in the Health Effects of Arsenic Longitudinal Study with available baseline blood and urine samples collected in 2000 .
+Incidence rate ratios for skin lesions in increasing blood selenium quintiles were 1.00 ( reference ) , 0.68 [ 95% confidence interval ( 95% CI ) , 0.39-1.18 ] , 0.51 ( 95% CI , 0.29-0.87 ) , 0.52 ( 95% CI , 0.30-0.91 ) , and 0.53 ( 95% CI , 0.31-0.90 ) .
+Effect estimates remained similar with adjustments for age , sex , body mass index , smoking status , excessive sunlight exposure ( in men ) , well water arsenic concentration at baseline , and nutritional intakes of folate , iron , protein , vitamin E , and B vitamins .
+At any given arsenic exposure level , the risk of premalignant skin lesions was consistently greater among participants with blood selenium lower than the average level .
+The findings support the hypothesis that dietary selenium intake may reduce the incidence of arsenic-related premalignant skin lesions among populations exposed to arsenic exposure from drinking water .

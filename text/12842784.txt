@@ -1,0 +1,12 @@
+Inner-city children have high rates of asthma .
+Exposures to particles , including allergens , may cause or exacerbate asthma symptoms .
+As part of an epidemiologic study of inner-city children with asthma , continuous ( 10-min average ) measurements of particle concentrations were made for 2-week periods in 294 homes drawn from seven cities .
+Measurements were made using an optical scattering device that is most sensitive to fine particles .
+The concentrations recorded by these devices were corrected to agree with colocated outdoor gravimetric PM2.5 monitors .
+Indoor concentrations in the homes averaged 27.7 ( standard deviation = 35.9 ) micro g/m3 , compared with concurrent outdoor concentrations of 13.6 ( 7.5 ) micro g/m3 .
+A multivariate model indicated that outdoor particles penetrated indoors with an efficiency of 0.48 and were therefore responsible for only 25% of the mean indoor concentration .
+The major indoor source was smoking , which elevated indoor concentrations by 37 micro g/m3 in the 101 homes with smokers .
+Other significant sources included frying , smoky cooking events , use of incense , and apartment housing , although the increases due to these events ranged only from 3 to 6 micro g/m3 .
+The 10-min averaging time allowed calculation of an average diurnal variation , showing large increases in the evening due to smoking and smaller increases at meal times due to cooking .
+Most of the observed variance in indoor concentrations was day to day , with roughly similar contributions to the variance from visit to visit and home to home within a city and only a small contribution made by variance among cities .
+The small variation among cities and the similarity across cities of the observed indoor air particle distributions suggest that sources of indoor concentrations do not vary considerably from one city to the next , and thus that simple models can predict indoor air concentrations in cities having only outdoor measurements .

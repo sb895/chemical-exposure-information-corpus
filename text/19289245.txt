@@ -1,0 +1,13 @@
+An assessment of community exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) was undertaken in Paritutu , New Zealand .
+The suburb lies adjacent to an agrichemical facility that produced 2,4,5-trichlorophenoxyacetic acid ( 2,4,5-T ) , between 1962 and 1987 .
+Soil TCDD measurements from 73 nearby addresses demonstrated a pattern of TCDD deposition consistent with an aerial plume following the prevailing local wind patterns and the agrichemical plant as the point source .
+Blood samples were taken from 52 volunteers having lived for three or more years in Paritutu between 1962 and 1987 .
+Candidate selection focused primarily on individuals who were most likely to show elevated TCDD blood lipid levels when compared to age and gender stratified national average blood concentrations , and secondarily on individuals that provided additional information about specific exposure periods , potential exposures of younger age groups , and specific dietary patterns .
+A multipathway exposure model was used to estimate serum TCDD levels in each participant .
+Age and gender-specific TCDD elimination kinetics were also considered .
+Historical TCDD environmental concentrations were back-calculated from soil concentrations at each residence assuming TCDD releases occurred pre-dominantly between 1962 and 1975 .
+Serum was analysed for chlorinated dibenzodioxins and dibenzofurans , and a subset was analysed for dioxin-like polychlorinated biphenyls .
+TCDD in serum lipid exceeded two standard deviations above national background levels for 14 participants , and 3 standard deviations for 10 participants .
+The highest TCDD lipid concentration was 33.3 ng/kg-lipid , or 11 times higher than the comparative 1997 national average .
+Elevated TCDD concentrations were observed primarily , but not exclusively , in the older study participants who had been in residence in Paritutu before 1968 .
+The study demonstrated TCDD exposure in this community , occurring most likely through the aerial route , and most probably from fugitive emissions during manufacture .

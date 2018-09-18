@@ -1,0 +1,12 @@
+STUDY OBJECTIVE The main purpose of this paper was to assess the impact of the outdoor and indoor air quality on the growth rate of preadolescent children after accounting for parental height and potential confounders .
+The data were collected from a cohort prospective epidemiological study on the effect of air pollution on respiratory diseases in children in Krakow .
+PARTICIPANTS Of the 1044 children covered by the study , the records were complete for 958 children .
+Characteristics of the outdoor air pollution level in the residence area was based on the communal air pollutants , such as SPM ( suspended particulate matter ) and SO(2) .
+In the city center ( highly polluted area ) the mean level of SPM over a 5-year period for the winter season was 103.5 microg/m(3) and that of SO(2) was 86.9 microg/m(3) ; the corresponding values in the summer season were 32.3 microg/m(3) and 41.8 microg/m(3) .
+The body growth rates of children were assessed by their height changes over a 2-year period .
+MAIN RESULTS The body growth rates over the 2-year period in children from the highly polluted area was lower by 1.5 cm than those from the control area .
+Of the total growth rate variability explained by the multivariate model over the follow-up , about 3.1% has been explained by air pollution in the residence area .
+The compromising effect of higher air pollution in the residence area on height gain was about the same in shorter and taller children .
+CONCLUSIONS The results of our study suggest that a child's growth rate is related to the post- natal air pollution level in the residence area .
+The results may have important implications for epidemiological studies on lung function in children related to environmental exposures .
+As the height gain is lower in exposed subjects and this does produce a height deficit , the estimates of adjusted lung function to body size may be biased .

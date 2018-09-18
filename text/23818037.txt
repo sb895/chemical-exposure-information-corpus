@@ -1,0 +1,9 @@
+BACKGROUND In this study we describe a general-population job-exposure matrix ( MatEmESp ) for Spanish workers covering the period 1996-2005 .
+METHODS The Finnish job-exposure matrix ( FINJEM ) provided the default value estimates for occupational exposure to chemical , physical and biological agents .
+These estimates were adapted to Spanish working conditions by local experts .
+Spanish surveys were used to obtain exposure estimates for ergonomic and psychosocial risk factors .
+Employment and socio-demographic conditions for Spanish workers were obtained from the Spanish National Statistics Institute .
+RESULTS MatEmESp provides a large amount of national and occupation-specific data on the major occupational exposures in Spain .
+As some examples , the data show that the most prevalent occupational hazards are repetitive movements and a lack of support from co-workers .
+In addition , 10% of the Spanish working population perform night shifts , and bricklayers and concrete workers are the job titles with the highest risk of exposure to quartz dust .
+CONCLUSIONS MatEmESp can be a useful tool for research and surveillance , and can help set priorities for occupational illness and injury prevention in Spain .

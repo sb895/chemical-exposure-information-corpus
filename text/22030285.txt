@@ -1,0 +1,12 @@
+BACKGROUND Recent studies have shown effects of prenatal exposure to perfluorooctane sulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) on infants in the general environmental levels .
+Laboratory animal studies have shown that exposure to PFOS and PFOA is associated with immunotoxic effects .
+OBJECTIVES To investigate the relationship between maternal PFOS and PFOA levels and infant allergies and infectious diseases during the first 18 months of life .
+Cord blood immunoglobulin ( Ig ) E levels were also evaluated .
+METHODS We conducted a prospective cohort study of pregnant women from 2002 to 2005 in Sapporo , Japan .
+Maternal PFOS and PFOA levels were measured in relation to cord blood IgE concentrations ( n=231 ) and infant allergies and infectious diseases ( n=343 ) .
+Characteristics of mothers and their infants were obtained from self-administered questionnaires and medical records .
+Development of infant allergies and infectious diseases was determined from self-administered questionnaires at 18 months of age .
+Concentrations of PFOS and PFOA in maternal serum and concentrations of IgE in umbilical cord serum at birth were measured .
+RESULTS Cord blood IgE levels decreased significantly with high maternal PFOA concentration among female infants .
+However , there were no significant associations among maternal PFOS and PFOA levels and food allergy , eczema , wheezing , or otitis media in the 18 month-old infants ( adjusted for confounders ) .
+CONCLUSIONS Although cord blood IgE level decreased significantly with high maternal PFOA levels among female infants , no relationship was found between maternal PFOS and PFOA levels and infant allergies and infectious diseases at age in 18 months .

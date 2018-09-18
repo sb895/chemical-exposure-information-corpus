@@ -1,0 +1,12 @@
+The association of age , smoking , alcohol , superoxide dismutase ( SOD ) , glutathione peroxidase ( GPx ) , blood lead ( BPb ) and cadmium ( BCd ) levels , and serum levels of copper ( SCu ) , zinc ( SZn ) and selenium ( SSe ) with atopic status and ventilatory function was examined in the groups of 166 women and 50 men with no occupational exposure to metals or other xenobiotics .
+Markers of atopy included serum total IgE , skin prick test ( SPT ) to common inhalatory allergens , non-specific nasal reactivity ( NNR ) and non-specific bronchial reactivity ( NBR ) .
+Parameters of ventilatory function included forced vital capacity ( FVC ) and forced expiratory volume in the first second ( FEV(1) ) .
+Significantly higher BPb , SZn , IgE and prevalence of positive SPT , and lower SCu and NNR was found in men than in women .
+Fifteen women taking female sex hormones ( HT ) had significantly higher SCu than women without HT .
+Regression models showed significant inverse associations between IgE and SCu ( P=0.021 ) and NNR and SCu ( P=0.044 ) in women .
+When excluding women with HT , the association of SCu and total IgE became of borderline significance ( P=0.051 ) , association between SCu and NNR disappeared , and significant positive association between total IgE and BPb emerged ( P=0.046 ) .
+In men , significant inverse association was found between positive SPT and SSe , and between NBR and SSe .
+A decrease in FVC% and FEV(1)% was associated with an increase in smoking intensity ( P<0.001 ) and a decrease in SZn ( P=0.043 and P=0.053 , respectively ) .
+These results were observed at the levels of the metals comparable to those in general populations worldwide .
+The observed differences between men and women may partly be explained by different levels of relevant toxic and essential metals , and their combination .
+The role of female HT in associations of atopy markers and SCu should be further investigated .

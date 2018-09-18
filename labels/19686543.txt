@@ -1,0 +1,1 @@
+< < < < <Biomonitoring--effect marker--biomarker--molecule-- AND Biomonitoring--effect marker--biomarker--molecule--lipid AND exposure routes--oral intake--products--<  Biomonitoring--exposure biomarker--blood--<Biomonitoring--effect marker--biomarker--molecule-- AND  Biomonitoring--effect marker--biomarker--molecule--lipid<exposure routes--oral intake--products--

@@ -1,0 +1,10 @@
+Experimental evidence has shown that certain phthalates can disrupt endocrine function and induce reproductive and developmental toxicity .
+However , few data are available on the extent of human exposure to phthalates during pregnancy .
+As part of the research being conducted by the Columbia Center for Children's Environmental Health , we have measured levels of phthalates in 48-hr personal air samples collected from parallel cohorts of pregnant women in New York , New York , ( n = 30 ) and in Krakow , Poland ( n = 30 ) .
+Spot urine samples were collected during the same 48-hr period from the New York women ( n = 25 ) .
+The following four phthalates or their metabolites were measured in both personal air and urine : diethyl phthalate ( DEP ) , dibutyl phthalate ( DBP ) , diethylhexyl phthalate ( DEHP ) , and butyl benzyl phthalate ( BBzP ) .
+All were present in 100% of the air and urine samples .
+Ranges in personal air samples were as follows : DEP ( 0.26-7.12 microg/m3 ) , DBP ( 0.11-14.76 microg/m3 ) , DEHP ( 0.05-1.08 microg/m3 ) , and BBzP ( 0.00-0.63 microg/m3 ) .
+The mean personal air concentrations of DBP , di-isobutyl phthalate , and DEHP are higher in Krakow , whereas the mean personal air concentration of DEP is higher in New York .
+Statistically significant correlations between personal air and urinary levels were found for DEP and monoethyl phthalate ( r = 0.42 , p < 0.05 ) , DBP and monobutyl phthalate ( r = 0.58 , p < 0.01 ) , and BBzP and monobenzyl phthalate ( r = 0.65 , p < 0.01 ) .
+These results demonstrate considerable phthalate exposures during pregnancy among women in these two cohorts and indicate that inhalation is an important route of exposure .

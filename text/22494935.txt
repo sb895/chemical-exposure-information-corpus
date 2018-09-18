@@ -1,0 +1,10 @@
+Human biomonitoring ( HBM ) is a widely accepted tool to aid assessment of chemical uptake in risk assessment .
+However , our understanding of the biological relevance of the results of HBM can be restricted , due in some part to the limited information on background environmental exposures and biomarker concentrations in the general population .
+The study described here specifically addresses the question of what constitutes normal background levels in the UK population of a number of biomarkers ( the chemical itself or one of its stable metabolites ) for a variety of environmental chemicals that are frequently encountered because of their widespread use .
+The environmental chemicals selected for this study were benzene , chlorinated hydrocarbons , dithiocarbamates , cadmium , mercury , naphthalene , diethylhexyl phthalate , synthetic pyrethroids and xylene .
+Volunteers ( n=436 ) were randomly sought by a postal survey based on the UK Electoral Register .
+Participants were asked to complete a questionnaire and provide a urine sample .
+The overall response rate was 7.5% , with volunteers being recruited from all areas of the UK including , England , Scotland , Wales and Northern Ireland .
+Study participants were adults and comprised 45% male and 55% females .
+We have conducted a simple , postal-based , cost-effective study and generated similar reference values to very large surveys such as NHANES .
+This demonstrates that large investigations may not be necessary to get a reasonable idea of environmental exposures , especially in initial ' screening-type ' investigations to identify particular exposures of concern or to demonstrate that exposures are reassuring low and that no further survey data needs to be gathered .

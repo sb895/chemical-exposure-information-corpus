@@ -1,0 +1,10 @@
+Brominated flame retardants ( BFRs ) were examined in house dust from the electronic waste ( e-waste ) recycling and urban areas of South China .
+The concentrations of polybrominated diphenyl ethers ( PBDEs ) were in the range of 227-160,000 ng/g in the e-waste recycling area and 530-44,000 ng/g in the urban area .
+These values were much higher than other BFRs , except for novel decabromodiphenyl ethane ( DBDPE ) whose value of 100-47,000 ng/g was dominant in approximately 1/4 of the samples from the urban area .
+Urban dust PBDE levels were generally higher than those in many European and Asian countries and comparable to the values found in North America .
+Urban dust DBDPE levels were higher than those of other areas in the world .
+The distinct dust BFR profiles observed in the two studied areas were reflective of activities in these areas ( electronics industry vs. e-waste recycling ) .
+The presence of BDE202 , as well as the BDE197 to BDE201 and the nona-BDEs to deca-BDE ratios in the dust samples from the studied areas were probably indicative of environmental degradation of deca-BDE .
+The estimated daily intakes ( EDIs ) of average adult and toddler via house dust ranged from 37.0 to 304 ng/day for PBDEs and from 3.01 to 87.6 ng/day for all other BFRs in the studied areas .
+The EDIs via house dust were much higher than those via other indoor pathways ( air , fish , human milk , and toys ) .
+Despite the potentially low deleterious risk of PBDE exposure via house dust as suggested by the hazard quotients , this exposure pathway should be of great concern because of the higher BFR exposures for children and the presence of other BFRs ( such as DBDPE ) which have not yet been fully investigated .

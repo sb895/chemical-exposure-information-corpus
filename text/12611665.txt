@@ -1,0 +1,6 @@
+We studied associations between lifestyle/medical factors and lipid-adjusted serum concentrations of seven polychlorinated biphenyl ( PCB ) congeners and five chlorinated pesticides/metabolites among 205 Swedish women ( 54-75 years old ) .
+Serum concentrations were significantly associated with age , body mass index , body weight change , diabetes mellitus , consumption of fatty fish , and place of residence .
+The findings suggest that lifestyle/medical factors may confound results in epidemiologic studies when they are related to both serum concentrations and disease .
+Moreover , disease itself may influence serum concentrations of some organochlorines , as indicated by the negative associations between recent weight change and serum concentrations of some PCB congeners , p,p -dichlorodiphenyldichloroethylene ( DDE ) , and hexachlorobenzene ( HCB ) and the positive association between diabetes mellitus and HCB concentrations .
+Age was the only determinant that showed a consistent association with all compounds studied ( positive ) ; otherwise associations with single determinants varied among compounds even within the PCB group .
+This shows that the studied organochlorines should not be treated as a homogeneous group of compounds in epidemiologic studies .

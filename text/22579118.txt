@@ -1,0 +1,3 @@
+We undertook a community-level aggregate analysis in South Carolina , USA , to examine associations between mother-child conditions from a Medicaid cohort of pregnant women and their children using spatially interpolated arsenic ( As ) and lead ( Pb ) concentrations in three geographic case areas and a control area .
+Weeks of gestation at birth was significantly negatively correlated with higher estimated As ( r(s) = -0.28 , p = 0.01 ) and Pb ( r(s) = -0.26 , p = 0.02 ) concentrations in one case area .
+Higher estimated Pb concentrations were consistently positively associated with frequency of black mothers ( all p < 0.02 ) and negatively associated with frequency of white mothers ( all p < 0.01 ) , suggesting a racial disparity with respect to Pb .

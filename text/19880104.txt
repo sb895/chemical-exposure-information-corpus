@@ -1,0 +1,13 @@
+BACKGROUND High-chronic arsenic exposure in drinking water is associated with increased cardiovascular disease risk .
+At low-chronic levels , as those present in Spain , evidence is scarce .
+In this ecological study , we evaluated the association of municipal drinking water arsenic concentrations during the period 1998-2002 with cardiovascular mortality in the population of Spain .
+METHODS Arsenic concentrations in drinking water were available for 1721 municipalities , covering 24.8 million people .
+Standardized mortality ratios ( SMRs ) for cardiovascular ( 361,750 deaths ) , coronary ( 113,000 deaths ) , and cerebrovascular ( 103,590 deaths ) disease were analyzed for the period 1999-2003 .
+Two-level hierarchical Poisson models were used to evaluate the association of municipal drinking water arsenic concentrations with mortality adjusting for social determinants , cardiovascular risk factors , diet , and water characteristics at municipal or provincial level in 651 municipalities ( 200,376 cardiovascular deaths ) with complete covariate information .
+RESULTS Mean municipal drinking water arsenic concentrations ranged from <1 to 118 microg/L .
+Compared to the overall Spanish population , sex- and age-adjusted mortality rates for cardiovascular ( SMR 1.10 ) , coronary ( SMR 1.18 ) , and cerebrovascular ( SMR 1.04 ) disease were increased in municipalities with arsenic concentrations in drinking water > 10 microg/L .
+Compared to municipalities with arsenic concentrations < 1 microg/L , fully adjusted cardiovascular mortality rates were increased by 2.2% ( -0.9% to 5.5% ) and 2.6% ( -2.0% to 7.5% ) in municipalities with arsenic concentrations between 1-10 and >10 microg/L , respectively ( P-value for trend 0.032 ) .
+The corresponding figures were 5.2% ( 0.8% to 9.8% ) and 1.5% ( -4.5% to 7.9% ) for coronary heart disease mortality , and 0.3% ( -4.1% to 4.9% ) and 1.7% ( -4.9% to 8.8% ) for cerebrovascular disease mortality .
+CONCLUSIONS In this ecological study , elevated low-to-moderate arsenic concentrations in drinking water were associated with increased cardiovascular mortality at the municipal level .
+Prospective cohort studies with individual measures of arsenic exposure , standardized cardiovascular outcomes , and adequate adjustment for confounders are needed to confirm these ecological findings .
+Our study , however , reinforces the need to implement arsenic remediation treatments in water supply systems above the World Health Organization safety standard of 10 microg/L .

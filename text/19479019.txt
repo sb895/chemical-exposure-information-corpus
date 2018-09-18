@@ -1,0 +1,10 @@
+BACKGROUND The relationship of domestic endotoxin exposure to allergy and asthma has been widely investigated .
+However , few studies have evaluated predictors of household endotoxin , and none have done so for multiple locations within homes and on a national scale .
+OBJECTIVES We assayed 2,552 house dust samples in a nationwide study to understand the predictors of household endotoxin in bedroom floors , family room floors , beds , kitchen floors , and family room sofas .
+METHODS Reservoir house dust from five locations within homes was assayed for endotoxin and demographic and housing information was assessed through questionnaire and onsite evaluation of 2,456 residents of 831 homes selected to represent national demographics .
+We performed repeated-measures analysis of variance ( rANOVA ) for 37 candidate variables to identify independent predictors of endotoxin .
+Meteorologic data were obtained for each primary sampling unit and tested as predictors of indoor endotoxin to determine if wetter or warmer microclimates were associated with higher endotoxin levels .
+RESULTS Weighted geometric mean endotoxin concentration ranged from 18.7 to 80.5 endotoxin units ( EU)/mg for the five sampling locations , and endotoxin load ranged from 4,160 to 19,500 EU/m(2) .
+Bivariate analyses and rANOVA demonstrated that major predictors of endotoxin concentration were sampling location in the home , census division , educational attainment , presence of children , current dog ownership , resident-described problems with cockroaches , food debris , cockroach stains , and evidence of smoking observed by field staff .
+Low household income entered the model if educational attainment was removed .
+CONCLUSION Increased endotoxin in household reservoir dust is principally associated with poverty , people , pets , household cleanliness , and geography .

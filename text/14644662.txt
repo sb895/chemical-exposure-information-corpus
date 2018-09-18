@@ -1,0 +1,12 @@
+Chronic exposure to inorganic arsenic ( In-As ) from drinking water is associated with different health effects , including skin , lung , bladder , and kidney cancer as well as vascular and possibly reproductive effects .
+In-As is metabolized through the process of methylation , resulting in the production and excretion of methylated species , mainly monomethylarsenate ( MMA ) and dimethylarsenate ( DMA ) .
+Because a large percentage of the dose is excreted in urine , the distribution of urinary In-As , MMA , and DMA is considered a useful indicator of methylation patterns in human populations .
+Several factors affect these patterns , including sex and exposure level .
+In this study , we investigated the profile of urinary In-As , MMA , and DMA of pregnant women .
+Periodic urine samples were collected from early to late pregnancy among 29 pregnant women living in Antofagasta , Chile , who drank tap water containing 40 micro g/L In-As .
+The total urinary arsenic across four sampling periods increased with increasing weeks of gestation , from an initial mean value of 36.1 to a final value of 54.3 micro g/L .
+This increase was mainly due to an increase in DMA , resulting in lower percentages of In-As and MMA and a higher percentage of DMA .
+Our findings indicate that among women exposed to moderate arsenic from drinking water during pregnancy , changes occur in the pattern of urinary arsenic excretion and metabolite distribution .
+The toxicologic significance of this is not clear , given recent evidence suggesting that intermediate methylated species may be highly toxic .
+Nevertheless , this study suggests that arsenic metabolism changes throughout the course of pregnancy , which in turn may have toxicologic effects on the developing fetus .
+Key words : arsenic , arsenic metabolism , arsenic methylation , Chile , pregnancy , urinary arsenic .

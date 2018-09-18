@@ -1,0 +1,12 @@
+BACKGROUND DNA methylation changes are potential pathways of environmentally induced health effects .
+We investigated whether exposure to ambient concentrations of NO2 , PM10 , PM2.5 and O3 and traffic parameters were associated with global DNA methylation in blood of healthy adults .
+METHODS 48 non-smoking adults ( 25 males ) with a median age of 39years were sampled in winter and summer .
+Global DNA methylation in whole blood ( % 5-methyl-2'-deoxycytidine , %5mdC ) was analyzed with HPLC .
+Exposure to air pollutants at the home address was assessed using interpolated NO2 , PM10 , PM2.5 and O3 concentrations for various exposure windows ( 60- to 1-day moving average exposures and yearly averages ) and GIS-based traffic parameters .
+Associations between pollutants and %5mdC were tested with multiple mixed effects regression models .
+RESULTS Average %5mdC ( SD ) was 4.30 ( 0.08 ) in winter and 4.29 ( 0.08 ) in summer .
+Men had higher %5mdC compared to women both in winter ( 4.32 vs. 4.26 ) and summer ( 4.31 vs. 4.27 ) .
+When winter and summer data were analyzed together , various NO2 , PM10 and PM2.5 moving average exposures were associated with changes in %5mdC ( 95% CI ) ranging from -0.04 ( -0.09 to 0.00 ) to -0.14 ( -0.28 to 0.00 ) per IQR increase in pollutant .
+NO2 , PM10 , PM2.5 and O3 moving average exposures were associated with decreased %5mdC ( 95% CI ) varying between -0.01 ( -0.03 to 0.00 ) and -0.17 ( -0.27 to -0.06 ) per IQR increase in pollutant in summer but not in winter .
+CONCLUSION Decreased global DNA methylation in whole blood was associated with exposure to NO2 , PM10 , PM2.5 and O3 at the home addresses of non- adults .
+Most effects were observed for the 5- to 30-day moving average exposures .

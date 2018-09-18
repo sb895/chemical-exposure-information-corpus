@@ -1,0 +1,11 @@
+Dermal exposure to pesticides is one of the main sanitary problems which greenhouses workers face .
+With the dual aims of establishing both the body part that receives the greatest exposure and the variable that has greatest influence on this exposure level , 22 pesticide application trials were performed .
+Trials were carried out in different greenhouse vegetable crops , using different pesticides and different spray diameters from the spray gun .
+In order to determine dermal exposure , the whole body method was used .
+Pieces of the applicator suit were subject to an extraction procedure and their pesticide content determined using GC-NPD analysis .
+Multivariate analysis were applied to the data obtained .
+Principal component analysis showed that all trials produced a high exposure level on lower left leg and lower right leg .
+Cluster analysis distinguished between three sample groups .
+The most and the least affected parts were clearly distinguished .
+Discriminant analysis indicated that the thin drop size of the spray gun is responsible for both the differences between groups and the minimum or maximum exposure level measured on the applicator suit .
+Therefore , selecting the variables , lower legs and thin drop size , is considered fundamental in designing programs for monitoring pesticide exposure .

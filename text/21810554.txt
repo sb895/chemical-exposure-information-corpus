@@ -1,0 +1,10 @@
+BACKGROUND Evidence associating exposure to water disinfection by-products with reduced birth weight and altered duration of gestation remains inconclusive .
+OBJECTIVE We assessed exposure to trihalomethanes ( THMs ) during pregnancy through different water uses and evaluated the association with birth weight , small for gestational age ( SGA ) , low birth weight ( LBW ) , and preterm delivery .
+METHODS Mother-child cohorts set up in five Spanish areas during the years 2000-2008 contributed data on water ingestion , showering , bathing , and swimming in pools .
+We ascertained residential THM levels during pregnancy periods through ad hoc sampling campaigns ( 828 measurements ) and regulatory data ( 264 measurements ) , which were modeled and combined with personal water use and uptake factors to estimate personal uptake .
+We defined outcomes following standard definitions and included 2,158 newborns in the analysis .
+RESULTS Median residential THM ranged from 5.9 \u03bcg/L ( Valencia ) to 114.7 \u03bcg/L ( Sabadell ) , and speciation differed across areas .
+We estimated that 89% of residential chloroform and 96% of brominated THM uptakes were from showering/bathing .
+The estimated change of birth weight for a 10% increase in residential uptake was -0.45 g ( 95% confidence interval : -1.36 , 0.45 g ) for chloroform and 0.16 g ( -1.38 , 1.70 g ) for brominated THMs .
+Overall , THMs were not associated with SGA , LBW , or preterm delivery .
+CONCLUSIONS Despite the high THM levels in some areas and the extensive exposure assessment , results suggest that residential THM exposure during pregnancy driven by inhalation and dermal contact routes is not associated with birth weight , SGA , LBW , or preterm delivery in Spain .

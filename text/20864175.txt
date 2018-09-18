@@ -1,0 +1,12 @@
+Polybromodiphenyl ethers ( PBDEs ) were analyzed in blood serum of pregnant women and in cord blood serum of their newborns from a general population cohort ( n = 174 ; Valencia , Spain ) .
+The most abundant PBDE congeners identified were BDE 47 , BDE 99 , BDE 153 , BDE 154 and BDE 209 .
+Their cord blood serum concentrations were about 45% of those in maternal serum but after lipid normalization about the same concentrations were observed in both types of samples .
+Thus , median of total PBDEs was 9.6 ng/g lipid in cord serum ( range between not detected and 140 ng/g lipid ) and 9.6 ng/g lipid in maternal serum ( range between not detected and 120 ng/g lipid ) .
+The distributions of these compounds were dominated by BDE 47 in both cases .
+In cord blood serum the decreasing order of abundance was BDE 47>BDE 99>BDE 209>BDE 153>BDE 154 .
+The congener composition in maternal serum followed a similar trend : BDE 47>BDE 153>BDE 154>BDE 209>BDE 99 .
+The congener concentrations exhibited a higher degree of correlation in cord blood than in maternal serum .
+Use of the maternal determinants for categorization of the observed maternal and fetal PBDE concentrations only showed significant associations for the levels in umbilical cord .
+Neonates from rural areas exhibited statistically significantly lower concentrations than those from urban , semi-urban or metropolitan sites .
+Maternal serum also showed this difference but the higher dispersion of the concentrations in maternal serum did not afford its recognition with statistical significance .
+The lower qualitative and quantitative variability in the PBDE concentrations of cord blood serum than maternal serum suggest that the latter is reflecting PBDE contributions from a wider diversity of sources than the former whereas cord blood sera seem to represent the long term standing stock of these compounds accumulated in the maternal tissues .

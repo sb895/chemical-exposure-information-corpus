@@ -1,0 +1,10 @@
+Polychlorinated biphenyls ( PCBs ) levels were assessed in human hair samples , originating from two main agricultural regions of Greece .
+The analysis was performed by gas chromatography-mass spectrometry ( GC-MS ) and gas chromatography-double focusing high resolution mass spectrometry ( GC-DFHRMS ) .
+The main analytical procedure involved hair decontamination , solid-liquid extraction and cleanup steps .
+The recoveries of PCBs ranged from 71.2% to 101.6% , with accuracies greater than 87.5% and the between-run precisions ( %RSD ) lower than 25% for all analytes .
+Differences in the frequencies of detection and the median values of PCBs were detected between the examined regions and between the applied analytical techniques .
+All Peloponnesus ' hair examined samples were found positive for each examined PCB , while the percentage of the total positive samples ranged from 86.1% ( for PCB 138 ) to 94.4% ( for PCB 28 and 153 congeners ) using GC-DFHRMS .
+The Cretan hair samples were less contaminated ( SUM PCBs=0.61 and 1.47pg/mg ) unlike the Peloponnesus ' samples ( SUM PCBs=24.68 and 38.74pg/mg ) measured by GC-DFHRMS and GC-MS , respectively .
+PCBs with high chlorination gave lower concentration values compared to low chlorination PCBs in both populations .
+No significant differences were observed between women and men .
+The GC-DFHRMS technique provided higher percentage of positive samples and low PCBs median values , due to higher sensitivity and interferences from isobaric ions in the GC-MS technique and is therefore considered as a powerful tool for such assessments in hair specimens .

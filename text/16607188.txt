@@ -1,0 +1,11 @@
+OBJECTIVES We sought to investigate changes in exhaled breath condensate ( EBC ) pH in healthy workers exposed to welding fumes .
+METHODS Fourteen exposed participants ( median age 39 years , 5 smokers ) and 8 nonexposed controls ( median age 44 years , 1 smoker ) were monitored at an apprentice welding school .
+Exposure to fine particulate matter less than 2.5 microm ( PM2.5 ) was assessed using cyclone samplers .
+EBC samples were collected at baseline and at the end of the work shift .
+EBC samples were deaerated using argon and pH values were measured using standard pH microelectrodes .
+RESULTS Mean +/- SEM PM2.5 levels were 1.17 +/- 0.18 mg/m for exposed subjects and 0.03 +/- 0.01 mg/m for controls .
+Baseline median ( range ) EBC pH values for the control and exposed group were similar ( P = 0.86 ) , 7.21 ( 4.91 to 8.26 ) , and 7.39 ( 4.85 to 7.79 ) , respectively .
+The exposed subjects had a small-but-marginally significant ( P = 0.07 ) pre- to post-work shift increase in pH of 0.28 , whereas the control group showed a minimal increase of only 0.03 ( P = 0.56 ) .
+Compared with the control group , the exposed group had a median cross-shift pH increase of 0.25 ( P = 0.49 ) .
+CONCLUSIONS The aerosolized fine particulate matter contained in metal fumes may be associated with an acute increase in EBC pH values .
+Further study is necessary to investigate the acute rise in EBC pH after acute exposure to welding fume .

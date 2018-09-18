@@ -1,0 +1,12 @@
+Phthalate esters are a class of compounds utilized extensively in widely-distributed consumer goods , and have been associated with various adverse health outcomes in previous epidemiologic research .
+Some of these health outcomes may be the result of phthalate-induced increases in oxidative stress or inflammation , which have been demonstrated in animal studies .
+The aim of this study was to explore the relationship between urinary phthalate metabolite concentrations and serum markers of inflammation and oxidative stress ( C-reactive protein ( CRP ) and gamma glutamyltransferase ( GGT ) , respectively ) .
+Subjects were participants in the National Health and Nutrition Examination Survey ( NHANES ) between the years 1999 and 2006 .
+In multivariable linear regression models , we observed significant positive associations between CRP and mono-benzyl phthalate ( MBzP ) and mono-isobutyl phthalate ( MiBP ) .
+There were CRP elevations of 6.0% ( 95% confidence interval ( CI ) 1.7-10.8% ) and 8.3% ( 95% CI 2.9-14.0% ) in relation to interquartile range ( IQR ) increases in urinary MBzP and MiBP , respectively .
+GGT was positively associated with mono(2-ethylhexyl) phthalate ( MEHP ) and an MEHP% variable calculated from the proportion of MEHP in comparison to other di(2-ethylhexyl) phthalate ( DEHP ) metabolites .
+IQR increases in MEHP and MEHP% were associated with 2.5% ( 95% CI 0.2-4.8% ) and 3.7% ( 95% CI 1.7-5.7% ) increases in GGT , respectively .
+CRP and GGT were also inversely related to several phthalate metabolites , primarily oxidized metabolites .
+In conclusion , several phthalate monoester metabolites that are detected in a high proportion of urine samples from the US general population are associated with increased serum markers of inflammation and oxidative stress .
+On the other hand , several oxidized phthalate metabolites were inversely associated with these markers .
+These relationships deserve further exploration in both experimental and observational studies .

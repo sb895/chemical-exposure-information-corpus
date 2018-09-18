@@ -1,0 +1,10 @@
+BACKGROUND Individual variability in arsenic metabolism may underlie individual susceptibility toward arsenic-induced skin lesions and skin cancer .
+Metabolism of arsenic proceeds through sequential reduction and oxidative methylation being mediated by the following genes : purine nucleoside phosphorylase ( PNP ) , arsenic ( +3 ) methyltransferase ( As3MT ) , glutathione S-transferase omega 1 ( GSTO1 ) , and omega 2 ( GSTO2 ) .
+PNP functions as arsenate reductase ; As3MT methylates inorganic arsenic and its metabolites ; and both GSTO1 and GSTO2 reduce the metabolites .
+Alteration in functions of these gene products may lead to arsenic-specific disease manifestations .
+OBJECTIVES To find any probable association between arsenicism and the exonic single nucleotide polymorphisms ( SNPs ) of the above-mentioned arsenic-metabolizing genes , we screened all the exons in those genes in an arsenic-exposed population .
+METHODS Using polymerase chain reaction restriction fragment length polymorphism analysis , we screened the exons in 25 cases ( individuals with arsenic-induced skin lesions ) and 25 controls ( individuals without arsenic-induced skin lesions ) , both groups drinking similar arsenic-contaminated water .
+The exonic SNPs identified were further genotyped in a total of 428 genetically unrelated individuals ( 229 cases and 199 controls ) for association study .
+RESULTS Among four candidate genes , PNP , As3MT , GSTO1 , and GSTO2 , we found that distribution of three exonic polymorphisms , His20His , Gly51Ser , and Pro57Pro of PNP , was associated with arsenicism .
+Genotypes having the minor alleles were significantly overrepresented in the case group : odds ratio ( OR ) = 1.69 [ 95% confidence interval ( CI ) , 1.08-2.66 ] for His20His ; OR = 1.66 [ 95% CI , 1.04-2.64 ] for Gly51Ser ; and OR = 1.67 [ 95% CI , 1.05-2.66 ] for Pro57Pro .
+CONCLUSIONS The results indicate that the three PNP variants render individuals susceptible toward developing arsenic-induced skin lesions .

@@ -1,0 +1,11 @@
+Polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) and polychlorinated biphenyls ( PCBs ) are bioaccumulative chemicals that are considered to be toxic contaminants based on several epidemiological studies .
+To elucidate exposure levels of these chemicals in the present study , concentrations of PCDD/DFs , dioxin-like PCBs ( DL-PCBs ) and PCBs in breast milk , maternal blood and cord blood obtained from the same participants registered in a birth cohort study in Tohoku , Japan , were measured .
+Congener-specific analysis revealed several differences in minor congeners of these compounds among the three specimen types , although major congeners were detected in the specimens .
+The toxicity equivalence quantity concentrations ( 1998 WHO-TEF ) and PCBs in breast milk , maternal blood and cord blood on the whole and on a lipid basis were in the order of breast milk > maternal blood > cord blood .
+Pearson's correlation coefficients of TEQs and total PCBs among the three specimens were high , with the correlation coefficient of TEQ between breast milk and maternal blood being the highest ( r=0.94 , p<0.001 ) .
+On the other hand , the TEQ between breast milk and cord blood was the lowest ( r=0.79 , p<0.001 ) .
+Pearson's correlation coefficient between the TEQ and PCBs in each specimen was also high ( r=0.82-0.95 , p<0.001 ) .
+The associations of chemical concentrations with maternal age , parity , fish intake , BMI and the rate of body weight increase during pregnancy were analyzed with multiple linear regression analysis .
+TEQ concentrations and PCBs were negatively associated with parity ( p<0.05 ) , and maternal age was positively associated with PCBs ( p<0.05 ) .
+However , the associations with BMI and fish intake during pregnancy were not significant .
+These results suggest that parity is an important factor affecting the concentrations of dioxins and PCBs in these specimens .

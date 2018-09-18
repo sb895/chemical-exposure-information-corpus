@@ -1,0 +1,8 @@
+OBJECTIVE Methods and results are presented for an arsenic exposure assessment integral to an epidemiological case-control study of arsenic and cancer-the European Commission funded ASHRAM ( Arsenic Health Risk Assessment and Molecular Epidemiology ) study carried out in some counties of Hungary , Romania and Slovakia .
+METHODS The exposure history of each participant ( N = 1,392 ) was constructed by taking into account how much water they consumed ( as water , in drinks and in food ) , sources of drinking water in their various residences over their lifetime , and the concentrations of arsenic in their various water supplies measured by Hydride Generation-Atomic Absorption Spectrometry ( HG-AAS ) .
+Concentrations of arsenic in previous water supplies were either derived from contemporary analyses of the same source , or from routine historical data from measurements performed by the authorities in each country .
+Using this approach , 80% of the recorded lifetime residential history was matched to an arsenic concentration .
+Seven indices of current , life time , and peak exposure were calculated .
+RESULTS The exposure indices were all log-normally distributed and the mean and median lifetime average concentrations were in Hungary 14.7 and 13.3 microg l(-1) , Romania 3.8 and 0.7 microg l(-1) and in Slovakia 1.9 and 0.8 microg l(-1) , respectively .
+Overall 25% of the population had average concentrations over 10 microg l(-1) and 8% with exposure over 50 microg l(-1) .
+CONCLUSIONS Careful assessment of arsenic in drinking water supplies ( both current and previous ) enabled the majority of study participants ' cumulative lifetime of potential exposure to arsenic in residential water to be characterised .

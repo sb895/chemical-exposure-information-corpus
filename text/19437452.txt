@@ -1,0 +1,4 @@
+Gene-specific hypermethylation has previously been detected in Arsenic exposed persons .
+To monitor the level of whole genome methylation in persons exposed to different levels of Arsenic via drinking water , DNA was extracted from peripheral blood mononuclear cells of 64 persons .
+Uptake of methyl group from ( 3)H labeled S-Adenosyl Methionine after incubation of DNA with SssI methylase was measured .
+Results showed statistically significant ( P = 0.0004 ) decrease in uptake of ( 3)H methyl group in the persons exposed to 250-500 microg/L arsenic , indicating genomic hypermethylation .

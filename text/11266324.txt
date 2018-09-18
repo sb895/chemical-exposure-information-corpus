@@ -1,0 +1,11 @@
+Between September 1995 and September 1996 , 4-day composite duplicate plate samples ( 379 solid food samples and 303 beverage samples ) were obtained from a stratified random sample of 75 individuals in Maryland and analyzed for the presence of 10 pesticides .
+Samples were collected in each of six approximately equally spaced cycles as part of a larger pilot investigation of longitudinal exposure to pesticides and other elements .
+Chlorpyrifos was detected in 38.3% of the solid food samples , malathion in 75.2% , and p,p'-DDE in 21.4% .
+Other pesticides were detected in less than 10% of the solid food samples .
+Pesticide residues were not detected in duplicate beverage samples .
+In solid food samples , the mean concentration of chlorpyrifos was 0.7 ( SD 1.7 ) microg/kg , 1.8 ( 2.1 ) for malathion , and 0.2 ( 0.6 ) for p,p'-DDE .
+The detection rate and mean concentration of chlorpyrifos , malathion , and p,p'-DDE varied by a factor of 2-3 among sampling cycles and significantly according to results from several statistical analyses .
+Co-occurrence of chlorpyrifos and malathion in solid food samples was found relatively frequently and also varied with time .
+Pesticides were detected in food samples with greatest frequency in spring and summer months and with lowest frequency in winter months .
+These results support the hypothesis that 4-day average exposure to chlorpyrifos and malathion varies over time for this population mean and for individual members of the population and that correlation between exposures to these two organophosphate pesticides can occur .
+The measurements of pesticide levels in duplicate plate samples presented here can be used to evaluate and set parameters for dietary exposure models .

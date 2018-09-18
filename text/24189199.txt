@@ -1,0 +1,14 @@
+BACKGROUND Perfluoroalkyl substances ( PFASs ) are widespread and persistent environmental pollutants .
+Previous studies , primarily among non-pregnant individuals , suggest positive associations between PFAS levels and certain blood lipids .
+If there is a causal link between PFAS concentrations and elevated lipids during pregnancy , this may suggest a mechanism by which PFAS exposure leads to certain adverse pregnancy outcomes , including preeclampsia .
+METHODS This cross-sectional analysis included 891 pregnant women enrolled in the Norwegian Mother and Child ( MoBa ) Cohort Study in 2003-2004 .
+Non-fasting plasma samples were obtained at mid-pregnancy and analyzed for nineteen PFASs .
+Total cholesterol , high-density lipoprotein ( HDL ) cholesterol , low-density lipoprotein cholesterol , and triglycerides were measured in plasma .
+Linear regression was used to quantify associations between each PFAS exposure and each lipid outcome .
+A multiple PFAS model was also fitted .
+RESULTS Seven PFASs were quantifiable in >50% of samples .
+Perfluorooctane sulfonate ( PFOS ) concentration was associated with total cholesterol , which increased 4.2mg/dL per inter-quartile shift ( 95% CI=0.8 , 7.7 ) in adjusted models .
+Five of the seven PFASs studied were positively associated with HDL cholesterol , and all seven had elevated HDL associated with the highest quartile of exposure .
+Perfluoroundecanoic acid showed the strongest association with HDL : HDL increased 3.7 mg/dL per inter-quartile shift ( 95% CI=2.5 , 4.9 ) .
+CONCLUSION Plasma concentrations of PFASs were positively associated with HDL cholesterol , and PFOS was positively associated with total cholesterol in this sample of pregnant Norwegian women .
+While elevated HDL is not an adverse outcome per se , elevated total cholesterol associated with PFASs during pregnancy could be of concern if causal .

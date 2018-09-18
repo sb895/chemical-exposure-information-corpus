@@ -1,0 +1,11 @@
+The Agency for Toxic Substances and Disease Registry ( ATSDR ) used a cross-sectional study to compare the serum dioxin toxic equivalent ( TEQ ) levels of a population-based representative sample of Calcasieu Parish residents aged 15 years and older to a similar group of residents of Lafayette Parish with less industrial facilities .
+Serum dioxins consisted of polychlorinated dibenzo-p-dioxins , polychlorinated dibenzofurans , and dioxin-like polychlorinated biphenyls .
+Overall , the mean and distribution of serum dioxin TEQ level in residents of both parishes were similar by age groups ( 15-29 years , 30-44 years , 45-59 years , and 60 year and older ) .
+When the Calcasieu Parish area was further divided based on distance to three industrial areas , the mean dioxin TEQ levels were similar .
+Serum dioxin TEQ levels in residents of both parishes increased with age .
+Calcasieu Parish residents who reported having eaten locally caught fish , smoked cigarettes , worked in an occupation with potential exposure , or used pesticides had dioxin levels similar to Lafayette Parish residents who reported these activities .
+African Americans had higher dioxin levels than Caucasians in Lafayette Parish and both races in Calcasieu Parish .
+The congener profiles were similar in residents of both parishes .
+When the combined Calcasieu and Lafayette Parish data were compared by age group to the National Health and Nutrition Examination Survey ( NHANES ) 2001-2002 data , the geometric means for the dioxin levels in the combined Parish data set were significantly lower than the NHANES data in all age groups ( all P-values <0.0001 ) , except the oldest age group where the significance level is marginal ( P=0.067 ) .
+The various percentiles of the youngest age group of the combined parish data were also significantly lower than those in NHANES .
+Since the combined parish dioxin levels were below a representative sampling of the US population , there is no increase in serum dioxin concentrations in both the parishes .

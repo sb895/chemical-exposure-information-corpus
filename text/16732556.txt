@@ -1,0 +1,12 @@
+BACKGROUND In the late 1970s , the National Institute for Occupational Safety and Health identified two shoe manufacturing facilities where workers experienced relatively " pure " exposures to toluene .
+A mortality study was conducted through December 31 , 1982 .
+An original study did not detect elevated leukemia mortality but did detect increased lung cancer mortality .
+The present study is an update of the mortality of the original cohort .
+METHODS The study cohort consisted of workers employed 1 month or more between 1940 and 1979 at two Ohio shoe manufacturing plants .
+Vital status was ascertained through December 31 , 1999 .
+RESULTS Seven thousand eight hundred twenty eight workers , contributing 300,777 person years , were available for analysis .
+An excess of lung cancer deaths persisted with additional years of follow-up ( SMR = 1.36 , 95% confidence interval ( CI ) = 1.19-1.54 ) .
+Trend tests did not indicate a positive trend between lung cancer risk and duration of employment .
+Mortality from leukemia was not significantly elevated in the updated analysis .
+CONCLUSIONS Results indicate a possible association between lung cancer mortality and exposure to chronic , low-levels of organic solvents .
+Although the strength of this conclusion was weakened by the lack of increasing lung cancer risk in relation to duration of employment , other studies have supported this association .

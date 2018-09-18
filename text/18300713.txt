@@ -1,0 +1,11 @@
+BACKGROUND Many chronic diseases are the product of an underlying pathologic condition and superimposed acute exacerbations .
+This model may apply to several conditions such as asthma , other obstructive lung diseases , or atherosclerosis .
+For exposures affecting both the development of chronic disease and its exacerbation , the usual methods to derive attributable risks ( AR ) are inappropriate .
+METHODS We expand traditional risk assessment methods to estimate the AR for exacerbations under a " chronic disease model. "
+We use asthma in children as the chronic disease and air pollution as the exposure of interest .
+We estimate bronchitis symptom exacerbations attributable to air pollution , using data from the Children's Health Study to estimate asthma prevalence and symptom occurrence , and we examine the distribution of exposure and its acute and chronic effects .
+RESULTS In the combined AR model , 39.8% of exacerbations were attributable to air pollution , compared with 33.5% in the traditional model , which ignores a chronic effect of pollution on asthma development .
+Thus , there is a 1.19-fold higher estimated burden with the combined model .
+The difference is due to exacerbations caused by other factors ( ie , not by air pollution ) but nonetheless occurring among those assumed to have asthma that developed due to traffic-related pollution .
+The proposed model is applicable to other risk factors that play a role both in both the development of a chronic disease and its exacerbation .
+CONCLUSIONS Traditional approaches to the calculation of attributable risk may underestimate the health impact of long-term environmental or other exposures that produce both chronic and acute disease .

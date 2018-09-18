@@ -1,0 +1,5 @@
+In order to evaluate the influence of specific factors on mercury ( P-Hg ) levels and antioxidant power ( P-FRAP ) in human plasma , 26 healthy donors were examined by a dentist , their plasma analyzed for Hg by atomic absorption spectrometry and for total antioxidant activity by FRAP method .
+Hg plasma concentration was found to be correlated with the number of amalgam fillings , suggesting that Hg released from fillings is a source of Hg in non-occupational exposed subjects .
+P-FRAP correlated negatively with P-Hg suggesting a pro-oxidant role of the Hg released from amalgam fillings .
+Though age by itself was not significantly correlated with P-FRAP , when considered together with P-Hg in multivariate analysis , it was found to be a major related cofactor .
+Multivariate analysis showed no influence of fish consumption or cigarette smoking on P-FRAP .

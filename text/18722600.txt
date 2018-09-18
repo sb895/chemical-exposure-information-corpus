@@ -1,0 +1,11 @@
+Polychlorinated biphenyls ( PCBs ) and polychlorinated dibenzofurans ( PCDFs ) are ubiquitous pollutants found in the environment and human tissues .
+A cohort in Taiwan has undergone follow-up for 24 years after exposure to high levels of PCBs and PCDFs .
+The incidence of chloracne , hyperkeratosis , and abnormal nail was increased among exposed people .
+We conducted a study to identify the genes whose expressions were affected by such exposure .
+A cDNA microarray system consisting of 908 genes was used for pooled serum samples from non-smoking men exposed to PCBs and PCDFs ( n=15 ) and their matched referents ( n=15 ) in triplicate .
+After adjusting for background and housekeeping genes , genes with different expressions between the exposure and reference groups were determined by both regression and cluster analysis , and further confirmed by real-time RT-PCR .
+The tumor suppressor gene von Hippel-Lindau ( VHL ) was found to be down-regulated in the microarray analysis .
+VHL gene expression levels were also found to be positively associated with age , shown by real-time RT-PCR .
+Upon age adjustment , VHL gene expression was reduced in Yucheng ( "oil disease" ) subjects as compared to referents .
+Among Yucheng people , those with abnormal nails had lower VHL expressions than those without abnormal nails .
+These findings provide new insights into the potential role of VHL in health conditions associated with PCB and PCDF exposures .

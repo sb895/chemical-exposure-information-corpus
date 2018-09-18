@@ -1,0 +1,10 @@
+BACKGROUND The period in utero is a time of increased vulnerability .
+Offspring of pregnant women exposed to carcinogenic substances in drinking water may be more likely to develop cancer .
+We examined whether household water source and the presence of nitrates or nitrites in residential water were associated with increased risks of childhood brain tumours ( CBT ) .
+METHODS We used data from a multicentre , case-control study with maternal information on residential water source , and nitrate/nitrite levels of tap water measured by dipstick .
+Subjects included 836 CBT cases and 1485 controls from five countries .
+RESULTS The risks of CBT associated with reliance on well water ( versus public water ) during pregnancy varied widely , with significantly increased risks noted in two ( of seven ) regions and a decreased risk observed in one region .
+CBT risk did not increase with increasing nitrate levels .
+However , our results based on tap water tested in the pregnancy residences suggest the risk of astrocytoma may be associated with increasing levels of nitrite ( odds ratio [ OR ] = 4.3 , 95% CI : 1.4 , 12.6 for nitrite levels of 1-<5 mg/l nitrite ion ; OR = 5.7 , 95% CI : 1.2 , 27.2 of nitrite > or =5 mg/l ) .
+CONCLUSIONS These results should be interpreted with caution because women's recollection of water sources may have contained inaccuracies , and nitrate and nitrite measurements , available for only a portion of subjects , were often obtained years after the pregnancies occurred .
+However , our results suggest a need for closer evaluation of well water content in some regions and the possibility that a nitrite-related water exposure may be associated with CBT .

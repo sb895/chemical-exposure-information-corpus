@@ -1,0 +1,14 @@
+OBJECTIVE This cross-sectional study investigates the cardiovascular effects among Chinese workers who were occupationally exposed to carbon disulfide ( CS2 ) , and evaluates the protective value of the current Chinese Maximum Allowable Concentration ( MAC ) of CS2 against cardiovascular effects .
+METHODS The measurements of exposure were performed by personal sampling and gas chromatography .
+The biological monitoring was performed by HPLC .
+Three hundred and sixty-seven exposed workers and 125 reference workers ( never exposed to CS2, ) were included in this study .
+The exposed workers were divided into 2 sub-groups according to their cumulative exposure indices , the cut-off point being at 100 which means 10 years exposure to the Chinese Maximum Allowable Concentration in the workplace ( 10 mg/m3 ) .
+All subjects were examined using a self-administered questionnaire including medical and job history , clinical complaints in the previous three months , and underwent a clinical check-up and a 12 lead electrocardiography ( ECG ) at rest , coded according to the Minnesota code .
+Blood pressure ( BP ) was recorded and blood samples were collected for lipid measurements .
+RESULTS The personal monitoring showed that the exposures levels ( 15.47 +/- 2.34 mg/m3 ) were below the Threshold Limit Value ( TLV , 31 mg/m3 ) , and most of the samples analyzed still showed higher values than the Chinese MAC ( 10 mg/m3 ) .
+Clinical complaints and abnormal electrocardiograms were not significantly increased in exposed workers .
+No significant effect of CS2 on blood pressure , cholesterol , HDL and LDL cholesterol or triglycerides was found .
+Further studies are recommended to elucidate the mechanism of cardiac intoxication after CS2 exposure .
+CONCLUSION This study showed that Chinese workers exposed to CS2 did not have more clinical complaints , nor more ECG abnormalities than controls and no adverse effects were found in their lipids at an exposure level below the current TLV .
+The present results indicate that differences of health effects reported worldwide are possibly due to different exposure levels .
+They also indicate that the current Chinese MAC ( 10 mg/m3 ) sufficiently protects workers against negative cardiovascular effects .

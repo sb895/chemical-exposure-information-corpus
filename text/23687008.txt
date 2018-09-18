@@ -1,0 +1,11 @@
+BACKGROUND Few studies have investigated the independent health effects of different size fractions of particulate matter ( PM ) in multiple locations , especially in Europe .
+OBJECTIVES We estimated the short-term effects of PM with aerodynamic diameter \u2264 10 \u03bcm ( PM10 ) , \u2264 2.5 \u03bcm ( PM2.5 ) , and between 2.5 and 10 \u03bcm ( PM2.5-10 ) on all-cause , cardiovascular , and respiratory mortality in 10 European Mediterranean metropolitan areas within the MED-PARTICLES project .
+METHODS We analyzed data from each city using Poisson regression models , and combined city-specific estimates to derive overall effect estimates .
+We evaluated the sensitivity of our estimates to co-pollutant exposures and city-specific model choice , and investigated effect modification by age , sex , and season .
+We applied distributed lag and threshold models to investigate temporal patterns of associations .
+RESULTS A 10-\u03bcg/m3 increase in PM2.5 was associated with a 0.55% ( 95% CI : 0.27 , 0.84% ) increase in all-cause mortality ( 0-1 day cumulative lag ) , and a 1.91% increase ( 95% CI : 0.71 , 3.12% ) in respiratory mortality ( 0-5 day lag ) .
+In general , associations were stronger for cardiovascular and respiratory mortality than all-cause mortality , during warm versus cold months , and among those \u2265 75 versus < 75 years of age .
+Associations with PM2.5-10 were positive but not statistically significant in most analyses , whereas associations with PM10 seemed to be driven by PM2.5 .
+CONCLUSIONS We found evidence of adverse effects of PM2.5 on mortality outcomes in the European Mediterranean region .
+Associations with PM2.5-10 were positive but smaller in magnitude .
+Associations were stronger for respiratory mortality when cumulative exposures were lagged over 0-5 days , and were modified by season and age .

@@ -1,0 +1,8 @@
+BACKGROUND Psoriasis is a noncontagious , chronic skin disease affecting 1 in 50 people worldwide .
+METHODS The aim of present study was to compare the levels of arsenic ( As ) and selenium ( Se ) in samples of whole blood , urine , and scalp hair of 418 psoriasis patients of both genders aged 25 - 55 years .
+All psoriatic patients lived in the vicinity of a cement factory , and were categorized as mild , moderate , and severe .
+For comparison purposes , 395 healthy age-matched referent/control subjects , residents of industrial and non-industrial areas , were selected .
+The concentrations of essential trace and toxic elements were measured by electrothermal atomic absorption spectroscopy after microwave-assisted acid digestion .
+The validity and accuracy of methodology was checked by using certified reference materials ( CRMs ) and the conventional wet acid digestion method on the same CRMs and real samples .
+RESULTS The observed mean values of As were significantly higher in scalp hair , blood , and urine samples of patients with mild and severe psoriasis as compared to the controls ( p = 0.01 - 0.001 ) , while the concentrations of Se were lower in the scalp hair and blood , but higher in the urine samples of psoriasis patients of all categories .
+CONCLUSIONS The deficiency of Se in psoriatic patients may undoubtedly be caused by the toxic element exposures via dust produced by the cement factory .

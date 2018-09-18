@@ -1,0 +1,7 @@
+Concentration , composition profile , spatial distribution , sources , and health risk of 16 polycyclic aromatic hydrocarbons ( PAHs ) were analyzed in 69 surface soil samples collected from Hangzhou urban districts. \u2211PAHs ranged from 180.77 to 1,981.45 \u03bcg kg(-1) with a mean of 611.28 \u03bcg kg(-1) .
+Among different functional areas , a higher level of PAHs was found in the roadsides , followed by commercial districts , residential areas , parks , and greenbelts .
+The composition of PAHs was characterized by high molecular weight PAHs ( 4 6 rings ) .
+Principal component analysis ( PCA ) and PAH isomeric ratios indicated that PAHs mainly originated from combustion , especially vehicle exhaust .
+The incremental lifetime cancer risks ( ILCRs ) associated with exposures to PAHs in soil were calculated separately for children and adults under normal and extreme conditions .
+The results showed that ILCRs for urban soil of Hangzhou were acceptable .
+However , attentions should be attracted on the sites of high PAH concentrations because the ILCRs were closed to 10(-4) under extreme conditions , especially for children .

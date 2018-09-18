@@ -1,0 +1,8 @@
+The balance of contaminant risk and nutritional benefit from maternal prenatal fish consumption for child cognitive development is not known .
+Using data from a prospective cohort study of 341 mother-child pairs in Massachusetts enrolled in 1999-2002 , the authors studied associations of maternal second-trimester fish intake and erythrocyte mercury levels with children's scores on the Peabody Picture Vocabulary Test ( PPVT ) and Wide Range Assessment of Visual Motor Abilities ( WRAVMA ) at age 3 years .
+Mean maternal total fish intake was 1.5 ( standard deviation , 1.4 ) servings/week , and 40 ( 12% ) mothers consumed >2 servings/week .
+Mean maternal mercury level was 3.8 ( standard deviation , 3.8 ) ng/g .
+After adjustment using multivariable linear regression , higher fish intake was associated with better child cognitive test performance , and higher mercury levels with poorer test scores .
+Associations strengthened with inclusion of both fish and mercury : effect estimates for fish intake of >2 servings/week versus never were 2.2 ( 95% confidence interval ( CI ) : -2.6 , 7.0 ) for the PPVT and 6.4 ( 95% CI : 2.0 , 10.8 ) for the WRAVMA ; for mercury in the top decile , they were -4.5 ( 95% CI : -8.5 , -0.4 ) for the PPVT and -4.6 ( 95% CI : -8.3 , -0.9 ) for the WRAVMA .
+Fish consumption of < or =2 servings/week was not associated with a benefit .
+Dietary recommendations for pregnant women should incorporate the nutritional benefits as well as the risks of fish intake .

@@ -1,0 +1,10 @@
+BACKGROUND Suspended particles and ozone have been associated with varying degrees of cardiac autonomic dysfunction .
+METHODS In Mexico City , residents from a nursing home underwent heart rate variability analysis every other day for 3 months .
+Indoor and outdoor PM2.5 ( particulate matter less than 2.5 mm in diameter ) were measured daily at the nursing home .
+Levels of ozone and other atmospheric pollutants were obtained from a nearby automated monitoring station .
+RESULTS Of the initial 42 screened participants , 34 ( 81% ) were followed during the study period .
+The 24-hour average levels of indoor PM2.5 ranged from 15 to 67 micro g/m3 , and outdoor PM2.5 ranged from 9 to 87 micro g/m3 .
+Daily 1-hour maximum ozone levels ranged from 47 to 228 ppb .
+After adjusting for age and heart rate , we observed a strong decrease in the high frequency component of heart rate variability and the average 24-hour concentrations of PM2.5 .
+Participants with hypertension had considerably larger reductions in their HF-HRV ( high frequency-heart rate variability ) component in relation to both ozone and PM2.5 exposure .
+CONCLUSIONS Our results suggest that ambient levels of PM2.5 and ozone can reduce the high-frequency component of heart rate variability in elderly subjects living in Mexico City and that subjects with underlying hypertension are particularly susceptible to this effect .

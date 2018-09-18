@@ -1,0 +1,12 @@
+BACKGROUND Filaggrin is an epidermal protein that is crucial for skin barrier function .
+Up to 10% of Europeans and 5% of Asians carry at least one null allele in the filaggrin gene ( FLG ) .
+Reduced expression of filaggrin in null allele carriers is associated with facilitated transfer of allergens across the epidermis .
+We hypothesized that these individuals may have increased transdermal uptake of endocrine disruptors , including phthalates .
+OBJECTIVES We investigated urinary excretion of phthalate metabolites and testicular function in young men with and without FLG loss-of-function variants in a cross-sectional study of 861 young men from the general Danish population .
+METHODS All men were genotyped for FLG R501X , 2282del4 , and R2447X loss-of-function variants .
+Urinary concentrations of 14 phthalate metabolites were measured , as well as serum levels of reproductive hormones and semen quality .
+RESULTS Sixty-five men ( 7.5% ) carried at least one FLG null allele .
+FLG null carriers had significantly higher urinary concentrations of several phthalate metabolites , including a 33% higher concentration of MnBP ( 95% CI : 16 , 51% ) .
+FLG null variants were not significantly associated with reproductive hormones or semen quality parameters .
+CONCLUSION This study provides evidence that FLG loss-of-function allele carriers may have higher internal exposure to phthalates , possibly due to increased trans-epidermal absorption .
+FLG loss-of-function variants may indicate susceptible populations in which special attention to trans-epidermal absorption of chemicals and medication may be warranted .

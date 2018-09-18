@@ -1,0 +1,10 @@
+We performed a risk assessment of metal exposure to population subgroups living on , and growing food on , urban sites .
+We modeled uptake of cadmium , copper , nickel , lead , and zinc for a selection of commonly grown allotment and garden vegetables .
+Generalized linear cross-validation showed that final predictions of Cd , Cu , Ni , and Zn content of food crops were satisfactory , whereas the Pb uptake models were less robust .
+We used predicted concentrations of metals in the vegetables to assess the risk of exposure to human populations from homegrown food sources .
+Risks from other exposure pathways ( consumption of commercially produced foodstuffs , dust inhalation , and soil ingestion ) were also estimated .
+These models were applied to a geochemical database of an urban conurbation in the West Midlands , United Kingdom .
+Risk , defined as a " hazard index, " was mapped for three population subgroups : average person , highly exposed person , and the highly exposed infant ( assumed to be a 2-year-old child ) .
+The results showed that food grown on 92% of the urban area presented minimal risk to the average person subgroup .
+However , more vulnerable population subgroups ( highly exposed person and the highly exposed infant ) were subject to hazard index values greater than unity .
+This study highlights the importance of site-specific risk assessment and the " suitable for use " approach to urban redevelopment .

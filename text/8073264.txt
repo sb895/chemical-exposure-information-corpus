@@ -1,0 +1,13 @@
+This paper presents a detailed congener-specific estimate of PCB exposure to the UK population .
+The average sigma PCB intake ( i.e. the sum of IUPAC congeners No. 28 , 44 , 52 , 61/74 , 66 , 99 , 101 , 105 , 110 , 118 , 138 , 151 , 153 , 156 , 170 , 180 , 183 , 187 , 189 , 194/205 , 201 , 202 , 206 and 209 ) for the contemporary UK population was estimated to be 0.53 micrograms/person/day .
+Food consumption accounted for 97% of the sigma PCB exposure , with fish , milk and dairy products , vegetables and meat and animal fat accounting for 32 , 24 , 24 and 15% , respectively .
+The congener pattern for different food products varied , with vegetables playing a major part in the intake of lower chlorinated compounds , whilst fatty foods such as fish , dairy products and meat , were of greater importance for the intake of higher chlorinated compounds .
+Theoretical body burdens and body fat concentrations of selected PCB congeners were derived for the UK population , based on the estimated contemporary human daily intake of PCBs and a number of assumptions .
+PCB body burdens and adipose tissue concentrations were generally predicted to increase with age .
+However , adipose concentrations increased at a slower rate in the older population , due to a dilution effect caused by the increase in body fat weight with age .
+These theoretical estimates were then compared with measured values for adipose tissue from the Welsh population .
+Theoretical body burdens and adipose tissue concentrations ( not accounting for any metabolic losses ) were below the actual values measured for the contemporary Welsh population by between a factor of 2.5 and 4 .
+This discrepancy becomes greater when metabolic losses are included , and probably occurs because present day exposure to PCBs through foodstuffs is likely to be lower than in the past .
+The lower chlorinated congener No. 28 is more readily removed from the body and is predicted to reach an equilibrium concentration in humans .
+In contrast , the higher chlorinated No. 153 was predicted to accumulate in the body throughout life .
+The effect of PCB transfer via breast milk is shown to be important in lowering the body burden of the mother ( by approximately 20% over 3 months ) and substantially increasing that in the offspring .

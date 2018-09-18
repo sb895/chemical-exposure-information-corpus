@@ -1,0 +1,9 @@
+CONTEXT For the general population , the dominant source of exposure to dioxin-like compounds is food .
+As part of the University of Michigan Dioxin Exposure Study ( UMDES ) , we measured selected polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and dioxin-like polychlorinated biphenyls ( PCBs ) in serum of 946 subjects who were a representative sample of the general population in five Michigan counties .
+CASE PRESENTATION The total toxic equivalency ( TEQ ; based on 2005 World Health Organization toxic equivalency factors ) of serum from the index case was 211 ppt on a lipid-adjusted basis , which was the highest value observed in the UMDES study population .
+This subject had no apparent opportunity for exposure to dioxins , except that she had lived on property with soil contaminated with dioxins for almost 30 years , and had been a ceramics hobbyist for > 30 years .
+Soil from her property and clay that she used for ceramics were both contaminated with dioxins , but the congener patterns differed .
+DISCUSSION The congener patterns in this subject's serum , soil , and ceramic clay suggest strongly that the dioxin contamination in clay and not soil was the dominant source of dioxin contamination in her serum .
+RELEVANCE TO PUBLIC HEALTH PRACTICE : It appears that ceramic clay , in particular the process of firing clay with unvented kilns , can be a significant nonfood and nonindustrial source of human exposure to dioxins among ceramics hobbyists .
+The extent of human exposure from ceramic clay is unclear , but it may be widespread .
+Further work is needed to more precisely characterize the routes of exposure .

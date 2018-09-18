@@ -1,0 +1,9 @@
+In this study , postural stability was measured with a microcomputer-based force platform as an indirect assessment of central nervous system effect in 28 sewer workers ( age range 23.4 to 64.5 years , standard deviation of 8.7 years ) .
+All workers performed four 30-second postural sway tests .
+The organic-solvent exposure was measured by a photo-ionization detector .
+The photo-ionization detector was calibrated to measure volatile organic solvents in total benzene equivalence , and concentrations were measured in various parts of the plant .
+The mean exposure was .32 parts per million ( ppm ) benzene equivalent ( range of .02 to .95 ppm , standard deviation .19 ppm ) .
+Based on a covariate adjusted linear multiple-regression model , a statistically significant ( p < .05 ) positive correlation was demonstrated between postural sway and organic-solvent exposure .
+These workers also had increased postural sway compared with a nonexposed population .
+The statistically significant correlation between postural sway determinations and organic-solvent exposure was surprising given the very low exposures measured .
+It is possible that the organic-solvent exposure might not be the causative agent , but rather that the solvents themselves correlate with some other causative exposure , ie , total volatile organics as implicated in the cause of sick-building syndrome .

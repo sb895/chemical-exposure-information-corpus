@@ -1,0 +1,11 @@
+Methylmercury-associated effects on the cardiovascular system have been documented though discrepancies exist , and most studied populations experience elevated methylmercury exposures .
+No paper has investigated the impact of low-level elemental ( inorganic ) mercury exposure on cardiovascular risk in humans .
+The purpose of this study was to increase understanding of the association between mercury exposure ( methylmercury and elemental mercury ) and blood pressure measures in a cohort of dental professionals that experience background exposures to both mercury forms .
+Dental professionals were recruited during the 2010 Michigan Dental Association Annual Convention .
+Mercury levels in hair and urine samples were analyzed as biomarkers of methylmercury and elemental mercury exposure , respectively .
+Blood pressure ( systolic , diastolic ) was measured using an automated device .
+Distribution of mercury in hair ( mean , range : 0.45 , 0.02-5.18 \u03bcg/g ) and urine ( 0.94 , 0.03-5.54 \u03bcg/L ) correspond well with the US National Health and Nutrition Examination Survey .
+Linear regression models revealed significant associations between diastolic blood pressure ( adjusted for blood pressure medication use ) and hair mercury ( n=262 , p=0.02 ) .
+Urine mercury results opposed hair mercury in many ways .
+Notably , elemental mercury exposure was associated with a significant systolic blood pressure decrease ( n=262 , p=0.04 ) that was driven by the male population .
+Associations between blood pressure and two forms of mercury were found at exposure levels relevant to the general population , and associations varied according to type of mercury exposure and gender .

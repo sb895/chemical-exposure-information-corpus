@@ -1,0 +1,11 @@
+1,3-Butadiene ( BD ) , which is used to make styrene-butadiene rubber , is a potent carcinogen in mice and a probable carcinogen , associated with leukemia , in humans .
+We have previously used HPRT mutation as a biomarker to evaluate exposures to BD in a monomer production plant .
+We now report on a study of 49 workers in a styrene-butadiene rubber plant in which we used the concentration of the BD metabolite 1,2-dihydroxy-4-(N-acetylcysteinyl-S)-butane ( M1 ) in urine as a biomarker of exposure and the frequency of HPRT variant ( mutant ) lymphocytes ( Vf ) as a biomarker of effect .
+Workers were assigned to high- and low-exposure groups based on historical information about work areas and jobs .
+Personal exposure to BD for one work shift was measured using a passive badge dosimeter .
+Each participant provided a urine specimen and blood sample at the end of the work shift and completed a questionnaire providing information on lifestyle , health , and work activities .
+The average BD exposures in the high- and low-exposure groups were significantly different , even after excluding two extreme values , ( high 1.48 ppm ; low 0.15 ppm , p < 0.002 ) .
+This study was done in 1994 and 1995 before the establishment , in 1996 , of the new permissible exposure limit of 1 ppm .
+Both the mean M1 and the HPRT Vf were more than three times greater in the high-exposure group than in the low-exposure group ( p < 0.0005 ) .
+The three end points correlated with each other , with sample correlation coefficients between 0.4 and 0.6 .
+The correlations among BD exposure and the biomarkers of internal exposure and genotoxicity suggest that occupational exposure to BD , in the range of 1-3 ppm , may be associated with adverse biological effects .

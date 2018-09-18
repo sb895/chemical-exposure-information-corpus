@@ -1,0 +1,7 @@
+Seafood represents a natural source of valuable nutrients ( e.g. , long chain omega-3 poly-unsaturated fatty acids ( LC n-3 PUFAs ) , vitamin D , and iodine ) , but the favourable health perception is troubled by the presence of contaminants ( e.g. , PCBs , dioxin-like compounds , and ( methyl ) mercury ( MeHg) ) .
+This dualism forms the basis for an important public health conflict .
+The objective of this study was to calculate and evaluate the simultaneous intake of multiple beneficial and harmful compounds ( LC n-3 PUFAs , vitamin D , iodine , ( Me)Hg , PCBs , and dioxin-like compounds ) via seafood consumption in Belgium .
+A methodology and a software module were developed for executing probabilistic assessments of the simultaneous intake of multiple compounds leading to better insight in the problematic nature of food items involving both health benefits and risks .
+The simulations concerning seafood consumption in Belgium predicted that , as far as only seafood consumption is concerned , the considered populations do not reach a sufficiently high intake for the three nutrients considered ( LC n-3 PUFAs , vitamin D , and iodine ) .
+Regarding the contaminants , ( Me)Hg contamination of seafood on the Belgian market does not seem to be an issue of major toxicological concern .
+In contrast , for dioxin-like compounds the tolerable daily intake is reached by people with high seafood consumption .

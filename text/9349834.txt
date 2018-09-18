@@ -1,0 +1,9 @@
+We hypothesized that residents of Woburn , Massachusetts , had been exposed to as much as 70 microg/l of arsenic ( As ) and 240 microg/l of chromium ( Cr ) in drinking water from municipal supply wells G and H. To test this hypothesis , we measured the concentrations of As and Cr in 82 hair samples donated by 56 Woburn residents .
+Thirty-six samples were cut between 1964 and 1979 , the period during which wells G and H were in operation .
+The remainder were cut either before 1964 ( 1938-1963 ; n = 26 ) or after 1979 ( 1982-1994 ; n = 20 ) .
+Washed hair samples were analyzed by instrumental neutron activation .
+Exposure to the well water--measured as access--was estimated using well pumping records and a model of the Woburn water distribution system .
+Our results show that access to wells G and H water was not significantly correlated ( 95% confidence interval ) with As and Cr concentrations measured in the hair of Woburn residents , but As concentrations have declined significantly over the last half century .
+Linear regression of As concentrations ( micrograms per gram ) upon year of hair cut and access to wells G and H water yielded a standard coefficient for year of -0. 0074 +/- 0.0017 ( standard error ; p = 2.5 -multiple- 10(-5) ) and -0.12 +/- 0.10 ( p = 0.22 ) for access .
+The r2 value for the model was 0.19 .
+The geometric mean concentrations ( geometric standard deviation ) of As and Cr in the hair of residents who had access ( i.e. , relative access estimate >0 ) to wells G and H water ( n = 27 ) were 0.14 ( 2.6 ) and 2.29 ( 1.8 ) microg/g , respectively ; the geometric mean concentrations of As and Cr in all of the hair samples from residents who did not have access ( 1938-1994 ; n = 55 ) were 0.13 ( 3.0 ) and 2.19 ( 2.0 ) microg/g , respectively .

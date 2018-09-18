@@ -1,0 +1,1 @@
+< <Biomonitoring--exposure biomarker--blood--workers AND Biomonitoring--exposure biomarker--hair nail-- AND Biomonitoring--exposure biomarker--hair nail--workers AND Biomonitoring--exposure biomarker--urine--workers AND exposure routes--oral intake--food--< < < < <Biomonitoring--exposure biomarker--hair nail-- AND exposure routes--oral intake--food--< < 

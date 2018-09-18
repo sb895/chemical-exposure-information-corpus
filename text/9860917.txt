@@ -1,0 +1,11 @@
+Structural equation modeling is a statistical method for partitioning the variance in a set of interrelated multivariate outcomes into that which is due to direct , indirect , and covariate ( exogenous ) effects .
+Despite this model's flexibility to handle different experimental designs , postulation of a causal chain among the endogenous variables and the points of influence of the covariates is required .
+This has motivated the researchers at the University of Cincinnati Department of Environmental Health to be guided by a theoretical model for movement of lead from distal sources ( exterior soil or dust and paint lead ) to proximal sources ( interior dust lead ) and then finally to biologic outcomes ( handwipe and blood lead ) .
+The question of whether a single structural equation model built from proximity arguments can be applied to diverse populations observed in different communities with varying lead amounts , sources , and bioavailabilities is addressed in this article .
+This reanalysis involved data from 1855 children less than 72 months of age enrolled in 11 studies performed over approximately 15 years .
+Data from children residing near former ore-processing sites were included in this reanalysis .
+A single model adequately fit the data from these 11 studies ; however , the model needs to be flexible to include pathways that are not frequently observed .
+As expected , the more proximal sources of interior dust lead and handwipe lead were the most important predictors of blood lead ; soil lead often had a number of indirect influences .
+A limited number of covariates were also isolated as usually affecting the endogenous lead variables .
+The blood lead levels surveyed at the ore-processing sites were comparable to and actually somewhat lower than those reported in the the Third National Health and Nutrition Examination Survey .
+Lessened bioavailability of the lead at certain of these sites is a probable reason for this finding .

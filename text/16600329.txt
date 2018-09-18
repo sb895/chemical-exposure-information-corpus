@@ -1,0 +1,9 @@
+This study investigates the effects on fish and assesses human health hazards from mercury released in two gold mining areas in Indonesia : Tatelu ( North Sulawesi Province ) and Galangan ( Katingan District , Central Kalimatan Province ) .
+In Tatelu , 154 fish specimens of 10 freshwater species were collected , as well as five marine species from the fish market .
+The mean concentration of total mercury in muscles of freshwater fish from this area was 0.58+/-0.44 microg/g , with more than 45% of fish having Hg levels above the WHO guideline for human consumption of 0.5 microg/g .
+In Galangan , where 263 fish specimens of 25 species were collected , the total mercury in muscles averaged 0.25+/-0.69 microg/g .
+Excluding data from flooded open pits in sub-area P4 , mean Hg levels in fish from Galangan were 2 to 4 times lower than 0.5 microg/g , while fewer than 10% of fish from Galangan exceeded WHO guidelines .
+The Hazard Quotient ( HQ ) was applied to both areas to determine the threat of MeHg exposure for communities in both areas .
+The HQ is a risk assessment indicator which defines the ratio of exposure level to a single substance in relation to a reference dose .
+Samples from Tatelu ( excluding marine species ) had an HQ above one , while those from Galangan resulted in values of 2.4 for the whole area and 9.9 for sub-area P4 , pointing to potentially harmful fish consumption for the local population .
+By using the single-compartment model to estimate mercury levels in blood and hair from daily intake dose , sub-area P4 showed the highest levels , higher than the upper limit guideline for pregnant women , but still lower than threshold levels associated with observed clinical effects .

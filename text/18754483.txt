@@ -1,0 +1,6 @@
+We introduce a Bayesian hierarchical statistical model that describes subpopulation-specific pathways of exposure to arsenic .
+Our model is fitted to data collected as part of the National Human Exposure Assessment Survey ( NHEXAS ) and builds on the structural-equation-based analysis of the same data by Clayton et al .
+( Journal of Exposure Analysis and Environmental Epidemiology , 2002 , 12 , 29-43 ) .
+Using demographic information ( e.g. , gender or age ) and surrogates for environmental exposure ( e.g. , tobacco usage or the average number of minutes spent in an enclosed workshop ) , we identify subgroup differences in exposure routes .
+Missing and censored data , as well as uncertainty due to measurement error , are handled systematically in the Bayesian framework .
+Our analysis indicates that household size , amount of time spent at home , use of tapwater for drinking and cooking , number of glasses of water drunk , use of central air conditioning , and use of gas equipment significantly modify the arsenic exposure pathways .

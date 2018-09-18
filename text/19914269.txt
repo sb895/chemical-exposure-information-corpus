@@ -1,0 +1,9 @@
+To elucidate the role of genetic factors in arsenic metabolism , we investigated associations of genetic polymorphisms in the members of glutathione S-transferase ( GST ) superfamily with the arsenic concentrations in hair and urine , and urinary arsenic profile in residents in the Red River Delta , Vietnam .
+Genotyping was conducted for GST omega1 ( GSTO1 ) Ala140Asp , Glu155del , Glu208Lys , Thr217Asn , and Ala236Val , GST omega2 ( GSTO2 ) Asn142Asp , GST pi1 ( GSTP1 ) Ile105Val , GST mu1 ( GSTM1 ) wild/null , and GST theta1 ( GSTT1 ) wild/null .
+There were no mutation alleles for GSTO1 Glu208Lys , Thr217Asn , and Ala236Val in this population .
+GSTO1 Glu155del hetero type showed higher urinary concentration of As(V) than the wild homo type .
+Higher percentage of DMA(V) in urine of GSTM1 wild type was observed compared with that of the null type .
+Strong correlations between GSTP1 Ile105Val and arsenic exposure level and profile were observed in this study .
+Especially , heterozygote of GSTP1 Ile105Val had a higher metabolic capacity from inorganic arsenic to monomethyl arsenic , while the opposite trend was observed for ability of metabolism from As(V) to As(III) .
+Furthermore , other factors including sex , age , body mass index , arsenic level in drinking water , and genotypes of As ( +3 oxidation state ) methyltransferase ( AS3MT ) were also significantly co-associated with arsenic level and profile in the Vietnamese .
+To our knowledge , this is the first study indicating the associations of genetic factors of GST superfamily with arsenic metabolism in a Vietnamese population .

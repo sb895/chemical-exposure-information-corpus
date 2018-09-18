@@ -1,0 +1,9 @@
+There are only few studies documenting indoor pollution in the Middle East and the Indian subcontinent .
+In present study , we have evaluated the occurrence of various organochlorines ( OCs ) and flame retardants ( FRs ) in dust from cars and houses of Pakistan and Kuwait .
+Polybrominated diphenyl ethers ( PBDEs ) , novel brominated flame retardants ( NBFRs ) , organophosphate FRs ( PFRs ) , polychlorinated biphenyls ( PCBs ) , and organochlorine pesticides ( OCPs ) were investigated in indoor dust from urban houses ( N=15 per country ) and cars ( N=15 per country ) .
+PFRs were the major analytes in all four microenvironments , followed by PBDEs>NBFRs>OCPs>PCBs .
+For all classes of analytes , relatively lower levels were observed in car and house dust from Pakistan than Kuwait .
+Levels of \u2211PBDEs , \u2211NBFRs and \u2211PFRs were higher in car dust , while \u2211OCPs and \u2211PCBs were higher in house dust from both countries. \u2211PFRs occurred at average concentrations of 16,900 , 87,900 , 475 , and 2500ng/g in Kuwaiti house and car , and Pakistani house and car dust , respectively .
+For both countries , the profiles of analytes in car dust were different from those in the house dust .
+Different exposure scenarios using 5th percentile , median , mean , and 95th percentile levels were estimated for adult , taxi drivers and toddlers .
+For Kuwaiti toddlers , assuming high dust intake and mean and 95th percentile concentrations , the values computed for \u2211OCPs ( 1500ng/kg bw/day ) were higher than RfD values , while for \u2211PCBs ( 14.5ng/kg bw/day ) it was only two-fold lower than the corresponding RfDs .

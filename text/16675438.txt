@@ -1,0 +1,9 @@
+Studies suggest that airborne particulate matter ( PM ) may be associated with postneonatal infant mortality , particularly with respiratory causes and sudden infant death syndrome ( SIDS ) .
+To further explore this issue , we examined the relationship between long-term exposure to fine PM air pollution and postneonatal infant mortality in California .
+We linked monitoring data for PM<or=2.5 microm in aerodynamic diameter ( PM2.5 ) to infants born in California in 1999 and 2000 using maternal addresses for mothers who lived within 5 miles of a PM2.5 monitor .
+We matched each postneonatal infant death to four infants surviving to 1 year of age , by birth weight category and date of birth ( within 2 weeks ) .
+For each matched set , we calculated exposure as the average PM2.5 concentration over the period of life for the infant who died .
+We used conditional logistic regression to estimate the odds of postneonatal all-cause , respiratory-related , SIDS , and external-cause ( a control category ) mortality by exposure to PM2.5 , controlling for the matched sets and maternal demographic factors .
+We matched 788 postneonatal infant deaths to 3,089 infant survivors , with 51 and 120 postneonatal deaths due to respiratory causes and SIDS , respectively .
+We found an adjusted odds ratio for a 10-microg/m3 increase in PM2.5 of 1.07 [ 95% confidence interval ( CI ) , 0.93-1.24 ] for overall postneonatal mortality , 2.13 ( 95% CI , 1.12-4.05 ) for respiratory-related postneonatal mortality , 0.82 ( 95% CI , 0.55-1.23 ) for SIDS , and 0.83 ( 95% CI , 0.50-1.39 ) for external causes .
+The California findings add further evidence of a PM air pollution effect on respiratory-related postneonatal infant mortality .

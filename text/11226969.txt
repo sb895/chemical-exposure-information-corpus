@@ -1,0 +1,10 @@
+A significant association between ingested arsenic and bladder cancer has been reported in an arseniasis-endemic area in southwestern Taiwan , where many households share only a few wells in their villages .
+In another arseniasis-endemic area in northeastern Taiwan , each household has its own well for obtaining drinking water .
+In 1991-1994 , the authors examined risk of transitional cell carcinoma ( TCC ) in relation to ingested arsenic in a cohort of 8,102 residents in northeastern Taiwan .
+Estimation of each study subject's individual exposure to inorganic arsenic was based on the arsenic concentration in his or her own well water , which was determined by hydride generation combined with atomic absorption spectrometry .
+Information on duration of consumption of the well water was obtained through standardized questionnaire interviews .
+The occurrence of urinary tract cancers was ascertained by follow-up interview and by data linkage with community hospital records , the national death certification profile , and the cancer registry profile .
+Cox proportional hazards regression analysis was used to estimate multivariate-adjusted relative risks and 95% confidence intervals .
+There was a significantly increased incidence of urinary cancers for the study cohort compared with the general population in Taiwan ( standardized incidence ratio = 2.05 ; 95% confidence interval ( CI ) : 1.22 , 3.24 ) .
+A significant dose-response relation between risk of cancers of the urinary organs , especially TCC , and indices of arsenic exposure was observed after adjustment for age , sex , and cigarette smoking .
+The multivariate-adjusted relative risks of developing TCC were 1.9 , 8.2 , and 15.3 for arsenic concentrations of 10.1-50.0 , 50.1-100 , and >100 microg/liter , respectively , compared with the referent level of < or =10.0 microg/liter .

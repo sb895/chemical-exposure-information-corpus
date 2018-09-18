@@ -1,0 +1,7 @@
+In New Orleans a strong inverse association was previously identified between community soil lead and 4th grade school performance .
+This study extends the association to zinc , cadmium , nickel , manganese , copper , chromium , cobalt , and vanadium in community soil and their comparative effects on 4th grade school performance .
+Adjusting for poverty , food security , racial composition , and teacher-student ratios , regression results show that soil metals variously reduce and compress student scores .
+Soil metals account for 22%-24% while food insecurity accounts for 29%-37% of variation in school performance .
+The impact on grade point averages were Ni > Co > Mn > Cu Cr Cd > Zn > Pb , but metals are mixtures in soils .
+The quantities of soil metal mixtures vary widely across the city with the largest totals in the inner city and smallest totals in the outer city .
+School grade point averages are lowest where the soil metal mixtures and food insecurity are highest .

@@ -1,0 +1,11 @@
+Considering the human health risk due to the consumption of foodstuffs , the concentrations of heavy metals ( lead , manganese , chromium , cadmium , and arsenic ) are investigated in vegetables , fruits , and fish species collected from the central market ( called Shaheb Bazar ) of Rajshahi City , Bangladesh .
+The foodstuffs examined for metal constituents are the basis of human nutrition in the study area .
+The highest concentrations of Mn and As in vegetables ( onion and pointed gourd , respectively ) , Cr and Cd in fruits ( black berry and mango , respectively ) , and Pb in fish ( catla ) are recorded .
+Health risks associated with these heavy metals are evaluated due to dietary intake .
+Target hazard quotient ( THQ ) and hazard index ( HI ) are calculated to evaluate the non-carcinogenic health risk from individual and combined heavy metals .
+The THQ values for individual heavy metals are below 1 , suggesting that people would not experience significant health risks if they ingest a single heavy metal from one kind of foodstuff ( e.g. , vegetables ) .
+However , consumption of several of the foodstuffs could lead a potential health risk to human population since HI value is higher than 1 .
+The relative contributions of vegetables , fishes , and fruits to HI are 49.44 , 39.07 , and 11.53 % , respectively .
+Also , the relative contributions of Pb , Cd , As , Mn , and Cr to HI are 51.81 , 35.55 , 11.73 , 0.85 , and 0.02 % , respectively .
+The estimation shows that the carcinogenic risk of arsenic exceeds the accepted risk level of 1 × 10(-6) .
+Thus , the carcinogenic risk of arsenic for consumers is a matter of concern .

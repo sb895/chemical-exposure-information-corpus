@@ -1,0 +1,12 @@
+OBJECTIVES The objective of this study was to assess the external exposure to aromatic hydrocarbons ( AHs ) and polycyclic aromatic hydrocarbons ( PAHs ) of coke-oven workers and by-product workers at a coke plant in Poland .
+METHODS The content of benzene , toluene , xylene , and naphthalene in a gaseous phase and the content of dibenzo[a,h]anthracene , benz[a]anthracene , anthracene , benzo[a]pyrene , benzo[b]fluoranthene , benzo[k]fluoranthene , benz[ghi]perylene , chrysene , and indeno[1,2,3-c,d]pyrene in a particulate phase of coke plant workers were measured in the workers mentioned above .
+A toxic equivalency factor BaP(eq) was used to estimate human health risk associated with respiratory exposure to PAHs .
+RESULTS Time-weighted values of the exposure to AHs in the coke plant were as follows : benzene ( range 0.01-2.71 mg m(-3) ) , toluene ( 0.01-1.73 mg m(-3) ) , xylene ( 0.01-0.78 mg m(-3) ) , naphthalene ( 6.0-6079 \u03bcg m(-3) ) , and the concentrations of hydrocarbons did not exceed the exposure limits .
+The results for particle-bound PAHs were equal to 1.96 \u03bcg m(-3) for B(a)P , 0.73 \u03bcg m(-3) for DBA , 3.23 \u03bcg m(-3) for BaA , 4.35 \u03bcg m(-3) for BbF , 3.02 \u03bcg m(-3) for BkF , 4.54 \u03bcg m(-3) for IND , 4.32 \u03bcg m(-3) for CHR , and 0.73 \u03bcg m(-3) for Ant .
+The results of personal air measurements ( median values of the sum of nine carcinogenic PAHs ) were 2.115 \u03bcg m(-3) ( coke-oven workers , n = 207 ) , 0.326 \u03bcg m(-3) ( coke by-product workers , n = 33 ) , and 0.653 \u03bcg m(-3) ( total area workers , n = 38 ) .
+The benzo[a]pyrene equivalent concentrations ( BaP(eq) ) of 10 PAHs were 1.33 , 0.183 , and 0.284 \u03bcg m(-3) , respectively .
+CONCLUSIONS We found out that coke plant workers are simultaneously exposed to a mixture of aromatic and polycyclic hydrocarbons present in the breathing zone air .
+Exposure levels are significantly influenced by job categories .
+Coke by-product workers are significantly more exposed to benzene , toluene , and xylene and less to PAHs .
+Coke-oven workers are mainly exposed to PAHs .
+Coke-oven workplaces ( top side , coke side , and push side ) are characterized by higher carcinogenic risk than other coke plant workplaces .

@@ -1,0 +1,10 @@
+BACKGROUND Exposure to heavy metals may cause kidney damage .
+The population living near the Avonmouth zinc smelter has been exposed to cadmium and other heavy metals for many decades .
+OBJECTIVES We aimed to assess Cd body burden and early signs of kidney damage in the Avonmouth population .
+METHODS We used dispersion modeling to assess exposure to Cd .
+We analyzed urine samples from the local population ( n = 180 ) for Cd ( U-Cd ) to assess dose ( body burden ) and for three biomarkers of early kidney damage [ N-acetyl-beta-d-glucosaminidase ( U-NAG ) , retinol-binding protein , and alpha-1-microglobulin ] .
+We collected information on occupation , intake of homegrown vegetables , smoking , and medical history by questionnaire .
+RESULTS Median U-Cd concentrations were 0.22 nmol/mmol creatinine ( nonsmoking 0.18/smoking 0.40 ) and 0.34 nmol/mmol creatinine ( nonsmoking 0.31/smoking 0.46 ) in non-occupationally exposed men and women , respectively .
+There was a significant dose-response relationship between U-Cd and the prevalence of early renal damage-defined as U-NAG > 0.22 IU/mmol-with odds ratios of 2.64 [ 95% confidence interval ( 95% CI ) , 0.70-9.97 ] and 3.64 ( 95% CI , 0.98-13.5 ) for U-Cd levels of 0.3 to < 0.5 and levels >or= 0.5 nmol/mmol creatinine , respectively ( p for trend = 0.045 ) .
+CONCLUSION U-Cd concentrations were close to levels where kidney and bone effects have been found in other populations .
+The dose-response relationship between U-Cd levels and prevalence of U-NAG above the reference value support the need for measures to reduce environmental Cd exposure .

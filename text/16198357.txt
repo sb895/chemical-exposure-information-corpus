@@ -1,0 +1,3 @@
+A new method has been developed for the multi-residue measurement of the main brominated flame retardants ( alpha- and gamma-hexabromocyclododecane ( HBCD ) , tetrabromobisphenol A ( TBBP-A ) and polybrominated diphenyl ethers including decabromodiphenyl ether ) in human biological matrices ( serum , adipose tissue and breast milk ) .
+The proposed sample preparation procedure focused on reduced solvent and consumable consumption and associated procedural contamination , as well as reduced sample size .
+This protocol was fully validated and was proved to be suitable for identification of brominated flame retardant residues at ultra-trace level , as attested by preliminary results on real samples .

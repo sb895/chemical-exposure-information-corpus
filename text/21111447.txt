@@ -1,0 +1,9 @@
+The aim was to determine half-life of six most abundant PCB congeners in the body of early adolescents .
+In 304 environmentally exposed children , PCB serum concentration was determined at the age of 8 and 12years .
+Half-life was determined for each child assuming exponential decrease or for the whole cohort using multiple regression .
+Results obtained by both approaches were in agreement .
+PCB reuptakes corrupting half-life estimates for each child and each congener were evaluated .
+If one of the serum PCB concentration values fell below the level of detection ( LOD ) the pair was excluded and if PCB half-life value exceeded the arbitrary value of 30years .
+The following median half-lives in years 4.46 , 10.59 , 9.7 , 4.7 , 9.1 and 9.8 were obtained for PCB congeners 118 , 138(+163) , 153 , 156(+171) , 170 and 180 , respectively .
+The elimination half-life values were not systematically related to PCB serum concentration at any examination age .
+Between half-life values , percentage of children with significant reuptakes and PCB congener abundance in serum were found significant associations .

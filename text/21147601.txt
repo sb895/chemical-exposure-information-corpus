@@ -1,0 +1,13 @@
+BACKGROUND Urinary excretion of bisphenol A ( BPA ) and alkylphenols ( APs ) was used as a biomarker in most previous studies , but no study has investigated whether urinary excretion of these environmental phenols differed by renal function .
+OBJECTIVE We estimated the association between renal function and urinary excretion of BPA and APs .
+METHODS Analyses were conducted using data from the National Health and Nutrition Examination Survey ( NHANES ) 2003-2006 .
+Renal function was measured as estimated glomerular filtration rate ( eGFR ) calculated by the Modification of Diet in Renal Disease ( MDRD ) Study equation and by the newly developed Chronic Kidney Disease Epidemiology Collaboration ( CKD-EPI ) equation .
+Regression models were used to calculate geometric means of urinary BPA and APs excretion by eGFR category ( \u2265 90 , 60-90 , < 60 mL/min/m(2) ) after adjusting for potential confounding factors .
+RESULTS When we used the MDRD Study equation , participants without known renal disease ( n=2,573 ) , 58.2% ( n=1,499 ) had mildly decreased renal function or undiagnosed chronic kidney disease .
+The adjusted geometric means for urinary BPA excretion decreased with decreasing levels of eGFR ( p for trend=0.04 ) .
+The associations appeared primarily in females ( p for trend=0.03 ) .
+Urinary triclosan excretion decreased with decreasing levels of eGFR ( p for trend < 0.01 ) for both males and females , and the association primarily appeared in participants < 65 years of age .
+The association between BPA and eGFR was nonsignificant when we used the CKD-EPI equation .
+CONCLUSIONS Urinary excretion of triclosan , and possibly BPA , decreased with decreasing renal function .
+The associations might differ by age or sex .
+Further studies are necessary to replicate our results and understand the mechanism .

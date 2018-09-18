@@ -1,0 +1,10 @@
+Parabens are esters of p-hydroxybenzoic acid and are widely used as preservatives in cosmetics , pharmaceuticals , foodstuffs , including beverages .
+Information on the occurrence of parabens in foodstuffs and dietary exposure of humans to these chemicals is not available .
+In this study , food samples ( n = 267 ) collected from Albany , New York , United States , were grouped into eight categories , namely , beverages , dairy products , fats and oils , fish and shellfish , grains , meat , fruits , and vegetables , and analyzed for five parabens by high-performance liquid chromatography-tandem mass spectrometry .
+The majority ( >90% ) of food samples contained measurable concentrations of parabens , and the total concentrations ( \u03a3parabens ; sum of five parabens ) ranged from below the limit of quantitation to 409 ng/g fresh weight ( mean : 9.67 ng/g ; median : 0.92 ng/g ) .
+Methyl- , ethyl- , and propyl-parabens were the predominant compounds , accounting for \u223c90% of the total concentrations .
+Butyl- and benzyl-parabens were less frequently detected .
+There were no significant differences in paraben concentrations among the eight food categories , including the canned foods .
+On the basis of the concentrations measured and per capita daily ingestion rates of foods , we estimated the daily intake ( EDI ; ng/kg of body weight ( bw)/day) ) of parabens through food ingestion .
+The EDI values of total parabens ( calculated from the mean concentrations measured and the mean daily ingestion rates of food items ) were 940 , 879 , 470 , 273 , and 307 ng/kg bw/day for infants , toddlers , children , teenagers , and adults , respectively .
+To our knowledge , this is the first study to report the occurrence of parabens in foodstuffs .

@@ -1,0 +1,15 @@
+Human exposure to brominated flame retardants ( BFRs ) varies widely throughout the world as it depends on country-related usage , production and legislation of these chemicals .
+US and UK exposure assessments show very diverse levels and patterns which in turn , are likely to differ from those in background exposed countries such as Belgium , where levels tend to be about an order of magnitude lower .
+The current study assessed human exposure to BFRs through the indoor and outdoor environment ( e.g. dust , soil , and air ) and food for all age groups in Flanders , Belgium .
+Most relevant food groups were identified based on a national food consumption survey and food items with Flemish origin were collected .
+Dust samples were collected using a standardized protocol in 43 homes and 10 offices throughout Flanders .
+Food , human milk and dust samples were analysed for their polybrominated diphenylethers ( PBDE ) and hexabromocyclodecane ( HBCD ) content using GC/MS and LC/MS-MS .
+An exposure model was developed including all analysed data , complemented with literature data .
+The model covered human exposure of infants , children and adults through human milk , food , dust/soil ingestion and air inhalation .
+Total human exposure was compared to the existing toxicological criteria and previous exposure estimates .
+In general , the exposure levels through human milk are consistent with those of a background exposed European population , whereas dust and food intake are at the low end of what has been reported in previous European intake assessments .
+Total average intake of SigmaHBCD and SigmaBDE(5) at 50th percentile ( P50 ) levels by newborns equals 3.1 and 12.0ng/kg body weight ( bw ) day , respectively .
+This intake increases to 15.2 and 20.9ng/kgbwday for SigmaHBCD and SigmaBDE(5) , for higher exposed newborns ( 95th percentile=P95 levels ) .
+Due to the limited database on health-based limit values for PBDEs and HBCD , it is difficult to assess the immediate health concern for any of the age groups , although the higher intake of newborns indicates the need for ongoing monitoring .
+For median exposed individuals , the average SigmaHBCD intake peaked at the age 3 to 6years with an intake of 6.59ng/kgbwday and declines to approximately 1ng/kgbwday at later age .
+SigmaBDE(5) intake exhibited a different profile compared to SigmaHBCD with maximal levels for newborns and a decline to approximately 0.7ng/kgbwday at adulthood .

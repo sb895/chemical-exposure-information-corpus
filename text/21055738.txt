@@ -1,0 +1,9 @@
+BACKGROUND Limited epidemiologic data are available concerning the cardiovascular effects of cadmium exposure , although recent studies suggest associations with myocardial infarction and peripheral arterial disease .
+We examined the associations of cadmium exposure with cardiovascular disease in nationally representative general Korean adults .
+METHODS We used cross-sectional data on blood cadmium and self-reported diagnoses of ischemic heart disease ( IHD ) , stroke , and hypertension in a sub-sample of 1908 adults , aged 20 years and older , who participated in the 2005 Korea National Health and Nutrition Examination Survey ( KNHANES ) .
+We used survey logistic regression models accounting for the complex sampling design to estimate the odds ratios ( OR ) , adjusting for age , education , income , alcohol , smoking , body mass index , waist circumference , family history of hypertension , blood pressure , and blood lead .
+RESULTS The geometric mean of blood cadmium was 1.53 \u03bcg/L .
+After adjusting for potential confounders , an interquartile range ( IQR ) increase in blood cadmium ( 0.91 \u03bcg/L ) was found to be associated with an increased risk for IHD ( OR 2.1 , 95% confidence interval ( CI ) 1.3-3.4 ) .
+An IQR increase in blood cadmium was found to be associated with an elevated risk for hypertension only among men ( OR 1.4 , 95% CI 1.1-1.8 ) but not among women .
+No association was observed with stroke in both genders .
+CONCLUSIONS These findings suggest that cadmium in blood may be associated with an increased risk for IHD and hypertension in the general Korean adult population .

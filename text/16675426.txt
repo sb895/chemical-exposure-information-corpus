@@ -1,0 +1,9 @@
+OBJECTIVE Recent studies indicate that persistent organohalogen pollutants ( POPs ) may contribute to sex ratio changes in offspring of exposed populations .
+Our aim in the present study was to investigate whether exposure to 2,2 ,4,4 ,5,5 -hexachlorobiphenyl ( PCB-153 ) and dichlorodiphenyldichloroethene ( p,p -DDE ) affects sperm Y:X chromosome distribution .
+SUBJECTS AND METHODS We obtained semen and blood for analysis of PCB-153 and p,p -DDE levels from 547 men from Sweden , Greenland , Poland ( Warsaw ) , and Ukraine ( Kharkiv ) , with regionally different levels of POP exposure .
+The proportion of Y- and X-chromosome-bearing sperm in the semen samples was determined by two-color fluorescence in situ hybridization analysis .
+RESULTS Swedish and Greenlandic men had on average significantly higher proportions of Y sperm ( in both cohorts , 51.2% ) and correspondingly higher lipid-adjusted concentrations of PCB-153 ( 260 ng/g and 350 ng/g , respectively ) compared with men from Warsaw ( 50.3% and 22 ng/g ) and Kharkiv ( 50.7% and 54 ng/g ) .
+In the Swedish cohort , log-transformed PCB-153 and log-transformed p,p -DDE variables were significantly positively associated with Y-chromosome fractions ( p-values 0.04 and <0.001 , respectively ) .
+On the contrary , in the Polish cohort PCB-153 correlated negatively with the proportion of Y-bearing fraction of spermatozoa ( p=0.008 ) .
+CONCLUSIONS The present study indicates that POP exposure might be involved in changing the proportion of ejaculated Y-bearing spermatozoa in human populations .
+Intercountry differences , with different exposure situations and doses , may contribute to varying Y:X chromosome ratios .

@@ -1,0 +1,7 @@
+Indoor and ambient concentrations of 21 volatile organic compounds ( including 14 hazardous air pollutants ) were measured in the homes of nearly 80 western Montana ( Missoula ) high school students as part of the ' Air Toxics Under the Big Sky ' program during the 2004/2005 and 2005/2006 school years .
+Target analytes were measured using low flow air sampling pumps and sorbent tubes , with analysis of the exposed samples by thermal desorption/gas chromatography/mass spectrometry ( TD/GC/MS ) .
+The results reported here present the findings of the first indoor/ambient air toxics monitoring program conducted in a semi-rural valley location located in the Northern Rocky Mountain/Western Montana region .
+Of all of the air toxics quantified in this study , toluene was found to be the most abundant compound in both the indoor and ambient environments during each of the two school years .
+Indoor log-transformed mean concentrations were found to be higher when compared with ambient log-transformed mean concentrations at P < 0.001 for the majority of the compounds , supporting the results of previous studies conducted in urban areas .
+For the air toxics consistently measured throughout this program , concentrations were approximately six times higher inside the student's homes compared to those simultaneously measured directly outside their homes .
+For the majority of the compounds , there were no significant correlations between indoor and ambient concentrations .

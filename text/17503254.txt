@@ -1,0 +1,5 @@
+Although at high levels arsenic exposure is associated with increased cancer incidence , information on the health effects of lower exposure levels is limited .
+The objective of this study was to determine whether arsenic at concentrations below 40 microg/L in drinking water is associated with increased urinary 8-hydroxydeoxyguanosine ( 8-OHdG ) , a biomarker of DNA oxidative damage and repair .
+Urine samples were collected from 73 nonsmoking adults residing in two communities in Arizona ( mean tap water arsenic ( microg/L ) 4.0 +/- 2.3 and 20.3 +/- 3.7 ) , and 51 subjects in four communities in Sonora , Mexico ( mean tap water arsenic ( microg/L ) ranging from 4.8 +/- 0.1 to 33.3 +/- 0.6 ) .
+Although urinary arsenic concentration increased with higher exposure in tap water , urinary 8-OHdG concentration did not differ by community within Arizona or Sonora , and was not associated with urinary arsenic concentration .
+At the exposure levels evaluated in this study , drinking water arsenic was not associated with increased DNA oxidation as measured by urinary 8-OHdG .

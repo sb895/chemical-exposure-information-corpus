@@ -1,0 +1,8 @@
+Generally , urine mercury ( U-Hg ) is widely used for assessment of inorganic mercury ( I-Hg ) exposure in humans .
+The reliability of scalp hair as an indicator of mercury vapor exposure is contentious .
+However , significant correlations were found between hair total mercury ( T-Hg ) and U-Hg and between hair I-Hg and total gaseous mercury ( TGM ) in ambient air in our previous studies .
+Simulated experiments were designed to assess the contribution of direct absorption/adsorption of mercury vapor in the hair .
+Results indicated that the increases of hair T-Hg concentrations were less than 1 \u03bcg/g , which was negligible compared with hair T-Hg concentrations in occupationally exposed workers .
+The \u03b2-mercaptoethanol washing can remove 30% of mercury ( Hg ) in the exposed hair samples .
+The inhaled Hg constituted the major fraction ( 97.4% ) of I-Hg exposure for the artisanal Hg mining workers .
+From the simulated experiments and field data analysis , we can conclude that hair I-Hg can be a useful tool for monitoring occupational exposure to Hg vapor .

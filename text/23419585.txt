@@ -1,0 +1,9 @@
+Serum antinuclear antibody positivity ( ANA ) has been associated with elevated serum polychlorinated biphenyls ( PCBs ) among residents in PCB-polluted areas ; however , associations in general populations have not been reported by congener type or with adjustment for mercury .
+Cross-sectional data on serum PCBs , total blood mercury , ANA , and potential confounders age , race , body mass index , menopausal status , and dietary eicosapentaenoic acid ( EPA ) were obtained from the 2003-2004 National Health and Nutrition Examination Survey ( NHANES ) for males and females aged 12-85 .
+PCB congeners were summed separately for dioxin-like and nondioxin-like PCBs ; the former were weighted for toxic equivalent factors .
+Total PCBs by congener type and mercury were analyzed as both continuous log-transformed variables and as categorical quintiles .
+Logistic regression models were stratified by sex .
+There were no associations between nondioxin-like PCBs or mercury and ANA among males or females .
+Among females ( n=114 affected and 518 unaffected ) , adjusting for potential confounders , the prevalence odds for ANA positivity were significantly elevated per incremental increase in log-transformed dioxin-like PCBs ( odds ratio { OR}=1.66 ; 95% confidence interval { CI}=1.24 , 2.23 ) ; the highest dioxin-like PCB quintile ( >0.00425-0.04339ng/g ) was significantly associated with 4.04 ( 95% CI=2.43 , 6.70 ) greater prevalence odds for ANA positivity relative to the lowest quintile ( Ptrend<0.001 ) .
+We present novel findings of an association between low-level dioxin-like PCBs and ANA among women .
+No associations were observed between mercury and ANA at mercury levels common to the U.S. population .

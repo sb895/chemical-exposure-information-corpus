@@ -1,0 +1,8 @@
+Because of the disadvantages of invasive sampling , it is desirable to explore non-invasive matrices for human biomonitoring of perfluorooctane sulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) .
+The aim of this study was to evaluate the application of nail , hair and urine for human biomonitoring of PFOS and PFOA .
+The concentrations of PFOS and PFOA in matched nail , hair , urine and serum samples collected from 64 donors were measured .
+The chemicals of interest were detected with high detection frequency in these matrices ( 90%-100% ) except for PFOA in urine samples ( 56% ) .
+Generally , the gender influences on the levels of PFOS and PFOA in these non-invasive matrices were in agreement with that in serum .
+For PFOS , the coefficients of Spearman correlation between serum samples and nail , hair and urine samples were 0.786 ( p<0.001 ) , 0.545 ( p<0.001 ) and 0.302 ( p<0.05 ) , respectively .
+For PFOA , the correlation was only observed between nail samples and serum samples with a correlation coefficient of 0.299 ( p<0.05 ) .
+The results suggested that nail has more potential than hair and urine to be applied in human biomonitoring for PFOS and PFOA in general populations .

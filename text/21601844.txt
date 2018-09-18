@@ -1,0 +1,12 @@
+BACKGROUND The role of perfluorinated compounds ( PFCs ) in the immune system and allergic diseases is not well-known .
+This study examined the effects of pre-natal exposure to PFCs on immunoglobulin E ( IgE ) levels and atopic dermatitis ( AD ) .
+METHODS In Taiwan Birth Panel cohort study , newborns with cord blood and peri-natal factors ( i.e. birth body weight , weeks of gestation , and type of delivery ) gathered at birth were evaluated .
+At the age of 2 years , information on the development of AD , environmental exposures , and serum total IgE were collected .
+The AD and non-AD children were compared for the concentration of cord blood serum PFCs measured by Ultra-performance liquid chromatography/triple-quadrupole mass ( UPLC-MS/MS ) .
+Correlations among cord blood IgE , serum total IgE at 2 years of age , and cord blood PFC levels were made .
+RESULTS Of 244 children who completed the follow-up and specimen collections , 43 ( 17.6% ) developed AD .
+Concentrations of cord blood serum perfluorooctanoic acid ( PFOA ) , perfluorooctane sulfonate ( PFOS ) , perfluorononanoic acid ( PFNA ) , and perfluorohexane sulfonic acid ( PFHxS ) were median ( range ) 1.71 ( 0.75-17.40 ) , 5.50 ( 0.11-48.36 ) , 2.30 ( 0.38-63.87 ) , and 0.035 ( 0.035-0.420)ng/mL , respectively .
+PFOA and PFOS levels positively correlated with cord blood IgE levels ( per ln-unit : \u03b2=0.134 KU/l , p=0.047 for PFOA ; \u03b2=0.161 KU/l , p=0.017 for PFOS ) .
+Analyses stratified by gender revealed that PFOA and PFOS levels positively correlated with cord blood IgE levels only in boys ( per ln-unit : \u03b2=0.206 KU/l , p=0.025 for PFOA ; \u03b2=0.175 KU/l , p=0.053 for PFOS ) .
+When dividing cord blood serum PFCs into quartiles in the fully adjusted models , AD had no significant association with PFOS .
+CONCLUSIONS Pre-natal PFOA and PFOS exposures positively correlated with cord blood IgE levels .

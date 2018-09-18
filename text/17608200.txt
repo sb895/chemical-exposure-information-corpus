@@ -1,0 +1,5 @@
+In the present paper , a method for the determination of trace elements such as Hg and As in biological samples by HG-ICP-AES was presented .
+Under the optimum experimental conditions and instrumental operation parameters , both the RSDs of Hg and As with the method were below 3% , and the detection limits were 0.6 ng Hg x mL(-1) and 0.8 ng As x mL(-1) , respectively , satisfying the demand of detecting trace Hg and As concentration in biological samples .
+Meanwhile , the analytical results of Hg and As in the national standard reference samples such as human hair ( GBW 09101 ) , rice ( GBW 08503 ) and tea leaf ( GBW 08505 ) were in good agreement with the certified values , with RSDs around 5% .
+Using the HG-ICP-AES method , the concentrations of Hg and As in human hair samples of polymetallic mining area in western Hunan province were determined , and the result shows that human in the mining area was exposed to high levels of Hg and As .
+The concentrations of Hg and As in the mining area were 1.290 and 1.865 microg x g(-1) respectively , 3.59 and 2.44 times higher than those in the control area , respectively .

@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) were measured in air ( using PUF disk passive samplers ) in 31 homes , 33 offices , 25 cars , and 3 public microenvironments .
+Average concentrations of sigmaBDE ( 273 pg m(-3) ) and sigmaPCB ( 8920 pg m(-3) ) were an order of magnitude higher than those previously reported for outdoor air .
+Cars were the most contaminated microenvironment for sigmaBDE ( average = 709 pg m(-3) ) , but the least for sigmaPCB ( average = 1391 pg m(-3) ) .
+Comparison with data from a previous spatially consistent study , revealed no significant decline in concentrations of sigmaPCB in indoor air since 1997-98 .
+Concentrations in indoor dust from 8 homes were on average 215.2 ng sigmaBDE g(-1) , slightly higher than other European dust samples , but twenty times lower than Canadian samples .
+Inhalation makes an important contribution ( between 4.2 and 63% for adults ) to overall UK exposure to sigmaPCB .
+For sigmaBDE , dust ingestion makes a significant but--in contrast to Canada-a not overwhelming contribution ( up to 37% for adults , and 69% for toddlers ) .
+Comparison of UK and Canadian estimates of absolute exposure to sigmaBDE suggest that differences in dust contamination are the likely cause of higher PBDE body burdens in North Americans compared to Europeans .

@@ -1,0 +1,8 @@
+Congener-specific analyses of 7 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) and 4 non-ortho ( coplanar ) polychlorinated biphenyls ( cPCBs ) were performed on 35 samples of commercial long-life pasteurised cows ' milk issued from eight different brands available in Walloon supermarkets ( Belgium ) .
+The observed congener profile was characteristic of milk samples issued from industrialised countries with good inter and intra-brand reproducibility's .
+The PCDDs to PCDFs ratio was equal to 1.8 in concentration .
+The toxic equivalent ( TEQ based on WHO-TEF ) value for PCDD/Fs in all analysed milks was 1.09+/-0.30 pg TEQ/g fat ( range 0.86-1.59 ) , which is below the recommended EU non-commercialisation threshold value of 3 pg TEQ PCDD/Fs/g of milk fat .
+The mean TEQ value including cPCBs was 2.23+/-0.55 pg TEQ/g fat .
+These PCBs actually contributed for 49+/-8.6% of the total TEQ .
+Among PCDD/Fs and cPCBs , tetrachloro dibenzo-p-dioxin ( TCDD ) , pentachloro dibenzo-p-dioxin ( PeCDD ) , pentachloro dibenzofurans ( PeCDFs ) and 3,3',4,4',5-pentachloro biphenyl ( PCB-126 ) were the most important contributors to the TEQ .
+Estimated daily intake ( EDI ) due to consumption of such milks was 0.34 pg TEQ/kg of body weight/day for PCDD/Fs and 0.69 pg TEQ/kg of body weight/day when cPCBs were included .

@@ -1,0 +1,8 @@
+Neurodevelopment as Gesell development scores ( GDSs ) in relation to mercury exposure in infants ( <6 months of age ) of one urban center and two rural villages , respectively , of fisherman and cassiterite miners .
+Mean total hair-Hg ( HHg ) concentrations of infants from Itapuã ( 3.95 ± 1.8\u2009ppm ) were statistically ( P = 0.0001 ) different from those of infants from Porto Velho ( 3.84 ± 5.5\u2009ppm ) and Bom Futuro ( 1.85 ± 0.9\u2009ppm ) .
+Differences in vaccine coverage among these populations resulted in significantly higher ( P = 0.0001 ) mean ethylmercury ( EtHg ) exposure in urban infants ( 150\u2009\u03bcg ) than in infants from either village ( 41.67\u2009\u03bcg , Itapuã ; 42.39\u2009\u03bcg , Bom Futuro ) .
+There was an inverse significant ( Spearman r = -0.2300 ; P = 0.0376 ) correlation between HHg and GDS for infants from Porto Velho , but not for the rural infants from Bom Futuro ( Spearman r = 0.1336 ; P = 0.0862 ) and Itapuã ( Spearman r = 0.1666 ; P = 0.5182 ) .
+Logistic regression applied to variables above or below the median GDS showed that EtHg exposure ( estimated probability = -0.0157 ; P = 0.0070 ) and breastfeeding score ( estimated probability = -0.0066 ; P = 0.0536 ) score were significantly associated with GDS .
+Conclusion .
+In nurslings whose mothers are exposed to different levels of fish-MeHg ( HHg ) , a higher score of neurological development at six months was negatively associated with exposure to additional TCV-EtHg .
+Results should be interpreted with caution because of unaccounted variables .

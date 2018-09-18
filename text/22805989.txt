@@ -1,0 +1,10 @@
+The developing fetus is particularly vulnerable to adverse effects from pharmaceutical and exogenous chemical exposure .
+Deciduous teeth primarily form over specific periods from the second trimester in utero through the months after birth .
+We hypothesized that organic chemicals or their metabolites circulating in the bloodstream may sorb into forming dental tissues and remain stored in the tooth thereafter .
+Our aims were to devise analytical and preparation methods for potentially toxic or beneficial organic chemicals or metabolites in deciduous teeth and to estimate their detection frequencies .
+The analgesic acetaminophen was stored at greater concentration in a child's second molar than a first molar , consistent with intake , suggesting that acetaminophen concentration in molars may be a biomarker of acetaminophen exposure during molar formation .
+Chemicals detected by liquid chromatography/tandem mass spectrometry in molars of 21 typically developing children include the endocannabinoid anandamide ( 86% of children ) , acetaminophen ( 43% ) , and specific metabolites mono-2-ethylhexyl phthalate ( MEHP , of plasticizer di-2-ethylhexyl phthalate , 29% ) , 3,5,6-trichloro-2-pyridinol ( TCPy , of organophosphate ( OP ) insecticide chlorpyrifos , 10% ) , and 2-isopropyl-6-methyl-4-pyrimidinol ( IMPy , of OP insecticide diazinon , 10% ) .
+None of these chemicals has previously been detected in human teeth .
+Molars from the two oldest subjects contained the largest concentrations of MEHP , TCPy , and IMPy .
+Potentially protective fatty acids detected by gas chromatography/mass spectrometry after derivatization include docosahexaenoic ( 19% ) , arachidonic ( 100% ) , and linoleic ( 100% ) .
+Validation studies are necessary to verify that each detected chemical in molars provides a biomarker of perinatal exposure .

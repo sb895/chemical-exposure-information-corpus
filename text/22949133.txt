@@ -1,0 +1,9 @@
+BACKGROUND Beginning in 1958 , the city of Antofagasta in northern Chile was exposed to high arsenic concentrations ( 870 µg/L ) when it switched water sources .
+The exposure abruptly stopped in 1970 when an arsenic-removal plant commenced operations .
+A unique exposure scenario like this--with an abrupt start , clear end , and large population ( 125,000 in 1970 ) , all with essentially the same exposure--is rare in environmental epidemiology .
+Evidence of increased mortality from lung cancer , bronchiectasis , myocardial infarction , and kidney cancer has been reported among young adults who were in utero or children during the high-exposure period .
+OBJECTIVE We investigated other causes of mortality in Antofagasta among 30- to 49-year-old adults who were in utero or \u2264 18 years of age during the high-exposure period .
+METHODS We compared mortality data between Antofagasta and the rest of Chile for people 30-49 years of age during 1989-2000 .
+We estimated expected deaths from mortality rates in all of Chile , excluding Region II where Antofagasta is located , and calculated standardized mortality ratios ( SMRs ) .
+RESULTS We found evidence of increased mortality from bladder cancer [ SMR = 18.1 ; 95% confidence interval ( CI ) : 11.3 , 27.4 ] , laryngeal cancer ( SMR = 8.1 ; 95% CI : 3.5 , 16.0 ) , liver cancer ( SMR = 2.5 ; 95% CI : 1.6 , 3.7 ) , and chronic renal disease ( SMR = 2.0 ; 95% CI : 1.5 , 2.8 ) .
+CONCLUSIONS Taking together our findings in the present study and previous evidence of increased mortality from other causes of death , we conclude that arsenic in Antofagasta drinking water has resulted in the greatest increases in mortality in adults < 50 years of age ever associated with early-life environmental exposure .

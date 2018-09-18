@@ -1,0 +1,14 @@
+BACKGROUND Countries worldwide are expending significant resources to improve air quality partly to improve the health of their citizens .
+Are these societal expenditures improving public health ?
+OBJECTIVES We consider these issues by tracking the risk of death associated with outdoor air pollution over both space and time in Canadian cities .
+MATERIALS AND METHODS We propose two multi-year estimators that use current plus several previous years of data to estimate current year risk .
+The estimators are derived from sequential time series analyses using moving time windows .
+To evaluate the statistical properties of the proposed methods , a simulation study with three scenarios of changing risk was conducted based on 12 Canadian cities from 1981 to 2000 .
+Then an optimal estimator was applied to 24 of Canada's largest cities over the 17-year period from 1984 to 2000 .
+RESULTS The annual average daily concentrations of ozone appeared to be increasing over the time period , whereas those of nitrogen dioxide were decreasing .
+However , the proposed method returns different time trends in public health risks .
+Evidence for some monotonic increasing trends in the annual risks is weak for O(3) ( p = 0.3870 ) but somewhat stronger for NO(2) ( p = 0.1082 ) .
+In particular , an increasing time trend becomes apparent when excluding year 1998 , which reveals lower risk than proximal years , even though concentrations of NO(2) were decreasing .
+The simulation results validate our two proposed methods , producing estimates close to the preassigned values .
+CONCLUSIONS Despite decreasing ambient concentrations , public health risks related to NO(2) appear to be increasing .
+Further investigations are necessary to understand why the concentrations and adverse effects of NO(2) show opposite time trends .

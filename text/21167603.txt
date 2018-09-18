@@ -1,0 +1,10 @@
+Organochlorine chemicals may contribute to an increased risk of non-Hodgkin lymphoma ( NHL ) within non-occupationally exposed populations .
+Among these chemicals , dioxins and furans were mainly released by municipal solid waste incinerators ( MSWIs ) until a recent past in France , a source of exposure that is of public concern .
+We investigated organochlorines and the risk of NHL among neighbors of a French MSWI with high levels of dioxin emissions ( Besançon , France ) , using serum concentrations to assess exposure .
+The study area consisted of three electoral wards , containing or surrounding the MSWI .
+Pesticides , dioxins , furans , and polychlorinated biphenyls ( PCBs ) were measured in the serum of 34 newly diagnosed NHL cases ( 2003-2005 ) and 34 controls .
+Risks of NHL associated with each lipid-corrected serum concentration were estimated using exact logistic regression .
+The pesticides \u03b2-hexachlorocyclohexane ( odds ratio [ OR]=1.05 , 95% confidence interval [ CI]=1.00-1.12 , per 10 ng/g lipid ) and p,p ' dichloro-diphenyl-trichloroethane ( DDT ) ( OR=1.20 , 95% CI=1.01-1.45 , per 10 ng/g lipid ) were associated with NHL risk .
+Evidence indicated an increased NHL risk associated with cumulative WHO(1998)-toxic equivalency factor ( TEQ ) concentrations ( dioxins , OR=1.12 , 95% CI=1.03-1.26 ; furans , OR=1.16 , 95% CI=1.03-1.35 ; dioxin-like PCBs , OR=1.04 , 95% CI=1.00-1.07 ; and total TEQ , OR=1.04 , 95% CI=1.01-1.05 ) , as well as with non dioxin-like PCBs ( OR=1.02 , 95% CI=1.01-1.05 , per 10 ng/g lipid ) .
+Most congener-specific associations were statistically significant .
+This study provides strong and consistent support for an association between serum cumulative WHO(1998)-TEQ concentrations , at levels experienced by people residing in the vicinity of a polluting MSWI , and risk of NHL .

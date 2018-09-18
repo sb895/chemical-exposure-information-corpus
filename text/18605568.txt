@@ -1,0 +1,10 @@
+Daily PM2.5 samples were repeatedly collected ( 1-8 times ) in the homes of elderly nonsmoking individuals with coronary heart disease in Amsterdam , The Netherlands ( 33 individuals ) and Helsinki , Finland ( 44 individuals ) .
+Sources of indoor PM2.5 were evaluated using a two-way multilinear engine model .
+Because the indoor elemental data lacked a traffic marker , separation of traffic related PM was attempted by combining the indoor data with fixed site outdoor data that also contained NO .
+Six outdoor sources , including long-range transport ( LRT ) , urban mixture , oil combustion , traffic , sea-salt , and soil were identified , and three indoor sources were resolved : resuspension , potassium-rich and copper-rich sources .
+The average contribution of the indoor factors was 6% ( 1.1 microg m(-3) ) and 22% ( 2.4 microg m(-3) ) in Amsterdam and Helsinki , respectively .
+The highest longitudinal correlations between source-specific outdoor and indoor PM2.5 concentrations were found for LRT and urban mixture ; the median R was above 0.6 for most sources .
+The longitudinal correlations were lower in Helsinki than in Amsterdam .
+Indoor-generated PM2.5 was not related to ambient concentrations .
+We conclude that using outdoor and indoor data together improved the source apportionment of indoor PM2.5 .
+The results support the use of fixed site outdoor measurements in epidemiological time-series studies on outdoor air pollution .

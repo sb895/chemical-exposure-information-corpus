@@ -1,0 +1,7 @@
+A comprehensive search of studies describing bisphenol A ( BPA ) concentrations in drinking water and source waters ( i.e. , surface water and groundwater ) was conducted to evaluate the relevance of drinking water as a source of human exposure and risk .
+Data from 65 papers were evaluated from North America ( 31 ) , Europe ( 17 ) , and Asia ( 17 ) .
+The fraction of drinking water measurements reported as less than the detection limit is high ; 95% , 48% , and 41% , for North America , Europe , and Asia , respectively .
+The maximum quantified ( in excess of the detection limit ) BPA concentrations from North America , Europe , and Asia are 0.099 \u03bcg/l , 0.014 \u03bcg/l , and 0.317 \u03bcg/l .
+The highest quantified median and 95th percentile concentrations of BPA in Asian drinking water are 0.026 \u03bcg/l and 0.19 \u03bcg/l , while high detection limits restricted the determination of representative median and 95th percentile concentrations in North America and Europe .
+BPA in drinking water represents a minor component of overall human exposure , and compared with the lowest available oral toxicity benchmark of 16 \u03bcg/kg-bw/day ( includes an uncertainty factor of 300 ) gives margins of safety >1100 .
+Human biomonitoring data indicate that ingestion of drinking water represents <2.8% of the total intake of BPA .

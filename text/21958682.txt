@@ -1,0 +1,8 @@
+The concentrations of chemicals with suspected endocrine disrupting effect were measured in urine samples collected from 42 Japanese male partners of couples who had infertility consultation at a gynecology clinic in Tokyo .
+The urinary analytes included metabolites of 5 phthalate diesters , pyrethroid insecticide ( 3-phenoxybenzoic acid , 3-PBA ) and soy isoflavones ( daidzein and equol ) , and cadmium .
+The semen parameters ( semen volume , concentration and motility ) of the male subjects were examined at the clinic as a diagnostic screening .
+Multiple regression analysis using one of the semen parameters examined as dependent variable and urinary biomarkers with age , body mass index , abstinent period , alcohol drinking , smoking and consumption frequency of selected foods as independent variables .
+For sperm concentration , urinary mono-n-butyl phthalate was selected as a significant independent variable with positive beta , while urinary daidzein was with negative beta .
+Consumption frequency of coffee ( negative ) and fruits ( positive ) were also significant .
+For sperm motility , urinary 3-PBA was selected as significant with negative beta as well as detectability of equol and frequency of coffee consumption with negative beta while smoking was with positive beta .
+This pilot study suggested the pyrethroid exposure level and dietary habit ( coffee and soy products ) as a significant contributor to poorer semen quality .

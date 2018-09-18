@@ -1,0 +1,16 @@
+Soils are evaluated as a diagnostic tool of environmental conditions that influence health .
+The samples for this study are urban topsoil ( 0-2.5 cm depth ) samples ( n=4026 ) analyzed for Pb , Zn , and Cd by inductively coupled plasma-atomic emission spectrometry ( ICP-AES ) .
+The parent materials for New Orleans soils are derived from the Mississippi River , and alluvium from the Bonnet Carré Spillway ( n=31 ) serve as control samples for this study .
+The urban samples were stratified by census tract ( n=286 ) .
+Blood Pb ( BL ) levels of children </=6 years were also stratified by census tract and paired with soil Pb ( SL ) ( n=175 ) .
+A significant association ( P=1.2x10(-23) ) was found between median BL and median SL .
+The association was modeled by BL=3.06+0.33 ( SL)(0.5 ) ( correlation coefficient=0.69 between the modeled BL and the observed BL and P=3.5x10(-22) ) .
+A median SL threshold ( >/=310 microgram g(-1) and <310 microgram g(-1) ) for higher metal census tracts ( HMCTs ) and lower metal census tracts ( LMCTs ) , respectively , represents median BL exposures above and below 9 microgram dL(-1) .
+HMCTs and LMCTs were characterized by demographic and socioeconomic data .
+HMCTs are more likely ( P=4. 5x10(-6) ) inhabited by Blacks than by Whites .
+Of 13,803 children </=6 years in HMCTs , 75% are Black and 22% are White , with other making up the remaining 3% .
+In LMCTs , the Black to White children ratio is 50:50 .
+In HMCTs , socioeconomic indicators for Blacks are depressed compared to Whites .
+Zn and Cd are potentially phytotoxic in HMCTs .
+Children exhibit a steep rise in BL at SL <100 microgram g(-1) , and empirically , a safe SL for most children is around 80 microgram++ g(-1) .
+SL is a useful diagnostic tool , and curtailing SL may complement primary Pb prevention for children .

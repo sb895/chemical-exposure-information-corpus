@@ -1,0 +1,13 @@
+Postpartum scalp hair samples from 82 term-pregnancy mother/ neonate pairs were analyzed for their concentrations of zinc ( Zn ) , copper ( Cu ) , cadmium ( Cd ) , and lead ( Pb ) , using inductively coupled plasma-mass spectrometry .
+Maternal and neonatal Zn concentrations had geometric means ( and 99% confidence intervals ) of 122.5 microg/g ( 117.9--131.5 microg/g ) and 146.9 microg ( 141.5--156.7 microg/g ) respectively .
+Corresponding Cu values were 18.4 microg/g ( 17.6--23.8 microg/g ) and 6.7 microg/g ( 6.3--7.6 microg/g ) .
+Those of Cd were 0.49 microg/g ( 0.47--0.69 microg/g ) in the mothers and 0.57 microg/g ( 0.55--0.86 microg/g ) in the neonates .
+For Pb , they were 7.95 microg/g ( 7.60--9.32 microg/g ) and 4.56 microg/g ( 4.39--5.56 microg/g ) .
+Cigarette smoking , despite its relatively low prevalence ( 19.5% ) , was associated with lower Zn and higher Cd and Pb concentrations and in lower Zn/Cd and Zn/Pb molar concentration ratios .
+Smoking also altered interelemental relationships , particularly those of Zn with Cd and Pb and those between Cd and Pb .
+Smoking frequency appeared to show negative dose-response effects on maternal and neonatal Zn concentrations , Zn/Pb molar concentration ratios , and birth weight .
+Mothers with a history of oral contraceptive ( OC ) usage had significantly higher Cu concentrations and lower Zn/Cu molar concentration ratios than non users , with the highest Cu concentrations and lowest Zn/Cu values being associated with third-generation OCs .
+No similar effects were elicited in the respective neonatal Cu concentrations .
+Neither alcohol consumption nor prenatal supplementation with iron and/or folic acid had discernible effects on the maternal or neonatal elemental concentrations .
+The data from this study suggest that in a given population of term-pregnancy mothers and neonates , significant interindividual variations in hair trace element concentrations can occur , irrespective of commonality of general environment , and that lifestyle factors , including cigarette smoking and OC usage history , can be significant contributory factors to such variations .
+The data are discussed in relation to the effects of smoking-associated exposure to Cd and Pb exposure on Zn availability for placental transfer , as well as on the quantitative maternal Zn supply levels to the fetus resulting from the known tendency of smokers to have lower dietary intakes of Zn .

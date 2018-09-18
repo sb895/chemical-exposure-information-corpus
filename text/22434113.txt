@@ -1,0 +1,8 @@
+Soil and mine waste around historical gold mining sites may have elevated arsenic concentrations .
+Recent evidence suggests some systemic arsenic absorption by residents in the goldfields region of Victoria , Australia .
+Victorian Cancer Registry and geochemical data were accessed for an ecological geographical correlation study , 1984-2003 .
+Spatial empirical Bayes smoothing was applied when estimating standardised incidence ratios ( SIRs ) for cancers in 61 statistical local areas .
+The derived soil arsenic exposure metric ranged from 1.4 to 1857 mg/kg .
+Spatial autoregressive modelling detected increases in smoothed SIRs for all cancers of 0.05 ( 95% confidence interval ( CI ) , 0.02-0.08 ) and 0.04 ( 0.01-0.07 ) per 2.7-fold increase in the natural log-transformed exposure metric for males and females , respectively , in more socioeconomically disadvantaged areas ; for melanoma in males ( 0.05 ( 0.01-0.08 ) adjusted for disadvantage ) and females ( 0.05 ( 0.02-0.09 ) in disadvantaged areas ) .
+Excess risks were estimated for all cancers ( relative risk 1.21 ( 95% CI , 1.15-1.27 ) and 1.08 ( 1.03-1.14) ) , and melanoma ( 1.52 ( 1.25-1.85 ) and 1.29 ( 1.08-1.55) ) , for males and females , respectively , in disadvantaged areas in the highest quintile of the exposure metric relative to the lowest .
+Our findings suggest small but significant increases in past cancer risk associated with increasing soil arsenic in socioeconomically disadvantaged areas and demonstrate the robustness of this geospatial approach .

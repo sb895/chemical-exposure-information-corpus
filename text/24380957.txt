@@ -1,0 +1,11 @@
+BACKGROUND A recent meta-analysis suggested evidence for an effect of exposure to ambient air pollutants on risk of certain congenital heart defects .
+However , few studies have investigated the effects of traffic-related air pollutants with sufficient spatial accuracy .
+OBJECTIVES We estimated associations between congenital anomalies and exposure to traffic-related air pollution in Barcelona .
+METHOD Cases with non-chromosomal anomalies ( n = 2247 ) and controls ( n = 2991 ) were selected from the Barcelona congenital anomaly register between 1994 and 2006 .
+Land use regression models from the European Study of Cohorts for Air Pollution Effects ( ESCAPE ) , were applied to residential addresses at birth to estimate spatial exposure to nitrogen oxides and dioxide ( NOx , NO2 ) , particulate matter with diameter \u2264 10 \u03bcm ( PM10 ) , 10 \u03bcm-2.5 \u03bcm ( PMcoarse ) , \u2264 2.5 \u03bcm ( PM2.5 ) , and PM2.5 absorbance .
+Spatial estimates were adjusted for temporal trends using data from routine monitoring stations for weeks 3 to 8 of each pregnancy .
+Logistic regression models were used to calculate odds ratios ( OR ) for 18 congenital anomaly groups associated with an inter-quartile range ( IQR ) increase in exposure estimates .
+RESULTS In spatial and spatio-temporal exposure models we estimated statistically significant associations between an IQR increase in NO2 ( 12.2 \u03bcg/m(3) ) and coarctation of the aorta ( ORspatio-temporal = 1.15 ; 95%CI : 1.01 , 1.31 ) and digestive system defects ( ORspatio-temporal = 1.11 ; 95%CI : 1.00 , 1.23 ) , and between an IQR increase in PMcoarse ( 3.6 \u03bcg/m(3) ) and abdominal wall defects ( ORspatio-temporal = 1 .93 ; 95%CI : 1.37 , 2.73 ) .
+Other statistically significant increased and decreased ORs were estimated based on the spatial model only or the spatio-temporal model only , but not both .
+CONCLUSIONS Our results overall do not indicate an association between traffic-related air pollution and most groups of congenital anomalies .
+Findings for coarctation of the aorta are consistent with the previous meta-analysis .

@@ -1,0 +1,10 @@
+OBJECTIVES Serum levels of persistent organochlorine compounds may be predictive of their body burden , if adjusted by total serum lipids .
+Their value may be predicted by three different formulae , requiring only values of serum cholesterol and triglycerides .
+The study was aimed at : ( i ) evaluating the validity of these formulae ; ( ii ) evaluating the influence of different estimates on serum levels of lipid adjusted persistent organochlorine compounds .
+METHODS We determined the levels of cholesterol , triglycerides and phospholipids by enzymatic assays on serum samples from 121 subjects living in a polluted area of Northern Italy .
+On the same samples and on an additional set from 69 pregnant women of the same area , we determined also polychlorinated biphenyls , hexachlorobenzene and p,p'-dichlorodiphenyldichloroethylene .
+In women , analytes were determined also on adipose tissue samples .
+RESULTS Formulae provided results comparable to those obtained as sum of cholesterol , triglycerides and phospholipids .
+In women , we found highly significant relationships among lipid adjusted pollutant levels in serum and adipose tissue , independently from the used formula .
+CONCLUSIONS Formulae allow a valid adjustment of organochlorine compounds in serum .
+The algorithm proposed by Phillips et al. provides some slight advantage over the others , in terms of simplicity of use .

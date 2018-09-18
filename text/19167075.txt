@@ -1,0 +1,12 @@
+The south region of Sao Paulo city hosts the Guarapiranga dam , responsible for water supply to 25% of the city population .
+Their surroundings have been subject to intense and irregular occupation by people from very low socioeconomics classes .
+Measurements undertaken on sediment and particulate materials in the dam revealed concentrations of lead , copper , zinc and cadmium above internationally accepted limits .
+Epidemiological and toxicological studies undertaken by the World Health Organization in individuals exhibiting lead concentrations in blood , near or below the maximum recommended ( 10 microg dl(-1) ) , surprisingly revealed that toxic effects are more intense in individuals belonging to low socioeconomics classes .
+Motivated by these facts , we aimed at the investigation of chronic incorporation of lead , as well as the use of our BIOKINETICS code , which is based on an accepted ICRP biokinetics model for lead , in order to extrapolate the results from teeth to other organs .
+The focus of our data taking was children from poor families , living in a small , restrict and allegedly contaminated area in São Paulo city .
+Thus , a total of 74 human teeth were collected .
+The average concentration of lead in teeth of children 5 to 10 years old was determined by means of a high-resolution inductively coupled plasma mass spectrometer ( ICP-MS ) .
+For standardization of the measurements , an animal bone certified material ( H-Animal Bone ) , from the International Atomic Energy Agency , was analyzed .
+The amount of lead in children living in the surroundings of the dam , was approximately 40% higher than those from the control region , and the average lead concentration was equal to 1.3 microg g(-1) approximately .
+Grouping the results in terms of gender , tooth type and condition , it was concluded that a carious molar of boys is a much more efficient contamination pathway for lead , resulting in concentrations 70% higher than in the control region .
+We also inferred the average concentrations of lead in other organs of these children , by making use of our BIOKINETIC code .

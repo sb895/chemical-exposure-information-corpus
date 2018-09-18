@@ -1,0 +1,12 @@
+BACKGROUND Acrylamide has shown developmental and reproductive toxicity in animals , as well as neurotoxic effects in humans with occupational exposures .
+Because it is widespread in food and can pass through the human placenta , concerns have been raised about potential developmental effects of dietary exposures in humans .
+OBJECTIVES We assessed associations of prenatal exposure to dietary acrylamide with small for gestational age ( SGA ) and birth weight .
+METHODS This study included 50,651 women in the Norwegian Mother and Child Cohort Study ( MoBa ) .
+Acrylamide exposure assessment was based on intake estimates obtained from a food frequency questionnaire ( FFQ ) , which were compared with hemoglobin ( Hb ) adduct measurements reflecting acrylamide exposure in a subset of samples ( n = 79 ) .
+Data on infant birth weight and gestational age were obtained from the Medical Birth Registry of Norway .
+Multivariable regression was used to estimate associations between prenatal acrylamide and birth outcomes .
+RESULTS Acrylamide intake during pregnancy was negatively associated with fetal growth .
+When women in the highest quartile of acrylamide intake were compared with women in the lowest quartile , the multivariable-adjusted odds ratio ( OR ) for SGA was 1.11 ( 95% CI : 1.02 , 1.21 ) and the coefficient for birth weight was -25.7 g ( 95% CI : -35.9 , -15.4 ) .
+Results were similar after excluding mothers who smoked during pregnancy .
+Maternal acrylamide- and glycidamide-Hb adduct levels were correlated with estimated dietary acrylamide intakes ( Spearman correlations = 0.24 ; 95% CI : 0.02 , 0.44 ; and 0.48 ; 95% CI : 0.29 , 0.63 , respectively ) .
+CONCLUSIONS Lowering dietary acrylamide intake during pregnancy may improve fetal growth .

@@ -1,0 +1,15 @@
+BACKGROUND Whether dental amalgam fillings ( containing mercury ) are hazardous is a long-standing issue , with few epidemiological investigations .
+Allegations have particularly involved nervous system disorders , such as multiple sclerosis , Alzheimer's disease , and chronic fatigue syndrome .
+This retrospective cohort study , the largest of its kind , contained people in the New Zealand Defence Force ( NZDF ) between 1977 and 1997 .
+The NZDF has its own dental service , providing all personnel with regular and consistent treatment .
+Comprehensive treatment records are maintained and archived .
+METHODS Yearly dental treatment histories , including amalgam filling placements , were compiled from individual records .
+To minimize amalgam exposure misclassification the cohort was restricted to people who , at NZDF entry , were aged <26 years and had all their posterior teeth .
+The cohort was linked with morbidity records .
+Data were analysed with a proportional hazards model , using a time-varying exposure unit of 100 amalgam surface-years .
+RESULTS The final cohort contained 20 000 people , 84% males .
+Associations with medical diagnostic categories , particularly disorders of the nervous system and kidney , were examined .
+Of conditions allegedly associated with amalgam , multiple sclerosis had an adjusted hazard ratio ( HR ) of 1.24 ( 95% CI : 0.99 , 1.53 , P = 0.06 ) , but there was no association with chronic fatigue syndrome ( HR = 0.98 , 95% CI : 0.94 , 1.03 ) , or kidney diseases .
+There were insufficient cases for investigation of Alzheimer's or Parkinson's diseases .
+CONCLUSIONS Results were generally reassuring , and provide only limited evidence of an association between amalgam and disease .
+Further follow-up of the cohort will permit investigation of diseases more common in the elderly .

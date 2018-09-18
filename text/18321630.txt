@@ -1,0 +1,9 @@
+The aim of this study was to examine levels of PBDEs in breast milk associated with seafood consumptions of Taiwanese mothers .
+Our participants were selected from healthy women recruited between December 2000 and November 2001 from a medical center in central Taiwan .
+The congeners of PBDEs in 20 milk samples were analyzed by a gas chromatograph with a high resolution mass detector .
+The mean level of BDE47 in breast milk from mothers with pre-pregnant BMI <22.0kg/m2 had a significantly higher magnitude compared to those with pre-pregnant BMI > or = 22.0kg/m2 ( 1.59 vs. 0.995ng/g lipid , p=0.041 ) .
+We did not find significant correlations between PBDEs exposure levels and women's age , parity , blood pressure , annual household income , and education level .
+Women who ate more fish and meat did not show significantly higher PBDE levels than those who ate less , but a significant difference in PBDE levels was demonstrated between the higher ( 2.15ng/g lipid ) and lower ( 3.98ng/g lipid ) shellfish consuming subjects ( p=0.002 ) after an adjustment for the confounders .
+The ratios of PCB153/BDE47 , PCB153/BDE153 , and PCB153/PBDEs were significantly correlated with frequent consumption of fish and shellfish .
+The PCB153/BDE153 ratio was not associated with the other dietary habits ( i.e. meat ) .
+The ratios of PCB153/PBDEs may therefore be a new indicator for exposure as a result of seafood consumption .

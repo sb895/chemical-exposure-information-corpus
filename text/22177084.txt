@@ -1,0 +1,6 @@
+We investigate the relationship between maternal exposure to benzene and birth weight outcomes for resident births in the United States in 1996 and 1999 , taking advantage of a natural experiment afforded by the regulation of benzene content of gasoline in various American cities .
+Regression results show that a unit increase ( \u03bcg/m(3) ) in maternal exposure to benzene reduces birth weight by 16.5 g ( 95% CI , 17.6 to 15.4 ) .
+A unit increase in benzene exposure increases the odds of a low birth weight event by 7% .
+Similarly , a 1 \u03bcg/m(3) increase in benzene concentration increases the odds of very low birth weight event by a multiplicative factor of 1.23 ( 95% CI , 1.19 to 1.28 ) .
+Difference-in-differences analyses show that birth weight increased by 13.7 g ( 95% CI , 10.7 to 16.8 ) and the risk of low birth weight decreased by a factor of .95 ( 95% CI , .93 to .98 ) in counties experiencing a 25% decline in benzene concentrations from 1996 to 1999 .
+Public health policy and economic implications of results are discussed .

@@ -1,0 +1,8 @@
+BACKGROUND Results from a 1990-1992 longitudinal study of several reinforced plastics plants showed that for those workers whose styrene exposure had decreased , color vision ( CV ) improved ; while near visual contrast sensitivity ( CS ) was poorer .
+METHODS In 1999 , we retested these visual functions in 18 workers with good visual acuity .
+A cumulative exposure index ( CEI ) , corrected for respirator use , was calculated for each worker .
+RESULTS Intra-individual comparison of mandelic acid ( MA ) showed a significant decrease over time ( Friedman ; P = 0.015 ) , but current values were not related to CEI .
+For CV , no significant difference was observed between 1992 and 1999 ; present results were not related to MA or CEI .
+The CS profile decreased over time , with significant differences at 3 cpd ( Friedman ; P < 0.05 ) .
+CS did not vary with MA levels , but was significantly depressed at the intermediate frequencies among those in the upper CEIH category ( Kruskal-Wallis ; P < 0.05 ) .
+CONCLUSIONS These findings suggest that CS loss increases with long-term cumulative exposure , reflecting chronic damage to the neuro-optic pathways .

@@ -1,0 +1,11 @@
+BACKGROUND Little is known about the effects of organic solvents on male reproductive health .
+To assess fertility and reproductive endocrine function in solvent-exposed men , we investigated time-to-pregnancy using a retrospective cohort design and cross-sectionally measured reproductive hormone concentrations in painters and millwrights compared to a reference group of carpenters .
+METHODS Detailed occupational , exposure , medical , and time-to-pregnancy histories were obtained by telephone interview .
+Plasma luteinizing hormone ( LH ) , follicle-stimulating hormone ( FSH ) , and testosterone concentrations were determined by immunoassay .
+Exposure indices , which summarized working life exposure to total solvents , chlorinated solvents , aromatic solvents , and thinners , degreasers , varnishes , and adhesives as a category were calculated from exposure histories .
+RESULTS FSH concentrations increased significantly with increasing exposure indices for all solvents and for chlorinated solvents .
+There were no significant associations of solvent exposure indices with LH or testosterone levels .
+LH , FSH , and testosterone concentrations also did not differ by job title .
+Using Cox regression , time-to-pregnancy was non-significantly longer in the painters and millwrights than the carpenters .
+There was no significant association between time-to-pregnancy and any of the solvent exposure indices ; however , it should be noted that some of the pregnancies occurred more than 20 years previously , potentially reducing the reliability of the retrospectively collected pregnancy and exposure data .
+CONCLUSIONS The significant associations between FSH levels and solvent exposure indices suggest the potential for adverse effects of solvent exposures on reproductive function in men .

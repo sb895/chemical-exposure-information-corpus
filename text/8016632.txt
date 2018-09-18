@@ -1,0 +1,7 @@
+From a population of 8918 farmers , 237 were selected whose consumption of locally produced foods was high .
+The subjects ' water sources , private wells , were of different degrees of acidity .
+Significant associations between pH ( median 6.7 , range 4.7-8.6 ) of the drinking water and element concentrations were found .
+The correlation was negative for aluminium ( Al ; median 0.07 mumol/l ) , cadmium ( Cd ; 0.44 nmol/l ) , copper ( Cu ; 0.24 mumol/l ) and lead ( Pb ; 1.9 nmol/l ) , and positive for calcium ( Ca ; 0.62 mmol/l ) and magnesium ( Mg ; 0.21 mmol/l ) .
+Associations could not be found between the pH of , or element concentrations in , the water and concentrations of A1 ( 0.17 mumol/l ) , Mg ( 0.86 mmol/l ) and selenium ( Se ; 1.0 mumol/l ) in plasma , Cd ( 2.0 nmol/l ) , Pb ( 0.19 mumol/l ) and mercury ( Hg ; 13 nmol/l ) in blood , or A1 ( 12 mumol/mol creatinine ) and Cu ( 11 mumol/mol creatinine ) in urine .
+The concentrations of Hg in blood and Se in plasma were related to fish consumption , Cd and Pb in blood to smoking , A1 in urine to antacid intake , Pb in blood to rifle activities and hunting , and Hg in blood to hunting .
+Acid precipitation has an effect on element concentrations in drinking water , but not on the retention of those elements in the subjects investigated .

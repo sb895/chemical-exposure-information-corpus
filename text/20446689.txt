@@ -1,0 +1,9 @@
+This paper presents a comprehensive study of polychlorinated biphenyl ( PCB ) levels and homologue profiles in human adipose tissues among residents of Southeast China .
+A large number of samples ( n = 303 ) were selected for a number of PCB congeners ( n = 62 ) which were analyzed by highly sensitive gas chromatography-tandem mass spectrometry ( GC-MS/MS ) .
+The total mean PCB concentrations were 27.2 microg/kg fat ( n = 159 ) in Anhui Province and 17.2 microg/kg fat ( n = 144 ) in Jiangsu Province .
+A significant correlation was observed between age and PCB levels but not found between gender and PCB levels .
+The relationship between the environmental contaminant levels and the PCB concentration in adipose tissue was also investigated .
+It was found that the higher PCB concentrations in human adipose tissue were associated with the higher environmental PCB levels in the corresponding regions .
+The PCB homologue profiles of the human adipose tissue in China are different from those in the world , similarly to the different PCB homologue pattern between Chinese and global soils .
+The concept of the urban fractionation effect in the environment may be applicable to explain the PCB homologue profiles and PCB levels in the human adipose tissues collected from different provinces in China .
+The data presented in this study can provide useful information on human exposures to PCBs in the general population of Southeast China .

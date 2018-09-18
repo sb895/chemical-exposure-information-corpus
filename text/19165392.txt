@@ -1,0 +1,12 @@
+BACKGROUND Phthalates are ubiquitous in the environment , but concentrations in multiple media from breast-feeding U.S. women have not been evaluated .
+OBJECTIVES The objective of this study was to accurately measure and compare the concentrations of oxidative monoester phthalate metabolites in milk and surrogate fluids ( serum , saliva , and urine ) of 33 lactating North Carolina women .
+METHODS We analyzed serum , saliva , urine , and milk for the oxidative phthalate metabolites mono(3-carboxypropyl) phthalate , mono(2-ethyl-5-carboxypentyl) phthalate ( MECPP ) , mono(2-ethyl-5-hydroxyhexyl) phthalate , and mono(2-ethyl-5-oxohexyl) phthalate using isotope-dilution high-performance liquid chromatography tandem mass spectroscopy .
+Because only urine lacks esterases , we analyzed it for the hydrolytic phthalate monoesters .
+RESULTS We detected phthalate metabolites in few milk ( < 10% ) and saliva samples .
+MECPP was detected in > 80% of serum samples , but other metabolites were less common ( 3-22% ) .
+Seven of the 10 urinary metabolites were detectable in > or = 85% of samples .
+Monoethyl phthalate had the highest mean concentration in urine .
+Metabolite concentrations differed by body fluid ( urine > serum > milk and saliva ) .
+Questionnaire data suggest that frequent nail polish use , immunoglobulin A , and fasting serum glucose and triglyceride levels were increased among women with higher concentrations of urinary and/or serum phthalate metabolites ; motor vehicle age was inversely correlated with certain urinary phthalate concentrations .
+CONCLUSIONS Our data suggest that phthalate metabolites are most frequently detected in urine of lactating women and are less often detected in serum , milk , or saliva .
+Urinary phthalate concentrations reflect maternal exposure and do not represent the concentrations of oxidative metabolites in other body fluids , especially milk .

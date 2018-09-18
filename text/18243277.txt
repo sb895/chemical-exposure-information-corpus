@@ -1,0 +1,12 @@
+Metal pollution and its health effects present a challenge currently facing the developing countries .
+Metal poisoning is usually difficult and expensive to assess or screen in these countries due to limited resources , which means that policies , guidelines , regulations and institutional managements are limited .
+Hair and nail as biopsy materials were suggested as more attractive biomarkers in assessing heavy metals environmental exposure .
+This paper deals with quantitative determination of lead ( Pb ) , cadmium ( Cd ) , calcium ( Ca ) , zinc ( Zn ) , and iron ( Fe ) in fingernails of children ( n=200 ) in urban and rural areas using atomic absorption spectrometry .
+Factors that were suspected to influence the accumulation of Pb and Cd in children were obtained through a questionnaire .
+The mean levels of heavy metals in children in urban areas were found to be higher ( 27.5+/-1.8 microg/g Pb and 0.73+/-0.08 microg/g Cd ) than in rural areas ( 19.7+/-0.9 microg/g Pb and 0.44+/-0.06 microg/g Cd ) .
+The difference was significant ( P<0.05 ; DF=168 , t-test ) .
+Other factors that were found to have significant influence were socio-economic background , health conditions , dietary habits and environmental risk exposure .
+The results also showed that the school location has more influence on the heavy metals level than the area of residence .
+The children in a school near the highway were found to have a mean of 34.4+/-3.5 microg/g Pb as compared to those who lived near the highway ( 31.6+/-2.8 microg/g Pb ) , however the difference was not significant ( P>0.05 ) , suggesting a common source of contaminants in the areas .
+The correlation results also indicated that a high level of Pb in the nail influenced negatively Zn and Fe but not Ca levels ( R=-0.256 Zn ; -0.188 Fe ) while high levels of Cd had a negative relationship with Fe only ( R=-0.241 ) .
+The association of toxic metals in the nails of children with environmental exposure , and nutritional status implies that policies and actions to reduce heavy metal levels must be implemented and reinforced to address the health issues affecting children and by extension the general public in this country .

@@ -1,0 +1,10 @@
+Phthalates are industrial chemicals widely used in many commercial applications .
+The general population is exposed to phthalates through consumer products as well as through diet and medical treatments .
+To determine whether environmental levels of phthalates are associated with altered DNA integrity in human sperm , we selected a population without identified sources of exposure to phthalates .
+One hundred sixty-eight subjects recruited from the Massachusetts General Hospital Andrology Laboratory provided a semen and a urine sample .
+Eight phthalate metabolites were measured in urine by using high-performance liquid chromatography and tandem mass spectrometry ; data were corrected for urine dilution by adjusting for specific gravity .
+The neutral single-cell microgel electrophoresis assay ( comet assay ) was used to measure DNA integrity in sperm .
+VisComet image analysis software was used to measure comet extent , a measure of total comet length ( micrometers ) ; percent DNA in tail ( tail% ) , a measure of the proportion of total DNA present in the comet tail ; and tail distributed moment ( TDM ) , an integrated measure of length and intensity ( micrometers ) .
+For an interquartile range increase in specific gravity-adjusted monoethyl phthalate ( MEP ) level , the comet extent increased significantly by 3.6 micro m [ 95% confidence interval ( 95% CI ) , 0.74-6.47 ] ; the TDM also increased 1.2 micro m ( 95% CI , -0.05 to 2.38 ) but was of borderline significance .
+Monobutyl , monobenzyl , monomethyl , and mono-2-ethylhexyl phthalates were not significantly associated with comet assay parameters .
+In conclusion , this study represents the first human data to demonstrate that urinary MEP , at environmental levels , is associated with increased DNA damage in sperm .

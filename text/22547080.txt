@@ -1,0 +1,12 @@
+OBJECTIVES The methyltransferase genotype and pregnancy both influence the arsenic metabolism phenotype , but it is unknown whether these factors interact , explaining the drastic changes in the efficiency of arsenic metabolism observed among pregnant women .
+The aim of this study was to evaluate the relative contribution of the methyltransferase genotype and pregnancy to the arsenic metabolism phenotype .
+METHODS We studied longitudinally the arsenic metabolite pattern in urine ( at approximately gestational weeks 8 , 14 , and 30 ) of 303 women exposed to arsenic through drinking water and food in rural Bangladesh .
+Urinary arsenic metabolites were measured by high-performance liquid chromatography-inductively coupled plasma mass spectrometry .
+Data were available on genotypes for 16 polymorphisms , combined as haplotypes , in three methyltransferases : arsenic(+III)methyltransferase ( AS3MT ) and DNA-methyltransferases 1a and 3b ( DNMT1a and DNMT3b ) .
+Changes in the arsenic metabolite pattern over time were evaluated by haplotype using logistic quantile regression .
+RESULTS All four AS3MT haplotypes and all three DNMT1a haplotypes significantly influenced the metabolite pattern in the pregnant women , with consistent effects of genotype over the entire course of pregnancy .
+No interaction was found between the haplotypes and pregnancy-related changes in the arsenic metabolism phenotype .
+DNMT3b haplotypes did not significantly influence the metabolite pattern .
+We observed a pregnancy-attributable decrease of 5.7% in the most risk-associated monomethylated metabolite , methylarsonic acid , whereas changes between 1.6 and 5.3% of methylarsonic acid could be attributed to haplotypes of AS3MT and DNMT1a .
+CONCLUSION Independent of the genotype , the efficiency of arsenic methylation increased markedly over the course of pregnancy .
+The effect of pregnancy on the metabolite pattern during the observational period was greater than the effect of genotype .

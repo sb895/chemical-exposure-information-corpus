@@ -1,0 +1,14 @@
+This study measured inhalation exposure to 13 volatile organic compounds ( VOCs ) among workers in the leatherwear industry in Spain , examined the changes in those exposures over a 5-year period , and documented local exhaust ventilation practices that affected exposure .
+In collaboration with an occupational risk prevention company , air samples were collected from 849 workers ' personal breathing zones using personal air pumps with activated charcoal tubes .
+VOCs were analyzed using a GC/MS-optimized method modified in our laboratory from that proposed by Spanish authorities ( INSHT ) .
+Airborne concentrations were compared with occupational exposure limit ( OEL ) values from the European authorities .
+The most frequently detected VOCs were acetone ( 98.1% ) , toluene ( 94.8% ) , n-hexane ( 71.2% ) and other C6-C7 branched alkyl hydrocarbons ( 97.5% ) .
+Other frequently detected VOCs were MEK ( 64.9% ) , ethylacetate ( 60.7% ) , and cyclohexane ( 29.3% ) .
+Benzene was detected in 24.6% of samples .
+Although all the samples were taken while workers performed tasks judged to have the highest VOC exposure potential , only 14% of samples showed excessive aggregate exposure , and chemical-specific OELs were exceeded in a relatively small number of cases : 7.2% for n-hexane , 2.8% for toluene , 0.6% for acetone , and 0.4% for hexane isomers .
+Over the study period , a diminished use of n-hexane in solvent formulations and an increased use of branched hexane and heptane isomers were observed .
+Six factors relating to work location conditions and types were evaluated .
+Most high-exposure cases were associated with three task types .
+The presence of local exhaust ventilation was an important exposure control , but significant exposures despite the use of local exhaust were observed .
+Although n-hexane exposures significantly decreased over the study period , the overall level of VOC exposure did not decrease .
+More effective exposure prevention measures need to be implemented .

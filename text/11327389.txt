@@ -1,0 +1,15 @@
+Our previous research ( Soleo L , Vacca A , Vimercati L et al .
+Occup Environ Med 1997;54:437-442 ) showed a reduction in tumor necrosis factor-alpha ( TNF-alpha ) serum levels in workers with prolonged exposure to low doses of inorganic mercury , suggesting an in vivo functional defect of the monocyte-macrophage system .
+On this basis , here we wondered whether workers exposed to lower doses of metallic mercury displayed possible changes in the monocyte-macrophage system .
+In this particular cohort of workers , we also sought for the effects of the exposure on the polymorphonuclear leukocytes ( PMNL ) chemotaxis .
+The monocyte-macrophage system and the natural killer ( NK ) cells were examined in 19 exposed workers and in 25 unexposed workers , as the control group ( controls ) .
+Specifically , the circulating monocyte-macrophage cells and their CD13 , CD15 and CD33 subsets , serum cytokines ( IL-8 , GM-CSF and TNF-alpha ) and the NK cells were analyzed .
+In seven exposed and seven controls randomly chosen workers the PMNL chemotaxis was also assessed .
+The selected indicator of mercury exposure were the levels of mercury in the urine ( U-Hg ) , that was significantly higher in exposed workers than the controls ( 9.7 +/- 5.5 microg/l and 2.4 +/- 1.2 microg/l , respectively ) .
+None of the exposed workers had shown signs of either acute or chronic inorganic mercury toxicity or any form of hypersensitivity .
+Several immunological variables tested , monocyte-macrophage cells and their subsets , NK cells and serum cytokines overlapped between the exposed and the control workers .
+When the workers were considered as a whole ( exposed plus controls ) , no correlation was found between current U-Hg and all immunological parameters .
+However , when exposed workers were studied separately , an inverse correlation was disclosed between cumulative U-Hg and cells ( as percentage ) expressing the CD13 ( r = -0.599 ; P = 0.007 ) and CD15 ( r = -0.614 ; P = 0.005 ) molecules , and NK cells ( r = -0.455 ; P = 0.05 ) .
+Moreover , a significant impairment in the PMNL chemotaxis ( t = 3.70 ; P = 0.003 ) was observed in the exposed workers .
+The results of our study suggest that the exposure to very low levels of metallic mercury led to subtle impairment of circulating monocyte and NK cells ( as percentages ) according to the increase in U-Hg levels , as well as of the PMNL chemotactic function in this particular group of workers , even though they remain clinically asymptomatic .
+Therefore , we suggest that impairment of these parameters provide a sensitive indicator of metallic mercury and other chemical contaminants present in the environment .

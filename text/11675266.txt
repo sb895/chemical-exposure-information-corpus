@@ -1,0 +1,13 @@
+Arsenic is a notorious environmental toxicant known as both a carcinogen and an atherogen in human beings , but the pathogenic mechanisms are not completely understood .
+In cell culture studies , trivalent arsenic enhanced oxidative stress in a variety of mammalian cells , and this association may be closely associated with the development of arsenic-related diseases .
+To investigate the effect of arsenic exposure on oxidative stress in humans , we conducted a population study to determine the relationships of blood arsenic to reactive oxidants and antioxidant capacity at the individual level .
+We recruited 64 study subjects ages 42-75 years from residents of the Lanyang Basin on the northeast coast of Taiwan , where arsenic content in well water varies from 0 to > or = 3,000 microg/L .
+We used a chemiluminescence method , with lucigenin as an amplifier for measuring superoxide , to measure the plasma level of reactive oxidants .
+We used the azino-diethyl-benzthiazoline sulphate method to determine the antioxidant capacity level in plasma of each study subject .
+We determined arsenic concentration in whole blood by hydride formation with an atomic absorption spectrophotometer .
+The average arsenic concentration in whole blood of study subjects was 9.60 +/- 9.96 microg/L ( +/- SD ) with a range from 0 to 46.50 microg/L .
+The level of arsenic concentration in whole blood of study subjects showed a positive association with the level of reactive oxidants in plasma ( r = +0.41 , p = 0.001 ) and an inverse relationship with the level of plasma antioxidant capacity ( r = -0.30 , p = 0.014 ) .
+However , we found no significant association ( p = 0.266 ) between levels of plasma reactive oxidants and antioxidant capacity .
+Our results also show that the lower the primary arsenic methylation capability , the lower the level of plasma antioxidant capacity ( p = 0.029 ) .
+These results suggest that ingestion of arsenic-contaminated well water may cause deleterious effects by increasing the level of reactive oxidants and decreasing the level of antioxidant capacity in plasma of individuals .
+Persistent oxidative stress in peripheral blood may be a mechanism underlying the carcinogenesis and atherosclerosis induced by long-term arsenic exposure .

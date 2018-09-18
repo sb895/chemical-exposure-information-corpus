@@ -1,0 +1,10 @@
+Risk assessments often do not quantify the risk associated with soil inhalation .
+This pathway generally makes a negligible contribution to the cumulative risk , because soil ingestion is typically the dominant exposure pathway .
+Conditions in northern or rural centers in Canada characterized by large areas of exposed soil , including unpaved roads , favor the resuspension of soil particles , making soil inhalation a relevant risk pathway .
+The authors determined and compared human exposure to metals and polycyclic aromatic hydrocarbons ( PAHs ) from soil ingestion and inhalation and analyzed the carcinogenic and noncarcinogenic risks before and after roads were paved in a northern community .
+To determine the inhalation exposure , three size fractions of airborne particulate matter were collected ( total suspended particulates [ TSP ] , particulate matter with an aerodynamic diameter less than 10 µm [ PM10 ] , and particulate matter with an aerodynamic diameter less than 2.5 µm [ PM2.5] ) before and after roads were paved .
+Road paving reduced the concentration of many airborne contaminants by 25 to 75% , thus reducing risk .
+For example , before paving , the carcinogenic risk associated with inhalation of Cr was 3.4 excess cancers per 100,000 people exposed , whereas after paving , this risk was reduced to 1.6 in 100,000 .
+Paving roads reduced the concentrations of total suspended particulates ( TSP ; p\u2009<\u20090.1 ) and PM10 ( p\u2009<\u20090.05 ) but not PM25 .
+Consequently , the ingestion of inhaled soil particles was substantially reduced .
+The authors conclude that resuspended soil is likely an important source of risk for many northern communities and that paving roads is an effective method of reducing risk from the inhalation of soil particles .

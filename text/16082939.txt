@@ -1,0 +1,9 @@
+Polybrominated diphenyl ether ( PBDE ) body burdens in North America are 20 times that of Europeans and some " high accumulation " individuals have burdens up to 1-2 orders of magnitude higher than median values , the reasons for which are not known .
+We estimated emissions and fate of sigma PBDEs ( minus BDE-209 ) in a 470 km2 area of Toronto , Canada , using the Multi-media Urban Model ( MUM-Fate ) .
+Using a combination of measured and modeled concentrations for indoor and outdoor air , soil , and dust plus measured concentrations in food , we estimated exposure to sigma PBDEs via soil , dust , and dietary ingestion and indoor and outdoor inhalation pathways .
+Fate calculations indicate that 57-85% of PBDE emissions to the outdoor environment originate from within Toronto and that the dominant removal process is advection by air to downwind locations .
+Inadvertent ingestion of house dust is the largest contributor to exposure of toddlers through to adults and is thus the main exposure pathway for all life stages other than the infant , including the nursing mother , who transfers PBDEs to her infant via human milk .
+The next major exposure pathway is dietary ingestion of animal and dairy products .
+Infant consumption of human milk is the largest contributor to lifetime exposure .
+Inadvertent ingestion of dust is the main exposure pathway for a scenario of occupational exposure in a computer recycling facility and a fish eater .
+Ingestion of dust can lead to almost 100-fold higher exposure than " average " for a toddler with a high dust intake rate living in a home in which PBDE concentrations are elevated .

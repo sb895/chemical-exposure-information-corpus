@@ -1,0 +1,4 @@
+This study analyzes the relationship between arsenic exposure through drinking water and bladder cancer mortality .
+The county-specific white male bladder cancer mortality data ( 1950-1979 ) and county-specific groundwater arsenic concentration data were obtained for 133 U.S. counties known to be exclusively dependent on groundwater for their public drinking water supply .
+No arsenic-related increase in bladder cancer mortality was found over the exposure range of 3 to 60 microg/L using stratified analysis and regression analyses ( both unweighted and weighted by county population and using both mean and median arsenic concentrations ) .
+These results , which provide a direct estimate of arsenic-related cancer risk for U.S. residents , exclude the National Research Council's 2001 risk estimate that was based on Southwest Taiwan data and required adjusting for differences between the body mass and water consumption rates of U.S. and Taiwanese residents .

@@ -1,0 +1,12 @@
+BACKGROUND Over 3000 older homes containing lead-based paint are demolished in Chicago each year .
+While previous studies investigating large multifamily housing demolitions have shown high levels of lead in dustfall , dispersed single-family housing demolition have yet to be assessed .
+Presently , no standards exist to regulate the extent of lead dustfall from housing demolition .
+OBJECTIVES We studied ten residences in Chicago undergoing demolition and debris removal and compared dustfall rates to five standing homes from March to October 2006 .
+METHODS Dustfall was measured using a modification of APHA Method 502 ; samplers consisted of plastic buckets filled with 1l of deionized water , elevated to breathing zone height and placed around the demolition site perimeter .
+Laboratory analysis consisted of filtration , acid digestion and analysis by ICP/MS .
+RESULTS During demolition , the geometric mean lead dustfall ( n=43 at 10 locations ) was 64.1 microgPb/m(2)/h ( range : 1.3-3902.5 ) , while the geometric mean lead dustfall for areas with no demolition ( n=18 at 6 locations ) was 12.9 microgPb/m(2)/h ( range : 1.8-54.5 ) .
+This difference was highly statistically significant ( p=0.0004 ) .
+When dust suppression measures were used , dustfall lead levels were lower , although the difference was not statistically significant .
+The geometric mean lead dustfall with dust suppression ( n=25 at five locations ) and without ( n=22 at six locations ) was 48 Pbmicrog/m(2)/h and 74.6 microgPb/m(2)/h , respectively .
+CONCLUSION Demolition dustfall lead levels are much higher than background levels of lead during demolition of single-family housing and may constitute a yet uncharacterized but important source of lead exposure to nearby residents .
+Simple dust suppression methods are likely to reduce the contamination considerably .

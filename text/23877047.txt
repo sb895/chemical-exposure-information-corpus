@@ -1,0 +1,11 @@
+BACKGROUND Traffic-related exposures , such as air pollution and noise , have been associated with increased cardiovascular morbidity and mortality .
+Few studies , however , have been able to examine the effects of changes in exposure on changes in risk .
+Our objective was to explore the associations of changes in traffic exposure with changes in risk between 1990 and 2008 in the Nurses ' Health Study .
+METHODS Incident myocardial infarction ( MI ) and all-cause mortality were prospectively identified .
+As a proxy for traffic exposure , we calculated residential distance to roads at all residential addresses 1986-2006 and considered addresses to be " close " or " far " based on distance and road type .
+To examine the effect of changes in exposure , each consecutive pair of addresses was categorized as : ( 1 ) consistently close , ( 2 ) consistently far , ( 3 ) change from close to far , and ( 4 ) change from far to close .
+We also examined the change in NO2 levels between address pairs .
+RESULTS In time-varying Cox proportional hazards models adjusted for a variety of risk factors , women living at residences consistently close to traffic were at a higher risk of an incident MI ( hazard ratio [ HR ] = 1.11 ; 95% confidence interval [ CI ] = 1.01-1.22 ) and a higher risk of all-cause mortality ( 1.05 ; 1.00-1.10 ) , compared with those consistently far .
+The highest risks were seen among women who moved from being far from traffic to close ( incident MI : HR = 1.50 [ 95% CI = 1.11-2.03 ] ; all-cause mortality : HR = 1.17 [ 95% CI = 1.00-1.37] ) .
+Each 1 ppb increase in NO2 compared with the previous address was associated with a HR = 1.22 for incident MI ( 95% CI = 0.99-1.50 ) and 1.03 for all-cause mortality ( 95% CI = 0.92-1.15 ) .
+CONCLUSIONS Our results suggest that changes in traffic exposure ( measured as roadway proximity or change in NO2 levels ) are associated with changes in risk of MI and all-cause mortality .

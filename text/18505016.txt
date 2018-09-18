@@ -1,0 +1,8 @@
+Persistent organic pollutants ( POPs ) were detected in 88 maternal adipose tissue samples collected during year 2004 to 2006 , in Singapore .
+Organochlorine pesticides ( OCPs ) were the most dominant followed by polychlorinated biphenyls ( PCBs ) and polybrominated diphenyl ethers ( PBDEs ) .
+Multivariate data analyses ( MVA ) including principal component analysis ( PCA ) , partial least-squares regression ( PLSR ) , and partial least-squares discriminant analysis ( PLS-DA ) were applied to elucidate the relationship between concentrations of POPs in adipose tissues and donors ' characteristics .
+Food consumption played the most significant role in accounting for levels of POPs in adipose tissue .
+Fish and poultry consumption was the route of PCBs and PBDEs in mothers in Singapore , while beta-HCH came mainly from vegetables .
+An age-dependent accumulation of POPs was found for beta-HCH and PCB congeners , and lactation and gestation functioned as a decontamination processes for PCBs in adipose tissue .
+Gestational diabetes mellitus ( GDM ) may change the profile of POPs in adipose tissue , probably due to an alteration in lipid metabolism .
+POPs investigated here may not be the cause of antenatal complication in pregnant women , and baby gender was not related to the pattern of contaminants in maternal adipose tissue .

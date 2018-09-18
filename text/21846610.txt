@@ -1,0 +1,9 @@
+BACKGROUND Dozens of studies link acute exposure to particulate matter ( PM ) air pollution with premature mortality and morbidity , but questions remain about which species and sources in the vast PM mixture are responsible for the observed health effects .
+Although a few studies exist on the effects of species and sources in U.S. cities , European cities-which have a higher proportion of diesel engines and denser urban populations-have not been well characterized .
+Information on the effects of specific sources could aid in targeting pollution control and in articulating the biological mechanisms of PM .
+OBJECTIVES Our study examined the effects of various PM sources on daily mortality for 2003 through 2007 in Barcelona , a densely populated city in the northeast corner of Spain .
+METHODS Source apportionment for PM \u2264 2.5 \u03bcm and \u2264 10 µm in aerodynamic diameter ( PM2.5 and PM10 ) using positive matrix factorization identified eight different factors .
+Case-crossover regression analysis was used to estimate the effects of each factor .
+RESULTS Several sources of PM2.5 , including vehicle exhaust , fuel oil combustion , secondary nitrate/organics , minerals , secondary sulfate/organics , and road dust , had statistically significant associations ( p < 0.05 ) with all-cause and cardiovascular mortality .
+Also , in some cases relative risks for a respective interquartile range increase in concentration were higher for specific sources than for total PM2.5 mass .
+CONCLUSIONS These results along with those from our multisource models suggest that traffic , sulfate from shipping and long-range transport , and construction dust are important contributors to the adverse health effects linked to PM .

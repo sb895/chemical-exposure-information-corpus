@@ -1,0 +1,11 @@
+BACKGROUND To evaluate associations between exposure to disinfection byproducts in drinking water and adverse birth outcomes , personal exposure to disinfection byproducts must take into consideration multiple routes of exposure .
+METHODS We assessed the reproducibility and validity of a questionnaire measuring water consumption , showering and bathing habits , use of chlorine-based products , and swimming pool attendance in 237 pregnant Italian women enrolled between June and December 1999 .
+The questionnaire was completed during the last trimester of pregnancy ( preQ ) and again a few days after delivery ( postQ ) .
+Data from postQ were compared with a 7-day diary completed during the last trimester .
+RESULTS According to postQ , total water intake was 2.6 liters per day , whereas tap water intake was 0.6 liters per day .
+Intraclass correlation coefficients of postQ compared with preQ were 0.85 for tap water daily intake and 0.77 for duration of showering and bathing .
+Pearson's correlation coefficients were 0.84 for tap water daily intake , 0.81 for frequency of showering , and 0.94 for bathing .
+The kappa statistics were 0.76 ( 95% confidence limits = 0.68 , 0.85 ) for use of domestic chlorine-based products and 0.82 ( 0.70 , 0.94 ) for indoor swimming .
+Pearson's coefficients for postQ compared with the diary were 0.78 for tap water daily intake , 0.62 for frequency of showering , and 0.64 for bathing .
+Compared with the diary , the sensitivity and specificity of postQ in assessing indoor swimming were 75% and 90% , respectively .
+CONCLUSIONS The questionnaire appears to be a valid and reliable method for assessing exposure to disinfection byproducts in the last trimester of pregnancy .

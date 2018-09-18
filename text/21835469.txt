@@ -1,0 +1,10 @@
+OBJECTIVES In animal experiments , persistent organic pollutants ( POPs ) have induced visceral obesity .
+To address this possibility in humans , we evaluated associations between POPs and abdominal obesity both cross-sectionally and prospectively .
+METHODS Twenty-one plasma POPs ( 16 polychlorinated biphenyl ( PCB ) congeners , 3 organochlorine ( OC ) pesticides , 1 brominated diphenyl ether ( BDE ) , and 1 dioxin ) were measured at baseline in 970 participants aged 70 years of the Prospective Investigation of the Vasculature in Uppsala Seniors ( PIVUS ) , with prospective analyses in 511 participants re-examined after 5 years .
+Abdominal obesity was defined by an increased waist circumference .
+RESULTS In the cross-sectional analyses , concentrations of the less chlorinated PCBs , OC pesticides such as p,p'-DDE and dioxin had adjusted odds ratios of 2 to 3 for abdominal obesity .
+Many relations had inverted U-shapes rather than being linear , particularly in women .
+In contrast , concentrations of highly chlorinated PCBs were strongly inversely associated with abdominal obesity .
+In a single model including summary measures of the less chlorinated PCBs , highly chlorinated PCBs , and OC pesticides , both the positive associations and inverse associations strengthened .
+Similar but somewhat weaker associations were seen between POPs and risk of development of abdominal obesity in the prospective analyses .
+CONCLUSION Using both a cross-sectional and a prospective design , low-dose exposure to less chlorinated PCBs , p,p'-DDE , and dioxin , were associated with existence or development of abdominal obesity , while highly chlorinated PCBs had an opposite association in an elderly population , despite the previous observation of higher incident diabetes associated with these same PCBs .

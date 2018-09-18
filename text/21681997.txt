@@ -1,0 +1,11 @@
+BACKGROUND Levels of fine particulate matter [ \u2264 2.5 \u03bcm in aerodynamic diameter ( PM(2.5)) ] are associated with alterations in arterial hemodynamics and vascular function .
+However , the characteristics of the same-day exposure-response relationships remain unclear .
+OBJECTIVES We aimed to explore the effects of personal PM(2.5) exposures within the preceding 24 hr on blood pressure ( BP ) , heart rate ( HR ) , brachial artery diameter ( BAD ) , endothelial function [ flow-mediated dilatation ( FMD) ] , and nitroglycerin-mediated dilatation ( NMD ) .
+METHODS Fifty-one nonsmoking subjects had up to 5 consecutive days of 24-hr personal PM(2.5) monitoring and daily cardiovascular ( CV ) measurements during summer and/or winter periods .
+The associations between integrated hour-long total personal PM(2.5) exposure ( TPE ) levels ( continuous nephelometry among compliant subjects with low secondhand tobacco smoke exposures ; n = 30 ) with the CV outcomes were assessed over a 24-hr period by linear mixed models .
+RESULTS We observed the strongest associations ( and smallest estimation errors ) between HR and TPE recorded 1-10 hr before CV measurements .
+The associations were not pronounced for the other time lags ( 11-24 hr ) .
+The associations between TPE and FMD or BAD did not show as clear a temporal pattern .
+However , we found some suggestion of a negative association with FMD and a positive association with BAD related to TPE just before measurement ( 0-2 hr ) .
+CONCLUSIONS Brief elevations in ambient TPE levels encountered during routine daily activity were associated with small increases in HR and trends toward conduit arterial vasodilatation and endothelial dysfunction within a few hours of exposure .
+These responses could reflect acute PM(2.5)-induced autonomic imbalance and may factor in the associated rapid increase in CV risk among susceptible individuals .

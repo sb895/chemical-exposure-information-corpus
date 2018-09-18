@@ -1,0 +1,7 @@
+Blood lead data for a childhood lead exposure study have been reanalyzed to examine the impact of carpets on the effectiveness of a cleaning intervention in 39 New Jersey urban houses .
+All eligible houses in the study were classified as carpeted and uncarpeted depending on the number of rooms that were carpeted .
+The cleaning protocol was associated with a significant reduction in the blood lead concentrations for the uncarpeted homes ( P = 0.004 ) , whereas no significant change was found for the carpeted homes ( P = 0.566 ) .
+We also completed correlation analyses between the number of cleaning visits and the percentage reduction in blood lead for the carpeted/uncarpeted houses .
+There was a significant correlation ( r = 0.67 ) between the number of cleanings and blood lead reduction for the uncarpeted homes , but no correlation ( r = 0.04 ) for the carpeted homes .
+In a multiple regression model that took confounding variables into account , the carpet status ( carpeted or uncarpeted ) remained a factor of the effect of cleaning on blood lead ( P = 0.05 ) .
+We conclude that the presence of contaminated carpets inhibits the effectiveness of home cleaning despite a high-efficiency particulate air filtered vacuum protocol that removes a substantial amount of lead dust .

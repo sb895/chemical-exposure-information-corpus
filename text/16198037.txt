@@ -1,0 +1,12 @@
+To evaluate the main intake source of arsenic by the villagers from arsenic-affected families in Jalangi and Domkol blocks in Mushidabad district , West Bengal-India , we determined the concentrations of arsenic in tube-well water and in food composites , mainly including vegetables and cereals collected from the surveyed families which were cultivated in that region .
+The daily dietary intakes of arsenic by the villagers were estimated and the excretions of arsenic through urine and hair were determined .
+The arsenic concentrations in hair and urine of the studied population living in mild ( 2.78 microg/L ) , moderate ( 30.7 microg/L ) and high ( 118 microg/L ) arsenic-affected families were 133 , 1,391 and 4,713 microg/kg and 43.1 , 244 and 336 microg/L , respectively .
+The linear regressions show good correlations between arsenic concentrations in water vs hair ( r(2)=0.928 , p<0.001 ) and water vs urine ( r(2)=0.464 , p<0.01 ) .
+Approximately 29.4% , 58.1% and 62.1% of adult population from mild , moderate and high arsenic-affected families were suffering from arsenical skin manifestations .
+The mean arsenic concentrations of food composites ( vegetables and cereals ) in high arsenic-affected families are not significantly different from mild arsenic-affected families .
+The daily dietary intakes of arsenic from water and food composites of the studied population , living in high , moderate and mild arsenic-affected families were 568 , 228 and 137 microg , respectively .
+The linear regressions show good correlations between arsenic concentrations in hair vs daily dietary intake ( r(2)=0.452 , p<0.001 ) and urine vs daily dietary intake ( r(2)=0.134 , p<0.001 ) .
+The water for drinking contributed 6.07% , 26.7% and 58.1% of total arsenic in our study from mild , moderate and high arsenic-affected families .
+The result suggested that the contaminated water from high arsenic-affected families should be the main source for intake of arsenic .
+On contrary , the contribution of arsenic-contaminated food composites from mild and moderate arsenic-affected families might be the main source for intake of arsenic .
+The Food and Agriculture Organization/World Health Organization ( FAO/WHO ) provisional tolerable weekly intake ( PTWI ) values of arsenic in our study were 3.32 , 5.75 and 12.9 microg/kg body weight/day from mild , moderate and high arsenic-affected families , respectively , which is higher than the recommended PTWI value of arsenic ( 2.1 microg/kg body weight/day ) .

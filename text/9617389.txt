@@ -1,0 +1,10 @@
+Art glass manufacturing is one of the most interesting examples of exposure to complex mixtures .
+Among the raw materials used are silica sand , borax , carbonates , nitrates of Ca , Na , K , and a great number of compounds that are mainly oxides of As , Sb , Al , Zn , Cr , Ni , Sn , Se , Cd , Mn , Cu , Co , Fe , Nd , Er , Eu , and La .
+In six art glass factories that use As or Sb as fining agents , the exposure to these elements was investigated in 32 workers by means of environmental and biological monitoring .
+Analysis was conducted by atomic absorption spectrometry ( AAS ) and inductively coupled plasma mass spectrometry ( ICP-MS ) .
+The results confirmed that As , which is the main carcinogen in glass production , reaches high air concentrations and is generally above the American Conference of Governmental Industrial Hygienists ( ACGIH ) threshold limit value-time-weighted average ( TLV-TWA ) of 10 micrograms/m3 .
+When partly substituted by antimonial compounds , As air concentrations dropped dramatically , while the air levels of Sb ( which is considered less toxic but is classified as a class 2B carcinogen by IARC ) were relatively low and below the ACGIH TLV-TWA of 500 micrograms/m3 .
+Exposure to As and Sb also differed in the three types of jobs investigated : As was high in oven chargers , Sb was higher in batch mixers , and both elements were low in makers-formers .
+Eleven to 18 elements were detected : arsenic , Al , Ba , Sb , Pb , and Zn were the elements most frequently measured ( in tens , and in some cases hundreds , of micrograms/m3 ) , followed by B , Li , Mn , Se , Sn , Sr , Ce , La , and Nd ( in micrograms or in some cases tens of micrograms/m3 .
+The results of biological monitoring for As , Sb , and other elements were in agreement with environmental monitoring data .
+We concluded that multiple detection of elements is a useful tool ( or the evaluation of exposure to complex mixtures such as those used in the art glass industry and that such detection also allows a more accurate evaluation of related epidemiological data .

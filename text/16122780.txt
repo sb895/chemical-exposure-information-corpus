@@ -1,0 +1,11 @@
+This study estimated the human health risk associated with ingesting inorganic arsenic through consumption of farmed oysters in Taiwan .
+Two hundred fifty-four samples of oyster ( Crassostrea gigas ) were collected from four townships in southwest coastal areas , where 90% of Taiwan's oysters are produced .
+The concentrations of total arsenic and arsenic species including As(V) , As(III) , monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) were analyzed .
+The analytical results reveal that the ratio of mean concentration among the four townships of inorganic As to total concentration of As in oysters is approximately 1.64% .
+The mean concentrations of As(III) and As(V) in oysters from the four townships range from 0.071 to 0.145 microg/g , and 0.032 to 0.062 microg/g respectively .
+The estimated target cancer risks ( TR ) , based on a 95% occurrence probability from ingesting inorganic As by consuming oysters at a rate of 18.6-56 g/day , range from 1.26 x 10(-5) to 3.82 x 10(-5) .
+The probabilities of TR fell within the range 10(-6)-10(-4) , suggesting that inorganic As uptake from farmed oysters is associated with a potential cancer risk .
+Moreover , a target hazard quotient ( THQ ) was used to evaluate the non-carcinogenic risk associated with ingesting inorganic As through oyster consumption at a rate of 18.6-56 g/day .
+The THQ values based on a 95% probability of exposure range from 0.071 to 0.214 .
+All THQ values are below unity , indicating that farmed oyster consumption contributes only a little to the non-carcinogenic risk .
+Based on the estimation of the TR model , an ingestion rate of 1.6 g/day is recommended to meet the 95th percentile of carcinogenic risk , 10(-6) , for exposure to inorganic As through the consumption of oysters in Taiwan .

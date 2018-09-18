@@ -1,0 +1,10 @@
+BACKGROUND In animal studies , perfluorinated compounds affect fetal growth , development , viability , and postnatal growth .
+The limited epidemiologic findings on child neurobehavioral development are mixed .
+METHODS We recruited and evaluated 320 children who participated in the C8 Health Project , a 2005-2006 survey in a Mid-Ohio Valley community highly exposed to perfluorooctanoate ( PFOA ) through contaminated drinking water .
+We examined associations among estimated in utero PFOA exposure , measured childhood PFOA serum concentration , and subsequent performance on neuropsychological tests 3-4 years later at ages 6-12 years .
+We assessed Intelligence Quotient ( IQ ) reading and math skills , language , memory and learning , visual-spatial processing , and attention .
+All multivariable linear regression models were adjusted for age , sex , home environment , test examiner , and maternal IQ .
+Models with measured childhood PFOA were additionally adjusted for child body mass index .
+RESULTS Children in the highest as compared with lowest quartile of estimated in utero PFOA had increases in Full Scale IQ ( \u03b2 4.6 , 95% confidence interval [ CI ] = 0.7-8.5 ) and decreases in characteristics of attention deficit/hyperactivity disorder as measured by the Clinical Confidence Index of Connors ' Continuous Performance Test-II ( \u03b2 -8.5 , 95% CI = -16.1 to -0.8 ) .
+There were negligible associations between PFOA and reading or math skills or neuropsychological functioning .
+CONCLUSION These results do not suggest an adverse association between the levels of PFOA exposure experienced by children in this cohort and their performance on neuropsychological tests .

@@ -1,0 +1,10 @@
+Chronic arsenic exposure through contaminated drinking water is a major environmental health issue .
+Chronic arsenic exposure is known to exert its toxic effects by a variety of mechanisms , of which generation of reactive oxygen species ( ROS ) is one of the most important .
+A high level of ROS , in turn , leads to DNA damage that might ultimately culminate in cancer .
+In order to keep the level of ROS in balance , an array of enzymes is present , of which catalase ( CAT ) and myeloperoxidase ( MPO ) are important members .
+Hence , in this study , we determined the activities of these two enzymes in the sera and chromosomal aberrations ( CA ) in peripheral blood lymphocytes in individuals exposed and unexposed to arsenic in drinking water .
+Arsenic in drinking water and in urine was used as a measure of exposure .
+Our results show that individuals chronically exposed to arsenic have significantly higher CAT and MPO activities and higher incidence of CA .
+We found moderate positive correlations between CAT and MPO activities , induction of CA and arsenic in urine and water .
+These results indicate that chronic arsenic exposure causes higher CAT and MPO activities in serum that correlates with induction of genetic damage .
+We conclude that the serum levels of these enzymes might be used as biomarkers of early arsenic exposure induced disease much before the classical dermatological symptoms of arsenicosis begin to appear .

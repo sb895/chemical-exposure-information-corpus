@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--hair nail--workers AND exposure routes--oral intake--dust--workers<Biomonitoring--effect marker--biomarker--gene AND biomonitoring--effect marker--biomarker--molecule--other molecule AND  Biomonitoring--effect marker--biomarker--oxidative stress< < < < < 

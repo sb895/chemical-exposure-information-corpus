@@ -1,0 +1,12 @@
+Maternal exposure to ambient pollution has been increasingly linked to the risk of congenital anomalies ( CAs ) in the fetus and newborns .
+Recently , a descriptive study in the high environmental risk city of Brindisi ( Italy ) revealed an increased prevalence of total CAs , especially congenital heart disease ( CHD ) and ventricular septal defects ( VSDs ) , both at the local level and in comparison with the pool of EUROCAT registries .
+This paper concerns a population-based case control study to investigate the association between maternal exposure to air pollutants - sulfur dioxide ( SO2 ) and total suspended particulate ( TSP ) matter - and the risk of CA .
+Cases were newborns up to 28 days of age , born to mothers resident in Brindisi between 2001 and 2010 , and discharged with a diagnosis of CA .
+Cases and controls were individually matched according to sex , socio-economic status of the census area of residence of the mother , and year of beginning of pregnancy .
+Up to four controls were extracted for each case .
+Concentration data from monitoring stations were used to estimate air pollution exposure .
+Each case and control was assigned pollutant concentration values as mean and 90th percentile of the daily average values during weeks 3-8 of pregnancy .
+Exposure as both continuous and categorical variables was considered and a conditional logistic regression model was constructed to quantify the odds ratios of exposure to air pollutants and the occurrence of total CAs , CHDs and VSDs .
+We found exposure to the 90th percentile of SO2 to be associated with CHDs ( p for trend =0.01 ) and VSDs ( p for trend <0.05 ) .
+Findings for TSP were less consistent .
+In conclusion , in the studied area , maternal exposure to sulfur dioxide increased risk of CHD .

@@ -1,0 +1,9 @@
+BACKGROUND Outdoor air pollution and lead exposure can disturb cardiac autonomic function , but the effects of both these exposures together have not been studied .
+METHODS We examined whether higher cumulative lead exposures , as measured by bone lead , modified cross-sectional associations between air pollution and heart rate variability among 384 elderly men from the Normative Aging Study .
+We used linear regression , controlling for clinical , demographic , and environmental covariates .
+RESULTS We found graded , significant reductions in both high-frequency and low-frequency powers of heart rate variability in relation to ozone and sulfate across the quartiles of tibia lead .
+Interquartile range increases in ozone and sulfate were associated respectively , with 38% decrease ( 95% confidence interval = -54.6% to -14.9% ) and 22% decrease ( -40.4% to 1.6% ) in high frequency , and 38% decrease ( -51.9% to -20.4% ) and 12% decrease ( -28.6% to 9.3% ) in low frequency , in the highest quartile of tibia lead after controlling for potential confounders .
+We observed similar but weaker effect modification by tibia lead adjusted for education and cumulative traffic ( residuals of the regression of tibia lead on education and cumulative traffic ) .
+Patella lead modified only the ozone effect on heart rate variability .
+CONCLUSIONS People with long-term exposure to higher levels of lead may be more sensitive to cardiac autonomic dysfunction on high air pollution days .
+Efforts to understand how environmental exposures affect the health of an aging population should consider both current levels of pollution and history of lead exposure as susceptibility factors .

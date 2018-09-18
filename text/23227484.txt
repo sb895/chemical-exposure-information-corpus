@@ -1,0 +1,11 @@
+BACKGROUND Studies conducted in the Faeroe Islands and Japan suggest a negative impact of mercury on heart rate variability ( HRV ) among children while the results regarding blood pressure ( BP ) are less consistent .
+OBJECTIVE To assess the impact of mercury on HRV and BP among Nunavik Inuit children .
+METHODS A cohort of 226 children was followed from birth to 11 years old .
+Mercury concentration in cord blood and in blood and hair at 11 years old were used as markers of prenatal and childhood exposure , respectively .
+HRV was measured using ambulatory 2 h-Holter monitoring while BP was measured through a standardized protocol .
+Simple regression was used to assess the relationship of mercury to BP and HRV parameters .
+Multiple linear regressions were performed adjusting for covariates such as age , sex , birth weight , body mass index ( BMI ) , height , total n-3 fatty acids , polychlorinated biphenyls ( PCB 153 ) , lead , selenium and maternal smoking during pregnancy .
+RESULTS Median cord blood mercury and blood mercury levels at 11 years old were 81.5 nmoL/L ( IQR:45.0\u2013140.0 ) and 14.5 nmol/L ( IQR : 7.5\u201328.0 ) , respectively .
+After adjusting for the covariates , child blood mercury was associated with low frequency ( LF ) ( b = 0.21 , p = 0.05 ) , the standard deviation of R\u2013R intervals ( SDNN ) ( b = 0.26 , p = 0.02 ) , the standard deviation of R\u2013R intervals measured over 5 min periods ( SDANN ) ( b = 0.31 , p = 0.01 ) and the coefficient of variation of R\u2013R intervals ( CVRR ) ( b = 0.06,p = 0.02 ) .
+No significant association was observed with BP .
+CONCLUSION Mercury exposure during childhood seems to affect HRV among Nunavik Inuit children at school age .

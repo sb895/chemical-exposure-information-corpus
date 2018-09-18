@@ -1,0 +1,12 @@
+The EPA uses an exposure assessment model to estimate daily intake to chemicals of potential concern .
+At the Anaconda Superfund site in Montana , the EPA exposure assessment model was used to predict total and speciated urinary arsenic concentrations .
+Predicted concentrations were then compared to concentrations measured in children living near the site .
+When site-specific information on concentrations of arsenic in soil , interior dust , and diet , site-specific ingestion rates , and arsenic absorption rates were used , measured and predicted urinary arsenic concentrations were in reasonable agreement .
+The central tendency exposure assessment model successfully described the measured urinary arsenic concentration for the majority of children at the site .
+The reasonable maximum exposure assessment model successfully identified the uppermost exposed population .
+While the agreement between measured and predicted urinary arsenic is good , it is not exact .
+The variables that were identified which influenced agreement included soil and dust sample collection methodology , daily urinary volume , soil ingestion rate , and the ability to define the exposure unit .
+The concentration of arsenic in food affected agreement between measured and predicted total urinary arsenic , but was not considered when comparing measured and predicted speciated urinary arsenic .
+Speciated urinary arsenic is the recommended biomarker for recent inorganic arsenic exposure .
+By using site-specific data in the exposure assessment model , predicted risks from exposure to arsenic were less than predicted risks would have been if the EPA's default values had been used in the exposure assessment model .
+This difference resulted in reduced magnitude and cost of remediation while still protecting human health .

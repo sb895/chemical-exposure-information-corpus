@@ -1,0 +1,10 @@
+BACKGROUND Arsenic exposures from drinking water increase the risk of various cancers and noncancer health endpoints .
+Limited evidence suggests that arsenic may have adverse human reproductive effects .
+We investigated the association between drinking water arsenic exposure and fetal growth , as manifest in birth weight .
+METHODS We conducted a prospective cohort study in two Chilean cities with contrasting drinking water arsenic levels : Antofagasta ( 40 micro g/L ) and Valparaíso ( <1 micro g/L ) .
+Study subjects completed in-depth interviews and provided urine samples for exposure analysis .
+We obtained pregnancy and birth information from medical records .
+The birth weight analysis was restricted to liveborn , singleton infants born between December 1998 and February 2000 .
+RESULTS The final study group consisted of 424 infants from Antofagasta and 420 from Valparaíso .
+After controlling for confounders , results of the multivariable analysis indicated that Antofagasta infants had lower mean birth weight ( -57 g ; 95% confidence interval = -123 to 9 ) .
+CONCLUSION This study suggests that moderate arsenic exposures from drinking water ( <50 micro g/L ) during pregnancy are associated with reduction in birth weight , similar in magnitude to that resulting from other environmental exposures such as environmental tobacco smoke and benzene .

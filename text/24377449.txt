@@ -1,0 +1,11 @@
+We measured serum concentrations of seven dibenzo-p-dioxin congeners ( PCDDs ) , ten dibenzofurans ( PCDFs ) , four non-ortho polychlorinated biphenyls ( noPCBs ) and six mono-ortho polychlorinated biphenyls ( moPCBs ) in 1950 veterans of the Vietnam War .
+The veterans were participants in the Air Force Health Study ( AFHS ) who attended the final medical examination in 2002 .
+Blood samples were collected from 777 Ranch Hands involved in the aerial spraying of herbicides in Vietnam and a comparison group of 1173 veterans ( "Comparisons" ) who served in Southeast Asia during the same time period .
+Results for moPCBs were based on a random subsample of 800 veterans .
+The median 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) concentrations in 2002 were 5.0pgg(-1) lipid in Ranch Hands and 2.2pgg(-1) lipid in Comparisons .
+No substantial differences were found in measured concentrations of other PCDDs , PCDFs , and noPCBs .
+Similarly , no substantial differences were found for moPCBs in the subsample .
+The median total dioxin toxic equivalent ( TEQ ) in Ranch Hands was 18.7pgg(-1) lipid for PCDDs , 3.4pgg(-1) lipid for PCDFs , and 3.2pgg(-1) lipid for noPCBs .
+Median TEQs in Comparisons were 14.4pgg(-1) lipid for PCDDs , 3.5pgg(-1) lipid for PCDFs , and 3.3pgg(-1) lipid for noPCBs .
+These TEQs , with the exception of PCDD TEQ in Ranch Hands ( primarily due to elevated TCDD ) , were similar to or lower than those reported for similar age and gender groups in the 2001-2002 National Health and Nutrition Examination Survey ( NHANES ) .
+These findings support the assumption that the Ranch Hand veterans were not more highly exposed to dioxin-like compounds other than TCDD than were Comparison veterans or the general US population .

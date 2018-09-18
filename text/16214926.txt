@@ -1,0 +1,11 @@
+Toenail arsenic ( As ) concentrations were evaluated as a biomarker of inorganic As ( As(in) ) exposure in a population residing in an As-endemic region of Bangladesh .
+Drinking water and toenail samples were collected from 48 families ( n = 223 ) every 3 months for 2 years and analyzed for As using inductively coupled plasma-mass spectrometry .
+Drinking water collected 3 , 6 , and 9 months before each toenail sample collection was combined into a weighted lagged exposure variable .
+The contribution of each water sample to the measured toenail As concentration was estimated using maximum likelihood that accounted for fluctuations in drinking water exposure and toenail growth .
+The best model attributed 69% , 14% , and 17% of the toenail As content to drinking water exposures that occurred 3 , 6 , and 9 months before toenail collection [ 95% confidence intervals ( 95% CI ) , 0.46-0.97 , 0.00-0.31 , and 0.03-0.35 , respectively ] .
+Generalized additive mixed models using penalized regression splines were employed to model the data .
+Below a drinking water concentration of 2 mug As/L , no relationship between drinking water As and toenail As concentrations was observed .
+Above this concentration , toenail As content increased in a dose-dependent fashion as drinking water As increased .
+Age was a significant effect modifier of drinking water As exposure on toenail As ( beta = 0.01 ; 95% CI , 0.002-0.02 ) .
+Individuals possessing GSTT1-null genotypes had significantly more As in their toenails in contrast to GSTT1 wild-type individuals ( beta = 0.11 ; 95% CI , 0.06-0.2 ) .
+Therefore , it seems that GSTT1 modifies the relationship between As(in) exposure and toenail As(in) content .

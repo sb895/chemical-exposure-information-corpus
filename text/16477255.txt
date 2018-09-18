@@ -1,0 +1,11 @@
+BACKGROUND Animal studies suggest that hydrazine is a lung carcinogen , but human studies have been rare , rather small , and limited to cancer mortality .
+METHODS We examined cancer mortality and incidence in a cohort of aerospace workers with varying exposure to hydrazine contained in rocket fuels-extending previous mortality follow-up from 1994 to 2001 and investigating cancer incidence for the period 1988-2000 using population-registry data .
+We newly estimated hydrazine effects adjusting for occupational exposures to other carcinogens assessed through a job-exposure matrix .
+Rate-ratio estimates were derived from Cox proportional hazards and random-effects models using time-dependent exposure measures for hydrazine adjusting for trichloroethylene , polycyclic aromatic hydrocarbons , benzene , and mineral oil exposures .
+RESULTS Exposure to hydrazine was positively associated with lung cancer incidence ( estimated rate ratio for high vs low exposure with 20-year lag = 2.5 ; 95% confidence interval = 1.3-4.9 ) and with colorectal cancer incidence ( 2.2 ; 1.0-4.6 ) .
+Dose-response associations were observed for both outcomes ; similar associations were found for lung cancer mortality but not for colorectal cancer mortality .
+Effect estimates for cancers of the pancreas , blood and lymph system , and kidneys were based on small numbers rendering our analyses uninformative , and patterns considering exposure levels and lags were inconsistent .
+Use of random-effect models did not change our results .
+CONCLUSIONS The findings reported here are consistent with our previous results for lung cancer mortality ; our new results suggest that exposure to hydrazine increases the risk of incident lung cancers .
+We also found , for the first time , an increased risk of colon cancers .
+Results for other cancer sites are inconclusive .

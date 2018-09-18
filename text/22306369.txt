@@ -1,0 +1,7 @@
+Although rice and corn are two main cash crops in Lombardy ( North Italy ) and their cultivation involves several thousands of farmers , risk assessment of pesticide exposure is rarely done , especially in small and medium sized enterprises .
+With the use of pads for environmental monitoring ( OECD protocol ) , of pre- and post-exposure 24h urine collection for biological monitoring and of hand wash for hands ' exposure , we measured the exposure of 28 agricultural workers to propanil and terbuthylazine in real-life working conditions .
+In propanil applicators , median daily exposure on the clothes was 73.5\u03bcmol per worker , while the exposure on the skin was 22.4\u03bcmol .
+For terbuthylazine , these exposures were 37.2\u03bcmol and 0.86\u03bcmol per worker , respectively .
+Median excretion of the propanil metabolite ( 3,4-dichloroaniline ) after exposure was 84nmol in 24h urine , and 13nmol for the metabolite of terbuthylazine .
+Risk assessment performed by comparing to the AOELs of the applied active ingredients with an estimated internal dose , obtained based on the measured levels of skin and hand exposure and the percentage of dermal absorption of the active ingredients considered showed that 4 propanil workers , and no terbuthylazine workers , were overexposed .
+Our study helps define and confirm relationships between different exposure determinants , which can be used in the development of tools for risk assessment of exposure to pesticides in small and medium sized enterprises .

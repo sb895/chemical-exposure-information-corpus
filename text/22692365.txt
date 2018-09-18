@@ -1,0 +1,12 @@
+Semi-volatile chemicals like pesticides and polychlorinated biphenyls ( PCB ) tend to accumulate in house dust .
+This may result in residues of some parts per million ( p.p.m. ) , closely associated with health impairments and diseases like cancer .
+To explain these associations , we must establish whether a relevant absorption from house dust into human organisms occurs , and most crucially the release of chemicals , that is , their bioaccessibility .
+Digestive as well as dermal bioaccessibilities were examined using in-vitro methods .
+On average , the digestive bioaccessibility was for the pesticides and for the PCB .
+The dermal penetration availability reached for the pesticides and for the PCB ( percentages of the concentrations in the dust ) .
+Based on the bioaccessibility , an estimate of internal exposure was calculated and expressed as percentages of acceptable or tolerable daily intake ( ADI/TDI ) values .
+Exposure via the respiratory tract proved to be very low .
+Exposure via the digestive tract had maximum values of 4% for pesticides and 12% for PCB .
+Dermal exposure was much higher .
+Even for average concentrations in house dust ( \u22480.5\u2009p.p.m. ) , children exposed to DDT and PCB showed up to 300% of the ADI/TDI values , and adults about 60% .
+With high concentrations of contaminants in house dust , the maximum doses absorbed through the skin reached 5000% .

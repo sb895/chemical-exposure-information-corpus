@@ -1,0 +1,9 @@
+BACKGROUND Coal tar and bitumen have been historically used to coat the insides of cast iron drinking water mains .
+Polycyclic aromatic hydrocarbons ( PAHs ) may leach from these coatings into the drinking water and form a potential health risk for humans .
+OBJECTIVE We estimated the potential human cancer risk from PAHs in coated cast iron water mains .
+METHOD In a Dutch nationwide study , we collected drinking water samples at 120 locations over a period of 17 days under various operational conditions , such as undisturbed operation , during flushing of pipes , and after a mains repair , and analyzed these samples for PAHs .
+We then estimated the health risk associated with an exposure scenario over a lifetime .
+RESULTS During flushing , PAH levels frequently exceeded drinking water quality standards ; after flushing , these levels dropped rapidly .
+After the repair of cast iron water mains , PAH levels exceeded the drinking water standards for up to 40 days in some locations .
+CONCLUSIONS The estimated margin of exposure for PAH exposure through drinking water was > 10,000 for all 120 measurement locations , which suggests that PAH exposure through drinking water is of low concern for consumer health .
+However , factors that differ among water systems , such as the use of chlorination for disinfection , may influence PAH levels in other locations .

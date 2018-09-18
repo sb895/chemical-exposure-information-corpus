@@ -1,0 +1,11 @@
+We measured lead and mercury in samples collected from 31 homes in communities near the former Clark Air Base , Philippines during May and October 2002 .
+Sample media included water used for drinking and cooking , house dust and entryway soil .
+Composite samples of 15 food items purchased at local markets were also collected .
+Samples were analyzed for total lead ( Pb ) and total mercury ( Hg ) to evaluate the relative importance of each media to residential exposure concentrations in the community adjacent to Clark ( Community A ) versus a control community 5 km away ( Community B ) .
+In general , we measured low ( e.g. background ) to undetectable levels of the target analytes in all media sampled with two important exceptions .
+First , the Hg concentrations we measured in canned mackerel composites , which were within the range reported for mackerel from other locations worldwide , may pose a risk to pregnant women who are frequent consumers ( e.g. one or more cans per day ) .
+Second , we measured Pb above the USEPA residential screening concentration ( 400 mug/g ) in dust and soil from two homes , illustrating the need for periodic residential lead monitoring in these and other communities in the Philippines .
+We found no significant difference between Communities A and B with respect to Pb and Hg concentrations in water or food , although we were not able to detect very low levels of Pb in most of the foods we sampled because of trace Pb contamination added during sample homogenization .
+Although the Pb levels we measured in dust and soil from Community A homes were higher on average than Community B homes , the levels in both communities were low ( e.g. background ) thus we did not investigate the difference further .
+To our knowledge , these are the first reported measurements of Pb in house dust in the Philippines .
+The concentrations of Pb we measured in house dust were significantly higher than those in entryway soil from both communities , adding empirical support to the assertion that yard soil should not be considered a proxy for house dust in exposure studies in the Philippines or elsewhere .

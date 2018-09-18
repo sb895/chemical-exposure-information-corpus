@@ -1,0 +1,7 @@
+OBJECTIVE To investigate acute changes in circulating lipids after exposure to relatively high levels of particulate matter through welding .
+METHODS Using a repeated measures panel study , lipid levels before and after welding and personal exposures to fine particulate matter ( PM2.5 ) were measured in 36 male welders over 63 exposure and/or control days .
+RESULTS There was a trend toward decrease in HDL ( -2.3 mg/dL , P = 0.08 ) 18 hours after welding .
+This effect became significant ( -2.6 mg/dL , P = 0.05 ) after adjustment for possible confounders .
+The effect was strongest ( -4.3 mg/dL , P = 0.02 ) among welders who did not weld the day before the study .
+There were no significant changes in other lipids associated with welding or PM2.5 exposure .
+CONCLUSION Welding exposure was associated with an acute decrease in circulating HDL , which may relate to the inflammatory and proatherosclerotic effects of fine particle exposure .

@@ -1,0 +1,7 @@
+The cancer risks ( CR ) by oral ingestion , dermal absorption , and inhalation exposure of trihalomethanes ( THM ) from tap water of ten districts in Fortaleza , Brazil were estimated .
+The mean levels of THM compounds were obtained in Fortaleza tap water as follow : 63.9 microg L(-1) for chloroform ( CHCl(3) ) , 40.0 microg L(-1) for bromodichloromethane ( CHBrCl(2) ) , and 15.6 microg L(-1) for dibromochloromethane ( CHBr(2)Cl ) .
+Bromoform ( CHBr(3) ) was not detected .
+The mean CR for THMs in tap water is 3.96 x 10(-4) .
+The results indicate that Fortaleza residents have a higher CR by inhalation than dermal absorption and oral ingestion .
+The CR for CHCl(3) contributes with 68% as compared with the total CR , followed by CHBrCl(2) ( 21% ) , and CHBr(2)Cl ( 11% ) .
+The hazard index ( HI ) is about ten times lower than unity , not indicating non-cancer effects .

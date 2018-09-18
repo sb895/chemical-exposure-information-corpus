@@ -1,0 +1,15 @@
+BACKGROUND Laboratory studies suggest that fine particulate matter ( \u2264 2.5 µm in diameter ; PM(2.5) ) can activate pathophysiological responses that may induce insulin resistance and type 2 diabetes .
+However , epidemiological evidence relating PM2.5 and diabetes is sparse , particularly for incident diabetes .
+OBJECTIVES We conducted a population-based cohort study to determine whether long-term exposure to ambient PM(2.5) is associated with incident diabetes .
+METHODS We assembled a cohort of 62,012 nondiabetic adults who lived in Ontario , Canada , and completed one of five population-based health surveys between 1996 and 2005 .
+Follow-up extended until 31 December 2010 .
+Incident diabetes diagnosed between 1996 and 2010 was ascertained using the Ontario Diabetes Database , a validated registry of persons diagnosed with diabetes ( sensitivity = 86% , specificity = 97% ) .
+Six-year average concentrations of PM2.5 at the postal codes of baseline residences were derived from satellite observations .
+We used Cox proportional hazards models to estimate the associations , adjusting for various individual-level risk factors and contextual covariates such as smoking , body mass index , physical activity , and neighborhood-level household income .
+We also conducted multiple sensitivity analyses .
+In addition , we examined effect modification for selected comorbidities and sociodemographic characteristics .
+RESULTS There were 6,310 incident cases of diabetes over 484,644 total person-years of follow-up .
+The adjusted hazard ratio for a 10-µg/m(3) increase in PM(2.5) was 1.11 ( 95% CI : 1.02 , 1.21 ) .
+Estimated associations were comparable among all sensitivity analyses .
+We did not find strong evidence of effect modification by comorbidities or sociodemographic covariates .
+CONCLUSIONS This study suggests that long-term exposure to PM2.5 may contribute to the development of diabetes .

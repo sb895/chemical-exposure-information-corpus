@@ -1,0 +1,13 @@
+BACKGROUND Polybrominated diphenyl ethers ( PBDEs ) have been widely used as flame retardants in consumer products and are ubiquitous in residential indoor air and dust .
+However , little is known about exposure in the office environment .
+OBJECTIVES We examined relationships between PBDE concentrations in the office environment and internal exposure using concurrent measurements of PBDEs in serum , handwipes , and office dust .
+METHODS We collected serum , dust , and handwipe samples from 31 participants who spent at least 20 hr/week in an office .
+We used a questionnaire to collect information about work and personal habits .
+RESULTS We found positive associations between PBDEs in room dust , handwipes ( a measure of personal exposure ) , and serum .
+PBDE office dust concentrations were weakly correlated with measurements in handwipes : r = 0.35 ( p = 0.06 ) for pentaBDE ( sum of BDE congeners 28/33 , 47 , 99 , 100 , and 153 ) and 0.33 ( p = 0.07 ) for BDE-209 .
+Hand washing also predicted pentaBDE levels in handwipes : low hand-washers had 3.3 times the pentaBDE levels in their handwipes than did high hand-washers ( p = 0.02 ) .
+PentaBDE in handwipes predicted pentaBDE levels in serum ( p = 0.03 ) : Serum concentrations in the highest handwipe tertile were on average 3.5 times the lowest handwipe tertile .
+The geometric mean concentration of pentaBDEs in serum was 27 ng/g lipid .
+We detected BDE-209 in 20% of serum samples , at levels ranging from < 4.8 to 9.7 ng/g lipid .
+CONCLUSION Our research suggests that exposure to pentaBDE in the office environment contributes to pentaBDE body burden , with exposure likely linked to PBDE residues on hands .
+In addition , hand washing may decrease exposure to PBDEs .

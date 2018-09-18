@@ -1,0 +1,11 @@
+Heavy metals , including arsenic and lead , may lead to cellular oxidative damage that is linked to hypertension .
+Manganese superoxide dismutase ( MnSOD ) is a scavenger of reactive oxygen species , and 8-oxoguanine DNA glycosylase ( OGG1 ) is the major glycosylase that repairs DNA lesions .
+Interestingly , whether there is an elevated risk of hypertension with arsenic or lead exposure in individuals with genetic variations in MnSOD or OGG1 has not yet been investigated .
+Questionnaires were administered to 240 Taiwanese rural residents .
+Blood pressure and biochemical indicators were assessed in each subject .
+Urinary levels of arsenic and lead were measured with atomic absorption spectrometry ; and MnSOD and OGG1 genotypes were identified via polymerase chain reaction .
+There was a dose-response relationship between urinary arsenic levels and risk of hypertension ( P = 0.021 , test for trend ) .
+However , there was no association between urinary lead levels and hypertension risk .
+Individuals with high urinary arsenic levels and the MnSOD Val-Ala/Ala-Ala genotypes had a greater risk of hypertension than those with low urinary arsenic levels and the MnSOD Val-Val genotype ( odds ratio [ OR ] = 4.2 , 95% confidence interval [ CI ] = 1.7-10.3 ) .
+Subjects with a high urinary arsenic level and the OGG1 Cys-Cys genotype also had a greater risk of hypertension than those with a low urinary arsenic level and the OGG1 Ser-Ser/Ser-Cys genotypes ( OR = 3.4 , 95% CI = 1.1-10.7 ) .
+Thus , both MnSOD and OGG1 genotypes may be prone to an increased risk of hypertension associated with arsenic exposure .

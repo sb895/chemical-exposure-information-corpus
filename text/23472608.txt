@@ -1,0 +1,11 @@
+BACKGROUND Few studies have examined the association between hypertension and mercury exposure in the general population .
+We examined cross-sectional associations between blood ( mainly methylmercury ) or urinary mercury ( mainly inorganic mercury ) and hypertension in representative U.S. adults and effect modifications by dietary omega-3 fatty acids and serum selenium .
+METHODS We examined 6607 adults aged 20 years or older , using the National Health and Nutrition Examination Survey ( NHANES ) from 2003/2004 to 2005/2006 ( 2201 adults were available for urinary mercury from NHANES 2003-2006 ; 2117 available for serum selenium from NHANES 2003-2004 aged 40 years or older ) .
+The average of omega-3 fatty acids from two 24-h recalls was calculated .
+RESULTS The weighted prevalence of hypertension was 32.2% .
+The geometric means ( 95% confidence intervals ) of blood total and urinary mercury were 1.03 ( 0.95 , 1.11)\u03bcg/L and 0.51 ( 0.47 , 0.54)\u03bcg/L , respectively .
+The adjusted odds ratios for a doubling increase in blood mercury and urinary mercury were 0.94 ( 0.87 to 1.01 ) and 0.87 ( 0.78 to 0.99 ) , respectively , after adjusting for potential confounders .
+The associations remained similar , even after adjusting for either omega-3 fatty acids or selenium or both .
+No significant effect modification by either omega-3 fatty acids or selenium was observed .
+CONCLUSIONS In this cross-sectional study of the U.S. general population , we found no association of hypertension with blood mercury but a suggestive inverse association with urinary mercury .
+Future prospective studies are warranted to confirm these findings .

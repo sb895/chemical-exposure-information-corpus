@@ -1,0 +1,11 @@
+BACKGROUND Winds from the Sahara-Sahel desert region regularly transport large amounts of dust to the Americas , North Africa , and Europe .
+The presence of high dust concentrations for long periods of time , and the interaction between dust and man-made air pollution , raise concerns about adverse health effects and appropriate interventions by health authorities .
+This study tested the hypothesis that outbreaks of Saharan dust exacerbate the effects of man-made pollution , specifically fine and coarse particulate matter ( PM2.5 and PM10-2.5 , respectively ) on daily mortality .
+METHODS We investigated the effects of exposure to PM10-2.5 and PM2.5 between March 2003 and December 2004 in Barcelona ( Spain ) on daily mortality ; changes of effects between Saharan and non-Saharan dust days were assessed using a time-stratified case-crossover design .
+We studied the chemical composition of particulate matter to explain changes of effects .
+RESULTS The study included 24,850 deaths .
+During Saharan dust days , a daily increase of 10 microg/m3 of PM10-2.5 increased daily mortality by 8.4% ( 95% confidence interval = 1.5%-15.8% ) compared with 1.4% ( -0.8% to 3.4% ) during non-Saharan dust days ( P value for interaction = 0.05 ) .
+In contrast , there was no increased risk of daily mortality for PM2.5 during Saharan dust days .
+Although coarse particles seem to be more hazardous during Saharan dust days , differences in chemical composition did not explain these observations .
+CONCLUSIONS Saharan dust outbreaks may have adverse health effects .
+Further investigation is needed to understand the role of coarse particles and the mechanism by which Saharan dust increases mortality .

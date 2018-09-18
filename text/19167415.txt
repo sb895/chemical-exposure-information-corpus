@@ -1,0 +1,9 @@
+BACKGROUND Methylation of inorganic arsenic ( iAs ) via one-carbon metabolism is a susceptibility factor for a range of arsenic-related health effects , but there is no data on the importance of arsenic metabolism for effects on child development .
+AIM To elucidate the development of arsenic metabolism in early childhood .
+METHODS We measured iAs , methylarsonic acid ( MA ) and dimethylarsinic acid ( DMA ) , the metabolites of iAs , in spot urine samples of 2400 children at 18 months of age .
+The children were born to women participating in a population-based longitudinal study of arsenic effects on pregnancy outcomes and child development , carried out in Matlab , a rural area in Bangladesh with a wide range of arsenic concentrations in drinking water .
+Arsenic metabolism was evaluated in relation to age , sex , anthropometry , socio-economic status and arsenic exposure .
+RESULTS Arsenic concentrations in child urine ( median 34 microg/L , range 2.4-940 microg/L ) , adjusted to average specific gravity of 1.009 g/mL , were considerably higher than that measured at 3 months of age , but lower than that in maternal urine .
+Child urine contained on average 12% iAs , 9.4% MA and 78% DMA , which implies a marked change in metabolite pattern since infancy .
+In particular , there was a marked increase in urinary %MA , which has been associated with increased risk of health effects .
+CONCLUSION The arsenic metabolite pattern in urine of children at 18 months of age in rural Bangladesh indicates a marked decrease in arsenic methylation efficiency during weaning .

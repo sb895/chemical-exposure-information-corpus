@@ -1,0 +1,11 @@
+BACKGROUND Although patients with heart failure ( HF ) have been identified as particularly susceptible to the acute effects of air pollution , the effects of long-term exposure to air pollution on patients with this increasingly prevalent disease are largely unknown .
+OBJECTIVE This study was designed to examine the mortality risk associated with residential exposure to traffic-related air pollution among HF patients .
+METHODS A total of 1,389 patients hospitalized with acute HF in greater Worcester , Massachusetts , during 2000 were followed for survival through December 2005 .
+We used daily traffic within 100 and 300 m of residence as well as the distance from residence to major roadways and to bus routes as proxies for residential exposure to traffic-related air pollution .
+We assessed mortality risks for each exposure variable using Cox proportional hazards models adjusted for prognostic factors .
+RESULTS After the 5-year follow-up , only 334 ( 24% ) subjects were still alive .
+An interquartile range increase in daily traffic within 100 m of home was associated with a mortality hazard ratio ( HR ) of 1.15 [ 95% confidence interval ( CI ) , 1.05-1.25 ] , whereas for traffic within 300 m this association was 1.09 ( 95% CI , 1.01-1.19 ) .
+The mortality risk decreased with increasing distance to bus routes ( HR = 0.88 ; 95% CI , 0.81-0.96 ) and was larger for those living within 100 m of a major roadway or 50 m of a bus route ( HR = 1.30 ; 95% CI , 1.13-1.49 ) .
+Adjustment for area-based income and educational level slightly attenuated these associations .
+CONCLUSIONS Residential exposure to traffic-related air pollution increases the mortality risk after hospitalization with acute HF .
+Reducing exposure to traffic-related emissions may improve the long-term prognosis of HF patients .

@@ -1,0 +1,10 @@
+Atopic dermatitis is one of the most common inflammatory skin diseases among children and adults .
+Although the risk factors for atopic dermatitis have not yet been fully identified , exposure to mercury may be an important environmental risk factor .
+The objective of this study was to evaluate the association between mercury body burden and prevalence of atopic dermatitis in an adult population .
+We recruited participants ( n=1990 ) aged 20 years or older , using stratified random sampling of Korean census blocks .
+Demographic characteristics and medical history of atopic dermatitis were collected from participants by questionnaire , and mercury levels were determined by an analysis of blood samples .
+We found that demographic factors such as sex , age , alcohol drinking status , income , and fish or shellfish consumption were important covariates determining blood mercury concentration .
+Sex and cigarette smoking status were important demographic variables affecting the prevalence of atopic dermatitis .
+After adjusting for demographic factors , blood mercury concentrations were positively associated with lifetime prevalence of atopic dermatitis [ odds ratio ( OR ) , highest vs. lowest tertile=1.50 ; 95% confidence interval ( CI ) , 1.02-2.21 ; p for trend=0.057 ] .
+This association became stronger for 1-year prevalence of atopic dermatitis ( OR , highest vs. lowest tertile=1.82 ; 95% CI , 1.17-2.83 ; p for trend=0.026 ) .
+Mercury body burden and atopic dermatitis prevalence vary across demographic characteristics , and increased blood level of mercury was related to an incidence of atopic dermatitis in this adult population .

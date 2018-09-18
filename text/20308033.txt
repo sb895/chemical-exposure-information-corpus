@@ -1,0 +1,11 @@
+BACKGROUND Hormonally active environmental agents may alter the course of pubertal development in girls , which is controlled by steroids and gonadotropins .
+OBJECTIVES We investigated associations of concurrent exposures from three chemical classes ( phenols , phthalates , and phytoestrogens ) with pubertal stages in a multiethnic longitudinal study of 1,151 girls from New York City , New York , greater Cincinnati , Ohio , and northern California who were 6-8 years of age at enrollment ( 2004-2007 ) .
+METHODS We measured urinary exposure biomarkers at visit 1 and examined associations with breast and pubic hair development ( present or absent , assessed 1 year later ) using multivariate adjusted prevalence ratios ( PR ) and 95% confidence intervals ( CIs ) .
+Modification of biomarker associations by age-specific body mass index percentile ( BMI% ) was investigated , because adipose tissue is a source of peripubertal hormones .
+RESULTS Breast development was present in 30% of girls , and 22% had pubic hair .
+High-molecular-weight phthalate ( high MWP ) metabolites were weakly associated with pubic hair development [ adjusted PR , 0.94 ( 95% CI , 0.88-1.00 ) , fifth vs. first quintile ] .
+Small inverse associations were seen for daidzein with breast stage and for triclosan and high MWP with pubic hair stage ; a positive trend was observed for low-molecular-weight phthalate biomarkers with breast and pubic hair development .
+Enterolactone attenuated BMI associations with breast development .
+In the first enterolactone quintile , for the association of high BMI with any development , the PR was 1.34 ( 95% CI , 1.23-1.45 vs. low BMI ) .
+There was no BMI association in the fifth , highest quintile of enterolactone .
+CONCLUSIONS Weak hormonally active xenobiotic agents investigated in this study had small associations with pubertal development , mainly among those agents detected at highest concentrations .

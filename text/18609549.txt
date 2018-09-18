@@ -1,0 +1,11 @@
+OBJECTIVE This study evaluates the mortality experience of 6,157 chemical laboratory workers employed at United States Department of Energy facilities .
+METHODS All cause , all cancer and cause-specific standardized mortality ratios were calculated .
+Cox regression analyses were conducted to further evaluate the relation between chemical exposure and mortality risk due to selected cancers .
+RESULTS The mortality due to all causes combined and all cancers combined were below expectation for the cohort .
+There were no statistically significant elevations reported among males for any specific cancer or non-cancer outcome .
+There no statistically significant elevations among females for any specific non-cancer and most specific cancers ; however , multiple myeloma deaths were significantly elevated ( SMR = 3.56 ; 95% CI = 1.43-7.33 ; number of observed deaths , n = 7 ) .
+Statistically significant elevations were seen among workers employed 20+ years for leukemia using both 2- and 5-year lag periods .
+Also , a statistically significant positive trend of elevated lung cancer mortality with increasing employment duration was seen using both 5- and 10-year lags .
+A similar trend was seen for smoking related cancers among men .
+CONCLUSION While lymphatic and hematopoietic cancer mortality was below expectation , a significant elevation of multiple myeloma deaths among females and an elevation of leukemia among workers employed 20+ years ( possibly due to radiation and benzene exposure ) were observed .
+A NIOSH case-control study is underway to examine more closely the relation between multiple myeloma and a variety of chemical exposures among workers employed at the Oak Ridge K-25 facility .

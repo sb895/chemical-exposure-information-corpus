@@ -1,0 +1,10 @@
+Recent studies have shown a strong positive correlation between chromosomal aberrations and future cancer risk .
+Sister chromatid exchange ( SCE ) has been widely applied in monitoring early biological effects to assess human genetic risk of cancer at the population level .
+We studied 45 Chinese workers ( 23 in the painting workshop of a glass factory with occupational exposure to benzene , and 22 fitters and planers in the punching and planing machine workshops of a nearby shipyard without such an exposure ) to examine the association between occupational exposure to benzene and SCE frequency in peripheral blood lymphocytes .
+We also sought to investigate whether the glutathione S-transferase class theta gene ( GSTT1 ) affects individual susceptibility to cytogenetic damage induced by in vivo exposure to benzene or in vitro exposure to diepoxybutane .
+The time-weighted average concentrations of benzene were 0.71 ppm in the exposed group and 0.03 ppm in the non-exposed group .
+Controlling for age , gender and educational level , cigarette smoking was significantly associated with increased SCE frequencies ( P < 0.05 ) , while GSTT1 genotype was significantly associated with DEB-induced SCEs ( P < 0.01 ) .
+There was no relationship between benzene exposure and baseline or DEB-induced SCEs .
+After stratification by smoking status , the GSTT1 deletion was a significant predictor of DEB-induced SCEs for both smokers ( P < 0.05 ) and nonsmokers ( P < 0.01 ) .
+A significant benzene-GSTT1 interaction was found in nonsmokers ( P < 0.05 ) .
+Our study suggests that GSTT1 is an important determinant of heterogeneity in individual susceptibility to chromosomal damage associated with exposure to benzene .

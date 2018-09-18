@@ -1,0 +1,7 @@
+Objective measures of exposure furnished by dust monitoring are both costly and time consuming and require a sufficient level of technology .
+However , they are important in demonstrating exposure-response relationships , in furnishing information necessary to establish environmental control levels , and to assess if interventions , for instance , improving dust control , have been effective .
+In this paper respiratory symptoms and cross-shift changes in spirometric lung function were related to dust exposure level in a grain mill assessed in two ways , subjectively ( by workers themselves on a four point scale ) and objectively ( by personal dust monitoring ) .
+Health indicators that depend on the individual's perception ( e.g. , symptoms ) correlated more closely with the subjectively assessed dust category , while health indicators that were measured objectively ( e.g. , cross-week FVC and FEV1 change ) correlated more closely with the objectively assessed dust category .
+However , the patterns of relationship of respiratory health indicators to either dust category were similar , and exposure assessed by one method was , to a large extent , a proxy for the other .
+The most significant predictor of workers ' choice of dust exposure category was the measured dust level .
+These findings indicate that exposure categories based on workers ' assessment of dustiness can be a useful tool in etiologic research , in particular in establishing exposure-response relationships .

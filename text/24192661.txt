@@ -1,0 +1,10 @@
+Arsenic ( As ) contamination of drinking water is a worldwide phenomenon whose effect among vulnerable and rural communities in the Rift Valley of Ethiopia in eastern Africa is not well studied .
+This study examines As exposure and bioaccumulation from drinking water by monitoring human keratin in the form of toenails from exposed populations .
+Groundwater samples from drinking water wells ( n=34 ) were collected along with toenail samples ( n=58 ) from local communities and were analyzed for trace metals including As by inductively coupled plasma mass spectrometry ( ICP-MS ) .
+Of the total number of wells tested , 53% had As level above the WHO maximum contamination level of 10\u2009p.p.b .
+Arsenic in toenails was significantly correlated to corresponding drinking water ( r=0.72 ; R(2)=0.52 ; P<0.001 ) .
+This correlation improves for drinking water with As concentrations above 2\u2009p.p.b .
+( r=0.74 ; R(2)=0.54 ; P<0.001 ) .
+Male minors ( <18 years old ) were found to have greater nail-As concentrations compared with adults consuming equal amounts of As ( P<0.05 ) .
+Estimated As dose specifically from drinking water sources was also associated with nail concentrations ( P<0.01 ) .
+We suggest that As measurement in nails could be a reliable method for detecting As exposure in residents living in rural areas .

@@ -1,0 +1,10 @@
+Numerous studies have indicated that for phthalates , the intake of contaminated foods is the most important exposure pathway for the general population .
+Up to now , data on dietary phthalate intake are scarce and - to the authors ' knowledge - not available for the Belgian population .
+Therefore , the purpose of this study was : ( 1 ) to assess the long-term intake of the Belgian population for eight phthalates considering different exposure scenarios ( benzylbutyl phthalate ( BBP ) ; di-n-butyl phthalate ( DnBP ) ; dicyclohexyl phthalate ( DCHP ) ; di(2-ethylhexyl) phthalate ( DEHP ) ; diethyl phthalate ( DEP ) ; diisobutyl phthalate ( DiBP ) ; dimethyl phthalate ( DMP ) , di-n-octyl phthalate ( DnOP) ) ; ( 2 ) to evaluate the intake of BBP , DnBP , DEP and DEHP against tolerable daily intake ( TDI ) values ; and ( 3 ) to assess the contribution of the different food groups to the phthalate intake .
+The intake assessment was performed using two Belgian food consumption databases , one with consumption data of preschool children ( 2.5 to 6.5 years old ) and another of adults ( \u226515 years old ) , combined with a database of phthalate concentrations measured in over 550 food products sold on the Belgian market .
+Phthalate intake was calculated using the ' Monte Carlo Risk Assessment ' programme ( MCRA 7.0 ) .
+The intake of DEHP was the highest , followed by DiBP .
+The intake of BBP , DnBP and DEP was far below the TDI for both children and adults .
+However , for DEHP , the 99th percentile of the intake distribution of preschoolers in the worst case exposure scenario was equal to 80% of the TDI , respectively .
+This is not negligible , since other exposure routes of DEHP exist for children as well ( e.g. mouthing of toys ) .
+Bread was the most important contributor to the DEHP intake and this may deserve further exploration , since the origin of this phthalate in bread remains unclear .

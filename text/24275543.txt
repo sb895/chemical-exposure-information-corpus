@@ -1,0 +1,11 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) are ubiquitously present in humans because of their resistance to degradation and accumulation in fatty tissues .
+Data on neurotoxic effects in older adults are limited .
+OBJECTIVE We examined the cross-sectional association between serum PCB concentrations and cognitive function in older adults from the general U.S. population .
+METHODS We analyzed data from 708 respondents , 60-84 years of age , participating in the National Health and Nutrition Examination Survey ( 1999-2002 ) .
+We used the summed concentrations of 12 lipid-standardized PCB congeners as the measure of exposure and assessed cognitive function with the Digit-Symbol Coding test .
+We adjusted analyses for age , education , race/ethnicity , and poverty/income ratio .
+RESULTS The median concentration of lipid-standardized PCBs in serum was 271 ng/g ( interquartile range , 193-399 ng/g ) .
+We found a significant interaction between dioxin-like PCB concentration and age in association with cognitive score ( p=0.04 ) .
+Among older individuals ( 70-84 years of age ) , a 100-ng/g increase in serum concentrations of dioxin-like PCBs was associated with a significantly lower cognitive score ( -2.7 points ; 95% CI : -5.1 , -0.2 ; p=0.04 ) ; however , in younger individuals ( 60-69 years of age ) , there was a nonsignificant positive association ( 2.9 points ; 95% CI : -1.8 , 7.7 ; p=0.32 ) .
+Among the older participants , the negative association was more pronounced in women than in men .
+CONCLUSION Our findings support the hypothesis that PCB exposure has adverse cognitive effects even at levels generally considered to pose low or no risk , perhaps affecting mainly those of advanced age .

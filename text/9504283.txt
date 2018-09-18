@@ -1,0 +1,9 @@
+Some studies indicate that chlorination by-products in drinking water may contribute slightly to breast cancer risk .
+This ecologic study describes the association between total trihalomethane levels in publicly supplied water and the incidence of female invasive breast cancer .
+We included 71 North Carolina water suppliers serving at least 10,000 customers in the summer of 1995 as the units of analysis .
+We estimated incidence rates using 6,462 cases who were either white or black and between 35 and 84 years old and were linked by zip codes to the water supplier .
+We treated ecologic measurements of age , income , education , urban status , and race as potential confounders .
+Total trihalomethane levels were not associated materially with breast cancer risk , adjusting for potential confounders .
+The rate ratio for 80.0 parts per billion ( ppb ) or more vs less than 40.0 ppb total trihalomethanes was 1.1 [ 95% confidence interval ( CI ) = 0.9-1.2 ] .
+When stratified by race , the observed association for the aforementioned total trihalomethane category was not very different in black women ( rate ratio = 1.2 ; 95% CI = 0.8-1.8 ) than in white women ( rate ratio = 1.1 ; 95% CI = 0.9-1.3 ) .
+These ecologic data are compatible with trihalomethanes in drinking water being either unrelated or weakly related to breast cancer risk .

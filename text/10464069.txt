@@ -1,0 +1,10 @@
+We assessed the levels of arsenic in drilled wells in Finland and studied the association of arsenic exposure with the risk of bladder and kidney cancers .
+The study persons were selected from a register-based cohort of all Finns who had lived at an address outside the municipal drinking-water system during 1967-1980 ( n = 144,627 ) .
+The final study population consisted of 61 bladder cancer cases and 49 kidney cancer cases diagnosed between 1981 and 1995 , as well as an age- and sex-balanced random sample of 275 subjects ( reference cohort ) .
+Water samples were obtained from the wells used by the study population at least during 1967-1980 .
+The total arsenic concentrations in the wells of the reference cohort were low ( median = 0.1 microg/L ; maximum = 64 microg/L ) , and 1% exceeded 10 microg/L .
+Arsenic exposure was estimated as arsenic concentration in the well , daily dose , and cumulative dose of arsenic .
+None of the exposure indicators was statistically significantly associated with the risk of kidney cancer .
+Bladder cancer tended to be associated with arsenic concentration and daily dose during the third to ninth years prior to the cancer diagnosis ; the risk ratios for arsenic concentration categories 0.1-0.5 and [ Greater/equal to ] 0.5 microg/L relative to the category with < 0.1 microg/L were 1.53 [ 95% confidence interval ( CI ) , 0.75-3.09 ] and 2.44 ( CI , 1.11-5.37 ) , respectively .
+In spite of very low exposure levels , we found some evidence of an association between arsenic and bladder cancer risk .
+More studies are needed to confirm the possible association between arsenic and bladder cancer risk at such low exposure levels .

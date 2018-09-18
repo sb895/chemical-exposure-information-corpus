@@ -1,0 +1,11 @@
+Arsenic , cadmium , lead , and mercury are neurotoxins , and some studies suggest that these elements might also be teratogens .
+Using a case-control study design , we investigated the relation between exposure to these heavy metals and neural tube defects ( NTDs ) in offspring of Mexican-American women living in 1 of the 14 Texas counties bordering Mexico .
+A total of 184 case-women with NTD-affected pregnancies and 225 control-women with normal live births were interviewed about their environmental and occupational exposures during the periconceptional period .
+Biologic samples for blood lead and urinary arsenic , cadmium , and mercury were also obtained for a subset of these women .
+Overall , the median levels of these biomarkers for heavy metal exposure did not differ significantly ( P > 0.05 ) between case- and control-women .
+However , among women in the highest income group , case-women were nine times more likely ( 95% confidence interval ( CI ) 1.4-57 ) than control-women to have a urinary mercury 5.62 microg/L .
+Case-women were 4.2 times more likely ( 95% CI 1.1-16 ) to report burning treated wood during the periconceptional period than control-women .
+Elevated odds ratios ( ORs ) were observed for maternal and paternal occupational exposures to arsenic and mercury , but the 95% CIs were consistent with unity .
+The 95% CIs of the ORs were also consistent with unity for higher levels of arsenic , cadmium , lead , and mercury in drinking water and among women who lived within 2 miles at the time of conception to industrial facilities with reported emissions of any of these heavy metals .
+Our findings suggest that maternal exposures to arsenic , cadmium , or lead are probably not significant risk factors for NTDs in offspring .
+However , the elevated urinary mercury levels found in this population and exposures to the combustion of treated wood may warrant further investigation .

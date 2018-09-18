@@ -1,0 +1,10 @@
+BACKGROUND Association of childhood respiratory illness with traffic air pollution has been investigated largely in developed but not in developing countries , where pollution levels are often very high .
+OBJECTIVES In this study we investigated associations between respiratory health and outdoor and indoor air pollution in schoolchildren 7-14 years of age in low socioeconomic status areas in the Niger Delta .
+METHODS A cross-sectional survey was carried out among 1,397 schoolchildren .
+Exposure to home outdoor and indoor air pollution was assessed by self-report questionnaire .
+School air pollution exposures were assessed using traffic counts , distance of schools to major streets , and particulate matter and carbon monoxide measurements , combined using principal components analysis .
+Hierarchical logistic regression was used to examine associations with reported respiratory health , adjusting for potential confounders .
+RESULTS Traffic disturbance at home ( i.e. , traffic noise and/or fumes evident inside the home vs. none ) was associated with wheeze [ odds ratio ( OR ) = 2.16 ; 95% confidence interval ( CI ) , 1.28-3.64 ] , night cough ( OR = 1.37 ; 95% CI , 1.03-1.82 ) , phlegm ( OR = 1.49 ; 95% CI , 1.09-2.04 ) , and nose symptoms ( OR = 1.40 ; 95% CI , 1.03-1.90 ) , whereas school exposure to a component variable indicating exposure to fine particles was associated with increased phlegm ( OR = 1.38 ; 95% CI , 1.09-1.75 ) .
+Nonsignificant positive associations were found between cooking with wood/coal ( OR = 2.99 ; 95% CI , 0.88-10.18 ) or kerosene ( OR = 2.83 ; 95% CI , 0.85-9.44 ) and phlegm compared with cooking with gas .
+CONCLUSION Traffic pollution is associated with respiratory symptoms in schoolchildren in a deprived area of western Africa .
+Associations may have been underestimated because of nondifferential misclassification resulting from limitations in exposure measurement .

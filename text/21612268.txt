@@ -1,0 +1,8 @@
+Limited published information exists on young children's exposures to bisphenol A ( BPA ) in the United States using urinary biomonitoring .
+In a previous project , we quantified the aggregate exposures of 257 preschool children to BPA in environmental and personal media over 48-h periods in 2000-2001 at homes and daycares in North Carolina and Ohio .
+In the present study for 81 Ohio preschool children ages 23-64 months , we quantified the children's urinary total BPA ( free and conjugated ) concentrations over these same 48-h periods in 2001 .
+Then , we examined the quantitative relationships between the children's intakes doses of BPA through the dietary ingestion , nondietary ingestion , and inhalation routes and their excreted amounts of urinary BPA .
+BPA was detected in 100% of the urine samples .
+The estimated median intake doses of BPA for these 81 children were 109 ng/kg/day ( dietary ingestion ) , 0.06 ng/kg/day ( nondietary ingestion ) , and 0.27 ng/kg/day ( inhalation ) ; their estimated median excreted amount of urinary BPA was 114 ng/kg/day .
+Our multivariable regression model showed that dietary intake of BPA ( p = 0.04 ) and creatinine concentration ( p = 0.004 ) were significant predictors of urinary BPA excretion , collectively explaining 17% of the variability in excretion .
+Dietary ingestion of BPA accounted for >95% of the children's excreted amounts of urinary BPA .

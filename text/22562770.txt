@@ -1,0 +1,11 @@
+BACKGROUND Maternal factors are implicated in the onset of childhood asthma .
+Differentiation of naïve CD4+ T lymphocytes into pro-allergic T-helper 2 cells induces interleukin ( IL)4 expression and inhibits interferon ( IFN)\u03b3 expression accompanied by concordant methylation changes in the promoters of these genes .
+However , it has yet to be established whether maternal exposure to polycyclic aromatic hydrocarbons ( PAHs ) can alter these gene promoters epigenetically during fetal development .
+OBJECTIVES In this study we sought to elucidate the relationship between maternal PAH exposure and promoter methylation status of IFN\u03b3 and IL4 .
+METHODS We assessed the effects of benzo[a]pyrene ( BaP ) , a representative airborne PAH , on the methylation status of the IFN\u03b3 and IL4 promoters in Jurkat cells and two lung adenocarcinoma cell lines , and on gene expression .
+In addition , we evaluated methylation status of the IFN\u03b3 promoter in cord white blood cells from 53 participants in the Columbia Center for Children's Environmental Health cohort .
+Maternal PAH exposure was estimated by personal air monitoring during pregnancy .
+RESULTS In vitro exposure of the cell models to low , noncytotoxic doses ( 0.1 and 1 nM ) of BaP elicited increased promoter hypermethylation and reduced expression of IFN\u03b3 , but not IL4 .
+IFN\u03b3 promoter methylation in cord white blood cells was associated with maternal PAH exposure in the cohort study subsample .
+CONCLUSION Consistent with the results for the cell lines , maternal exposure to PAHs was associated with hypermethylation of IFN\u03b3 in cord blood DNA from cohort children .
+These findings support a potential role of epigenetics in fetal reprogramming by PAH-induced environmental diseases .

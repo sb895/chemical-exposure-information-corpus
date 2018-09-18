@@ -1,0 +1,12 @@
+In vivo studies indicate that prenatal or neonatal exposure of rodents to polybrominated diphenyl ethers ( PBDEs ) disrupts thyroid hormone balance , but few studies have reported an association of PBDEs and insulin-like growth factor 1 ( IGF-1 ) .
+The goal was to examine whether PBDEs exposure affects the levels of thyroid hormones and IGF-1 in cord blood .
+Study participants were healthy pregnant women recruited from the general population in central Taiwan between 2000 and 2001 and in southern Taiwan from 2007 to 2009 .
+One-hundred-forty-nine breast milk samples ( n=149 ) , which were collected within one month after delivery , were analyzed using a high resolution gas chromatograph equipped with a high resolution mass spectrometer .
+The average and median levels of breast milk \u03a3(14)PBDEs were 5.34 and 3.38 ng/g lipid in 2000-2001 and 5.22 and 3.13 ng/g lipid in 2007-2009 , respectively .
+In general , levels of PBDE congeners were very low in this study population and not significantly different between the years 2000-2001 and 2007-2009 .
+Breast milk \u03a3(14)PBDEs were not significantly correlated with thyroid hormones and IGF-1 in cord blood .
+After examining multiple stepwise linear regression models with adjustment for maternal age , pre-pregnancy body mass index ( BMI ) , parity , gestational age , and region ( namely , central and southern Taiwan ) , we found that log of T4 in cord blood was significantly but slightly correlated with higher BDE-154 ( B=0.113 , p=0.017 ) in breast milk .
+The log of FT4 concentration was significantly related to a decrease in the log of BDE-99 level ( B=-0.137 , p=0.043 ) and an increase in the log of BDE-154 level ( B=0.158 , p=0.008 ) .
+Meanwhile , the log of IGF-1 level was also significantly linked to an increase in the log of BDE-196 level ( B=0.532 , p=0.028 ) and decrease in the log of BDE-85 level ( B=-0.235 , p=0.018 ) .
+Few epidemiological studies report an association between PBDEs exposure and IGF-1 .
+Based on our findings , further in vivo and epidemiological studies are encouraged and needed to explore associations between PBDEs exposure and levels of thyroid hormones and IGF-1 .

@@ -1,0 +1,10 @@
+Exposure of experimental animals or cultured cells to arsenic induces oxidative stress , but , to date , no examination of this phenomenon in humans has been reported .
+In this study we conducted a cross-sectional study in Wuyuan , Inner Mongolia , China , to explore the relationship between chronic arsenic exposure from drinking water and oxidative stress in humans .
+Thirty-three inhabitants who had been drinking tube-well water with high concentrations of inorganic arsenic ( mean value = 0.41 mg/L ) for about 18 years constituted the high-exposure group , and 10 residents who lived nearby but were exposed to much lower concentrations of arsenic in their drinking water ( mean value = 0.02 mg/L ) were selected as the low-exposure comparison group .
+Results of the present study indicated that although the activity for superoxide dismutase ( SOD ) in blood did not differ significantly between the two groups , the mean serum level of lipid peroxides ( LPO ) was significantly higher among the high-exposed compared with the low-exposed group .
+Elevated serum LPO concentrations were correlated with blood levels of inorganic arsenic and its methylated metabolites .
+In addition , they showed an inverse correlation with nonprotein sulfhydryl ( NPSH ) levels in whole blood .
+The subjects in the high-arsenic-exposure group had mean blood NPSH levels 57.6% lower than those in the low-exposure group .
+Blood NPSH levels were inversely correlated with the concentrations of inorganic arsenic and its methylated metabolites in blood and with the ratio of monomethylarsenic to inorganic arsenic .
+These results provide evidence that chronic exposure to arsenic from drinking water in humans results in induction of oxidative stress , as indicated by the reduction in NPSH and the increase in LPO .
+Some possible mechanisms for the arsenic-induced oxidative stress are discussed .

@@ -1,0 +1,16 @@
+BACKGROUND Arsenic exposure is associated with human cancer .
+Telomerase-containing human telomerase reverse transcriptase ( hTERT ) can extend telomeres of chromosomes , delay senescence , and promote cell proliferation leading to tumorigenesis .
+OBJECTIVE The goal of this study was to investigate the effects of As on hTERT mRNA expression in humans and in vitro .
+METHOD A total of 324 Inner Mongolia residents who have been exposed to As via drinking water participated in this study .
+Water and toenail samples were collected and analyzed for As .
+Blood samples were quantified for hTERT mRNA expression using real-time polymerase chain reaction .
+The hTERT mRNA levels were linked to water and nail As concentrations and skin hyperkeratosis .
+Human epidermal keratinocytes were treated with arsenite to assess effects on cell viability and hTERT expression in vitro .
+RESULTS hTERT mRNA expression levels were significantly associated with As concentrations of water ( p<0.0001 ) and nails ( p=0.002 ) and also associated with severity of skin hyperkeratosis ( p<0.05 ) , adjusting for age , sex , smoking , and pesticide use .
+Females showed a higher slope than males ( females : 0.126 , p=0.0005 ; males : 0.079 , p=0.017 ) .
+In addition to water and nail As concentrations , age ( p<0.0001 ) and pesticide use ( p=0.025 ) also showed significant associations with hTERT expression .
+The hTERT expression levels decreased with age .
+Tobacco smoking did not affect hTERT expression ( p=0.13). hTERT expression was significantly correlated with OGG1 and ERCC1 expression .
+The in vitro results also showed a dose-response relationship between arsenite concentrations and hTERT expression and reached the peak at 1 microM .
+CONCLUSIONS hTERT expression was associated with As exposure in vivo and in vitro .
+The increased hTERT expression may be a cellular response to genomic insults by As and may also indicate that As may function as a tumor promoter in carcinogenesis in humans .

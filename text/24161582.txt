@@ -1,0 +1,11 @@
+Background exposure to organochlorine ( OC ) pesticides and polychlorinated biphenyls ( PCBs ) has been linked to type 2 diabetes .
+As OC pesticides and PCBs mainly accumulate in adipose tissue and there are physiological and clinical differences between visceral adipose tissue ( VAT ) and subcutaneous adipose tissue ( SAT ) , we explored if there were associations of OC pesticides and PCBs in VAT or SAT with type 2 diabetes and insulin resistance .
+Participants were 50 patients with or without type 2 diabetes who underwent surgery for either cancer or benign liver or gallbladder lesions .
+We analyzed 14 OC pesticides and 22 PCB congeners in both VAT and SAT .
+Insulin resistance was estimated using homeostasis model assessment ( HOMA ) .
+Although concentrations of OC pesticides and PCBs were strongly correlated between VAT and SAT , absolute concentrations differed substantially between them .
+In particular , concentrations of all PCBs were consistently about 5-10 times higher in VAT than SAT , but these patterns were independent of diabetes status .
+Some OC pesticides or PCBs , such as dichlorodiphenyltrichloroethanes ( DDTs ) , chlordanes , and PCBs with 5 or less chlorides showed significant associations with diabetes or insulin resistance .
+For example , when tertiles of concentration-based summary measures were used , adjusted ORs were 1.0 , 2.3 , and 9.0 ( P trend=0.02 ) for DDTs in VAT and 1.0 , 2.1 , and 5.7 ( P trend=0.08 ) for PCBs with 5 or less chlorides .
+This study generally confirmed previous findings using serum concentrations .
+It would be useful to study pharmacodynamics of POPs in VAT and SAT further .

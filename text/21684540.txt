@@ -1,0 +1,14 @@
+BACKGROUND Dichlorodiphenyltrichloroethane ( DDT ) and polychlorinated biphenyls ( PCBs ) are persistent organochlorine compounds bioaccumulating in human tissues .
+Body burden of organochlorines may be influenced by individual characteristics such as age , weight variations , breastfeeding , dietary habits and place of residence .
+OBJECTIVES To assess the current serum concentrations of 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene ( p,p'-DDE ) , the main DDT breakdown product , and of PCBs in women from two French administrative areas ( Ille-et-Vilaine and Côte d'Or ) .
+To identify determinants of the current serum levels among individual characteristics related to intake , metabolism , and excretion of organochlorines .
+METHODS We measured serum p,p'-DDE and PCB levels in 1055 general population women who were recruited in 2005-2007 to serve as controls in a case-control study on breast cancer .
+Associations between organochlorine levels and age , current body mass index ( BMI ) , BMI change during the last 10 years , dietary habits , breastfeeding history , residence area and education were assessed in multivariate analyses .
+RESULTS Median concentrations of p,p'-DDE and total PCBs were 85 and 240ng/g lipid , respectively .
+Based on multivariate analyses , the main predictors of high p,p'-DDE levels included age and frequent consumption of saltwater fish in women below 50 years , and high BMI in older women .
+Total PCB levels increased markedly with age .
+Among older women , other important predictors of high PCB levels included frequent consumption of saltwater fish and low BMI .
+Our results are also suggestive of an inverse association between PCB levels and BMI gain during the last ten years .
+Women in Côte d'Or had significantly higher PCB levels than women in Ille-et-Vilaine .
+CONCLUSION The patterns of associations between determinants and serum organochlorine concentrations suggest that human PCB contamination is still ongoing in France .
+The most important predictors of serum p,p'-DDE and PCB concentrations among French women include age , body mass index , dietary habits , and place of residence .

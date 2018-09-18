@@ -1,0 +1,8 @@
+There is limited information on the bioaccessible fractions of phthalate esters in indoor dust in order to estimate human exposure .
+In the present study , workplace dust and settled house dust samples from Hong Kong , Shenzhen , and Guangzhou , the three major cities scattered around the Pearl River Delta ( PRD ) were collected .
+Chemical analyses showed that the phthalates in workplace dust ranged from 144 to 1810 \u03bcg/g , with dust from shopping malls containing the highest level , and in home dust ranged from 181 to 9240 \u03bcg/g .
+The most abundant phthalate ester found was bis(2-ethylhexyl) phthalate ( DEHP ) in both workplace dust and home dust , followed by di-n-butyl phthalate ( DBP ) and di-iso-butyl phthalate ( DIBP ) .
+Principal Components Analysis ( PCA ) indicated that indoor dust around PRD showed similar phthalate esters patterns of composition .
+A significant correlation was observed between total phthalate esters concentrations in home dust and the number of year of house construction ( p < 0.05 ) .
+The oral bioaccessibility of phthalate esters in indoor dust ranged from 10.2% ( DEHP ) to 32% ( DMP ) .
+Risk assessment indicated that the dominant exposure routes varied in different phthalate esters exposure profiles and the dermal contact exposure pathway was identified as an important route for indoor DEHP exposure .

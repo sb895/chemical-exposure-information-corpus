@@ -1,0 +1,10 @@
+Resin-based composite dental restoration materials may release bisphenol-A , an endocrine-disrupting chemical .
+Using secondary analysis of a randomized clinical safety trial of amalgam vs. composites , we tested the hypothesis that dental restoration materials affect children's growth .
+Children ( N = 218 boys , N = 256 girls ) aged 6 to 10 yrs at baseline with \u2265 2 decayed posterior teeth were randomized to amalgam or composites ( bisphenol-A-diglycidyl-dimethacrylate composite for permanent teeth , urethane-dimethacrylate compomer for primary teeth ) for treatment of posterior caries throughout follow-up .
+Primary outcomes for this analysis were 5-year changes in BMI-for-age z-scores , body fat percentage ( BF% ) , and height velocity ; exploratory analyses ( n = 113 ) examined age at menarche .
+Results showed no significant differences between treatment assignment and changes in physical development in boys [ (composites vs .
+amalgam ) BF% , 4.9 vs. 5.7 , p = 0.49 ; ( BMI-z-score ) 0.13 vs. 0.25 , p = 0.36 ] or girls ( 8.8 vs. 7.7 , p = 0.95 ; 0.36 vs. 0.21 , p = 0.49 ) .
+Children with more treatment on primary teeth had greater increases in BF% regardless of material type .
+Girls assigned to composites had lower risk of menarche during follow-up ( hazard ratio = 0.57 , 95% CI 0.35-0.95 ) .
+Overall , there were no significant differences in physical development over 5 years in children treated with composites or amalgam .
+Additional studies examining these restoration materials in relation to age at menarche are warranted ( clinicaltrials.gov number NCT00065988 ) .

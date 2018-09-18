@@ -1,0 +1,11 @@
+Prenatal exposures to persistent organic pollutants were assessed using the levels of PCBs and organochlorine pesticides ( OCPs ) measured in cord blood and meconium samples from Luqiao and two other localities of the Zhejiang province in China .
+Luqiao is a town with the largest site for disassembly of PCB-containing obsolete transformers and electrical waste in China .
+The other two localities Pingqiao ( 100 km NW of Luqiao ) and Lin'an ( 500 km NW of Luqiao ) are towns without known electronic or electrical waste sites .
+A total of 23 PCB congeners ( including 12 dioxin-like ) and 6 OCPs were measured using the traditional GC-muECD technique .
+Micro-EROD bioassay was additionally used to measure TCDD-based TEQ levels of the 12 dioxin-like PCBs .
+Significant correlations were found between the TEQs measured by the two methods , supporting the application of micro-EROD as a practical tool for complementing the chemical analysis .
+The data showed that beta-HCH , p,p'-DDE , and 6 PCB congeners ( 101 , 138 , 153 , 180 , 183 , and 187 ) were the predominant pollutants , with PCB138 being the best indicator ( predictor ) for total PCB levels .
+Cord blood and meconium from Luqiao have higher levels of PCBs than those from the other two localities , suggesting that a disassembly site for electronic and electric waste would provide an environment for greater exposure to these chemicals .
+The cord blood or meconium levels of beta-HCH , though likewise considerably high , were comparable in the three localities .
+Similar findings were observed for p,p'-DDE .
+Pollution by these OCPs might have come from past use of agricultural pesticides in the three localities .

@@ -1,0 +1,6 @@
+Arsenic in drinking water is known to be a cause of lung , bladder , and skin cancer , and some studies report cardiovascular disease effects .
+The authors investigated mortality from 1950 to 2000 in the arsenic-exposed region II of Chile ( population : 477,000 in 2000 ) in comparison with the unexposed region V. Increased risks were found for acute myocardial infarction ( AMI ) , with mortality rate ratios of 1.48 for men ( 95% confidence interval ( CI ) : 1.37 , 1.59 ; p < 0.001 ) and 1.26 for women ( 95% CI : 1.14 , 1.40 ; p < 0.001 ) during the high-exposure period in region II from 1958 to 1970 .
+The highest rate ratios were for young adult men aged 30-49 years who were born during the high-exposure period with probable exposure in utero and in early childhood ( rate ratio = 3.23 , 95% CI : 2.79 , 3.75 ; p < 0.001 ) .
+Compared with lung and bladder cancer , AMI mortality was the predominant cause of excess deaths during and immediately after the high-exposure period .
+Ten years after reduction of exposures , AMI mortality had decreased , and longer latency excess deaths from lung and bladder cancer predominated .
+With these three causes of death combined , increased mortality peaked in 1991-1995 , with estimated excess deaths related to arsenic exposure constituting 10.9% of all deaths among men and 4.0% among women .

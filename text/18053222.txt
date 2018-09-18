@@ -1,0 +1,13 @@
+BACKGROUND Chronic arsenic exposure is associated with an increased risk of skin , bladder and lung cancers .
+Generation of oxidative stress may contribute to arsenic carcinogenesis .
+METHODS To investigate the association between arsenic exposure and oxidative stress , urinary 8-hydroxy-2'-deoxyguanosine ( 8-OHdG ) was evaluated in a cohort of 97 women recruited from an arsenic-endemic region of Bangladesh in 2003 .
+Arsenic exposure was measured in urine , toenails , and drinking water .
+Drinking water and urine samples were collected on three consecutive days .
+Susceptibility to oxidative stress was evaluated by genotyping relevant polymorphisms in glutathione-s transferase mu ( GSTM1 ) , human 8-oxoguanine glycosylase ( hOGG1 ) and apurinic/apyrimidinic endonuclease ( APE1 ) genes using the Taqman method .
+Data were analyzed using random effects Tobit regression to account for repeated measures and 8-OHdG values below the detection limit .
+RESULTS A consistent negative effect for APE1 was observed across water , toenail and urinary arsenic models .
+APE1 148 glu/glu + asp/glu genotype was associated with a decrease in logged 8-OHdG of 0.40 ( 95%CI -0.73 , -0.07 ) compared to APE1 148 asp/asp .
+An association between total urinary arsenic and 8-OHdG was observed among women with the GSTM1 null genotype but not in women with GSTM1 positive .
+Among women with GSTM1 null , a comparison of the second , third , and fourth quartiles of total urinary arsenic to the first quartile resulted in a 0.84 increase ( 95% CI 0.27 , 1.42 ) , a 0.98 increase ( 95% CI 033 , 1.66 ) and a 0.85 increase ( 95% CI 0.27 , 1.44 ) in logged 8-OHdG , respectively .
+No effects between 8-OHdG and toenail arsenic or drinking water arsenic were observed .
+CONCLUSION These results suggest the APE1 variant genotype decreases repair of 8-OHdG and that arsenic exposure is associated with oxidative stress in women who lack a functional GSTM1 detoxification enzyme .

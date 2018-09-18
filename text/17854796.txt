@@ -1,0 +1,14 @@
+Experimental studies suggest that selenium ( Se ) may decrease methylmercury ( MeHg ) toxicity under certain exposure regimens .
+In epidemiological studies , the exposure to MeHg occurs from fish and seafood , which are also a source of beneficial nutrients such as selenium .
+However , little is known about the potential protective effects of dietary Se against MeHg neurotoxicity in humans .
+The possible interaction was assessed in two birth cohorts in the Faroe Islands , consisting of singleton term births from 1986 to 1987 ( N=1,022 ) , and 1994 to 1995 ( N=182 ) , respectively .
+Dietary habits in this fishing population included frequent consumption of seafood , including whale meat high in mercury .
+Both Hg and Se were measured in cord whole blood .
+Neurodevelopmental outcomes were evaluated at age 7 years in both cohorts , and the smaller cohort also included neurological assessment on several prior occasions .
+Each outcome was modeled as a function of Hg and Se interactions ( with adjustments for potential risk factors ) by expressing the effects of log10(Hg) within the lowest 25% , the middle 50% , and the highest 25% of the Se distribution .
+Surplus Se was present in cord blood , the average being a 10-fold molar excess above MeHg .
+Regression analyses failed to show consistent effects of Se , or statistically significant interaction terms between Se and MeHg .
+Overall , no evidence was found that Se was an important protective factor against MeHg neurotoxicity .
+Prevention , therefore , needs to address MeHg exposures rather than Se intakes .
+Because of the benefits associated with fish intake during pregnancy , consumers should be advised to maintain a high fish and seafood intake that is low in Hg contamination .
+Additional research is needed to determine the identity of the nutrients responsible for the beneficial effects .

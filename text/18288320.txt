@@ -1,0 +1,7 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) may accelerate the cognitive and motor dysfunction found in normal aging , but few studies have examined these outcomes and PCB exposure among older adults .
+OBJECTIVE We evaluated neuropsychological status and low-level PCB exposure among older adults living along contaminated portions of the upper Hudson River in New York .
+METHODS A total of 253 persons between 55 and 74 years of age were recruited and interviewed , and provided blood samples for congener-specific PCB analysis .
+Participants also underwent a neuropsychological battery consisting of 34 tests capable of detecting subtle deficits in cognition , motor function , affective state , and olfactory function .
+RESULTS After adjustment for potential confounders , the results indicated that an increase in serum total PCB concentration from 250 to 500 ppb ( lipid basis ) was associated with a 6.2% decrease in verbal learning , as measured by California Verbal Learning Test trial 1 score ( p = 0.035 ) , and with a 19.2% increase in depressive symptoms , as measured by the Beck Depression Inventory ( p = 0.007 ) .
+CONCLUSIONS The results suggest that exposure to PCBs may be associated with some measures of memory and learning and depression among adults 55-74 years of age whose current body burdens are similar to those of the general population .
+Although the results are useful in delineating the neuropsychological effects of low-level exposure to PCBs , further studies of whether older men and women are a sensitive subpopulation are needed .

@@ -1,0 +1,12 @@
+This paper presents indoor air pollutant concentrations and allergen levels collected from the homes of 100 Baltimore city asthmatic children participating in an asthma intervention trial .
+Particulate matter ( PM ) , NO2 , and O3 samples were collected over 72 h in the child's sleeping room .
+Time-resolved PM was also assessed using a portable direct-reading nephelometer .
+Dust allergen samples were collected from the child's bedroom , the family room , and the kitchen .
+The mean PM10 concentration , 56.5+/-40.7 microg/m3 , is 25% higher than the PM2.5 concentration ( N=90 ) , 45.1+/-37.5 microg/m3 .
+PM concentrations measured using a nephelometer are consistent and highly correlated with gravimetric estimates .
+Smoking households ' average PM2.5 and PM10 concentrations are 33-54 microg/m3 greater than those of nonsmoking houses , with each cigarette smoked adding 1.0 microm/m3 to indoor PM2.5 and PM10 concentrations .
+Large percentages of NO2 and O3 samples , 25% and 75% , respectively , were below the limit of detection .
+The mean NO2 indoor concentration is 31.6+/-40.2 ppb , while the mean indoor O3 concentration in the ozone season was 3.3+/-7.7 ppb .
+The levels of allergens are similar to those found in other inner cities .
+Results presented in this paper indicate that asthmatic children in Baltimore are exposed to elevated allergens and indoor air pollutants .
+Understanding this combined insult may help to explain the differential asthma burden between inner-city and non-inner-city children .

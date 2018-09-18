@@ -1,0 +1,1 @@
+< <exposure routes--oral intake--products--< <Biomonitoring--exposure biomarker--blood-- AND biomonitoring--exposure biomarker--other AND  Biomonitoring--exposure biomarker--urine--< < < <Biomonitoring--exposure biomarker--blood-- AND biomonitoring--exposure biomarker--other AND  Biomonitoring--exposure biomarker--urine--<exposure routes--oral intake--products--

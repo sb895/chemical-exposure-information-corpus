@@ -1,0 +1,14 @@
+As part of an EPA-sponsored workshop to investigate the use of source apportionment in health effects analyses , the associations between the participant's estimated source contributions of PM(2.5) for Phoenix , AZ for the period from 1995-1997 and cardiovascular and total nonaccidental mortality were analyzed using Poisson generalized linear models ( GLM ) .
+The base model controlled for extreme temperatures , relative humidity , day of week , and time trends using natural spline smoothers .
+The same mortality model was applied to all of the apportionment results to provide a consistent comparison across source components and investigators/methods .
+Of the apportioned anthropogenic PM(2.5) source categories , secondary sulfate , traffic , and copper smelter-derived particles were most consistently associated with cardiovascular mortality .
+The sources with the largest cardiovascular mortality effect size were secondary sulfate ( median estimate=16.0% per 5th-to-95th percentile increment at lag 0 day among eight investigators/methods ) and traffic ( median estimate=13.2% per 5th-to-95th percentile increment at lag 1 day among nine investigators/methods ) .
+For total mortality , the associations were weaker .
+Sea salt was also found to be associated with both total and cardiovascular mortality , but at 5 days lag .
+Fine particle soil and biomass burning factors were not associated with increased risks .
+Variations in the maximum effect lag varied by source category suggesting that past analyses considering only single lags of PM(2.5) may have underestimated health impact contributions at different lags .
+Further research is needed on the possibility that different PM(2.5) source components may have different effect lag structure .
+There was considerable consistency in the health effects results across source apportionments in their effect estimates and their lag structures .
+Variations in results across investigators/methods were small compared to the variations across source categories .
+These results indicate reproducibility of source apportionment results across investigative groups and support applicability of these methods to effects studies .
+However , future research will also need to investigate a number of other important issues including accuracy of results .

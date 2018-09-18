@@ -1,0 +1,11 @@
+BACKGROUND Exposure to inorganic arsenic ( As ) through drinking water during pregnancy is associated with lower birth size and child growth .
+The aim of the study was to assess the effects of As exposure on child growth parameters to evaluate causal associations .
+METHODOLOGY/FINDINGS Children born in a longitudinal mother-child cohort in rural Bangladesh were studied at 4.5 years ( n=640 ) as well as at birth ( n=134 ) .
+Exposure to arsenic was assessed by concurrent and prenatal ( maternal ) urinary concentrations of arsenic metabolites ( U-As ) .
+Associations with plasma concentrations of insulin-like growth factor 1 ( IGF-1 ) , calcium ( Ca ) , vitamin D ( Vit-D ) , bone-specific alkaline phosphatase ( B-ALP ) , intact parathyroid hormone ( iPTH ) , and phosphate ( PO4 ) were evaluated by linear regression analysis , adjusted for socioeconomic factor , parity and child sex .
+Child U-As ( per 10 µg/L ) was significantly inversely associated with concurrent plasma IGF-1 ( \u03b2=-0.27 ; 95% confidence interval : -0.50 , -0.0042 ) at 4.5 years .
+The effect was more obvious in girls ( \u03b2=-0.29 ; -0.59 , 0.021 ) than in boys , and particularly in girls with adequate height ( \u03b2=-0.491 ; -0.97 , -0.02 ) or weight ( \u03b2=-0.47 ; 0.97 , 0.01 ) .
+Maternal U-As was inversely associated with child IGF-1 at birth ( r=-0.254 , P=0.003 ) , but not at 4.5 years .
+There was a tendency of positive association between U-As and plasma PO4 in stunted boys ( \u03b2=0.27 ; 0.089 , 0.46 ) .
+When stratified by % monomethylarsonic acid ( MMA , arsenic metabolite ) ( median split at 9.7% ) , a much stronger inverse association between U-As and IGF-1 in the girls ( \u03b2=-0.41 ; -0.77 , -0.03 ) was obtained above the median split .
+CONCLUSION The results suggest that As-related growth impairment in children is mediated , at least partly , through suppressed IGF-1 levels .

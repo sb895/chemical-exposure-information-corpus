@@ -1,0 +1,10 @@
+Renal function has been examined in a group of 77 subjects occupationally exposed to cadmium fume and dust , together with a referent group of 103 age- and socioeconomically matched subjects .
+Fourteen biochemical parameters were measured on each subject .
+Three different ways of combining the information from all 14 tests were used to identify those subjects with renal dysfunction .
+These were first to count the number of parameters in which a subject recorded an abnormal test result .
+Second , the z value was computed for each parameter for each person by comparison with the mean and standard deviation of a derived normal population ; these z scores were then summed .
+Lastly a multivariate distance measure , Mahalanobis D2 , was determined for each subject from the distribution of normal subjects .
+The three approaches showed a considerable degree of agreement in identifying subjects with renal dysfunction , but they also displayed complementary strengths and weaknesses .
+The consensus of the three techniques was then taken to define truly dysfunctional subjects and each of the 14 parameters , and some combinations of pairs of parameters were tested as to their sensitivity and specificity .
+For this group of subjects , it was not possible to improve greatly on the use of retinol binding protein on its own .
+Were a second parameter to be chosen , it would be desirable to choose one reflecting the glomerular filtration rate , but the absence of a suitable sensitive biological monitoring parameter precludes a firm recommendation .

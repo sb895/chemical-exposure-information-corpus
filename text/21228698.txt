@@ -1,0 +1,14 @@
+BACKGROUND Much time is spent in traffic , especially during rush hours , when air pollution concentrations on roads are relatively high .
+Controlled exposure studies have shown acute respiratory effects of short , high exposures to air pollution from motor vehicles .
+Acute health effects of lower real-life exposures in traffic are unclear .
+METHODS Exposures of 34 healthy , nonsmoking adult volunteers were repeatedly measured while commuting for 2 hours by bus , car , or bicycle .
+Particle number ( PN ) , particulate matter ( PM2.5 and PM10 ) , and soot exposures were measured .
+Lung function and airway resistance were measured directly before , directly following , and 6 hours after exposure .
+Exhaled nitric oxide ( NO ) was measured directly before and 6 hours after exposure .
+Inhaled doses were estimated based on monitored heart rates .
+Mixed models were used to analyze effects of exposure on changes in health parameters after exposure compared with before .
+RESULTS PN , PM10 , and soot were associated with decreased peak expiratory flow directly following but not 6 hours after exposure .
+PN doses were associated with decreases in maximum midexpiratory flow and forced expiratory flow ( FEV1 ) 6 hours after exposure , whereas PN and soot exposures were associated with increased maximum midexpiratory flow and FEV1 directly after exposure .
+PN and soot were associated with increased exhaled NO after car and bus but not bicycle trips .
+PN was also associated with an increase in airway resistance directly following exposure but not 6 hours later .
+CONCLUSIONS We found modest effects of 2-hour in-traffic exposure to air pollutants on peak flow , exhaled NO , and airway resistance .

@@ -1,0 +1,9 @@
+BACKGROUND Dioxin-like chemicals are known to exert their effect by binding to aryl hydrocarbon receptor ( AhR ) , forming complexes with aryl hydrocarbon nuclear translocator ( ARNT ) , and binding to dioxin responsive elements ( DREs ) in promoter region to regulate the transcription of specific genes .
+In a previous study of the Yucheng cohort of humans who were exposed to high toxic levels of dioxin-like chemicals ( PCDFs and PCBs ) , we reported marked induction of cytochrome P450 1A2 ( CYP1A2 ) activity and this induction was an excellent biomarker of the exposure and adverse human health effects seen in the Yucheng cohort .
+OBJECTIVES The goal of this study was to determine the relationship between inducibility of CYP1A2 and genetic polymorphisms of AhR , ARNT , and AhRR in human .
+METHODS The Yucheng victims who completed blood sample collecting in 1994-1995 for serum concentrations of PCB , PCDF , and PCDD congeners , and also completed the caffeine breath tests for CYP1A2 activity were identified .
+From the collected blood samples , six single nucleotide polymorphisms were selected for genotyping , including AhR ( rs2066853 ) , AhRR ( rs2292596 ) , ARNT ( rs7517566 ) , ARNT ( rs3820541 ) , ARNT ( rs3768016 ) , and ARNT ( rs2228099 ) .
+RESULTS AhRR ( rs2292596 ) polymorphism was significantly related to CYP1A2 inducibility ( p=0.01 ) .
+A linear trend test was observed between people with AhRR ( rs2292596 ) GG , GC , and CC genotype ( p=0.0014 ) .
+CONCLUSION Overall , AhRR ( rs2292596 ) genotypes predict the inducibility of CYP1A2 in people highly exposed to toxic dioxin-like chemicals .
+Future studies and analysis will determine to what degree these polymorphisms can predict a human's susceptibility to dioxin-related adverse human health effects .

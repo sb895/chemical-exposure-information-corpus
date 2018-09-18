@@ -1,0 +1,1 @@
+< <Biomonitoring--effect marker-- AND  Biomonitoring--effect marker--biomarker--molecule--lipid<Biomonitoring--effect marker--biomarker--molecule--lipid AND biomonitoring--exposure biomarker--blood--pregnant women<biomonitoring--exposure biomarker--blood--pregnant women AND  Biomonitoring--exposure biomarker--placenta<  Biomonitoring--exposure biomarker--placenta< < < < < < 

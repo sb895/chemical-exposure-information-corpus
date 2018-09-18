@@ -1,0 +1,10 @@
+BACKGROUND Exposure to arsenic-contaminated drinking water during pregnancy is associated with low birth weight and fetal loss , and there is concern that the infants ' development may be affected .
+OBJECTIVE We assessed the effects of in utero arsenic exposure during pregnancy on infants ' problem-solving ability and motor development .
+METHODS We conducted a large population-based study of nutritional supplementation with 4,436 pregnant women in Matlab , Bangladesh , an area of high-arsenic-contaminated tube wells .
+We measured arsenic concentration in spot urine specimens at 8 and 30 weeks of pregnancy .
+We assessed a subsample of 1,799 infants , born to these mothers , at 7 months of age on two problem-solving tests ( PSTs ) , the motor scale of the Bayley Scales of Infant Development-II , and behavior ratings .
+RESULT Arsenic concentrations in maternal urine were high , with a median ( interquartile range ) of 81 microg/L ( 37-207 microg/L ) at 8 weeks of gestation and of 84 microg/L ( 42-230 microg/L ) at 30 weeks .
+Arsenic exposure was related to many poor socioeconomic conditions that also correlated with child development measures .
+Multiple regressions of children's motor and PST scores and behavior ratings , controlling for socioeconomic background variables , age , and sex , showed no significant effect of urinary arsenic concentration on any developmental outcome .
+CONCLUSION We detected no significant effect of arsenic exposure during pregnancy on infant development .
+However , it is possible that other effects are as yet unmeasured or that effects will become apparent at a later age .

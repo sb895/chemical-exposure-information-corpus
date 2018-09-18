@@ -1,0 +1,11 @@
+OBJECTIVE Assess the national prevalence of current workplace exposure to potential skin hazards , secondhand smoke ( SHS ) , and outdoor work among various industry and occupation groups .
+Also , assess the national prevalence of chronic workplace exposure to vapors , gas , dust , and fumes ( VGDF ) among these groups .
+METHODS Data were obtained from the 2010 National Health Interview Survey ( NHIS ) .
+NHIS is a multistage probability sample survey of the civilian non-institutionalized population of the US .
+Prevalence rates and their variances were calculated using SUDAAN to account for the complex NHIS sample design .
+RESULTS The data for 2010 were available for 17,524 adults who worked in the 12 months that preceded interview .
+The highest prevalence rates of hazardous workplace exposures were typically in agriculture , mining , and construction .
+The prevalence rate of frequent handling of or skin contact with chemicals , and of non-smokers frequently exposed to SHS at work was highest in mining and construction .
+Outdoor work was most common in agriculture ( 85% ) , construction ( 73% ) , and mining ( 65% ) .
+Finally , frequent occupational exposure to VGDF was most common among mining ( 67% ) , agriculture ( 53% ) , and construction workers ( 51% ) .
+CONCLUSION We identified industries and occupations with the highest prevalence of potentially hazardous workplace exposures , and provided targets for investigation and intervention activities .

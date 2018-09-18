@@ -1,0 +1,8 @@
+Dust is the repository of various compounds including flame retardants .
+In this study an analytical method based on PLE extraction and gas chromatography-mass spectrometry was selected for the analysis of 16 PBDEs congeners in house and car dust samples collected in Portugal .
+The analytical performance of the method was validated using standard reference material ( SRM ) ; values from 90% to 109% and from 2% to 11% were obtained for recovery and precision , respectively .
+The PBDE congeners distribution in whole and sieved fractions of the dust samples , as well as influence of the source on the levels of these contaminants , were obtained .
+The wide range of PBDEs contents found in the dust samples indicates heterogeneous levels of contamination in these matrices .
+The clearest feature of the results obtained was that Deca-BDE was the main PBDE in both house and car dust samples .
+The total PBDEs measured in house dust ( ranging from 34 to 1928 ng g(-1) ) was lower than those found in car dust ( ranging from 193 to 22955 ng g(-1) ) .
+However , house dust provides a major contribution to human exposure due to the time spent there , much higher than in cars .

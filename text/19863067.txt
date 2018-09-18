@@ -1,0 +1,12 @@
+Characterization of prenatal exposure to hazardous chemicals most often relies upon the analysis of cord blood .
+However , human placenta is an appropriate tissue alternative with noteworthy advantages .
+Owing to analytical challenges , reports on placental levels of toxic chemicals are limited .
+The purpose of this study was to establish a reliable , cost-effective , and relatively fast and simple method to extract polybrominated diphenyl ethers ( PBDEs ) from human placenta for analysis using gas chromatography coupled with mass spectrometry ( GC/MS ) .
+The matrix solid phase dispersion ( MSPD ) method was optimized for the extraction and analysis of 43 PBDEs ( including BDE209 ) from human placenta samples .
+Different sorbents , sample conditions , grinding methods , elution solvents , and single and repeated extractions were compared for their effects on the extraction efficiency .
+The performance of the optimized method was validated by analyzing spiked placenta samples and a standard reference material of fish tissue .
+Congener specific PBDE recovery ranged from 91% to 114% for the spiked samples and 89% to 115% for a standard reference material ( SRM ) of fish tissue .
+The optimized MSPD procedure was compared with two conventional extraction methods .
+The extraction efficiency of MSPD was found to be comparable with that of the traditional Soxhlet method and superior to that using a liquid extraction method .
+Twenty two PBDEs were detected in all of the five samples collected in Chicago in 2008 .
+This is the first description of PBDEs detected in human placentas in the U.S .

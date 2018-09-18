@@ -1,0 +1,16 @@
+This study describes the exposure of coke plant workers to hydrocarbons .
+Aromatic hydrocarbons ( AHs ) and polycyclic aromatic hydrocarbons ( PAHs ) in the breathing zone air and their oxygenated metabolites in the urine of coke plant workers are qualitatively and quantitatively determined .
+Concentrations of benzene , toluene , naphthalene , m + p-xylene , o-xylene and 14 different PAHs were measured at the different workplaces by personal air sampling .
+O-cresol , 1- and 2-naphthol , methylhippuric acid , and 1-hydroxypyrene were determined in hydrolyzed urine of workers collected after the work shift .
+The gas chromatography-mass spectrometry ( GC/MS ) method was applied to identify AHs in air and in urine samples .
+Time-weighted values of exposure to aromatic hydrocarbons at a coke plant were : benzene ( 0.06-9.82 mg/m3 ) , toluene ( 0.05-4.71 mg/m3 ) , naphthalene ( 0.01-3.28 mg/m3 ) , o-xylene ( 0.01-1.76 mg/m3 ) and m + p-xylene ( 0.01-2.62 mg/m3 ) .
+At the coke batteries , the total concentration of PAHs ranged from 7.27 to 21.92 micrograms/m3 .
+At the sorting department , the total concentration of PAHs were about half this value .
+Concentration of the urinary metabolites ( naphthols and methylhippuric acid ) detected in workers at the tar distillation department are three times higher than those for the coke batteries and sorting department workers .
+A correlation between inhaled toluene , naphthalene , xylene , and urinary excretion of metabolites has been found .
+Time-weighted average concentrations of AHs in the breathing zone air show that exposure levels of the workers are rather low in comparison to exposure limits .
+The 1-hydroxypyrene concentration is below 24.75 mumol/mol creatinine .
+The GC/MS analysis reveals the presence of AHs , mainly benzene and naphthalene homologues .
+It has been found that coke plant workers are simultaneously exposed to the mixture of aromatic and polycyclic hydrocarbons present in the breathing zone air of a coke plant .
+Exposure levels are significantly influenced by job categories .
+Compounds identified in the urine appear to be the products of the hydroxylation of AHs present in the air as well as unmetabolized hydrocarbons .

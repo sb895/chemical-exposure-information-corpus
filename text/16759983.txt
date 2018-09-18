@@ -1,0 +1,10 @@
+Many older homes are equipped with mercury-containing gas regulators that reduce the pressure of natural gas in the mains to the low pressure used in home gas piping .
+Removal of these regulators can result in elemental mercury spills inside the home .
+In the summer of 2000 , mercury spills were discovered in the basements of several Chicago-area homes after removal of gas regulators by gas company contractors .
+Subsequent inspections of approximately 361,000 homes by two northern Illinois gas companies showed that 1,363 homes had residential mercury contamination .
+Urine mercury screening was offered to concerned residents , and results of urine bioassays and indoor mercury air measurements were available for 171 homes .
+Six of these 171 homes ( 3.5% ) had a cumulative total of nine residents with a urine mercury > or = 10 microg/L .
+The highest urine mercury concentration observed in a resident was 26 microg/L .
+Positive bioassays were most strongly associated with mercury air concentrations > 10 microg/m3 on the first floor [ odds ratio ( OR ) = 21.4 ; 95% confidence interval ( CI ) , 3.6-125.9 ] rather than in the basement ( OR = 3.0 ; 95% CI , 0.3-26 ) , and first-floor air samples were more predictive of positive bioassays than were basement samples .
+Overall , the risk of residential mercury contamination after gas regulator removal ranged from 0.9/1,000 to 4.3/1,000 homes , depending on the gas company , although the risk was considerably higher ( 20 of 120 homes , 16.7% ) for one of the contractors performing removal work for one of the gas companies .
+Gas companies , their contractors , and residents should be aware of these risks and should take appropriate actions to prevent these spills from occurring and remediate them if they occur .

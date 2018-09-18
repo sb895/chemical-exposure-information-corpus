@@ -1,0 +1,7 @@
+Historical records were used to reconstruct an outbreak of chlorance and acute liver toxicity due to chlorinated naphthalene exposure at a New York State plant which manufactured " Navy cables " during World War II .
+A cohort mortality study was conducted of the population ( n = 9,028 ) employed at the plant from 1940 to 1944 .
+Vital status was followed through December 31 , 1985 .
+The study found an excess of deaths from cirrhosis of the liver [ observed ( OBS ) = 150 ; standardized mortality ratio ( SMR ) = 1.84 ; 95% confidence interval ( CI ) = 1.56-2.16 ] ; cirrhosis deaths were elevated to a similar degree in the 460 individuals who had chlorance ( OBS = 8 ; SMR = 1.51 ; CI = 0.65-2.98 ) .
+The SMR for " non-alcoholic cirrhosis " ( OBS = 83 ; SMR = 1.67 ; CI = 1.33-2.07 ) was similar to the SMR for " alcoholic cirrhosis " ( OBS = 59 ; SMR = 1.96 ; CI = 1.49-2.53 ) .
+There was no evidence for increased alcoholism in the overall cohort based on mortality from alcohol-related causes of death other than cirrhosis ( SMR for esophageal cancer = 1.01 and for deaths from alcoholism = 0.99 ) .
+We conclude that the excess mortality from cirrhosis of the liver observed in this cohort is due to the chronic effect of chlorinated naphthalene exposure .

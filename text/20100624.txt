@@ -1,0 +1,11 @@
+In this study we aimed to estimate the level of mercury in women's hair and its association with fish consumption and amalgam fillings in an Iranian southern port town ( named Mahshahr ) .
+A total number of 195 hair samples were collected randomly from women aged 25-45 years free from occupational exposures to mercury .
+Additional information about these women's age , weight , height , number of pregnancies , level of education , number of amalgam fillings and fish consumption were also gathered .
+The determination of Hg level in hair samples was carried out by the LECO , AMA 254 , Advanced Mercury Analyzer , according to ASTM standard No .
+D-6722 .
+The average mercury level in these women's hair was 2.95+/-2.33microg/g ( ranged from 0.07 to 24.46microg/g ) .
+In the next stage , the study participants were divided into four groups with respect to their fish consumption and number of amalgam fillings ; A ) <3 amalgam fillings , <3 times fish consumption per month , B ) <3 amalgam fillings , >7 times fish consumption per month , C ) >6 amalgam fillings , <3 times fish consumption per month , and D ) >6 amalgam fillings , >7 times fish consumption per month .
+Statistical analysis showed that the Hg level was significantly different in these four groups ( P<0.001 ) .
+Mercury levels in this sample exceeded the USEPA-recommended 1microg/g in 76.4% of the studied population .
+Finally , the multiple linear regression results revealed that frequency of fish consumption and amalgam restorations are the most important routes of Hg exposure .
+However , the main determinant of Hg exposure was the intake of Hg through fish consumption .

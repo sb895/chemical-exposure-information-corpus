@@ -1,0 +1,11 @@
+Diet and endocrine disrupting persistent organic pollutants ( POPs ) have been associated with gynecologic conditions including uterine leiomyomata ( UL ) , endometriosis , and ovarian cysts .
+Great Lakes sport fish consumption is a source of exposure to POPs such as p,p'-diphenyldichloroethene ( DDE ) and polychlorinated biphenyls ( PCBs ) .
+This study was designed to examine retrospectively the effects Great Lakes sport fish consumption on the incidence of UL and to examine the effects of DDE and PCB serum levels on prevalent UL in women participating in the Great Lakes Fish Consumption Study .
+We hypothesized that associations of exposures with UL would be modified by breastfeeding status .
+Years of sport fish consumption , demographic , health , and reproductive data were assessed by survey .
+In a subgroup , serum was collected and tested for DDE and PCB levels .
+Effects of years of Great Lakes sport fish and sport fish consumption were modeled using time-dependent Cox proportional hazards regression and effects of POP exposures on UL were modeled using multiple logistic regression .
+Years of sport fish consumption were associated with UL , with an incidence rate ratio of 1.2 ( 95% CI 1.0-1.3 ) for each 10-year increment of fish consumption .
+Summary measures of POP exposures in the overall group were not associated with UL .
+In the subgroup of women who never breastfed and in whom PCB measurements were available , however , UL was significantly associated with PCBs and groupings of estrogenic , antiestrogenic , and dioxin-like PCBs .
+These findings support the possibility that PCB exposures from fish consumption may increase the risk of UL and highlight the importance of additional studies exploring biologic pathways by which they could be acting .

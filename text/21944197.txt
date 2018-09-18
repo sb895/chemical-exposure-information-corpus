@@ -1,0 +1,11 @@
+Most household fuels used in Asian countries are solid fuels such as coal and biomass ( firewood , crop residue and animal dung ) .
+The particulate matter ( PM ) , CO , NOx and SOx produced through the combustion of these fuels inside the residence for cooking and heating has an adverse impact on people's health .
+PM 2.5 in particular , consisting of particles with an aerodynamic diameter of 2.5 \u03bcm or less , penetrates deep into the lungs and causes respiratory system and circulatory system diseases and so on .
+As a result , the World Health Organization ( WHO ) established guideline values for this type of particulate matter in 2005 .
+In this study , the authors focused on PM 2.5 and estimated indoor exposure concentrations for PM 2.5 in 15 Asian countries .
+For each environment used for cooking , eating , heating and illumination in which people are present temporarily ( microenvironment ) , exposure concentrations were estimated for individual cohorts categorized according to sex , age and occupation status .
+To establish the residence time in each microenvironment for each of the cohorts , data from time use surveys conducted in individual countries were used .
+China had the highest estimate for average exposure concentration in microenvironment used for cooking at 427.5 \u03bcg/m3 , followed by Nepal , Laos and India at 285.2 \u03bcg/m3 , 266.3 \u03bcg/m3 and 205.7 \u03bcg/m3 , respectively .
+The study found that , in each country , the PM2.5 exposure concentration was highest for children and unemployed women between the ages of 35 and 64 .
+The study also found that the exposure concentration for individual cohorts in each country was greatly affected by people's use of time indoors .
+Because differences in individual daily life activities were reflected in the use of time and linked to an assessment of exposure to indoor air-polluting substances , the study enabled detailed assessment of the impact of exposure .

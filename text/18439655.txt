@@ -1,0 +1,9 @@
+This study was conducted to explore the exposure potential of Chinese residents to PBBs , PBDEs , and PCBs in e-waste disassembly sites in Zhejiang province .
+The contents of 23 PBB congeners , 12 PBDE congeners , and 27 PCB congeners in hair and in their potential sources , including soil and e-waste , were measured via GC-MS .
+The levels of PHAHs in the three subfamilies ( i.e. , the PBBs , PBDEs , and PCBs ) were all considerably higher ( P<0.05 ) in hair samples collected from the disassembly sites than from the control site .
+The highest levels of PBBs ( 57.77 ng g(-1) dw ) , PBDEs ( 29.64 ng g(-1) dw ) , and PCBs ( 181.99 ng g(-1) dw ) in hair were all found in those from the disassembly site Xinqiu , which are respectively 2 , 2 , and 10 times more than those observed in hair from the control site Yandang .
+Among the three subfamilies of PHAHs , PCBs were the most predominant pollutants detected .
+PBBs , which have very limited information available in China , can be detected at a comparable level with PBDEs in these samples in the study .
+Therefore , these observations suggested that more attention should be given over the potential for environmental or occupational exposure to PHAHs present in e-waste .
+By and large , the PHAH levels measured in the hair samples were consistent with those detected in the soil .
+Hair analysis could thus be a valid screening tool for assessing human PHAHs exposure in and around e-waste disassembly sites .

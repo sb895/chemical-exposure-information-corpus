@@ -1,0 +1,10 @@
+BACKGROUND Studies relating long-term exposure to persistent organochlorine pollutants ( POPs ) with endocrine activities ( endocrine disrupting chemicals ) on circulating levels of steroid hormones have been limited to a small number of hormones and reported conflicting results .
+OBJECTIVE We examined the relationship between serum concentrations of dehydroepiandrosterone , dehydroepiandrosterone sulphate , androstenedione , androstenediol , testosterone , free and bioavailable testosterone , dihydrotestosterone , estrone , estrone sulphate , estradiol , sex-hormone binding globulin , follicle-stimulating hormone , and luteinizing hormone as a function of level of exposure to three POPs known to interfere with hormone-regulated processes in different way : dichlorodiphenyl dichloroethene ( DDE ) , polychlorinated biphenyl ( PCB ) congener 153 , and chlordecone .
+METHODS We collected fasting , morning serum samples from 277 healthy , non obese , middle-aged men from the French West Indies .
+Steroid hormones were determined by gas chromatography-mass spectrometry , except for dehydroepiandrosterone sulphate , which was determined by immunological assay , as were the concentrations of sex-hormone binding globulin , follicle-stimulating hormone and luteinizing hormone .
+Associations were assessed by multiple linear regression analysis , controlling for confounding factors , in a backward elimination procedure , in multiple bootstrap samples .
+RESULTS DDE exposure was negatively associated to dihydrotestosterone level and positively associated to luteinizing hormone level .
+PCB 153 was positively associated to androstenedione and estrone levels .
+No association was found for chlordecone .
+CONCLUSIONS These results suggested that the endocrine response pattern , estimated by determining blood levels of steroid hormones , varies depending on the POPs studied , possibly reflecting differences in the modes of action generally attributed to these compounds .
+It remains to be investigated whether this response pattern is predictive of the subsequent occurrence of disease .

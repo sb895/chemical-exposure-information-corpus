@@ -1,0 +1,6 @@
+A dermal monitoring study of peach harvesters exposed to azinphos-methyl ( AM ) residues was conducted in Sutter County , California .
+Harvesters were paid by piecework , which allowed characterization of the relationship between dermal exposure ( DE ) and time or production .
+Workers wore 2 long-sleeved knit T-shirts for each monitoring interval and also provided a hand residue sample .
+Dislodgeable foliar residue ( DFR ) samples were also collected .
+The highest correlations were found for inner shirts vs. production and DE vs. time worked ( r2 = 0.67 , P < 0.01 ) .
+DE was greatest after 2-h exposures and reached equilibrium after 3 h , indicating that exposure estimates from shorter intervals would overestimate exposure .

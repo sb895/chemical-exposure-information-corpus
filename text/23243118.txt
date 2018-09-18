@@ -1,0 +1,9 @@
+BACKGROUND Chronic exposure to toxic metals such as arsenic and cadmium has been implicated in the development of kidney and cardiovascular diseases but few studies have directly measured exposure during inutero and early child development .
+METHODS We investigated the impact of exposure to arsenic ( mainly in drinking water ) and cadmium ( mainly in rice ) during pregnancy on blood pressure and kidney function at 4.5 years of age in rural Bangladesh .
+The effect of arsenic exposure in infancy was also assessed .
+RESULTS Within a cohort of 1887 children recruited into the MINIMat study , exposure to arsenic ( maternal urinary arsenic , U-As ) , but not cadmium , during in utero development was associated with a minimal increase in blood pressure at 4.5 years .
+Each 1 mg/l increase in pregnancy U-As was associated with 3.69 mmHg ( 95% CI : 0.74 , 6.63 ; P : 0.01 ) increase in child systolic and a 2.91 mmHg ( 95% CI : 0.41 , 5.42 ; P : 0.02 ) increase in child diastolic blood pressure .
+Similarly , a 1 mg/l increase in child U-As at 18 months of age was associated with a 8.25 mmHg ( 95% CI : 1.37 , 15.1 ; P : 0.02 ) increase in systolic blood pressure at 4.5 years .
+There was also a marginal inverse association between infancy U-As and glomerular filtration rate at 4.5 years ( -33.4 ml/min/1.72 m(2) ; 95% CI : -70.2 , 3.34 ; P : 0.08 ) .
+No association was observed between early arsenic or cadmium exposure and kidney volume at 4.5 years assessed by ultrasound .
+CONCLUSIONS These modest effect sizes provide some evidence that arsenic exposure in early life has long-term consequences for blood pressure and maybe kidney function .

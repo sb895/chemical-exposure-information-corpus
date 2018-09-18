@@ -1,0 +1,8 @@
+Little information is available on the role of environmental chemical exposure in oxidative stress .
+This study was designed to investigate whether exposure to environmental chemicals , such as polycyclic aromatic hydrocarbons , volatile organic compounds , bisphenol A or phthalates , induces oxidative stress in urban adult populations .
+A total of 960 adults dwelling in urban areas were evaluated between April and December 2005 .
+To assess environmental chemical exposure , we measured urinary levels of 1-hydroxypyrene , 2-naphthol , hippuric acid , methyl hippuric acid , mono-(2-ethyl-5-hydroxyhexyl) phthalate , mono-(2-ethyl-5-oxohexyl) phthalate , and mono-butyl phthalate and bisphenol A. Urinary malondialdehyde and 8-hydroxydeoxyguanosine were also measured to evaluate oxidative stress .
+Significant dose-responsive relationship was found between urinary concentrations of the chemical exposure biomarkers and oxidative stress levels in simple regression analyses ( P<0.05 ) .
+Regression coefficients of these exposure biomarkers except bisphenol A remained significantly in the multiple regression models after controlling for age , sex , weight , smoking , and exercise for at least one of the two oxidative stress biomarkers ( P<0.05 ) .
+The oxidative stress biomarkers significantly affected the indicators of insulin resistance , particularly glucose level .
+This study indicates that environmental chemical exposure is associated with oxidative stress in urban adult populations and suggests that exposure to certain environmental chemicals might contribute to insulin resistance .

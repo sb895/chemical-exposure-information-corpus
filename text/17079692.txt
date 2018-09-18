@@ -1,0 +1,8 @@
+Bladder cancer has been associated with exposure to chlorination by-products in drinking water , and experimental evidence suggests that exposure also occurs through inhalation and dermal absorption .
+The authors examined whether bladder cancer risk was associated with exposure to trihalomethanes ( THMs ) through ingestion of water and through inhalation and dermal absorption during showering , bathing , and swimming in pools .
+Lifetime personal information on water consumption and water-related habits was collected for 1,219 cases and 1,271 controls in a 1998-2001 case-control study in Spain and was linked with THM levels in geographic study areas .
+Long-term THM exposure was associated with a twofold bladder cancer risk , with an odds ratio of 2.10 ( 95% confidence interval : 1.09 , 4.02 ) for average household THM levels of >49 versus < or =8 micro g/liter .
+Compared with subjects not drinking chlorinated water , subjects with THM exposure of >35 micro g/day through ingestion had an odds ratio of 1.35 ( 95% confidence interval : 0.92 , 1.99 ) .
+The odds ratio for duration of shower or bath weighted by residential THM level was 1.83 ( 95% confidence interval : 1.17 , 2.87 ) for the highest compared with the lowest quartile .
+Swimming in pools was associated with an odds ratio of 1.57 ( 95% confidence interval : 1.18 , 2.09 ) .
+Bladder cancer risk was associated with long-term exposure to THMs in chlorinated water at levels regularly occurring in industrialized countries .

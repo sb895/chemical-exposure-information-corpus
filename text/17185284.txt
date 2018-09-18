@@ -1,0 +1,11 @@
+BACKGROUND Experimental data suggest that asthma exacerbation by ambient air pollutants is enhanced by exposure to endotoxin and allergens ; however , there is little supporting epidemiologic evidence .
+METHODS We evaluated whether the association of exposure to air pollution with annual prevalence of chronic cough , phlegm production , or bronchitis was modified by dog and cat ownership ( indicators of allergen and endotoxin exposure ) .
+The study population consisted of 475 Southern California children with asthma from a longitudinal cohort of participants in the Children's Health Study .
+We estimated average annual ambient exposure to nitrogen dioxide , ozone , particulate matter < 10 , 2.5 , and 10-2.5 microm in aerodynamic diameter ( PM10 , PM2.5 , and PM10-2.5 , respectively ) , elemental and organic carbon , and acid vapor from monitoring stations in each of the 12 study communities .
+Multivariate models were used to examine the effect of yearly variation of each pollutant .
+Effects were scaled to the variability that is common for each pollutant in representative communities in Southern California .
+RESULTS Among children owning a dog , there were strong associations between bronchitic symptoms and all pollutants examined .
+Odds ratios ranged from 1.30 per 4.2 microg/m3 for PM10-2.5 [ 95% confidence interval ( CI ) , 0.91-1.87 ) to 1.91 per 1.2 microg/m3 for organic carbon ( 95% CI , 1.34-2.71 ) .
+Effects were somewhat larger among children who owned both a cat and dog .
+There were no effects or small effects with wide CIs among children without a dog and among children who owned only a cat .
+CONCLUSION Our results suggest that dog ownership , a source of residential exposure to endotoxin , may worsen the relationship between air pollution and respiratory symptoms in asthmatic children .

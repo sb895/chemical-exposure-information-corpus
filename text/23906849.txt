@@ -1,0 +1,10 @@
+This study was designed to investigate the phthalates exposure levels in general population in Chongqing City of China , and to determine the possible associations between phthalate exposure and male reproductive function parameters .
+We recruited 232 general men through Chongqing Family Planning Research Institute and Reproductive Center of Chongqing .
+In a single spot urine sample from each man , phthalate metabolites , including mono-butyl phthalate ( MBP ) , mono-ethyl phthalate ( MEP ) , mono-(2-ethylhexyl) phthalate ( MEHP ) , mono-benzyl phthalate ( MBzP ) , phthalic acid ( PA ) , and total PA were analyzed using solid phase extraction and coupled with high-performance liquid chromatography and detection by tandem mass spectrometry .
+Semen parameters were dichotomized based on World Health Organization reference values .
+Sperm DNA damage were analyzed using the alkaline single-cell gel electrophoresis assay .
+Reproductive hormones were determined in serum by the radioimmunoassay kit .
+We observed a weak association between urinary MBP concentration and sperm concentration in Chongqing general population .
+MBP levels above the median were 1.97 times ( 95% confidence interval [ CI ] 0.97-4.04 ) more likely to have sperm concentration below the reference value .
+There were no other associations between phthalate metabolites and reproductive function parameters after adjusted for potential risk factors .
+Our study suggested that general population in Chongqing area of China exposure to the environmental level of phthalate have weak or without adverse effects on the reproduction .

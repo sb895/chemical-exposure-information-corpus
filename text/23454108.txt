@@ -1,0 +1,9 @@
+We analyzed the polychlorinated biphenyls ( PCBs ) in human hair collected from an electronic waste ( e-waste ) recycling area in southern China and compared their composition profiles and chiral signatures to those of workplace and domestic dust .
+The PCB concentrations showed significant age dependence in dismantling workers ' hair but not in residents ' hair .
+Among residents , PCB concentrations decreased in the following order : elderly people>students>pre-school children>adults .
+The PCB homologue and congener profiles of the workers ' hair were similar to those of the workplace dust .
+However , the PCB homologue profile of the residents ' hair was clearly different from that of the domestic dust .
+The chiral congener CB95 generally exhibited a racemic or near-racemic composition in both hair and dust , with enantiomer fractions ( EFs ) ranging from 0.485 to 0.525 in hair and from 0.479 to 0.504 in dust .
+The EFs of CB132 in dust ( 0.477-0.513 ) were closer to a racemic chiral signature than those in hair ( 0.378-0.521 ) , but this difference was not significant .
+Our results suggest that the chiral signature of PCBs may be a better tool than the PCB composition profile for identifying the external and internal sources of organic contaminants in human hair .
+Further measurements of chiral PCB signatures in hair and blood from the same individuals are needed to identify the external and internal sources of PCBs in human hair .

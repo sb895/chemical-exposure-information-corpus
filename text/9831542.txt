@@ -1,0 +1,8 @@
+The purpose of this study was to evaluate the relationship of long-term concentrations of ambient air pollutants and risk of incident lung cancer in nonsmoking California adults .
+A cohort study of 6,338 nonsmoking , non-Hispanic , white Californian adults , ages 27-95 , was followed from 1977 to 1992 for newly diagnosed cancers .
+Monthly ambient air pollution data were interpolated to zip code centroids according to home and work location histories , cumulated , and then averaged over time .
+The increased relative risk ( RR ) of incident lung cancer in males associated with an interquartile range ( IQR ) increase in 100 ppb ozone ( O3 ) was 3.56 [ 95% confidence interval ( CI ) , 1.35-9.42 ] .
+Incident lung cancer in males was also positively associated with IQR increases for mean concentrations of particulate matter <10 microm ( PM10 ; RR = 5.21 ; CI , 1.94-13.99 ) and SO2 ( RR = 2.66 ; CI , 1.62-4.39 ) .
+For females , incident lung cancer was positively associated with IQR increases for SO2 ( RR = 2.14 ; CI , 1.36-3.37 ) and IQR increases for PM10 exceedance frequencies of 50 microg/m3 ( RR = 1.21 ; CI , 0.55-2.66 ) and 60 microg/m3 ( RR = 1.25 ; CI , 0.57-2.71 ) .
+Increased risks of incident lung cancer were associated with elevated long-term ambient concentrations of PM10 and SO2 in both genders and with O3 in males .
+The gender differences for the O3 and PM10 results appeared to be partially due to gender differences in exposure .

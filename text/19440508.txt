@@ -1,0 +1,11 @@
+BACKGROUND Perfluorooctane sulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) are man-made , ubiquitous , and persistent contaminants in the environment , wildlife , and humans .
+Although recent studies have shown that these chemicals interfere with fetal growth in humans , the results are inconsistent .
+OBJECTIVES Our goal was to investigate the correlation between relatively low levels of PFOS and PFOA in maternal serum and birth weight and birth size .
+METHODS We conducted a hospital-based prospective cohort study between July 2002 and October 2005 in Sapporo , Japan .
+A total of 428 women and their infants were involved in the study .
+We obtained characteristics of the mothers and infants from self-administered questionnaire surveys and from medical records .
+We analyzed maternal serum samples for PFOS and PFOA by liquid chromatography-tandem mass spectrometry ( LC/MS/MS ) .
+RESULTS After adjusting for confounding factors , PFOS levels negatively correlated with birth weight [ per log10 unit : beta = -148.8 g ; 95% confidence interval ( CI ) , -297.0 to -0.5 g ] .
+In addition , analyses stratified by sex revealed that PFOS levels negatively correlated with birth weight only in female infants ( per log10 unit : beta = -269.4 g ; 95% CI , -465.7 to -73.0 g ) .
+However , we observed no correlation between PFOA levels and birth weight .
+CONCLUSION Our results indicate that in utero exposure to relatively low levels of PFOS was negatively correlated with birth weight .

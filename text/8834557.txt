@@ -1,0 +1,10 @@
+The Indoor Air and Children's Health Study is a prospective cohort study of the relation between indoor air pollution and lower respiratory illness ( LRI ) during the first 2 years of life .
+Information on family and household characteristics was obtained from a health maintenance organization for 1,424 infants enrolled at birth .
+Data on LRI were abstracted from medical records .
+The incidence of all LRI was 48.4 per 100 child-years .
+Wheezing-associated respiratory illness ( WARI)/asthma was the most common specific LRI , with an incidence of 11.5 per 100 child-years .
+Total LRI incidence was lowest during the first 6 months of life .
+Girls had lower incidence than boys [ rate ratio ( RR ) = 0.8 ; 95% confidence interval ( CI ) = 0.7-0.8) ] .
+With the exception of croup , all LRI were most common during February and March .
+These results are comparable with those of other prospective studies .
+Consistent with other studies , self-reported maternal smoking demonstrated an RR of 1.5 ( 95% CI = 1.2-1.8 ) for total LRI , but the association varied for specific LRIs from 2.3 ( 95% CI = 1.5-3.0 ) for WARI/asthma to 1.0 ( 95% CI = 0.7-1.6 ) for bronchitis .

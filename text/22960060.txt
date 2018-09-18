@@ -1,0 +1,11 @@
+Maternal exposure to polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and polychlorinated biphenyls ( PCBs ) may result in adverse health effects in their children .
+In Japan in 1968 , an accidental human exposure to rice oil contaminated with PCDDs , PCDFs , and PCBs , led to the development of Yusho disease .
+Yusho mothers delivered descendants with low birth weights and hyperpigmented skin and mucosa , which are characteristic of fetal Yusho disease ( FYD ) .
+The Yusho cohort was used to evaluate the effect of maternal exposure to PCDDs , PCDFs , and PCBs on the development of FYD .
+Blood samples , obtained from 64 Yusho mothers ( 117 descendants : 10 with FYD and 107 without FYD ) , were analyzed for congeners of seven PCDDs , 10 PCDFs , and four coplanar PCBs .
+We investigated the association between the maternal estimated blood levels of dioxins at delivery and the risk of fetal Yusho disease .
+We also studied the differences in dioxin blood levels in 24 mother-descendant pairs ( 5 with FYD and 19 without FYD ) .
+The estimated levels of total PCDD TEQ , total PCDF TEQ , total coplanar PCB TEQ , and total TEQ in the maternal blood at delivery were associated with significantly increased risk of FYD .
+The odds ratios , which present the risk of FYD for a 10-fold increase in blood dioxin , were largest for 1,2,3,6,7,8-HexaCDD ( odds ratio=28.6 , 95% confidence interval=1.67-489.9 , p=0.02 ) .
+The levels of 1,2,3,6,7,8-HexaCDD in both the Yusho mothers and their descendants with FYD were higher than the levels in those without FYD .
+These findings suggest that 1,2,3,6,7,8-HexaCDD is the most important causative congener for the development of FYD .

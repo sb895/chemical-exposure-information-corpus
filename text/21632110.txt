@@ -1,0 +1,11 @@
+Even moderate arsenic exposure may lead to health problems , and thus quantifying inorganic arsenic ( iAs ) exposure from food for different population groups in China is essential .
+By analyzing the data from the China National Nutrition and Health Survey ( CNNHS ) and collecting reported values of iAs in major food groups , we developed a framework of calculating average iAs daily intake for different regions of China .
+Based on this framework , cancer risks from iAs in food was deterministically and probabilistically quantified .
+The article presents estimates for health risk due to the ingestion of food products contaminated with arsenic .
+Both per individual and for total population estimates were obtained .
+For the total population , daily iAs intake is around 42 \u03bcg day(-1) , and rice is the largest contributor of total iAs intake accounting for about 60% .
+Incremental lifetime cancer risk from food iAs intake is 106 per 100,000 for adult individuals and the median population cancer risk is 177 per 100,000 varying between regions .
+Population in the Southern region has a higher cancer risk than that in the Northern region and the total population .
+Sensitive analysis indicated that cancer slope factor , ingestion rates of rice , aquatic products and iAs concentration in rice were the most relevant variables in the model , as indicated by their higher contribution to variance of the incremental lifetime cancer risk .
+We conclude that rice may be the largest contributor of iAs through food route for the Chinese people .
+The population from the South has greater cancer risk than that from the North and the whole population .

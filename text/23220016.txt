@@ -1,0 +1,10 @@
+Satellite-based remote sensing provides a unique opportunity to monitor air quality from space at global , continental , national and regional scales .
+Most current research focused on developing empirical models using ground measurements of the ambient particulate .
+However , the application of satellite-based exposure assessment in environmental health is still limited , especially for acute effects , because the development of satellite PM(2.5) model depends on the availability of ground measurements .
+We tested the hypothesis that MODIS AOD ( aerosol optical depth ) exposure estimates , obtained from NASA satellites , are directly associated with daily health outcomes .
+Three independent healthcare databases were used : unscheduled outpatient visits , hospital admissions , and mortality collected in Beijing metropolitan area , China during 2006 .
+We use generalized linear models to compare the short-term effects of air pollution assessed by ground monitoring ( PM(10) ) with adjustment of absolute humidity ( AH ) and AH-calibrated AOD .
+Across all databases we found that both AH-calibrated AOD and PM(10) ( adjusted by AH ) were consistently associated with elevated daily events on the current day and/or lag days for cardiovascular diseases , ischemic heart diseases , and COPD .
+The relative risks estimated by AH-calibrated AOD and PM(10) ( adjusted by AH ) were similar .
+Additionally , compared to ground PM(10) , we found that AH-calibrated AOD had narrower confidence intervals for all models and was more robust in estimating the current day and lag day effects .
+Our preliminary findings suggested that , with proper adjustment of meteorological factors , satellite AOD can be used directly to estimate the acute health impacts of ambient particles without prior calibrating to the sparse ground monitoring networks .

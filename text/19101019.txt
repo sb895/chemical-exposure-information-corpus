@@ -1,0 +1,10 @@
+Air pollution surveys of ten selected monoaromatic hydrocarbons ( MAHCs ) were conducted in buses and bus stations in Hangzhou , China .
+The mean concentrations of MAHCs in the air of buses and bus stations were 95.9 and 36.5 microg/m(3) , respectively , of which toluene was the highest in all the sampling sites .
+Mean concentrations of all MAHCs in buses were statistically higher than those nearby bus stations ( p<0.05 ) .
+MAHCs concentrations in buses largely depend on vehicle conditions ( including vehicle type , fuel type , interior decoration , etc. ) and traffic conditions ( mainly traffic density ) .
+Among the investigated buses , microbuses had the highest MAHCs level , while electric buses had the lowest .
+Buses driven in downtown had the highest MAHCs level , followed by those in suburban areas and tourist areas .
+The mean concentration ratio of toluene to benzene was 2.1+/-0.9 , indicating that vehicle emission was the dominant source of MAHCs .
+Interior decorations , such as painting and surface coating , could also contribute to the MAHCs in the buses .
+The mean lifetime carcinogenic risks for passengers and bus drivers were 1.11x10(-5) and 4.00x10(-5) , respectively , which were way above the limit set by USEPA .
+The health risk caused by MAHCs in bus microenvironment should be cautioned .

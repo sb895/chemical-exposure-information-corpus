@@ -1,0 +1,11 @@
+INTRODUCTION Whole blood is used for diagnosis of lead exposure .
+A non-invasive method to obtain samples for the biomonitoring of lead contamination has become a necessity .
+This study 1 ) compares the lead content in whole saliva samples ( Pb-saliva ) of children from a city with no reported lead contamination ( Ribeirão Preto , São Paulo State , Brazil ) and children of a region notoriously contaminated with lead ( Bauru , São Paulo State , Brazil ) , and 2 ) correlates Pb-saliva with the lead content in the enamel microbiopsy samples ( Pb-enamel ) in the case of these two populations .
+METHODS From a population of our previous study that had included 247 children ( 4- to 6-year-old ) from Ribeirão Preto , and 26 children from Bauru , Pb-saliva was analyzed in 125 children from Ribeirão Preto and 19 children from Bauru by inductively coupled plasma mass spectrometry ( ICPMS ) .
+To correlate Pb-saliva with Pb-enamel , we used Pb-enamel data obtained in our previous study .
+The Mann-Whitney test was employed to compare the Pb-saliva data of the two cities .
+Pb-saliva and Pb-enamel values were then Log10 transformed to normalize data , and Pb-saliva and Pb-enamel were correlated using Pearson's correlation coefficient .
+RESULTS Median Pb-saliva from the Ribeirão Preto population ( 1.64 microg/L ) and the Bauru population ( 5.85 microg/L ) were statistically different ( p<0.0001 ) .
+Pearson's correlation coefficient for Log10 Pb-saliva versus Log10 Pb-enamel was 0.15 ( p=0.08 ) for Ribeirão Preto and 0.38 ( p=0.11 ) for Bauru .
+CONCLUSIONS A clear relationship between Pb-saliva and environmental contamination by lead is shown .
+Further studies on Pb-saliva should be undertaken to elucidate the usefulness of saliva as a biomarker of lead exposure , particularly in children .

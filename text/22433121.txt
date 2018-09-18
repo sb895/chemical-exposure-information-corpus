@@ -1,0 +1,13 @@
+BACKGROUND Jet propulsion fuel-8 ( JP-8 ) is the primary jet fuel used by the US military , collectively consuming billion gallons annually .
+Previous reports suggest that JP-8 is potentially toxic to the immune , respiratory , and nervous systems .
+The objectives of this study were to evaluate inhalation exposure to JP-8 constituents among active duty United States Air Force ( USAF ) personnel while performing job-related tasks , identify significant predictors of inhalation exposure to JP-8 , and evaluate the extent to which surrogate exposure classifications were predictive of measured JP-8 exposures .
+METHODS Seventy-three full-time USAF personnel from three different air force bases were monitored during four consecutive workdays where personal air samples were collected and analyzed for benzene , ethylbenzene , toluene , xylenes , total hydrocarbons ( THC ) , and naphthalene .
+The participants were categorized a priori into high- and low-exposure groups , based on their exposure to JP-8 during their typical workday .
+Additional JP-8 exposure categories included job title groups and self-reported exposure to JP-8 .
+Linear mixed-effects models were used to evaluate predictors of personal air concentrations .
+RESULTS The concentrations of THC in air were significantly different between a priori exposure groups ( 2.6 mg m(-3) in high group versus 0.5 mg m(-3) in low , P < 0.0001 ) , with similar differences observed for other analytes in air .
+Naphthalene was strongly correlated with THC ( r = 0.82 , P < 0.0001 ) and both were positively correlated with the relative humidity of the work environment .
+Exposures to THC and naphthalene varied significantly by job categories based on USAF specialty codes and were highest among personnel working in fuel distribution/maintenance , though self-reported exposure to JP-8 was an even stronger predictor of measured exposure in models that explained 72% ( THC ) and 67% ( naphthalene ) of between-worker variability .
+In fact , both self-report JP-8 exposure and a priori exposure groups explained more between-worker variability than job categories .
+CONCLUSIONS Personal exposure to JP-8 varied by job and was positively associated with the relative humidity .
+However , self-reported exposure to JP-8 was an even stronger predictor of measured exposure than job title categories , suggesting that self-reported JP-8 exposure is a valid surrogate metric of exposure when personal air measurements are not available .

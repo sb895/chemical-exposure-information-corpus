@@ -1,0 +1,8 @@
+BACKGROUND Calcium homeostasis is a known target of several environmental toxicants including lead and mercury .
+OBJECTIVE Our goal was to determine the relationship between Hg exposure and erythrocyte Ca pump activity in women at delivery and in their newborns .
+METHODS We determined total Hg as well as Pb concentrations in 81 hair and blood samples obtained at delivery .
+Basal and calmodulin-stimulated Ca pump activity was measured in red blood cells from cord blood and maternal erythrocyte plasma membranes .
+RESULTS Maternal hair Hg negatively correlates with Ca pump activity in maternal and cord blood erythrocytes .
+Pb and Hg both independently correlate negatively with Ca pump activity without any statistically significant interaction .
+After adjustment for potential confounders , Pb and Hg explain about 30% and 7% of total variance of Ca pump activity in newborns and mothers , respectively .
+CONCLUSION Our findings confirm results reported in previous experimental studies and support the use of biomarkers in newborns from general population .

@@ -1,0 +1,7 @@
+Bisphenol A ( BPA ) and triclosan are synthetic phenolic compounds to which the general public can be extensively exposed via consumer products and environmental contamination .
+In this study , we assessed exposure to BPA and triclosan in the Korean adult population aged 18-69 based on the Korean National Human Biomonitoring Survey conducted in 2009 .
+Relying on data from 1870 representative Koreans , we found that the geometric mean urinary concentrations of BPA and triclosan were 1.90 ng/ml [ 95% confidence interval ( CI ) : 1.81-1.99 ] and 1.68 ng/ml ( 95% CI : 1.48-1.90 ) , respectively .
+The creatinine-adjusted geometric means of BPA and triclosan were 1.79 \u03bcg/g creatinine ( 95% CI : 1.70-1.90 ) and 1.58 \u03bcg/g creatinine ( 95% CI : 1.39-1.81 ) , respectively .
+About 99.8% of the Korean adult population had urinary concentrations of BPA and about 92.6% of the Korean adult population had urinary concentrations of triclosan above the level of 0.05 ng/ml ( limit of detection , LOD ) .
+Urinary BPA concentrations were higher in residents of rural areas , whereas urinary triclosan concentrations were significantly associated with cigarette smoking .
+These findings suggested that most Koreans had detectable levels of BPA and triclosan in their urine and that the body burden of BPA and triclosan varied according to demographic and geographic factors .

@@ -1,0 +1,12 @@
+BACKGROUND Microcirculation plays an important role in the physiology of cardiovascular health .
+Air pollution is an independent risk factor for the development and progression of cardiovascular diseases , but the number of studies on the relation between air pollution and the microcirculation is limited .
+OBJECTIVES We examined the relationship between short-term changes in air pollution and microvascular changes .
+METHODS We measured retinal microvasculature using fundus image analysis in a panel of 84 healthy adults ( 52% female ) , 22-63 years of age , during January-May 2012 .
+Blood vessels were measured as central retinal arteriolar/venular equivalent ( CRAE/CRVE ) , with a median of 2 measurements ( range , 1-3 ) .
+We used monitoring data on particulate air pollution ( PM10 ) and black carbon ( BC ) .
+Mixed-effect models were used to estimate associations between CRAE/CRVE and exposure to PM10 and BC using various exposure windows .
+RESULTS CRAE and CRVE were associated with PM10 and BC concentrations , averaged over the 24 hr before the retinal examinations .
+Each 10-µg/m3 increase in PM10 was associated with a 0.93-µm decrease ( 95% CI : -1.42 , -0.45 ; p = 0.0003 ) in CRAE and a 0.86-µm decrease ( 95% CI : -1.42 , -0.30 ; p = 0.004 ) in CRVE after adjusting for individual characteristics and time varying conditions such as ambient temperature .
+Each 1-µg/m3 increase in BC was associated with a 1.84-µm decrease ( 95% CI : -3.18 , -0.51 ; p < 0.001 ) in CRAE .
+CONCLUSIONS Our findings suggest that the retinal microvasculature responds to short-term changes in air pollution levels .
+These results support a mechanistic pathway through which air pollution can act as a trigger of cardiovascular events at least in part through effects on the microvasculature .

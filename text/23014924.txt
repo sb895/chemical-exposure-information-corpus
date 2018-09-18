@@ -1,0 +1,11 @@
+Annoyance produced by air pollution has been suggested as a useful proxy for determining ambient air pollution exposure .
+However , most of the studies , to date , have focused on nitrogen dioxide and sulphur dioxide , with no work done on volatile organic compounds ( VOC ) .
+This study is aimed at examining the associations between odour annoyance and VOC in ' Chemical Valley ' , Sarnia , Ontario , Canada .
+Annoyance scores were extracted from a community health survey ( N = 774 ) , and exposures to VOC were estimated from respondents ' six-digit alphanumeric postal codes using land use regression models .
+Univariate analyses were used to explore the relationships between odour annoyance and modelled pollutants , whilst multivariate ordinal logistic regression was utilized to examine the determinants of odour annoyance .
+The results indicate that odour annoyance is significantly associated with modelled benzene , toluene , ethylbenzene , o-xylene and ( m + p ) xylene ( BTEX ) pollutants .
+The findings also show that the determinants of odour annoyance in the context of VOC include gender , number of relatives in the community , perception of air pollution , community satisfaction , medical checkups , ability to cope with daily life demands and general symptoms .
+When compared , the analysis indicates that Sarnia residents respond to considerably lower BTEX concentrations than the allowable ' safe ' levels in the province of Ontario .
+In general , the results exhibit a dose-response gradient with annoyance score increasing with rising modelled pollutant concentrations .
+The observed relationships suggest that odour annoyance might be a function of true exposure and may serve as a proxy for air quality and ambient air pollution monitoring .
+However , questionnaire-based odour annoyance scores need to be longitudinally validated across different geographical scales and pollutants if they are to be adopted at the national level .

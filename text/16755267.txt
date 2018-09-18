@@ -1,0 +1,12 @@
+BACKGROUND Prior studies have reported an increased risk of diabetes related to polychlorinated biphenyl ( PCB ) exposure .
+No study has yet investigated whether polybrominated biphenyls ( PBBs ) , which are similar in chemical structure , increase the incidence of diabetes .
+METHODS The Michigan PBB cohort was established in 1976 and surveyed again in 1991-1993 and in 2001 .
+PBB and PCB serum levels were measured from blood collected at enrollment .
+To determine the incidence of adult-onset diabetes , we analyzed cohort members without diabetes at enrollment , ages 20 years and older , with known PBB and PCB levels , who participated in at least 1 follow-up survey ( n = 1384 ) .
+Using Poisson regression , we determined the incidence density ratio ( IDR ) of diabetes for different serum levels of PBB and PCB , controlling for age , body mass index , smoking , and alcohol consumption at enrollment .
+RESULTS Analyzing 25 years of follow-up data , we did not find that higher PBB serum levels were a risk factor for the incidence of diabetes mellitus .
+However , in women , but not in men , higher PCB serum levels were associated with increased incidence of diabetes ( IDR = 2.33 ; 95% confidence interval = 1.25-4.34 in the highest PCB group compared with the lowest ) .
+In both men and women , overweight and obesity increased the diabetes incidence .
+CONCLUSIONS We found no association between PBB serum levels and diabetes incidence .
+In women , there was a positive linear association of diabetes incidence with PCB serum levels at enrollment .
+This finding is in agreement with 2 prior studies indicating a higher relative risk of diabetes in PCB-exposed women .

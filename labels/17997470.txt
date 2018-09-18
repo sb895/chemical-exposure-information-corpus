@@ -1,0 +1,1 @@
+<Biomonitoring--effect marker--physiological parameter AND exposure routes--oral intake--drinking water--< <exposure routes--oral intake--drinking water--<  Biomonitoring--effect marker--physiological parameter< < < 

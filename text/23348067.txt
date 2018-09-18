@@ -1,0 +1,14 @@
+BACKGROUND People in developed countries are widely exposed to low levels of organochlorine pesticides , polychlorinated biphenyls ( PCBs ) , and polybrominated diphenyl ethers ( PBDEs ) .
+Seafood is a major contributor to PCB exposure .
+Toxicity of those various pollutants to reproductive and endocrine functions raises questions about possible effects on fertility .
+We explored whether serum levels of these pollutants and seafood consumption were associated with the fertility of couples enrolled in a French birth cohort ( PELAGIE ) .
+METHODS Time-to-pregnancy was investigated in 3,421 pregnant women by asking how many months they had taken to conceive .
+Levels of 14 organochlorine pesticides , 12 PCBs , and 10 PBDE compounds were measured in cord blood serum from a random subcohort ( n = 394 ) .
+Mercury concentrations measured in maternal hair were considered as a potential coexposure .
+Fecundability odds ratios ( ORs ) were estimated from multivariate discrete-time Cox proportional hazard models .
+RESULTS Shellfish consumption was associated with longer time-to-pregnancy ( fecundability OR \u2265twice/week vs. <twice/month = 0.71 [ 95% confidence interval = 0.60-0.83] ) , but fish consumption was not .
+Time-to-pregnancy increased with increasing serum levels for most of the compounds studied ( for total PCBs >0.410 µg/L vs. <0.266 µg/L , fecundability OR = 0.46 [ 0.32-0.66] ) .
+In multiple sensitivity analyses , reduced fecundability was most consistently associated with shellfish consumption , p,p'-DDE , total PCBs , PCB153 , and PCB187 .
+Models that simultaneously included multiple coexposure factors led to similar conclusions .
+CONCLUSIONS Our findings were robust in sensitivity analyses , including analysis restricted to primiparous women .
+These results suggest that PCBs , p,p'-DDE , and other shellfish contaminants may impair human fertility .

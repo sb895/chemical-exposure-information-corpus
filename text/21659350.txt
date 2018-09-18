@@ -1,0 +1,10 @@
+The authors evaluated indoor air pollution from coal combustion ( IAPCC ) as a potential risk factor for neural tube defects ( NTDs ) in a rural population in Shanxi Province , China .
+The studied rural population has both high IAPCC exposure and a high prevalence of NTDs .
+A population-based case-control study was used to identify 610 NTD cases and 837 normal controls between November 2002 and December 2007 .
+Information was collected within 1 week following delivery or pregnancy termination due to prenatal NTD diagnosis .
+The authors derived an exposure index by integrating a series of IAPCC-related characteristics concerning dwelling and lifestyle .
+Compared with women with no IAPCC exposure , women with any exposure at all had a 60% increased risk of having a child with an NTD ( adjusted odds ratio ( OR ) = 1.6 , 95% confidence interval ( CI ) : 1.1 , 2.1 ) .
+An increased NTD risk was linked to both residential heating ( adjusted OR = 1.7 , 95% CI : 1.1 , 2.4 ) and cooking ( adjusted OR = 1.5 , 95% CI : 1.1 , 2.1 ) .
+The risk increased with increases in the exposure index , showing a dose-response trend ( P < 0.001 ) .
+This is the first known study to link IAPCC to NTDs .
+Additional studies are needed to confirm the link between IAPCC and NTDs .

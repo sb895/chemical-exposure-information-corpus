@@ -1,0 +1,8 @@
+BACKGROUND AND OBJECTIVES Although the deleterious effects of air pollution from fossil fuel combustion have been demonstrated in many Western nations , fewer studies have been conducted in Asia .
+The Public Health and Air Pollution in Asia ( PAPA ) project assessed the effects of short-term exposure to air pollution on daily mortality in Bangkok , Thailand , and in three cities in China : Hong Kong , Shanghai , and Wuhan .
+METHODS Poisson regression models incorporating natural spline smoothing functions were used to adjust for seasonality and other time-varying covariates that might confound the association between air pollution and mortality .
+Effect estimates were determined for each city and then for the cities combined using a random effects method .
+RESULTS In individual cities , associations were detected between most of the pollutants [ nitrogen dioxide , sulfur dioxide , particulate matter < or = 10 microm in aerodynamic diameter ( PM(10) ) , and ozone ] and most health outcomes under study ( i.e. , all natural-cause , cardiovascular , and respiratory mortality ) .
+The city-combined effects of the four pollutants tended to be equal or greater than those identified in studies conducted in Western industrial nations .
+In addition , residents of Asian cities are likely to have higher exposures to air pollution than those in Western industrial nations because they spend more time outdoors and less time in air conditioning .
+CONCLUSIONS Although the social and environmental conditions may be quite different , it is reasonable to apply estimates derived from previous health effect of air pollution studies in the West to Asia .

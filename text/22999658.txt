@@ -1,0 +1,13 @@
+Identification and systematic assessment of hazardous wastes sites in low and middle-income countries has lagged .
+Hazardous waste problems are especially severe in lower income Asian countries where environmental regulations are non-existent , nonspecific or poorly enforced .
+In these countries extensive unregulated industrial development has created waste sites in densely populated urban areas .
+These sites appear to pose significant risks to public health , and especially to the health of children .
+To assess potential health risks from chemical contamination at hazardous waste sites in Asia , we assessed 679 sites .
+A total of 169 sites in 7 countries were classified as contaminated by lead .
+Eighty-two of these sites contained lead at levels high enough to produce elevated blood lead levels in surrounding populations .
+To estimate the burden of pediatric lead poisoning associated with exposure to lead in soil and water at these 82 lead-contaminated sites , we used standard toxicokinetic models that relate levels of lead in soil and water to blood lead levels in children .
+We calculated blood lead levels , and we quantified losses of intelligence ( reductions in IQ scores ) that were attributable to lead exposure at these sites .
+We found that 189,725 children in the 7 countries are at risk of diminished intelligence as a consequence of exposure to elevated levels of lead in water and soil at hazardous waste sites .
+Depending on choice of model , these decrements ranged from 4.94 to 14.96 IQ points .
+Given the restricted scope of this survey and the conservative estimation procedures employed , this number is almost certainly an underestimate of the full burden of disease .
+Exposure to toxic chemicals from hazardous waste sites is an important and heretofore insufficiently examined contributor to the Global Burden of Disease .

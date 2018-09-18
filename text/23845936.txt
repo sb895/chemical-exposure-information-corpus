@@ -1,0 +1,12 @@
+Animal studies showed that the developing brain is particularly sensitive to chemical exposure .
+Human studies carried out in areas with high exposures have proven neurodevelopmental disorders in relation to e.g. lead and PCBs .
+Whether these chemicals are associated with behavioural problems in childhood at current environmental levels is not well known .
+Therefore , we assessed the association between prenatal exposure to lead , cadmium , PCBs , dioxin-like compounds , HCB and p,p'-DDE and behavioural problems in 7-8year old children .
+Prenatal exposure data were obtained from the Flemish mother-new-born cohort .
+Lead , cadmium , PCBs , dioxin-like compounds , HCB and p,p'-DDE were analysed in cord blood .
+When the child reached 7-8years , 270 mothers completed the Strengths and Difficulties Questionnaire assessing their children's behavioural health .
+We found that doubling the prenatal lead exposure ( cord blood lead levels ) was associated with a 3.43 times higher risk for hyperactivity in both boys and girls .
+In addition , total difficulties were 5.08 times more likely in the highest tertile for prenatal lead exposure compared to the lowest tertile .
+In girls , total difficulties were 4.92 more likely when doubling cord blood p,p'-DDE , whereas no significant association was found in boys .
+Further , we noted in boys a 1.53 times higher risk for emotional problems when doubling cord blood cadmium , whereas no significant association was found in girls .
+These results indicate that the presence of environmental contaminants influences the mental health of the next generation .

@@ -1,0 +1,9 @@
+OBJECTIVE To evaluate the long-term mortality experience of workers exposed to arsenic , cadmium , and other substances at a copper mine and smelter in Copperhill , Tennessee studied earlier as part of an industry-wide study .
+METHODS Subjects were 2,422 male workers employed three or more years in the smelter or mill between 1/1/46 until the plant strike and scale-down of operations in April 1996 .
+Vital status was determined through 2000 for 99.4% of subjects and cause of death for 91.3% of 878 deaths .
+Historical exposures were estimated for lead , SO(2) , arsenic , cadmium , dust , and cobalt .
+We computed standardized mortality ratios ( SMRs ) based on U.S. and local county rates and modeled internal relative risks ( RRs ) .
+RESULTS We observed overall deficits in deaths based on national and local county comparisons from all causes , all cancers and most of the cause of death categories examined .
+We found limited evidence of increasing mortality risks from cerebrovascular disease with increasing duration and cumulative arsenic exposure , but no evidence of an exposure-response relationship for cadmium exposure and bronchitis .
+CONCLUSIONS Our limited evidence of an association between inhaled arsenic exposure and CVD is an exploratory finding not observed in other epidemiology studies of more highly exposed occupational populations .
+Possible alternative explanations include chance alone and uncontrolled confounding or effect modification by co-exposures or other factors correlated with arsenic exposure and unique to the Copperhill facility .

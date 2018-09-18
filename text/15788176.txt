@@ -1,0 +1,13 @@
+From the late 1950s to the early 1970s elastic polysulphide sealants were used in outdoor seams between concrete blocks in prefabricated buildings .
+The sealants contained 5-30% polychlorinated biphenyls ( PCBs ) .
+Due to the weathering of sealants in general and the replacement of seams with new PCB-free materials in the 1990s , PCBs have drifted to the soil adjacent to buildings .
+The objectives of this study were to survey PCB contamination in the surroundings of former PCB-containing buildings and to evaluate the risks to human health .
+Samples from soil , and also from blood serum of residents , were collected to obtain data for exposure assessment .
+The health risk assessment was based on deterministic and probabilistic calculations for cancer and non-cancer risks .
+Soil ingestion and dermal contact were considered the main routes of exposure and children the most important exposed group .
+The mean total PCB concentration was 6.83 mg/kg within 2m of the buildings and 0.52 mg/kg within 3-10 m from of the buildings .
+The deterministic risk assessment with conservative parameters resulted in lifetime cancer risk estimates on the order of 10(-6)-10(-7) .
+The lifetime average daily dose ( LADD ) for PCBs was less than 10% of the reference dose ( RfD ) 0.02 microg/kg day , which is based on immunosupression in monkeys .
+The LADD corresponding to the total site attributable exposure was less than 10% of the estimated average dietary PCB intake in Finland .
+Children can , however , in worst cases be exposed to daily doses near the level of the RfD .
+Low cost measures are recommended to reduce possible exposure of children .

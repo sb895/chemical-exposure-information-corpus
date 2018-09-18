@@ -1,0 +1,1 @@
+< <Biomonitoring--effect marker-- AND  Biomonitoring--effect marker--biomarker--gene<exposure routes--oral intake--drinking water--pregnant women< <exposure routes--oral intake--drinking water--pregnant women<exposure routes--oral intake--drinking water--< <exposure routes--oral intake--drinking water--pregnant women<  Biomonitoring--effect marker--biomarker--gene< 

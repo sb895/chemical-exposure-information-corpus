@@ -1,0 +1,15 @@
+Human exposure to persistent organic pollutants ( POPs ) and the potential health impact in the Arctic far from the emission sources have been highlighted in numerous studies .
+As a supplement to human POP biomonitoring studies , a physiologically based pharmacokinetic ( PBPK ) model was set up to estimate the fate of POPs in Greenlandic Inuit's liver , blood , muscle and adipose tissue following long-term exposure to traditional Greenlandic diet .
+The PBPK model described metabolism , excretion and POP accumulation on the basis of their physicochemical properties and metabolic rates in the organisms .
+Basic correlations between chemically analyzed blood POP concentrations and calculated daily POP intake from food questionnaire of 118 middle age ( 18-35years ) Greenlandic Inuits from four cities in West Greenland ( Qaanaaq : n=40 ; Qeqertarsuaq : n=36 ; Nuuk : n=20 ; Narsaq : n=22 ) taken during 2003 to 2006 were analyzed .
+The dietary items included were polar bear , caribou , musk oxen , several marine species such as whales , seals , bird and fish as well as imported food .
+The contaminant concentrations of the dietary items as well as their chemical properties , uptake , biotransformation and excretion allowed us to estimate the POP concentration in liver , blood , muscle and adipose tissue following long-term exposure to the traditional Greenlandic diet using the PBPK model .
+Significant correlations were found between chemically analyzed POP blood concentrations and calculated daily intake of POPs for Qeqertarsuaq , Nuuk and Narsaq Inuit but not for the northernmost settlement Qaanaaq , probably because the highest blood POP level was found in this district which might mask the interview-based POP calculations .
+Despite the large variation in circulating blood POP concentrations , the PBPK model predicted blood concentrations of a factor 2-3 within the actual measured values .
+Moreover , the PBPK model showed that estimated blood POP concentration increased significantly after consumption of meals .
+For individuals who had a high internal burden of POPs accumulated over years , the estimated blood levels were less influenced by recent meal intake .
+The model results also indicated that of the POPs accumulated in the body the concentrations were highest for CB-153 ( oxychlordane : 0.6% ; DDE and CB-99 : 2.9% ; HCB : 4.4% ; CB-153 : 34.5% ) .
+Furthermore , the model also estimated a significant internal body POP burden even several years after the mentioned dietetic shift and that contaminant accumulation was 2-6 folds faster than the decay after a shift to a diet low in contaminants .
+Using the PBPK model approach , we seek to improve the knowledge on contaminant body burden in humans of the Arctic .
+However , it should be noted that calculations of daily POP intake may be subject to considerable uncertainty due to imprecise information from the dietary interview .
+Based on these results we suggest that PBPK modeling is implemented as a tool in future human health exposure and effect assessments in Greenland .

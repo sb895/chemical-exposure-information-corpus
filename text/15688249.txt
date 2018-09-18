@@ -1,0 +1,12 @@
+OBJECTIVES A cross-sectional study was carried out to assess the effects of methylmercury exposure on neurodevelopment in Japanese children , in relation to the Madeiran cross-sectional study , and to estimate benchmark dose ( BMD ) levels using the data of two studies .
+METHODS Mercury levels in hair samples obtained from 327 Japanese mothers and their 7-year-old children , and methylmercury levels in the umbilical cord , were determined .
+Neurodevelopmental examinations , including the brainstem auditory evoked potential ( BAEP ) , were performed on the children .
+RESULTS The medians of hair mercury were 1.63 ( 0.11-6.86 ) mug/g for mothers and 1.65 ( 0.35-6.32 ) mug/g for children , and a significant correlation was seen between the hair mercury levels in mothers and children .
+The maternal hair mercury was significantly correlated with the methylmercury in the umbilical cords obtained from 49 children .
+In 210 children whose mothers had not changed their dietary habits since pregnancy , most of the neurodevelopmental variables were not significantly related to hair mercury levels .
+The BAEP latencies were significantly shorter in the Japanese children than in the 113 Madeiran 7-year-old children , whose mothers had hair mercury of 1.12-54.5 ( median 10.9 ) mug/g .
+Significant relationships between the maternal hair mercury level and BAEP latencies ( peaks III and V , and interpeak I-III ) were found only in the merged data of Japanese and Madeiran children .
+When the lower 95% confidence limit of BMD ( BMDL ) was calculated , the BMDLs of mercury exposure for BAEP latencies in the merged data were between 6.9 and 10.5 mug/g , and lower than those in the Madeiran children .
+CONCLUSIONS It is suggested that Japanese children may ingest similar doses per body weight of methylmercury to their mothers .
+If maternal hair mercury was used as a proxy for mercury exposure at birth , no significant dose-effect associations with the BAEP latencies were observed in Japanese children with exposure levels below 6.9 mug/g of hair mercury , but only when higher-level exposures from Madeiran children were included .
+The BMDL was lower for the merged data than for Madeiran children alone .

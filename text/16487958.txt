@@ -1,0 +1,9 @@
+Exposure to arsenic in drinking water is associated with an increased rate of lung cancer .
+The objective of this study was to determine whether arsenic exposure at relatively low concentrations ( approximately 20 microg/L ) is associated with changes in biomarkers of lung inflammation , as measured by the ratio of sputum metalloproteinase and antiproteinase activity .
+A total of 73 subjects residing in Ajo and Tucson , Arizona were recruited for this cross-sectional study .
+Tap water and first morning void urine were analyzed for arsenic .
+Matrix metalloproteinase 2 ( MMP-2 ) , 9 ( MMP-9 ) and tissue inhibitor of metalloproteinase 1 ( TIMP-1 ) were measured in induced sputum .
+Household tap water arsenic levels in Ajo ( 20.3+/-3.7 microg/L ) were higher than in those Tucson ( 4.0+/-2.3 microg/L ) , as were mean urinary total inorganic arsenic levels ( 29.1+/-20.4 and 11.0+/-12.0 microg/L , respectively ) .
+Log-normalized MMP-2 , MMP-9 , and TIMP-1 concentrations in sputum were not significantly different between towns .
+However , after adjusting for town , asthma , diabetes , urinary monomethylarsonic acid/inorganic arsenic , and smoking history , total urinary arsenic was negatively associated with MMP-2 and TIMP-1 levels in sputum and positively associated with the ratio of MMP-2/TIMP-1 and MMP-9/TIMP-1 in sputum .
+Increased sputum proteinase/antiproteinase activity suggests a potential toxic mechanism for low-level arsenic exposure .

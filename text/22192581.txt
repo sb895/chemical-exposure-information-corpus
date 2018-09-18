@@ -1,0 +1,11 @@
+Polybrominated diphenyl ethers ( PBDE ) are used in high amounts as flame retardants in plastic materials and textiles .
+Due to their persistence , their accumulation in the food chain and their toxic properties they have been integrated in the human biomonitoring program of the Baden-Württemberg State Health Office since 2002 .
+In repeated cross-sectional studies in winter 2002/03 ( n=162 ) , 2004/05 ( n=194 ) , 2005/06 ( n=411 ) and 2008/09 ( n=770 ) blood samples of 9-11-year-old pupils were taken , pooled and analysed for PBDE after extraction and purification by silica gel using HRGC/HRMS .
+Samples were pooled according to region , gender , and breast feeding .
+PBDE in the pooled samples ranged from 1.9 to 12.5 ng/g blood fat ( sum of all PBDE ) .
+Mean concentrations of PBDE , calculated for the four investigation periods , were 6.2 ng/g ( 2002/03 ) , 5.4 ng/g ( 2004/05 ) , 7.8 ng/g ( 2005/06 ) and 6.7 ng/g ( 2008/09 ) .
+While the concentration of the decabrominated diphenyl ether ( BDE-209 ) increased , the concentration of other congeners ( BDE-47 , BDE-99 , BDE-100 , BDE-153 , BDE-154 , BDE-183 ) decreased slightly or remained at the same level .
+Consistent differences with respect to gender and breast-feeding were not recognizable .
+Concentrations of PBDE in children range on the same level as in adults and do not seem to be critical from the toxicological point of view .
+Because of the slight increase of BDE 209 , the internal concentrations of BDE should be monitored in the future .
+The strong variations in PBDE concentration between the different pooled samples indicate that , apart from ingestion , other routes of exposure ( dermal , inhalation ) and additional sources ( textiles , building materials ) must be taken into consideration .

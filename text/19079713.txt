@@ -1,0 +1,13 @@
+BACKGROUND Persistent pollutants , such as polychlorinated biphenyls ( PCBs ) , affect endocrine function .
+Human exposure to polybrominated diphenyl ethers ( PBDEs ) , which are similar in structure to PCBs , has increased recently , but health effects have not been well studied .
+OBJECTIVES Our goal in this study was to determine whether PBDE body burdens are related to thyroid and steroid hormone levels , thyroid antibodies , and thyroid disease in a cohort of frequent and infrequent adult male sport fish consumers .
+METHODS We tested serum from 405 adult males for PBDE congeners , PCB congeners , testosterone , sex-hormone-binding globulin ( SHBG ) , SHBG-bound testosterone , thyroglobulin antibodies , and the thyroid hormones thyroxine ( T(4) ) , triiodothyronine ( T(3) ) , thyroid-stimulating hormone ( TSH ) , and T(4)-binding globulin ( TBG ) .
+We collected data on demographics , fish consumption , medical diseases , and medication use .
+RESULTS The median sum of PBDEs was 38 ng/g lipid .
+In 308 men without thyroid disease or diabetes , PBDEs were positively related to measures of T(4) and reverse T(3) and inversely related to total T(3) and TSH .
+PBDEs were positively related to the percentage of T(4) bound to albumin , and inversely related to the percentage of T(4) bound to TBG .
+Associations of BDE congeners with hormones varied .
+BDE-47 was positively associated with testosterone levels .
+Participants with PBDEs over the 95th percentile were more likely to have thyroglobulin antibodies , although high PBDE exposure was not associated with thyroid disease .
+PBDE effects were independent of PCB exposure and sport fish consumption .
+CONCLUSIONS PBDE exposure , at levels comparable with those of the general U.S. population , was associated with increased thyroglobulin antibodies and increased T(4) in adult males .

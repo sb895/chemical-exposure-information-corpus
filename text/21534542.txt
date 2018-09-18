@@ -1,0 +1,9 @@
+Animal studies suggest that perfluorocarbons ( PFCs ) may alter sexual maturation .
+Relationships of human PFC exposure with puberty are not clear .
+We conducted a cross-sectional study to investigate whether perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) were associated with indicators of sexual maturation in a 2005-2006 survey of residents with PFOA water contamination from the Mid-Ohio Valley .
+Participants were 3076 boys and 2931 girls aged 8-18 years .
+They were classified as having reached puberty based on either hormone levels ( total >50 ng/dL and free >5 pg/mL testosterone in boys and estradiol >20 pg/mL in girls ) or onset of menarche .
+We estimated the odds of having reached puberty classified by these criteria and the fitted median age of reaching puberty in relation to serum PFOA and PFOS concentrations measured when puberty status was assigned .
+For boys , there was a relationship of reduced odds of reached puberty ( raised testosterone ) with increasing PFOS ( delay of 190 days between the highest and lowest quartile ) .
+For girls , higher concentrations of PFOA or PFOS were associated with reduced odds of postmenarche ( 130 and 138 days of delay , respectively ) .
+In conclusion , our study showed a later age of puberty in this population correlated with PFC concentrations .

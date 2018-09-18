@@ -1,0 +1,12 @@
+Bisphenol A ( BPA ) , triclosan ( TCS ) , benzophenone-3 ( BP-3 ) , dichoro- and phenyl phenols are industrial chemicals present in numerous consumer products such as polycarbonate plastics , preservatives in personal care products , sun screens , pesticides and fungicides , respectively , and they are all suspected endocrine disrupters .
+In this study the urinary excretion of eight phenols in Danish children recruited from the general population were investigated .
+One 24h urine and two consecutive first morning samples were collected from each of 129 healthy Danish children and adolescents ( 6-21 years ) .
+The concentrations of urinary phenols were analyzed by a new on-line TurboFlow-liquid chromatography-tandem mass spectrometry ( LC-MS/MS ) method .
+Most of the analyzed phenols were detectable in more than 80% of the 24h urine samples and the median concentration of BPA , TCS , BP-3 , 2,4-dichorophenol and 2,5-dichorophenol ( analyzed as \u2211DCP ) , 2-phenylphenol and 4-phenylphenol were 1.37 , 1.45 , 1.41 , 0.65 , 0.36 and 0.53ng/mL , respectively .
+The ranges of the excreted TCS and BP-3 were wide ; from below limit of detection to maximum levels of 955ng/mL and 162ng/mL , respectively , while the other phenols were excreted in a more narrow range with maximum levels below 25ng/mL .
+Concentrations in first morning urine were in general higher than in 24h urine and comprised 30-47% of the absolute amount excreted during 24h .
+The youngest children aged 6-10 years had a significantly higher urinary BPA concentration ( ng/mL ) and also a relatively higher daily BPA excretion ( ng/kg bw/24h ) than the older children and adolescents .
+The opposite pattern was observed for TCS , BP-3 and \u2211DCP for which urinary levels increased significantly with age .
+No gender difference or associations to pubertal development were observed .
+In conclusion , our study showed that Danish children were exposed to multiple phenols simultaneously .
+Small children were relatively more exposed to BPA than older children , while higher exposures to TCS , BP-3 and \u2211DCP were seen among adolescents .

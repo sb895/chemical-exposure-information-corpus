@@ -1,0 +1,9 @@
+BACKGROUND Water damage in buildings has been associated with reports of upper airway inflammation among occupants .
+METHODS This survey included a questionnaire , allergen skin testing , nasal nitric oxide , and nasal lavage on 153 participants .
+We conducted exposure assessments of 297 workstations and analyzed collected dust for fungi , endotoxin , and ( 1 \u2192 3)-\u03b2-D-glucan to create floor-specific averages .
+RESULTS Males had higher levels of nasal inflammatory markers , and females reported more symptoms .
+ECP , IL-8 , and MPO were significantly associated with nasal symptoms , flu-like achiness , or chills .
+Fungi and glucan were positively associated with blowing out thick mucus .
+Endotoxin was significantly associated with ECP in overall models , and with ECP , IL-8 , MPO , and neutrophils among non-atopic females .
+CONCLUSIONS In this study , we documented an association between endotoxin and nasal inflammatory markers among office workers .
+The results of our study suggest that a non-allergic response may contribute to symptoms occurring among occupants in this water-damaged building .

@@ -1,0 +1,12 @@
+BACKGROUND There is increasing epidemiologic evidence that arsenic exposure in utero , even at low levels found throughout much of the world , is associated with adverse reproductive outcomes and may contribute to long-term health effects .
+Animal models , in vitro studies , and human cancer data suggest that arsenic may induce epigenetic alterations , specifically by altering patterns of DNA methylation .
+OBJECTIVES In this study we aimed to identify differences in DNA methylation in cord blood samples of infants with in utero , low-level arsenic exposure .
+METHODS DNA methylation of cord-blood derived DNA from 134 infants involved in a prospective birth cohort in New Hampshire was profiled using the Illumina Infinium Methylation450K array .
+In utero arsenic exposure was estimated using maternal urine samples collected at 24-28 weeks gestation .
+We used a novel cell mixture deconvolution methodology for examining the association between inferred white blood cell mixtures in infant cord blood and in utero arsenic exposure ; we also examined the association between methylation at individual CpG loci and arsenic exposure levels .
+RESULTS We found an association between urinary inorganic arsenic concentration and the estimated proportion of CD8+ T lymphocytes ( 1.18 ; 95% CI : 0.12 , 2.23 ) .
+Among the top 100 CpG loci with the lowest p-values based on their association with urinary arsenic levels , there was a statistically significant enrichment of these loci in CpG islands ( p = 0.009 ) .
+Of those in CpG islands ( n = 44 ) , most ( 75% ) exhibited higher methylation levels in the highest exposed group compared with the lowest exposed group .
+Also , several CpG loci exhibited a linear dose-dependent relationship between methylation and arsenic exposure .
+CONCLUSIONS Our findings suggest that in utero exposure to low levels of arsenic may affect the epigenome .
+Long-term follow-up is planned to determine whether the observed changes are associated with health outcomes .

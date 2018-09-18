@@ -1,0 +1,13 @@
+RATIONALE Previously we reported that airborne concentrations of cis-permethrin , but not trans-permethrin , measured during pregnancy in an inner city pediatric cohort was associated with cough by age 5 .
+However , the effect of subsequent exposures to both permethrins during early childhood , and to piperonyl butoxide ( PBO , a synergist for residential pyrethroid insecticides ) remains to be elucidated .
+We hypothesized that prenatal and age 5-6 year measures of PBO and permethrins would be associated with cough at age 5-6 years in this cohort .
+Further , we explored the associations between these pesticide measures and wheeze , asthma , seroatopy , and fractional exhaled nitric oxide ( FeNO ) .
+METHODS PBO and permethrins were measured in personal air during the third trimester of pregnancy and indoor residential air at age 5-6 years ( n=224 ) .
+Health outcome questionnaires were administered to the mothers of 5-6 year old children .
+Indoor allergen specific and total immunoglobulin ( Ig ) E production was measured from sera collected at age 5 , and FeNO was measured at 5-6 years .
+The hypotheses were tested using regression models adjusting for common confounders .
+RESULTS Noninfectious cough was reported among 14% of children at age 5-6 years .
+Measures of prenatal PBO , but not age 5-6 year PBO or permethrins , increased the odds of cough [ OR ( 95% CI ) : 1.27 ( 1.09-1.48 ) , p<0.01 ; n=217 ] .
+No significant associations were found for other measured health outcomes .
+CONCLUSIONS Prenatal PBO exposure was associated with childhood cough .
+It is unclear whether the observed effect is due mainly to PBO itself or residential pyrethroids of which PBO is an indicator .

@@ -1,0 +1,9 @@
+In exposure or risk assessments , both environmental and biological measurements are often used .
+Environmental measurements are an excellent means for evaluating regulatory compliance , but the models used to estimate body burden from these measurements are complex .
+Unless all possible routes of exposure ( i.e. , inhalation , dermal absorption , ingestion ) are evaluated , exposure to a toxicant can be underestimated .
+To circumvent this problem , measurements of the internal dose of a toxicant in blood , serum , urine , or tissues can be used singularly or in combination with environmental data for exposure assessment .
+In three separate laboratories , carbaryl or its primary metabolite , 1-naphthol , was measured in personal air , dermal samples , blood serum , and urine from farmer applicators and their families .
+The usefulness of both environmental and biological data has been demonstrated .
+For the farmer applicator , the environmental levels of carbaryl would have been sufficient to determine that an exposure had occurred .
+However , biological measurements were necessary to determine the absorbed dose of each member of the applicator's family .
+In addition , a correlation between serum and urinary 1-naphthol measurements has been shown ; therefore , either matrix can be used to accurately evaluate occupational carbaryl exposure .

@@ -1,0 +1,10 @@
+OBJECTIVE To investigate the association of prenatal mercury exposure and fish intake with attention-deficit/hyperactivity disorder ( ADHD)-related behavior .
+METHODS For a population-based prospective birth cohort recruited in New Bedford , Massachusetts ( 1993-1998 ) , we analyzed data for children examined at age 8 years with peripartum maternal hair mercury measures ( n = 421 ) or maternal report of fish consumption during pregnancy ( n = 515 ) .
+Inattentive and impulsive/hyperactive behaviors were assessed using a teacher rating scale and neuropsychological testing .
+RESULTS The median maternal hair mercury level was 0.45 \u03bcg/g ( range , 0.03-5.14 \u03bcg/g ) , and 52% of mothers consumed more than 2 fish servings weekly .
+In multivariable regression models , mercury exposure was associated with inattention and impulsivity/hyperactivity ; some outcomes had an apparent threshold with associations at 1 \u03bcg/g or greater of mercury .
+For example , at 1 \u03bcg/g or greater , the adjusted risk ratios for mild/markedly atypical inattentive and impulsive/hyperactive behaviors were 1.4 ( 95% CI , 1.0-1.8 ) and 1.7 ( 95% CI , 1.2-2.4 ) , respectively , for an interquartile range ( 0.5 \u03bcg/g ) mercury increase ; there was no confounding by fish consumption .
+For neuropsychological assessments , mercury and behavior associations were detected primarily for boys .
+There was a protective association for fish consumption ( >2 servings per week ) with ADHD-related behaviors , particularly impulsive/hyperactive behaviors ( relative risk = 0.4 ; 95% CI , 0.2-0.6 ) .
+CONCLUSIONS Low-level prenatal mercury exposure is associated with a greater risk of ADHD-related behaviors , and fish consumption during pregnancy is protective of these behaviors .
+These findings underscore the difficulties of balancing the benefits of fish intake with the detriments of low-level mercury exposure in developing dietary recommendations in pregnancy .

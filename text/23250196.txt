@@ -1,0 +1,12 @@
+Personal exposures to carcinogenic polycyclic aromatic hydrocarbons ( c-PAHs ) bound to airborne particulate matter \ue2fa2.5\u2009\u03bcm ( PM2.5 ) were measured in the context of a large-scale molecular epidemiological study in order to identify the impacts of air pollution on human health .
+Sampling was carried out in three industrial cities in the Czech Republic : Ostrava , Karvina and Havirov .
+The city of Prague , exhibiting much lower industrial air pollution but a high level of traffic , served as a control .
+The first monitoring campaigns were held in winter and were repeated in the summer of 2009 .
+The active personal monitors PV 1.7 for PM2.5-bound c-PAHs were used .
+Non-smoking city policemen from Prague , Karvina and Havirov , and office workers from Ostrava , participated in the study .
+All participants completed a personal questionnaire and a time-location-activity diary .
+The average personal winter exposure to c-PAHs ( sum of the eight PAHs-benz[a]anthracene , benzo[a]pyrene , benzo[b]fluoranthene , benzo[g,h,i]perylene , benzo[k]fluoranthene , chrysene , dibenz[a,h]anthracene and indeno[1,2,3-c,d]pyrene ) was highest in Karvina , 39.1 , followed by Ostrava at 15.1 and Prague at 4.3\u2009ng/m(3) .
+The winter levels were significantly higher than the summer values ( P<0.001 ) : 4.3 in Karvina , 3.0 in Ostrava , 1.6 in Havirov and 1.0\u2009ng/m(3) in Prague .
+The average personal benzo[a]pyrene winter/summer exposures were : 6.9/0.6 in Karvina , 2.5/0.4 in Ostrava , 0.8/0.1 in Prague and 0.2\u2009ng/m(3) in summer in Havirov .
+In this study , we examined personal exposure to c-PAHs and tested it for associations with potential predictor variables collected from questionnaires , addressing life style factors and day-to-day activities .
+We found outdoor concentration , environmental tobacco smoke exposure , home heating fuel of coal , wood or gas , frequency of exhaust fan use , cooking and commuting by a car to be the main determinants of personal exposure .

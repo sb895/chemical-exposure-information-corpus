@@ -1,0 +1,10 @@
+In Bangladesh , approximately 97 % of the rural population uses groundwater as a drinking source .
+In many areas of the country this water is known to have elevated levels of iron .
+The contribution to iron intake that this exposure provides , and the impact on health , are unknown .
+In the pre- and post-monsoon seasons of 2008 , we measured iron content of household tube well water , explored local water collection methods , and estimated iron intake through consumption of groundwater for 276 women of reproductive age in a rural setting in northwestern Bangladesh .
+Groundwater samples were analyzed for total iron ( mg/L ) , arsenic ( category of µg/L ) , pH , temperature ( °C ) , and oxidation-reduction potential ( Eh ) .
+Participants drank [ mean ( SD ) ; 2.7 ( 0.8 ) L ] of water per day , all of which was collected from domestic tube wells .
+Total iron concentration in groundwater was high , [ median ( IQR ) 16.3 ( 6.9 , 28.2 ) mg/L ] , and variable throughout the area .
+Using this value , estimated daily iron intake [ median ( IQR) ] was 41.1 ( 16.0 , 71.0 ) mg from drinking water alone .
+The amount of water consumed was unrelated to its iron concentration ( r = - 0.06 ; p = 0.33 ) despite potentially unpleasant organoleptic qualities of high iron content in water .
+Groundwater contributes substantially to daily iron intake of rural Bangladeshi women and currently represents an under-assessed potential source of dietary iron .

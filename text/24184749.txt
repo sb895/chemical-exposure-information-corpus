@@ -1,0 +1,11 @@
+Evidence of the impact of exposure to low levels of lead on children's health is increasing .
+Residential floor dust is the assumed origin of lead exposure by young children .
+In this study , we estimate the contribution of different lead sources to household interior floor dust contamination .
+We also estimate the within-home variability of interior floor dust lead loadings .
+A multilevel model was developed based on data collected in a French survey in 2008-2009 ( 484 housing units , 1834 rooms ) .
+Missing data were handled by multiple imputation using chained equations .
+The intra-home correlation between interior floor Log dust lead loadings was approximately 0.6 .
+Dust lead from the landing of an apartment , mostly originating outside the building , was the major contributor to interior floor dust lead .
+Secondary contributors included the lead-based paint on exterior railings , track-in of the exterior soil of the children's play area into the dwelling , smoking inside the home , demolition of nearby old buildings and sites of pollution in the vicinity .
+Interior lead-based paint contaminated interior floor dust only in old and non-renovated dwellings .
+To reduce interior floor dust lead levels in the general population of dwellings , common areas should be maintained , and track-in from the outside should be limited as much as possible .

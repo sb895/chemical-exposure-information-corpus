@@ -1,0 +1,12 @@
+This paper discusses the dioxin TEQ levels as determined by the chemically activated luciferase gene expression assay ( CALUX ) and by HRGC-HRMS in eggs , soils , faeces and kitchen waste samples obtained in the CONTEGG study .
+The samples were collected in each Belgian province at private homes and in small gardens where chickens are held .
+The CALUX levels for eggs sampled in autumn were higher than the levels in eggs obtained at the same locations in spring ( median values of 5.86 and 4.08 pg CALUX TEQ/g fat , respectively ) .
+The total WHO-TEQ levels in eggs , determined by HRGC-HRMS , ranged from 3.29 to 95.35 pg TEQ/g fat in autumn and from 1.50 to 64.79 pg TEQ/g fat in spring .
+In the soils on which the chickens forage , levels of 2.51-11.35 pg I-TEQ/g in autumn and 2.00-7.86 pg I-TEQ/g in spring were found .
+The congener pattern of PCDD/Fs in the eggs , soils and faeces was dominated by OCDD , in addition to 1,2,3,4,6,7,8-HeptaCDD , OCDF and 1,2,3,4,6,7,8-HeptaCDF .
+The predominant dioxin-like PCBs were PCB118 , PCB 105 and PCB 156 .
+The dioxin-like PCBs contributed on average 47% , 14% and 20% to the total WHO-TEQ in eggs , soils and faeces , respectively .
+Kitchen waste samples were very low-contaminated with dioxin-like compounds .
+The present results showed a good agreement between egg and soil TEQ levels for PCDD/Fs but not for dioxin-like PCBs .
+This study showed that current soil levels found in some private gardens do not lead to egg levels below the current EU maximal level of 6 pg total TEQ/g fat for dioxins and dioxin-like PCBs .
+The consumers of the analysed eggs attained 5-79% of the tolerable weekly intake ( TWI ) of 14 pg TEQ/kg bw for dioxins and dioxin-like PCBs by exposure to their home-produced eggs only .

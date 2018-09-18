@@ -1,0 +1,4 @@
+Neutron Activation Analysis ( NAA ) was performed for the determination of 25 elements in hair , toenails , and PM2.5 ( particles smaller than 2.5 microm in aerodynamic diameter ) to assess how human tissues of occupational staff and inhaled particles follow the industrial exposure of Gdansk Phosphatic fertilizer plant in Poland .
+Statistical analysis was used to elucidate this exposure .
+The results obtained were compared using box and whiskers plot and the parametric t-test and nonparametric Mann-Whitney U- test .
+The comparison showed a statistically significant difference between workers and control group concerning for example Br , Ca , Cl , La , Mn , Sm , U and V in hair , Cu , Dy , La , Sm , Ti and U in toenails and Al , As , Cl , I , K , La , Mg , Mn , Na , Sm and Zn in PM2.5 samples .

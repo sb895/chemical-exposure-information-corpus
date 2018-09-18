@@ -1,0 +1,11 @@
+Mercury concentrations were measured in paired hair and blood samples from a cohort of about 1000 children examined at birth and at 7 and 14 years of age .
+The ratio between concentrations in maternal hair ( in microg/g ) and in cord blood ( microg/L ) was approximately 200 , but samples from the children at age 14 years showed a ratio of about 250 .
+These findings are in accordance with previous data from smaller studies .
+However , an even higher ratio of about 360 was seen at 7 years of age , suggesting that hair strands at this age retain more mercury .
+The 95th percentile of the hair-to-blood ratio was between five-fold and nine-fold greater than the 5th percentile .
+The results were examined in structural equation models to estimate the total imprecision of the individual biomarker results and the possibility that the ratio may not be constant .
+The hair-to-blood ratio was found to increase at lower mercury concentrations , a tendency that could not be explained by potential confounders , such as alcohol intake or number of amalgam fillings .
+The total imprecision ( coefficient of variation ) for the blood determinations averaged about 30% , thereby substantially exceeding normal laboratory imprecision .
+Yet hair-mercury results had an even greater imprecision , which suggested that preanalytical factors , such as variable sample characteristics , impacted the results .
+These findings are in accordance with other evidence that the cord blood concentration is a better predictor of neurobehavioral toxicity than is the maternal hair concentration .
+Although practical for field studies and monitoring purposes , hair-mercury concentration results , therefore , need to be calibrated and interpreted in regard to each specific study setting .

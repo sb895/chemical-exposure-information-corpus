@@ -1,0 +1,13 @@
+Since deforestation has recently been associated with increased mercury load in the Amazon , the problem of mercury exposure is now much more widespread than initially thought .
+A previous exploratory study suggested that fruit consumption may reduce mercury exposure .
+The objectives of the study were to determine the effects of fruit consumption on the relation between fish consumption and bioindicators of mercury ( Hg ) exposure in Amazonian fish-eating communities .
+A cross-sectional dietary survey based on a 7-day recall of fish and fruit consumption frequency was conducted within 13 riparian communities from the Tapajós River , Brazilian Amazon .
+Hair samples were collected from 449 persons , and blood samples were collected from a subset of 225 , for total and inorganic mercury determination by atomic absorption spectrometry .
+On average , participants consumed 6.6 fish meals/week and ate 11 fruits/week .
+The average blood Hg ( BHg ) was 57.1 +/- 36.3 microg/L ( median : 55.1 microg/L ) , and the average hair-Hg ( HHg ) was 16.8 +/- 10.3 microg/g ( median : 15.7 microg/g ) .
+There was a positive relation between fish consumption and BHg ( r = 0.48 ; P<0.0001 ) , as well as HHg ( r =0.34 ; P<0.0001 ) .
+Both fish and fruit consumption entered significantly in multivariate models explaining BHg ( fish : beta = 5.6 , P<0.0001 ; fruit : beta = -0.5 , P = 0.0011 ; adjusted model R2 = 36.0% ) and HHg levels ( fish : beta = 1.2 , P<0.0001 ; fruit : beta = -0.2 , P = 0.0002 ; adjusted model R2 = 21.0% ) .
+ANCOVA models showed that for the same number of fish meals , persons consuming fruits more frequently had significantly lower blood and HHg concentrations .
+For low fruit consumers , each fish meal contributed 9.8 microg/L Hg increase in blood compared to only 3.3 microg/L Hg increase for the high fruit consumers .
+In conclusion , fruit consumption may provide a protective effect for Hg exposure in Amazonian riparians .
+Prevention strategies that seek to maintain fish consumption while reducing Hg exposure in fish-eating communities should be pursued .

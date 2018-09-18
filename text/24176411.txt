@@ -1,0 +1,13 @@
+OBJECTIVE To examine cooking practices and 24-h personal and kitchen area exposures to fine particulate matter ( PM2.5 ) and black carbon in cooks using biomass in Ghana .
+METHODS Researchers administered a detailed survey to 421 households .
+In a sub-sample of 36 households , researchers collected 24-h integrated PM2.5 samples ( personal and kitchen area ) ; in addition , the primary cook was monitored for real-time PM2.5 .
+All filters were also analyzed for black carbon using a multi-wavelength reflectance method .
+Predictors of PM2.5 exposure were analyzed , including cooking behaviors , fuel , stove and kitchen type , weather , demographic factors and other smoke sources .
+RESULTS The majority of households cooked outdoors ( 55% ; 231/417 ) , used biomass ( wood or charcoal ) as their primary fuel ( 99% ; 412/413 ) , and cooked on traditional fires ( 77% , 323/421 ) .
+In the sub-sample of 29 households with complete , valid exposure monitoring data , the 24-h integrated concentrations of PM2.5 were substantially higher in the kitchen sample ( mean 446.8 µg/m3 ) than in the personal air sample ( mean 128.5 µg/m3 ) .
+Black carbon concentrations followed the same pattern such that concentrations were higher in the kitchen sample ( 14.5 µg/m3 ) than in the personal air sample ( 8.8 µg/m3 ) .
+Spikes in real-time personal concentrations of PM2.5 accounted for the majority of exposure ; the most polluted 5% , or 72 min , of the 24-h monitoring period accounted for 75% of all exposure .
+Two variables that had some predictive power for personal PM2.5 exposures were primary fuel type and ethnicity , while reported kerosene lantern use was associated with increased personal and kitchen area concentrations of black carbon .
+CONCLUSION Personal concentrations of PM2.5 exhibited considerable inter-subject variability across kitchen types ( enclosed , semi-enclosed , outdoor ) , and can be elevated even in outdoor cooking settings .
+Furthermore , personal concentrations of PM2.5 were not associated with kitchen type and were not predicted by kitchen area samples ; rather they were driven by spikes in PM2.5 concentrations during cooking .
+Personal exposures were more enriched with black carbon when compared to kitchen area samples , underscoring the need to explore other sources of incomplete combustion such as roadway emissions , charcoal production and kerosene use .

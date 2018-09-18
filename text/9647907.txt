@@ -1,0 +1,11 @@
+We measured mortality rates in a cohort of 20,508 aerospace workers who were followed up over the period 1950-1993 .
+A total of 4,733 workers had occupational exposure to trichloroethylene .
+In addition , trichloroethylene was present in some of the washing and drinking water used at the work site .
+We developed a job-exposure matrix to classify all jobs by trichloroethylene exposure levels into four categories ranging from " none " to " high " exposure .
+We calculated standardized mortality ratios for the entire cohort and the trichloroethylene exposed subcohort .
+In the standardized mortality ratio analyses , we observed a consistent elevation for nonmalignant respiratory disease , which we attribute primarily to the higher background rates of respiratory disease in this region .
+We also compared trichloroethylene-exposed workers with workers in the " low " and " none " exposure categories .
+Mortality rate ratios for nonmalignant respiratory disease were near or less than 1.00 for trichloroethylene exposure groups .
+We observed elevated rare ratios for ovarian cancer among those with peak exposure at medium and high levels ] relative risk ( RR ) = 2.74 ; 95% confidence interval ( CI ) = 0.84-8.99 ] and among women with high cumulative exposure ( RR = 7.09 ; 95% CI = 2.14-23.54 ) .
+Among those with peak exposures at medium and high levels , we observed slightly elevated rate ratios for cancers of the kidney ( RR = 1.89 ; 95% CI = 0.85-4.23 ) , bladder ( RR = 1.41 ; 95% CI = 0.52-3.81 ) , and prostate ( RR = 1.47 ; 95% CI = 0.85-2.55 ) .
+Our findings do not indicate an association between trichloroethylene exposure and respiratory cancer , liver cancer , leukemia or lymphoma , or all cancers combined .

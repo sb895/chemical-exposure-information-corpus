@@ -1,0 +1,12 @@
+Perchlorate ( ClO(4)(-) ) is ubiquitous in the environment and inhibits the thyroid's uptake of iodide .
+Food and tap water are likely sources of environmental exposure to perchlorate .
+The aim of this study was to identify significant dietary sources of perchlorate using perchlorate measured in urine as an exposure indicator .
+Sample-weighted , age-stratified linear regression models of National Health and Nutrition Examination Survey ( NHANES ) 2001-2008 data ( n=16,955 participants ) characterized the association between urinary perchlorate and the mass consumed in USDA food groups , controlling for urinary creatinine and other potential confounders .
+Separate models of NHANES 2005-2006 data ( n=2841 ) evaluated the association between urinary perchlorate and perchlorate consumed via residential tap water .
+Consumption of milk products was associated with statistically significant contributions to urinary perchlorate across all age strata : 2.93 ng ClO(4)(-)/ml per kg consumed for children ( 6-11 years-old ( YO) ) ; 1.54 ng ClO(4)(-)/ml per kg for adolescents ( 12-19 YO ) ; and 0.69 ng ClO(4)(-)/ml per kg for adults ( 20-84 YO ) .
+Vegetables were a significant contributor for adolescents and adults , whereas fruits and eggs contributed significantly only for adults .
+Dark-green leafy vegetables contributed the most among all age strata : 30.83 ng ClO(4)(-)/ml per kg for adults .
+Fats , oils , and salad dressings were significant contributors only for children .
+Three food groups were negatively associated with urinary perchlorate : grain products for children ; sugars , sweets , and beverages for adolescents ; and home tap water for adults .
+In a separate model , however , perchlorate consumed via home tap water contributed significantly to adult urinary perchlorate : 2.11E-4 ng ClO(4)(-)/ml per ng perchlorate in tap water consumed .
+In a nationally representative sample of the United States 6-84 YO , diet and tap water contributed significantly to urinary perchlorate , with diet contributing substantially more than tap water .

@@ -1,0 +1,12 @@
+BACKGROUND Polybrominated diphenyl ethers ( PBDEs ) are persistent , bioaccumulative , and endocrine-disrupting chemicals .
+OBJECTIVES We used handwipes to estimate exposure to PBDEs in house dust among toddlers and examined sex , age , breast-feeding , race , and parents ' education as predictors of serum PBDEs .
+METHODS Eighty-three children from 12 to 36 months of age were enrolled in North Carolina between May 2009 and November 2010 .
+Blood , handwipe , and house dust samples were collected and analyzed for PBDEs .
+A questionnaire was administered to collect demographic data .
+RESULTS PBDEs were detected in all serum samples ( geometric mean for \u03a3pentaBDE in serum was 43.3 ng/g lipid ) , 98% of the handwipe samples , and 100% of the dust samples .
+Serum \u03a3pentaBDEs were significantly correlated with both handwipe and house dust \u03a3pentaBDE levels , but were more strongly associated with handwipe levels ( r = 0.57 ; p < 0.001 vs. r = 0.35 ; p < 0.01 ) .
+Multivariate model estimates revealed that handwipe levels , child's sex , child's age , and father's education accounted for 39% of the variation in serum \u03a3BDE3 levels ( sum of BDEs 47 , 99 , and 100 ) .
+In contrast , age , handwipe levels , and breast-feeding duration explained 39% of the variation in serum BDE 153 .
+CONCLUSIONS Our study suggests that hand-to-mouth activity may be a significant source of exposure to PBDEs .
+Furthermore , age , socioeconomic status , and breast-feeding were significant predictors of exposure , but associations varied by congener .
+Specifically , serum \u03a3BDE3 was inversely associated with socioeconomic status , whereas serum BDE-153 was positively associated with duration of breast-feeding and mother's education .

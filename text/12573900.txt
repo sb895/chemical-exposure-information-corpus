@@ -1,0 +1,9 @@
+In 1998 we published the results of a study suggesting an association between breast cancer and perchloroethylene ( PCE ; also called tetrachloroethylene ) exposure from public drinking water .
+The present case-control study was undertaken to evaluate this association further .
+The cases were composed of female residents of eight towns in the Cape Cod region of Massachusetts who had been diagnosed with breast cancer from 1987 through 1993 ( n = 672 ) .
+Controls were composed of demographically similar women from the same towns ( n = 616 ) .
+Women were exposed to PCE when it leached from the vinyl lining of water distribution pipes from the late 1960s through the early 1980s .
+A relative delivered dose of PCE that entered a home was estimated using an algorithm that took into account residential history , water flow , and pipe characteristics .
+Small to moderate elevations in risk were seen among women whose exposure levels were above the 75th and 90th percentiles when 0-15 years of latency were considered ( adjusted odds ratios , 1.5-1.9 for > 75th percentile , 1.3-2.8 for > 90th percentile ) .
+When data from the present and prior studies were combined , small to moderate increases in risk were also seen among women whose exposure levels were above the 75th and 90th percentiles when 0-15 years of latency were considered ( adjusted odds ratios , 1.6-1.9 for > 75th percentile , 1.3-1.9 for > 90th percentile ) .
+The results of the present study confirm those of the previous one and suggest that women with the highest PCE exposure levels have a small to moderate increased risk of breast cancer .

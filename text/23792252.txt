@@ -1,0 +1,11 @@
+Personal care products ( PCPs ) , such as soaps , perfumes , cosmetics , lotions , etc. , contain a variety of chemicals that have been described as potentially hormone disrupting chemicals .
+Therefore , it is important to assess the internal exposure of these chemicals in humans .
+Within the 2nd Flemish Environment and Health Study ( FLEHS II , 2007-2011 ) , the human exposure to three classes of pollutants that are present in a wide variety of PCPs--i.e. polycyclic musks ( galaxolide , HHCB and tonalide , AHTN in blood ) , parabens ( urinary para-hydroxybenzoic acid , HBA ) and triclosan ( urinary TCS)--was assessed in 210 Flemish adolescents ( 14-15 years ) and in 204 adults ( 20-40 years ) randomly selected from the general population according to a stratified two stage clustered study design .
+The aim of this study was to define average levels of exposure in the general Flemish population and to identify determinants of exposure .
+Average levels ( GM ( 95% CI) ) in the Flemish adolescents were 0.717 ( 0.682-0.753 ) \u03bcg/L for blood HHCB ; 0.118 ( 0.108-0.128 ) \u03bcg/L for blood AHTN ; 1022 ( 723-1436 ) \u03bcg/L for urinary HBA and 2.19 ( 1.64-2.92 ) \u03bcg/L for urinary TCS .
+In the adults , levels of HBA were on average 634 ( 471-970 ) \u03bcg/L .
+Inter-individual variability was small for HHCB and AHTN , intermediate for HBA , and large for TCS .
+All biomarkers were positively associated with the use of PCPs .
+Additionally , levels of HHCB and AHTN increased with higher educational level of the adolescents .
+Both in adults and adolescents , urinary HBA levels were negatively correlated with BMI .
+We define here Flemish exposure values for biomarkers of PCPs , which can serve as baseline exposure levels to identify exposure trends in future biomonitoring campaigns .

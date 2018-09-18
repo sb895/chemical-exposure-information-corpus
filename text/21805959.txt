@@ -1,0 +1,9 @@
+While the results of animal studies have shown that perfluorinated compounds ( PFCs ) can modulate concentrations of thyroid hormones in blood , limited information is available on relationships between concentrations of PFCs in human blood serum and fetal thyroid hormones .
+The relationship between concentrations of PFCs in blood and fetal thyroid hormone concentrations or birth weight , and ratios of major PFCs between maternal and fetal serum were determined .
+Concentrations of PFCs were measured in blood serum of pregnant women ( n = 44 ) , fetal cord blood serum ( n = 43 ) and breast milk ( n = 35 ) .
+Total concentrations of thyroxin ( T4 ) , triiodothyronin ( T3 ) and thyroid stimulating hormone ( TSH ) in blood serum were also quantified .
+The ratios of major PFCs in maternal versus fetal serum were 1:1.93 , 1.02 , 0.72 , and 0.48 for perfluorotridecanoic acid ( PFTrDA ) , perfluorooctanoic acid ( PFOA ) , perfluorohexane sulfonate ( PFHxS ) , and perfluorooctane sulfonate ( PFOS ) , respectively .
+Fetal PFOS , PFOA , PFTrDA and maternal PFTrDA were correlated with fetal total T4 concentrations , but after adjusting for major covariates , most of the relationships were no longer statistically significant .
+However , the significant negative correlations between maternal PFOS and fetal T3 , and maternal PFTrDA and fetal T4 and T3 remained .
+Since thyroid hormones are crucial in the early development of the fetus , its clinical implication should be evaluated .
+Given the observed trans-placental transfer of PFCs , efforts should be also made to elucidate the exposure sources among pregnant women .

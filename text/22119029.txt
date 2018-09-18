@@ -1,0 +1,11 @@
+BACKGROUND Reliable techniques to measure polychlorinated biphenyl ( PCB ) congeners make the clearer definition of their effects on human health possible .
+Given that PCBs are classified as endocrine disrupters , we sought to explore the expression of some key genes involved in sex steroid metabolism .
+OBJECTIVES To examine common classification schemes of PCB congeners and determine whether exposure to groups classified by mechanism of action alter the gene expression ( GE ) of CYP17 , CYP19 , and ESR1 and ESR2 .
+METHODS GE and exposure to various classifications of lipid-adjusted PCB congeners were examined in 139 daughters of the Michigan Fisheaters ' Cohort .
+Using mixed models analyses and adjusting for age , menopausal status , and current use of oral contraceptives and hormone replacement therapy , GE data were regressed on exposure to PCB congener groupings based on mechanism of action .
+RESULTS Three novel findings are elucidated : first , that up-regulation of CYP19 expression is associated with exposure to PCB groupings containing dioxin-like , potentially anti-estrogenic , immunotoxic congeners , including PCB IUPAC #74 , #105 , #118 , #138 , #156 , #157 , #158 , #167 , and #170 from this cohort .
+Second , that exposure to similar congeners ( PCB IUPAC #105 , #156 , #157 , #158 , and #167 in this cohort ) but using a classification based solely on hormonal mechanisms of action is associated with increased expression of ESR2 .
+Third , that increased expression of CYP17 is of borderline significance when associated with exposure to PCB IUPAC #118 , #138 , and #156 .
+CONCLUSIONS These findings are both counter-intuitive and intriguing .
+Rather than exhibiting anti-estrogenic effects alone , they suggest that these congeners up-regulate the major enzyme involved in estrogen synthesis and tend to confirm previous findings of links between AhR and ER signaling pathways .
+Replication of these findings , expansion of the number of genes examined , exploration of mixtures of environmental chemicals , and subsequent study of health outcomes in a larger cohort are future priorities .

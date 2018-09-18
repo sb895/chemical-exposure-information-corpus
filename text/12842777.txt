@@ -1,0 +1,8 @@
+We determined methylsulfonyl metabolites of chlorinated biphenyls ( MeSO2-CBs ) and 1,1-bis(4-chlorophenyl)-2,2-dichloroethene ( p,p'-DDE ) in human adipose , liver , brain , and lung tissues obtained from 11 Belgian individuals ( 9-62 years of age ) .
+The total concentration of MeSO2-CBs ( lipid weight basis ) decreased in the following order : liver ( mean , 9.30 ng/g ; range , 1.68-27.03 ng/g lipid ) > lung [ mean , 2.72 ng/g ; range , not detected ( ND ) to 11.54 ng/g lipid ] > adipose tissue ( mean , 1.57 ng/g ; range , 0.33-4.33 ng/g lipid ) > brain ( mean , 0.24 ng/g ; range , ND-0.56 ng/g lipid ) .
+The profiles of MeSO2-CBs and MeSO2-DDE in each tissue were similar for all 11 subjects .
+In adipose , brain , and lung tissues , 4'-MeSO2-CB87 , 4'-MeSO2-CB101 , and 3-MeSO2-CB149 ( except brain ) occurred at higher concentrations than did other MeSO2-CBs .
+However , 3'-MeSO2-CB132 was by far the most abundant congener in liver , contributing on average to approximately 60% of the sum of MeSO2-CBs .
+The concentrations of 3-MeSO2-DDE in different tissues were at the same or lower levels than the total concentrations of MeSO2-CBs .
+This study suggests that the distribution patterns of MeSO2-CBs and MeSO2-DDE in humans differ between liver and other tissues .
+Moreover , these profiles differ from those found in other mammals , such as polar bears , porpoises , and otters .

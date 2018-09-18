@@ -1,0 +1,8 @@
+The current study examined the hypothesis that there may be vertical variation in mobile source-related volatile organic compound ( VOC ) concentrations in high-rise apartment buildings .
+One hundred twelve homes in 56 high-rise apartment buildings with 10 or more stories participated in the study .
+Both the outdoor and the indoor air concentrations of three VOCs [ methyl-tertiary butyl ether ( MTBE ) , benzene , and toluene ] were significantly higher for the low-floor apartments than for the high-floor apartments ( P < 0.05 ) .
+The median outdoor concentrations were 5.4 , 6.8 , and 29.1 microgram/m3 , respectively , for the low-floor apartments , yet 4.4 , 4.3 , and 21.9 microgram/m3 , respectively , for the high-floor apartments .
+Meanwhile , the median indoor concentrations were 6.3 , 9.4 , and 44.8 microgram/m3 , respectively , for the low-floor apartments , yet 5.1 , 7.6 , and 38.8 microgram/m3 , respectively , for the high-floor apartments .
+These findings indicate that residents of low-floor apartments are exposed to elevated residential levels of mobile source-related VOCs compared to high-floor apartment residents .
+The indoor concentrations of the target VOCs , except for MTBE , were significantly higher than the outdoor air concentrations for both the low and high floors ( P < 0.05 ) .
+Plus , the outdoor and indoor VOC concentrations were significantly different between the daytime and nighttime data sets for both low- and high-floor apartments , with a P value of less than or close to 0.05 .

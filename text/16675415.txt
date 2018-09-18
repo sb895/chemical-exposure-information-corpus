@@ -1,0 +1,10 @@
+Results from air pollution exposure assessment studies suggest that ambient fine particles [ particulate matter with aerodynamic diameter<or=2.5 microg ( PM2.5) ] , but not ambient gases , are strong proxies of corresponding personal exposures .
+For particles , the strength of the personal-ambient association can differ by particle component and level of home ventilation .
+For gases , however , such as ozone ( O3 ) , nitrogen dioxide ( NO2 ) , and sulfur dioxide ( SO2 ) , the impact of home ventilation on personal-ambient associations is untested .
+We measured 24-hr personal exposures and corresponding ambient concentrations to PM2.5 , sulfate ( SO2-(4) ) , elemental carbon , O3 , NO2 , and SO2 for 10 nonsmoking older adults in Steubenville , Ohio .
+We found strong associations between ambient particle concentrations and corresponding personal exposures .
+In contrast , although significant , most associations between ambient gases and their corresponding exposures had low slopes and R2 values ; the personal-ambient NO2 association in the fall season was moderate .
+For both particles and gases , personal-ambient associations were highest for individuals spending most of their time in high- compared with low-ventilated environments .
+Cross-pollutant models indicated that ambient particle concentrations were much better surrogates for exposure to particles than to gases .
+With the exception of ambient NO2 in the fall , which showed moderate associations with personal exposures , ambient gases were poor proxies for both gas and particle exposures .
+In combination , our results suggest that a ) ventilation may be an important modifier of the magnitude of effect in time-series health studies , and b ) results from time-series health studies based on 24-hr ambient concentrations are more readily interpretable for particles than for gases .

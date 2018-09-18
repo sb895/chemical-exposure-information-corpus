@@ -1,0 +1,9 @@
+Organochlorines ( OCs ) are ubiquitously present in the environment , and food of animal origin is currently reported as the major source of exposure .
+Carcinogenicity in animals raises concern , and OCs may also be a risk factor for both neurological and immunological effects .
+Our primary objective was to study predictors of adipose tissue levels of dichlorodiphenyldichloroethylene ( DDE ) and polychlorinated biphenyls ( PCBs ) in Danish women .
+We showed that adipose tissue concentrations of DDE and PCBs were consistently positively associated with age and the consumption of fish with a high fat content , while total lifetime duration of lactation had an inverse relationship .
+The direction of the association with body mass index ( BMI ) depended on the OC studied .
+The consumption of meat , fruit , lean fish , medium-fat-content fish , poultry , and eggs was not associated with OC concentrations in our study .
+We classified fish according to fat percentage , which seems more relevant than considering only total fish consumption .
+When PCBs were subdivided according to their chemical structure , similar results were obtained for the mono- , di- , and tri-ortho PCBs , indicating that PCBs can be treated as a homogenous group when studying predictors of concentrations in humans .
+In conclusion , the present study shows that age , lactation , and BMI are consistent predictors of human adipose tissue concentrations of DDE and PCBs and that dietary factors other than fish with a high fat content are not important predictors of these concentrations .

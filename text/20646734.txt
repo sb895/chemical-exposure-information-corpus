@@ -1,0 +1,11 @@
+UNLABELLED Long term exposure to arsenic can cause adverse health effects and lead to different levels of disability .
+The prevalence of arsenical dermatosis is as high as 40% in the Hetao Plain area of Inner Mongolia , but the association between exposure to arsenic in drinking water and the occurrence of disability has not yet been fully examined .
+The aim of this study was to investigate the prevalence of disability in arsenic-affected villages in Inner Mongolia , China .
+METHODS A cross-sectional study was performed to examine the prevalence of disability .
+A total of 320 villagers in the age range of 20-39 years were interviewed and examined for disability and arsenical skin lesions .
+The subjects were classified into a high arsenic group ( 50 microg L(-1) ) and a low arsenic group ( <50 microg L(-1) ) .
+The relationship between levels of arsenic in drinking water and disability was analyzed using multivariate logistic regression models to estimate the odds ratios and 95% confidence intervals .
+RESULTS The prevalence of disability was 6.88% in the arsenic affected area of Inner Mongolia and 24.72% in the arsenic group 50 microg L(-1) .
+A strong correlation was found between disability and arsenical skin lesions ( OR=86.39 , 95%CI : 25.45-293.20 ) .
+CONCLUSION This suggests that the level of arsenic exposure is a major risk factor for disability .
+Further research is needed to place the results in a wider context and to determine the exact relationship between arsenic exposure and disability .

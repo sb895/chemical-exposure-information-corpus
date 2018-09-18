@@ -1,0 +1,11 @@
+Improved analytical methods for measuring urinary phthalate metabolites have resulted in biomarker-based estimates of phthalate daily intake for the general population , but not for occupationally exposed groups .
+In 2003-2005 , we recruited 156 workers from eight industries where materials containing diethyl phthalate ( DEP ) , dibutyl phthalate ( DBP ) , and/or di(2-ethylhexyl) phthalate ( DEHP ) were used as part of the worker's regular job duties .
+Phthalate metabolite concentrations measured in the workers ' end-shift urine samples were used in a simple pharmacokinetic model to estimate phthalate daily intake .
+DEHP intake estimates based on three DEHP metabolites combined were 0.6-850\u2009\u03bcg/kg/day , with the two highest geometric mean ( GM ) intakes in polyvinyl chloride ( PVC ) film manufacturing ( 17\u2009\u03bcg/kg/day ) and PVC compounding ( 12\u2009\u03bcg/kg/day ) .
+All industries , except phthalate manufacturing , had some workers whose DEHP exposure exceeded the U.S. reference dose ( RfD ) of 20\u2009\u03bcg/kg/day .
+A few workers also exceeded the DEHP European tolerable daily intake ( TDI ) of 50\u2009\u03bcg/kg/day .
+DEP intake estimates were 0.5-170\u2009\u03bcg/kg/day , with the highest GM in phthalate manufacturing ( 27\u2009\u03bcg/kg/day ) .
+DBP intake estimates were 0.1-76\u2009\u03bcg/kg/day , with the highest GMs in rubber gasket and in phthalate manufacturing ( 17\u2009\u03bcg/kg/day , each ) .
+No DEP or DBP intake estimates exceeded their respective RfDs .
+The DBP TDI ( 10\u2009\u03bcg/kg/day ) was exceeded in three rubber industries and in phthalate manufacturing .
+These intake estimates are subject to several uncertainties ; however , an occupational contribution to phthalate daily intake is clearly indicated in some industries .

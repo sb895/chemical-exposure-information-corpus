@@ -1,0 +1,11 @@
+Incense burning inside the home , a common practice in Arabian Gulf countries , has been recognized as a potentially modifiable source of indoor air pollution .
+To better understand potential adverse effects of incense burning in exposed individuals , we conducted a hazard assessment of incense smoke exposure .
+The goals of this study were first to characterize the particles and gases emitted from Arabian incense over time when burned , and secondly to examine in vitro human lung cells responses to incense smoke .
+Two types of incense ( from the United Arab Emirates ) were burned in a specially designed indoor environmental chamber ( 22 m(3) ) to simulate the smoke concentration in a typical living room and the chamber air was analyzed .
+Both particulate ( PM ) concentrations and sizes were measured , as were gases carbon monoxide ( CO ) , sulfur dioxide ( SO2 ) , oxides of nitrogen ( NOx ) , formaldehyde ( HCHO ) , and carbonyls .
+During the burn , peak concentrations were recorded for PM ( 1.42 mg/m(3) ) , CO ( 122 pm ) , NOx ( 0.3 ppm ) , and HCHO ( 85 ppb ) along with pentanal ( 71.9 \u03bcg/m(3) ) , glyoxal ( 84.8 \u03bcg/m(3) ) , and several other carbonyls .
+Particle sizes ranged from 20 to 300 nm with count median diameters ranging from 65 to 92 nm depending on time post burn-out .
+PM , CO , and NOx time-weighted averages exceeded current government regulation values and emissions seen previously from environmental tobacco smoke .
+Charcoal emissions were the main contributor to both the high CO and NOx concentrations .
+A significant cell inflammatory response was observed in response to smoke components formed from incense burning .
+Our hazard evaluation suggests that incense burning contributes to indoor air pollution and could be harmful to human health .

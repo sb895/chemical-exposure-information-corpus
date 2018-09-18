@@ -1,0 +1,13 @@
+BACKGROUND Brominated flame retardants ( BFRs ) have been in widespread use in a vast array of consumer products since the 1970s .
+The metabolites of some BFRs show a structural similarity to thyroid hormones and experimental animal studies have confirmed that they may interfere with thyroid hormone homeostasis .
+A major concern has been whether intrauterine exposure to BFRs may disturb thyroid homeostasis since the fetal brain is particularly susceptible to alterations in thyroid hormones .
+However , few reports on newborns have been published to date .
+OBJECTIVES To evaluate the association between BFRs and neonatal thyroid-stimulating hormone ( TSH ) .
+METHODS We studied six polybrominated diphenyl ethers ( PBDEs ) measured in milk samples from 239 women who were part of the " Norwegian Human Milk Study " ( HUMIS ) , 2003-2006 .
+Hexabromocyclododecane ( HBCD ) and BDE-209 were measured in a subset of the women ( 193 and 46 milk samples , respectively ) .
+The milk was sampled at a median of 33 days after delivery .
+TSH was measured in babies three days after delivery as part of the routine national screening program for early detection of congenital hypothyroidism .
+Additional information was obtained through the Medical Birth Registry and questionnaires to the mothers .
+RESULTS The PBDE concentrations in human milk in Norway were comparable to concentrations reported from other European countries and Asia , but not the US and Canada where levels are approximately one order of higher magnitude .
+We observed no statistically significant associations between BDE-47 , 99 , 153 , 154 , 209 and HBCD in human milk and TSH in models adjusted for possible confounders and other environmental toxicants including polychlorinated biphenyls ( PCBs ) .
+CONCLUSIONS We did not observe an association between TSH and exposure to HBCD and PBDEs within the exposure levels observed .

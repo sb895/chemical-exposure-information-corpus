@@ -1,0 +1,13 @@
+Human saliva offers a unique noninvasive approach for populational study .
+Purposes of this study were to investigate the feasibility of using saliva manganese ( Mn ) concentration as a biomarker of Mn exposure among career welders and to study the variations of Mn , copper ( Cu ) , zinc ( Zn ) , cadmium ( Cd ) , and lead ( Pb ) in saliva as affected by the welding profession .
+Forty-nine male welders , of whom 28 were in the low exposed group and 21 in the high exposed group , were recruited .
+Control subjects were 33 military soldiers without metal exposure .
+Ambient Mn levels in breathing zones were 0.01 , 0.24 and 2.21mg/m(3) for control , low , and high exposed groups , respectively .
+Saliva samples were collected to quantify metals by inductive coupled plasma mass spectrometer ( ICP-MS ) .
+Saliva concentrations of Mn and Cu were significantly higher in welders than in controls ( p<0.01 ) ; the variation in saliva levels appeared likely to be associated with airborne Mn levels among study populations .
+Saliva levels of Zn were significantly lower in welders than in controls ( p<0.05 ) , while Cd and Pb levels in saliva were unchanged .
+Significant associations were observed between saliva and serum for Mn ( r=0.575 , p<0.05 ) and Cu ( r=0.50 , p<0.05 ) .
+Moreover , saliva Mn concentrations were higher among welders with 5-10years of employment than those with less than 5years of employment .
+Linear regression analysis revealed a significant correlation between saliva Mn and Cu and between saliva Mn and Zn .
+Taken together , these data suggest that Mn concentrations in saliva appear reflective of welders ' exposure to airborne Mn and their years of welding experience , respectively .
+Elevated Mn levels among welders may alter the homeostasis of Cu and Zn .

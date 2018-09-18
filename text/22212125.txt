@@ -1,0 +1,13 @@
+UNLABELLED Household dust from 19 Swedish homes was collected using two different sampling methods : from the occupant's own home vacuum cleaner after insertion of a new bag and using a researcher-collected method where settled house dust was collected from surfaces above floor level .
+The samples were analyzed for 16 polybrominated diphenyl ether ( PBDE ) congeners and total hexabromocyclododecane ( HBCD ) .
+Significant correlations ( r = 0.60-0.65 , Spearman r = 0.47-0.54 , P < 0.05 ) were found between matched dust samples collected with the two sampling methods for \u2211OctaBDE and \u2211DecaBDE but not for \u2211PentaBDE or HBCD .
+Statistically significantly higher concentrations of all PBDE congeners were found in the researcher-collected dust than in the home vacuum cleaner bag dust ( VCBD ) .
+For HBCD , however , the concentrations were significantly higher in the home VCBD samples .
+Analysis of the bags themselves indicated no or very low levels of PBDEs and HBCD .
+This indicates that there may be specific HBCD sources to the floor and/or that it may be present in the vacuum cleaners themselves .
+The BDE-47 concentrations in matched pairs of VCBD and breast milk samples were significantly correlated ( r = 0.514 , P = 0.029 ) , indicating that one possible exposure route for this congener may be via dust ingestion .
+PRACTICAL IMPLICATIONS The statistically significant correlations found for several individual polybrominated diphenyl ether ( PBDE ) congeners , \u2211OctaBDE and \u2211DecaBDE between the two dust sampling methods in this study indicate that the same indoor sources contaminate both types of dust or that common processes govern the distribution of these compounds in the indoor environment .
+Therefore , either method is adequate for screening \u2211OctaBDE and \u2211DecaBDE in dust .
+The high variability seen between dust samples confirms results seen in other studies .
+For hexabromocyclododecane ( HBCD ) , divergent results in the two dust types indicate differences in contamination sources to the floor than to above-floor surfaces .
+Thus , it is still unclear which dust sampling method is most relevant for HBCD as well as for \u2211PentaBDE in dust and , further , which is most relevant for determining human exposure to PBDEs and HBCD .

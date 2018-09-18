@@ -1,0 +1,12 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) , dibenzofurans ( PCDFs ) , and dibenzodioxins ( PCDDs ) may affect the female reproductive system in animals and humans .
+In 1978-1979 , a mass poisoning occurred in central Taiwan due to PCB/PCDF-contaminated cooking oil ; this incident was called Yucheng ( "oil disease " in Chinese ) .
+OBJECTIVE The purpose of our study was to determine whether PCB/PCDF exposure affected fertility in exposed women .
+METHODS After the event , we followed the exposed individuals and a reference group who were sex- , age- , and community-matched .
+In 2003 , we obtained fertility histories from Yucheng and reference women by telephone interview .
+We used Kaplan-Meier survival curves and multivariable Cox regression to compare time to pregnancy ( TTP ) between Yucheng and reference women , and we performed multiple logistic regression to determine whether PCB/PCDF exposure caused infertility .
+RESULTS In total , 412 women responded , with a median TTP of 4 months in Yucheng women and 3 months in reference women ( p = 0.019 ) .
+After adjusting for confounders by Cox regression , we found a fecundability ratio of 0.90 [ 95% confidence interval ( CI ) , 0.80-1.00 ] for Yucheng women .
+Among the 408 women who had non-contraceptive sexual activity for > 12 months , 19.7% of Yucheng women and 9.7% of reference women did not become pregnant ( i.e. , they were infertile ) .
+After we adjusted for confounders by logistic regression , the infertility odds ratio was 2.34 ( 95% CI , 1.23-4.59 ) for Yucheng women compared with the reference group .
+CONCLUSIONS We found prolonged TTP and reduced fertility among women previously exposed to PCBs/PCDFs .
+Because of the limited sample size and the relatively small decrease in the fertility rate , these effects require cautious interpretation and further investigation for confirmation .

@@ -1,0 +1,12 @@
+BACKGROUND It is not well understood how air pollution leads to adverse pregnancy outcomes .
+One pathway may be through C-reactive protein , a biomarker of systemic inflammation that has been reported to increase the risk of preterm delivery .
+We examined whether air pollution influences serum concentrations of C-reactive protein in early pregnancy .
+METHODS We studied 1696 pregnant women in Allegheny County , PA , from 1997 through 2001 .
+C-reactive protein concentrations were assayed in blood collected before the 22nd week of gestation .
+We estimated levels of particles of less than 10 \u03bcm ( PM10 ) and less than 2.5 \u03bcm diameter ( PM2.5 ) , carbon monoxide , nitrogen dioxide , sulfur dioxide , and ozone at the maternal zip code using Kriging interpolation for measurements obtained from ambient stations .
+Associations between air pollution and high C-reactive protein concentrations ( \u2265 8 ng/mL ) were evaluated using logistic regression .
+RESULTS Among nonsmokers , an observed 9.2 \u03bcg/m increase in PM10 ( averaged over 28 days prior to the blood sample ) was associated with an odds ratios of 1.41 for high C-reactive protein concentrations ( 95% confidence interval = 0.99-2.00 ) .
+Similarly , a 4.6 \u03bcg/m increase in PM2.5 was associated with an odds ratio of 1.47 ( 1.05-2.06 ) .
+The odds ratio was 1.49 ( 0.75-2.96 ) per 7.9 ppb increase in ozone during summer .
+There were no associations in smokers or for other air pollutants , and there was no evidence for effect-measure modification by obesity .
+CONCLUSIONS PM10 , PM2.5 , and ozone exposures were associated with increased C-reactive protein concentrations in early pregnancy , suggesting that these air pollutants contribute to inflammation and thereby possibly to adverse pregnancy outcomes .

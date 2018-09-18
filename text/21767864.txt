@@ -1,0 +1,12 @@
+BACKGROUND Environmental contaminants have recently been implicated in the pathogenesis of obesity .
+OBJECTIVE To explore relations between persistent organic pollutants ( POPs ) and fat mass independently of body stature , using a cross-sectional design .
+METHODS In the Prospective Study of the Vasculature in Uppsala Seniors ( PIVUS ) , fat mass was determined in 70-year-old subjects ( n=890 ) by dual-energy X-ray absorptiometry ( DXA ) .
+The plasma levels of 21 POPs ( including 16 PCB congeners , 3 OC pesticides , 1 BDE47 , and 1 dioxin ) were measured by high resolution chromatography coupled with high resolution mass spectrometry ( HRGC/HRMS ) .
+RESULTS Lipid-standardized plasma concentrations of octachlorodibenzo-p-dioxin ( OCDD ) , the PCBs 74 , 99 , 105 and 118 , and the pesticides HCB , TNK , and DDE were all positively related to fat mass ( p=0.03-0.0001 ) .
+Subjects in the fifth quintile for PCB 105 showed a mean fat mass that was 4.8 kg more than subjects in the first quintile .
+On the other hand , the PCBs 156 , 157 , 169 , 170 , 180 , 189 , 194 , 206 , and 209 were negatively related to fat mass ( p=0.0001 ) .
+For PCB 194 , subjects in the fifth quintile showed a mean fat mass that was 10.8 kg less than subjects in the first quintile .
+Following adjustment for smoking , physical activity , education level , height , lean mass , and gender , these results remained significant ( p=0.01-0.0001 ) except for the PCBs 74 and 99 .
+For some PCBs , the associations vs. fat mass were more pronounced in women than in men .
+CONCLUSION Plasma concentrations of some pesticides are positively related to fat mass , while divergent associations are seen for the PCBs .
+These results implicate a complex role of POPs in obesity .

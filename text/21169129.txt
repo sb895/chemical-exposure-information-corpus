@@ -1,0 +1,12 @@
+BACKGROUND Exposure of humans to air pollutants such as ozone and particulate matter ( PM ) may result in airway and systemic inflammation and altered immune function .
+One putative mechanism may be through modification of cell-surface costimulatory molecules .
+OBJECTIVES We examined whether changes in expression of costimulatory molecules on circulating cells are associated with ambient levels of fine PM [ aerodynamic diameter \u2264 2.5 \u03bcm ( PM2.5) ] in a susceptible population of diabetic individuals .
+METHODS Twenty subjects were studied for 4 consecutive days .
+Daily measurements of PM2.5 and meteorologic data were acquired on the rooftop of the exam site .
+Circulating cell-surface markers that mediate innate immune and inflammatory responses were assessed by flow cytometry on each day .
+Sensitivity analysis was conducted on glutathione S-transferase M1 ( GSTM1 ) genotype , body mass index , and glycosylated hemoglobin A1c ( HbA1c ) levels to determine their role as effect modifiers .
+Data were analyzed using random effects models adjusting for season , weekday , and meteorology .
+RESULTS We found significantly increased monocyte expression ( mean fluorescent intensity ) of CD80 , CD40 , CD86 , HLA-DR , and CD23 per 10-\u03bcg/m3 increase in PM2.5 at 2- to 4-day lag times after exposure .
+These findings were significantly higher in obese individuals , in individuals with HbA1c > 7% , and in participants who were GSTM1 null .
+CONCLUSIONS Exposure to PM2.5 can enhance antigen-presenting cell phenotypes on circulating cells , which may have consequences in the development of allergic or autoimmune diseases .
+These effects are amplified in diabetic individuals with characteristics that are associated with insulin resistance or with oxidative stress .

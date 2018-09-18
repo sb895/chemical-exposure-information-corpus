@@ -1,0 +1,9 @@
+BACKGROUND Research suggests that prenatal phthalate exposures affect child executive function and behavior .
+OBJECTIVE We evaluated associations between phthalate metabolite concentrations in maternal prenatal urine and mental , motor , and behavioral development in children at 3 years of age .
+METHODS Mono-n-butyl phthalate ( MnBP ) , monobenzyl phthalate ( MBzP ) , monoisobutyl phthalate ( MiBP ) , and four di-2-ethylhexyl phthalate metabolites were measured in a spot urine sample collected from 319 women during the third trimester .
+When children were 3 years of age , the Mental Development Index ( MDI ) and Psychomotor Development Index ( PDI ) were measured using the Bayley Scales of Infant Development II , and behavior problems were assessed by maternal report on the Child Behavior Checklist .
+RESULTS Child PDI scores decreased with increasing loge MnBP [ estimated adjusted \u03b2-coefficient = -2.81 ; 95% confidence interval ( CI ) : -4.63 , -1.0 ] and loge MiBP ( \u03b2 = -2.28 ; 95% CI : -3.90 , -0.67 ) ; odds of motor delay increased significantly [ per loge MnBP : estimated adjusted odds ratio ( OR ) = 1.64 ; 95% CI : 1.10 , 2.44 ; per loge MiBP : adjusted OR =1.82 ; 95% CI : 1.24 , 2.66 ] .
+In girls , MDI scores decreased with increasing loge MnBP ( \u03b2 = -2.67 ; 95% CI : -4.70 , -0.65 ) ; the child sex difference in odds of mental delay was significant ( p = 0.037 ) .
+The ORs for clinically withdrawn behavior were 2.23 ( 95% CI : 1.27 , 3.92 ) and 1.57 ( 95% CI : 1.07 , 2.31 ) per loge unit increase in MnBP and MBzP , respectively ; for clinically internalizing behaviors , the OR was 1.43 ( 95% CI : 1.01 , 1.90 ) per loge unit increase in MBzP .
+Significant child sex differences were seen in associations between MnBP and MBzP and behaviors in internalizing domains ( p < 0.05 ) .
+CONCLUSION Certain prenatal phthalate exposures may decrease child mental and motor development and increase internalizing behaviors .

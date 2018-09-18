@@ -1,0 +1,11 @@
+High cadmium exposure is known to cause bone damage , but the association between low-level cadmium exposure and osteoporosis remains to be clarified .
+Using a population-based women's health survey in southern Sweden [ Women's Health in the Lund Area ( WHILA ) ] with no known historical cadmium contamination , we investigated cadmium-related effects on bone in 820 women ( 53-64 years of age ) .
+We measured cadmium in blood and urine and lead in blood , an array of markers of bone metabolism , and forearm bone mineral density ( BMD ) .
+Associations were evaluated in multiple linear regression analysis including information on the possible confounders or effect modifiers : weight , menopausal status , use of hormone replacement therapy , age at menarche , alcohol consumption , smoking history , and physical activity .
+Median urinary cadmium was 0.52 microg/L adjusted to density ( 0.67 microg/g creatinine ) .
+After multivariate adjustment , BMD , parathyroid hormone , and urinary deoxypyridinoline ( U-DPD ) were adversely associated with concentrations of urinary cadmium ( p < 0.05 ) in all subjects .
+These associations persisted in the group of never-smokers , which had the lowest cadmium exposure ( mainly dietary ) .
+For U-DPD , there was a significant interaction between cadmium and menopause ( p = 0.022 ) .
+Our results suggest negative effects of low-level cadmium exposure on bone , possibly exerted via increased bone resorption , which seemed to be intensified after menopause .
+Based on the prevalence of osteoporosis and the low level of exposure , the observed effects , although slight , should be considered as early signals of potentially more adverse health effects .
+Key words : biochemical bone markers , bone mineral density , cadmium , lead , osteoporosis , women .

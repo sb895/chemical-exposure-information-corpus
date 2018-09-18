@@ -1,0 +1,9 @@
+BACKGROUND Polychlorinated biphenyls ( PCB ) have been a major environmental health concern because of their wide distribution and persistence in the environment .
+Estimating joint effects of all congeners in a single analysis is complicated by correlation among exposure levels , and the resulting collinearity makes the results difficult to interpret .
+METHODS Patients with breast-related surgery at Yale-New Haven Hospital were interviewed using a standardized questionnaire , and breast adipose tissue samples were analysed for nine PCB congeners ( 74 , 118 , 138 , 153 , 156 , 170 , 180 , 183 , 187 ) .
+The study recruited 490 women ( 304 cases and 186 controls ) between 1994 and 1997 .
+Logistic ridge regression was used to analyse the instability caused by collinearity .
+RESULTS Although total PCB did not appear to be associated with breast cancer risk , significant differences in effect were observed among the nine congeners .
+Logistic ridge regression demonstrated a protective effect on breast cancer risk for a potentially anti-oestrogenic and dioxin-like congener , 156 , while two phenobarbital , CYP1A and CYP2B inducers had an adverse effect , 180 and 183 .
+This analysis also suggested that a protective effect for another phenobarbital congener , 153 , was largely explained by instability caused by collinearity .
+CONCLUSIONS These results indicate that studies of PCB congeners and health require an in-depth statistical analysis in order to better understand the complex issues related to their collinearity .

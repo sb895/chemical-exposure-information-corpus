@@ -1,0 +1,9 @@
+Exposure of humans and wildlife to various inorganic and organometallic forms of mercury ( Hg ) may induce adverse health effects .
+While human populations in developed countries are mainly exposed to marine fish monomethylmercury ( MMHg ) , this is not necessarily the case for developing countries and diverse indigenous people .
+Identification of Hg exposure sources from biomonitor media such as urine or hair would be useful in combating exposure .
+Here we report on the Hg stable isotope signatures and Hg speciation in human hair across different gold miner , indigenous and urban populations in Bolivia and France .
+We found evidence for both mass-dependent isotope fractionation ( MDF ) and mass-independent isotope fractionation ( MIF ) in all hair samples .
+Three limiting cases of dominant exposure to inorganic Hg ( IHg ) , freshwater fish MMHg , and marine fish MMHg sources are used to define approximate Hg isotope source signatures .
+Knowing the source signatures , we then estimated Hg exposure sources for the Bolivian gold miner populations .
+Modeled IHg levels in hair correspond well to measured IHg concentrations ( R = 0.9 ) , demonstrating that IHg exposure sources to gold miners can be monitored in hair samples following either its chemical speciation or isotopic composition .
+Different MMHg and inorganic exposure levels among gold miners appear to correspond to living and working conditions , including proximity to small towns , and artisanal vs large scale mining activity .

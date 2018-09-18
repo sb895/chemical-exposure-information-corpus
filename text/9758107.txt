@@ -1,0 +1,10 @@
+BACKGROUND Studies in Taiwan have found dose-response relations between arsenic ingestion from drinking water and cancers of the skin , bladder , lung , kidney and liver .
+To investigate these associations in another population , we conducted a study in Córdoba , Argentina , which has a well-documented history of arsenic exposure from drinking water .
+METHODS Mortality from lung , kidney , liver and skin cancers during the period 1986-1991 in Córdoba's 26 counties was investigated , expanding the authors ' previous analysis of bladder cancer in the province .
+Counties were grouped a priori into low , medium and high arsenic exposure categories based on available data .
+Standardized mortality ratios ( SMR ) were calculated using all of Argentina as the reference population .
+RESULTS We found increasing trends for kidney and lung cancer mortality with arsenic exposure , with the following SMR , for men and women respectively : kidney cancer , 0.87 , 1.33 , 1.57 and 1.00 , 1.36 , 1.81 ; lung cancer , 0.92 , 1.54 , 1.77 and 1.24 , 1.34 , 2.16 ( in all cases , P < 0.001 in trend test ) , similar to the previously reported bladder cancer results ( 0.80 , 1.28 , 2.14 for men , 1.22 , 1.39 , 1.81 for women ) .
+There was a small positive trend for liver cancer but mortality was increased in all three exposure groups .
+Skin cancer mortality was elevated for women only in the high exposure group , while men showed a puzzling increase in mortality in the low exposure group .
+CONCLUSIONS The results add to the evidence that arsenic ingestion increases the risk of lung and kidney cancers .
+In this study , the association between arsenic and mortality from liver and skin cancers was not clear .

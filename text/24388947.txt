@@ -1,0 +1,9 @@
+Improved air quality has been found associated with attenuated age-related decline in lung function .
+But whether genetic polymorphisms strongly associated with lung function play a modifying role in this attenuation process has so far not been investigated .
+We selected ten single nucleotide polymorphisms derived from the largest genome-wide association studies on lung function and examined whether they modified the association between the change in exposure to particulate matter \u226410\u03bcm ( \u0394PM10 ) and lung function decline. 4310 participants from the SAPALDIA cohort provided valid spirometry measurements , a detailed pulmonary health questionnaire both at baseline and 11years later as well as blood samples for genetic testing .
+Spatially and temporally resolved air pollution exposures were assigned on an individual level based on participants ' residences .
+Statistically significant interactions of moderate strength with \u0394PM10 were detected for rs2284746 .
+Individuals with the CC genotype had a 21ml slower annual decline of the mid expiratory flow per 10\u03bcg/m(3) PM10 reduction over an 10-year period , while the benefits of CG and GG carriers were smaller ( 14 and 7ml per year , respectively ; Pinteraction=0.04 ) .
+The attenuated annual decline in the percentage of the forced expiratory volume in one second relative to the forced vital capacity ( FEV1/FVC ) was also increased with the presence of each C-allele ( Pinteraction=0.009 ) .
+We observed further suggestive interactions of similar magnitude in never-smokers , but none of the results would remain statistically significant after correction for multiple testing .
+We could not find strong evidence that lung function benefits from improved air quality are modified by polymorphisms associated with lung function level in large meta-analyzed genome-wide association studies .

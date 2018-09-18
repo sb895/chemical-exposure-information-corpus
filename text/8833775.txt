@@ -1,0 +1,9 @@
+A large cohort study of 74,828 benzene-exposed and 35,805 unexposed workers employed between 1972 and 1987 in 12 cities in China were followed to determine mortality from all causes and the incidence of lymphohematopoietic malignancies and other hematologic disorders .
+Benzene-exposed study subjects were employed in a variety of occupations , including painting , printing , and the manufacture of footwear , paint , and other chemicals .
+All-cause mortality was similar in the benzene-exposed and unexposed comparison group .
+Statistically significant excess deaths were noted among benzene-exposed subjects for leukemia ( RR = 2.3 , 95% CP 1.1-5.0 ) , malignant lymphoma ( RR = 4.5 , 95% CI : 1.3-28.4 ) , and nonneoplastic diseases of the blood ( RR = 95% CP 2.5-infinity ) , and a marginally significant excess was noted for lung cancer ( RR = 1.4 , 95% CI : 1.0-2.0 ) .
+Risk was significantly elevated for the incidence of all lymphohematopoietic malignancies ( RR = 2.6 , 95% CI : 1.5-5.0 ) , malignant lymphoma ( RR = 3.5 , 95% CI : 1.2-14.9 ) , and leukemia ( RR = 2.6 , 95% CI.. 1.3-5.7 ) .
+Among the leukemia subtypes , only acute myelogenous leukemia ( AML ) incidence was significantly elevated ( RR = 3.1 , 95% CI : 1.2-10.7 ) , although nonsignificant excesses were also noted for chronic myelogenous leukemia ( CML ) ( RR = 2.6 , 95% CI : 0.7-16.9 ) and lymphocytic leukemias ( RR = 2.8 , 95% CI.. 0.5-54.5 ) .
+Significant excesses were found for aplastic anemia ( RR = infinity , 95% CI : 2.2-co ) and myelodysplastic syndrome ( RR = infinity , 95% CI : 1.7-infinity ) .
+Employment in benzene-associated occupations in China is associated with a wide spectrum of myelogenous and lymphocytic malignant diseases and related disorders .
+Investigations continue to assess the nature of these associations .

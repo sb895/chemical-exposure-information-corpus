@@ -1,0 +1,16 @@
+BACKGROUND Socio-economic status , smoking , and exposure to increased levels of environmental air pollution are associated with adverse effects on respiratory health .
+We assessed the contribution of occupational exposures , smoking and outdoor air pollution as competing factors for the association between socio-economic status and respiratory health indicators in a cohort of women from the Ruhr area aged 55 at the time of investigation between 1985 and 1990 .
+METHODS Data of 1251 women with spirometry and complete questionnaire information about respiratory diseases , smoking and potential confounders were used in the analyses .
+Exposure to large-scale air pollution was assessed with data from monitoring stations .
+Exposure to small-scale air pollution was assessed as traffic-related exposure by distance to the nearest major road .
+Socio-economic status was defined by educational level .
+Multiple regression models were used to estimate the contribution of occupational exposures , smoking and outdoor air pollution to social differences in respiratory health .
+RESULTS Women with less than 10 years of school education in comparison to more than 10 years of school education were more often occupationally exposed ( 16.4% vs. 10.1% ) , smoked more often ( 20.3% vs. 13.9% ) , and lived more often close to major roads ( 26.0% vs. 22.9% ) .
+Long-term exposure to increased levels of PM10 was significantly associated with lower school education .
+Women with low school education were more likely to suffer from respiratory symptoms and had reduced lung function .
+In the multivariate analysis the associations between education and respiratory health attenuated after adjusting for occupational exposure , smoking and outdoor air pollution .
+The crude odds ratio for the association between the lung function indicator FEV1 less than 80% of predicted value and educational level ( <10 years vs. >10 years of school education ) was 1.83 ( 95% CI : 1.22-2.74 ) .
+This changed to 1.56 ( 95% CI : 1.03-2.37 ) after adjusting for occupational exposure , smoking and outdoor air pollution .
+CONCLUSION We found an association between socio-economic status and respiratory health .
+This can partly be explained by living conditions indicated by occupational exposure , smoking behaviour and ambient air pollution .
+A relevant part of the social differences in respiratory health , however , remained unexplained .

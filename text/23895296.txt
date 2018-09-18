@@ -1,0 +1,13 @@
+BACKGROUND Despite universal acceptance that smoking is harmful , a substantial number of adults continue to smoke .
+The development of potential reduced exposure products ( more recently termed modified risk tobacco products ) has been suggested as a way to reduce the risks of tobacco smoking .
+This trial is designed to investigate whether changes in toxicant exposure after switching from a commercial to reduced toxicant prototype ( RTP ) cigarette ( 7\u2009mg International Organisation for Standardisation ( ISO ) tar yield ) can be assessed by measurement of biomarkers and other factors .
+The primary objective is to descriptively assess changes in selected biomarkers of exposure ( BoE ) and biomarkers of biological effect ( BoBE ) within participants and within and between groups after switching .
+Secondary objectives are to assess similarly changes in other biomarkers , quality of life , smoking behaviours , physiological measures , mouth-level exposure to toxicants and sensory perception .
+METHODS/DESIGN This trial will assess current smokers , ex-smokers and never-smokers in a single-centre single-blind , controlled clinical trial with a forced-switching design and in-clinic ( residential ) and ambulatory ( non-residential ) periods .
+Smokers will be aged 23-55\u2009years ( minimum legal smoking age plus 5\u2009years ) and non-smokers 28-55\u2009years ( minimum legal smoking age plus 5\u2009years , plus minimum 5\u2009years since last smoked ) .
+Smokers will be allowed to smoke freely at all times .
+We will assess changes in selected BoE and BoBE and effective dose in urine and blood after switching .
+Creatinine concentrations in serum , creatinine clearance in urine , cotinine concentration in saliva , diaries and collection of spent cigarette filters will be used to assess compliance with the study protocol .
+Mouth-level exposure to toxins will be assessed by filter analysis .
+DISCUSSION Data from this study are expected to improve scientific understanding of the effects of RTP cigarettes on BoE and BoBE , and give insights into study design for clinical assessment of potential MRTPs .
+TRIAL REGISTRATION The study was registered in the Current Controlled Trials database under the reference ISRCTN81286286 .

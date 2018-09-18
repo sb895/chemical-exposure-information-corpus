@@ -1,0 +1,13 @@
+Particulate pollution is a major public health concern because epidemiological studies have demonstrated that exposure to particles is associated with respiratory diseases and lung cancer .
+Diesel exhaust particles ( DEP ) , which is classified as a human carcinogen ( IARC , 2012 ) , are considered a major contributor to traffic-related particulate matter ( PM ) in urban areas .
+DEP consists of various compounds , including PAHs and metals which are the principal components that contribute to the toxicity of PM .
+The present study aimed to investigate effects of PM on induction of oxidative DNA damage and inflammation by using lymphocytes in vitro and in human exposed to PM in the environment .
+Human lymphoblasts ( RPMI 1788 ) were treated with DEP ( SRM 2975 ) at various concentrations ( 25-100 \u03bcg/ml ) to compare the extent of responses with alveolar epithelial cells ( A549 ) .
+ROS generation was determined in each cell cycle phase of DEP-treated cells in order to investigate the influence of the cell cycle stage on induction of oxidative stress .
+The oxidative DNA damage was determined by measurement of 8-hydroxy-deoxyguanosine ( 8-OHdG ) whereas the inflammatory responses were determined by mRNA expression of interleukin-6 and -8 ( IL-6 and IL-8 ) , Clara cell protein ( CC16 ) , and lung surfactant protein-A ( SP-A ) .
+The results showed that RPMI 1788 and A549 cells had a similar pattern of dose-dependent responses to DEP in terms of particle uptake , ROS generation with highest level found in G2/M phase , 8-OHdG formation , and induction of IL-6 and IL-8 expression .
+The human study was conducted in 51 healthy subjects residing in traffic-congested areas .
+The effects of exposure to PM2.5 and particle-bound PAHs and toxic metals on the levels of 8-OHdG in lymphocyte DNA , IL-8 expression in lymphocytes , and serum CC16 were evaluated. 8-OHdG levels correlated with the exposure levels of PM2.5 ( P<0.01 ) and PAHs ( P<0.05 ) , but this was not the case with IL-8 .
+Serum CC16 showed significantly negative correlations with B[a]P equivalent ( P<0.05 ) levels , but positive correlation with Pb ( P<0.05 ) .
+In conclusion , a similar pattern of the dose-dependent responses to DEP in the lymphoblasts and lung cells suggests that circulating lymphocytes could be used as a surrogate for assessing PM-induced oxidative DNA damage and inflammatory responses in the lung .
+Human exposure to PM leads to oxidative DNA damage whereas PM-induced inflammation was not conclusive and should be further investigated .

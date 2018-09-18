@@ -1,0 +1,11 @@
+BACKGROUND Arsenic exposure is a risk factor for atherosclerosis in adults , but there is little information on arsenic and early risk biomarkers for atherosclerosis in children .
+Carotid intima-media thickness ( cIMT ) is an indicator of subclinical atherosclerotic burden that has been associated with plasma asymmetric dimethylarginine ( ADMA ) , a predictor of cardiovascular disease risk .
+OBJECTIVES The aim of this study was to investigate associations of arsenic exposure with cIMT , ADMA , and endothelial adhesion molecules [ soluble intercellular cell adhesion molecule-1 ( sICAM-1 ) ; soluble vascular cell adhesion molecule-1 ( sVCAM-1) ] in children who had been exposed to environmental inorganic arsenic ( iAs ) .
+METHODS We conducted a cross-sectional study in 199 children 3-14 years of age who were residents of Zimapan , México .
+We evaluated cIMT using ultrasonography , and plasma lipid profiles by standard methods .
+We analyzed ADMA , sICAM-1 , and sVCAM-1 by ELISA , and measured the concentrations of total speciated arsenic ( tAs ) in urine using hydride generation cryotrapping atomic absorption spectrometry .
+RESULTS In the multiple linear regression model for cIMT , tAs categories were positively associated with cIMT increase .
+The estimated cIMT diameter was greater in 35- to 70-ng/mL and > 70-ng/mL groups ( 0.035 mm and 0.058 mm per 1-ng/mL increase in urinary tAs , respectively ) , compared with the < 35-ng/mL group .
+In addition to tAs level , plasma ADMA was a significant predictor of cIMT .
+In the adjusted regression model , cIMT , percent iAs , and plasma sVCAM-1 were significant predictors of ADMA levels ( e.g. , 0.419-\u03bcmol/L increase in ADMA per 1-mm increase in cIMT ) .
+CONCLUSIONS Arsenic exposure and plasma ADMA levels were positively associated with cIMT in a population of Mexican children with environmental arsenic exposure through drinking water .

@@ -1,0 +1,13 @@
+The Minnesota Children's Pesticide Exposure Study is a probability-based sample of 102 children 3-13 years old who were monitored for commonly used pesticides .
+During the summer of 1997 , first-morning-void urine samples ( 1-3 per child ) were obtained for 88% of study children and analyzed for metabolites of insecticides and herbicides : carbamates and related compounds ( 1-NAP ) , atrazine ( AM ) , malathion ( MDA ) , and chlorpyrifos and related compounds ( TCPy ) .
+TCPy was present in 93% of the samples , whereas 1-NAP , MDA , and AM were detected in 45% , 37% , and 2% of samples , respectively .
+Measured intrachild means ranged from 1.4 microg/L for MDA to 9.2 microg/L for TCPy , and there was considerable intrachild variability .
+For children providing three urine samples , geometric mean TCPy levels were greater than the detection limit in 98% of the samples , and nearly half the children had geometric mean 1-NAP and MDA levels greater than the detection limit .
+Interchild variability was significantly greater than intrachild variability for 1-NAP ( p = 0.0037 ) and TCPy ( p < 0.0001 ) .
+The four metabolites measured were not correlated within urine samples , and children's metabolite levels did not vary systematically by sex , age , race , household income , or putative household pesticide use .
+On a log scale , mean TCPy levels were significantly higher in urban than in nonurban children ( 7.2 vs. 4.7 microg/L ; p = 0.036 ) .
+Weighted population mean concentrations were 3.9 [ standard error ( SE ) = 0.7 ; 95% confidence interval ( CI ) , 2.5 , 5.3 ] microg/L for 1-NAP , 1.7 ( SE = 0.3 ; 95% CI , 1.1 , 2.3 ) microg/L for MDA , and 9.6 ( SE = 0.9 ; 95% CI , 7.8 , 11 ) microg/L for TCPy .
+The weighted population results estimate the overall mean and variability of metabolite levels for more than 84,000 children in the census tracts sampled .
+Levels of 1-NAP were lower than reported adult reference range concentrations , whereas TCPy concentrations were substantially higher .
+Concentrations of MDA were detected more frequently and found at higher levels in children than in a recent nonprobability-based sample of adults .
+Overall , Minnesota children's TCPy and MDA levels were higher than in recent population-based studies of adults in the United States , but the relative magnitude of intraindividual variability was similar for adults and children .

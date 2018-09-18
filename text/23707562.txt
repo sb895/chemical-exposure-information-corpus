@@ -1,0 +1,7 @@
+Estimates of internal dosimetry for acrylamide ( AA , 2-propenamide ; CASRN : 79-06-1 ) and its active metabolite glycidamide ( GA ) were compared using either biomarkers of internal exposure ( hemoglobin adduct levels in rats and humans ) or a PBTK model ( Sweeney et al. , 2010 ) .
+The resulting impact on the human equivalent dose ( HED , oral exposures ) , the human equivalent concentration ( HEC , inhalation ) , and final reference values was also evaluated .
+Both approaches yielded similar AA HEDs and HECs for the most sensitive noncancer effect of neurotoxicity , identical oral reference doses ( RfD ) of 2×10(-3) mg AA/kg bw/d , and nearly identical inhalation reference concentrations ( RfC=0.006 mg/m(3) and 0.007 mg/m(3) , biomarker and PBTK results , respectively ) .
+HED and HEC values for carcinogenic potential were very similar , resulting in identical inhalation unit risks of 0.1/(mg AA/m(3) ) , and nearly identical oral cancer slope factors ( 0.4 and 0.5/mg AA/kg bw/d ) , biomarker and PBTK results , respectively .
+The concordance in estimated HEDs , HECs , and reference values from these two diverse methods increases confidence in those values .
+Advantages and specific application of each approach are discussed .
+( Note : Reference values derived with the PBPK model were part of this research , and do not replace values currently posted on IRIS : http://www.epa.gov/iris/toxreviews/0286tr.pdf. ) .

@@ -1,0 +1,9 @@
+Experimental studies show that hormonal and nonhormonal activities of polychlorinated biphenyls ( PCBs ) are structure dependent , suggesting that the breast cancer risk associated with PCBs may vary according to specific PCB congeners .
+In 1994-1997 , the authors conducted a case-control study of Connecticut women to investigate whether breast cancer risk is associated with body burden of PCBs and varies by PCB congeners .
+A total of 304 breast cancer cases and 186 controls aged 40-79 years were recruited into the study .
+Fresh breast adipose tissue was analyzed for PCBs .
+The age- and lipid-adjusted geometric mean tissue levels of total PCBs were not significantly different ( p = 0.46 ) for the cases ( 478.6 parts per billion ) and controls ( 494.1 parts per billion ) .
+The covariate-adjusted odds ratio was 0.7 ( 95% confidence interval : 0.4 , 1.1 ) for all study participants when the third tertile was compared with the lowest tertile .
+No individual congeners or groups of congeners were associated with a significantly increased risk of breast cancer .
+Further stratification by type of breast disease ; menopausal , parity , and lactation status ; and body size also showed no significant association with body levels of PCBs .
+These results suggest that environmental exposure to PCBs may not substantially affect breast cancer risk .

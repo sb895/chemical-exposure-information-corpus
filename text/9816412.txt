@@ -1,0 +1,12 @@
+BACKGROUND The objective of this work was to estimate the percentage of workers by industry that are exposed to defined concentrations of respirable crystalline silica dust .
+METHODS An algorithm was used to estimate the percentage of total workers exposed to crystalline silica in 1993 at concentrations of at least 1 , 2 , 5 , and 10 times the National Institute for Occupational Safety and Health ( NIOSH ) Recommended Exposure Limit ( REL ) of 0.05 mg/m3 .
+Respirable crystalline silica air sampling data from regulatory compliance inspections performed by the Occupational Safety and Health Administration ( OSHA ) , for the years 1979-1995 , and recorded in the Integrated Management Information System ( IMIS ) were used to estimate exposures .
+Therefore , this work does not include industries such as mining and agriculture that are not covered by OSHA .
+The estimates are stratified by Standard Industrial Classification ( SIC ) codes .
+RESULTS This work found that some of the highest respirable crystalline silica dust concentrations occurred in construction ( masonry , heavy construction , and painting ) , iron and steel foundries ( casting ) , and in metal services ( sandblasting , grinding , or buffing of metal parts ) .
+It was found that 1.8% ( 13,800 workers ) of the workers in SIC 174--Masonry , Stonework , Tile Setting , and Plastering--were exposed to at least 10 times the NIOSH REL .
+For SIC 162--Heavy Construction , Except Highway and Street Construction--this number is 1.3% ( 6,300 workers ) .
+SIC 172--Painting and Paper Hanging--which includes construction workers involved in sandblasting was found to have 1.9% ( 3,000 workers ) exposed to at least 10 times the NIOSH REL .
+The industry that was found to have the highest percentage of workers ( 6% ) exposed to at least the NIOSH REL was the cut stone and stone products industry .
+CONCLUSION Not enough is being done to control exposure to respirable crystalline silica .
+Engineering controls should be instituted in the industries indicated by this work .

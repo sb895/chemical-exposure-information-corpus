@@ -1,0 +1,12 @@
+BACKGROUND Production of polychlorinated biphenyls ( PCBs ) ended in the United States in the 1970s , but PCBs persist in the environment and are detectable in the blood of approximately 80% of Americans over age 50 .
+PCBs decrease dopamine levels in rats and monkeys .
+Loss of dopamine is the hallmark of Parkinson disease , a neurodegenerative disease .
+There are no epidemiologic studies of PCBs and neurodegenerative disease .
+METHODS We conducted a retrospective mortality study of 17,321 PCB-exposed workers to determine whether mortality from Parkinson disease , dementia , and amyotrophic lateral sclerosis was elevated compared with the U.S. population .
+All workers had a least 90 days employment in 1 of 3 electrical capacitor plants using PCBs from the 1940s to the 1970s .
+PCB serum levels from a sample of these workers in the 1970s were approximately 10 times the level of community controls .
+RESULTS We found no overall excess of Parkinson disease , amyotrophic lateral sclerosis , or dementia in the PCB-exposed cohort ( standardized mortality ratios [ SMRs]-1.40 , 1.11 , and 1.26 , respectively , and number of deaths-14 , 10 , and 28 respectively ) .
+However , sex-specific analyses revealed that women had an excess of amyotrophic lateral sclerosis ( SMR-2.26 ; 95% confidence interval [ CI ] = 1.08-4.15 ; 10 deaths ) .
+Furthermore , among highly exposed women ( defined by a job-exposure matrix ) , we found an excess of Parkinson disease ( SMR-2.95 ; 95% CI = 1.08-6.42 ; 6 deaths ) and dementia ( SMR-2.04 ; 95% CI = 1.12-3.43 ; 14 deaths ) .
+CONCLUSIONS Our data are limited due to small numbers and reliance on mortality rather than incidence data , but are suggestive of an effect of PCBs on neurodegenerative disease for women .
+The literature does not offer an explanation for why women would be more affected than men by PCB exposure for these outcomes .

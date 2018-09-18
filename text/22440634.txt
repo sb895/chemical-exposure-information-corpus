@@ -1,0 +1,8 @@
+Previous studies have shown that hair arsenic ( As ) levels are associated with an increased prevalence of metabolic syndrome ( MetS ) , which is a strong predictor for type 2 diabetes .
+The objective of this study was to evaluate whether urinary arsenic methylation is related to MetS in an arseniasis endemic area of southwestern Taiwan , taking genetic factors into account .
+Subjects were from a community-based cohort recruited in 1990 from three villages in Putai Township .
+In 2002-2003 , we successfully followed 247 subjects and measured their urinary arsenic species including inorganic arsenic , monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) , as well as the coding region polymorphisms of three genes known to involve in arsenic methylation .
+Results showed that subjects of MetS had a history of consuming well water of higher arsenic concentration as compared to those without MetS .
+We also found a significant association between urinary arsenic species and risk for MetS , where the odds ratio of MetS was increased with decreasing proportion of MMA and low rate of primary methylation ( defined as MMA/inorganic As ) .
+The increased risk associated with low primary methylation rate was further modified by the GSTO1 A140D polymorphism , with the D allele carriers showing a slightly higher risk for MetS .
+Our results suggest that a low MMA% is associated with increased risk for MetS among As-exposed subjects and the genetic polymorphism of GSTO1 , an enzyme responsible for the reduction of pentavalent arsenic species , may also play a modest modification role .

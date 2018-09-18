@@ -1,0 +1,6 @@
+OBJECTIVE To test whether polymorphisms in IL-1 , NF-KB , FAS , and FASL genes are associated with risk of silicosis .
+METHODS A case-control study was conducted with 183 silicosis patients and 111 silica-exposed miners who were frequency-matched by age , dust exposure duration , work location , and type of work .
+Genotype analysis was performed on genomic DNA , using a PCR-RFLP assay .
+RESULTS Individuals carrying the NFKB1 ins/del genotype had a decreased risk of silicosis ( adjusted OR = 0.57 , 95% CI = 0.32-0.998 , P = 0.049 ) compared with subjects carrying the ins/ins genotype and individuals with the FAS-1377AA homozygote had a decreased risk of silicosis compared with those with the -1377GG genotype ( adjusted OR = 0.42 , 95% CI = 0.19-0.93 , P = 0.03 ) .
+The analysis of haplotypes of polymorphisms in FAS showed that there was a 2.71-fold ( OR = 2.71 , 95% CI = 1.22-6.03 , P = 0.011 ) increased risk of silicosis for subjects with alleles of FAS-1377G and FAS-670G , compared with those carrying alleles of FAS-1377G and FAS-670A .
+CONCLUSION Although the polymorphisms at NFKB1 , FAS-1377 , and extended haplotype FAS-1377G/-670G may play a role in the development of silicosis in the Chinese population , our findings should be verified by larger studies with >1 case/control ratio .

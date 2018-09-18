@@ -1,0 +1,11 @@
+BACKGROUND Arsenic in drinking water remains a major public problem in Bangladesh , although arsenic mitigation programs began there a decade ago .
+The purpose of this study was to examine the effectiveness of this program by determining the relationship between current arsenic levels in well water and the high level of urinary arsenic excretion .
+METHODS A community-based cross-sectional study was conducted in the Pabna district of Bangladesh between May and July 2005 .
+We included 174 married couples and collected their drinking water from 138 wells .
+The allowable limit for arsenic in drinking water is 50 microg/L in Bangladesh , while the normal level of urinary arsenic is < or =40 microg x 1.5 L(-1) x day(-1) by Dhaka Community Hospital .
+RESULTS Of 348 subjects , 304 exceeded the urinary arsenic level of 40 microg x 1.5 L(-1) x day(-1) .
+Of all wells , 44.2% had arsenic levels >50 microg/L .
+Multiple-adjusted odds ratios of urinary arsenic level >40 microg x 1.5 L(-1) x day(-1) were 8.90 ( 95% CI : 3.31-23.93 ) for the arsenic level in well water of 11-50 microg/L , and 53.07 ( 11.91-236.46 ) for that of 51-332 microg/L , compared with < or =10 microg/L .
+When the Bangladeshi standard arsenic level in drinking water of 50 microg/L was used , the sensitivity in detecting subjects with a urinary arsenic level >40 microg x 1.5 L(-1) x day(-1) was 50% , although when the World Health Organization ( WHO ) guideline value of 10 microg/L was used , it was 76.3% .
+CONCLUSIONS Green marked wells , which the Bangladesh government regards as safe , are not always safe .
+The mitigation programs should use the WHO guideline arsenic level to determine the safety of well water for drinking .

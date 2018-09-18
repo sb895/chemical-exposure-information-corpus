@@ -1,0 +1,10 @@
+The effect of six perfluoroalkyl acids ( PFAAs ) , namely , perfluorooctane sulfonate ( PFOS ) , perfluorooctanoic acid ( PFOA ) , perfluorodecanoic acid ( PFDE ) , perfluorohexane sulfonic acid ( PFHxS ) , 2-(N-methyl-perfluorooctane sulfonamide ) acetic acid ( MPAH ) , and perfluorononanoic acid ( PFNA ) on the levels of six thyroid function variables , namely , thyroid stimulating hormone ( TSH ) , free and total thyroxine ( FT4 , TT4 ) , free and total triiodothyronine ( FT3 , TT3 ) , and thyroglobulin ( TGN ) was evaluated .
+Data from National Health and Nutrition Examination Survey for the years 2007-2008 were used for this evaluation .
+TSH levels increased with increase in levels of PFOA ( p<0.01 ) .
+There were no statistically significant associations between the levels of FT3 , and FT4 with the levels of any of the six PFAAs .
+Levels of TT3 were found to increase with the levels of PFOA ( p=0.01 ) and TT4 levels were found to increase with increase in PFHxS levels ( p<0.01 ) .
+Males had statistically significantly higher levels of FT3 than females and females had statistically significantly higher levels of TT4 than males .
+As compared to non-Hispanics whites and Hispanics , non-Hispanic blacks had lower levels of TSH , FT3 , TT3 , and TT4 but Hispanics had the lowest levels of TGN .
+Age was negatively associated with FT3 and TT3 but positively associated with FT4 and TT4 .
+Non-smokers had higher levels of TSH and TT4 than smokers and smokers had higher levels of FT3 and TGN than non-smokers .
+Iodine deficiency was associated with increased levels of TSH , TT3 , TT4 , and TGN .

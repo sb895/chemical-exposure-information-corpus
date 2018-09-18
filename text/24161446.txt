@@ -1,0 +1,14 @@
+The role of phthalate exposure at different stages in the immune system and atopic disorders is not well-known .
+This study aims to evaluate the effects of prenatal and postnatal phthalate exposures on immunoglobulin E ( IgE ) levels and atopic dermatitis ( AD ) in children by objective biomarkers .
+We conducted a prospective Taiwan Birth Panel cohort study with 483 mother/infant pairs .
+Finally , 161 urine specimens at 3rd trimester of pregnancy , 219 urine specimens from children at age 2 , and 192 urine specimens at age 5 were analyzed after excluding missing data and loss to follow-up .
+Urine monoethyl phthalate ( MEP ) , monobutyl phthalate ( MBP ) , monobenzyl phthalate ( MBzP ) , and mono-(2-ethylhexyl) phthalate ( MEHP ) at 3rd trimester of pregnancy and at ages 2 and 5 were measured by ultra-performance liquid chromatography coupled with tandem mass spectrometry .
+At ages 2 and 5 , information on the development of AD and serum total IgE was collected .
+The association between urine phthalate metabolite levels at different stages and serum IgE and AD was evaluated by multivariate linear regression and logistic regression .
+Urine phthalate metabolite levels were higher at age 2 than those at pregnancy and age 5 .
+At each period , urine MBP levels were higher than MEP , MEHP , and MBzP .
+MEHP levels at age 2 positively correlated with serum IgE levels ( per ln-unit : \u03b2=0.191 , p=0.02 ) .
+Analyses stratified by gender revealed that MEHP levels positively correlated with serum IgE levels only in boys ( per ln-unit : \u03b2=0.256 , p=0.03 ) .
+When dividing into quartiles , urine MBzP levels at age 2 had a significant association with AD .
+We found no statistically significant association of other phthalate metabolites with IgE and AD .
+Early life phthalate exposure may increase the risk of allergic sensitization and atopic disorders .

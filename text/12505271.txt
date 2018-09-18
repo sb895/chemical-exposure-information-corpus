@@ -1,0 +1,8 @@
+Bone metabolism related to the severity of cadmium ( Cd)-induced renal tubular dysfunction ( RTD ) was assessed by measuring several bone biochemical markers .
+Fifty-three female subjects with RTD aged 65-76 years ( mean 70.0+/-3.3 years ) and who lived in the Cd-polluted Jinzu River basin in Toyama , Japan were studied .
+Bone alkaline phosphatase ( bone-ALP ) , intact bone Gla-protein ( intact-BGP ) and carboxy-terminal propeptide of type I collagen ( PICP ) in serum as bone formation markers and pyridinoline ( Pyr ) and deoxypyridinoline ( Dpyr ) in urine as bone resorption markers were measured .
+All markers of bone turnover were increased and significantly correlated with each other , suggesting that bone formation and resorption were coupled and increased in Cd-induced RTD .
+Fractional excretion of beta(2)-microglobulin ( beta(2)-m , FE(beta 2-m) ) as an index of severity of Cd-induced RTD was extremely varied ranging from 0.45 to 53% .
+There were no significant correlations between FE(beta 2-m ) and each of the five bone biochemical markers .
+The bone turnover in Cd-induced RTD appeared to be determined by the glomerular filtration rate ( GFR ) : in subjects with GFRs above 50 ml/min , the levels of bone-ALP or intact-BGP tended to be inversely related to the GFRs , whereas in subjects with GFRs below 40 ml/min , those levels tended to decrease .
+These results suggest that the bone turnover , in particular the bone formation , was influenced by renal tubular function as assessed by the levels of GFR in Cd-induced RTD .

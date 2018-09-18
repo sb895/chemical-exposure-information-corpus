@@ -1,0 +1,14 @@
+BACKGROUND The effect of mercury on the cardiovascular system has been recently reported , but the mechanisms and its nature , especially in low dose ranges , still need to be confirmed .
+In this cross-sectional study , the hair mercury was analyzed in relation to the cardiac autonomic activity among community residents nearby to an industrial complex in Korea .
+METHODS A hair sample was obtained from the occiput and was analyzed using a DMA-80 ( Milestone , Italy ) mercury analyzer .
+We measured cardiovascular risk factors , including serum total cholesterol , serum triglyceride , HDL cholesterol , systolic and diastolic blood pressure , body mass index ( BMI ) , past history of hypertension , diabetes , and dyslipidemia as potential confounders .
+As an end point , heart rate variability was assessed for 5 min , in time and frequency domains , using SA-3000P ( Medi-core , Korea ) .
+For the time domain , standard deviation of the NN intervals ( SDNN ) was measured .
+For the frequency domains , very low frequency ( VLF , <or=0.04 Hz ) , low frequency ( LF , 0.04-0.15 Hz ) , high frequency ( HF , 0.15-0.4 Hz ) , total power ( TP , approximately <or=0.4 Hz ) , LF/HF ratio , LF norm ( LF/LF+HF ) , and HF norm ( HF/LF+HF ) were measured .
+The association between hair mercury concentration and heart rate variability was assessed after controlling for covariates , including age , gender , socioeconomic status , and other relevant cardiovascular risk factors .
+RESULTS In total , 1589 subjects with a mean age of 33 years ( range : 5-83 ) were included in the final analysis .
+Hair mercury concentration ranged from 0.01 to 13.36 ppm with a geometric mean of 0.83 microg/g .
+The hair mercury level was elevated for males , adults , and fish ( especially sashimi ) consumers , and higher household income group .
+When age was categorized into decades and analyzed separately , mercury significantly reduced HF measure in the second decade of age in Siwha area ( beta=-0.193 , p=0.0469 ) and in the first decade of age in Banwol area ( beta=-0.520 , p=0.0129 ) .
+HF parameter decreased by 8.4% [ 95% confidence interval : 2.2-15.1% ] with an 1 ppm increase in hair mercury concentration after adjusting for other selected variables in the multiple linear regression analysis .
+CONCLUSIONS The results suggest that mercury may affect the cardiac autonomic activity through parasympathetic dysfunction even at low exposure levels .

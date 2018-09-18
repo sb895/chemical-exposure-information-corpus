@@ -1,0 +1,9 @@
+Sources of phthalates other than Polyvinyl chloride ( PVC ) related products are scarcely documented in Mexico .
+The objective of our study was to explore the association between urinary levels of nine phthalate metabolites and the use of personal care products .
+Subjects included 108 women who participated as controls in an ongoing population-based case-control study of environmental factors and genetic susceptibility to breast cancer in northern Mexico .
+Direct interviews were performed to inquire about sociodemographic characteristics , reproductive history , use of personal care products , and diet .
+Phthalate metabolites measured in urine by high performance liquid chromatography-isotope dilution tandem mass spectrometry were monoethyl phthalate ( MEP ) , monobenzyl phthalate ( MBzP ) , mono-n-butyl phthalate ( MBP ) , mono-isobutyl phthalate ( MiBP ) , mono-3-carboxypropyl phthalate ( MCPP ) as well as mono-2-ethylhexyl phthalate ( MEHP ) , mono-2-ethyl-5-oxohexyl phthalate ( MEOHP ) , mono-2-ethyl-5-hydroxyhexyl phthalate ( MEHHP ) , mono-2-ethyl-5-carboxypentyl phthalate ( MECPP ) that are metabolites of di-ethylhexyl phthalate ( DEHP ) .
+Detectable urinary concentrations of phthalate metabolites varied from 75% ( MEHP ) to 100% ( MEP , MBP , MEOHP , MEHHP and MECPP ) .
+Medians of urinary concentrations of some phthalate metabolites were significantly higher among users of the following personal care products compared to nonusers : body lotion ( MEHHP , MECPP and sum of DEHP metabolites ( \u03a3DEHP) ) , deodorant ( MEHP and \u03a3DEHP ) , perfume ( MiBP ) , anti-aging facial cream ( MEP , MBP and MCPP ) and bottled water ( MCPP , MEHHP and MEOHP ) .
+Urinary concentrations of MEP showed a positive relationship with the number of personal care products used .
+Our results suggest that the use of some personal care products contributes to phthalate body burden that deserves attention due to its potential health impact .

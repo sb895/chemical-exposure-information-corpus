@@ -1,0 +1,15 @@
+Within-house and within-room spatial temporal variability in PBDE contamination of indoor dust may influence substantially the reliability of human exposure assessments based on single point samples , but have hitherto been little studied .
+This paper reports concentrations of PBDEs 17 , 28 , 47 , 49 , 66 , 85 , 99 , 100 , 153 , and 154 in indoor dust samples ( n=112 ) from two houses in Birmingham , UK .
+To evaluate within-house spatial variability , four separate rooms were sampled in house 1 and two separate rooms sampled in house 2 .
+Up to four different 1 m² areas in the same room were sampled to evaluate within-room spatial variability , and for all studied areas , samples were taken for eight consecutive months to evaluate temporal and seasonal variability .
+Concentrations of \u03a3PBDEs in individual samples from house 1 varied between 21 and 280 ng g⁻¹ ; while the range of concentrations in house 2 was 20-1000 ng g⁻¹ .
+This indicates that where and when a sample is taken in a house can influence substantially the contamination detected .
+In one room , concentrations of PBDEs in an area located close to putative PBDE sources exceeded substantially those in an area 2m away , with marked differences also observed between two areas in another room .
+Substantial within-room spatial differences in PBDE concentrations were not discernible in the other rooms studied .
+Concentrations of PBDEs in the majority of rooms within the same houses were not markedly different between rooms .
+Nevertheless , large differences were observed between PBDE concentrations detected in two rooms in the same house in both houses studied .
+In one instance , this is hypothesised to be attributable to the presence of a carpet in one room and bare wooden floor in another , but firm conclusions cannot be drawn .
+Within-room temporal ( month-to-month ) variability was substantial ( relative standard deviations for \u03a3PBDEs=15-200% ) .
+In some rooms , the introduction and removal of putative sources like a TV and a bed , appeared to exert a discernible influence on PBDE concentrations .
+PBDE concentrations in spring and summer were not markedly different from those observed in autumn and winter .
+Possible dilution of PBDE concentrations in dust at higher dust loadings ( g dust per m² floor surface ) was investigated in a small number of rooms , but no firm evidence of such dilution was evident .

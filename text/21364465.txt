@@ -1,0 +1,9 @@
+BACKGROUND Some persistent environmental chemicals are suspected of causing an increased risk of type 2 diabetes mellitus , a disease particularly common after the age of 70 .
+This concern was examined in a cross-sectional study of elderly subjects from a fishing population with elevated contaminant exposures from seafood species high in the food chain .
+METHODS Clinical examinations of 713 Faroese residents aged 70-74 years ( 64% of eligible population ) included fasting plasma concentrations of glucose and insulin , and glycosylated hemoglobin .
+Lifetime exposure to persistent environmental chemicals from pilot whale and other traditional food was estimated from a dietary questionnaire and by analysis of blood samples for polychlorinated biphenyls ( PCBs ) and related food contaminants .
+RESULTS Septuagenarians with type 2 diabetes or impaired fasting glycemia tended to have higher PCB concentrations and higher past intake of traditional foods , especially during childhood and adolescence .
+In nondiabetic subjects , the fasting insulin concentration decreased by 7% ( 95% CI = -12% to -2% ) for each doubling of the PCB concentration after adjustment for sex and body mass index at age 20 .
+Conversely , the fasting glucose concentration increased by 6% ( -1% to 13% ) for each doubling in PCB .
+Similar associations were seen in subjects without impaired fasting glycemia , while further adjustment for current body mass index and lipid metabolism parameters attenuated some of the associations .
+CONCLUSIONS Impaired insulin secretion appears to constitute an important part of the type 2 diabetes pathogenesis associated with exposure to persistent lipophilic food contaminants .

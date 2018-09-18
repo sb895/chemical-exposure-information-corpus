@@ -1,0 +1,8 @@
+The categories of urban workers undergoing prolonged exposure to gasoline due to vehicle emissions , evaporation and traffic fumes are considered occupationally exposed to benzene , even if at low concentrations .
+The aim of this study was to evaluate the specificity of unmetabolized benzene excreted in urine ( UBz ) and S-phenylmercapturic acid ( SPMA ) as biomarkers of exposure to very low levels of benzene , and to study the impact of putative individual confounders like smoking and alcohol habits , co-exposure to other toxicants and body mass index on the exposure assessment .
+Environmental and biological monitoring of exposure to benzene were performed in 114 Urban Policemen .
+The mean value of UBz in non-smokers was significantly lower than in either groups of light to moderate smokers and heavy smokers ( 0.24 , 1.82 and 2.82 microg L(-1) , respectively ) .
+On the contrary , SPMA values did not discriminate exposure resulting from smoking habits .
+Moreover , the concentration of UBz in non-smokers appears to be correlated with environmental benzene concentration ( BenzA ) ( R(2)=0.13 , beta=0.37 , p=0.002 ) .
+On the other hand , no significant correlation was found between SPMA concentration ( corrected for creatinine excretion and log transformed , LogSPMA ) and LogBenzA ( R(2)=0.003 , beta=0.05 , p=0.6 ) .
+Our findings reinforce previous research on the use of unmetabolized urinary benzene as a specific and sensitive biomarker of low-level exposure to benzene and confirm that smoking habits strongly influence the excretion of UBz .

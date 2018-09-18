@@ -1,0 +1,13 @@
+BACKGROUND Increased brain tumour incidence over recent decades may reflect improved diagnostic methods and clinical practice , but remain unexplained .
+Although estimated doses are low a relationship between radon and brain tumours may exist .
+OBJECTIVE To investigate the long-term effect of exposure to residential radon on the risk of primary brain tumour in a prospective Danish cohort .
+METHODS During 1993-1997 we recruited 57,053 persons .
+We followed each cohort member for cancer occurrence from enrolment until 31 December 2009 , identifying 121 primary brain tumour cases .
+We traced residential addresses from 1 January 1971 until 31 December 2009 and calculated radon concentrations at each address using information from central databases regarding geology and house construction .
+Cox proportional hazards models were used to estimate incidence rate-ratios ( IRR ) and 95% confidence intervals ( CI ) for the risk of primary brain tumours associated with residential radon exposure with adjustment for age , sex , occupation , fruit and vegetable consumption and traffic-related air pollution .
+Effect modification by air pollution was assessed .
+RESULTS Median estimated radon was 40.5 Bq/m(3) .
+The adjusted IRR for primary brain tumour associated with each 100 Bq/m(3) increment in average residential radon levels was 1.96 ( 95% CI : 1.07 ; 3.58 ) and this was exposure-dependently higher over the four radon exposure quartiles .
+This association was not modified by air pollution .
+CONCLUSIONS We found significant associations and exposure-response patterns between long-term residential radon exposure radon in a general population and risk of primary brain tumours , adding new knowledge to this field .
+This finding could be chance and needs to be challenged in future studies .

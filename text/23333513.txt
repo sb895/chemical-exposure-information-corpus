@@ -1,0 +1,10 @@
+Brominated flame retardants ( BFRs ) are used in the manufacture of a variety of materials and consumer products in order to meet fire safety standards .
+BFRs may persist in the environment and have been detected in wildlife , humans and indoor dust and air .
+Some BFRs have demonstrated endocrine and reproductive effects in animals , but human studies are limited .
+In this exploratory study , we measured serum hormone levels and flame retardant concentrations [ 31 polybrominated diphenyl ether ( PBDE ) congeners and 6 alternate flame retardants ] in house dust from men recruited through a US infertility clinic .
+PBDE congeners in dust were grouped by commercial mixtures ( i.e. penta- , octa- and deca-BDE ) .
+In multivariable linear regression models adjusted by age and body mass index ( BMI ) , significant positive associations were found between house dust concentrations of pentaBDEs and serum levels of free T4 , total T3 , estradiol , and sex hormone binding globulin ( SHBG ) , along with an inverse association with follicle stimulating hormone ( FSH ) .
+There were also positive associations of octaBDE concentrations with serum free T4 , thyroid stimulating hormone ( TSH ) , luteinizing hormone ( LH ) and testosterone and an inverse association of decaBDE concentrations with testosterone .
+Hexabromocyclododecane ( HBCD ) was associated with decreased SHBG and increased free androgen index .
+Dust concentrations of bis-tribromophenoxyethane ( BTBPE ) and tetrabromo-diethylhexylphthalate ( TBPH ) were positively associated with total T3 .
+These findings are consistent with our previous report of associations between PBDEs ( BDE 47 , 99 and 100 ) in house dust and hormone levels in men , and further suggest that exposure to contaminants in indoor dust may be leading to endocrine disruption in men .

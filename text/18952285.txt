@@ -1,0 +1,9 @@
+Twenty five human breast adipose tissue samples were collected in Porto Alegre , Brazil during 2004-2005 and analyzed for polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) .
+SigmaPBDE concentrations ( sum of tri- to hepta-BDEs ) ranged from 0.19 to 132 ng/g lipid with a median of 1.51 ng/g lipid .
+These concentrations are 3- to 100-times lower than those reported from other countries , with the exception of Japan , probably reflecting lower usage of PBDE-containing products or lower exposures to these chemicals .
+The predominant congener was BDE-47 , followed by BDEs 99 , 183 , 153 and 100 .
+One individual in the dataset had about 70-times higher PBDE concentrations than the rest of the participants .
+SigmaPCB ( sum of PCBs 118 , 138 , 153 , 180 ) ranged from 30 to 339 ng/g lipid , with a median of 51 ng/g lipid .
+No age dependency was found for PBDEs ( r=-0.800-0.374 , p>0.05 ) or PCB 180 ( r=0.278 , p>0.05 ) .
+On the other hand , PCBs 118 , 138 and 153 did show age dependency ( r=0.410-0.458 , p<0.05 ) .
+This is the first study to report levels of PBDEs in human breast adipose from Brazil .

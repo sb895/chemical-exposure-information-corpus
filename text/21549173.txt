@@ -1,0 +1,8 @@
+Long chain polyunsaturated fatty acids ( LC-PUFA ) , ARA ( arachidonic acid , 20:4n-6 ) and DHA ( docosahexaenoic acid , 22:6n-3 ) have positive effects and environment pollutants , polychlorinated dibenzo-p-dioxins/dibenzofurans(PCDD/F) and polychlorinated biphenyls ( PCB ) have negative effects on neural development during early life .
+Placental dioxin/PCB serves as markers for cumulative exposure to fetus .
+Fatty acid composition of placenta depends on nutrient supply during pregnancy , serving as indicators for fetal ARA and DHA accretion .
+This study investigated correlation between placental PCDD/F and PCB toxic equivalent ( TEQ ) and LC-PUFA in 34 pregnant women from Taiwan .
+Placental PCDF TEQ were inversely correlated with placental ARA ( p=0.020 ) , C20:3n-6 ( p=0.01 ) , C22:4n-6 ( p=0.04 ) , C22:5n-6 ( p<0.01 ) and with DHA ( p=0.03 ) , but ARA and DHA did not vary with PCDD , dioxin-like and indicator PCB .
+After adjustment for age and body mass index , a one-unit PCDF TEQ increase was associated with 1.021%w/w and 0.312%w/w decreases in ARA ( \u03b2=-1.021 , p=0.03 ) and DHA ( \u03b2=-0.312 , p=0.03 ) .
+Since ARA and DHA were unrelated to three classes of toxins , and a weak negative association was found with PCDF , these data provide no basis for discouraging marine fish consumption during pregnancy for Taiwan women on the basis of these organics .
+Pregnant women should consume fish for its unique package of nutrients while avoiding few species with high organic pollutant or mercury contamination .

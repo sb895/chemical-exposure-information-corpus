@@ -1,0 +1,8 @@
+The well water in Lanyang Basin , which is located in the northeastern portion of Taiwan island , was found to have high levels of arsenic ranging from undetectable levels ( <0.15 ppb ) to 3.59 ppm .
+We performed a study to compare the risk of adverse pregnancy outcomes ( preterm delivery and birthweight ) between an area with historic high well water arsenic levels ( arsenic-exposed area ( AE) ) and a comparison area with no historic evidence of arsenic water contamination ( non-arsenic-exposed area ( NAE) ) .
+The mean birth weight in the AEs and NAEs were 3132.6 and 3162.6 g , respectively .
+Babies born in AEs were on average 30 g lighter than those born in NAEs .
+AEs had a higher rate of preterm delivery than NAEs ( 3.74% vs 3.43% ) .
+The results of this study suggest that , after adjustment for potential confounders , arsenic exposure from drinking well water was associated , although not significantly , with the risk of preterm delivery , with an odds ratio of 1.10 ( 0.91-1.33 ) .
+The estimated reduction in birth weight was 29.05 g ( 95% CI=13.55-44.55 ) .
+The findings from this investigation provide evidence for a potential role for arsenic exposure through drinking water in increasing the risk of low birthweight .

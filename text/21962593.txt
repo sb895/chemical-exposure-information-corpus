@@ -1,0 +1,11 @@
+The goal of the study was to test the hypothesis that prenatal Paracetamol exposure increases the risk of developing eczema in early childhood and that this association may be stronger in children who are exposed in fetal period to higher concentrations of fine particulate matter ( PM2.5 ) .
+The study sample consisted of 322 women recruited from January 2001 to February 2004 in the Krakow inner city area who gave birth to term babies and completed 5-year follow-up .
+Paracetamol use in pregnancy was collected by interviews and prenatal personal exposure to PM2.5 over 48 h was measured in recruited women in the second trimester of pregnancy .
+After delivery , every three months in the first 24 months of the newborn's life and every 6 months later , a detailed standardized face-to-face interview on the infant's health was administered to each mother by trained interviewers .
+During the interviews at each of the study periods after birth , a history of eczema was recorded .
+The incident rate ratio ( IRR ) for frequency of eczema events over the follow-up was estimated from the Poisson regression model and the overall effect of main exposure variables on eczema was assessed by odds ratios ( ORs ) by the logistic model .
+The estimated relative risk of eczema occurring whenever in the follow-up was related significantly neither with prenatal Paracetamol nor higher PM2.5 exposure , however , their joint effect was significant ( OR interaction term=6.04 ; 95%CI : 1.04-35.16 ) .
+Of potential confounders considered in the analysis only damp/moldy home significantly increased the risk of eczema ( OR=1.53 ; 95%CI : 1.14-2.05 ) .
+In contrast , there was an inverse significant association between the presence of older siblings and eczema ( OR=0.55 ; 95%CI : 0.35-0.84 ) .
+The joint effect of the main exposure variables significantly increased frequency of eczema events ( IRR=1.78 , 95%CI : 1.22-2.61 ) .
+In conclusion , the findings of the study suggest that Paracetamol use by mothers in pregnancy is not an independent risk factor for eczema in children , however , even very small doses of Paracetamol taken in pregnancy may contribute to the occurrence of allergic symptoms in early childhood if there is prenatal co-exposure to higher airborne fine particulate matter .

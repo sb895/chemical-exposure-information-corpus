@@ -1,0 +1,10 @@
+Exposure to certain environmental toxicants may be associated with increased risk of developing diabetes .
+The authors ' aim was to investigate the relation between lifetime exposure to specific agricultural pesticides and diabetes incidence among pesticide applicators .
+The study included 33,457 licensed applicators , predominantly non-Hispanic White males , enrolled in the Agricultural Health Study .
+Incident diabetes was self-reported in a 5-year follow-up interview ( 1999-2003 ) , giving 1,176 diabetics and 30,611 nondiabetics for analysis .
+Lifetime exposure to pesticides and covariate information were reported by participants at enrollment ( 1993-1997 ) .
+Using logistic regression , the authors considered two primary measures of pesticide exposure : ever use and cumulative lifetime days of use .
+They found seven specific pesticides ( aldrin , chlordane , heptachlor , dichlorvos , trichlorfon , alachlor , and cyanazine ) for which the odds of diabetes incidence increased with both ever use and cumulative days of use .
+Applicators who had used the organochlorine insecticides aldrin , chlordane , and heptachlor more than 100 lifetime days had 51% , 63% , and 94% increased odds of diabetes , respectively .
+The observed association of organochlorine and organophosphate insecticides with diabetes is consistent with results from previous human and animal studies .
+Long-term exposure from handling certain pesticides , in particular , organochlorine and organophosphate insecticides , may be associated with increased risk of diabetes .

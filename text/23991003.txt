@@ -1,0 +1,16 @@
+OBJECTIVE This study was conducted to assess the relationship of mortality from lung cancer and other selected causes to asbestos exposure levels .
+METHODS A cohort of 1539 male workers from a chrysotile mine in China was followed for 26 years .
+Data on vital status , occupation and smoking were collected from the mine records and individual contacts .
+Causes and dates of death were further verified from the local death registry .
+Individual cumulative fibre exposures ( f-yr/ml ) were estimated based on converted dust measurements and working years at specific workshops .
+Standardized mortality ratios ( SMRs ) for lung cancer , gastrointestinal ( GI ) cancer , all cancers and nonmalignant respiratory diseases ( NMRD ) stratified by employment years , estimated cumulative fibre exposures , and smoking , were calculated .
+Poisson models were fitted to determine exposure-response relationships between estimated fibre exposures and cause-specific mortality , adjusting for age and smoking .
+RESULTS SMRs for lung cancer increased with employment years at entry to the study , by 3.5-fold in \u2265 10 years and 5.3-fold in \u2265 20 years compared with <10 years .
+A similar trend was seen for NMRD .
+Smokers had greater mortality from all causes than nonsmokers , but the latter also had slightly increased SMR for lung cancer .
+No excess lung cancer mortality was observed in cumulative exposures of <20 f-yrs/ml .
+However , significantly increased mortality was observed in smokers at the levels of \u2265 20 f-yrs/ml and above , and in nonsmokers at \u2265 100 f-yrs/ml and above .
+A similarly clear gradient was also displayed for NMRD .
+The exposure-response relationships with lung cancer and NMRD persisted in multivariate analysis .
+Moreover , a clear gradient was shown in GI cancer mortality when age and smoking were adjusted for .
+CONCLUSION There were clear exposure-response relationships in this cohort , which imply a causal link between chrysotile asbestos exposure and lung cancer and nonmalignant respiratory diseases , and possibly to gastrointestinal cancer , at least for smokers .

@@ -1,0 +1,11 @@
+Arsenic ( As ) hyperaccumulating ferns are used to phytoremediate As-contaminated soils , including soils in residential areas .
+This use may pose a health risk if children were to ingest these plants .
+Spider brake ( Pteris cretica L. ) plants were grown in sand spiked with arsenate , to produce tissue As concentrations ( 2000-4500 mg kg DW(-1) ) typical of those observed in plants deployed for As phytoremediation .
+The fronds were subjected to a physiologically-based extraction test to estimate As bioaccessibility , which ranged from 3.4-20.5% .
+A scenario for human dietary exposure to As in an urban setting was then estimated for a child consuming 0.25 g DW of tissue .
+The calculation of dietary exposure took into account the As concentration in the fern pinnae , the bioaccessibility of As in the tissue , and the typical absorption of inorganic As by the gastrointestinal tract .
+The pinnae As concentrations and the calculated dietary exposures were used to create a non-linear regression model relating tissue As concentration to dietary exposure .
+Data from a phytoremediation project in a residential area using Pteris cretica and Pteris vittata ( L. ) were input into this model to project dietary As exposure in a residential phytoremediation setting .
+These exposures were compared to estimates of dietary As exposure from the consumption of soil .
+The results showed that dietary exposures to As from consumption of soil or pinnae tissue were similar and that estimates of dietary exposure were below the LOAEL value of 14 microg As kg(-1) d(-1) .
+The results suggest that the hyperaccumulation of As in Pteris ferns during growth in moderately contaminated residential soils ( e.g. , < or = 100 mg As kg DW(-1) ) does not represent an inherent risk or a risk substantially different from that posed by accidental ingestion of contaminated soil .

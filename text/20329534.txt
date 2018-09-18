@@ -1,0 +1,10 @@
+Fifty-two house dust samples were randomly collected in Guangzhou and Haikou City , to analyze the concentrations of Sigma10 PBDEs ( sum of BDE 28 , 47 , 66 , 85 , 99 , 100 , 153 , 154 , 183 and 209 ) , the PBDE composition profiles , and possible influencing factors , and estimate human exposure to PBDEs via dust ingestion for adults and toddlers .
+The results showed that PBDEs were found in all samples , with the Sigma10 PBDEs concentrations ranging from 544.2 ng/g to 9 654 ng/g , and with median ( mean ) of 2 547 ( 3 096 ) ng/g .
+The PBDE levels in Guangzhou samples were obviously higher than those in Haikou .
+No significant correlations between PBDE levels and residential characteristics ( number of TVs , computers , and polyurethane foam-contained furniture , time of using TVs and computers ) were observed .
+BDE209 , with a mean concentration of 3 021 ng/g , was the dominated congener , contributing 73.70%-99.74% to the Sigma10 PBDEs , with a mean contribution of 96.85% .
+BDE 47 , 99 and 183 were the most abundant congeners of Sigma9 PBDEs ( BDE 209 excluded ) , with a mean contribution of 24.48% , 23.99% , and 21.66% , respectively .
+There is no notable difference in PBDE composition between Guangzhou and Haikou samples .
+The estimated exposure for adults and toddlers to PBDEs ranged from 10.59 ng/d to 254.7 ng/d and from 140.1 ng/d to 509.3 ng/d , respectively .
+Due to their increased dust ingestion rates , toddlers in took more PBDEs via dust ingestion than adults .
+Dust ingestion was an important human exposure route for PBDEs , especially for toddlers .

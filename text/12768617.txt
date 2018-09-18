@@ -1,0 +1,8 @@
+BACKGROUND Secondary exposure to lead has been identified as a public health problem since the late 1940s ; we investigate the risk of lead exposure among families of radiator repair workers .
+METHODS A sample of the wives and children , aged 6 months to 6 years ( exposed children ) ( n = 19 ) , of radiator repair workers and a sample of children whose parents were not occupationally exposed to lead ( non-exposed children ) ( n = 29 ) were matched for age and residence ; their geometric mean blood lead levels are compared .
+Blood samples were obtained by the finger stick method and environmental dust samples by the wipe method ; both were analyzed using a portable anodic stripping voltameter .
+RESULTS Dust lead levels were significantly higher in the houses of exposed children ( 143.8 vs. 3.9 microg/g ; P < 0.01 ) .
+In crude analyses , the highest lead levels were observed among children whose fathers worked in home-based workshops ( 22.4 microg/dl)(n = 6 ) .
+Children whose fathers worked in an external workshop ( n = 13 ) also had high levels ( 14.2 microg/dl ) ( P < 0.01 ) , while blood lead levels in non-exposed children were significantly lower ( 5.6 microg/dl)(P < 0.01 ) .
+The observed differences remained significant after adjustment for age and gender .
+CONCLUSIONS This study confirms that children of radiator repair workers are at increased risk of lead exposure and public health interventions are needed to protect them .

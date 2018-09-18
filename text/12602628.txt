@@ -1,0 +1,10 @@
+Toxic or hazardous substances pose two types of risks in the environment , namely ' short-term or acute risk ' and ' long-term or chronic risk ' .
+The short-term risk is associated with the one-time acute exposure to potentially hazardous substances accidentally released in the environment , whereas the long-term risk is resulted from continuous exposure to potentially harmful substances present in different environmental media .
+This article deals with the assessment of potential health risks related to certain carcinogens and non-carcinogens ( e.g. cadmium , chromium and nickel ) present in three environmental media , viz. air , water and food in different Indian states ( regions ) .
+Appropriate dose-response models have been identified and used for this purpose with the assumptions and input data as per the Indian context .
+Mean values of ambient air concentration levels of Cd , Cr and Ni have been used to estimate the individual and societal risks of extra cancer in different states of India .
+The hazard quotients and hazard index representing the non-carcinogenic chronic health effects caused by chromium and cadmium due to their long-term exposure through water and food have also been estimated .
+The risk results have been compared with the disease surveillance data .
+A definite correlation between the estimated risk results and the reported number of lung cancer cases and chronic liver diseases have been observed in different regions .
+As a matter of fact , it is not possible to derive precise risk estimates due to various uncertainties included both in available data and in the models which are used to calculate potency factors and effective concentration .
+However , average risk levels as estimated and presented in this article are quite useful for planning purposes .

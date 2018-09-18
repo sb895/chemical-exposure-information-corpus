@@ -1,0 +1,10 @@
+BACKGROUND Chronic arsenic exposure is associated with a variety of diseases , including cancer , peripheral vascular disease , and diabetes .
+However , its association with cerebrovascular diseases ( CVD ) has not yet been resolved .
+The aim of this study is to explore this association in Taiwan using nation-wide data .
+MATERIALS AND METHODS We analyzed mortality data in Taiwan from 1971 to 2005 and choose two geographic areas with populations suffering from chronic exposure to arsenic in drinking water for study , the blackfoot disease endemic area ( BFDEA ) in the southwest and Lan-Yang Basin ( LYB ) in the northeast parts of Taiwan .
+The Chia-Yi and Tainan Counties , which surround the BFDEA , and the nation of Taiwan as a whole were used as reference populations .
+Direct standardized mortality rates and gender-specific indirect standardized mortality ratios ( SMRs ) were calculated for the four populations .
+RESULTS The direct standardized mortality rate for CVD in Taiwan decreased from 2.46/10(3) person-year in 1971 to 0.63/10(3) person-year in 2005 , and women had significantly lower mortality than men ( SMR = 0.80 ; p < 0.05 ) .
+The CVD mortality rates of populations with chronic arsenic exposure were significantly higher than the reference populations ( SMR ranging from 1.06 to 1.09 in men and 1.12 to 1.14 in women ; p < 0.05 ) .
+The BFDEA had higher CVD mortality rates than the LYB , with SMR = 1.05 ( p < 0.05 ) in men and SMR = 1.04 ( p = 0.05 ) in women .
+CONCLUSION In Taiwan , while CVD mortality decreased in both genders between 1971 and 2005 , chronic arsenic exposure from drinking water was associated with increased risks of CVD .

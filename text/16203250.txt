@@ -1,0 +1,13 @@
+Fish and other seafood may contain organic mercury but also beneficial nutrients such as n-3 polyunsaturated fatty acids .
+We endeavored to study whether maternal fish consumption during pregnancy harms or benefits fetal brain development .
+We examined associations of maternal fish intake during pregnancy and maternal hair mercury at delivery with infant cognition among 135 mother-infant pairs in Project Viva , a prospective U.S. pregnancy and child cohort study .
+We assessed infant cognition by the percent novelty preference on visual recognition memory ( VRM ) testing at 6 months of age .
+Mothers consumed an average of 1.2 fish servings per week during the second trimester .
+Mean maternal hair mercury was 0.55 ppm , with 10% of samples > 1.2 ppm .
+Mean VRM score was 59.8 ( range , 10.9-92.5 ) .
+After adjusting for participant characteristics using linear regression , higher fish intake was associated with higher infant cognition .
+This association strengthened after adjustment for hair mercury level : For each additional weekly fish serving , offspring VRM score was 4.0 points higher [ 95% confidence interval ( CI ) , 1.3 to 6.7 ] .
+However , an increase of 1 ppm in mercury was associated with a decrement in VRM score of 7.5 ( 95% CI , -13.7 to -1.2 ) points .
+VRM scores were highest among infants of women who consumed > 2 weekly fish servings but had mercury levels </= 1.2 ppm .
+Higher fish consumption in pregnancy was associated with better infant cognition , but higher mercury levels were associated with lower cognition .
+Women should continue to eat fish during pregnancy but choose varieties with lower mercury contamination .

@@ -1,0 +1,9 @@
+BACKGROUND Several studies have estimated associations between air pollution and birth outcomes , but few have evaluated potential effects on pregnancy complications .
+OBJECTIVE We investigated whether low-level exposure to air pollution is associated with gestational diabetes and preeclampsia .
+METHODS High-quality registry information on 81,110 singleton pregnancy outcomes in southern Sweden during 1999-2005 was linked to individual-level exposure estimates with high spatial resolution .
+Modeled exposure to nitrogen oxides ( NOx ) , expressed as mean concentrations per trimester , and proximity to roads of different traffic densities were used as proxy indicators of exposure to combustion-related air pollution .
+The data were analyzed by logistic regression , with and without adjusting for potential confounders .
+RESULTS The prevalence of gestational diabetes increased with each NOx quartile , with an adjusted odds ratio ( OR ) of 1.69 ( 95% CI : 1.41 , 2.03 ) for the highest ( > 22.7 µg/m3 ) compared with the lowest quartile ( 2.5-8.9 µg/m3 ) of exposure during the second trimester .
+The adjusted OR for acquiring preeclampsia after exposure during the third trimester was 1.51 ( 1.32 , 1.73 ) in the highest quartile of NOx compared with the lowest .
+Both outcomes were associated with high traffic density , but ORs were significant for gestational diabetes only .
+CONCLUSION NOx exposure during pregnancy was associated with gestational diabetes and preeclampsia in an area with air pollution levels below current air quality guidelines .

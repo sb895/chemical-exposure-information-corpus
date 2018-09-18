@@ -1,0 +1,10 @@
+BACKGROUND Ambient levels of air pollution may affect the health of children , as indicated by studies of infant and perinatal mortality .
+Scientific evidence has also correlated low birth weight and preterm birth , which are important determinants of perinatal death , with air pollution .
+However , most of these studies used ambient concentrations measured at monitoring sites , which may not consider differential exposure to pollutants found at elevated concentrations near heavy-traffic roadways .
+OBJECTIVES Our goal was to examine the association between traffic-related pollution and perinatal mortality .
+METHODS We used the information collected for a case-control study conducted in 14 districts in the City of São Paulo , Brazil , regarding risk factors for perinatal deaths .
+We geocoded the residential addresses of cases ( fetal and early neonatal deaths ) and controls ( children who survived the 28th day of life ) and calculated a distance-weighted traffic density ( DWTD ) measure considering all roads contained in a buffer surrounding these homes .
+RESULTS Logistic regression revealed a gradient of increasing risk of early neonatal death with higher exposure to traffic-related air pollution .
+Mothers exposed to the highest quartile of the DWTD compared with those less exposed exhibited approximately 50% increased risk ( adjusted odds ratio = 1.47 ; 95% confidence interval , 0.67-3.19 ) .
+Associations for fetal mortality were less consistent .
+CONCLUSIONS These results suggest that motor vehicle exhaust exposures may be a risk factor for perinatal mortality .

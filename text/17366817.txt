@@ -1,0 +1,10 @@
+BACKGROUND Pregnant women receive mixed messages about fish consumption in pregnancy because unsaturated fatty acids and protein in fish are thought to be beneficial , but contaminants such as methylmercury may pose a hazard .
+METHODS In the Pregnancy Outcomes and Community Health ( POUCH ) study , women were enrolled in the 15th to 27th week of pregnancy from 52 prenatal clinics in five Michigan communities .
+At enrollment , information was gathered on amount and category of fish consumed during the current pregnancy , and a hair sample was obtained .
+A segment of hair closest to the scalp , approximating exposure during pregnancy , was assessed for total mercury levels ( 70-90% methylmercury ) in 1,024 POUCH cohort women .
+RESULTS Mercury levels ranged from 0.01 to 2.50 pg/g ( mean = 0.29 microg/g ; median = 0.23 microg/g ) .
+Total fish consumption and consumption of canned fish , bought fish , and sport-caught fish were positively associated with mercury levels in hair .
+The greatest fish source for mercury exposure appeared to be canned fish .
+Compared with women delivering at term , women who delivered before 35 weeks ' gestation were more likely to have hair mercury levels at or above the 90th percentile ( > or = 0.55 microg/g ) , even after adjusting for maternal characteristics and fish consumption ( adjusted odds ratio = 3.0 ; 95% confidence interval , 1.3-6.7 ) .
+CONCLUSION This is the first large , community-based study to examine risk of very preterm birth in relation to mercury levels among women with low to moderate exposure .
+Additional studies are needed to see whether these findings will be replicated in other settings .

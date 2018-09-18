@@ -1,0 +1,8 @@
+The spatial distribution of urban population exposures to ambient air particles was investigated as part of the Genotox'ER study conducted in four metropolitan areas ( Grenoble , Paris , Rouen and Strasbourg ) in France .
+In each city , 60 to 90 non-smoking adult and children volunteers were selected .
+Subjects lived in three different urban sectors : one highly exposed to traffic emissions , one influenced by local industrial sources , and a background urban environment .
+The Harvard Chempass multi-pollutant personal sampler was used to sample PM10 and PM2.5 particles during 48 h during two different seasons ( 'hot ' and ' cold'). The elemental composition of the filters was analysed by Particle-Induced X-ray Emission ( PIXE ) .
+Sixteen elements were found to be over the method detection limits : Al , Si , P , S , Cl , K , Ca , Ti , V , Cr , Mn , Fe , Ni , Cu , Zn and Pb .
+The relative concentrations of elements of crustal origin ( Si , Al , Ca ) were higher in the coarse fraction of PM10 filters , while elements associated with combustion processes ( traffic emissions or industrial combustion ) presented higher relative concentrations in the PM2.5 fraction ( S , Ni , V , Pb ) .
+Spatial heterogeneity of elemental exposures by urban sector is substantial for some metals of health concern , with 20% to 90% greater exposure values , on average , in the traffic proximity or industrial sectors , compared to the background sector , for Fe , Zn , Cu , V and Cr .
+This spatial heterogeneity should not be overlooked in epidemiological or risk assessment studies .

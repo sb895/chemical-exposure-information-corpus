@@ -1,0 +1,7 @@
+Nationally representative data on urinary levels of bisphenol A ( BPA ) and its metabolites in the United States from the 2005-2006 National Health and Nutrition Examination Survey ( NHANES ) were used to estimate daily BPA intakes .
+In addition , NHANES data on potential sources of BPA exposure and personal characteristics were explored for their association with urinary BPA levels .
+On the basis of 2005-2006 NHANES urinary BPA data and assumptions described in this paper , median daily intake for the overall population is approximately 34 ng/kg-day .
+Median daily BPA intakes for men are statistically significantly higher than for women ; there is a significant decrease in daily BPA intake with increasing age .
+Gender- and age-specific median intakes differ from the overall population by less than a factor of 2 .
+Although estimates of daily BPA intake have decreased compared with those from the 2003-2004 NHANES , it is premature to draw conclusions regarding trends at this time , as there is no indication that BPA use declined from 2003 to 2006 .
+On the basis of an assessment of urinary BPA and questionnaire data from the 2005-2006 NHANES , consumption of soda , school lunches , and meals prepared outside the home--but not bottled water or canned tuna--was statistically significantly associated with higher urinary BPA .

@@ -1,0 +1,14 @@
+INTRODUCTION Information on the relationship between levels of particulate matter ( PM ) smaller than 2.5 \u03bcm and mortality rates in Europe is relatively sparse because of limited availability of PM2.5 measurement data .
+Even less information is available on the health effects attributable to PM2.5-10 , especially for North-West Europe .
+OBJECTIVES To investigate the relationship between various PM size fractions and daily mortality rates .
+METHODS Daily concentrations of PM from the Dutch National Ambient Air Quality Monitoring Network as well as all cause and cause-specific mortality rates in The Netherlands were obtained for the period 2008-2009 .
+Poisson regression analysis using generalized additive models was used , with adjustment for potential confounding including long-term and seasonal trends , influenza incidence , meteorological variables , day of the week , and holidays .
+Different measures of PM ( PM2.5 , PM10 and PM2.5-10 ) were analysed .
+RESULTS PM10 and PM2.5 levels were statistically significantly ( p<0.05 ) associated with all cause and cause-specific deaths .
+For example , a 10 \u03bcg/m(3) increase in previous day PM was associated with 0.8% ( 95% CI 0.3-1.2 ) excess risk in all cause mortality for PM2.5 and a 0.6% ( CI 0.2-1.0 ) excess risk for PM10 .
+No appreciable associations were observed for PM2.5-10 .
+Effects of PM10 , and PM2.5 were insensitive to adjustment for PM2.5-10 , and vice-versa .
+PM10 and PM2.5 were too highly correlated to disentangle their independent effects .
+CONCLUSIONS PM10 and PM2.5 both were significantly associated with all cause and cause-specific mortality .
+We were unable to demonstrate significant effects for PM2.5-10 , possibly due to the lower temporal variability and the higher exposure misclassification in PM2.5-10 compared to PM10 or PM2.5 .
+The lack of effects of PM2.5-10 in our study should therefore not be interpreted as an indication that PM2.5-10 can be considered harmless .

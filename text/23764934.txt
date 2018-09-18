@@ -1,0 +1,9 @@
+Millions of people worldwide are exposed to arsenic in drinking water .
+The International Agency for Research on Cancer has concluded that ingested arsenic causes lung , bladder , and skin cancer .
+However , a similar conclusion was not made for kidney cancer because of a lack of research with individual data on exposure and dose-response .
+With its unusual geology , high exposures , and good information on past arsenic water concentrations , northern Chile is one of the best places in the world to investigate the carcinogenicity of arsenic .
+We performed a case-control study in 2007-2010 of 122 kidney cancer cases and 640 population-based controls with individual data on exposure and potential confounders .
+Cases included 76 renal cell , 24 transitional cell renal pelvis and ureter , and 22 other kidney cancers .
+For renal pelvis and ureter cancers , the adjusted odds ratios by average arsenic intakes of <400 , 400-1,000 , and >1,000 µg/day ( median water concentrations of 60 , 300 , and 860 µg/L ) were 1.00 , 5.71 ( 95% confidence interval : 1.65 , 19.82 ) , and 11.09 ( 95% confidence interval : 3.60 , 34.16 ) ( Ptrend < 0.001 ) , respectively .
+Odds ratios were not elevated for renal cell cancer .
+With these new findings , including evidence of dose-response , we believe there is now sufficient evidence in humans that drinking-water arsenic causes renal pelvis and ureter cancer .

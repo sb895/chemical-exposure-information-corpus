@@ -1,0 +1,5 @@
+Eclampsia refers to a coma or seizure activity in a pregnant woman with no prior history of such activity .
+This paper presents a mix of historical and epidemiological evidence consistent with the hypothesis that chronic lead exposure is a predisposing factor for eclampsia .
+The historical evidence is based on research conducted by British physicians around 1900 showing that the geographic variation in eclampsia across England and Wales was correlated with lead levels in local drinking water supplies .
+A formal epidemiological analysis based on a data set of English and Welsh counties observed in 1883 corroborates the evidence presented by historical observers .
+In particular , the statistical results show that the death rate from eclampsia in counties with high-water-lead levels exceeded the death rate in counties with low-water-lead levels by a factor of 2.34 ( 95% CI : 1.54-3.14 ) .

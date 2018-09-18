@@ -1,0 +1,9 @@
+BACKGROUND The association of long-term air pollution and lung function has not been studied across adult European multi-national populations before .
+The aim of this study was to determine the association between long-term urban background air pollution and lung function levels , as well as change in lung function among European adults .
+METHODS Forced expiratory volume in 1 s ( FEV1 ) , forced vital capacity ( FVC ) and the ratio thereof ( FEV1/FVC ) were assessed at baseline and after 9 years of follow-up in adults from 21 European centres ( followed-up sample 5610 ) .
+Fine particles ( PM(2.5) ) were measured in 2000/2001 using central monitors .
+RESULTS Despite sufficient statistical power no significant associations were found between city-specific annual mean PM(2.5) and average lung function levels .
+The findings also do not support an effect on change in lung function , albeit statistical power was insufficient to significantly detect such an association .
+CONCLUSIONS The inability to refuse the null hypothesis may reflect ( i ) no effect of urban air pollution on lung function or ( ii ) inherent biases due to the study design .
+Examples of the latter are lack of individual-level air quality assignment , not quantified within-city contrasts in traffic-related pollution , or the heterogeneity of the studied populations and their urban environments .
+Future studies on long-term effects of air pollution on lung function could increase statistical power and reduce potential misclassification and confounding by characterizing exposure on the level of individuals , capturing contrasts due to local sources , in particular traffic .

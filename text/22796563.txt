@@ -1,0 +1,12 @@
+BACKGROUND Previous studies have shown that women have higher urinary concentrations of several phthalate metabolites than do men , possibly because of a higher use of personal care products .
+Few studies have evaluated the association between phthalate metabolites , diabetes , and diabetes-related risk factors among women .
+OBJECTIVE We explored the association between urinary phthalate metabolite concentrations and diabetes among women who participated in a cross-sectional study .
+METHODS We used urinary concentrations of phthalate metabolites , analyzed by the Centers for Disease Control and Prevention , and self-reported diabetes of 2,350 women between 20 and 79 years of age who participated in the NHANES ( 2001-2008 ) .
+We used multiple logistic regression to estimate odds ratios ( ORs ) and 95% confidence intervals ( CIs ) and adjusted for urinary creatinine , sociodemographic characteristics , dietary factors , and body size .
+A secondary analysis was conducted for women who did not have diabetes to evaluate the association between phthalate metabolite concentrations and fasting blood glucose ( FBG ) , homeostasis model assessment-estimated insulin resistance , and glycosylated hemoglobin A1c .
+RESULTS After adjusting for potential confounders , women with higher levels of mono-n-butyl phthalate ( MnBP ) , mono-isobutyl phthalate ( MiBP ) , monobenzyl phthalate ( MBzP ) , mono-(3-carboxypropyl) phthalate ( MCPP ) , and three di-(2-ethylhexyl) phthalate metabolites ( \u03a3DEHP ) had an increased odds of diabetes compared with women with the lowest levels of these phthalates .
+Women in the highest quartile for MBzP and MiBP had almost twice the odds of diabetes [ OR = 1.96 ( 95% CI : 1.11 , 3.47 ) and OR = 1.95 ( 95% CI : 0.99 , 3.85 ) , respectively ] compared with women in the lowest quartile .
+Nonmonotonic , positive associations were found for MnBP and \u03a3DEHP , whereas MCPP appeared to have a threshold effect .
+Certain phthalate metabolites were positively associated with FBG and insulin resistance .
+DISCUSSION Urinary levels of several phthalates were associated with prevalent diabetes .
+Future prospective studies are needed to further explore these associations to determine whether phthalate exposure can alter glucose metabolism and increase the risk of insulin resistance and diabetes .

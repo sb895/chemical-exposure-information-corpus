@@ -1,0 +1,15 @@
+BACKGROUND Acrylamide is a probable human carcinogen , which is present in several heat-treated foods .
+In epidemiologic studies , positive associations with endometrial , ovarian , and renal cell cancer risk have been observed .
+The incidence of central nervous system tumors was increased upon acrylamide administration in drinking water to rats .
+In the current study , the association between dietary acrylamide intake and human brain cancer risk was investigated for the first time .
+METHODS In 1986 , 120,852 persons ( ages 55-69 years ) were included in the Netherlands Cohort Study on diet and cancer .
+At baseline , a random subcohort of 5,000 participants was randomly selected from the total cohort for a case-cohort approach .
+Acrylamide intake was assessed with a food frequency questionnaire at baseline and based on acrylamide analyses in relevant Dutch foods .
+Hazard ratios ( HR ) were calculated using Cox proportional hazards analysis .
+Subgroup analyses were done for microscopically verified brain cancer , astrocytic gliomas , high-grade astrocytic gliomas , and never-smokers .
+The acrylamide risk estimates were adjusted for possible brain cancer risk factors .
+RESULTS After 16.3 years of follow-up , 216 brain cancer cases were available for analysis .
+The multivariable-adjusted HR per 10 microg/d increment of acrylamide intake was 1.02 ( 95% confidence interval , 0.89-1.16 ) .
+HRs were not significantly increased either when dietary acrylamide intake was analyzed as a categorical variable .
+Also , there was no association in the subgroups based on histology and smoking .
+CONCLUSION In this prospective cohort study , acrylamide intake was not associated with brain cancer risk .

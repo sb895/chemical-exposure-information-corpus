@@ -1,0 +1,11 @@
+This study was performed to examine the relationship between particulate matter exposure and mortality in Seoul , Korea , during the year 2001 .
+Particulate matter data were collected using an optical particle counter ( OPC ) and national monitoring stations in Seoul .
+The size-resolved aerosol number concentrations of particles 0.3-25 microm in diameter and mass concentrations of PM10 ( particulate matter less than 10 microm in diameter ) and PM2.5 ( less than 2.5 microm in diameter ) were measured .
+Meteorological data such as air temperature and relative humidity were provided by the Korea Meteorological Administration .
+Daily mortality was analyzed using a generalized additive Poisson model , with adjustment for the effects of seasonal trend , air temperature , humidity , and day of the week as confounders , in a nonparametric approach .
+We used S-Plus for all analyses .
+Model fitness , using loess smoothing , was based on stringent convergence criteria to minimize the default convergence criteria in the S-Plus generalized additive models module .
+The IQR ( interquartile range ) increase of fine particle ( 10.21 number/cm3 [ the total number of particles per cubic centimeter] ) and respiratory particle ( 10.38 number/cm3 ) number concentration were associated with a 5.73% ( 5.03%-6.45% ) and a 5.82% ( 5.13%-6.53% ) increase in respiratory disease-associated mortality , respectively .
+Mortality effects in the elderly ( aged over 65 years ) were increased by more than 0.51% to 2.59% , and the relative risks of respiratory-related and cardiovascular-related mortality were increased by 0.51% to 1.06% compared with all-cause mortality .
+These findings support the hypothesis that air pollution is harmful to sensitive subjects , such as the elderly , and has a greater effect on respiratory- and cardiovascular-related mortality than all-cause mortality .
+However , our results using OPC data did not support the hypothesis that PM2.5 would have more adverse health effects than PM10 in number concentration but not in mass concentration .

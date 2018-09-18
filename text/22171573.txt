@@ -1,0 +1,13 @@
+BACKGROUND Occupational causes of respiratory cancers need to be further investigated : the role of occupational exposures in the aetiology of head and neck cancers remains largely unknown , and there are still substantial uncertainties for a number of suspected lung carcinogens .
+The main objective of the study is to examine occupational risk factors for lung and head and neck cancers .
+METHODS/DESIGN ICARE is a multi-center , population-based case-control study , which included a group of 2926 lung cancer cases , a group of 2415 head and neck cancer cases , and a common control group of 3555 subjects .
+Incident cases were identified in collaboration with cancer registries , in 10 geographical areas .
+The control group was a random sample of the population of these areas , with a distribution by sex and age comparable to that of the cases , and a distribution by socioeconomic status comparable to that of the population .
+Subjects were interviewed face to face , using a standardized questionnaire collecting particularly information on tobacco and alcohol consumption , residential history and a detailed description of occupational history .
+Biological samples were also collected from study subjects .
+The main occupational exposures of interest are asbestos , man-made mineral fibers , formaldehyde , polycyclic aromatic hydrocarbons , chromium and nickel compounds , arsenic , wood dust , textile dust , solvents , strong acids , cutting fluids , silica , diesel fumes , welding fumes .
+The complete list of exposures of interest includes more than 60 substances .
+Occupational exposure assessment will use several complementary methods : case-by-case evaluation of exposure by experts ; development and use of algorithms to assess exposure from the questionnaires ; application of job-exposure matrices .
+DISCUSSION The large number of subjects should allow to uncover exposures associated with moderate increase in risks , and to evaluate risks associated with infrequent or widely dispersed exposures .
+It will be possible to study joint effects of exposure to different occupational risk factors , to examine the interactions between occupational exposures , tobacco smoking , alcohol drinking , and genetic risk factors , and to estimate the proportion of respiratory cancers attributable to occupational exposures in France .
+In addition , information on many non-occupational risk factors is available , and the study will provide an excellent framework for numerous studies in various fields .

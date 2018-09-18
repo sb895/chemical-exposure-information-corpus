@@ -1,0 +1,9 @@
+Trace elements might play a role in the complex multifactorial pathogenesis of age-related macular degeneration ( AMD ) .
+The aim of this study was to measure alterations of trace elements levels in aqueous humor of patients with non-exsudative ( dry ) AMD .
+For this pilot study , aqueous humor samples were collected from patients undergoing cataract surgery. 12 patients with dry AMD ( age 77.9±6.62 , female 8 , male 4 ) and 11 patients without AMD ( age 66.6±16.7 , female 7 , male 4 ) were included .
+Aqueous levels of cadmium , cobalt , copper , iron , manganese , selenium , and zinc were measured by use of Flow-Injection-Inductively-Coupled-Plasma-Mass-Spectrometry ( FI-ICP-MS ) , quality controlled with certified standards .
+Patients with AMD had significantly higher aqueous humor levels of cadmium ( median : 0.70 µmol/L , IQR : 0.40-0.84 vs. 0.06 µmol/L ; IQR : 0.01-.018 ; p\u200a=\u200a0.002 ) , cobalt ( median : 3.1 µmol/L , IQR : 2.62-3.15 vs. 1.17 µmol/L ; IQR : 0.95-1.27 ; p<0.001 ) , iron ( median : 311 µmol/L , IQR : 289-329 vs. 129 µmol/L ; IQR : 111-145 ; p<0.001 ) and zinc ( median : 23.1 µmol/L , IQR : 12.9-32.6 vs. 5.1 µmol/L ; IQR : 4.4-9.4 ; p\u200a=\u200a0.020 ) when compared with patients without AMD .
+Copper levels were significantly reduced in patients with AMD ( median : 16.2 µmol/L , IQR : 11.4-31.3 vs. 49.9 µmol/L ; IQR : 32.0-.142.0 ; p\u200a=\u200a0.022 ) when compared to those without .
+No significant differences were observed in aqueous humor levels of manganese and selenium between patients with and without AMD .
+After an adjustment for multiple testing , cadmium , cobalt , copper and iron remained a significant factor in GLM models ( adjusted for age and gender of the patients ) for AMD .
+Alterations of trace element levels support the hypothesis that cadmium , cobalt , iron , and copper are involved in the pathogenesis of AMD .

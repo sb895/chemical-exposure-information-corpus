@@ -1,0 +1,1 @@
+<  Biomonitoring--effect marker--physiological parameter< <biomonitoring--exposure biomarker--blood--pregnant women AND Biomonitoring--exposure biomarker--blood--cord blood AND  Biomonitoring--exposure biomarker--other< < < < <  Biomonitoring--effect marker--physiological parameter< < < < 

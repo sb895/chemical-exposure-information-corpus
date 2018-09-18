@@ -1,0 +1,13 @@
+A significant proportion of groundwater in south Asia is contaminated with arsenic .
+Pakistan has low levels of arsenic in groundwater compared with China , Bangladesh and India .
+A representative multi-stage cluster survey conducted among 3874 persons > or = 15 years of age to determine the prevalence of arsenic skin lesions , its relation with arsenic levels and cumulative arsenic dose in drinking water in a rural district ( population : 1.82 million ) in Pakistan .
+Spot-urine arsenic levels were compared among individuals with and without arsenic skin lesions .
+In addition , the relation of age , body mass index , smoking status with arsenic skin lesions was determined .
+The geographical distribution of the skin lesions and arsenic-contaminated wells in the district were ascertained using global positioning system .
+The total arsenic , inorganic and organic forms , in water and spot-urine samples were determined by atomic absorption spectrophotometry .
+The prevalence of skin lesions of arsenic was estimated for complex survey design , using surveyfreq and surveylogistic options of SAS 9.1 software.The prevalence of definitive cases i.e. hyperkeratosis of both palms and soles , was 3.4 per 1000 and suspected cases i.e. any sign of arsenic skin lesions ( melanosis and/or keratosis ) , were 13.0 per 1000 among > or = 15-year-old persons in the district .
+Cumulative arsenic exposure ( dose ) was calculated from levels of arsenic in water and duration of use of current drinking water source .
+Prevalence of skin lesions increases with cumulative arsenic exposure ( dose ) in drinking water and arsenic levels in urine .
+Skin lesions were 2.5-fold among individuals with BMI <18.5 kg/m2 .
+Geographically , more arsenic-contaminated wells and skin lesions were alongside Indus River , suggests a strong link between arsenic contamination of groundwater with proximity to river.This is the first reported epidemiological and clinical evidence of arsenic skin lesions due to groundwater in Pakistan .
+Further investigations and focal mitigation measures for arsenic may be carried out alongside Indus River .

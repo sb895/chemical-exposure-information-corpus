@@ -1,0 +1,15 @@
+Seasonal differences in the particle size fractions and mass loadings of household dust deposited on indoor surfaces were examined in four New Jersey homes .
+Housedust was collected during a 30-day period on non-electrostatic polyethylene sample plates on which a glass slide had been placed .
+In each home two samples were collected at a height of 1.5 m and two were collected at a height of 0.3 m above the floor .
+Dust samples were obtained from each home during a summer and winter collection period .
+Particle size measurement was completed using an adaptation of a Meridian ACAS 570 Interactive Laser Cytometer .
+Results indicated that the dust mass deposited on household surfaces during the summer was greater than during the winter .
+The arithmetic mean mass deposition rate for all houses was 0.37 +/- 0.13 microgram/cm2/day during the summer and 0.22 +/- 0.13 microgram/cm2/day during the winter .
+The total number of particles deposited , however , was greater during the winter than during the summer .
+The increase in winter time particle number was caused by greater numbers of particles with an equivalent spherical diameter < 2.5 microns .
+The most probable source of these particles was winter time combustion emissions within the residences and the subsequent particle deposition on household surfaces .
+The greater mass loadings measured on the low sampling plates during the summer were associated with a greater number of particles with an equivalent spherical diameter > 5 microns .
+In the winter , however , the particle mass and number loadings were similar at both heights .
+These results suggested that ventilation of the house during the summer allowed resuspended particles to enter which led to the higher levels of settled dust .
+Measurement of contaminant levels in housedust for exposure estimation therefore , should account for the seasonal and height differences in dust mass , and collect representative fractions of housedust that are available for human contact .
+Furthermore , since over 99% of the particles on indoor surfaces were < 50 microns any indirect sampling technique for dermal exposure estimation should have collection efficiencies similar to the hand of particles < 50 microns .

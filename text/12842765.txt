@@ -1,0 +1,10 @@
+Phthalates are a group of industrial chemicals with many commercial uses , such as solvents , additives , and plasticizers .
+For example , di-(2-ethylhexyl) phthalate ( DEHP ) is added in varying amounts to certain plastics , such as polyvinyl chloride , to increase their flexibility .
+In humans , phthalates are metabolized to their respective monoesters , conjugated , and eliminated .
+However , despite the high production and use of DEHP , we have recently found that the urinary levels of the DEHP metabolite mono-(2-ethylhexyl) phthalate ( MEHP ) in 2,541 persons in the United States were lower than we anticipated , especially when compared with urinary metabolite levels of other commonly used phthalates .
+This finding raised questions about the sensitivity of this biomarker for assessing DEHP exposure .
+We explored the utility of two other DEHP metabolites , mono-(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) and mono-(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , as additional DEHP biomarkers .
+These metabolites are formed by oxidative metabolism of MEHP .
+In urine from 62 people , both the range and the mean urinary levels of MEOHP and MEHHP were on average 4-fold higher than those of MEHP ; the mean of the individual ratios of MEHHP/MEOHP , MEHHP/MEHP , and MEOHP/MEHP were 1.4 , 8.2 , and 5.9 , respectively .
+These data suggest that MEOHP and MEHHP are more sensitive biomarkers of exposure to DEHP than is MEHP .
+These findings also suggest a predominant human metabolic route for DEHP hydrolysis to MEHP followed by oxidation of MEHP ; they also imply that a similar mechanism may be relevant for other high-molecular-weight phthalates , such as di-n-octyl , di-isononyl , and di-isodecyl phthalates .

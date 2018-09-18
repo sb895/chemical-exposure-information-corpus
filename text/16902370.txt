@@ -1,0 +1,6 @@
+OBJECTIVE We examined the association between ambient air pollution levels and heart rate variability ( HRV ) in a panel study of 32 subjects .
+METHODS We used linear mixed models to analyze the effects of fine particles ( PM2.5 ) , sulfate ( SO4 ) , elemental carbon ( EC ) , and gases on log-transformed standard deviation of normal RR intervals ( SDNN ) , mean square of differences between adjacent RR intervals ( r-MSSD ) , and high- and low-frequency power ( HF , LF ) .
+RESULTS An interquartile range ( IQR ) increase of 5.1 mug/m in SO4 on the previous day was associated with a decrease of -3.3% SDNN ( 95% confidence = -6.0% to -0.5% ) , -5.6% r-MSSD ( -10.7% to -0.2% ) , and -10.3% HF ( -19.5% to -0.1% ) .
+Associations with total PM2.5 were similar .
+HRV was not associated with EC , NO2 , SO2 , or O3 .
+CONCLUSION In addition to traffic-related particles , elevated levels of sulfate particles may also adversely affect autonomic function .

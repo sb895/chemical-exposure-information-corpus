@@ -1,0 +1,12 @@
+We used data from a breast cancer pilot study carried out in Kerala , India in 1997 , for which organochlorine levels were measured in three biological media , blood serum , breast adipose tissue , and gluteal adipose tissue , of 37 fasting breast cancer cases ( pretreatment ) .
+Our objective was to investigate the relationships between organochlorine concentrations in different biological media .
+Gas-liquid chromatography determined serum , breast adipose , and gluteal adipose tissue levels of dichlorodiphenyltricholorethane , dichlorodiphenyldichloroethane , beta-benzene hexachloride , and polychlorinated biphenyl ( PCB ) congeners , PCB-153 and PCB-180 .
+Correlation plots were made and Spearman correlation coefficients ( r ) calculated for breast adipose tissue versus serum , gluteal adipose tissue versus serum , and breast adipose versus gluteal adipose tissue .
+We also examined paired ratios of all summary statistics .
+There were strong correlations among serum , breast adipose tissue , and gluteal adipose tissue concentrations for most organochlorines analyzed , one exception being gluteal versus serum for PCB-153 .
+The correlations for all other comparisons ranged from r = 0.65 to 0.94 .
+Serum ( ng/g ) versus adipose ratios approached 1:1 for most of the organochlorine pesticide comparisons and did not vary by summary statistic .
+To our knowledge , this is the first study to use three different media from fasting subjects and to comprehensively investigate the relationship between organochlorines measured across the three media for both organochlorine pesticides and PCBs .
+These data indicate that blood serum reflects the present body burden of a range of organochlorines to the same extent as adipose tissue , and they support the view that serum may be collected in lieu of adipose tissue to obtain similar information .
+However , such measurements are a combination of both recent exposures and past exposures , which have metabolized slowly and may still persist .
+Therefore , investigators should use caution when assigning a level as lifetime body burden .

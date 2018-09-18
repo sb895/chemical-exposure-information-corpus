@@ -1,0 +1,8 @@
+Studies have found increased bladder cancer risks associated with high levels of arsenic in drinking water , but little information exists about risks at lower concentrations .
+Ecologic studies in Argentina have found increased bladder cancer mortality in Córdoba Province , where some wells are contaminated with moderate arsenic concentrations .
+This population-based bladder cancer case-control study in two Córdoba counties recruited 114 case-control pairs , matched on age , sex , and county , during 1996-2000 .
+Water samples , particularly from wells , were obtained from subjects ' current residences and residences in the last 40 years .
+Statistical analyses showed no evidence of associations with exposure estimates based on arsenic concentrations in drinking water .
+However , when well-water consumption per se was used as the exposure measure , time-window analyses suggested that use of well water more than 50 years before interview was associated with increased bladder cancer risk .
+This association was limited to ever smokers ( odds ratio = 2.5 , 95% confidence interval : 1.1 , 5.5 for 51-70 years before interview ) , and the possibility that this association is due to chance cannot be excluded .
+This study suggests lower bladder cancer risks for arsenic than predicted from other studies but adds to evidence that the latency for arsenic-induced bladder cancers may be longer than previously thought .

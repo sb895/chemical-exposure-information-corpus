@@ -1,0 +1,14 @@
+A number of phthalates and their metabolites are suspected of having teratogenic and endocrine disrupting effects .
+Especially the developmental and reproductive effects of di(2-ethylhexyl)phthalate ( DEHP ) are under scrutiny .
+In this study we determined the concentrations of the secondary , chain oxidized monoester metabolites of DEHP , mono(2-ethyl-5-hydroxyhexyl)phthalate ( 5OH-MEHP ) and mono(2-ethyl-5-oxo-hexyl)phthalate ( 5oxo-MEHP ) in urine samples from the general population .
+The utilization of the secondary metabolites minimized any risk of contamination by the ubiquitously present phthalate parent compounds .
+Included in the method were also the simple monoester metabolites of DEHP , dioctylphthalate ( DOP ) , di-n-butylphthalate ( DnBuP ) , butylbenzylphthalate ( BBzP ) and diethylphthalate ( DEP ) .
+Automated sample preparation was performed applying a column switching liquid chromatography system enabling online extraction of the urine on a restricted access material ( RAM ) and separation on a reversed phase analytical column .
+Detection was performed by negative ESI-tandem mass spectrometry in multiple reaction monitoring mode and quantification by isotope dilution .
+The excretion of DEHP and the other phthalates was studied by analyzing first morning urine samples from 53 women and 32 men aged 7-64 years ( median : 34.2 years ) living in northern Bavaria ( Germany ) who were not occupationally exposed to phthalates .
+Phthalate metabolites , secondary and primary ones , were detected in all specimens .
+Concentrations were found to vary strongly from phthalate to phthalate and subject to subject with differences spanning more than three orders of magnitude .
+Median concentrations for excretion of DEHP metabolites were 46.8 microg/L for 5OH-MEHP ( range 0.5-818 microg/L ) , 36.5 microg/L for 5oxo-MEHP ( range 0.5-544 microg/L ) , and 10.3 microg/L for MEHP ( range:<0.5 ( limit of quantification , LOQ ) to 177 microg/L ) .
+A strong correlation was found between the excretion of 5OH-MEHP and 5oxo-MEHP with a correlation coefficient of r=0.991 , indicating close metabolic proximity of those two parameters but also the absence of any contaminating interference .
+Median concentrations for the other monoester metabolites were for mono-n-butylphthalate ( MnBuP ) 181 microg/L , for monobenzylphthalate ( MBzP ) 21.0 microg/L , for monoethylphthalate ( MEP ) 90.2 microg/L and for mono-n-octylphthalate ( MOP)<1.0 microg/L ( LOQ ) .
+These results will help to perform health risk assessments for the phthalate exposure of the general population .

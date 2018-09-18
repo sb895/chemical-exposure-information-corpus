@@ -1,0 +1,11 @@
+The validity of traffic intensity near the home as an estimate for the personal long-term exposure to traffic-related air pollution in an adult population was tested .
+Personal and near-home outdoor exposure to PM2.5 , soot , NO , NO2 , and NOx was monitored four to five times during 48 h periods in older adults .
+A group of 23 participants lived in high traffic intensity streets ( >10000 vehicles/(24 h) ) , and 22 lived in low traffic intensity streets .
+The relation between average personal exposure and traffic intensity at the residential address was explored by taking indoor sources into account .
+Large differences in the measured outdoor concentrations between locations in high traffic and low traffic intensity streets were found for soot ( 68% ) , NO ( 127% ) , and NOx ( 35% ) .
+Differences were smaller for PM2.5 ( 14% ) and NO2 ( 22% ) .
+Slightly elevated ratios were found for personal exposure to soot ( 1.15 ; 95% confidence interval ( CI ) , 1.01-1.30)when comparing adults living in high traffic intensity streets with adults living in low traffic intensity streets .
+For NO , increased personal exposure ( 1.16 ) was seen for the same comparison , but this difference failed to reach statistical significance ( CI , 0.80-1.66 ) .
+Traffic intensity on the street of residence predicted personal exposure to soot but not to PM2.5 or nitrogen oxides .
+Traffic intensity may not correlate well to personal exposure and accordingly substantial misclassification of exposure may occur when traffic intensity is used as an exposure indicator in epidemiological studies .
+Time spent in traffic and spending time outdoors were associated with increased personal exposure of soot and PM2.5 , but not NOx .

@@ -1,0 +1,12 @@
+BACKGROUND Chronic exposure to arsenic is associated with skin lesions .
+However , it is not known whether reducing arsenic exposure will improve skin lesions .
+OBJECTIVE We evaluated the association between reduced arsenic exposures and skin lesion recovery over time .
+METHODS A follow-up study of 550 individuals was conducted in 2009-2011 on a baseline population of skin lesion cases ( n = 900 ) previously enrolled in Bangladesh in 2001-2003 .
+Arsenic in drinking water and toenails , and skin lesion status and severity were ascertained at baseline and follow-up .
+We used logistic regression and generalized estimating equation ( GEE ) models to evaluate the association between log10-transformed arsenic exposure and skin lesion persistence and severity .
+RESULTS During the study period , water arsenic concentrations decreased in this population by 41% overall , and 65 individuals who had skin lesions at baseline had no identifiable lesions at follow-up .
+In the adjusted models , every log10 decrease in water arsenic and toenail arsenic was associated with 22% [ odds ratio ( OR ) = 1.22 ; 95% CI : 0.85 , 1.78 ] and 4.5 times ( OR = 4.49 ; 95% CI : 1.94 , 11.1 ) relative increase in skin lesion recovery , respectively .
+In addition , lower baseline arsenic levels were significantly associated with increased odds of recovery .
+A log10 decrease in toenail arsenic from baseline to follow-up was also significantly associated with reduced skin lesion severity in cases over time ( mean score change of -5.22 units ; 95% CI : -8.61 , -1.82 ) .
+CONCLUSIONS Reducing arsenic exposure increased the odds that an individual with skin lesions would recover or show less severe lesions within 10 years .
+Reducing arsenic exposure must remain a public health priority in Bangladesh and in other regions affected by arsenic-contaminated water .

@@ -1,0 +1,8 @@
+Serum samples collected in 1988 from U.S. blood donors were analyzed for polybrominated diphenyl ethers ( PBDEs ) and polychlorinated and polybrominated biphenyls ( PCBs and PBBs ) .
+The levels of the PBDEs are reported for the first time in serum from the U.S. population .
+The median concentrations and range of 2,2',4,4'-tetrabromodiphenyl ether ( BDE-47 ) ; 2,2',4,4',5,5'-hexabromodiphenyl ether ( BDE-153 ) ; 2,2',3,4,4',5',6-heptabromodiphenyl ether ( BDE-183 ) ; and decabromodiphenyl ether ( BDE-209 ) were 1.3 ( <0.8-49 ) ; 0.54 ( 0.13-3.1 ) ; 0.24 ( 0.12-1.8 ) ; and <1 ( <1-35 ) pmol/g lipid weight ( l.w. ) , respectively .
+In addition we also measured detectable levels of nine additional PBDE congeners in many of the serum samples .
+The median concentrations and ranges of 2,2',4,4',5,5'-hexachloro- and hexabromobiphenyl ( CB-153 and BB-153 ) were 190 ( 21-2600 ) and 19 ( 4.2-84 ) pmol/g l.w .
+The levels of PBDEs and CB-153 found in the U.S. samples were similar to background levels reported in the serum of Swedish hospital cleaners collected 10 years later , i.e. , 1997 .
+The BB-153 congener measured in the U.S. samples was not found in the Swedish samples .
+The difference in exposure to this congener could not be assessed in this study , although might be related to the 1973 BB-153 ( FireMaster BP-6 ) animal and human contamination incident in the State of Michigan .

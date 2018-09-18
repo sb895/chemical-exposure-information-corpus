@@ -1,0 +1,8 @@
+The aim was to determine the body burden of dioxins and polychlorinated biphenyls ( PCBs ) and whether they are associated with variables influencing reproduction .
+Our subjects were healthy women ( mean age of 29 [ SD=4.5] ) from central Taiwan .
+The congeners of dioxins and dioxin-like PCBs in placentas ( n=119 ) were identified using gas chromatography/high resolution mass spectrometry .
+The median levels of polychlorinated dibenzo-p-dioxins/dibenzofurans and PCBs were 10.2 ( geometric mean [ GM ] : 9.8 , 95% confidence interval [ 95% CI ] : 8.8-10.9 ) and 2.7 ( GM : 2.7 , 95% CI : 2.3-3.1 ) pg WHO-TEQ/g lipid , respectively .
+Total TEQ level in placentas was significantly correlated with mothers ' arm circumference ( r=0.22 , p=0.043 ) .
+Increased body fat percentage was associated with higher total TEQ level in placentas .
+After adjustment for maternal age , pre-pregnant body mass index ( BMI ) , and parity , placental dioxin-TEQ level higher in women ( age 19 years ) with irregular menstrual cycle than in those ( age <18 years ) with regular menstrual cycle ( p=0.032 ) and placental PCB-TEQ level was higher in women with menstrual cycles longer than 33 days versus less than 33 days ( p=0.006 ) .
+Thus , environmental exposure to dioxins and PCBs may be related to changes in current menstrual cycle characteristics .

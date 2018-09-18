@@ -1,0 +1,10 @@
+Although the use of organochlorine pesticides ( OCPs ) and polychlorinated biphenyls ( PCBs ) has been prohibited in Singapore since 1980 , OCPs and PCBs still can be detected in the environment and represent a potential threat to public health .
+In this study , OCPs and PCBs were measured in house dust samples collected from 31 homes across the island-state of Singapore .
+Organochlorine pesticides , such as hexachlorocyclohexanes ( HCHs ) , chlordanes and dichlorodiphenyltrichloroethanes ( DDTs ) were tested , with a range of <LOD to 240ngg(-1) dust , <LOD to 110ngg(-1) dust and <LOD to 770ngg(-1) dust , respectively .
+Of 41 target PCB congeners measured , 28 were detected , and the median level of SigmaPCBs was 5.6ngg(-1) dust .
+The prevalence of these pesticides and industrial chemicals which have been banned many years ago suggests limited indoor degradation and on-going environmental accumulation .
+Weak negative correlations between an increased elevation of the residence and the concentration of DDTs and some low-chlorinated PCB congeners were noted , most likely due to increased ventilation and distance from ground-based sources at higher floors .
+Levels detected in several studies conducted in the USA were several orders of magnitude higher than concentrations observed in Singapore .
+Heavier use of chlorinated products in the USA , as well as different sampling methods , sampling time and site characteristics are likely explanations for the observed differences .
+Daily human intake of OCPs and PCBs via house dust was calculated , but values were low compared with dietary data from overseas .
+Ingestion of dust is indeed an exposure passway for these organochlorines , but may not be the predominant one .

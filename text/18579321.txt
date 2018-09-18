@@ -1,0 +1,11 @@
+Bisphenol A ( BPA ) is widely distributed and exhibits weak estrogenic activity .
+In contrast to BPA , the corresponding glucuronide metabolite is not estrogenic .
+Therefore , free and total BPA were determined in human urine samples to assess the significance of free BPA for risk assessment .
+In only 10% of 474 samples from 287 subjects was free BPA detected in a range from <LOD ( 0.3 microg/l ) to 2.5 microg/l .
+Due to sample contamination with low amounts ( approximately 1 microg/l ) of BPA , house dust dust samples were independently collected in homes but not from persons who provide urine samples and analysed for BPA to check for potential sources of contamination .
+BPA was found in the range from 117 to 1 486 microg/kg ( median : 553 microg/kg ) dust .
+Additionally , BPA and d(16)-BPA were administered to a volunteer to demonstrate the problem of contamination .
+In comparison to low levels of free BPA ( <1.25 microg/l ) , no free d(16)-BPA was observed .
+Therefore , the maximal concentration of 2.5 microg/l observed here may be considered as an exaggerated value as a result of contamination .
+Nevertheless , for risk assessment a concentration of 2.5 microg/l was used and this value is 800-fold below the tolerable daily intake ( TDI ) of 50 microg/kg .
+Total BPA was determined in 147 urine samples with concentrations between <LOD and 9.3 microg/l .

@@ -1,0 +1,12 @@
+BACKGROUND Pterygium is a fibrovascular growth of the bulbar conjunctiva and underlying subconjunctival tissue that may cause blindness .
+The mechanism of pterygium formation is not yet fully understood , but pterygium has some tumorlike features .
+OBJECTIVES The objective of this study was to evaluate the association between arsenic exposure through drinking water and the occurrence of pterygium in southwestern Taiwan .
+METHODS We recruited participants > 40 years of age from three villages in the arseniasis-endemic area in southwestern Taiwan ( exposure villages ) and four neighboring nonendemic villages ( comparison villages ) .
+Each participant received an eye examination and a questionnaire interview .
+Photographs taken of both eyes were later graded by an ophthalmologist to determine pterygium status .
+RESULTS We included 223 participants from the exposure villages and 160 from the comparison villages .
+The prevalence of pterygium was higher in the exposure villages across all age groups in both sexes and increased with cumulative arsenic exposure .
+We found a significant association between cumulative arsenic exposure and the prevalence of pterygium .
+After adjusting for age , sex , working under sunlight , and working in sandy environments , we found that cumulative arsenic exposure of 0.1-15.0 mg/L-year and > or = 15.1 mg/L-year were associated with increased risks of developing pterygium .
+The adjusted odds ratios were 2.04 [ 95% confidence interval ( CI ) , 1.04-3.99 ] and 2.88 ( 95% CI , 1.42-5.83 ) , respectively .
+CONCLUSIONS Chronic exposure to arsenic in drinking water was related to the occurrence of pterygium , and the association was still observed after adjusting for exposures to sunlight and sandy environments .

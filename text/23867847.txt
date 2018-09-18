@@ -1,0 +1,14 @@
+The first aim of the study was to evaluate calculated dietary intake and concentrations measured in blood or urine of essential and toxic elements in relation to nutritional and toxicological reference values .
+The second aim was to identify patterns of the element concentrations in blood and urine and to identify possible dietary determinants of the concentrations of these elements .
+Adults with a known high consumption of environmental contaminants ( n=111 ) , and a random sample of controls ( n=76 ) answered a validated food frequency questionnaire ( FFQ ) .
+Complete data on biological measures were available for 179 individuals .
+Blood and urine samples were analyzed for selenium , iodine , arsenic , mercury , cadmium and lead .
+Principal component analysis was used to identify underlying patterns of correlated blood and urine concentrations .
+The calculated intakes of selenium , iodine , inorganic arsenic and mercury were within guideline levels .
+For cadmium 24% of the high consumer group and 8% of the control group had intakes above the tolerable weekly intake .
+Concentrations of lead in blood exceeded the bench-mark dose lower confidence limits for some participants .
+However , overall , the examined exposures did not give rise to nutritional or toxicological concerns .
+Game consumption was associated with lead in blood ( B(ln) 0.021 ; 95%CI:0.010 , 0.031 ) and wine consumption .
+Seafood consumption was associated with urinary cadmium in non-smokers ( B(ln) 0.009 ; 95%CI:0.003 , 0.015 ) .
+A novel finding was a distinct pattern of positively associated biological markers , comprising iodine , selenium , arsenic and mercury ( eigenvalue 3.8 ) , reflecting seafood intake ( B 0.007 ; 95%CI:0.004 , 0.010 ) .
+The study clearly demonstrates the significance of seafood as a source of both essential nutrients and toxic elements simultaneously and shows that exposure to various essential and toxic elements can be intertwined .

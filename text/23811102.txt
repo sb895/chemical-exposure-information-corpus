@@ -1,0 +1,9 @@
+Non-dioxin-like polychlorinated biphenyls ( ndl-PCBs ) , and some of their metabolites , might initiate neurological , neuroendocrinological , immunological and carcinogenic effects .
+Dietary exposure of the Belgian adult population to ndl-PCBs was investigated in this study .
+Foods from five food groups , collected in Belgium in 2008 , were analyzed by GC-MS/MS for the six indicator PCBs ( PCB 28 , 52 , 101 , 138 , 153 and 180 ) .
+Results were expressed as the sum of the six congeners .
+A dietary exposure assessment was performed , combining ndl-PCBs levels found in food with data from the national food consumption survey of 2004 .
+Fish and fish products were the dominating food group in terms of contamination level , with the highest levels measured in the composite sample «other fishes» ( 18.58 ng/g FW ) .
+The dietary exposure of the Belgian population ( n=3083 ) to ndl-PCBs ranged from 5.33 ng/kg b.w./day on average to 16.10 ng/kg b.w./day at the 99th percentile , using the lower bound concentration .
+The mean dietary exposure mainly originates from Fish and fish products ( 54.3% ) , followed by dairy products ( 28.5% ) .
+As neither EFSA nor JECFA have set a Tolerable Daily Intake for ndl PCBs , uncertainty remains about how to interpret the exposure data in terms of public health .

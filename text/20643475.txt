@@ -1,0 +1,15 @@
+BACKGROUND Persistent organic pollutants ( POPs ) are lipophilic chemicals that bioaccumulate .
+Most of them were resticted or banned in the 1970s and 1980s to protect human health and the environment .
+The main source for humans is dietary intake of dairy products , meat and fish .
+Little data exist on changes of the concentration of POPs in the Swedish population over time .
+OBJECTIVE To study if the concentrations of polychlorinated biphenyls ( PCBs ) , DDE , hexachlorobenzene ( HCB ) and chlordanes have changed in the Swedish population during 1993-2007 , and certain factors that may influence the concentrations .
+METHODS During 1993-2007 samples from 537 controls in different human cancer studies were collected and analysed .
+Background information such as body mass index , breast-feeding and parity was assessed by questionaires .
+Wilcoxon rank-sum test was used to analyse the explanatory factors specimen ( blood or adipose tissue ) , gender , BMI , total breast-feeding and parity in relation to POPs .
+Time trends for POPs were analysed using linear regression analysis , adjusted for specimen , gender , BMI and age .
+RESULTS The concentration decreased for all POPs during 1993-2007 .
+The annual change was statistically significant for the sum of PCBs -7.2% , HCB -8.8% , DDE -13.5% and the sum of chlordanes -10.3% .
+BMI and age were determinants of the concentrations .
+Cumulative breast-feeding >8 months gave statistically significantly lower concentrations for the sum of PCBs , DDE and the sum of chlordanes .
+Parity with >2 children yielded statistically significantly lower sum of PCBs .
+CONCLUSIONS All the studied POPs decreased during the time period , probably due to restrictions of their use .

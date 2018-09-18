@@ -1,0 +1,9 @@
+CONTEXT Polychlorinated dibenzo-p-dioxins , polychlorinated dibenzofurans , and dioxin-like polychlorinated biphenyls that have toxic equivalency factors ( TEFs ) were measured in serum of 946 subjects in five Michigan counties .
+The study was motivated by concerns about human exposure to dioxin-contaminated sediments in the Tittabawassee River ( TR ) .
+Most of the toxic equivalency in TR sediments is from two furan congeners , 2,3,7,8-tetrachlorodibenzofuran and 2,3,4,7,8-pentachlorodibenzofuran ( 2,3,4,7,8-pentaCDF ) .
+CASE PRESENTATION The individual with the highest adjusted ( for age , age squared , and body mass index ) serum level of 2,3,4,7,8-pentaCDF in the study ( 42.5 ppt ) reported a unique history of raising cattle and vegetables in the floodplain of the TR .
+Interviews and serum samples were obtained from the index case and 15 other people who ate beef and vegetables raised by the index case. 2,3,4,7,8-pentaCDF in beef lipid was estimated to have been more than three orders of magnitude greater than background ( 1,780 vs. 1.1 ppt ) .
+The mean , median , and 95th percentile for serum 2,3,4,7,8-pentaCDF in the study control population were 6.0 , 5.4 , and 13.0 ppt , respectively , and were 9.9 , 8.4 , and 20.5 ppt among beef and vegetable consumers , respectively .
+Back extrapolation for the index case suggests that his increase in serum concentration of 2,3,4,7,8-pentaCDF above background may have been as high as 146 ppt .
+DISCUSSION Consumption of beef and/or vegetables raised on dioxin-contaminated soil may be an important completed pathway of exposure .
+RELEVANCE TO PUBLIC HEALTH PRACTICE : Animals and crops should not be raised for human consumption in areas contaminated with dioxins .

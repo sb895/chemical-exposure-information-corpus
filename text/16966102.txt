@@ -1,0 +1,9 @@
+OBJECTIVE To explore possible associations between autism spectrum disorders ( ASD ) and environmental exposures , we linked the California autism surveillance system to estimated hazardous air pollutant ( HAP ) concentrations compiled by the U.S. Environmental Protection Agency .
+METHODS Subjects included 284 children with ASD and 657 controls , born in 1994 in the San Francisco Bay area .
+We assigned exposure level by census tract of birth residence for 19 chemicals we identified as potential neurotoxicants , developmental toxicants , and/or endocrine disruptors from the 1996 HAPs database .
+Because concentrations of many of these were highly correlated , we combined the chemicals into mechanistic and structural groups , calculating summary index scores .
+We calculated ASD risk in the upper quartiles of these group scores or individual chemical concentrations compared with below the median , adjusting for demographic factors .
+RESULTS The adjusted odds ratios ( AORs ) were elevated by 50% in the top quartile of chlorinated solvents and heavy metals [ 95% confidence intervals ( CIs ) , 1.1-2.1 ] , but not for aromatic solvents .
+Adjusting for these three groups simultaneously led to decreased risks for the solvents and increased risk for metals ( AORs for metals : fourth quartile = 1.7 ; 95% CI , 1.0-3.0 ; third quartile = 1.95 ; 95% CI , 1.2-3.1 ) .
+The individual compounds that contributed most to these associations included mercury , cadmium , nickel , trichloroethylene , and vinyl chloride .
+CONCLUSIONS Our results suggest a potential association between autism and estimated metal concentrations , and possibly solvents , in ambient air around the birth residence , requiring confirmation and more refined exposure assessment in future studies .

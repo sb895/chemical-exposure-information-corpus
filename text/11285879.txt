@@ -1,0 +1,9 @@
+Tremor is being increasingly evaluated by quantitative computer-based systems to differentiate its causes .
+In this study , a group of mercury-exposed workers were assessed to determine whether tremor characteristics differed by exposure level .
+Workers were classified into two groups : those with an average urine mercury concentration below the American Conference of Government Industrial Hygienist Biological Exposure Index of 35 micrograms/g creatinine , and those with an average urine mercury concentration above the Biological Exposure Index .
+Tremor characteristics ( including intensity , harmonic index , center frequency , standard deviation of the center frequency , and tremor index ) were measured and recorded with a computer-based tremor system .
+Sixteen of 17 workers who were potentially exposed to mercury participated in the study .
+Three workers had a mean urine mercury concentration of 27.0 micrograms/g-creatinine and were assigned to the low-exposure group , and 13 workers had a mean urine mercury concentration of 200.2 micrograms/g-creatinine and were assigned to the high-exposure group .
+There was a statistically significant difference in the tremor index ( which compiles five individual tremor parameters into a single value ) between the two groups ( P = 0.04 ; Wilcoxon's rank sum test ) .
+Other tremor characteristics did not differ significantly between the groups .
+Tremor index may be more useful than measures of individual tremor parameters in differentiating normal from subclinical pathological tremors among groups of workers with chronic mercury exposure .

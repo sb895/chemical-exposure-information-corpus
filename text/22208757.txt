@@ -1,0 +1,12 @@
+A total of 27 per- and polyfluorinated compounds ( PFCs ) were determined in both house dust ( n=10 ) and indoor air ( n=10 ) from selected homes in Catalonia , Spain .
+Concentrations were found to be similar or lower than those previously reported for household microenvironments in other countries .
+Ten PFCs were detected in all house dust samples .
+The highest mean concentrations corresponded to perfluorodecanoic acid ( PFDA ) and perfluorononanoic acid ( PFNA ) , 10.7 ng/g ( median : 1.5 ng/g ) and 10.4 ng/g ( median : 5.4 ng/g ) , respectively , while the 8:2 fluorotelomer alcohol ( FTOH ) was the dominating neutral PFC at a concentration of 0.41 ng/g ( median : 0.35 ng/g ) .
+The indoor air was dominated by the FTOHs , especially the 8:2 FTOH at a mean ( median ) concentration of 51 pg/m(3) ( median : 42 pg/m(3) ) .
+A limited number of ionic PFCs were also detected in the indoor air samples .
+Daily intakes of PFCs were estimated for average and worst case scenarios of human exposure from indoor sources .
+For toddlers , this resulted in average intakes of \u2211ionic PFCs of 4.9ng/day ( 0.33 ng/kg(bw)/day for a 15 kg toddlers ) and \u2211neutral PFCs of 0.072 ng/day ( 0.005 ng/kg(bw)/day ) from house dust .
+For adults , the average daily intakes of dust were 3.6 and 0.053 ng/day ( 0.05 and 0.001 ng/kg(bw)/day for a 70 kg adult ) for \u2211ionic and \u2211neutral PFCs , respectively .
+The average daily inhalation of \u2211neutral PFCs was estimated to be 0.9 and 1.3 ng/day ( 0.06 and 0.02 ng/kg(bw)/day ) for toddlers and adults , respectively .
+For PFOS , the main ionic PFC detected in indoor air samples , the median intakes ( based on those samples where PFOS was detected ) , resulted in indoor exposures of 0.06 and 0.11 ng/day ( 0.004 and 0.002 ng/kg(bw)/day ) for toddlers and adults , respectively .
+Based on previous studies on dietary intake and drinking water consumption , both house dust and indoor air contribute significantly less to PFC exposure within this population .

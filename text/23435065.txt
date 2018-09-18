@@ -1,0 +1,15 @@
+Polychlorinated biphenyls ( PCBs ) , polychlorinated dibenzo-p-dioxins ( PCDDs ) and polychlorinated dibenzofurans ( PCDFs ) are persistent , bioaccumulative and toxic chemicals .
+These compounds are transferred to breast milk , therefore breastfed infants are at risk of being exposed to considerable amounts of PCBs and PCDD/Fs during this sensitive age .
+In the present study individual breast milk samples were collected at three time points ( days 5 , 12 and 84 postpartum ) from 22 mothers who delivered their infants during 2007 in Baranya County , Hungary .
+Breast milk samples were analyzed for 17 PCDD/Fs , 12 dioxin-like ( DL ) PCBs and 7 non-dioxin-like ( NDL ) PCBs using high-resolution gas chromatography/high-resolution mass spectrometry .
+Each infant's daily breast milk consumptions have been measured biweekly over three months .
+The concentration of several PCB and PCDD congeners in breast milk decreased significantly during lactation , with a main decline between days 5 and 12 .
+The total toxic equivalent ( TEQ ) concentrations , derived from PCDD/Fs and DL-PCBs , were 3.17±1.72 , 2.70±1.57 and 2.41±1.47 pg TEQ/g fat at the three time points , respectively .
+The corresponding NDL-PCB concentrations were 33.5±29.2 , 27.4±20.6 and 26.9±24.8 ng/g fat , respectively .
+The results highlight the importance of timing of breast milk sampling for consistent exposure assessment estimation .
+Levels of pollutants in Hungarian breast milk samples were at the lower concentration range when data from Europe are considered .
+This is the first study in Hungary where each infant's daily intakes of PCBs and PCDD/Fs via breast milk have been measured .
+The daily intakes of PCDD/Fs and DL-PCBs via breastfeeding per kg body weight were 11.79±6.42 , 16.54±13.02 and 11.59±7.70 pg TEQ/kg bw on days 5 , 12 and 84 , respectively .
+The exposure was the highest on day 12 but at all three time points each infants ' daily exposure to PCDD/Fs and DL-PCBs via breastfeeding exceeded the tolerable daily intake ( TDI ) of 2 pg TEQ/kg bw per day .
+These levels are still lower than corresponding levels recently measured in many European countries .
+Whether the milk-derived POP exposure levels of infants reported here constitute any health risk that may manifest later in life awaits further scrutiny .

@@ -1,0 +1,11 @@
+Samples of household dust and garden soil were collected from twenty households in the vicinity of an ex-mining site in southwest England and from nine households in a control village .
+All samples were analysed by ICP-MS for pseudo-total arsenic ( As ) concentrations and the results show clearly elevated levels , with maximum As concentrations of 486 microg g(-1) in housedusts and 471 microg g(-1) in garden soils ( and mean concentrations of 149 microg g(-1) and 262 microg g(-1) , respectively ) .
+Arsenic concentrations in all samples from the mining area exceeded the UK Soil Guideline Value ( SGV ) of 20 microg g(-1) .
+No significant correlation was observed between garden soil and housedust As concentrations .
+Bioaccessible As concentrations were determined in a small subset of samples using the Physiologically Based Extraction Test ( PBET ) .
+For the stomach phase of the PBET , bioaccessibility percentages of 10-20% were generally recorded .
+Higher percentages ( generally 30-45% ) were recorded in the intestine phases with a maximum value ( for one of the housedusts ) of 59% .
+Data from the mining area were used , together with default values for soil ingestion rates and infant body weights from the Contaminated Land Exposure Assessment ( CLEA ) model , to derive estimates of As intake for infants and small children ( 0-6 years old ) .
+Dose estimates of up to 3.53 microg kg(-1) bw day(-1) for housedusts and 2.43 microg kg(-1) bw day(-1) for garden soils were calculated , compared to the index dose used for the derivation of the SGV of 0.3 microg kg(-1) bw day(-1) ( based on health risk assessments ) .
+The index dose was exceeded by 75% ( 18 out of 24 ) of the estimated As doses that were calculated for children aged 0-6 years , a group which is particularly at risk from exposure via soil and dust ingestion .
+The results of the present study support the concerns expressed by previous authors about the significant As contamination in southwest England and the potential implications for human health .

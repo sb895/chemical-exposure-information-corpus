@@ -1,0 +1,10 @@
+The objective of this study was to examine the effects of environmental cadmium ( Cd ) exposure on the gene expression profile of peripheral blood cells , using an original oligoDNA microarray .
+The study population consisted of 20 female residents in a Cd-polluted area ( Cd-exposed group ) and 20 female residents in a non-Cd-polluted area individually matched for age ( control group ) .
+The mRNA levels in Cd-exposed subjects were compared with those in respective controls , using a microarray containing oligoDNA probes for 1867 genes .
+Median Cd concentrations in blood ( 3.55 microg/l ) and urine ( 8.25 microg/g creatinine ) from the Cd-exposed group were 2.4- and 1.9-times higher than those of the control group , respectively .
+Microarray analysis revealed that the Cd-exposed group significantly up-regulated 137 genes and down-regulated 80 genes , compared with the control group .
+The Ingenuity Pathway Analysis Application ( IPA ) revealed that differentially expressed genes were likely to modify oxidative stress and mitochondria-dependent apoptosis pathways .
+Among differentially expressed genes , the expression of five genes was positively correlated with Cd concentrations in blood or urine .
+Quantitative real-time PCR ( RT-PCR ) analysis validated the significant up-regulation of CASP9 , TNFRSF1B , GPX3 , HYOU1 , SLC3A2 , SLC19A1 , SLC35A4 and ITGAL , and down-regulation of BCL2A1 and COX7B .
+After adjustment for differences in the background characteristics of the two groups , we finally identified seven Cd-responsive genes ( CASP9 , TNFRSF1B , GPX3 , SLC3A2 , ITGAL , BCL2A1 , and COX7B ) , all of which constituted a network that controls oxidative stress response by IPA .
+These seven genes may be marker genes useful for the health risk assessment of chronic low level exposure to Cd .

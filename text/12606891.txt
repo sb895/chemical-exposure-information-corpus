@@ -1,0 +1,11 @@
+BACKGROUND As part of a multicenter study relating traffic-related air pollution with incidence of asthma in three birth cohort studies ( TRAPCA ) , we used a measurement and modelling procedure to estimate long-term average exposure to traffic-related particulate air pollution in communities throughout the Netherlands ; in Munich , Germany ; and in Stockholm County , Sweden .
+METHODS In each of the three locations , 40-42 measurement sites were selected to represent rural , urban background and urban traffic locations .
+At each site and fine particles and filter absorbance ( a marker for diesel exhaust particles ) were measured for four 2-week periods distributed over approximately 1-year periods between February 1999 and July 2000 .
+We used these measurements to calculate annual average concentrations after adjustment for temporal variation .
+Traffic-related variables ( eg , population density and traffic intensity ) were collected using Geographic Information Systems and used in regression models predicting annual average concentrations .
+From these models we estimated ambient air concentrations at the home addresses of the cohort members .
+RESULTS Regression models using traffic-related variables explained 73% , 56% and 50% of the variability in annual average fine particle concentrations for the Netherlands , Munich and Stockholm County , respectively .
+For filter absorbance , the regression models explained 81% , 67% and 66% of the variability in the annual average concentrations .
+Cross-validation to estimate the model prediction errors indicated root mean squared errors of 1.1-1.6 microg/m for PM(2.5) and 0.22-0.31 *10(-5) m for absorbance .
+CONCLUSIONS A substantial fraction of the variability in annual average concentrations for all locations was explained by traffic-related variables .
+This approach can be used to estimate individual exposures for epidemiologic studies and offers advantages over alternative techniques relying on surrogate variables or traditional approaches that utilize ambient monitoring data alone .

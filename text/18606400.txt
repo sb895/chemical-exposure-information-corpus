@@ -1,0 +1,11 @@
+The association of 11 polychlorinated biphenyls ( PCBs ) with hypertension was investigated using the National Health and Nutrition Examination Survey ( NHANES ) , 1999-2002 .
+The unweighted number of participants assessed for hypertension ranged from 2074 to 2556 depending on the chemical(s) being analyzed .
+In unadjusted logistic regressions all 11 PCBs were associated with hypertension .
+After adjustment for age , gender , race , smoking status , body mass index , exercise , total cholesterol , and family history of coronary heart disease , seven of the 11 PCBs ( PCBs 126 , 74 , 118 , 99 , 138/158 , 170 , and 187 ) were significantly associated with hypertension .
+The strongest adjusted associations with hypertension were found for dioxin-like PCBs 126 and 118 .
+PCB 126>59.1 pg/g lipid adjusted had an odds ratio of 2.45 ( 95% CI 1.48-4.04 ) compared to PCB 126<or=26.1 pg/g lipid adjusted .
+PCB 118>27.5 ng/g lipid adjusted had an odds ratio of 2.30 ( 95% CI 1.29-4.08 ) compared to PCB 118<or=12.5 ng/g lipid adjusted .
+Moreover , participants with one or more elevated PCBs had an odds ratio of 1.84 ( 95% CI 1.25-2.70 ) compared to no PCBs elevated in an adjusted logistic regression .
+The prevalence of one or more elevated PCBs was 22.76% or 32 million of 142 million persons >or=20 years old in the non-institutionalized US population .
+We hypothesize that association of seven PCBs with hypertension indicates elevated PCBs are a risk factor for hypertension .
+What clinicians can do , given the results of this study , is limited unless the appropriate laboratory methods can be made more widely available for testing patients .

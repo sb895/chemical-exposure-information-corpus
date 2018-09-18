@@ -1,0 +1,10 @@
+Using nitric acid-perchloric acid wet digestion based FAAS method ten selected metals ( Cd , Co , Cr , Fe , K , Mn , Na , Ni , Pb and Zn ) were determined in the scalp hair of male Pakistani and Libyan donors ( n = 62 ) , between 3-54 years age and residing in typical urban areas .
+The study was taken up to identify sources of metal distribution in two diverse population segments exposed to different environments .
+Sodium emerged with the highest mean hair concentration of 511.0 microg/g and 496.9 mug/g for Libyan and Pakistani donors respectively , followed by K , at 266.2 microg/g and 242.4 microg/g for the two donor categories .
+Cadmium showed the lowest mean hair concentration for both Pakistani ( 0.380 microg/g ) and Libyan ( 0.530 microg/g ) donors .
+Levels of Na , K , Pb , Cr and Cd were higher in hair of Libyan donors compared with Pakistani counterparts which showed higher comparative levels of Zn , Fe , Co , Ni and Mn .
+Strong metal-to-metal correlations were found between Na-K ( r = 0.638 ) and Cd-Co ( r = 0.574 ) for Pakistani donors , while for Libyan donors , Na-K ( r = 0.680 ) and Fe-Mn ( r = 0.624 ) correlations emerged as strongly significant .
+Only K was found to have a strong positive correlation ( r = 0.611 ) with age for Pakistani donors while this correlation was significantly negative ( r = -0.500 ) for Libyan donors , probably arising from individual food habits .
+Other metals showed no viable relationship with age .
+Principal Component Analysis ( PCA ) and Cluster Analysis ( CA ) of the data evidenced food , industrial emissions and automobile emissions as possible sources of metal distribution .
+The results of the present study are compared with those reported for subjects from other regions of the world .

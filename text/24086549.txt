@@ -1,0 +1,8 @@
+There is limited evidence that long-term exposure to ambient air pollution increases the risk of childhood autism spectrum disorder ( ASD ) .
+The objective of the study was to investigate the associations between long-term exposure to air pollution and newly diagnostic ASD in Taiwan .
+We conducted a population-based cohort of 49,073 children age less than 3 years in 2000 that were retrieved from Taiwan National Insurance Research Database and followed up from 2000 through 2010 .
+Inverse distance weighting method was used to form exposure parameter for ozone ( O3 ) , carbon monoxide ( CO ) , nitrogen dioxide ( NO2 ) , sulfur dioxide ( SO2 ) , and particles with aerodynamic diameter less than 10 µm ( PM10 ) .
+Time-dependent Cox proportional hazards ( PH ) model was performed to evaluate the relationship between yearly average exposure air pollutants of preceding years and newly diagnostic ASD .
+The risk of newly diagnostic ASD increased according to increasing O3 , CO , NO2 , and SO2 levels .
+The effect estimate indicating an approximately 59% risk increase per 10 ppb increase in O3 level ( 95% CI 1.42-1.79 ) , 37% risk increase per 10 ppb in CO ( 95% CI 1.31-1.44 ) , 340% risk increase per 10 ppb increase in NO2 level ( 95% CI 3.31-5.85 ) , and 17% risk increase per 1 ppb in SO2 level ( 95% CI 1.09-1.27 ) was stable with different combinations of air pollutants in the multi-pollutant models .
+Our results provide evident that children exposure to O3 , CO , NO2 , and SO2 in the preceding 1 year to 4 years may increase the risk of ASD diagnosis .

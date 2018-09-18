@@ -1,0 +1,13 @@
+Metals frequently occur at contaminated sites , where their potential toxicity and persistence require risk assessments that consider possible long-term changes .
+Changes in climate are likely to affect the speciation , mobility , and risks associated with metals .
+This paper provides an example of how the climate effect can be inserted in a commonly used exposure model , and how the exposure then changes compared to present conditions .
+The comparison was made for cadmium ( Cd ) exposure to 4-year-old children at a highly contaminated iron and steel works site in southeastern Sweden .
+Both deterministic and probabilistic approaches ( through probability bounds analysis , PBA ) were used in the exposure assessment .
+Potential climate-sensitive variables were determined by a literature review .
+Although only six of the total 39 model variables were assumed to be sensitive to a change in climate ( groundwater infiltration , hydraulic conductivity , soil moisture , soil:water distribution , and two bioconcentration factors ) , the total exposure was clearly affected .
+For example , by altering the climate-sensitive variables in the order of 15% to 20% , the deterministic estimate of exposure increased by 27% .
+Similarly , the PBA estimate of the reasonable maximum exposure ( RME , defined as the upper bound of the 95th percentile ) increased by almost 20% .
+This means that sites where the exposure in present conditions is determined to be slightly below guideline values may in the future exceed these guidelines , and risk management decisions could thus be affected .
+The PBA , however , showed that there is also a possibility of lower exposure levels , which means that the changes assumed for the climate-sensitive variables increase the total uncertainty in the probabilistic calculations .
+This highlights the importance of considering climate as a factor in the characterization of input data to exposure assessments at contaminated sites .
+The variable with the strongest influence on the result was the soil:water distribution coefficient ( Kd ) .

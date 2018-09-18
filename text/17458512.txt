@@ -1,0 +1,13 @@
+Simultaneous indoor and outdoor PM10 and PM2.5 concentration measurements were conducted in seven primary schools in the Athens area .
+Both gravimetric samplers and continuous monitors were used .
+Filters were subsequently analyzed for anion species .
+Moreover ultrafine particles number concentration was monitored continuously indoors and outdoors .
+Mean 8-hr PM10 concentration was measured equal to 229 +/- 182 microg/m3 indoors and 166 +/- 133 microg/m3 outdoors .
+The respective PM2.5 concentrations were 82 +/- 56 microg/m3 indoors and 56 +/- 26 microg/m3 outdoors .
+Ultrafine particles 8-h mean number concentration was measured equal to 24,000 +/- 17,900 particles/cm3 indoors and 32,000 +/- 14,200 particles/cm3 outdoors .
+PM10 outdoor concentrations exhibited a greater spatial variability than the corresponding PM2.5 ones .
+I/O ratios were close or above 1.00 for PM10 and PM2.5 and smaller than 1.00 for ultrafine particles .
+Very high I/O ratios were observed when intense activities took place .
+The initial results of the chemical analysis showed that SO4(-2) accounts for the 6.6 +/- 3.5% of the PM10 and NO3(1) for the 3.1 +/- 1.4%.The corresponding results for PM2.5 are 12.0 +/- 7.7% for SO4(-2) and 3.1 +/- 1.9% for NO3- .
+PM2.5 SO4(-2) indoor concentrations were highly correlated with outdoor ones and the regression line had the largest slope and a very low intercept , indicative of no indoor sources of fine particulate SO4(-2) .
+The results of the statistical analysis of indoor and outdoor concentration data support the use of SO4(-2) as a proper surrogate for indoor PM of outdoor origin .

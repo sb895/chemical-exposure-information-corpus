@@ -1,0 +1,12 @@
+BACKGROUND An important question is whether human serum levels of persistent organic pollutants has continued to decrease during the last decades .
+The aim of this study was to assess intra-individual variations over time of serum levels of 2,2',4,4',5,5'-hexachlorobiphenyl ( CB-153 ) , 1,1-dichloro-2,2-bis(4-chlorophenyl)-ethene ( p,p'-DDE ) and hexachlorobenzene ( HCB ) , considering the impact of a number of possible determinants .
+METHODS Blood samples were drawn for the same 39 subjects in 1991 and 2001 .
+Interviews were made at both occasions .
+Lipid adjusted serum concentrations of CB-153 , p,p'-DDE and HCB were determined in both sets of blood samples using gas chromatography-mass spectrometry .
+The fatty acid composition of the serum lipids was analyzed by means of gas-liquid chromatography .
+RESULT The CB-153 concentrations in serum had averagely decreased with 34% in between 1991 and 2001 ( p<0.001 ) .
+Of individual determinants only increasing BMI was associated with decreasing CB-153 levels ( beta=-1.0 , 95% CI -1.8 , -0.2 , p=0.01 ) , explaining 13% of the variation .
+The average decrease of p,p'-DDE was 55% , and could only weakly be associated with a relative increase of BMI ( beta=-1.0 , 95% CI -2.3 , 0.2 , p=0.09 ) , explaining only 5% of the variation .
+The average decrease of HCB was 53% , and was associated only with high fish consumption in 1991 , explaining 12% of the variation .
+CONCLUSIONS The results support a continuing decrease in human body burdens of PCBs , DDE and HCB during the 1990s .
+The explanatory factors relative change of BMI and fish consumption explained only a minor part of the time-related variations in serum levels .

@@ -1,0 +1,11 @@
+BACKGROUND In humans , inorganic arsenic is metabolized to methylated metabolites mainly by arsenic ( +3 oxidation state ) methyltransferase ( AS3MT ) .
+AS3MT polymorphisms are associated with arsenic metabolism efficiency .
+Recently , a putative N-6-adenine-specific DNA methyltransferase 1 ( N6AMT1 ) was found to methylate arsenic in vitro .
+OBJECTIVE We evaluated the role of N6AMT1 polymorphisms in arsenic methylation efficiency in humans.Methods : We assessed arsenic methylation efficiency in 188 women exposed to arsenic via drinking water ( 200 µg/L ) in the Argentinean Andes by measuring the relative concentrations of arsenic metabolites in urine [ inorganic arsenic , methylarsonic acid ( MMA ) , and dimethylarsinic acid ] by high-performance liquid chromatography coupled with hydride generation and inductively coupled plasma mass spectrometry .
+We performed genotyping for N6AMT1 and AS3MT polymorphisms by Taqman assays , and gene expression ( in blood ; n = 63 ) with Illumina HumanHT-12 v4.0 .
+RESULTS Five N6AMT1 single nucleotide polymorphisms ( SNPs ; rs1997605 , rs2205449 , rs2705671 , rs16983411 , and rs1048546 ) and two N6AMT1 haplotypes were significantly associated with the percentage of MMA ( %MMA ) in urine , even after adjusting for AS3MT haplotype. %MMA increased monotonically according to the number of alleles for each SNP ( e.g. , for rs1048546 , mean %MMA was 7.5% for GG , 8.8% for GT , and 9.7% for TT carriers ) .
+Three SNPs were in linkage disequilibrium ( R2 > 0.8 ) .
+Estimated associations for joint effects of N6AMT1 ( haplotype 1 ) and AS3MT ( haplotype 2 ) were generally consistent with expectations for additive effects of each haplotype on %MMA .
+Carriers of N6AMT1 genotypes associated with lower %MMA showed the lowest N6AMT1 expression , but associations were monotonic according to copy number for only one genotype and one haplotype .
+CONCLUSIONS N6AMT1 polymorphisms were associated with arsenic methylation in Andean women , independent of AS3MT .
+N6AMT1 polymorphisms may be susceptibility markers for arsenic-related toxic effects .

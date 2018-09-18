@@ -1,0 +1,11 @@
+To date , most estimates of the half-life of polychlorinated biphenyls ( PCBs ) in humans have been based on relatively short follow-up periods .
+To address this issue , we determined the half-lives of PCB congeners of occupational origin in the serum of former capacitor workers as part of a study conducted in 2003-2006--approximately 28 years after their last occupational exposure .
+A total of 241 persons from a source population of 6798 former capacitor workers were interviewed and asked to donate a blood sample for serum PCB congener analysis .
+A subgroup of 45 participants also had serum archived from 1976 and reanalyzed for the same 27 PCB congeners by the same laboratory .
+Our estimates of the half-lives of the congeners among these 45 persons were longer than those reported by Wolff et al .
+( 1992 ) , due primarily to the much longer interval between exposure and determination of serum PCB concentrations .
+Half-lives were significantly greater for the heavy versus light occupational congeners , for women versus men and for those with low versus high initial exposure .
+Current serum total PCB concentrations , expressed as the geometric mean of wet weight data , averaged 6.7 ng/g for the entire 241-person cohort , which represents a 10-fold decrease from values reported in the late 1970s , but is still nearly twice the average for persons of similar age residing in the same area , but without occupational exposure .
+In addition , current serum PCB concentrations remained significantly and positively associated with earlier occupational exposure , but were not associated with fresh water fish consumption .
+In general , the results support a consistent and long-duration trend of increased PCB body burden in this cohort of former capacitor workers compared with non-occupationally exposed individuals .
+The results may aid in further understanding the toxicological/epidemiological consequences of exposure to PCBs in humans .

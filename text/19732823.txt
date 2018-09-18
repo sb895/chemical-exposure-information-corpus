@@ -1,0 +1,8 @@
+To scrutinize whether the provisional tolerable weekly intake ( PTWI , 3.4 microg/kg body weight/week ) of methylmercury in Japan is safe for adults , we conducted an intervention study using heart rate variability ( HRV ) that has been considered to reflect cardiac events .
+Fifty-four healthy volunteers were recruited and divided into experimental and control groups .
+The experimental group was exposed to methylmercury at the PTWI level through consumption of bigeye tuna and swordfish for 14 weeks , and HRV parameters were compared between the two groups .
+In the experimental group , mean hair mercury levels , determined before and after the dietary methylmercury exposure and after 15-week wash-out period following the cessation of exposure , were 2.30 , 8.76 and 4.90 microg/g , respectively .
+The sympathovagal balance index of HRV was significantly elevated after the exposure , and decreased to the baseline level at the end of this study .
+Still , such changes in HRV parameters were not found in the control group with a mean hair mercury level of around 2.1 microg/g .
+In conclusion , the PTWI does not appear to be safe for adult health , because methylmercury exposure from fish consumption induced a temporary sympathodominant state .
+Rather , long-term exposure to methylmercury may pose a potential risk for cardiac events involving sympathovagal imbalance among fish-consuming populations .

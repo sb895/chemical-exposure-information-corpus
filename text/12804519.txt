@@ -1,0 +1,11 @@
+Sampling of multiple strata , or hierarchical sampling of various exposure sources and activity areas , has been tested and is suggested as a method to sample ( or to locate ) areas with a high prevalence of elevated blood lead in children .
+Hierarchical sampling was devised to supplement traditional soil lead sampling of a single stratum , either residential or fixed point source , using a multistep strategy .
+Blood lead ( n=1141 ) and soil lead ( n=378 ) data collected under the USEPA/UCI Tijuana Lead Project ( 1996-1999 ) were analyzed to evaluate the usefulness of sampling soil lead from background sites , schools and parks , point sources , and residences .
+Results revealed that industrial emissions have been a contributing factor to soil lead contamination in Tijuana .
+At the regional level , point source soil lead was associated with mean blood lead levels and concurrent high background , and point source soil lead levels were predictive of a high percentage of subjects with blood lead equal to or greater than 10 micro g/dL ( pe 10 ) .
+Significant relationships were observed between mean blood lead level and fixed point source soil lead ( r=0.93 ; P<0.05 ; R(2)=0.72 using a quadratic model ) and between residential soil lead and fixed point source soil lead ( r=0.90 ; P<0.05 ; R(2)=0.86 using a cubic model ) .
+This study suggests that point sources alone are not sufficient for predicting the relative risk of exposure to lead in the urban environment .
+These findings will be useful in defining regions for targeted or universal soil lead sampling by site type .
+Point sources have been observed to be predictive of mean blood lead at the regional level ; however , this relationship alone was not sufficient to predict pe 10 .
+It is concluded that when apparently undisturbed sites reveal high soil lead levels in addition to local point sources , dispersion of lead is widespread and will be associated with a high prevalence of elevated blood lead in children .
+Multiple strata sampling was shown to be useful in differentiating among sources by site-specific association to mean blood lead and the prevalence of elevated blood lead at the regional level .

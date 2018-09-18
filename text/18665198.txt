@@ -1,0 +1,9 @@
+Historically , the greatest contributions to airborne asbestos concentrations during brake repair work were likely due to specific , short-duration , dust-generating activities .
+In this paper , the available short-term asbestos air sampling data for mechanics collected during the cleaning and machining of vehicle brakes are evaluated to determine their impact on both short-term and daily exposures .
+The high degree of variability and lack of transparency for most of the short-term samples limit their use in reconstructing past asbestos exposures for brake mechanics .
+However , the data are useful in evaluating how reducing short-term , dust-generating activities reduced long-term exposures , especially for auto brake mechanics .
+Using the short-term dose data for grinding brake linings from these same studies , in combination with existing time-weighted average ( TWA ) data collected in decades after grinding was commonplace in rebuilding brake shoes , an average 8-h TWA of approximately 0.10 f/cc was estimated for auto brake mechanics that performed arc grinding of linings during automobile brake repair ( in the 1960s or earlier ) .
+In the 1970s and early 1980s , a decline in machining activities led to a decrease in the 8-h TWA to approximately 0.063 f/cc .
+Improved cleaning methods in the late 1980s further reduced the 8-h TWA for most brake mechanics to about 0.0021 f/cc .
+It is noteworthy that when compared with the original OSHA excursion level , only 15 of the more than 300 short-term concentrations for brake mechanics measured during the 1970s and 1980s possibly exceeded the standard .
+Considering exposure duration , none of the short-term exposures were above the current OSHA excursion level .

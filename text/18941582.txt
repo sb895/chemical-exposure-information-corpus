@@ -1,0 +1,12 @@
+BACKGROUND Effects of the World Trade Center ( WTC ) disaster on children's respiratory health have not been definitively established .
+OBJECTIVE This report describes respiratory health findings among children who were < 18 years of age on 11 September 2001 ( 9/11 ) and examine associations between disaster-related exposures and respiratory health .
+METHODS Children recruited for the WTC Health Registry ( WTCHR ) included child residents and students ( kindergarten through 12th grade ) in Manhattan south of Canal Street , children who were south of Chambers Street on 9/11 , and adolescent disaster-related workers or volunteers .
+We collected data via computer-assisted telephone interviews in 2003-2004 , with interview by adult proxy for children still < 18 years of age at that time .
+We compared age-specific asthma prevalence with National Health Interview Survey estimates .
+RESULTS Among 3,184 children enrolled , 28% were < 5 years of age on 9/11 ; 34% , 5-11 years ; and 39% , 12-17 years .
+Forty-five percent had a report of dust cloud exposure on 9/11 .
+Half ( 53% ) reported at least one new or worsened respiratory symptom , and 5.7% reported new asthma diagnoses .
+Before 9/11 , age-specific asthma prevalence in enrolled children was similar to national estimates , but prevalence at interview was elevated among enrollees < 5 years of age .
+Dust cloud exposure was associated with new asthma diagnosis ( adjusted odds ratio = 2.3 ; 95% confidence interval , 1.5-3.5 ) .
+CONCLUSIONS Asthma prevalence after 9/11 among WTCHR enrollees < 5 years of age was higher than national estimates , and new asthma diagnosis was associated with dust cloud exposure in all age groups .
+We will determine severity of asthma and persistence of other respiratory symptoms on follow-up surveys .

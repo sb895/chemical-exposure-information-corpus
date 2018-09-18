@@ -1,0 +1,9 @@
+Polychlorinated biphenyls ( PCBs ) , banned in the United Sates in the late 1970s , are still found in indoor and outdoor environments .
+Little is known about the determinants of PCB levels in homes .
+We measured concentrations of five PCB congeners ( 105 , 138 , 153 , 170 , and 180 ) in carpet dust collected between 1998 and 2000 from 1187 homes in four sites : Detroit , Iowa , Los Angeles , and Seattle .
+Home characteristics , occupational history , and demographic information were obtained by interview .
+We used a geographic information system to geocode addresses and determine distances to the nearest major road , freight route , and railroad ; percentage of developed land ; number of industrial facilities within 2 km of residences ; and population density .
+Ordinal logistic regression was used to estimate the associations between the covariates of interest and the odds of PCB detection in each site separately .
+Total PCB levels [ all congeners < maximum practical quantitation limit ( MPQL ) vs at least one congener \u2265 MPQL to < median concentration vs at least one congener > median concentration ] were positively associated with either percentage of developed land [ odds ratio ( OR ) range 1.01-1.04 for each percentage increase ] or population density ( OR 1.08 for every 1000/mi(2) ) in each site .
+The number of industrial facilities within 2 km of a home was associated with PCB concentrations ; however , facility type and direction of the association varied by site .
+Our findings suggest that outdoor sources of PCBs may be significant determinants of indoor concentrations .

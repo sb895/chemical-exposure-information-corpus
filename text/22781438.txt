@@ -1,0 +1,8 @@
+Human exposure to preformed dialkylphosphates ( DAPs ) in food or the environment may affect the reliability of DAP urinary metabolites as biomarkers of organophosphate ( OP ) pesticide exposure .
+We conducted a study to investigate the presence of DAPs in indoor residential environments and their association with children's urinary DAP levels .
+We collected dust samples from homes in farmworker and urban communities ( 40 homes total , n=79 samples ) and up to two urine samples from resident children ages 3-6 years .
+We measured six DAPs in all samples and eight DAP-devolving OP pesticides in a subset of dust samples ( n=54 ) .
+DAPs were detected in dust with diethylphosphate ( DEP ) being the most frequently detected ( \u226560% ) ; detection frequencies for other DAPs were \u226450% .
+DEP dust concentrations did not significantly differ between communities , nor were concentrations significantly correlated with concentrations of chlorpyrifos and diazinon , the most frequently detected diethyl-OP pesticides ( Spearman \u03c1=-0.41 to 0.38 , P>0.05 ) .
+Detection of DEP , chlorpyrifos , or diazinon , was not associated with DEP and/or DEP+diethylthiophosphate detection in urine ( Kappa coefficients=-0.33 to 0.16 ) .
+Finally , estimated non-dietary ingestion intake from DEP in dust was found to be \u22645% of the dose calculated from DEP levels in urine , suggesting that ingestion of dust is not a significant source of DAPs in urine if they are excreted unchanged .

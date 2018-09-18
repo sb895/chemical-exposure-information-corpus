@@ -1,0 +1,11 @@
+Acrylamide ( AA ) is a probable human carcinogen found in several foods .
+Little information is available regarding exposure of adolescents , a subgroup potentially consuming more AA-rich foods .
+We investigated the relationship between dietary AA intake and levels of biomarkers of exposure ( urinary metabolites and hemoglobin adducts ) in 195 non-smoking teenagers of Montreal Island aged 10-17 years .
+Dietary habits and personal characteristics were documented by questionnaire .
+AA and its metabolites were quantified in 12-h urine collections by LC-MS/MS .
+Hemoglobin adducts from 165 blood samples were also analyzed by LC-MS/MS .
+Most prevalent urinary metabolites were NACP and NACP-S , with respective geometric mean concentrations of 31.2 and 14.2\u2009\u03bcmol/mol creatinine .
+Geometric mean concentrations of AAVal and GAVal ( hemoglobin adducts of AA and glycidamide ( GA ) with N-terminal valine residues ) were 45.4 and 45.6\u2009pmol/g globin , respectively .
+AA intake during the 2 days before urine collection was a significant predictor of NACP+NACP-S urinary concentrations ( P<0.0001 ) .
+AA intakes during the month before blood collection ( P<0.0001 ) and passive smoking ( P<0.05 ) were associated with adduct levels .
+Levels of hemoglobin adducts were above biomonitoring equivalent values corresponding to a 1 × 10(-4) excess cancer risk , which may indicate the need to reduce AA exposure in the population .

@@ -1,0 +1,14 @@
+We investigated the evidence of a familial contribution to urinary methylation patterns in families ingesting arsenic in drinking water .
+Arsenic methylation can be assessed by measuring urinary levels of inorganic arsenic ( InAs ) and its methylated metabolites , monomethylarsonate ( MMA ) , and dimethylarsinate ( DMA ) .
+Methylation activity is reflected in the ratios : InAs/methylated arsenic ( InAs/metAs ) and MMA/DMA .
+Eleven families from Chile were selected because of their long-term exposure to very high levels of arsenic in drinking water ( 735-762 microg/L ) .
+Each family consisted of a father , a mother , and two children .
+We measured urinary arsenic and its methylated metabolites for each participant ( n = 44 ) .
+The intraclass correlation coefficients showed that 13-52% of the variations in the methylation patterns were from being a member of a specific family .
+Family correlations were calculated for father-mother , parent-child , and sibling-sibling pairs .
+Methylation patterns correlated strongly between siblings [ r = 0.78 for InAs/metAs , 95% confidence interval ( CI ) , 0.34-0.94 ; r = 0.82 for MMA/DMA , 95%CI , 0.43-0.95 ] compared to lower correlations in father-mother pairs ( r = 0.18 , r = -0.01 , respectively ) , after adjustment for total urinary arsenic , age , and sex .
+Family correlations were not notably altered when adjustments were made for specific blood micronutrients ( methionine , homocysteine , folate , vitamin B6 , selenium , and vitamin B12 potentially related to methylation .
+We also report on a family pedigree with high prevalence of arsenic-induced effects .
+Participants from this family had low InAs/metAs values , which is consistent with increased toxicity of trivalent methylated arsenic species .
+Despite our small sample size , we observed that methylation patterns aggregate in families and are correlated in siblings , providing evidence of a genetic basis for the variation in arsenic methylation .
+Larger studies with more extensive pedigrees will need to be conducted to confirm these findings .

@@ -1,0 +1,9 @@
+Although much is known about the incidence and burden of preterm birth , its biological mechanisms are not well understood .
+While several studies have suggested that high levels of air pollution or exposure to particular climatic factors may be associated with an increased risk of preterm birth , other studies do not support such an association .
+To determine whether exposure to various environmental factors place a large London-based population at higher risk for preterm birth , we analyzed 482,568 births that occurred between 1988 and 2000 from the St. Mary's Maternity Information System database .
+Using an ecological study design , any short-term associations between preterm birth and various environmental factors were investigated using time-series regression techniques .
+Environmental exposures included air pollution ( ambient ozone and PM(10) ) and climatic factors ( temperature , rainfall , sunshine , relative humidity , barometric pressure , and largest drop in barometric pressure ) .
+In addition to exposure on the day of birth , cumulative exposure up to 1 week before birth was investigated .
+The risk of preterm birth did not increase with exposure to the levels of ambient air pollution or meteorological factors experienced by this population .
+Cumulative exposure from 0 to 6 days before birth also did not show any significant effect on the risk of preterm birth .
+This large study , covering 13 years , suggests that there is no association between preterm births and recent exposure to ambient air pollution or recent changes in the weather .

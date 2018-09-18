@@ -1,0 +1,11 @@
+Studies in Taiwan and Argentina suggest that ingestion of inorganic arsenic from drinking water results in increased risks of internal cancers , particularly bladder and lung cancer .
+The authors investigated cancer mortality in a population of around 400,000 people in a region of Northern Chile ( Region II ) exposed to high arsenic levels in drinking water in past years .
+Arsenic concentrations from 1950 to the present were obtained .
+Population-weighted average arsenic levels reached 570 microg/liter between 1955 to 1969 , and decreased to less than 100 microg/liter by 1980 .
+Standardized mortality ratios ( SMRs ) were calculated for the years 1989 to 1993 .
+Increased mortality was found for bladder , lung , kidney , and skin cancer .
+Bladder cancer mortality was markedly elevated ( men , SMR = 6.0 ( 95% confidence interval ( CI ) 4.8-7.4 ) ; women , SMR = 8.2 ( 95% CI 6.3-10.5) ) as was lung cancer mortality ( men , SMR = 3.8 ( 95% CI 3.5-4.1 ) ; women , SMR = 3.1 ( 95% CI 2.7-3.7) ) .
+Smoking survey data and mortality rates from chronic obstructive pulmonary disease provided evidence that smoking did not contribute to the increased mortality from these cancers .
+The findings provide additional evidence that ingestion of inorganic arsenic in drinking water is indeed a cause of bladder and lung cancer .
+It was estimated that arsenic might account for 7% of all deaths among those aged 30 years and over .
+If so , the impact of arsenic on the population mortality in Region II of Chile is greater than that reported anywhere to date from environmental exposure to a carcinogen in a major population .

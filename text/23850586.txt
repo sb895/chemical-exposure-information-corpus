@@ -1,0 +1,12 @@
+Polybrominated diphenyl ethers ( PBDEs ) are present in many consumer goods .
+There is evidence that PBDEs are toxic to humans , particular young children .
+The purpose of this study was to assess indoor dust as an exposure source for PBDEs .
+Concentrations of 16 PBDEs were determined in dust samples from 33 households in New Zealand , and in breast milk samples from 33 mothers living in these households .
+Associations between dust and breast milk PBDE concentrations were assessed , and children's PBDE intake from breast milk and dust estimated .
+Influences of household and demographic factors on PBDE concentrations in dust were investigated .
+Indoor dust concentrations ranged from 0.1ng/g for BDE17 to 2500ng/g for BDE209 .
+Breast milk concentrations were positively correlated ( p<0.05 ) with mattress dust concentrations for BDE47 , BDE153 , BDE154 , and BDE209 and with floor dust for BDE47 , BDE183 , BDE206 , and BDE209 .
+The correlation for BDE209 between dust and breast milk is a novel finding .
+PBDE concentrations in floor dust were lower from households with new carpets .
+The estimated children's daily intake of PBDEs from dust and breast milk was below U.S. EPA Reference Dose values .
+The study shows that dust is an important human exposure source for common PBDE formulations in New Zealand .

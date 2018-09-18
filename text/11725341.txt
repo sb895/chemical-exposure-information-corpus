@@ -1,0 +1,16 @@
+Sensitivity to carcinogens and susceptibility for malignant diseases may be related to genetic predisposition , e.g. polymorphisms in toxicant-metabolizing enzymes or DNA repair deficiencies .
+The latter may also be acquired by exposure to substances that interfere with DNA repair processes .
+Application of the challenge assay to an exposed population may allow scientists to study the interference of DNA repair as an acquired susceptibility phenomenon .
+The assay was therefore used in a feasibility study to evaluate its application .
+A group of 14 workers exposed to low levels of styrene ( mean < 100 mg/m3 styrene in air ; 35 micrograms/l styrene in blood ) and a reference of seven controls were investigated for structural chromosomal aberrations using FISH .
+The rate of exchange-type aberrations per 100 metaphases was 0.14 ( 95% CI , 0.05-0.31 ) in controls and 0.22 ( 95% CI , 0.13-0.36 ) in exposed workers .
+The difference is not statistically significant .
+Interaction with DNA repair was measured in the 14 workers and 2 historical controls using the challenge assay .
+Exchange-type aberrations per 100 metaphases after X-ray challenge of 1.66 Gy were 13.26 ( 10.53-16.50 ) and 16.19 ( 15.00-17.40 ) for the controls and exposed , respectively .
+The difference is statistically significant ( p < 0.038 ) .
+Among the exposed group , the challenge response was also significantly correlated with the cumulative lifetime exposure to styrene ( R2 = 0.3996 ; p < 0.015 ) but not with the current exposure as measured in blood ( R2 = 0.0226 ; p = 0.700 ) .
+The challenge responses in the short-term and long-term exposed subgroups were 15.55 ( 14.23-16.96 ) and 17.90 ( 15.64-20.39 ) , respectively , based on sample sizes of 5 and 9 , respectively .
+The difference was not significant .
+Hence , data from our study are consistent with the hypothesis that long-term exposure to styrene can interfere with DNA repair activities .
+The lack of statistically significant differences in some of the data may be due to the small sample size and a possible confounding by age in our investigation .
+Additional data from our ongoing study should clarify this uncertainty .

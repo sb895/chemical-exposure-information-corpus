@@ -1,0 +1,6 @@
+BACKGROUND Millions of people worldwide are exposed to arsenic in drinking water , and many are likely coexposed to other agents that could substantially increase their risks of arsenic-related cancer .
+METHODS We performed a case-control study of multiple chemical exposures in 538 lung and bladder cancer cases and 640 controls in northern Chile , an area with formerly high drinking water arsenic concentrations .
+Detailed information was collected on lifetime arsenic exposure , smoking , secondhand smoke , and other known or suspected carcinogens , including asbestos , silica , and wood dust .
+RESULTS Very high lung and bladder cancer odds ratios ( ORs ) , and evidence of greater than additive effects , were seen in people exposed to arsenic concentrations >335 µg/L and who were tobacco smokers ( OR = 16 , 95% confidence interval = 6.5-40 for lung cancer ; and OR = 23 [ 8.2-66 ] for bladder cancer ; Rothman Synergy Indices = 4.0 [ 1.7-9.4 ] and 2.0 [ 0.92-4.5 ] , respectively ) .
+Evidence of greater than additive effects were also seen in people coexposed to arsenic and secondhand tobacco smoke and several other known or suspected carcinogens , including asbestos , silica , and wood dust .
+CONCLUSIONS These findings suggest that people coexposed to arsenic and other known or suspected carcinogens have very high risks of lung or bladder cancer .

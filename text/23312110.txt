@@ -1,0 +1,12 @@
+BACKGROUND Despite growing concern over potential health effects associated with exposures to the endocrine disruptor , bisphenol A ( BPA ) , insufficient information is available on determinants of BPA concentrations among minority populations in the US .
+OBJECTIVES To describe concentrations and predictors of BPA in an inner-city longitudinal birth cohort .
+METHODS We analyzed spot urines for total BPA collected during pregnancy and child ages 3 , 5 , and 7 years from African Americans and Dominicans ( n=568 ) enrolled in the Columbia Center for Children's Environmental Health birth cohort and residing in Northern Manhattan and the South Bronx .
+Adjusting for specific gravity , generalized estimating equations were used to compare BPA concentrations across paired samples and linear regression analyses were used to determine relationships between BPA , season of sample collection , socio-demographic variables and urinary concentrations of phthalate metabolites .
+RESULTS BPA was detected in \u2265 94% of samples .
+Prenatal concentrations were significantly lower than postnatal concentrations .
+Geometric means were higher among African Americans compared to Dominicans in prenatal ( p=0.008 ) , 5 year ( p<0.001 ) and 7 year ( p=0.017 ) samples .
+Geometric means at 5 and 7 years were higher ( p=0.021 , p=0.041 respectively ) for children of mothers never married compared to mothers ever married at enrollment .
+BPA concentrations were correlated with phthalate metabolite concentrations at prenatal , 3 , 5 and 7 years ( p-values <0.05 ) .
+Postnatal BPA concentrations were higher in samples collected during the summer .
+CONCLUSIONS This study shows widespread BPA exposure in an inner-city minority population .
+BPA concentration variations were associated with socio-demographic characteristics and other xenobiotics .

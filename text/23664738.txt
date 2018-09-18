@@ -1,0 +1,11 @@
+Pesticide exposure in urban low-income residential environments may be elevated as a result of persistent application due to severe pest infestation .
+Children living in this environment may be a sensitive subpopulation for these non-dietary exposures , due to their physiological and behavioral differences .
+In this study , we provide an exposure modeling framework to simulate exposures for children in this environment and assess dominant exposure routes and sources of exposure variability , in order to characterize factors that influence risk .
+We use a dataset of pesticide measurements collected in 42 low-income dwellings , including vacuum dust and floor wipe samples from kitchens and living rooms .
+We fit distributions to the concentration measurements for the organophosphates measured , chlorpyrifos and diazinon , and the most prevalent pyrethroids ( permethrin , cypermethrin , and cyfluthrin ) , and simulated 1000 homes from the distributions .
+Concentration measurements were then connected with activity pattern data , short-term dermal and ingestion exposures and absorbed doses were simulated for children ages 1-5 years .
+For both pesticide groups , exposure values ranged widely , with concentration values contributing most significantly to exposure variability , although approximately 20-fold variability was attributable to exposure factors alone .
+In addition , upper percentile exposed children usually had both higher concentrations as well as greater influences from exposure and dose factors .
+Differences were also seen across pesticide groups in dominant exposure pathways .
+Our analyses indicate a profile of factors that describe individuals likely to receive high doses of one or multiple pesticides and could allow for more targeted intervention strategies .
+More generally , this work provides a standard framework to evaluate and describe exposures to prevalent residential pesticides via multiple pathways .

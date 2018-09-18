@@ -1,0 +1,6 @@
+OBJECTIVE The objective of this study was to study the impact of work-related exposure to mainly arsenic and lead versus smoking in primary smelter workers developing lung cancer .
+METHODS In a cohort of 3979 primary smelter workers , 46 subjects had contracted respiratory malignancies .
+They were compared with 141 age-matched male referents by conditional logistic regression analysis .
+RESULTS Cases showed a significantly higher smoking rate as compared with referents : odds ratio ( OR ) = 4.0 ; 95% confidence interval ( CI ) = 1.6-10.1 ; P = 0.003 .
+When restricted to smokers ( 33 cases , 63 referents ) , the cumulative air arsenic exposure index , but not the lead exposure indices , was significantly higher among the cases : OR = 1.07 ; 95% CI = 1.02-1.11 ; P = 0.005 .
+CONCLUSIONS Cumulative arsenic exposure and smoking were identified as risk factors for the development of lung cancer ; lead exposure , however , was not .

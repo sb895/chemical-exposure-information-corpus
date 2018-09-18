@@ -1,0 +1,10 @@
+In this paper we evaluated the possibility to assess occupational exposure to polycyclic aromatic hydrocarbons ( PAHs ) measuring unmetabolized PAHs in urine .
+With this aim , 24 road paving ( RP ) workers , exposed to bitumen fumes , and 6 road construction workers ( CW ) , exposed to diesel exhausts , were investigated .
+Median personal exposure to low boiling PAHs ( from naphthalene to pyrene ) during the work shift ranged from 0.5 to 369 ng/m(3) , with naphthalene as the most abundant compound .
+Three urine samples were collected for each worker : baseline ( after 2 days of vacation ) , before- and end-shift samples ( in the second part of the work week ) .
+The following urinary compounds were measured by headspace-solid phase microextraction GC/MS : naphthalene ( U-NAP ) , acenaphthylene ( U-ACY ) , acenaphthene ( U-ACE ) , fluorene ( U-FLE ) , phenanthrene ( U-PHE ) , anthracene ( U-ANT ) , fluoranthene ( U-FLU ) , pyrene ( U-PYR ) .
+Urinary PAHs were detected in almost all samples .
+Median levels for U-NAP , U-PHE , U-PYR and U-FLE in end-shift samples were 82 , 48 , 54 and 21 ng/L in RP and 69 , 14 , 24 and 15 ng/L in CW , respectively .
+Significant differences in the levels of U-PHE , U-FLU and U-PYR were found between RP and CW ( p<0.05 ) .
+Moreover in RP samples the urinary excretion of most analytes increased during the work shift ( p<0.05 ) .
+These results suggest that urinary PAHs may be useful biomarkers of occupational exposure .

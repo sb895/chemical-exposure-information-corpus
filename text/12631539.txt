@@ -1,0 +1,7 @@
+The authors studied the association between incidence of primary cardiac arrest and daily measures of fine particulate matter ( </=2.5 micro m ) using a case-crossover study of 1,206 Washington State out-of-hospital cardiac arrests ( 1985-1994 ) among persons with ( n = 774 ) and without ( n = 432 ) clinically recognized heart disease .
+The authors compared particulate matter levels on the day of the cardiac event and the 2 days preceding the event with levels from matched reference days .
+The estimated relative risk for a 13.8- micro g/m(3) increase in fine particulate matter ( nephelometry : 0.54 x 10(-1) km(-1 )bsp ) on the day prior to cardiac arrest was 0.94 ( 95% confidence interval : 0.88 , 1.02 ) .
+Pollutant levels measured on the same day as the event and on the 2 days preceding the event demonstrated similar results .
+No increased risk was found among all cases with preexisting cardiac disease ( odds ratio = 0.97 , 95% confidence interval : 0.89 , 1.07 ) ; however , an unexpected association appeared between current smokers with preexisting heart disease and increased particulate matter levels 2 days prior to the event ( odds ratio = 1.29 , 95% confidence interval : 1.06 , 1.55 ) .
+This association was not present in the 0- or 1-day lag analyses or in persons with other diseases .
+There was no consistent association between increased levels of fine particulate matter and risk of primary cardiac arrest .

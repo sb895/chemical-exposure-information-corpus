@@ -1,0 +1,14 @@
+BACKGROUND Perfluorooctanesulfonate ( PFOS ) was used as a surfactant in various commercial products .
+In rodents , exposure to this compound induced various health effects , including hypolipidemia .
+In human populations , the potential toxicity of PFOS is not yet fully characterized , but indications of effects on lipids are reported .
+A recent study reported an increase in plasma cholesterol associated with exposure to perfluorinated compounds in humans exposed through drinking water , but similar effects were not reported in all exposed human populations .
+PFOS is widely distributed in the environment , including the arctic biota .
+The Inuit of Nunavik are exposed to environmental contaminants through the consumption of fish and game .
+This diet is also a source of omega3-polyunsaturated fatty acids ( n-3 PUFAs ) that are known to lower plasma triacylglycerols .
+OBJECTIVE This cross-sectional epidemiologic study aims at assessing the relationship between PFOS exposure and plasma lipids , while taking account of the concomitant hypolipidemic effect exerted by n-3 PUFAs .
+METHODS Plasma concentrations of PFOS and lipids were assessed in Nunavik Inuit adults ( n=723 ) in the framework of a large-scale environmental health study .
+Associations of exposure levels to age , gender and selected wild food consumption associated with n-3 PUFAs intake , as well as the exposure on lipid levels were investigated by multivariate linear modeling .
+RESULTS In the Inuit population , PFOS exposure and n-3 PUFAs intake are related to traditional food consumption .
+Triacylglycerol and ratio of total cholesterol to high density lipoprotein cholesterol ( HDL-C ) levels were negatively associated with PFOS plasma levels , while HDL-C levels were positively associated , after adjustment for circulating levels of n-3 PUFAs and for the interaction between gender and PFOS plasma levels .
+Other plasma lipids , such as low density lipoprotein-cholesterol and non-HDL-C were not related to PFOS plasma concentrations .
+CONCLUSION The results of this study show a relationship between PFOS and plasma lipid levels in an environmentally exposed human population , and this effect appears distinct from that of n-3 PUFAs .

@@ -1,0 +1,10 @@
+BACKGROUND Arsenic , cadmium , mercury , and lead are associated with cardiovascular disease in epidemiologic research .
+These associations may be mediated by direct effects of the metals on blood pressure ( BP ) elevation .
+Manganese is associated with cardiovascular dysfunction and hypotension in occupational cohorts .
+OBJECTIVES We hypothesized that chronic arsenic , cadmium , mercury , and lead exposures elevate BP and that manganese lowers BP .
+METHODS We conducted a cross-sectional analysis of associations between toenail metals and BP among older men from the Normative Aging Study ( n = 639 ) , using linear regression and adjusting for potential confounders .
+RESULTS An interquartile range increase in toenail arsenic was associated with higher systolic BP [ 0.93 mmHg ; 95% confidence interval ( CI ) : 0.25 , 1.62 ] and pulse pressure ( 0.76 mmHg ; 95% CI : 0.22 , 1.30 ) .
+Positive associations between arsenic and BP and negative associations between manganese and BP were strengthened in models adjusted for other toenail metals .
+CONCLUSIONS Our findings suggest associations between BP and arsenic and manganese .
+This may be of public health importance because of prevalence of both metal exposure and cardiovascular disease .
+Results should be interpreted cautiously given potential limitations of toenails as biomarkers of metal exposure .

@@ -1,0 +1,9 @@
+Background exposure to persistent organic pollutants ( POPs ) , lipophilic xenobiotics that accumulate mainly in adipose tissue , has recently emerged as a new risk factor for cardiovascular diseases .
+This prospective study was performed to evaluate if plasma concentrations of selected POPs predict incident stroke among the elderly .
+Twenty-one POPs ( including 16 polychlorinated biphenyl ( PCB ) congeners , 3 organochlorine ( OC ) pesticides , 1 brominated diphenyl ether ( BDE ) , and 1 dioxin ) were measured in plasma collected at baseline in 898 participants aged 70 years of the Prospective Investigation of the Vasculature in Uppsala Seniors ( PIVUS ) .
+Stroke diagnosis was validated by hospital records .
+During the five year follow-up , 35 subjects developed hospital-treated stroke .
+After adjusting for known stroke risk factors , most PCBs with 4 , 5 , or 6 chlorine atoms , p,p'-DDE , trans-nonachlor , and octachlorodibenzo-p-dioxin significantly predicted the risk of stroke .
+Across quartiles of summary measures of PCBs and OC pesticides , the adjusted ORs were 1.0 , 0.8 ( 95% confidence interval : 0.2-2.5 ) , 1.2 ( 0.4-3.4 ) , and 2.1 ( 0.7-6.2 ) for PCBs and 1.0 , 1.2 ( 0.3-4.2 ) , 2.3 ( 0.7-6.9 ) , and 3.0 ( 1.0-9.4 ) for OC pesticides ( P for trend=0.11 and 0.03 , respectively ) .
+The adjusted ORs among participants \u2265 90th percentile of the summary measures were 5.5 ( 1.7-18.1 ) for PCBs and 4.0 ( 1.1-14.6 ) for OC pesticides ; corresponding ORs for those \u2265 95th percentile were 7.8 ( 2.1-29.6 ) and 9.5 ( 2.3-38.9 ) .
+Background exposure to POPs may play an important role in development or progression of stroke in the elderly .

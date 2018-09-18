@@ -1,0 +1,8 @@
+BACKGROUND Numerous studies have linked criteria air pollutants with adverse birth outcomes , but there is less information on the importance of specific emission sources , such as traffic , and air toxics .
+OBJECTIVES We used three exposure data sources to examine odds of term low birth weight ( LBW ) in Los Angeles , California , women when exposed to high levels of traffic-related air pollutants during pregnancy .
+METHODS We identified term births during 1 June 2004 to 30 March 2006 to women residing within 5 miles of a South Coast Air Quality Management District ( SCAQMD ) Multiple Air Toxics Exposure Study ( MATES III ) monitoring station .
+Pregnancy period average exposures were estimated for air toxics , including polycyclic aromatic hydrocarbons ( PAHs ) , source-specific particulate matter < 2.5 \u03bcm in aerodynamic diameter ( PM2.5 ) based on a chemical mass balance model , criteria air pollutants from government monitoring data , and land use regression ( LUR ) model estimates of nitric oxide ( NO ) , nitrogen dioxide ( NO2 ) and nitrogen oxides ( NOx ) .
+Associations between these metrics and odds of term LBW ( < 2,500 g ) were examined using logistic regression .
+RESULTS Odds of term LBW increased approximately 5% per interquartile range increase in entire pregnancy exposures to several correlated traffic pollutants : LUR measures of NO , NO2 , and NOx , elemental carbon , and PM2.5 from diesel and gasoline combustion and paved road dust ( geological PM2.5 ) .
+CONCLUSIONS These analyses provide additional evidence of the potential impact of traffic-related air pollution on fetal growth .
+Particles from traffic sources should be a focus of future studies .

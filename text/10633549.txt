@@ -1,0 +1,5 @@
+This study presents a pharmacokinetic modeling of inorganic arsenic disposition in human body for short-term oral exposures .
+Effort on the development of the model is directed toward the prediction of the kinetic behavior of inorganic arsenic and its metabolites in the body .
+The current model considers the 4 circulating species ; AsIII , AsV , and two metabolites such as monomethylarsenic ( MMA ) and dimethylarsenic ( DMA ) in the blood and tissue groups .
+While it is difficult to estimate some parameters used in the models at this time , the current model assumptions and predictions seem to be consistent with the experimental observations found in the literature .
+Hence , the current model , when more fully developed , is expected to provide insight into the behavior of inorganic arsenic and its methylated metabolites within the body , and may help increase the understanding of risk assessment issues associated with inorganic arsenic in drinking water .

@@ -1,0 +1,11 @@
+BACKGROUND Evidence suggests that air pollution exposure adversely affects pregnancy outcomes .
+Few studies have examined individual-level intraurban exposure contrasts .
+OBJECTIVES We evaluated the impacts of air pollution on small for gestational age ( SGA ) birth weight , low full-term birth weight ( LBW ) , and preterm birth using spatiotemporal exposure metrics .
+METHODS With linked administrative data , we identified 70,249 singleton births ( 1999-2002 ) with complete covariate data ( sex , ethnicity , parity , birth month and year , income , education ) and maternal residential history in Vancouver , British Columbia , Canada .
+We estimated residential exposures by month of pregnancy using nearest and inverse-distance weighting ( IDW ) of study area monitors [ carbon monoxide , nitrogen dioxide , nitric oxide , ozone , sulfur dioxide , and particulate matter < 2.5 ( PM2.5 ) or < 10 ( PM10 ) microm in aerodynamic diameter ] , temporally adjusted land use regression ( LUR ) models ( NO , NO2 , PM2.5 , black carbon ) , and proximity to major roads .
+Using logistic regression , we estimated the risk of mean ( entire pregnancy , first and last month of pregnancy , first and last 3 months ) air pollution concentrations on SGA ( < 10th percentile ) , term LBW ( < 2,500 g ) , and preterm birth .
+RESULTS Residence within 50 m of highways was associated with a 22% ( 95% CI , 0.81-1.87 ) [ corrected ] increase in LBW .
+Exposure to all air pollutants except O3 was associated with SGA , with similar odds ratios ( ORs ) for LUR and monitoring estimates ( e.g. , LUR : OR = 1.02 ; 95% CI , 1.00-1.04 ; IDW : OR = 1.05 ; 95% CI , 1.03-1.08 per 10-microg/m3 increase in NO ) .
+For preterm births , associations were observed with PM2.5 for births < 37 weeks gestation ( and for other pollutants at < 30 weeks ) .
+No consistent patterns suggested exposure windows of greater relevance .
+CONCLUSION Associations between traffic-related air pollution and birth outcomes were observed in a population-based cohort with relatively low ambient air pollution exposure .

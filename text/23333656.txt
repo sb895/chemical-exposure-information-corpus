@@ -1,0 +1,12 @@
+Concentrations of persistent organochlorine compounds ( OCs ) including polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and polychlorinated biphenyls ( PCBs ) in the liver and adipose tissue of Japanese cadavers were measured , and their toxicokinetics were examined in association with hepatic cytochrome P450 ( CYP ) 1A protein expression levels .
+Total 2,3,7,8-tetrachlorodibenzo-p-dioxin toxic equivalents ( TEQs ) were 66±74 and 65±57 pg/g lipid weight ( mean±S.D. ) in the liver and adipose tissue , respectively .
+Total PCBs ( sum of 62 congeners targeted ) , p,p'-dichlorodiphenyl-dichloroethylene ( p,p'-DDE ) and \u03b2-hexachlorocyclohexane ( \u03b2-HCH ) were detected at concentrations over 1 \u03bcg/g lipid in both tissues of some specimens .
+For most of the dioxin-like congeners , total PCBs , p,p'-DDE , oxychlordane , \u03b1- and \u03b2-HCH , hexachlorobenzene ( HCB ) , and tris(4-chlorophenyl)methane ( TCPMe ) , age-dependent increases in concentrations were found in the adipose tissue of males .
+No such age-dependent trend was observed in the liver , suggesting that there are different mechanisms underlying the hepatic concentrations of OCs .
+Immunoblot analyses indicated detectable expression of hepatic CYP1A2 protein , whereas no CYP1A1 protein was detected .
+The CYP1A2 expression levels were positively correlated with concentrations ( on wet weight basis ) of 2,3,4,7,8-P\u2085CDF , the dominant TEQ-contributed congeners in the liver , indicating the induction of this CYP .
+Hepatic CYP1A2 protein levels were strongly correlated with the liver to adipose concentration ( L/A ) ratios of PCDD/F congeners with more than 5 chlorine atoms .
+Together with higher concentrations of the congeners in the liver than in the adipose tissue , the observation on L/A ratios of highly chlorinated PCDD/Fs suggests that induced hepatic CYP1A2 protein is involved in their sequestration in this human population , as observed in model animals ( rodents ) .
+Nonetheless , the magnitude of hepatic sequestration ( L/A ratio ) of PCDD/Fs in this human population was lower than in other mammals and birds , reported previously .
+This study emphasizes the fact that toxicokinetics of some OCs can be affected at least partly by CYP1A2 protein levels in humans .
+For the extrapolation of their toxicokinetics from model animals to humans , knowledge on the induction and sequestration potencies of CYP1A is necessary .

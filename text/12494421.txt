@@ -1,0 +1,9 @@
+BACKGROUND This study , a component of the International Agency for Research on Cancer ( IARC ) Multicentric Study on Cancer Risk Among European Asphalt Workers , aimed at identifying major mortality risks among workers in Finnish road paving companies .
+METHODS The Finnish cohort was comprised of 9,643 men and women from six road paving companies .
+The mortality of men employed during at least one season ( 5,676 ) was followed up from 1964 until end of 1994 ; an average of 17 years .
+Standardized mortality ratios ( SMR ) and relative risks ( RR ) , the latter based on multivariate Poisson regression models were estimated by occupational group and by various metrics of occupational exposures .
+RESULTS All-cause mortality was elevated ( SMR 1.11 , 95% confidence interval , CI 1.03-1.20 ) , mainly due to excesses in accidents , poisonings , and violence ( 1.29 ; CI 1.12-1.49 ) , and lung cancer ( 1.38 ; 1.03-1.81 ) .
+Workers exposed to bitumen fumes had a slightly elevated mortality from lung cancer ( 1.16 ; 0.69-1.83 ) .
+Multivariate Poisson regression models with 15-year lag period suggested trends by cumulative exposure to coal tar , organic vapors , silica dust , diesel exhaust , and bitumen fume .
+CONCLUSIONS The elevated mortality from external causes among Finnish building/ground construction workers was probably due to living conditions and related lifestyles .
+Some evidence was found for a risk of lung cancer due to occupational exposure , but the confirmation of these findings would require a longer follow-up and improved control for confounding .

@@ -1,0 +1,11 @@
+A comparative evaluation of urinary biomarkers was carried out to characterize benzene exposure in a group of 100 traffic policemen of the city of Parma ( Italy ) .
+All subjects were monitored once , in two consecutive days characterized by similar climatic conditions but preceded by two windy days .
+Benzene ambient concentration measured by municipal air monitoring stations was 1 microg/m(3) ( Day 1 ) and 2 microg/m3 ( Day 2 ) .
+Personal exposure to ambient concentrations of benzene , toluene , ethylbenzene and xylene ( BTEX ) was assessed by using Radiello((R)) passive-diffusive samplers in a subgroup of 24 workers .
+Benzene metabolites , t,t-muconic acid ( t,t-MA ) and S-phenylmercapturic acid ( S-PMA ) were determined by isotopic dilution liquid chromatography-tandem mass spectrometry on spot urine samples collected at the end of the shift .
+Urinary benzene ( U-B ) was determined by solid-phase microextraction gas chromatography-mass spectrometry .
+Airborne benzene concentration expressed as median [ and interquartile range ] was 6.07 [ 0.28-9.53 ] microg/m(3) , as assessed by personal sampling .
+Urinary concentrations of biomarkers in the whole group were 41.8 [ 34.1-89.8 ] microg/g creatinine for t,t-MA , 0.67 [ 0.23-1.32 ] microg/g creatinine for S-PMA , and 0.16 [ 0.13-0.26 ] microg/l for U-B .
+Smokers eliminated significantly higher concentrations of unchanged BTEX and benzene metabolites than non-smokers ( p < 0.05 ) .
+When traffic policemen were distinguished into indoor ( n=31 ) and outdoor workers , no significant differences were observed for either airborne benzene or urinary biomarkers .
+Significantly lower concentrations of S-PMA and U-B were determined in samples collected at Day 1 as compared to Day 2 ( p < 0.0001 and p = 0.003 , respectively ) suggesting that these biomarkers are enough sensitive and specific to detect changes in airborne benzene concentration even at few microg/m(3) .

@@ -1,0 +1,14 @@
+Methylmercury is a neurotoxin at high exposures , and the developing fetus is particularly susceptible .
+Because exposure to methylmercury is primarily through fish , concern has been expressed that the consumption of fish by pregnant women could adversely affect their fetuses .
+The reference dose for methylmercury established by the U.S. Environmental Protection Agency was based on a benchmark analysis of data from a poisoning episode in Iraq in which mothers consumed seed grain treated with methylmercury during pregnancy .
+However , exposures in this study were short term and at much higher levels than those that result from fish consumption .
+In contrast , the Agency for Toxic Substances and Disease Registry ( ATSDR ) based its proposed minimal risk level on a no-observed-adverse-effect level ( NOAEL ) derived from neurologic testing of children in the Seychelles Islands , where fish is an important dietary staple .
+Because no adverse effects from mercury were seen in the Seychelles study , the ATSDR considered the mean exposure in the study to be a NOAEL .
+However , a mean exposure may not be a good indicator of a no-effect exposure level .
+To provide an alternative basis for deriving an appropriate human exposure level from the Seychelles study , we conducted a benchmark analysis on these data .
+Our analysis included responses from batteries of neurologic tests applied to children at 6 , 19 , 29 , and 66 months of age .
+We also analyzed developmental milestones ( age first walked and first talked ) .
+We explored a number of dose-response models , sets of covariates to include in the models , and definitions of background response .
+Our analysis also involved modeling responses expressed as both continuous and quantal data .
+The most reliable analyses were considered to be represented by 144 calculated lower statistical bounds on the benchmark dose ( BMDLs ; the lower statistical bound on maternal mercury hair level corresponding to an increase of 0.1 in the probability of an adverse response ) derived from the modeling of continuous responses .
+The average value of the BMDL in these 144 analyses was 25 ppm mercury in maternal hair , with a range of 19 to 30 ppm .

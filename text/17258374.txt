@@ -1,0 +1,8 @@
+It has previously been reported that heat-treated carbohydrate rich foods may contain high levels of acrylamide resulting in consumers being inadvertently exposed to acrylamide .
+Acrylamide is mainly excreted in the urine as mercapturic acid derivatives of acrylamide and glycidamide .
+In a clinical study comprising of 53 subjects , the urinary excretion of these metabolites was determined using solid-phase extraction and liquid chromatography with positive electrospray MS/MS detection .
+The median ( range ) total excretion of acrylamide in urine during 24 h was 16 ( 7-47 ) microg acrylamide for non-smokers and 74 ( 38-106 ) microg acrylamide for smokers , respectively .
+It was found that the median intake estimate in the study based on 24 h dietary recall was 21 ( 13-178 ) and 26 ( 12-67 ) for non-smokers and smokers , respectively .
+The median dietary exposure to acrylamide was estimated to be 0.47 ( range 0.17-1.16 ) microg/kg body weight per day .
+In a multiple linear regression analysis , the urinary excretion of acrylamide metabolites correlated statistically significant with intake of aspartic acid , protein , starch and coffee .
+Consumption of citrus fruits correlated negatively with excretion of acrylamide metabolites .

@@ -1,0 +1,14 @@
+We analysed urine samples from the 2001/2002 pilot study of the German Environmental Survey on Children ( GerES IV ) for the concentrations of the di-n-butylphthalate ( DnBP ) metabolite mono-n-butylphthalate ( MnBP ) and the butlybenzylphthalate ( BBzP ) metabolite mono-benzyl-phthalate ( MBzP ) .
+The study population consisted of 239 children ( 106 boys , 133 girls ) aged between 2 and 14 years ( median 8.5 years ) .
+We applied two calculation models to estimate the daily intake for the two parent phthalates from metabolite excretion .
+One was based on the creatinine-related metabolite concentrations ; the other was based on the volume-related metabolite concentrations .
+Median urinary metabolite concentrations were 174 microg/l ( 136 microg/g creatinine ) for MnBP and 19.7 microg/l ( 15.3 microg/g creatinine ) for MBzP .
+Such levels have been determined in German children before .
+Compared to the USA , German median MnBP levels were about 3-10 times higher , whereas MBzP levels were in the same range .
+Median daily intakes calculated with the creatinine-based model were 4.07 ( range : 0.66-76.4 ; 95th percentile : 14.9 ) microg/kg body weight ( bw)/day for DnBP and 0.42 ( range : 0.06-13.9 ; 95th percentile : 2.57 ) microg/kg bw/day for BBzP .
+Daily intakes calculated with the volume-based model were approximately two times higher with a median of 7.61 ( range : 0.91-110 ; 95th percentile : 30.5 ) microg/kg bw/day for DnBP and a median of 0.77 ( range : 0.05-31.3 ; 95th percentile : 4.48 ) microg/kg bw/day for BBzP .
+Using the creatinine model , 28 ( 11.7% ) of the 239 children exceeded the TDI for DnBP of 10 microg/kg bw/day defined by the European Union .
+Employing the volume model , 89 ( 37.2% ) children exceeded the TDI .
+For BBzP , no preventive limit values ( TDI or RfD ) were exceeded .
+For both phthalates and independent of the model , we found increasing daily intakes with decreasing age .
+Between 25% ( creatinine model ) and 50% ( volume model ) of the 2-4-year old children had daily intakes for DnBP above the TDI .

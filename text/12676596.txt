@@ -1,0 +1,10 @@
+Humans are always exposed to mixtures of polychlorinated biphenyls ( PCBs ) , so assessment of their health effects is complicated .
+Because the original sources are relatively standard mixtures that change in predictable ways while traversing the environment , there is substantial uniformity in the congener mixtures people carry .
+To the extent that concentrations are highly correlated , measuring multiple congeners within correlated groups would be unnecessary and estimation of separate biologic effects would be impossible .
+We examined correlation patterns in previously collected data on 38 congeners ( and 14 other organochlorines ) from 497 human milk samples from Canada from 1992 .
+Congeners 138 , 153 , 156 , 157 , 170 , 183 , 187 , 194 , 199 , and 203 were highly intercorrelated ; 180 had slightly lower correlations with this group .
+Congeners 74 , 105 , and 118 were highly intercorrelated and moderately to highly correlated with the first group .
+Congener 99 had moderate correlations with both these groups , and congener 66 had lesser correlations with the primary group .
+In contrast , congeners 28 , 44 , 49 , 60 , 90/101 , 128 , 137 , and 193 showed little correlation with any other congeners .
+The remaining 14 congeners were uninformative ; they were quantified in fewer than 30% of samples , and varying lipid concentrations meant that those quantified were not necessarily at higher concentrations than those not quantified .
+In study of human health effects of PCBs , the congener pattern present in the population under study should be examined when deciding which congeners to measure ; instead of solely redundant or uninformative congeners , attention should be given to other congeners that may be more useful in addressing the question of interest .

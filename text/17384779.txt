@@ -1,0 +1,9 @@
+BACKGROUND We recently reported results of a cross-sectional investigation of intellectual function in 10-year-olds in Bangladesh , who had been exposed to arsenic from drinking water in their home wells .
+OBJECTIVES We present results of a similar investigation of 301 randomly selected 6-year-olds whose parents participated in our ongoing prospective study of the health effects of As exposure in 12,000 residents of Araihazar , Bangladesh .
+METHODS Water As and manganese concentrations of tube wells at each home were obtained by surveying all study region wells .
+Children and mothers were first visited at home , where the quality of home stimulation was measured , and then seen in our field clinic , where children received a medical examination wherein weight , height , and head circumference were assessed .
+We assessed children's intellectual function using subtests drawn from the Wechsler Preschool and Primary Scale of Intelligence , version III , by summing weighted items across domains to create Verbal , Performance , Processing Speed , and Full-Scale raw scores .
+Children provided urine specimens for measuring urinary As and were asked to provide blood samples for blood lead measurements .
+RESULTS Exposure to As from drinking water was associated with reduced intellectual function before and after adjusting for water Mn , for blood lead levels , and for sociodemographic features known to contribute to intellectual function .
+With covariate adjustment , water As remained significantly negatively associated with both Performance and Processing Speed raw scores ; associations were less strong than in our previously studied 10-year-olds .
+CONCLUSION This second cross-sectional study of As exposure expands our concerns about As neurotoxicity to a younger age group .

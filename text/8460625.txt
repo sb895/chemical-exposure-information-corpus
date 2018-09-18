@@ -1,0 +1,8 @@
+Lead poisoning in childhood is an important public health problem , and thus , it is important to determine how children are exposed to lead .
+In 1987 , the authors conducted an exposure assessment and blood lead screening for children aged 6-71 months living in Leadville , Colorado .
+High levels of lead had been found in the soil as a result of both past mining and smelting activities and natural mineralization .
+Blood was collected from each child for lead analysis , and behavioral characteristics were identified through an interview with a parent or guardian .
+Three sources of exposure to lead were associated with blood lead levels : lead in a core sample taken from the backyard of the family's home , lead brought home on the clothes of a miner , and lead from soldering in the home .
+Two pathways of exposure were associated with blood lead levels : the child swallowing things other than food , and taking food or a bottle outside to play .
+Multivariate regression using these variables found effect modification by age .
+For children aged 6-36 months , only sources of exposure were independent predictors of blood lead levels , while in children aged 37-71 months , a pathway of exposure in addition to sources of exposure independently predicted blood lead levels .

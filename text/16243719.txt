@@ -1,0 +1,9 @@
+Environmental and biological monitoring was carried out in the winter season of 2004 for 30 gasoline station workers ( study subjects ) and 30 office workers ( controls ) of Bangalore city , India .
+Personal air sampling was carried out in the breathing zone of workers using an Anasorb CSC sorbent tube ( SKC 226-01 ) fitted to the low-flow personal samplers ( PCXR4 and pocket pump Model No. 210-1002 ) at a flow rate of 200 ml min(-1) during the shift work of 8 h .
+The benzene content adsorbed in the sorbent tube ( SKC 226-01 ) was desorbed with 1 ml of benzene-free carbon disulfide on a developing vibrator and later analysed by Trace GC fitted with MXT-624 column and flame ionization detector .
+The mean time weighted average benzene concentration found among study and controls was 1.10+/-1.08 and 0.070+/-0.035 mg m(-3) , respectively .
+Biological monitoring for benzene exposure was performed by measuring trans,trans muconic acid ( t,t-MA ) in the end shift urine samples using HPLC-UV technique .
+End-shift urine samples ( 1 ml ) were adjusted to pH 7-9 with phosphate buffer pH 7.4 passed through the preconditioned Q-SAX anion-exchange cartridge and the ( t,t-MA ) is extracted with 10% acetic acid and later analysed by HPLC-UV detection The mean t,t-MA found among study and controls were 563.16+/-281.81 and 266.88+/-110.65 microg g(-1) creatinine .
+About 50% of the study subjects ( 15 ) have higher t,t-MA values than the biological exposure index of the American Conference of Government Industrial Hygienist ( ACGIH ) .
+Correlation is significant at 5% level ( p<0.05 ) between personal air benzene concentration and urinary t,t-MA in the study group .
+Based on these findings , the t,t-MA can be used as a biomarker for benzene exposure .

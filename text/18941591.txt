@@ -1,0 +1,10 @@
+BACKGROUND The question of whether air pollution contributes to asthma onset remains unresolved .
+OBJECTIVES In this study , we assessed the association between asthma onset in children and traffic-related air pollution .
+METHODS We selected a sample of 217 children from participants in the Southern California Children's Health Study , a prospective cohort designed to investigate associations between air pollution and respiratory health in children 10-18 years of age .
+Individual covariates and new asthma incidence ( 30 cases ) were reported annually through questionnaires during 8 years of follow-up .
+Children had nitrogen dioxide monitors placed outside their home for 2 weeks in the summer and 2 weeks in the fall-winter season as a marker of traffic-related air pollution .
+We used multilevel Cox models to test the associations between asthma and air pollution .
+RESULTS In models controlling for confounders , incident asthma was positively associated with traffic pollution , with a hazard ratio ( HR ) of 1.29 [ 95% confidence interval ( CI ) , 1.07-1.56 ] across the average within-community interquartile range of 6.2 ppb in annual residential NO2 .
+Using the total interquartile range for all measurements of 28.9 ppb increased the HR to 3.25 ( 95% CI , 1.35-7.85 ) .
+CONCLUSIONS In this cohort , markers of traffic-related air pollution were associated with the onset of asthma .
+The risks observed suggest that air pollution exposure contributes to new-onset asthma .

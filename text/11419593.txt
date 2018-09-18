@@ -1,0 +1,10 @@
+The object of this study was to investigate the immune system of 19 women with a mean age of 35 years , for at least 2 years ( mean = 13 years ) exposed to electromagnetic fields ( ELMFs ) induced by radiotelevision broadcasting stations in their residential area .
+In September 1999 , the ELMFs ( with range 500 KHz-3 GHz ) in the balconies of the homes of the women were ( mean +/- S.D. ) 4.3 +/- 1.4 V/m .
+Forty-seven women of similar age , smoking habits and atopy composed the control group , with a nearby resident ELMF exposure of < 1.8 V/m .
+Blood lead and urinary trans-trans muconic acid ( a metabolite of benzene ) , markers of exposure to urban traffic , were higher in the control women .
+The ELMF exposed group showed a statistically significant reduction of blood NK CD16+-CD56+ , cytotoxic CD3(-)-CD8+ , B and NK activated CD3(-)-HLA-DR+ and CD3(-)-CD25+ lymphocytes .
+' In vitro ' production of IL-2 and interferon-gamma ( INF-gamma ) by peripheral blood mononuclear cells ( PBMC ) of the ELMF exposed group , incubated either with or without phytohaemoagglutinin ( PHA ) , was significantly lower ; the ' in vitro ' production of IL-2 was significantly correlated with blood CD16+-CD56+ lymphocytes .
+The stimulation index ( S.I. ) of blastogenesis ( ratio between cell proliferation with and without PHA ) of PBMC of ELMF exposed women was lower than that of the control subjects .
+The S.I. of blastogenesis of the ELMF exposed group ( but not blood NK lymphocytes and the ' in vitro ' production of IL-2 and INF-gamma by PBMC ) was significantly correlated with the ELMF levels .
+Blood lead and urinary trans-trans muconic acid were barely correlated with immune parameters : the urinary metabolite of benzene of the control group was only correlated with CD16+-CD56+ cells indicating a slight effect of traffic on the immune system .
+In conclusion , this study demonstrates that high frequency ELMFs reduce cytotoxic activity in the peripheral blood of women without a dose-response effect .

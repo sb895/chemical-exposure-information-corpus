@@ -1,0 +1,12 @@
+BACKGROUND Although studies suggest that exposure to pollutants is associated with race/ethnicity and socio-economic status ( SES ) , many studies are limited to the geographic regions where monitoring stations are located .
+OBJECTIVES This study uses modeled predictive surfaces to examine the relationship between air pollution exposure , race/ethnicity , and measures of SES across the entire State of North Carolina .
+METHODS The daily predictions of particulate matter <2.5 µm in aerodynamic diameter ( PM2.5 ) and ozone ( O3 ) were determined using a spatial model that fused data from two sources : point air monitoring data and gridded numerical output .
+These daily predicted pollution levels for 2002 were linked with Census data .
+We examine the relationship between the census-tract level predicted concentration measures , SES , and racial composition .
+RESULTS SES and race/ethnicity were related to predicted concentrations of both PM2.5 and O3 for census tracts in North Carolina .
+Lower SES and higher proportion minority population were associated with higher levels of PM2.5 .
+An interquartile range ( IQR ) increase of median household income reduced the predicted average PM2.5 level by 0.10 µg/m3 .
+The opposite relationship was true for O3 .
+An IQR increase of median household income increased the predicted average O3 measure by 0.11 ppb .
+CONCLUSIONS The analyses demonstrate that SES and race/ethnicity are related to predicted estimates of PM2.5 and O3 for census tracts in North Carolina .
+These findings offer a baseline for future exposure modeling work involving SES and air pollution for the entire state and not just among the populations residing near monitoring networks .

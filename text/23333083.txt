@@ -1,0 +1,8 @@
+Over the last decades many epidemiologic studies considered the morbidity patterns for respiratory diseases and lung function of children in the context of ambient air pollution usually measured in the postnatal period .
+The main purpose of this study is to assess the impact of prenatal exposure to fine particulate matter ( PM2.5 ) on the recurrent broncho-pulmonary infections in early childhood .
+The study included 214 children who had measurements of personal prenatal PM2.5 exposure and regularly collected data on the occurrence of acute bronchitis and pneumonia diagnosed by a physician from birth over the seven-year follow-up .
+The effect of prenatal exposure to PM2.5 was adjusted in the multivariable logistic models for potential confounders , such as prenatal and postnatal ETS ( environmental tobacco smoke ) , city residence area as a proxy of postnatal urban exposure , children's sensitization to domestic aeroallergens , and asthma .
+In the subgroup of children with available PM2.5 indoor levels , the effect of prenatal exposure was additionally adjusted for indoor exposure as well .
+The adjusted odds ratio ( OR ) for incidence of recurrent broncho-pulmonary infections ( five or more spells of bronchitis and/or pneumonia ) recorded in the follow-up significantly correlated in a dose-response manner with the prenatal PM2.5 level ( OR=2.44 , 95%CI : 1.12-5.36 ) .
+In conclusion , the study suggests that prenatal exposure to PM2.5 increases susceptibility to respiratory infections and may program respiratory morbidity in early childhood .
+The study also provides evidence that the target value of 20\u03bcg/m(3) for the 24-h mean level of PM2.5 protects unborn babies better than earlier established EPA guidelines .

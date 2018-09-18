@@ -1,0 +1,10 @@
+Although genetic polymorphisms have been shown to explain some of the large variation observed in the metabolism of inorganic arsenic there may be several other factors playing an important role , e.g. nutrition .
+The objective of this study was to elucidate the influence of various factors on current arsenic exposure and metabolism in Matlab , a rural area in Bangladesh , where elevated water arsenic concentrations and malnutrition are prevalent .
+In total 1571 individuals , randomly selected from all inhabitants above 5 years of age , were investigated by measuring arsenic in urine and drinking water .
+In a subset of 526 randomly selected individuals , arsenic metabolites were speciated using HPLC coupled to inductively coupled plasma mass spectrometry ( HPLC-HG-ICPMS ) .
+A significant association was observed between arsenic in urine and drinking water ( R2=0.41 ) .
+The contribution to urinary arsenic from arsenic exposure from food and other water sources was calculated to be almost 50microg/L .
+The individuals in the present study had remarkably efficient methylation , in spite of high exposure and prevalence of malnutrition .
+Gender and age were major factors influencing arsenic metabolism in this population with a median of 77microg/L of arsenic in urine ( range : 0.5-1994microg/L ) .
+Women had higher arsenic methylation efficiency than men , but only in childbearing age , supporting an influence of sex hormones .
+Overall , exposure level of arsenic , gender and age explained at most 30% of the variation in the present study , indicating that genetic polymorphisms are the most important factor influencing the metabolism of inorganic arsenic .

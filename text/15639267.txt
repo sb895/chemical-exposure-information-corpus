@@ -1,0 +1,14 @@
+Polychlorinated biphenyls ( PCBs ) were monitored in Belgian human adipose tissue samples from deceased individuals ( n=100 ) .
+Their mean age was 52 , ranging from 2 to 91 years .
+There were 57 men and 43 women .
+Other known variables were date of autopsy and place of residence .
+No information about diet or occupation was available .
+The seven marker congeners PCB 28 , 52 , 101 , 118 , 138 , 153 and 180 were analysed in the samples with a GC-MS/MS method validated according to Commission Decision 2002/657/EC .
+Extracted fat was cleaned-up over a glass column filled with n-hexane , acid silica , deactivated alumina and anhydrous sodium sulfate .
+The whole procedure was subjected to a rigorous quality control programme with retention times , ion chromatograms and intensity ratios of the monitored product ions as identification criteria .
+The total PCB concentration ranged between 10 and 1640 ng g-1 fat , with a mean value of 658 ng g-1 fat .
+In the age groups of 0-9 ( n=1 ) , 10-19 ( n=4 ) , 20-29 ( n=11 ) , 30-39 ( n=13 ) , 40-49 ( n=15 ) , 50-59 ( n=14 ) , 60-69 ( n=14 ) , 70-79 ( n=20 ) , 80-89 ( n=6 ) and 90-99 ( n=2 ) , the mean total PCB concentrations were 10 , 134 , 253 , 445 , 557 , 687 , 807 , 962 , 959 , and 1191 ng g-1 fat , respectively .
+So , there was an increase of PCB body burden with age .
+For the male subjects ( n=57 ; mean age of 53 ) the mean total PCB concentration was 633 ng g-1 fat .
+For the female subjects ( n=43 ; mean age of 52 ) it was 690 ng g-1 fat .
+There was no significant sex-related difference in the concentrations of marker PCBs .

@@ -1,0 +1,13 @@
+Commercial aircrafts need a high degree of fire protection for passenger safety .
+Brominated flame retardants ( BFRs ) , including polybrominated diphenyl ethers ( PBDEs ) , may be used for this purpose .
+Because PBDEs readily absorb to dust particles , aircraft crew and passengers may receive significant PBDEs exposure via inhalation .
+The aims of this work were to assess whether PBDEs could be found in aircraft cabin dust and whether serum levels of PBDEs increased in passengers after long-distance flights .
+Hence nine subjects on intercontinental flights collected cabin dust samples , as well as donated blood samples before departure and after return to Sweden .
+Two subjects who were domestic frequent flyers were also investigated .
+The levels of PBDEs in dust and serum were determined by GC/MS in electron capture negative ionization ( ECNI ) mode .
+Authentic reference substances were used for identification and quantitation .
+PBDEs were found in all aircraft dust samples at high concentrations , higher than in common household dust .
+Congener patterns indicated that the technical products PentaBDE , OctaBDE and DecaBDE were used in the aircrafts .
+Serum concentrations in the travellers were similar to those observed in Swedish residents in general .
+Post-travel serum levels of BDE-28 , BDE-99 , BDE-100 , BDE-153 , and BDE-154 were significantly higher ( p<0.05 ) than concentrations prior to travel .
+The findings from this pilot study call for investigations of occupational exposures to PBDEs in cabin and cockpit crews .

@@ -1,0 +1,10 @@
+OBJECTIVE We previously demonstrated that among 54 infants in neonatal intensive care units , exposure to polyvinyl chloride plastic medical devices containing the plasticizer di(2-ethylhexyl) phthalate ( DEHP ) is associated with urinary concentrations of mono(2-ethylhexyl) phthalate ( MEHP ) , a DEHP metabolite .
+In this follow-up report , we studied the neonates ' exposure to DEHP-containing devices in relation to urinary concentrations of two other DEHP metabolites , and to urinary concentrations of metabolites of dibutyl phthalate ( DBP ) and benzylbutyl phthalate ( BzBP ) , phthalates found in construction materials and personal care products .
+MEASUREMENTS A priori , we classified the intensiveness of these 54 infants ' exposure to DEHP-containing medical products .
+We measured three metabolites of DEHP in infants ' urine : MEHP and two of its oxidative metabolites , mono(2-ethyl-5-hydroxylhexyl) phthalate ( MEHHP ) and mono(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) .
+We also measured monobutyl phthalate ( MBP ) , a metabolite of DBP , and monobenzyl phthalate ( MBzP ) , a metabolite of BzBP .
+RESULTS Intensiveness of DEHP-containing product use was monotonically associated with all three DEHP metabolites .
+Urinary concentrations of MEHHP and MEOHP among infants in the high-DEHP-intensiveness group were 13-14 times the concentrations among infants in the low-intensiveness group ( p</= 0.007 ) .
+Concentrations of MBP were somewhat higher in the medium- and high-DEHP-intensiveness group ; MBzP did not vary by product use group .
+Incorporating all phthalate data into a structural equation model confirmed the specific monotonic association between intensiveness of product use and biologic measures of DEHP .
+CONCLUSION Inclusion of the oxidative metabolites MEHHP and MEOHP strengthened the association between intensiveness of product use and biologic indices of DEHP exposure over that observed with MEHP alone .

@@ -1,0 +1,14 @@
+BACKGROUND Recently , in a cross-sectional study of 201 children in Araihazar , Bangladesh , exposure to arsenic ( As ) in drinking water has been shown to lower the scores on tests that measure children's intellectual function before and after adjustment for sociodemographic features .
+OBJECTIVES We investigated the effects of As and fluoride exposure on children's intelligence and growth .
+METHODS We report the results of a study of 720 children between 8 and 12 years of age in rural villages in Shanyin county , Shanxi province , China .
+The children were exposed to As at concentrations of 142 +/- 106 microg/L ( medium-As group ) and 190 +/- 183 microg/L ( high-As group ) in drinking water compared with the control group that was exposed to low concentrations of As ( 2 +/- 3 microg/L ) and low concentrations of fluoride ( 0.5 +/- 0.2 mg/L ) .
+A study group of children exposed to high concentrations of fluoride ( 8.3 +/- 1.9 mg/L ) but low concentrations of As ( 3 +/- 3 microg/L ) was also included because of the common occurrence of elevated concentrations of fluoride in groundwater in our study area .
+A standardized IQ ( intelligence quotient ) test was modified for children in rural China and was based on the classic Raven's test used to determine the effects of these exposures on children's intelligence .
+A standardized measurement procedure for weight , height , chest circumference , and lung capacity was used to determine the effects of these exposures on children's growth .
+RESULTS The mean IQ scores decreased from 105 +/- 15 for the control group , to 101 +/- 16 for the medium-As group ( p < 0.05 ) , and to 95 +/- 17 for the high-As group ( p < 0.01 ) .
+The mean IQ score for the high-fluoride group was 101 +/- 16 and significantly different from that of the control group ( p < 0.05 ) .
+Children in the control group were taller than those in the high-fluoride group ( p < 0.05 ) ; weighed more than the those in the high-As group ( p < 0.05 ) ; and had higher lung capacity than those in the medium-As group ( p < 0.05 ) .
+CONCLUSIONS Children's intelligence and growth can be affected by high concentrations of As or fluoride .
+The IQ scores of the children in the high-As group were the lowest among the four groups we investigated .
+It is more significant that high concentrations of As affect children's intelligence .
+It indicates that arsenic exposure can affect children's intelligence and growth .

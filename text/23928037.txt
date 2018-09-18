@@ -1,0 +1,10 @@
+OBJECTIVES Emissions of mercury in the environment have been decreasing for several years .
+However , mercury species are still found in different media ( food , water , air and breast-milk ) .
+Due to mercury toxicity and typical behaviour in children , we have conducted a mercury exposure assessment in French babies , and small children aged 0 to 36months .
+METHOD Consumption and mercury concentration data were chosen for the exposure assessment .
+The Monte Carlo technique has been used to calculate the weekly exposure dose in order to integrate inter-individual variability and parameter uncertainty .
+Exposure values have been compared to toxicological reference values for health risk assessment .
+RESULTS Inorganic mercury median exposure levels ranged from 0.160 to 1.649\u03bcg/kg of body weight per week ( 95th percentile ( P95 ) : 0.298-2.027µg/kg bw/week ) ; elemental mercury median exposure level in children was 0.11ng/kg bw/week ( P95 : 28ng/kg bw/week ) ; and methylmercury median exposure level ranged from 0.247 to 0.273µg/kg bw/week ( P95 : 0.425-0.463µg/kg bw/week ) .
+Only elemental mercury by inhalation route ( indoor air ) and methylmercury by ingestion ( fish and breast-milk ) seem to lead to a health risk in small children .
+CONCLUSIONS These results confirm the importance of assessing total mercury concentration in media like breast-milk , indoor air and dust and methylmercury level in food , other than fish and seafood .
+In this way , informed monitoring plan and risk assessment in an at-risk sub-population can be set .

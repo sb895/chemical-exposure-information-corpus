@@ -1,0 +1,12 @@
+BACKGROUND AND OBJECTIVE Long-term exposure to cadmium ( Cd ) causes renal dysfunction , but the change in renal function with exposure is unknown .
+We assessed the evolution of Cd-induced renal effects after a reduction in dietary exposure to Cd in rice .
+METHODS Four hundred twelve residents in previously Cd-polluted and nonpolluted areas were examined twice , in 1998 and in 2006 .
+Changes in blood Cd , urinary Cd , and kidney function [ N-acetyl-\u03b2-d-glucosaminidase ( NAG ) , \u03b22-microglobulin , and albumin in urine ] were measured .
+RESULTS In the most polluted area , mean blood Cd was 8.9 \u03bcg/L and 3.3 \u03bcg/L in 1998 and in 2006 , respectively , and urinary Cd was 11.6 and 9.0 \u03bcg/g creatinine .
+Urinary albumin in 1998 increased with urinary Cd , but no such exposure-response relation appeared for 2006 albumin versus urinary Cd 1998 , indicating recovery .
+Other biomarkers of kidney function were also elevated in 1998 .
+Partial recovery was observed for NAG among women and was suggested for \u03b22-microglobulin among young individuals .
+The probability of having \u03b22-microglobulin levels above the 95th percentile in 2006 was high in those with elevated \u03b22-microglobulin in 1998 [ odds ratio ( OR ) = 24.8 ; 95% confidence interval ( CI ) : 11.2 , 55.3 ] compared with albumin ( OR = 3.0 ; 95% CI : 1.2 , 7.5 ) and NAG ( OR = 2.6 ; 95% CI : 1.6 , 4.4 ) .
+CONCLUSIONS Results suggest that a Cd-mediated increase in urinary albumin excretion is reversible upon substantial reduction of exposure .
+For markers of tubular effects , we observed a tendency toward improvement but not complete recovery .
+Data from repeated observations suggest that \u03b22-microglobulin may be more informative than NAG as an indicator for an individual's future tubular function .

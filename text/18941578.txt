@@ -1,0 +1,12 @@
+BACKGROUND Heart rate variability ( HRV ) , a measure of cardiac autonomic tone , has been associated with cardiovascular morbidity and mortality .
+Short-term studies have shown that subjects exposed to higher traffic-associated air pollutant levels have lower HRV .
+OBJECTIVE Our objective was to investigate the effect of long-term exposure to nitrogen dioxide on HRV in the Swiss cohort Study on Air Pollution and Lung Diseases in Adults ( SAPALDIA ) .
+METHODS We recorded 24-hr electrocardiograms in randomly selected SAPALDIA participants >or= 50 years of age .
+Other examinations included an interview investigating health status and measurements of blood pressure , body height , and weight .
+Annual exposure to NO2 at the address of residence was predicted by hybrid models ( i.e. , a combination of dispersion predictions , land-use , and meteorologic parameters ) .
+We estimated the association between NO2 and HRV in multivariable linear regression models .
+Complete data for analyses were available for 1,408 subjects .
+RESULTS For women , but not for men , each 10-microg/m3 increment in 1-year averaged NO2 level was associated with a decrement of 3% ( 95% CI , -4 to -1 ) for the standard deviation of all normal-to-normal RR intervals ( SDNN ) , -6% ( 95% CI , -11 to -1 ) for nighttime low frequency ( LF ) , and -5% ( 95% CI , -9 to 0 ) for nighttime LF/high-frequency ( HF ) ratio .
+We saw no significant effect for 24-hr total power ( TP ) , HF , LF , or LF/HF or for nighttime SDNN , TP , or HF .
+In subjects with self-reported cardiovascular problems , SDNN decreased by 4% ( 95% CI , -8 to -1 ) per 10-microg/m3 increase in NO2 .
+CONCLUSIONS There is some evidence that long-term exposure to NO2 is associated with cardiac autonomic dysfunction in elderly women and in subjects with cardiovascular disease .

@@ -1,0 +1,13 @@
+BACKGROUND There are limited data on the associations between maternal or newborn and child exposure to perfluoroalkyl acids ( PFAAs ) , including perfluorooctanoate ( PFOA ) and perfluorooctane sulfonate ( PFOS ) .
+This study provides an opportunity to assess the association between PFAA concentrations in mother-child pairs in a population exposed to PFOA via drinking water .
+OBJECTIVES We aimed to determine the relationship between mother-child PFAA serum concentrations and to examine how the child:mother ratio varies with child's age , child's sex , drinking-water PFOA concentration , reported bottled water use , and mother's breast-feeding intention .
+METHODS We studied 4,943 mother-child pairs ( children , 1-19 years of age ) .
+The child:mother PFAA ratio was stratified by possible determinants .
+Results are summarized as geometric mean ratios and correlation coefficients between mother-child pairs , overall and within strata .
+RESULTS Child and mother PFOA and PFOS concentrations were correlated ( r = 0.82 and 0.26 , respectively ) .
+Up to about 12 years of age , children had higher serum PFOA concentrations than did their mothers .
+The highest child:mother PFOA ratio was found among children \u2264 5 years ( 44% higher than their mothers ) , which we attribute to in utero exposure and to exposure via breast milk and drinking water .
+Higher PFOS concentrations in children persisted until at least 19 years of age ( 42% higher than their mothers ) .
+Boys > 5 years of age had significantly higher PFOA and PFOS child:mother ratios than did girls .
+CONCLUSION Concentrations of both PFOA and PFOS tended to be higher in children than in their mothers .
+This difference persisted until they were about 12 years of age for PFOA and at least 19 years of age for PFOS .

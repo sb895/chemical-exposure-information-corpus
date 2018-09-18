@@ -1,0 +1,13 @@
+INTRODUCTION Cadmium induces hypertension in animal models .
+Epidemiologic studies of cadmium exposure and hypertension , however , have been inconsistent .
+OBJECTIVE We aimed to investigate the association of blood and urine cadmium with blood pressure levels and with the prevalence of hypertension in U.S. adults who participated in the 1999-2004 National Health and Nutrition Examination Survey ( NHANES ) .
+METHODS We studied participants > or = 20 years of age with determinations of cadmium in blood ( n = 10,991 ) and urine ( n = 3,496 ) .
+Blood and urine cadmium were measured by atomic absorption spectrometry and inductively coupled plasma-mass spectrometry , respectively .
+Systolic and diastolic blood pressure levels were measured using a standardized protocol .
+RESULTS The geometric means of blood and urine cadmium were 3.77 nmol/L and 2.46 nmol/L , respectively .
+After multivariable adjustment , the average differences in systolic and diastolic blood pressure comparing participants in the 90th vs. 10th percentile of the blood cadmium distribution were 1.36 mmHg [ 95% confidence interval ( CI ) , -0.28 to 3.00 ] and 1.68 mmHg ( 95% CI , 0.57-2.78 ) , respectively .
+The corresponding differences were 2.35 mmHg and 3.27 mmHg among never smokers , 1.69 mmHg and 1.55 mmHg among former smokers , and 0.02 mmHg and 0.69 mmHg among current smokers .
+No association was observed for urine cadmium with blood pressure levels , or for blood and urine cadmium with the prevalence of hypertension .
+CONCLUSIONS Cadmium levels in blood , but not in urine , were associated with a modest elevation in blood pressure levels .
+The association was stronger among never smokers , intermediate among former smokers , and small or null among current smokers .
+Our findings add to the concern of renal and cardiovascular cadmium toxicity at chronic low levels of exposure in the general population .

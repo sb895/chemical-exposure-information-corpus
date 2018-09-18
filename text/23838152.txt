@@ -1,0 +1,11 @@
+BACKGROUND Decreased heart rate variability ( HRV ) has been associated with future cardiac morbidity and mortality and is often used as a marker of altered cardiac autonomic balance in studies of health effects of airborne particulate matter .
+Fewer studies have evaluated associations between air pollutants and cardiac arrhythmia .
+OBJECTIVES We examined relationships between cardiac arrhythmias , HRV , and exposures to airborne particulate matter .
+METHODS We measured HRV and arrhythmia with ambulatory electrocardiograms in a cohort panel study for up to 235 hr per participant among 50 nonsmokers with coronary artery disease who were \u2265 71 years of age and living in four retirement communities in the Los Angeles , California , Air Basin .
+Exposures included hourly outdoor gases , hourly traffic-related and secondary organic aerosol markers , and daily size-fractionated particle mass .
+We used repeated measures analyses , adjusting for actigraph-derived physical activity and heart rate , temperature , day of week , season , and community location .
+RESULTS Ventricular tachycardia was significantly increased in association with increases in markers of traffic-related particles , secondary organic carbon , and ozone .
+Few consistent associations were observed for supraventricular tachycardia .
+Particulates were significantly associated with decreased ambulatory HRV only in the 20 participants using ACE ( angiotensin I-converting enzyme ) inhibitors .
+CONCLUSIONS Although these data support the hypothesis that particulate exposures may increase the risk of ventricular tachycardia for elderly people with coronary artery disease , HRV was not associated with exposure in most of our participants .
+These results are consistent with previous findings in this cohort for systemic inflammation , blood pressure , and ST segment depression .

@@ -1,0 +1,6 @@
+Hair samples from 79 young healthy adults from Vienna ( Austria ) and Rome ( Italy ) were analyzed for As , Cd , Co , Cr , Ni and Pb by ICP-MS .
+No differences were found between the two locations except for chromium , which was significantly higher in the Viennese population ( P < 0.001 ) .
+In both cities male hair contained higher arsenic ( P < 0.001 ) and lower cadmium ( P < 0.05 ) levels than female hair , and in Vienna lead concentrations were lower in males ( P < 0.05 ) .
+Striking differences appeared when smokers were compared with non-smokers .
+Geometric means ( micrograms/g ) of smokers versus non-smokers were : arsenic 0.081 vs. 0.065 , cadmium 0.075 vs. 0.038 ( P < 0.05 ) , cobalt 0.025 vs. 0.010 ( P < 0.05 ) , chromium 0.84 vs. 0.72 ( P < 0.05 ) , lead 3.42 vs. 1.47 ( P < 0.001 ) and nickel 0.64 vs. 0.32 ( P < 0.005 ) .
+Consideration of a large number of biological and behavioural factors minimizes bias inherent in unmatched sample composition .

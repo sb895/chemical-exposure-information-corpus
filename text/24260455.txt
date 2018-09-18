@@ -1,0 +1,7 @@
+BACKGROUND We utilized data from the Health Effects of Arsenic Longitudinal Study ( HEALS ) in Araihazar , Bangladesh , to evaluate the association of steamed rice consumption with urinary total arsenic concentration and arsenical skin lesions in the overall study cohort ( N=18,470 ) and in a subset with available urinary arsenic metabolite data ( N=4,517 ) .
+METHODS General linear models with standardized beta coefficients were used to estimate associations between steamed rice consumption and urinary total arsenic concentration and urinary arsenic metabolites .
+Logistic regression models were used to estimate prevalence odds ratios ( ORs ) and their 95% confidence intervals ( CIs ) for the associations between rice intake and prevalent skin lesions at baseline .
+Discrete time hazard models were used to estimate discrete time ( HRs ) ratios and their 95% CIs for the associations between rice intake and incident skin lesions .
+RESULTS Steamed rice consumption was positively associated with creatinine-adjusted urinary total arsenic ( \u03b2=0.041 , 95% CI : 0.032-0.051 ) and urinary total arsenic with statistical adjustment for creatinine in the model ( \u03b2=0.043 , 95% CI : 0.032-0.053 ) .
+Additionally , we observed a significant trend in skin lesion prevalence ( P-trend=0.007 ) and a moderate trend in skin lesion incidence ( P-trend=0.07 ) associated with increased intake of steamed rice .
+CONCLUSIONS This study suggests that rice intake may be a source of arsenic exposure beyond drinking water .

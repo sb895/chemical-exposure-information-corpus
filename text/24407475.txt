@@ -1,0 +1,13 @@
+BACKGROUND In recent years , Spain has implemented a number of air quality control measures that are expected to lead to a future reduction in fine particle concentrations and an ensuing positive impact on public health .
+OBJECTIVES We aimed to assess the impact on mortality attributable to a reduction in fine particle levels in Spain in 2014 in relation to the estimated level for 2007 .
+METHODS To estimate exposure , we constructed fine particle distribution models for Spain for 2007 ( reference scenario ) and 2014 ( projected scenario ) with a spatial resolution of 16×16km(2) .
+In a second step , we used the concentration-response functions proposed by cohort studies carried out in Europe ( European Study of Cohorts for Air Pollution Effects and Rome longitudinal cohort ) and North America ( American Cancer Society cohort , Harvard Six Cities study and Canadian national cohort ) to calculate the number of attributable annual deaths corresponding to all causes , all non-accidental causes , ischemic heart disease and lung cancer among persons aged over 25 years ( 2005-2007 mortality rate data ) .
+We examined the effect of the Spanish demographic shift in our analysis using 2007 and 2012 population figures .
+RESULTS Our model suggested that there would be a mean overall reduction in fine particle levels of 1µg/m(3) by 2014 .
+Taking into account 2007 population data , between 8 and 15 all-cause deaths per 100,000 population could be postponed annually by the expected reduction in fine particle levels .
+For specific subgroups , estimates varied from 10 to 30 deaths for all non-accidental causes , from 1 to 5 for lung cancer , and from 2 to 6 for ischemic heart disease .
+The expected burden of preventable mortality would be even higher in the future due to the Spanish population growth .
+Taking into account the population older than 30 years in 2012 , the absolute mortality impact estimate would increase approximately by 18% .
+CONCLUSIONS Effective implementation of air quality measures in Spain , in a scenario with a short-term projection , would amount to an appreciable decline in fine particle concentrations , and this , in turn , would lead to notable health-related benefits .
+Recent European cohort studies strengthen the evidence of an association between long-term exposure to fine particles and health effects , and could enhance the health impact quantification in Europe .
+Air quality models can contribute to improved assessment of air pollution health impact estimates , particularly in study areas without air pollution monitoring data .

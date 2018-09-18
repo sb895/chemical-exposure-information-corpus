@@ -1,0 +1,10 @@
+BACKGROUND Phthalates , commonly used to soften plastic goods , are known PPAR-agonists affecting lipid metabolism and adipocytes in the experimental setting .
+We evaluated if circulating concentrations of phthalates were related to different indices of obesity using data from the Prospective Investigation of the Vasculature in Uppsala Seniors ( PIVUS ) study .
+Data from both dual-energy X-ray absorptiometry ( DXA ) and abdominal magnetic resonance imaging ( MRI ) were used .
+METHODS 1,016 subjects aged 70 years were investigated in the PIVUS study .
+Four phthalate metabolites were detected in the serum of almost all subjects ( > 96% ) by an API 4000 liquid chromatograph/tandem mass spectrometer .
+Abdominal MRI was performed in a representative subsample of 287 subjects ( 28% ) , and a dual-energy X-ray absorptiometry ( DXA)-scan was obtained in 890 ( 88% ) of the subjects two year following the phthalate measurements .
+RESULTS In women , circulating concentrations of mono-isobutyl phthalate ( MiBP ) were positively related to waist circumference , total fat mass and trunk fat mass by DXA , as well as to subcutaneous adipose tissue by MRI following adjustment for serum cholesterol and triglycerides , education , smoking and exercise habits ( all p < 0.008 ) .
+Mono-methyl phthalate ( MMP ) concentrations were related to trunk fat mass and the trunk/leg-ratio by DXA , but less powerful than MiBP .
+However , no such statistically significant relationships were seen in men .
+CONCLUSIONS The present evaluation shows that especially the phthalate metabolite MiBP was related to increased fat amount in the subcutaneous abdominal region in women measured by DXA and MRI two years later .

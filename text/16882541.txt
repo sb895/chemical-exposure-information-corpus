@@ -1,0 +1,11 @@
+Our prospective cohort study of nonsmoking African-American and Dominican mothers and children in New York City is evaluating the role of prenatal exposure to urban pollutants , including polycyclic aromatic hydrocarbons ( PAHs ) , environmental tobacco smoke ( ETS ) , and pesticides , in the pathogenesis of neurobehavioral disorders .
+We used the Bayley Scales of Infant Development to evaluate the effects on child mental and psychomotor development of prenatal exposure to airborne PAHs monitored during pregnancy by personal air sampling .
+Behavioral development was assessed by the Child Behavior Checklist .
+We adjusted for potential confounders including sociodemographic factors and prenatal exposure to ETS and chlorpyrifos .
+Prenatal exposure to PAHs was not associated with psychomotor development index or behavioral problems .
+However , high prenatal exposure to PAHs ( upper quartile ) was associated with lower mental development index at age 3 [ beta=-5.69 ; 95% confidence interval ( CI ) , -9.05 to -2.33 ; p<0.01 ] .
+The odds of cognitive developmental delay were also significantly greater for children with high prenatal exposure ( odds ratio=2.89 ; 95% CI , 1.33 to 6.25 ; p=0.01 ) .
+General estimated equation analysis showed a significant age times PAH effect on mental development ( p=0.01 ) , confirming the age-specific regression findings .
+Further adjustment for lead did not alter the relationships .
+There were no differences in effect sizes by ethnicity .
+The results require confirmation but suggest that environmental PAHs at levels recently encountered in New York City air may adversely affect children's cognitive development at 3 years of age , with implications for school performance .

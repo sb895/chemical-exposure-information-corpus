@@ -1,0 +1,15 @@
+Pentachlorophenol ( PCP ) , hexachlorocyclohexane-[alpha] , -beta , and -[gamma] ( HCH-[alpha] , -beta , and -[gamma] ) , polychlorinated biphenyls ( PCBs ) , and hexachlorobenzene ( HCB ) are widely distributed industrial chemicals .
+They are suspected to induce immunologic impairments in exposed individuals .
+We examined dose-response relationships of blood levels of these chemicals with cellular ( numbers of lymphocyte subpopulations , in vitro lymphocyte response ) or humoral ( plasma cytokine levels , immunoglobulin autoantibodies ) immunologic dysfunctions .
+We studied 146 patients who had been occupationally exposed primarily to PCBs for more than 6 months .
+Lymphocyte subpopulations , in vitro responses to mitogens and allogeneic stimulator cells , plasma neopterin , cytokines , soluble cytokine receptors , soluble adhesion molecules , anti-Ig autoantibodies , and liver transaminases were determined .
+Blood levels of the different compounds were strongly correlated with one another .
+There were only weak dose-response relationships between blood levels of PCBs with cellular immune parameters , and of HCHs and HCB with humoral immune parameters .
+An exception was the statistically significant negative association of HCB with interferon-[gamma] ( IFN-[gamma] ) , indicating that HCB has a significant impact on Th1 lymphocytes .
+Patients with HCB blood levels above the mean of 1,109 ng/L more often had undetectable IFN-[gamma] blood levels than patients below the mean .
+Patients with increased PCB 138 ( > 710 ng/L ) had more frequently undetectable interleukin-4 blood levels than patients with PCB 138 below the mean , and patients with increased PCB 101 ( > 31 ng/L ) more often had low DR+ cell counts in the blood ( < 190/microL ) than patients with PCB 101 below the mean .
+To assess possible cumulative effects , we compared patients who had blood levels of all compounds below background with patients who had blood levels of all compounds above background .
+Patients with low or absent blood levels of the compounds studied had higher IFN-[gamma] plasma levels , providing some evidence for a cumulative effect of several weakly active compounds .
+In conclusion , exposure to PCBs , HCB , or HCHs is associated with weak immunologic abnormalities .
+These results contrast with those obtained in earlier studies of blood levels of PCP , which showed a strong dose-dependent relationship with immunologic impairments .
+Our data suggest that long-term exposure of patients to HCB suppresses IFN-[gamma] production .

@@ -1,0 +1,9 @@
+BACKGROUND One of the most serious human health concerns related to environmental contamination with polychlorinated biphenyls ( PCBs ) is the presence of these chemicals in breast milk .
+OBJECTIVES We developed a physiologically based pharmacokinetic model of PCB-153 in women , and predict its transfer via lactation to infants .
+The model is the first human , population-scale lactational model for PCB-153 .
+Data in the literature provided estimates for model development and for performance assessment .
+METHODS We used physiologic parameters from a cohort in Taiwan and reference values given in the literature to estimate partition coefficients based on chemical structure and the lipid content in various body tissues .
+Using exposure data from Japan , we predicted acquired body burden of PCB-153 at an average childbearing age of 25 years and compared predictions to measurements from studies in multiple countries .
+We attempted one example of reverse dosimetry modeling using our PBPK model for possible exposure scenarios in Canadian Inuits , the population with the highest breast milk PCB-153 level in the world .
+RESULTS Forward-model predictions agree well with human biomonitoring measurements , as represented by summary statistics and uncertainty estimates .
+CONCLUSION The model successfully describes the range of possible PCB-153 dispositions in maternal milk , suggesting a promising option for back-estimating doses for various populations .

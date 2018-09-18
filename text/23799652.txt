@@ -1,0 +1,9 @@
+BACKGROUND In some previous studies , prenatal exposure to persistent organochlorines such as 1,1,-dichloro-2,2-bis(p-chlorophenyl)ethylene ( p,p´-DDE ) , polychlorinated biphenyls ( PCBs ) , and hexachlorobenzene ( HCB ) has been associated with higher body mass index ( BMI ) in children .
+OBJECTIVE Our goal was to evaluate the association of maternal serum levels of \u03b2-hexachlorocyclohexane ( \u03b2-HCH ) , p,p´-DDE , dichlorodiphenyltrichloroethane ( p,p´-DDT ) , dieldrin , heptachlor epoxide , HCB , trans-nonachlor , oxychlordane , and PCBs with offspring obesity during childhood .
+METHODS The analysis was based on a subsample of 1,915 children followed until 7 years of age as part of the U.S. Collaborative Perinatal Project ( CPP ) .
+The CPP enrolled pregnant women in 1959-1965 ; exposure levels were measured in third-trimester maternal serum that was collected before these organochlorines were banned in the United States .
+Childhood overweight and obesity were defined using age- and sex-specific cut points for BMI as recommended by the International Obesity Task Force .
+RESULTS Adjusted results did not show clear evidence for an association between organochlorine exposure and obesity ; however , a suggestive finding emerged for dieldrin .
+Compared with those in the lowest quintile ( dieldrin , < 0.57 \u03bcg/L ) , odds of obesity were 3.6 ( 95% CI : 1.3 , 10.5 ) for the fourth and 2.3 ( 95% CI : 0.8 , 7.1 ) for the highest quintile .
+Overweight and BMI were unrelated to organochlorine exposure .
+CONCLUSIONS In this population with relatively high levels of exposure to organochlorines , no clear associations with obesity or BMI emerged .

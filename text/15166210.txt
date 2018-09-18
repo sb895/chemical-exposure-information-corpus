@@ -1,0 +1,12 @@
+BACKGROUND We explored methods to develop uncorrelated variables for epidemiological analysis models .
+They were used to examine associations between respiratory health outcomes and multiple household risk factors .
+METHODS We analysed data collected in the Four Chinese Cities Study ( FCCS ) to examine health effects on prevalence rates of respiratory symptoms and illnesses in 7058 school children living in the four Chinese cities : Lanzhou , Chongqing , Wuhan , and Guangzhou .
+We used factor analysis approaches to reduce the number of the children's lifestyle/household variables and to develop new uncorrelated ' factor ' variables .
+We used unconditional logistic regression models to examine associations between the factor variables and the respiratory health outcomes , while controlling for other covariates .
+RESULTS Five factor variables were derived from 21 original variables : heating coal smoke , cooking coal smoke , socioeconomic status , ventilation , and environmental tobacco smoke ( ETS ) and parental asthma .
+We found that higher exposure to heating coal smoke was associated with higher reporting of cough with phlegm , wheeze , and asthma .
+Cooking coal smoke was not associated with any of the outcomes .
+Lower socioeconomic status was associated with lower reporting of persistent cough and bronchitis .
+Higher household ventilation was associated with lower reporting of persistent cough , persistent phlegm , cough with phlegm , bronchitis , and wheeze .
+Higher exposure to ETS and the presence of parental asthma were associated with higher reporting of persistent cough , persistent phlegm , cough with phlegm , bronchitis , wheeze , and asthma .
+CONCLUSIONS Our study suggests that independent respiratory effects of exposure to indoor air pollution , heating coal smoke , and ETS may exist for the studied children .

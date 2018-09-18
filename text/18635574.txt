@@ -1,0 +1,5 @@
+The causes of term pre labor rupture of membranes ( term PROM ) remain poorly defined .
+The authors conducted a record-based prevalence study to explore a possible relation between disinfection by-products in drinking water and term PROM in an Australian community with spatially variable trihalomethane and nitrate levels .
+A multilevel statistical model was used to examine the relation between factors operating at the levels of the individual , district , and water distribution zone and the prevalence of PROM at term among 16,229 women in Perth , Western Australia ( 2002-2004 ) .
+Adjusted odds ratios for term PROM increased with increasing tertiles of nitrate exposure ( moderate exposure : odds ratio = 1.23 , 95% confidence interval : 1.03 , 1.52 ; high exposure : odds ratio = 1.47 , 95% confidence interval : 1.20 , 1.79 ) , but there was no significant relation with exposure to trihalomethanes .
+This study raises the possibility that water contaminants may promote the development of PROM at term .

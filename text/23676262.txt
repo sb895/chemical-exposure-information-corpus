@@ -1,0 +1,13 @@
+BACKGROUND There is accumulating evidence that air pollution causes lung cancer .
+Still , questions remain about exposure misclassification , the components of air pollution responsible , and the histological subtypes of lung cancer that might be produced .
+METHODS We investigated lung cancer incidence in relation to long-term exposure to three ambient air pollutants and proximity to major roads , using a Canadian population-based case-control study .
+We compared 2,390 incident , histologically confirmed lung cancer cases with 3,507 population controls in eight Canadian provinces from 1994 to 1997 .
+We developed spatiotemporal models for the whole country to estimate annual residential exposure to fine particulate matter ( PM2.5 ) , nitrogen dioxide ( NO2 ) , and ozone ( O3 ) over a 20-year exposure period .
+We carried out a subanalysis in urban centers , using exposures derived from fixed-site air pollution monitors , and also examined traffic proximity measures .
+Hierarchical logistic regression models incorporated a comprehensive set of individual and geographic covariates .
+RESULTS The increase in lung cancer incidence ( expressed as fully adjusted odds ratios [ ORs] ) was 1.29 ( 95% confidence interval = 0.95-1.76 ) with a ten-unit increase in PM2.5 ( \u03bcg/m ) , 1.11 ( 1.00-1.24 ) with a ten-unit increase in NO2 ( ppb ) , and 1.09 ( 0.85-1.39 ) with a ten-unit increase in O3 ( ppb ) .
+The urban monitor-based subanalyses generally supported the national results , with larger associations for NO2 ( OR = 1.34 ; 1.07-1.69 ) per 10 ppb increase .
+No dose-response trends were observed , and no clear relationships were found for specific histological cancer subtypes .
+There was the suggestion of increased risk among those living within 100 m of highways , but not among those living near major roads .
+CONCLUSIONS Lung cancer incidence in this Canadian study was increased most strongly with NO2 and PM2.5 exposure .
+Further investigation is needed into possible effects of O3 on development of lung cancer .

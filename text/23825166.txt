@@ -1,0 +1,8 @@
+Fetal exposure to the perfluoroalkyl acids , perfluorooctanesulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) , has been associated with lower birth weight and lower weight and body mass index ( weight ( kg)/height ( m)(2) ) in early infancy .
+It is , however , unclear if exposure to prenatal PFOS and PFOA has a lasting influence on growth .
+We estimated the associations between the maternal plasma level of PFOS or PFOA and the children's body mass index , waist circumference , and risk of overweight at 7 years of age .
+A total of 1,400 women were randomly selected from the Danish National Birth Cohort among those who provided blood samples early in pregnancy and gave birth to liveborn singletons in 1996-2002 .
+Weight and height information at 7 years was available for 811 children .
+Multiple linear and logistic regression models were used for analyses .
+Maternal PFOS and PFOA concentrations were overall inversely but nonsignificantly associated with the children's body mass index , waist circumference , and risk of overweight at 7 years of age .
+In conclusion , plasma levels of PFOS and PFOA in pregnant women did not seem to have any appreciable influence on their children's anthropometry at this point in childhood .

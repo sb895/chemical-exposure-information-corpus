@@ -1,0 +1,14 @@
+OBJECTIVES The Italian information system for recording occupational exposures to carcinogens ( SIREP ) was set up in 1996 as a result of the implementation of European directives concerning the improvement of workplace safety and health .
+The aim of this study is to describe the characteristics of this information system designed and developed for monitoring exposure risk at workplace .
+The main results about exposed workers in Italy are also presented .
+Moreover , we discuss the choices adopted when setting up the structure and the issues encountered in recording data and introduce future developments of the system .
+METHODS The design of the information system made use of the structured analysis technique , and it is based on a relational database .
+Particular attention has been addressed to the system security to prevent non-authorized accesses and to guarantee data integrity .
+The core information of the database is in accordance with recommendations of the European work group on the measurements of the exposures in the workplace .
+Results are reported by economic sector , carcinogenic agent , job task and exposure level .
+RESULTS The professional exposures of approximately 36,547 employees from 2778 firms were reported to the SIREP database in the period 1996-2005 .
+The three prevalent exposures-hardwood dust , benzene and polycyclic aromatic hydrocarbons-account for >25% of the exposed workers .
+The main economic activity involved is wood industry and furniture manufacture , while the most frequently observed job is chemical-processing plant operator of petrochemical plants .
+At the end of 2005 , >100,000 different exposure histories were recorded and the number of exposed workers accounts for approximately 0.2% of the Italian workforce .
+CONCLUSIONS The SIREP database has been set up in order to assess , control and reduce the carcinogen risk in the workplace .
+It may be useful as part of a surveillance and monitoring system to determine the need for intervention strategies and to assess their effectiveness .

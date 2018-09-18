@@ -1,0 +1,11 @@
+Data currently available on drinking water intakes do not support dietary exposure estimates for contaminants that have acute effects lasting less than 24 h .
+Realistic exposure estimates for these types of contaminants in drinking water require detailed information on amounts and time of consumption for each drinking occasion during a day .
+A nationwide water consumption survey was conducted to address how often , when , and how much water is consumed at specific times during the day .
+The survey was conducted in two waves , to represent two seasons , and the survey instrument consisted of 7-day water consumption diaries .
+Data on total daily amounts consumed , number of drinking occasions per day , amounts consumed per drinking occasion , and intervals between drinking occasions show larger between-subjects variation than within-subject variation .
+Statistically significant associations were also observed between drinking water consumption patterns and participants ' ages and sex and geographical regions in which these participants live .
+The number of drinking occasions on a given day varied from 0 to 19 , with the majority of respondents reporting 6 or less drinking occasions per day .
+The average interval between drinking occasions varied from 1 to 17 h , with 57% of the person-days reporting average intervals at least 3 h apart .
+The mean amount consumed per drinking occasion showed little association with the number of drinking occasions and fluctuated between 8 and 10 oz .
+To our knowledge , this survey is the only source of information on within-day patterns ( i.e. , when and how much ) of drinking water consumption for a nationally representative sample of the US population .
+The detailed water consumption data from this survey can be used to support less than 24-h dietary exposure estimates for contaminants in drinking water .

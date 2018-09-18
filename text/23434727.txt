@@ -1,0 +1,10 @@
+BACKGROUND Previous U.S. population modeling studies have reported that urinary cadmium ( Cd ) excretion patterns differ with age , sex , and dietary exposure ; associations between Cd exposures and health outcomes also have differed by age and sex .
+Therefore , it is important to test models used to estimate Cd exposures across an expanded Cd-exposure range .
+OBJECTIVES We estimated relative Cd exposures from both diet and smoking in low- and high-exposure scenarios to provide data for improving risk assessment calculations .
+METHODS We used a Cd toxicokinetic-based model to estimate Cd exposures based on urinary Cd levels measured for 399 persons in a low-exposure area ( Bangkok ) and 6,747 persons in a high-exposure area ( Mae Sot ) in Thailand .
+RESULTS In Bangkok , we estimated dietary Cd exposures of 50-56 µg/day for males and 21-27 µg/day for females 20-59 years of age who never smoked .
+In Mae Sot , we estimated dietary Cd exposures of 188-224 µg/day for males and 99-113 µg/day for females 20-59 years of age who never smoked .
+In Bangkok , we estimated Cd exposures from smoking to be 5.5-20.4 µg/day for male smokers 20-59 years of age .
+In Mae Sot , we estimated Cd exposures from smoking to be 9.8-26 µg/day for male heavy smokers and 26 µg/day for female heavy smokers .
+CONCLUSION This study provides estimates of Cd exposures from diet and smoking in low- and high-exposure scenarios .
+Our findings suggest a relatively small safety margin between the established tolerable Cd reference exposure of 62 µg/day and exposure levels previously associated with evidence of kidney and bone effects in Mae Sot residents , where dietary Cd exposures among women were only 1.6-2.1 times the reference value .

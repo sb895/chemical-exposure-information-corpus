@@ -1,0 +1,9 @@
+To assess the arsenic exposure of a population living in the vicinity of a coal-burning power plant with high arsenic emission in the Prievidza District , Slovakia , 548 spot urine samples were speciated for inorganic As ( Asinorg ) , monomethylarsonic acid ( MMA ) , dimethylarsinic acid ( DMA ) , and their sum ( Assum ) .
+The urine samples were collected from the population of a case-control study on nonmelanoma skin cancer ( NMSC ) .
+A total of 411 samples with complete As speciations and sufficient urine quality and without fish consumption were used for statistical analysis .
+Although current environmental As exposure and urinary As concentrations were low ( median As in soil within 5 km distance to the power plant , 41 micro g/g ; median urinary Assum , 5.8 microg/L ) , there was a significant but weak association between As in soil and urinary Assum(r = 0.21 , p < 0.01 ) .
+We performed a multivariate regression analysis to calculate adjusted regression coefficients for environmental As exposure and other determinants of urinary As .
+Persons living in the vicinity of the plant had 27% higher Assum values ( p < 0.01 ) , based on elevated concentrations of the methylated species .
+A 32% increase of MMA occurred among subjects who consumed homegrown food ( p < 0.001 ) .
+NMSC cases had significantly higher levels of Assum , DMA , and Asinorg .
+The methylation index Asinorg/(MMA + DMA ) was about 20% lower among cases ( p < 0.05 ) and in men ( p < 0.05 ) compared with controls and females , respectively .

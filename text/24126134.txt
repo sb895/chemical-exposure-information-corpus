@@ -1,0 +1,6 @@
+The inadvertent ingestion of contaminated soil can be a major pathway for chemical exposure to humans .
+Few studies to date have quantified soil ingestion rates to develop exposure estimates for human health risk assessments ( HHRA ) , and almost all of those were for children in suburban/urban environments .
+Here we employed a quantitative mass balance tracer approach on a rural population practicing outdoor activities to estimate inadvertent soil ingestion .
+This study followed 9 subjects over a 13 day period in Cold Lake , Alberta , near the largest in situ thermal heavy oil ( bitumen ) extraction operation in the world .
+The mean soil ingestion rate in this study using Al Ce , La , and Si tracers was 32 mg d(-1) , with a 90th percentile of 152 mg d(-1) and median soil ingestion rate of 18 mg d(-1) .
+These soil ingestion values are greater than the standard recommended soil ingestion rates for HHRA from Health Canada , and are similar to soil ingestion estimates found in the only other study on a rural population .

@@ -1,0 +1,11 @@
+This paper reports an occupational hygiene survey of exposure to acrylamide comparing acrylamide haemoglobin adduct measurements with personal air monitoring and glove liner analysis .
+The air monitoring data showed that exposure to acrylamide was well-controlled with all samples below the UK maximum exposure limit ( MEL ) of 300 microg/m(3) with mean exposure about one tenth of the MEL .
+Each worker provided two blood samples approximately 3 months apart .
+These samples were well correlated ( r=0.61 ) with a slope of 0.74 , indicating that exposure was reasonably constant .
+Mean personal airborne acrylamide levels and mean acrylamide haemoglobin adduct levels were well correlated ( r=0.72 , N=46 ) and using the calculated linear correlation , exposure at the MEL would be expected to give rise to a haemoglobin adduct level of 1,550 pmol/g globin .
+Smoking status did not affect the correlation .
+There was also a correlation between levels of acrylamide detected on gloves and haemoglobin adduct levels .
+A combined regression model between haemoglobin adducts , airborne acrylamide and acrylamide glove contamination was significant for both airborne acrylamide and gloves with a regression coefficient of 0.89 .
+The study showed that haemoglobin adduct level was a good biomarker of acrylamide exposure which correlated to both inhaled and potentially skin absorbed acrylamide estimates .
+There was excellent discrimination between well-controlled occupational levels and environmental levels from diet and smoking , allowing haemoglobin adduct measurement to be used to determine even low level exposures .
+Due to the complexity of the current methodology , new techniques would be useful in making haemoglobin adducts more widely applicable .

@@ -1,0 +1,6 @@
+Elevated concentrations of arsenic in drinking water are common worldwide , however , little is known about the presence of other potentially toxic elements .
+We analyzed 31 different elements in drinking water collected in San Antonio de los Cobres and five surrounding Andean villages in Argentina , and in urine of the inhabitants , using ICP-MS .
+Besides confirmation of elevated arsenic concentrations in the drinking water ( up to 210 microg/L ) , we found remarkably high concentrations of lithium ( highest 1000 microg/L ) , cesium ( 320 microg/L ) , rubidium ( 47 microg/L ) , and boron ( 5950 microg/L ) .
+Similarly elevated concentrations of arsenic , lithium , cesium , and boron were found in urine of the studied women ( N=198 ) : village median values ranged from 26 to 266 microg/L of arsenic , 340 to 4550 microg/L of lithium , 34 to 531 microg/L of cesium , and 2980 to 16,560 microg/L of boron .
+There is an apparent risk of toxic effects of long-term exposure to several of the elements , and studies on associations with adverse human health effects are warranted , particularly considering the combined , life-long exposure .
+Because of the observed wide range of concentrations , all water sources used for drinking water should be screened for a large number of elements ; obviously , this applies to all drinking water sources globally .

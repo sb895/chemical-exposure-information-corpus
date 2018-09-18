@@ -1,0 +1,8 @@
+Exposure measurements were carried out in parked aircrafts during and after application of a biocide aerosol spray ( simulated in-flight spraying ) .
+The aerosol product SRA spray ( Standard Reference Aerosol Spray ) was used for spraying .
+Concentrations of the pyrethrins--the active ingredients--in the air of the passenger cabin ( airborne particles , measured during spray application and 40 minutes afterwards ) varied from 11 to 65 microg/m3 ; those of the synergist piperonyl butoxide were 200-485 microg/m3 .
+The concentrations on surfaces of the cabin furniture differed widely .
+Low concentrations were determined on surfaces in vertical positions ( median values : pyrethrins < or =2 ng/cm2 ; piperonyl butoxide < or =17 ng/cm2 ) , while under seats , on seats and on headrests the concentrations were up to 55.5 ng/cm2 for pyrethrins and 1162.5 ng/cm2 for piperonyl butoxide ( median values ) .
+The inhaled doses for sprayers ( using 100 g of spray ) and persons sitting in the passenger cabin were calculated to be 17 microg for pyrethrins and 200 microg for piperonyl butoxide ( maximum values ) .
+Maximum total external body doses for the applicators during spraying were 830 microg for pyrethrins and 8840 microg for piperonyl butoxide .
+The potential dermal dose for persons sitting in the passenger cabin was about a factor of two lower .

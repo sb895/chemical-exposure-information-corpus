@@ -1,0 +1,12 @@
+INTRODUCTION Conflicting opinions exist about the reliability of biomarkers of low-level exposure to benzene .
+We compared the ability of the urinary excretion of trans,trans-muconic acid ( t,t-MA ) , s-phenilmercapturic acid ( s-PAMA ) and urinary benzene ( U-Benz ) to detect low level occupational and environmental exposure to benzene .
+METHODS We monitored airborne benzene by personal air sampling , and U-Benz , s-PMAI , t,t-MA and cotinine ( U-Cotinine ) in spot urine samples , collected at 8 am and 8 pm , in 32 oil refinery workers and 65 subjects , randomly selected among the general population of urban and suburban Cagliari , Italy .
+Information on personal characteristics , diet and events during the sampling day was acquired through in person interviews .
+RESULTS The median concentration of airborne benzene was 25.2 microg/m3 in oil refinery workers , and 8.5 microg/m3 in the general population subgroup .
+U-Benz in morning and evening samples was significantly more elevated among oil refinery workers than the general population subgroup ( p = 0.012 , and p = 7.4 x 10(-7) , respectively ) and among current smokers compared to non-smokers ( p = 5.2 x 10(-8) , and p = 5.2 x 10(-5) respectively ) .
+Benzene biomarkers and their readings in the two sampling phases were well correlated to each other .
+The Spearman's correlation coefficient with airborne benzene was significant for U-Benz in the evening sample , while no correlation was seen with t,t-MA and s-PMA readings in either samplings .
+The two benzene metabolites were frequently below limit of detection ( LOD ) , particularly among the general population study subjects ( 17-9% and 39% , for t,t-MA and s-PMA respectively ) .
+Morning U-Cotinine excretion showed a good correlation with U-Benz in the morning and in the evening sampling ( p < 0.001 ) , and with s-PMA in the evening sample ( p < 0.001 ) , but not with t,t-MA in either samplings. t,t-MA in the evening sample was the only biomarker showing a moderate inverse correlation with BMI ( p < 0.05 ) .
+The multiple regression analysis adjusting by BMI and number of cigarettes smoked during the day confirmed the results of the univariate analysis .
+DISCUSSION Our results suggest that unmetabolized U-Benz would allow a more reliable biomonitoring of low-level exposure to benzene than s-PMA and t,t-MA .

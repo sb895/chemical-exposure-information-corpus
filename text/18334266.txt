@@ -1,0 +1,9 @@
+As epidemiological studies report associations between ambient air pollution and adverse birth outcomes , it is important to understand determinants of exposures among pregnant women .
+We measured ( 48-h , personal exposure ) and modeled ( using outdoor ambient monitors and a traffic-based land-use regression model ) NO , NO(2) , fine particle mass and absorbance in 62 non-smoking pregnant women in Vancouver , Canada on 1-3 occasions during pregnancy ( total N=127 ) .
+We developed predictive models for personal measurements using modeled ambient concentrations and individual determinants of exposure .
+Geometric mean exposures of personal samples were relatively low ( GM ( GSD ) NO=37 ppb ( 2.0 ) ; NO(2)=17 ppb ( 1.6 ) ; ' soot ' , as filter absorbance=0.8 10(-5) m(-1) ( 1.5 ) ; PM(2.2)=10 microg m(-3) ( 1.6) ) .
+Having a gas stove ( vs. electric stove ) in the home was associated with exposure increases of 89% ( NO ) , 44% ( NO(2) ) , 20% ( absorbance ) and 35% ( fine PM ) .
+Interpolated concentrations from outdoor fixed-site monitors were associated with all personal exposures except NO(2) .
+Land-use regression model estimates of outdoor air pollution were associated with personal NO and NO(2) only .
+The effects of outdoor air pollution on personal samples were consistent , with and without adjustment for other individual determinants ( e.g. gas stove ) .
+These findings improve our understanding of sources of exposure to air pollutants among pregnant women and support the use of outdoor concentration estimates as proxies for exposure in epidemiologic studies .

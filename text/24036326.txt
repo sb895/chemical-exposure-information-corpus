@@ -1,0 +1,9 @@
+Previous studies investigating the exposure to metal(loid)s of populations living in the Panasqueira mine area of central Portugal found a higher internal dose of elements such as arsenic , chromium , lead , manganese , molybdenum and zinc in exposed individuals .
+The aims of the present study were to evaluate the extent of genotoxic damage caused by environmental and occupational exposure in individuals previously tested for metal(loid) levels in different biological matrices , and the possible modulating role of genetic polymorphisms involved in metabolism and DNA repair .
+T-cell receptor mutation assay , comet assay , micronucleus ( MN ) test and chromosomal aberrations ( CA ) were performed in a group of 122 subjects working in the Panasqueira mine or living in the same region .
+The modifying effect of polymorphisms in GSTA2 , GSTM1 , GSTP1 , GSTT1 , XRCC1 , APEX1 , MPG , MUTYH , OGG1 , PARP1 , PARP4 , ERCC1 , ERCC4 , and ERCC5 genes was investigated .
+Significant increases in the frequency of all biomarkers investigated were found in exposed groups , however those environmentally exposed were generally higher .
+Significant influences of polymorphisms were observed for GSTM1 deletion and OGG1 rs1052133 on CA frequencies , APEX1 rs1130409 on DNA damage , ERCC1 rs3212986 on DNA damage and CA frequency , and ERCC4 rs1800067 on MN and CA frequencies .
+Our results show that the metal(loid) contamination in the Panasqueira mine area induced genotoxic damage both in individuals working in the mine or living in the area .
+The observed effects are closely associated to the internal exposure dose , and are more evident in susceptible genotypes .
+The urgent intervention of authorities is required to protect exposed populations .

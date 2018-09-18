@@ -1,0 +1,11 @@
+We report mercury ( Hg ) mass-dependent isotope fractionation ( MDF ) and mass-independent isotope fractionation ( MIF ) in hair samples of the Bolivian Esse Ejjas native people and in several tropical fish species that constitute their daily diet .
+MDF with delta(202)Hg ranging from -0.40 to -0.92 per thousand for fish and +1.04 to +1.42 per thousand for hair was observed .
+Hair samples of native people with a fish-dominated diet are enriched by +2.0 +/- 0.2 per thousand in delta(202)Hg relative to the fish consumed .
+Both odd Hg isotopes , ( 199)Hg and ( 201)Hg , display MIF in fish ( from -0.14 to +0.38 per thousand for Delta(201)Hg and from -0.09 to +0.55 per thousand for Delta(199)Hg ) and in hair ( from +0.12 to +0.66 per thousand for Delta(201)Hg and from +0.14 to +0.81 per thousand for Delta(199)Hg ) .
+No significant difference in MIF anomalies is observed between Hg in fish and in human hair , suggesting that the anomalies act as conservative source tracers between upper trophic levels of the tropical food chain .
+Fish Hg MIF anomalies are 10-fold lower than those published for fish species from midlatitude lakes .
+Grouping all Amazonian fish species per location shows that Delta(199)Hg:Delta(201)Hg regression slopes for the clear water Itenez River basin ( 0.95 +/- 0.08 ) are significantly lower than those for the white water Beni River basin ( 1.28 +/- 0.12 ) .
+Assuming that the observed MIF originates from aquatic photoreactions , we calculated limited photodemethylation of monomethylmercury ( MMHg ) in the Beni River floodplains and insignificant photodemethylation in the Itenez River floodplains .
+This is possibly related to lower residence times of MMHg in the Itenez compared to the Beni River floodplains .
+Finally , a significantly negative Delta(201)Hg of -0.14 per thousand in Beni River fish suggests that the inorganic Hg precursor to the MMHg that bioaccumulates up the food chain defines an ecosystem specific non-zero Delta(201)Hg baseline .
+Calculation of photodemethylation intensities from Hg or MMHg MIF , therefore , requires a baseline correction .

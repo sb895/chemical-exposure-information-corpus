@@ -1,0 +1,11 @@
+Particulate matter air pollution has been related to an increase in cardiopulmonary morbidity and mortality especially in susceptible subjects with a known cardiopulmonary disease .
+Recent studies suggest that PM(2.5) air pollution was associated with changes in heart rate variability ( HRV ) .
+The purpose of this study was to identify and compare changes in HRV in positive or negative head-up tilt ( HUT ) participants .
+Fifty two subjects , 31 women and 21 men , 20-40 years old , underwent PM(2.5) personal monitoring and Holter-ECG monitoring in supine and orthostatic position , during active standing , in indoor and outdoor environments .
+All measurements were made between 8 and 11 AM in the same geographical location ( southeast of Mexico City ) .
+Frequency domain indexes were estimated in absolute ( ms(2) ) and in normalized units ( nu ) ( low frequencies ( LF ) , high frequencies ( HF ) and low/high frequency ratio ( LF/HF) ) in 5 min periods by standard methods .
+Data were transformed into natural logarithmic scale ( ln ) .
+Comparisons were made between genders and positive and negative HUT subjects .
+LF were larger and HF were smaller in negative HUT males .
+Multivariate analysis with GEE models , adjusted for each index , showed a significant decrease of HRV ( LFln -0.194 95% CI , -0.4509 , 0.0627 , and HFln -0.298 95% CI , -0.5553 , -0.0401 ) associated to an increase in PM(2.5) air pollution in positive and negative HUT subjects which was larger for HFln in outdoor environments .
+PM(2.5) air pollution was associated with changes in HRV in positive and negative HUT subjects without cardiopulmonary disease .

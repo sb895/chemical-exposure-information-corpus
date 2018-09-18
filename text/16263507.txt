@@ -1,0 +1,10 @@
+Phthalates are multifunctional chemicals used in a variety of applications , including personal care products .
+The present study explored the relationship between patterns of personal care product use and urinary levels of several phthalate metabolites .
+Subjects include 406 men who participated in an ongoing semen quality study at the Massachusetts General Hospital Andrology Laboratory between January 2000 and February 2003 .
+A nurse-administered questionnaire was used to determine use of personal care products , including cologne , aftershave , lotions , hair products , and deodorants .
+Phthalate monoester concentrations were measured in a single spot urine sample by isotope dilution-high-performance liquid chromatography coupled to tandem mass spectrometry .
+Men who used cologne or aftershave within 48 hr before urine collection had higher median levels of monoethyl phthalate ( MEP ) ( 265 and 266 ng/mL , respectively ) than those who did not use cologne or aftershave ( 108 and 133 ng/mL , respectively ) .
+For each additional type of product used , MEP increased 33% ( 95% confidence interval , 14-53% ) .
+The use of lotion was associated with lower urinary levels of monobutyl phthalate ( MBP ) ( 14.9 ng/mL ) , monobenzyl phthalate ( MBzP ) ( 6.1 ng/mL ) , and mono(2-ethylhexyl) phthalate ( MEHP ) ( 4.4 ng/mL ) compared with men who did not use lotion ( MBP , 16.8 ng/mL ; MBzP , 8.6 ng/mL ; MEHP , 7.2 ng/mL ) .
+The identification of personal care products as contributors to phthalate body burden is an important step in exposure characterization .
+Further work in this area is needed to identify other predictors of phthalate exposure .

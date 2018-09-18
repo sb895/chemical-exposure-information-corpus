@@ -1,0 +1,14 @@
+BACKGROUND Findings from previous cohort studies suggest a positive association between traffic-related air pollution and cardiovascular mortality .
+However , few studies have assessed intraurban variation in traffic-related pollution or evaluated cardiovascular effects at lower levels of pollution that are typically seen in Canadian cities .
+METHODS We conducted a cohort study of traffic-related air pollution and cardiovascular mortality among adults who lived in three cities in Ontario , Canada .
+Study members of the cohort were a random sample from the federal family income tax database , comprising 205,440 adults age 35-85 years , who lived in Toronto , Hamilton , or Windsor between 1982 and 1986 .
+Follow-up ended on 31 December 2004 .
+Mortality from cardiovascular and cerebrovascular diseases was ascertained using the Canadian Mortality Database .
+We estimated time-dependent concentrations of ambient nitrogen dioxide ( NO2 ) from land-use regression models and assigned exposures to residences of subjects .
+Rate ratios ( RRs ) were estimated from Cox proportional hazard model adjusted for individual risk factors and selected contextual covariables .
+We adjusted indirectly for smoking and obesity .
+RESULTS The spatial distributions of NO2 did not change appreciably over the follow-up period .
+Cumulative exposure to NO2 was associated with a 12% increase in mortality from cardiovascular disease for each increase of 5 parts per billion of NO2 ( 95% confidence interval [ CI ] = 7%-17% ) and a 15% increase ( 8%-21% ) in mortality from ischemic heart disease .
+Risks of cardiovascular mortality were also increased with shorter term exposures , but the RRs were somewhat smaller .
+No association was found for cerebrovascular mortality ( RR = 0.99 [ 95% CI = 0.91-1.08] ) .
+CONCLUSION Traffic-related air pollution at relatively low concentrations in Ontario was associated with increased mortality from cardiovascular disease .

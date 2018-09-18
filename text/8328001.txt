@@ -1,0 +1,9 @@
+The dose-response relationship for environmental cadmium exposure was assessed using logistic regression analysis .
+The prevalence of metallothioneinuria was employed as a response variable , while age and total cadmium intake , calculated from the average cadmium concentration in rice and duration of residence in the cadmium-polluted area , were used as explanatory variables .
+The target population comprised of 1843 cadmium-exposed and 240 non-exposed inhabitants of Ishikawa , Japan .
+The individuals were divided into 96 subgroups by sex , age ( 4 categories ) , cadmium concentrations in rice ( 3 categories ) and length of residence in the polluted area ( 4 categories ) .
+Only total cadmium intake had a significant association with the prevalence of metallothioneinuria .
+In the non-exposed subjects total cadmium intakes corresponding to 2.5% prevalence of metallothioneinuria were calculated .
+Based on metallothionein levels expressed as either microgram/l urine or microgram/g creatinine , the total intakes were : 2.221 or 2.207 g in men and 2.365 or 0.319 g in women , respectively .
+Most of these values were similar to those reported by us previously , employing simple regression analysis .
+It is concluded , therefore , that a maximum allowable intake of about 2 g cadmium is a reasonable estimate for preventing the cadmium-induced renal dysfunction .

@@ -1,0 +1,9 @@
+Disinfection byproducts were measured in the finished drinking water from ten water treatment plants in three Chinese cities - Guangzhou , Foshan and Zhuhai .
+A total of 155 water samples were collected in 2011 and 2012 .
+The median ( range ) of trihalomethane ( THM ) and haloacetic acid ( HAA ) levels were 17.7 ( 0.7-62.7 ) \u03bcg/L and 8.6 ( 0.3-81.3 ) \u03bcg/L , respectively .
+Chloroform , dichloroacetic acid and trichloroacetic acid were the dominant species observed in Guangzhou and Foshan water , while brominated THMs predominated in water from Zhuhai .
+Haloacetonitriles , haloketones , chloral hydrate and trichloronitromethane were usually detected at levels ranging from unquantifiable ( <0.2\u03bcg/L ) to 12.2\u03bcg/L ( choral hydrate ) .
+THMs and HAAs showed clear seasonal variations with the total concentrations higher in winter than in summer .
+Correlations among DBP levels varied , with the strongest linear correlation observed between chloroform and chloral hydrate levels ( R(2)=0.77 ) .
+The risk of cancer from ingestion , inhalation and dermal contact exposure to THMs was estimated .
+CHCl2Br contributed the highest percentage of the cancer risk from ingestion pathway and CHCl3 contributed the highest of cancer risk from inhalation pathway .

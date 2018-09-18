@@ -1,0 +1,8 @@
+Drinking water arsenic exposure has been associated with increased bladder cancer susceptibility .
+Epidemiologic and experimental data suggest a co-carcinogenic effect of arsenic with exposure to DNA damaging agents , such as cigarette smoke .
+Recent evidence further supports the hypothesis that genetic variation in DNA repair genes can modify the arsenic-cancer relationship , possibly because arsenic impairs DNA repair capacity .
+We tested this hypothesis in a population-based study of bladder cancer with XRCC3 , ERCC2 genotype/haplotype and arsenic exposure data on 549 controls and 342 cases .
+Individual exposure to arsenic was determined in toenail samples by neutron activation .
+Gene-environment interaction with arsenic exposure was observed in relation to bladder cancer risk for a variant allele of the double-strand break repair gene XRCC3 T241M ( adjusted OR 2.8 ( 1.1-7.3) ) comparing to homozygous wild type among those in the top arsenic exposure decile ( interaction p-value 0.01 ) .
+Haplotype analysis confirmed the association of the XRCC3 241 .
+Thus , double-strand break repair genotype may enhance arsenic associated bladder cancer susceptibility in the U.S. population .

@@ -1,0 +1,8 @@
+Although animal experiments have shown that cadmium exposure induces alterations in lipid profiles , no epidemiological study of this relationship has been performed .
+The objective of this study was to evaluate the association between blood cadmium concentration and blood lipid levels in Korean adults .
+A cross-sectional study comprising participants ( n=3903 ) aged 20 years or older from the 2005 , 2008 , and 2009 Korea National Health and Nutrition Examination Surveys was conducted .
+Demographic characteristics and dietary intake were obtained from the participants by questionnaire , and cadmium and lipid levels were determined by analysis of blood samples .
+After adjusting for demographic and dietary factors , blood concentration of cadmium was positively associated with the risk of low high-density lipoprotein cholesterol ( HDL-C ) in a dose-dependent manner ( p for trend <0.001 ) .
+In addition , the odds ratios ( ORs ) of a high triglyceride to HDL-C ratio was significantly increased in the high blood cadmium groups [ OR=1.36 ; 95% confidence interval ( CI ) , 1.03-1.79 for fourth quintile and OR=1.41 ; 95% CI , 1.07-1.86 for fifth quintile ] compared with the lowest quintile group .
+However , high blood cadmium was not associated with a risk of high total cholesterol , high low-density lipoprotein cholesterol , or high triglycerides .
+These data suggest that an increased cadmium body burden increases the risk of dyslipidemia , mainly due to the increased risk of low HDL-C and the high ratio of triglycerides to HDL-C .

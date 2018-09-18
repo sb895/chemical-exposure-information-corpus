@@ -1,0 +1,5 @@
+The objective of the present study is to examine whether rice is still a leading source of cadmium ( Cd ) burden among general populations in Japan .
+For this purpose , 10 prefectures were selected from all over Japan ( including the northern- and southern-most Hokkaido and Okinawa prefecture , respectively ) .
+Cadmium levels in urine of never-smoking women ( corrected for creatinine ; Cd-Ucr ) were compared with the rice- and wheat product-based Cd intake , which were estimated from Cd contents in rice and wheat ( in the forms of bread , noodle and flour ) consumed by residents in the areas , and per-capita daily consumption of rice and wheat .
+Stepwise multiple regression analysis taking Cd-Ucr as a dependent variable and rice- or wheat product-based Cd intakes as independent variables showed that rice was the most influential and almost exclusive variable with a partial correlation coefficient of 0.770-0.832 , explaining 59-69% of total variation in Cd-Ucr .
+The effects of other sources including wheat were essentially negligible .

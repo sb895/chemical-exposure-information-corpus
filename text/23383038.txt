@@ -1,0 +1,13 @@
+BACKGROUND Arsenic in drinking water was associated with increased risk of all-cause , cancer , and cardiovascular death in adults .
+However , the extent to which exposure is related to all-cause and deaths from cancer and cardiovascular condition in young age is unknown .
+Therefore , we prospectively assessed whether long-term and recent arsenic exposures are associated with all-cause and cancer and cardiovascular mortalities in Bangladeshi childhood population .
+METHODS AND FINDINGS We assembled a cohort of 58406 children aged 5-18 years from the Health and Demographic Surveillance System of icddrb in Bangladesh and followed during 2003-2010 .
+There were 185 non-accidental deaths registered in-about 0.4 million person-years of observation .
+We calculated hazard ratios for cause-specific death in relation to exposure at baseline ( µg/L ) , time-weighted lifetime average ( µg/L ) and cumulative concentration ( µg-years/L ) .
+After adjusting covariates , hazard ratios ( HRs ) for all-cause childhood deaths comparing lifetime average exposure 10-50.0 , 50.1-150.0 , 150.1-300.0 and ≥300.1µg/L were 1.37 ( 95% confidence interval [ CI ] , 0.74-2.57 ) , 1.44 ( 95% CI , 0.88-2.38 ) , 1.22 ( 95% CI , 0.75-1.98 ) and 1.88 ( 95% CI , 1.14-3.10 ) respectively .
+Significant increased risk was also observed for baseline ( P for trend\u200a=\u200a0.023 ) and cumulative exposure categories ( P for trend\u200a=\u200a0.036 ) .
+Girls had higher mortality risk compared to boys ( HR for girls 1.79 , 1.21 , 1.64 , 2.31 ; HR for boys 0.52 , 0.53 , 1.14 , 0.99 ) in relation to baseline exposure .
+For all cancers and cardiovascular deaths combined , multivariable adjusted HRs amounted to 1.53 ( 95% CI 0.51-4.57 ) ; 1.29 ( 95% CI 0.43-3.87 ) ; 2.18 ( 95%CI 1.15-4.16 ) for 10.0-50.0 , 50.1-150.0 , and \u2265150.1 , comparing lowest exposure as reference ( P for trend\u200a=\u200a0.009 ) .
+Adolescents had higher mortality risk compared to children ( HRs\u200a=\u200a1.53 , 95% CI 1.03-2.28 vs. HRs\u200a=\u200a1.30 , 95% CI 0.78-2.17 ) .
+CONCLUSIONS Arsenic exposure was associated with substantial increased risk of deaths at young age from all-cause , and cancers and cardiovascular conditions .
+Girls and adolescents ( 12-18 years ) had higher risk compared to boys and child .

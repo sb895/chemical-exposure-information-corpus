@@ -1,0 +1,9 @@
+The relative contribution of dietary arsenic ( As ) to aggregate daily exposure has not been well-characterized , especially in relation to the current EPA maximum contaminant level ( MCL ) of 10\u2009p.p.b. for As in drinking water .
+Our objectives were to : ( 1 ) model exposure to inorganic and total As among non-seafood eaters using subject-specific data , ( 2 ) compare the contribution of food , drinking and cooking water to estimated aggregate exposure in households with variable background tap water As levels , and ( 3 ) describe the upper distribution of potential dose at different thresholds of tap water As .
+Dietary As intake was modeled in regional study populations and NHANES 2003-2004 using dietary records in conjunction with published food As residue data .
+Water As was measured in the regional studies .
+Among subjects exposed to tap water As >10\u2009p.p.b. , aggregate inorganic exposure was 24.5-26.1\u2009\u03bcg/day , with approximately 30% of intake from food .
+Among subjects living in homes with tap water As \u226410 , 5 or 3\u2009p.p.b. , aggregate inorganic As exposure was 8.6-11.8\u2009\u03bcg/day , with 54-85% of intake from food .
+Median inorganic As potential dose was 0.42-0.50\u2009\u03bcg/kg BW/day in subjects exposed to tap water As >10\u2009p.p.b. and less than half that among subjects exposed to tap water As \u226410\u2009p.p.b .
+The majority of inorganic and total As exposure is attributable to diet in subjects with tap water As <MCL .
+Further research is needed to determine the potential toxicity and need for regulation of As in foods .

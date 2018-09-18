@@ -1,0 +1,9 @@
+Phthalates are esters of phthalic acid and are mainly used as plasticizers ( added to plastics to increase their flexibility , transparency , durability , and longevity ) .
+Humans are exposed to phthalates through several routes .
+Urinary phthalate metabolites can be used as biomarkers of human exposures to phthalates .
+In this study , 14 phthalate metabolites were analyzed in 183 urine samples collected in 2010 from Shanghai , Guangzhou , and Qiqihaer , China .
+Phthalate metabolites were found in all urine samples and their total concentrations ranged from 18.6 to 3160 ng/mL ( median : 331 ng/mL ) .
+Mono-n-butyl phthalate ( mBP ) and mono-2-isobutyl phthalate ( miBP ) were the major metabolites found in urine , and their respective median concentrations were 61.2 and 51.7 ng/mL ; concentrations of miBP were higher than the concentrations reported for other countries , to date .
+Based on the urinary concentrations of phthalate metabolites , we estimated the daily intake rates in the Chinese population .
+The estimated daily intakes of dibutyl phthalate ( DBP ) , diethyl phthalate ( DEP ) , and di-(2-ethylhexyl) phthalate ( DEHP ) in China were 12.2 , 3.8 , and \u03bcg/kg bw/day , respectively .
+Thirty nine percent of the samples exceeded the tolerable daily intake of 10 \u03bcg/kg bw/day , proposed for DBP , by the European Food Safety Authority , but none of the estimated daily intake values exceeded the reference dose recommended by the U.S. Environmental Protection Agency .

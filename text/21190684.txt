@@ -1,0 +1,9 @@
+OBJECTIVES The aim of this study was to evaluate the reference level of urinary cadmium ( Cd ) that caused renal effects .
+An updated hybrid approach was used to estimate the benchmark doses ( BMDs ) and their 95% lower confidence limits ( BMDL ) in subjects with a wide range of exposure to Cd .
+METHODS The total number of subjects was 1509 ( 650 men and 859 women ) in non-polluted areas and 3103 ( 1397 men and 1706 women ) in the environmentally exposed Kakehashi river basin .
+We measured urinary cadmium ( U-Cd ) as a marker of long-term exposure , and \u03b22-microglobulin ( \u03b22-MG ) as a marker of renal effects .
+The BMD and BMDL that corresponded to an additional risk ( BMR ) of 5% were calculated with background risk at zero exposure set at 5% .
+RESULTS The U-Cd BMDL for \u03b22-MG was 3.5\u03bcg/g creatinine in men and 3.7 \u03bcg/g creatinine in women .
+CONCLUSIONS The BMDL values for a wide range of U-Cd were generally within the range of values measured in non-polluted areas in Japan .
+This indicated that the hybrid approach is a robust method for different ranges of cadmium exposure .
+The present results may contribute further to recent discussions on health risk assessment of Cd exposure .

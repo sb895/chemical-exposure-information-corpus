@@ -1,0 +1,9 @@
+Chronic low-level cadmium ( Cd ) exposure is linked to kidney and cardiovascular disease , fractures , and cancer .
+Diet and smoking are primary sources of exposure in the general population .
+We analyzed urinary Cd in NHANES 1999-2008 to determine whether levels declined significantly over the decade for U.S. children , teens , and adults ( nonsmokers and smokers ) and , if so , factors influencing the decline(s) .
+For each subpopulation , we modeled log urinary Cd using variable-threshold censored multiple regression .
+Models included individual-level covariates ( age , gender , BMI , income , race/ethnicity/country of origin , education , survey period ) , smoking , housing ( home age , water source , filter use ) , and diet ( supplement use ; 24-h calorie , fat , protein , micronutrient , and Cd-containing food intakes ) , creatinine , and survey year variables .
+Geometric mean urinary Cd ( ng/mL ) declined 20-25% in these subpopulations , and the regressions showed statistically significant declines in later years for teens and adults .
+While certain covariates were significantly associated with Cd by subpopulation ( creatinine ; age ; BMI ; race/ethnicity/origin ; education ; smokers in the home ; serum cotinine ; 24-h fat , Mg , Fe intakes ; use of dietary supplements ) , they did not help explain the declines .
+Instead , unidentified time-related factors appeared responsible .
+Despite the declines , millions of Americans remain potentially at risk of adverse outcomes associated with low-level Cd exposure .

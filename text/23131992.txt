@@ -1,0 +1,10 @@
+BACKGROUND Prospective data regarding persistent organic pollutants ( POPs ) and risk of type 2 diabetes ( T2D ) are limited , and the results for individual POPs are not entirely consistent across studies .
+OBJECTIVES We prospectively examined plasma POP concentrations in relation to incident T2D and summarized existing evidence in a meta-analysis .
+METHODS Plasma polychlorinated biphenyls ( PCBs ) , dichlorodiphenyltrichloroethane ( DDT ) , dichlorodiphenyldichloroethylene ( DDE ) , and hexachlorobenzene ( HCB ) concentrations were measured in 1,095 women who were free of diabetes at blood draw in 1989-1990 and participated in two case-control studies in the Nurses ' Health Study .
+We identified 48 incident T2D cases through 30 June 2008 .
+We conducted a literature search in PubMed and EMBASE through December 2011 to identify prospective studies on POPs in relation to diabetes .
+We used a fixed-effects model to summarize results .
+RESULTS After multivariable adjustment , plasma HCB concentration was positively associated with incident T2D [ pooled odds ratio ( OR ) 3.59 ( 95% CI : 1.49 , 8.64 , ptrend = 0.003 ) comparing extreme tertiles ] .
+Other POPs were not significantly associated with diabetes .
+After pooling our results with those of six published prospective studies that included 842 diabetes cases in total , we found that HCB and total PCBs both were associated with diabetes : the pooled ORs were 2.00 ( 95% CI : 1.13 , 3.53 ; I2 = 21.4% , pheterogeneity = 0.28 ) and 1.70 ( 95% CI : 1.28 , 2.27 ; I2 = 16.3% , pheterogeneity = 0.30 ) for HCB and total PCBs , respectively .
+CONCLUSIONS These findings support an association between POP exposure and the risk of T2D .

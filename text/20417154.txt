@@ -1,0 +1,15 @@
+In this paper an integrated approach in assessment of the population exposure from various sources of total mercury ( THg ) oral intake in the Czech Republic is presented .
+The information on total mercury levels in diet , drinking water , surface urban soil and body fluids and tissues stem from the Czech national Environmental Health Monitoring System ( EHMS ) operated since 1994 .
+The THg concentration was determined by the special atomic absorption spectrophotometer AMA 254 .
+The data on THg content in food from the sales network were collected in 12 cities .
+The estimated average dietary intake representing more than 95% of weight of usual diet composition ranged 1-2% of the JECFA/FAO WHO provisional tolerable weekly intake ( PTWI ) value for total mercury ( 5 microg/kg b.w./week ) .
+Data on drinking water quality stem from the nationwide monitoring database .
+The content of THg in drinking water is generally low ; only 0.2% of the Czech population supplied with drinking water from the distribution networks ( total of 92% of the population ) has a mercury intake from drinking water higher than 1% PTWI and not exceeding 5% PTWI .
+The estimation of potential mercury intake by unintentional consumption of soil in small children was based on THg content in surface soil of a total of 324 nursery schools in 24 cities and towns .
+Median value was 0.16 mg/kg .
+Human biomonitoring was performed in 9 Czech cities .
+In 2007 , the mercury median values in blood of adults ( N=412 ) were 0.85 and 0.89 microg/l in males and in females , respectively ; urine median value in adults was 1.10 microg/g creatinine .
+In 2008 , the blood median value in children ( N=324 ) amounted to 0.35 microg/l ; urine median value is 0.16 microg/g creatinine .
+In children's hair the median THg value was 0.18 microg/g .
+The correlation between fish consumption and blood THg levels was observed in both adults and children .
+Also the biomonitoring outputs did not reveal a substantial burden of the population .

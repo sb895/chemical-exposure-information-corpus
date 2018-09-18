@@ -1,0 +1,11 @@
+A mercapturic acid attached to the aromatic ring of toluene was for the first time detected in human urine as a metabolite of toluene .
+Since the metabolism of toluene is usually considered to take place at the side-chain , this gives , besides the biosynthesis of cresols , a further hint of a metabolic conversion of the aromatic system .
+We examined a group of 33 workers occupationally exposed to toluene , determining the concentrations of toluene in ambient air and in whole blood , o-cresol and hippuric acid in urine and p-toluylmercapturic acid ( p-TMA ) in urine .
+All blood and urine samples were collected post-shift .
+The renal excretion of S-p-toluylmercapturic acid showed highly significant correlations with established parameters of a biological monitoring of toluene .
+The median ambient air concentration was 63 ppm , ranging from 13 to 151 ppm , the median concentration of toluene in whole blood was 804 microg/l , corresponding to median urinary concentrations for o-cresol of 2.3 mg/l , hippuric acid of 2.3 g/l and p-TMA of 20.4 microg/l. p-TMA was not detectable in urine samples of a control group of 10 non-exposed persons .
+Both the German Biological Tolerance Values ( BAT-values ) for toluene in blood ( 1000 microg/l ) and o-cresol in urine ( 3 mg/l ) correspond to a mean p-TMA elimination of approximately 50 microg/l , and thus are in agreement with each other .
+According to our results p-TMA reflects internal toluene exposure diagnostically sensitive and specifical .
+With the developed analytical procedure we determined a median benzylmercapturic acid ( BMA ) concentration of 190 microg/l in the urine samples of the toluene exposed persons .
+We also determined a median BMA concentration of 30 microg/l in the control samples of non-exposed persons .
+However , these results are preliminary and require further confirmation as the reliability of the method was determined only for p-TMA .

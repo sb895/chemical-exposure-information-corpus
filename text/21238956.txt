@@ -1,0 +1,9 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) have been hypothesized to increase the risk of non-Hodgkin lymphoma ( NHL ) , although conclusive evidence is still lacking .
+High levels of PCBs were found in soil in some areas close to a PCB-producing factory in Brescia , North Italy .
+We conducted a population-based case-control study among residents of the town to investigate the possible association between PCB pollution and NHL in this area .
+METHODS We included both incident and deceased NHL cases , and a random sample of the town residents as controls , frequency matched to cases as regards age and gender .
+Exposure to PCBs was estimated on the basis of the lifetime residential history of cases and controls in four different areas of the town-A , B and C ( polluted areas ) and D ( control area ) .
+RESULTS A total of 495 cases ( 287 incident cases ) and 1467 controls were enrolled .
+Positive associations were found between NHL and having resided for at least 10 years in the area A , the most polluted area ( odds ratio , OR=1.8 ; p=0.02 ) and for having resided in any of the polluted areas considered together ( A+B+C ) ( OR=1.4 ; p=0.08 ) .
+However , no associations were evident for having resided 20 years or longer in the polluted areas or when analyzing the association with each subject's main residence in his/her lifetime .
+CONCLUSION This study provides some evidence for an association between PCB exposure and NHL , though results should be considered with caution in the absence of individual biological measures of exposure .

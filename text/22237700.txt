@@ -1,0 +1,11 @@
+15 road and 14 soil dust samples were collected from an oilfield city , Dongying , from 11/2009-4/2010 and analyzed by inductively coupled plasma-mass spectroscopy ( ICP-MS ) for V , Cr , Mn , Co , Ni , Cu , Zn , As , Cd and Pb within PM(2.5) , PM(10) and PM(100) fractions synchronously .
+Metal concentrations , sources and human health risk were studied .
+Results showed that both soil and road dust exhibited higher values for Mn and Zn and lower values for Co and Cd for the three fractions .
+Mass concentration ratios of PM(2.5)/PM(10) and PM(10)/PM(100) for metals in road and soil dust indicate that most of the heavy metals tend to concentrate in fine particles .
+Geoaccumulation index and enrichment factors analysis showed that Cu , Zn and Cd exhibited moderate or heavy contamination and significant enrichment , indicating the influence of anthropogenic sources .
+Vanadium , Cr , Mn and Co were mostly not enriched and were mainly influenced by crustal sources .
+For Ni , As and Pb , they ranged from not enriched to moderately enriched and were influenced by both crustal materials and anthropogenic sources .
+The conclusions were confirmed by multivariate analysis methods .
+Principle component analysis revealed that the major sources were vehicle emission , industrial activities , coal combustion , agricultural activities and crustal materials .
+The risk assessment results indicated that metal ingestion appeared to be the main exposure route followed by dermal contact .
+The most likely cause for cancer and other health risks are both the fine particles of soil and road dusts .

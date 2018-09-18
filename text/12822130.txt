@@ -1,0 +1,8 @@
+BACKGROUND Impairment of olfactory function in humans has been associated with occupational exposure to volatile chemicals .
+To investigate whether exposure to styrene was associated with olfactory impairment , olfactory function was examined in workers with a minimum of 4 years exposure to styrene in the reinforced-plastics industry ( current mean exposure : 26 ppm , range : 10-60 ppm ; historic mean dose : 156 ppm-years , range : 13.8-328 ppm-years ) and in a group of age- and gender-matched , unexposed controls .
+METHODS Olfactory function was assessed using a standardized battery that included tests of threshold sensitivity for phenylethyl alcohol ( PEA ) , odor identification ability , and retronasal odor perception .
+Odor detection thresholds for styrene were also obtained as a measure of specific adaptation to the work environment .
+RESULTS No differences were observed between exposed workers and controls on tests of olfactory function .
+Elevation of styrene odor detection thresholds among exposed workers indicated exposure-induced adaptation .
+CONCLUSIONS The present study found no evidence among a cross-section of reinforced-plastics industry workers that current or historical exposure to styrene was associated with impairment of olfactory function .
+Taken together with anatomical differences between rodent and human airways and the lack of evidence for styrene metabolism in human nasal tissue , the results strongly suggest that at these concentrations , styrene is not an olfactory toxicant in humans .

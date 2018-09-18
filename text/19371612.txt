@@ -1,0 +1,12 @@
+To elucidate the role of genetic factors in arsenic ( As ) metabolism , we studied associations of single nucleotide polymorphisms ( SNPs ) in As ( +3 oxidation state ) methyltransferase ( AS3MT ) with the As concentrations in hair and urine , and urinary As profile in residents in the Red River Delta , Vietnam .
+Concentrations of total As in groundwater were 0.7-502 mug/l .
+Total As levels in groundwater drastically decreased by using sand filter , indicating that the filter could be effective to remove As from raw groundwater .
+Concentrations of inorganic As ( IAs ) in urine and total As in hair of males were higher than those of females .
+A significant positive correlation between monomethylarsonic acid ( MMA)/IAs and age in females indicates that older females have higher methylation capacity from IAs to MMA .
+Body mass index negatively correlated with urinary As concentrations in males .
+Homozygote for SNPs 4602AA , 35991GG , and 37853GG , which showed strong linkage disequilibrium ( LD ) , had higher percentage ( % ) of dimethylarsinic acid ( DMA ) in urine .
+SNPs 4740 and 12590 had strong LD and associated with urinary %DMA .
+Although SNPs 6144 , 12390 , 14215 , and 35587 comprised LD cluster , homozygotes in SNPs 12390GG and 35587CC had lower DMA/MMA in urine , suggesting low methylation capacity from MMA to DMA in homo types for these SNPs .
+SNPs 5913 and 8973 correlated with %MMA and %DMA , respectively .
+Heterozygote for SNP 14458TC had higher MMA/IAs in urine than TT homozygote , indicating that the heterozygote may have stronger methylation ability of IAs .
+To our knowledge , this is the first study on the association of genetic factors with As metabolism in Vietnamese .

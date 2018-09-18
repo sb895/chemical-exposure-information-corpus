@@ -1,0 +1,10 @@
+Excessive urinary calcium excretion is the major risk of urinary stone formation .
+Very few population studies have been performed to determine the relationship between environmental cadmium exposure and urinary stone disease .
+This population-based study examined an association between urinary cadmium excretion , a good biomarker of long-term cadmium exposure , and prevalence of urinary stones in persons aged 15 years and older , who lived in the 12 cadmium-contaminated villages in the Mae Sot District , Tak Province , northwestern Thailand .
+A total of 6748 persons were interviewed and screened for urinary cadmium and urinary stone disease in 2009 .
+To test a correlation between urinary excretion of cadmium and calcium , we measured urinary calcium content in 1492 persons , who lived in 3 villages randomly selected from the 12 contaminated villages .
+The rate of urinary stones significantly increased from 4.3% among persons in the lowest quartile of urinary cadmium to 11.3% in the highest quartile .
+An increase in stone prevalence with increasing urinary cadmium levels was similarly observed in both genders .
+Multiple logistic regression analysis revealed a positive association between urinary cadmium levels and stone prevalence , after adjusting for other co-variables .
+The urinary calcium excretion significantly increased with increasing urinary cadmium levels in both genders , after adjusting for other co-variables .
+Elevated calciuria induced by cadmium might increase the risk of urinary stone formation in this environmentally exposed population .

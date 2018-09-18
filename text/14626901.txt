@@ -1,0 +1,15 @@
+Exposures to water disinfection by-products ( DBPs ) via ingestion of drinking water , and dermal absorption and inhalation during showering/bathing were assessed in the city of Cherepovets , Russia , which uses heavy chlorination to disinfect organic-rich surface water .
+Concentrations of DBPs ( mean +/- standard deviation ) in tap water were the following : total trihalomethanes ( THMs ) 205 +/- 70 micrograms/l , five haloacetic acids ( HAAs ) 150 +/- 30 micrograms/l , and 3-chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone ( mutagen X or MX ) 160 +/- 50 ng/l .
+Concentrations of THMs and HAAs exceeded the corresponding US standards by a factor of 2.5 , while MX concentrations were the highest ever reported .
+The mutagenic activity of tap water extracts in the Salmonella TA-100 assay was 14,900 net revertants/l .
+Concentrations of chloroform in breathing zone air in bathrooms during showering were 330 +/- 260 micrograms/m3 , shower room air at an industrial plant 2,600 +/- 1,100 micrograms/m3 , and bedrooms of local residents 2 +/- 2 micrograms/m3 .
+The mean concentration of chloroform was 3.2 micrograms/m3 in exhaled air samples collected before showering and 110 micrograms/m3 after showering .
+Data on water ingestion and water use practices in the general population and for pregnant women were collected using questionnaires and diaries .
+Due to concerns over microbiological safety of water , average daily consumption of non-boiled tap water in pregnant women was only 0.01 l/day , while consumption of boiled tap water was 0.81 l/day .
+This resulted in low ingestion exposures to volatile THMs .
+Inhalation and dermal absorption determined total exposures to these compounds .
+HAAs and MX persist in boiled water and drinks resulting in high ingestion exposures .
+Several brands of inexpensive home water filters were tested for removal of these compounds .
+To demonstrate a method of exposure reduction in a sensitive subpopulation , the most efficient filters were given to a group of pregnant women .
+These women and a control group of pregnant women without filters maintained water ingestion diaries for two weeks .
+The use of home filters resulted in reduction of exposures to HAAs by a factor of three and a greater reduction in exposures to MX .

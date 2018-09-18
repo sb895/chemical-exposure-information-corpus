@@ -1,0 +1,10 @@
+Mercury can have profound and complicated effects on the immune system , and epidemiological evidence regarding the relationship between mercury exposure and allergic disorders has been sparse .
+We investigated the associations between mercury levels in maternal and children's hair and the risk of wheeze and eczema in Japanese children at 29-39 months of age .
+Study subjects were 582 Japanese mother-child pairs .
+Presence or absence of wheeze and eczema symptoms was determined based on the criteria of the International Study of Asthma and Allergies in Childhood .
+Adjustment was made for maternal age ; residential municipality at baseline ; maternal and paternal education ; maternal and paternal history of allergic disorders ; maternal energy-adjusted fish intake during pregnancy ; maternal smoking during pregnancy ; number of child's older siblings ; child's sex ; household smoking in the same room as the child ; breastfeeding duration ; and children's fish intake at the fourth survey .
+The prevalence of wheeze and eczema was 18.6% and 17.2% , respectively .
+The range of hair mercury levels was 0.26-6.05 \u03bcg/g in mothers and 0.13-9.51 \u03bcg/g in children .
+Neither maternal nor children's hair mercury levels were related to the risk of wheeze or eczema .
+Maternal and children's hair mercury levels in the second quartile were non-significantly inversely related to the risk of wheeze ( adjusted odds ratios [ 95% confidence intervals ] were 0.77 [ 0.41-1.44 ] and 0.57 [ 0.29-1.11 ] , respectively ) while those in the third quartile were non-significantly inversely associated with the risk of eczema ( adjusted odds ratios [ 95% confidence intervals ] were 0.77 [ 0.40-1.45 ] and 0.66 [ 0.33-1.30 ] , respectively ) .
+The current study provides no evidence that hair mercury levels in either mothers or children are positively associated with the risk of wheeze or eczema in children aged 29-39 months in Japan , where fish intake is high .

@@ -1,0 +1,7 @@
+Skin diseases , such as hand dermatitis , are thought to be a common problem in the rubber manufacturing industry , as workers are exposed to a wide range of chemicals with known irritant and sensitizing potential .
+We conducted a cross-sectional survey of a representative sample of rubber manufacturing workers ( N = 202 ) , selected from nine different rubber companies .
+Prevalence of hand dermatitis ( "major " and " minor " dermatitis ) and skin injuries was assessed on the basis of a diagnosis by a dermatologist .
+We investigated the possible relations between actual skin exposure , handwashing practices , and hand dermatitis .
+Prevalence of major hand dermatitis ( 7% ) was comparable with that in the general population ; however , minor signs of dermatitis were more common among the surveyed population ( 28% ) , as were traumata of the skin ( 17% ) .
+Dermal exposure to cyclohexane-soluble agents at work was related to the occurrence of major hand dermatitis , but not to the occurrence of minor hand dermatitis .
+Moderate and frequent handwashing especially with industrial surfactants containing scrubbing particles were found to be strongly associated with the occurrence of minor dermatitis [ odds ratio = 4.27 ( 95% confidence interval = 0.90-20.27 ) and odds ratio = 6.38 ( 95% confidence interval = 1.33-30.17 , respectively) ] .

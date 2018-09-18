@@ -1,0 +1,8 @@
+Chronic exposure to arsenic ( As ) in food and water is a significant public health problem .
+Person-specific aggregate exposure is difficult to collect and modeling based on limited food As residue databases is of uncertain reliability .
+Two cross-sectional population exposure studies , the National Human Exposure Assessment Survey-Arizona and Arizona Border Survey , had a combined total of 252 subjects with diet , water , and urinary As data .
+Total As was measured in 24-h duplicate diet samples and modeled using 24-h diet diaries in conjunction with several published food surveys of As .
+Two-stage regression was used to assess the effects of dietary As on urinary total As ( uAs ) : ( 1 ) generalized linear mixed models of uAs above versus below the limit of detection ( LOD ) ; and ( 2 ) restricted models limited to those subjects with uAs>LOD , using bootstrap sampling and mixed models adjusted for age , sex , body mass index , ethnicity , current smoking , and As intake from drinking and cooking water .
+In restricted models , measured and modeled estimates were significant predictors of uAs .
+Modeled dietary As based on Total Diet Study mean residues greatly underestimated the dietary intake .
+In households with tap water As \u226410\u2009p.p.b. , over 93% of total arsenic exposure was attributable to diet .

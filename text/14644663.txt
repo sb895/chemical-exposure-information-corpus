@@ -1,0 +1,9 @@
+Perfluorooctanesulfonyl fluoride-based products have included surfactants , paper and packaging treatments , and surface protectants ( e.g. , for carpet , upholstery , textile ) .
+Depending on the specific functional derivatization or degree of polymerization , such products may degrade or metabolize , to an undetermined degree , to perfluorooctanesulfonate ( PFOS ) , a stable and persistent end product that has the potential to bioaccumulate .
+In this investigation , a total of 645 adult donor serum samples from six American Red Cross blood collection centers were analyzed for PFOS and six other fluorochemicals using HPLC-electrospray tandem mass spectrometry .
+PFOS concentrations ranged from the lower limit of quantitation of 4.1 ppb to 1656.0 ppb with a geometric mean of 34.9 ppb [ 95% confidence interval ( CI ) , 33.3-36.5 ] .
+The geometric mean was higher among males ( 37.8 ppb ; 95% CI , 35.5-40.3 ) than among females ( 31.3 ppb ; 95% CI , 30.0-34.3 ) .
+No substantial difference was observed with age .
+The estimate of the 95% tolerance limit of PFOS was 88.5 ppb ( upper limit of 95% CI , 100.0 ppb ) .
+The measures of central tendency for the other fluorochemicals ( N-ethyl perfluorooctanesulfonamidoacetate , N-methyl perfluorooctanesulfonamidoacetate , perfluorooctanesulfonamidoacetate , perfluorooctanesulfonamide , perfluorooctanoate , and perfluorohexanesulfonate ) were approximately an order of magnitude lower than PFOS .
+Because serum PFOS concentrations correlate with cumulative human exposure , this information can be useful for risk characterization .

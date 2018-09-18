@@ -1,0 +1,11 @@
+BACKGROUND The association between metals in water and soil and adverse child neurologic outcomes has focused on the singular effect of lead ( Pb ) , mercury ( Hg ) , and arsenic ( As ) .
+This study describes the complex association between soil concentrations of As combined with Pb and the probability of intellectual disability ( ID ) in children .
+METHODS We used a retrospective cohort design with 3988 mother child pairs who were insured by Medicaid and lived during pregnancy and early childhood in South Carolina between 1/1/97 and 12/31/02 .
+The children were followed until 6/1/08 , using computerized service files , to identify the diagnosis of ID in medical records and verified by either school placement or disability service records .
+The soil was sampled using a uniform grid and analyzed for eight metals .
+The metal concentrations were interpolated using Bayesian Kriging to estimate concentration at individual residences .
+RESULTS The probability of ID increased for increasing concentrations of As and Pb in the soil .
+The Odds Ratio for ID , for one unit change in As was 1.130 ( 95% confidence interval 1.048-1.218 ) for Pb was 1.002 ( 95% confidence interval 1.000-1.004 ) .
+We identified effect modification for the infants based on their birth weight for gestational age status and only infants who were normal size for their gestational age had increased probability of ID based on the As and Pb soil concentrations ( OR for As at normal weight for gestational age=1.151 ( 95% CI : 1.061-1.249 ) and OR for Pb at normal for gestational age=1.002 ( 95% CI : 1.002-1.004) ) .
+For normal weight for gestational age children when As=22 mg kg(-1) and Pb=200 mg kg(-1) the risk for ID was 11% and when As=22 mg kg(-1)and Pb=400 mg kg(-1) the probability of ID was 65% .
+CONCLUSION The probability of ID is significantly associated with the interaction between Pb and As for normal weight for gestational age infants .

@@ -1,0 +1,14 @@
+INTRODUCTION Polychlorinated biphenyls ( PCBs ) and dibenzofurans ( PCDFs ) are ubiquitous persistent pollutants in humans .
+Whether people with different genotypes are with different susceptibility to these chemicals are unknown .
+In a group of people highly exposed to PCBs/PCDFs , we tested the hypothesis that genotypic polymorphisms affected susceptibility for development of skin manifestations .
+METHODS In 1979 , approximately 2000 people in central Taiwan ingested cooking oil contaminated with PCBs/PCDFs .
+Skin disorder such as chloracne , abnormal nail , hyperkeratosis and skin allergy were found in PCBs/PCDFs exposed group .
+We recruited exposed and community background exposure subjects for blood testing and telephone-interview .
+Single nucleotide polymorphisms , AhR Arg554Lys , CYP1A1 Ile462Val , CYP1A1 T6235C , and GSTM1/T1 deletion , were determined .
+Occurrence of skin manifestations was compared among people with different genotypes while stratified by PCB exposure levels by logistic regression .
+RESULTS Data on exposure , medical history , and genotypes were obtained from 393 exposed and 181 background exposure groups .
+Skin manifestations including chloracne , allergy , abnormal nail , and hyperkeratosis were more prevalent in exposed people in a dose-related manner .
+Among highly exposed individuals , combined CYP1A1-MspI mutant genotype and GSTM1-null genotype were associated with increased risk of chloracne ( odds ratio 2.8 , 95% confidence interval 1.1-7.6 ) .
+Among intermediately exposed individuals , GSTM1 null genotype was associated with skin allergy .
+AhR Arg554Lys genotype and GSTT1 null genotype were not related to susceptibility to skin manifestations in PCB/PCDF-exposed population .
+CONCLUSION CYP1A1 and GSTM1 genotypic polymorphisms might be related to the susceptibility to PCB/PCDF-induced skin manifestations .

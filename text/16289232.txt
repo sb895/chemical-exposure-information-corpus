@@ -1,0 +1,8 @@
+Chiral signatures of PCB#s 95 and 149 are reported for indoor air , grass , omnivorous and vegan duplicate human diet homogenates , and human faeces .
+Comparison of chiral signatures of both congeners in grass with those reported previously for outdoor air ( measured at a height of 1.5 m ) and soil at the same location suggest that volatilisation of PCBs present in soil may exert a significant influence on concentrations in grass .
+Duplicate diet homogenates display racemic signatures for both congeners .
+Alongside the racemic signatures in both outdoor and indoor air , this implies that human intake via diet and inhalation is racemic , and that the previously observed variation between individuals in the extent of enantioselective degradation in human liver samples indicates possible inter-individual variation in ability to metabolise PCBs .
+Chiral signatures of PCB# 95 in the 10 human faecal samples analysed indicate 8 to be racemic , but 2 to display an excess of the 2nd eluting enantiomer .
+This is consistent with the excess of the 1st eluting enantiomer reported elsewhere for human liver samples , as it implies enantioselective excretion of the 2nd eluting enantiomer .
+However , the racemic residues for PCB# 95 in the majority of faecal samples are a possible indication that enantioselective interaction of chiral PCBs with cytochrome P450 occurs slowly .
+The racemic or near-racemic signatures observed for PCB# 95 and 149 in indoor air match closely those in outdoor air , but differ from those in soil , adding to the weight of evidence that ventilation of indoor air is a far more significant contributor to outdoor air concentrations than volatilisation of PCBs from soil .

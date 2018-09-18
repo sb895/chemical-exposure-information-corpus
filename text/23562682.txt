@@ -1,0 +1,8 @@
+The purpose of the study was to analyse temporal trends ( 1993-2009 ) of the concentrations of organochlorine contaminants ( 14 congeners of polychlorinated biphenyls ( PCB ) and 11 pesticides ) in the blood of Greenland Inuit according to age and urbanisation .
+Statistical determinants for the contaminant concentrations included ( for PCB congener 153 ) age ( \u0394r(2)=0.35 ) , marine diet ( \u0394r(2)=0.10 ) , smoking ( \u0394r(2)=0.02 ) , and sex ( \u0394r(2)=0.01 ) with comparable results for other organochlorine contaminants .
+After adjustment for age , diet , smoking , and sex a significant decreasing trend was present for all contaminants ranging from 41% for mirex to 56% for hexachlorobenzene .
+The temporal trend was most pronounced among participants below the age of 65 years .
+The decrease started later in villages than in towns .
+The decrease was present in all age groups and in the capital , other towns , and villages .
+The decrease is probably due to a combination of reduced concentrations of the contaminants in the wildlife and a slight temporal reduction in the consumption of marine mammals .
+The significant downwards trend of legacy POPs shows that the legislation works but it must be kept in mind that according to the cumulated scientific evidence there are a multitude of non-regulated persistent organic contaminants in the diet as well as high levels of methylmercury .

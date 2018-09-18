@@ -1,0 +1,8 @@
+The relationship between the mortality of leukemia and the contents of trace elements in the soils of 29 regions of China was investigated .
+A total of 27 elements were determined for each region .
+Considering that an efficient variable selection can be highly beneficial both to improve the predictive ability of the model and to greatly reduce its complexity , genetic algorithm-partial least squares was used to screen out 13 qualified elements .
+As a result , only 13 elements , i.e. , As , Hg , Mn , Sr , Ba , Cu , Ti , Co , K , Ca , Rb , Zn , and Mg , were picked out and , a partial least squares model with three latent variables was obtained , whose prediction exhibited a correlative coefficient of 0.874 with actual mortality .
+Especially , it showed a high negative correlation between the content of soil As and the mortality of leukemia .
+Such a fact can be explained by the apoptotic effect of cancerous cells by trace-amount arsenic trioxide .
+Furthermore , according to whether the mortality was larger than two out of 100,000 ( 2 × 10⁻⁵ ) , all the 29 regions were divided into 21 high-mortality regions and eight low-mortality regions and were assigned the label -1 or 1 , respectively .
+Using the same 13 elements , a Fisher's discriminant analysis model was developed , which can successfully discriminate low- and high-mortality groups .

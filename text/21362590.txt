@@ -1,0 +1,8 @@
+BACKGROUND Residents of Anniston , Alabama , live near a Monsanto plant that manufactured polychlorinated biphenyls ( PCBs ) from 1929 to 1971 and are relatively heavily exposed .
+OBJECTIVES The goal of this study was to determine the relationship , if any , between blood pressure and levels of total serum PCBs , several PCB groups with common actions or structure , 35 individual PCB congeners , and nine chlorinated pesticides .
+METHODS Linear regression analysis was used to determine the relationships between blood pressure and serum levels of the various contaminants after adjustment for age , body mass index , sex , race , smoking , and exercise in 394 Anniston residents who were not taking antihypertensive medication .
+RESULTS Other than age , total serum PCB concentration was the strongest determinant of blood pressure of the covariates studied .
+We found the strongest associations for those PCB congeners that had multiple ortho chlorines .
+We found the associations over the full range of blood pressure as well as in those subjects whose blood pressure was in the normal range .
+The chlorinated pesticides showed no consistent relationship to blood pressure .
+CONCLUSIONS In this cross-sectional study , serum concentrations of PCBs , especially those congeners with multiple ortho chlorines , were strongly associated with both systolic and diastolic blood pressure .

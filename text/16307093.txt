@@ -1,0 +1,14 @@
+The analysis for arsenic in hair is commonly used in epidemiological studies to assess exposure to this toxic element .
+However , poor correlation between total arsenic concentration in hair and water sources have been found in previous studies .
+Exclusive determination of endogenous arsenic in the hair , excluding external contamination has become an analytical challenge .
+Arsenic speciation in hair appears as a new possibility for analytical assessing in As-exposure studies .
+This study applied a relative simple method for arsenic speciation in human hair based on water extraction and HPLC-HG-ICP-MS .
+The concentration of arsenic species in human hair was assessed in chronically As(V)-exposed populations from two villages ( Esquiña and Illapata ) of the Atacama Desert , Chile .
+The arsenic concentrations in drinking water are 0.075 and 1.25 mg L(-1) , respectively , where As(V) represented between 92 and 99.5% of the total arsenic of the consumed waters .
+On average , the total arsenic concentrations in hair from individuals of Esquiña and Illapata were 0.7 and 6.1 microg g(-1) , respectively .
+Four arsenic species , As(III) , DMA(V) , MMA(V) and As(V) , were detected and quantified in the hair extracts .
+Assuming the found species in extracts represent the species in hair , more than 98% of the total arsenic in hair corresponded to inorganic As .
+On average , As(III) concentrations in hair were 0.25 and 3.75 microg g(-1) in Esquiña and Illapata , respectively ; while , the As(V) average concentrations were 0.15 and 0.45 microg g(-1) in Esquiña and Illapata , respectively .
+Methylated species represent less than 2% of the extracted As ( DMA(V)+ MMA(V) ) in both populations .
+As(III) in hair shows the best correlation with chronic exposure to As(V) in comparison to other species and total arsenic .
+In fact , concentrations of As(total) , As(III) and As(V) in hair samples are correlated with the age of the exposed individuals from Illapata ( R= 0.65 , 0.69 , 0.57 , respectively ) and with the time of residence in this village ( R= 0.54 , 0.71 and 0.58 , respectively ) .

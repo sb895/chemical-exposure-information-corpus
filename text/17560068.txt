@@ -1,0 +1,11 @@
+We analysed adipose tissue concentrations of persistent organic pollutants ( POPs ) in 21 cases with exocrine pancreatic cancer .
+The comparison group consisted of 59 subjects .
+Significantly increased concentrations of polychlorinated biphenyls ( PCBs ) , hexachlorobenzene ( HCB ) , sum of chlordanes and polybrominated diphenylethers ( PBDEs ) were found in the cases .
+For 1,1,-dichloro-2,2-bis(p-chlorophenyl)-ethylene ( p,p'-DDE ) no significant difference was seen .
+For PCBs no odds ratio ( OR ) could be calculated since all cases had concentration>median in controls used as a cut-off .
+HCB yielded OR=53.0 , 95% confidence interval ( CI)=4.64-605 and sum of chlordanes OR=18.4 , 95% CI=2.71-124 whereas OR was not significantly increased for p,p'-DDE or PBDEs .
+Body mass index ( BMI ) at the time of tissue sampling was significantly lower for the cases .
+This might have influenced the results .
+Using BMI one year previously or decreasing the concentrations of POPs with the same percentage as weight loss among the cases did not change the results .
+Survival of the cases was shorter in the group with the concentration of POPs>median among cases , significantly so for the sum of PCBs ( 147 vs. 294 days ) , p,p'-DDE ( 134 vs. 302 days ) , and sum of chlordanes ( 142 vs. 294 days ) in the high and low group , respectively .
+The results were based on a low number of cases and should be interpreted with caution .

@@ -1,0 +1,10 @@
+BACKGROUND We previously documented significant decreases in chlorpyrifos concentrations in maternal personal and indoor air samples among pregnant African-American and Dominican women from New York City after the 2000-2001 restrictions on its residential use .
+OBJECTIVE We undertook a biomarker validation study within the same cohort to evaluate trends over time in multiple biomarkers of prenatal chlorpyrifos exposure .
+METHODS Subjects were enrolled between February 2001 and May 2004 ( n = 102 ) .
+We measured 3,5,6-trichloro-2-pyridinol ( TCPy ) in postpartum meconium ( n = 83 ) , repeat prenatal maternal spot urine samples ( n = 253 ) , and postnatal urine from the mothers ( n = 73 ) and newborns ( n = 59 ) .
+We measured chlorpyrifos in postnatal maternal ( n = 92 ) and umbilical cord ( n = 65 ) blood .
+RESULTS We did not detect TCPy in infant urine , but all other biomarkers showed a highly significant decrease in detection frequencies ( chi2 = 7.8-34.0 , p < or = 0.005 ) and mean ranks ( p < or = 0.006 , Kruskal-Wallis ) among subjects enrolled in 2003-2004 compared with those enrolled in 2001-2002 .
+Chlorpyrifos in maternal personal and indoor air declined 2- to 3-fold over the same period ( p < 0.05 ) .
+In 2001-2002 samples , TCPy levels in repeat prenatal urine were positively correlated ( r = 0.23-0.56 ) , but within-subject variability exceeded between-subject variability ( intraclass correlation coefficient = 0.43 ) ; indoor air levels explained 19% of the variance in prenatal urine TCPy ( p = 0.001 ) .
+Meconium TCPy concentrations were positively correlated with chlorpyrifos in maternal and cord blood ( r = 0.25-0.33 , p < 0.05 ) and with TCPy in maternal urine ( r = 0.31 , p < 0.01 ) .
+CONCLUSIONS Results suggest the biomarkers are reliable dosimeters to differentiate between groups with prenatal chlorpyrifos exposures varying by a factor of 2 or more and vividly illustrate the efficacy of residential restriction on chlorpyrifos to reduce the internal dose during pregnancy .

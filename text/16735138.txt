@@ -1,0 +1,11 @@
+The work described in this paper examined the possible relationship between fish consumption and human fecundity among Japanese women using hair mercury level and time to pregnancy ( TTP ) as indicators of fish consumption and fecundity .
+We hypothesized that hair mercury concentrations reflect the level of fish consumption and , consequently , can also be taken to indicate the level of intake of organochlorine compounds ( OCs ) such as dioxins and polychlorinated biphenyls ( PCBs ) for which fish are the primary source , and which can disrupt normal human reproductive processes .
+TTP was obtained by a self-administered questionnaire from women who had been delivered of a baby at either of two hospitals in Sendai , Japan , during the period of January 2002-March 2004 .
+Total mercury concentration in their hair ( 0-3cm from the scalp ) was determined by cold vapor atomic absorption spectrometry .
+Of the 298 women approached , 193 ( 65% ) reported their TTP .
+The subjects were classified into two groups according to their TTP : group 1 , 0-12 months TTP ; and Group 2 , >12 months TTP .
+A step-down procedure backward binominal logistic regression analysis was performed by using age , BMI , parity , frequency of intercourse , life-style parameters ( smoking , drinking and dietary habits ) and hair mercury level of the female subjects and their partners as independent variables .
+Two separate analyses were performed by including/excluding information on the partners of the subjects .
+The analyses did not extract hair mercury concentration as significant indicating that fish consumption did not prolong TTP , which was not consistent with the results of our previous study , i.e. , in that study frequent fish eaters showed prolonged TTP .
+Possible reasons of the negative result are discussed and it is suggested that the hair mercury levels in the present study were not an appropriate indicator of fish consumption of the subjects or of their exposure to OCs .
+Further study on the relationship between fish consumption ( and , ultimately , of OCs intake ) and fecundity with more appropriate indicators of fish consumption and/or fish-mediated pollutants intake are warranted to characterize the health risk posed by fish consumption .

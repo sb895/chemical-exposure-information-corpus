@@ -1,0 +1,9 @@
+BACKGROUND Health effects due to air pollution is becoming a major public health problem with growing traffic congestion and establishment of small- to medium-scale industries with poor emission controls in urban cities of Sri Lanka .
+METHODS Respiratory health status of 7- to 10-year-old children in two settings ( urban and semi-urban ) was assessed using standard questionnaires .
+Information on socio-demographic characteristics and potential determinants of both outdoor and indoor air pollutants exposure levels were also obtained .
+The respiratory health status of children in the two settings was compared .
+RESULTS We found that children from the urban setting had a significantly higher prevalence of wheezing within the last 12 months as compared to children from the semi-urban setting ( adjusted OR = 2.02 ; 95% CI = 1.13-3.59 ) .
+Indoor cooking with unclean fuels was a risk factor for wheezing independent of the area of residence ( adjusted OR = 1.57 ; 95% CI = 1.01-2.46 ) .
+CONCLUSIONS Poor indoor air quality was a major determinant of wheezing for the overall study group .
+Children from urban areas of Sri Lanka have poorer respiratory health status as compared to children from semi-urban areas .
+Besides poor outdoor air quality , this difference may also be due to other unexplored factors which may differ between urban and semi-urban areas in Sri Lanka .

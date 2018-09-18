@@ -1,0 +1,11 @@
+Methylmercury ( MeHg ) is a neurotoxic contaminant and one of the main sources of exposure in humans is seafood consumption .
+It is thus of interest to assess precisely MeHg exposure .
+The objective of this study was to estimate MeHg daily intake in exposed individuals using two different approaches , a food questionnaire and toxicokinetic modeling , and compare the complementary and use of each method .
+For this purpose , a group of 23 fishermen from northern Quebec provided blood and hair samples and answered a standard food questionnaire focusing on seafood consumption .
+A published and validated toxicokinetic model was then used to reconstruct MeHg daily intakes from mercury ( Hg ) measurements in biological samples .
+These intakes were compared to those estimated using a standard food questionnaire on seafood consumption .
+Daily intakes of MeHg from seafood ( mean/median ( range) ) estimated from hair concentrations with the toxicokinetic-based approach were 6.1/5.2 ( 0.0-19 ) \u03bcg/day .
+These intake values were on average six times lower than those estimated using a food questionnaire , that is , 49/32 ( 7.2-163 ) \u03bcg/day .
+No correlation was found between the toxicokinetic-based and the questionnaire estimates of MeHg daily intakes .
+Most of the MeHg intakes estimated with the food questionnaire ( 21/23 ) exceeded the US EPA RfD of 0.1\u2009\u03bcg/kg bw/day , whereas only a small proportion ( 6/23 ) of modeled estimates exceeded the RfD .
+This study shows that human health risk estimates strongly depend on the chosen approach .

@@ -1,0 +1,17 @@
+With the phase-out of PentaBDE in 2004 , alternative flame retardants are being used in polyurethane foam to meet flammability standards .
+However , insufficient information is available on the identity of the flame retardants currently in use .
+Baby products containing polyurethane foam must meet California state furniture flammability standards , which likely affects the use of flame retardants in baby products throughout the U.S. However , it is unclear which products contain flame retardants and at what concentrations .
+In this study we surveyed baby products containing polyurethane foam to investigate how often flame retardants were used in these products .
+Information on when the products were purchased and whether they contained a label indicating that the product meets requirements for a California flammability standard were recorded .
+When possible , we identified the flame retardants being used and their concentrations in the foam .
+Foam samples collected from 101 commonly used baby products were analyzed .
+Eighty samples contained an identifiable flame retardant additive , and all but one of these was either chlorinated or brominated .
+The most common flame retardant detected was tris(1,3-dichloroisopropyl) phosphate ( TDCPP ; detection frequency 36% ) , followed by components typically found in the Firemaster550 commercial mixture ( detection frequency 17% ) .
+Five samples contained PBDE congeners commonly associated with PentaBDE , suggesting products with PentaBDE are still in-use .
+Two chlorinated organophosphate flame retardants ( OPFRs ) not previously documented in the environment were also identified , one of which is commercially sold as V6 ( detection frequency 15% ) and contains tris(2-chloroethyl) phosphate ( TCEP ) as an impurity .
+As an addition to this study , we used a portable X-ray fluorescence ( XRF ) analyzer to estimate the bromine and chlorine content of the foam and investigate whether XRF is a useful method for predicting the presence of halogenated flame retardant additives in these products .
+A significant correlation was observed for bromine ; however , there was no significant relationship observed for chlorine .
+To the authors knowledge , this is the first study to report on flame retardants in baby products .
+In addition , we have identified two chlorinated OPFRs not previously documented in the environment or in consumer products .
+Based on exposure estimates conducted by the Consumer Product Safety Commission ( CPSC ) , we predict that infants may receive greater exposure to TDCPP from these products compared to the average child or adult from upholstered furniture , all of which are higher than acceptable daily intake levels of TDCPP set by the CPSC .
+Future studies are therefore warranted to specifically measure infants exposure to these flame retardants from intimate contact with these products and to determine if there are any associated health concerns .

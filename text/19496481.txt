@@ -1,0 +1,6 @@
+To determine the association between several elements of fine particulate air pollution ( PM2.5 ) and mortality in a general population sample , daily time-series analysis was used to test the association between daily mortality and components of PM2.5 measured in downtown Santiago , Chile between 1998 and 2006 .
+The strongest individual effect was seen for elemental carbon .
+A 5.28 ug/m3 increase in elemental carbon was associated with a relative risk ( RR ) of 1.08 ( 95% CI = 1.07-1.09 ) for total non-accidental mortality .
+Using factor analysis , a group of elements consistent with a mobile combustion source ( carbon monoxide , nitrogen dioxide , elemental and organic carbon ) was significantly associated with total mortality ( RR 1.11 ; 95% CI = 1.083-1.138 ) .
+Soil-sourced particles had a weaker but statistically significant mortality effect .
+Of the many sources of particulate air pollution , those from motor vehicle exhaust had the greatest observed effect on mortality .

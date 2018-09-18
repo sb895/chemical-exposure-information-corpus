@@ -1,0 +1,11 @@
+Exposure to mercury species was assessed in the hair of 130 Spanish children ( age 4 ) from the general population in two areas .
+Both areas are exposed to different sources of mercury : a point source in Ribera d'Ebre ( northeastern Spain ) and a diffuse source on the island of Menorca ( northwestern Mediterranean ) .
+The median MeHg values in the hair of children from Ribera d'Ebre ( RE ) were nearly twice ( 0.631 microg/g vs. 0.370 microg/g ) those of children from Menorca ( MC ) ( p < 0.05 ) .
+Total Hg showed a similar trend ( REmedian : 0.720 microg/g vs. MCmedian : 0.476 microg/g ) .
+Nevertheless , inorganic mercury levels were similar in the two groups of children ( REmedian : 0.186 microg/g vs. MCmedian : 0.210 microg/g ) .
+Two subgroups of the Ribera d'Ebre group were defined : children living in Flix ( a village near a chlor-alkali plant ) ( RE1 ) and children living on the outskirts of Flix with no clear , direct influence of the plant ( RE2 ) .
+The mercury concentrations in RE1 were also significantly higher than those in Menorca , but no significant differences were found between Menorca and the RE2 subgroup .
+We evaluated the fish consumption of RE1 , RE2 and MC and found that the Menorcan children consumed significantly less fish ( p < 0.05 ) than the other two subgroups .
+Children who consumed fish more than three times a week had higher MeHg concentrations ( beta ( SE ) = 0.991 ( 0.279 ) than those who ate it less than once a week .
+Nevertheless , the differences in MeHg levels between children from Ribera d'Ebre and Menorca remained statistically significant after adjustment for fish intake and other variables ( beta ( SE ) = 0.779 ( 0.203 ) for children from RE1 ) .
+In conclusion , local sources other than seafood contribute significantly to MeHg content in hair in the two Ribera d'Ebre subgroups .

@@ -1,0 +1,12 @@
+Levels of polybrominated diphenyl ethers ( PBDEs ) , hexabromocyclododecanes ( HBCDs ) , and polychlorinated biphenyls ( PCBs ) were measured in several fish species originating from the river Scheldt ( Belgium ) .
+Five sampling locations were chosen in a highly industrialized area along the river , while two ponds in the vicinity of the river served as reference sites .
+The present study is a follow-up of a survey performed in 2000 which reported extremely high levels of PBDEs and HBCDs in eel ( Anguilla anguilla ) collected from the same region ( Oudenaarde , Flanders ) .
+The sum of tri- to hepta-BDE congeners ( 2270+/-2260 ng/g lipid weight ( lw ) , range 660-11500 ng/g lw ) and total HBCDs ( 4500+/-3000 ng/g lw , range 390-12100 ng/g lw ) were one order of magnitude higher than levels usually reported from freshwater systems , indicating the presence of point sources .
+In most samples , levels of total HBCDs were higher than those of PBDEs , probably due to the high density of factories using HBCD as an additive brominated flame retardant ( BFR ) .
+The high values of HBCDs were confirmed by both gas- and liquid-chromatography-mass spectrometry .
+Although BFR levels were between the highest ever reported in freshwater ecosystems , PCBs could be detected at even higher concentrations ( 16000+/-14300 ng/g lw , range 3900-66600 ng/g lw ) , being among the highest levels recorded in Belgium .
+The inter-sampling site variation of PBDEs , HBCDs and PCBs was comparable .
+All locations presented similar PBDE congener profiles , with BDE 47 being the dominant congener , followed by BDE 100 , BDE 99 and BDE 49 , probably originating from the former use of the penta-BDE technical mixture .
+In order to estimate the impact of these point sources on human exposure , we further focussed on eels which showed a considerable decrease in the PBDE and HBCD levels between 2000 and 2006 .
+Due to the wide span in concentrations between the different sampling locations , a variable contribution to the total human exposure through local eel consumption was estimated .
+The calculated daily intake ranged from 3 ng to 330 ng PBDEs/day for normal eel consumers , but was as high as 9800 ng PBDEs/day for anglers , which may be considered at risk .

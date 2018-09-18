@@ -1,0 +1,13 @@
+The Binational Arsenic Exposure Survey ( BAsES ) was designed to evaluate probable arsenic exposures in selected areas of southern Arizona and northern Mexico , two regions with known elevated levels of arsenic in groundwater reserves .
+This paper describes the methodology of BAsES and the relationship between estimated arsenic intake from beverages and arsenic output in urine .
+Households from eight communities were selected for their varying groundwater arsenic concentrations in Arizona , USA and Sonora , Mexico .
+Adults responded to questionnaires and provided dietary information .
+A first morning urine void and water from all household drinking sources were collected .
+Associations between urinary arsenic concentration ( total , organic , inorganic ) and estimated level of arsenic consumed from water and other beverages were evaluated through crude associations and by random effects models .
+Median estimated total arsenic intake from beverages among participants from Arizona communities ranged from 1.7 to 14.1 µg/day compared to 0.6 to 3.4 µg/day among those from Mexico communities .
+In contrast , median urinary inorganic arsenic concentrations were greatest among participants from Hermosillo , Mexico ( 6.2 µg/L ) whereas a high of 2.0 µg/L was found among participants from Ajo , Arizona .
+Estimated arsenic intake from drinking water was associated with urinary total arsenic concentration ( p < 0.001 ) , urinary inorganic arsenic concentration ( p < 0.001 ) , and urinary sum of species ( p < 0.001 ) .
+Urinary arsenic concentrations increased between 7% and 12% for each one percent increase in arsenic consumed from drinking water .
+Variability in arsenic intake from beverages and urinary arsenic output yielded counter intuitive results .
+Estimated intake of arsenic from all beverages was greatest among Arizonans yet participants in Mexico had higher urinary total and inorganic arsenic concentrations .
+Other contributors to urinary arsenic concentrations should be evaluated .

@@ -1,0 +1,6 @@
+In this study we evaluated data from a sample of 973 never-smoking women , ages 20-40 , who worked in three similar textile mills in Anhui Province , China .
+We compared prevalence rates of respiratory symptoms across homes with and without coal heating and homes with different numbers of smokers .
+Multiple logistic regression models that controlled for age , job title , and mill of employment were also estimated .
+Respiratory symptoms were associated with combined exposure to passive cigarette smoke and coal heating .
+Effects of passive cigarette smoke and coal heating on respiratory symptoms appeared to be nearly additive , suggesting a dose-response relationship between respiratory symptoms and home indoor air pollution from these two sources .
+The prevalence of chest illness , cough , phlegm , and shortness of breath ( but not wheeze ) was significantly elevated for women living in homes with both smokers and coal heating .

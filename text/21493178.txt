@@ -1,0 +1,11 @@
+BACKGROUND Evidence of neurological , cognitive , and neuropsychological effects of manganese ( Mn ) exposure from drinking water ( WMn ) in children has generated widespread public health concern .
+At elevated exposures , Mn has been associated with increased levels of externalizing behaviors , including irritability , aggression , and impulsivity .
+Little is known about potential effects at lower exposures , especially in children .
+Moreover , little is known regarding potential interactions between exposure to Mn and other metals , especially arsenic ( As ) .
+OBJECTIVES We conducted a cross-sectional study of 201 children to investigate associations of Mn and As in tube well water with classroom behavior among elementary school children , 8-11 years of age , in Araihazar , Bangladesh .
+METHODS Data on exposures and behavioral outcomes were collected from the participants at the baseline of an ongoing longitudinal study of child intelligence .
+Study children were rated by their school teachers on externalizing and internalizing items of classroom behavior using the standardized Child Behavior Checklist-Teacher's Report Form ( CBCL-TRF ) .
+RESULTS Log-transformed WMn was positively and significantly associated with TRF internalizing [ estimated \u03b2 = 0.82 ; 95% confidence interval ( CI ) , 0.08-1.56 ; p = 0.03 ] , TRF externalizing ( estimated \u03b2 = 2.59 ; 95% CI , 0.81-4.37 ; p =0.004 ) , and TRF total scores ( estimated \u03b2 = 3.35 ; 95% CI , 0.86-5.83 ; p = 0.008 ) in models that adjusted for log-transformed water arsenic ( WAs ) and sociodemographic covariates .
+We also observed a positive monotonic dose-response relationship between WMn and TRF externalizing and TRF total scores among the participants of the study .
+We did not find any significant associations between WAs and various scales of TRF scores .
+CONCLUSION These observations reinforce the growing concern regarding the neurotoxicologic effects of WMn in children .

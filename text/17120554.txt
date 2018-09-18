@@ -1,0 +1,7 @@
+Lack of human exposure data is frequently reported as a critical gap in risk assessments of environmental pollutants , especially regarding " new " pollutants .
+The objectives of this study were to assess serum levels of the persistent 2,2',4,4',5,5'-hexachlorobiphenyl ( CB-153 ) , hydroxylated polychlorinated biphenyl metabolites ( OH-PCBs ) , polybrominated diphenyl ethers ( PBDEs ) , and hexabromocyclodode-canes ( HBCDDs ) in a group of Swedish middle-aged and elderly women expected to be relatively highly exposed , and to evaluate the impact of potential determinants ( e.g. , fish intake , age ) for the inter-individual variation , as well as to investigate the association between these pollutants and bone density .
+No associations were found between bone mineral density or biochemical markers of bone metabolism and the analyzed environmental pollutants .
+Relatively high levels of CB-153 ( median 260 ng/g fat ) and sigma 3-OH-PCBs ( median 1.7 ng/mL serum ) , and low concentrations of sigma6PBDEs ( median 3.6 ng/g fat ) were determined .
+Total level of HBCDDs in serum was quantified by gas chromatography with mass spectrometric detection ( median 0.5 ng/g fat ) .
+HBCDD diastereomeric and enantiomeric patterns were determined by liquid chromatography with mass spectrometric detection .
+The dominating stereoisomer was ( -)alpha-HBCDD , but 1-3% of gamma-HBCDD was also detected in the serum samples .

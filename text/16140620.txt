@@ -1,0 +1,9 @@
+Millions of people worldwide are exposed to arsenic-contaminated drinking water , and ingestion of inorganic arsenic ( InAs ) has been associated with increased risks of cancer .
+The primary metabolic pathway of ingested InAs is methylation to monomethyl arsenic ( MMA ) and dimethyl arsenic ( DMA ) .
+However , people vary greatly in the degree to which they methylate InAs , and recent evidence suggests that those who excrete high proportions of ingested arsenic as MMA are more susceptible than others to arsenic-caused cancer .
+To date , little is known about the factors that determine interindividual differences in arsenic methylation .
+In this study , we assessed the effect of diet on arsenic metabolism by measuring dietary intakes and urinary arsenic methylation patterns in 87 subjects from two arsenic-exposed regions in the western United States .
+Subjects in the lower quartile of protein intake excreted a higher proportion of ingested InAs as MMA ( 14.6 vs. 11.6% ; p = 0.01 ) and a lower proportion as DMA ( 72.3 vs. 77.0% ; p = 0.01 ) than did subjects in the upper quartile of protein intake .
+Subjects in the lower quartile of iron , zinc , and niacin intake also had higher urinary percent MMA and lower percent DMA levels than did subjects with higher intakes of these nutrients .
+These associations were also seen in multivariate regression analyses adjusted for age , sex , smoking , and total urinary arsenic .
+Given the previously reported links between high percent MMA and increased cancer risks , these findings are consistent with the theory that people with diets deficient in protein and other nutrients are more susceptible than others to arsenic-caused cancer .

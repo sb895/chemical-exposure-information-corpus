@@ -1,0 +1,11 @@
+BACKGROUND World Trade Center ( WTC ) rescue and recovery workers were exposed to a complex mix of pollutants and carcinogens .
+OBJECTIVE The purpose of this investigation was to evaluate cancer incidence in responders during the first 7 years after 11 September 2001 .
+METHODS Cancers among 20,984 consented participants in the WTC Health Program were identified through linkage to state tumor registries in New York , New Jersey , Connecticut , and Pennsylvania .
+Standardized incidence ratios ( SIRs ) were calculated to compare cancers diagnosed in responders to predicted numbers for the general population .
+Multivariate regression models were used to estimate associations with degree of exposure .
+RESULTS A total of 575 cancers were diagnosed in 552 individuals .
+Increases above registry-based expectations were noted for all cancer sites combined ( SIR = 1.15 ; 95% CI : 1.06 , 1.25 ) , thyroid cancer ( SIR = 2.39 ; 95% CI : 1.70 , 3.27 ) , prostate cancer ( SIR = 1.21 ; 95% CI : 1.01 , 1.44 ) , combined hematopoietic and lymphoid cancers ( SIR = 1.36 ; 95% CI : 1.07 , 1.71 ) , and soft tissue cancers ( SIR = 2.26 ; 95% CI : 1.13 , 4.05 ) .
+When restricted to 302 cancers diagnosed \u2265 6 months after enrollment , the SIR for all cancers decreased to 1.06 ( 95% CI : 0.94 , 1.18 ) , but thyroid and prostate cancer diagnoses remained greater than expected .
+All cancers combined were increased in very highly exposed responders and among those exposed to significant amounts of dust , compared with responders who reported lower levels of exposure .
+CONCLUSION Estimates should be interpreted with caution given the short follow-up and long latency period for most cancers , the intensive medical surveillance of this cohort , and the small numbers of cancers at specific sites .
+However , our findings highlight the need for continued follow-up and surveillance of WTC responders .

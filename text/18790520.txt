@@ -1,0 +1,6 @@
+The study was aimed at assessing the natural concentrations of copper , iron , potassium , lead and cadmium in the femur head using regression analysis .
+The material was collected during the operation of total hip arthroplasty from patients of southern and central Poland suffering from diagnosed coxarthrosis .
+In total , 197 samples were collected , including 68 samples of spongious bone , 59 samples of cortical bone and 70 samples of cartilage surface .
+After wet microwave digestion , the metal content in the samples was measured by atomic absorption spectrophotometry .
+The average concentrations of metals in the femur head were 67.30 microgFe/g , 760.58 microgK/g , 0.07 microgCd/g , 0.81 microgCu/g and 2.76 microgPb/g .
+A comparison of metal concentrations in bone tissues assessed by regression analysis to the findings of other authors revealed that the technique can be used to assess the natural concentration of elements in tissues and the results may provide a basis for the evaluation of metal concentrations in the human organism .

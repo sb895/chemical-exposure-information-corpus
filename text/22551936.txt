@@ -1,0 +1,16 @@
+Airborne exposure to manganese ( Mn ) can result in neurologic effects .
+Stationary air sampling is the traditional technique to assess Mn exposure for communities , yet may not accurately reflect children's personal exposure .
+The goal of the study was to characterize personal exposure to Mn and PM(2.5) in a cohort of children ages 7-9 years residing near a ferromanganese refinery .
+A subset of children living in non-smoking households ages 7-9 enrolled in the Marietta Community Actively Researching Exposure Study during March-June 2009 and 2010 were invited to participate .
+Blood and hair were collected and analyzed for Mn .
+Participants wore a PM(2.5) sampler ( Personal Modular Impactor ) for 48 h .
+TWD was based on time spent at home and school and the distance of each from the refinery .
+Stationary outdoor air sampling was conducted 8 km from the refinery using a Harvard-type PM(2.5) impactor .
+The relationship between personal Mn exposure and TWD was examined by multiple regression adjusting for stationary air Mn concentration , wind speed and direction , and precipitation .
+Complete personal air sampling data were collected on 38 children .
+TWD ranged from 4.7 km to 28.5 km with a mean distance of 11.1 ( 4.7 sd ) km .
+Mn concentration in personal air samples ranged from 1.5 ng/m3 to 54.5 ng/m3 ( geometric mean , 8.1 ng/m3 ) .
+TWD was a significant predictor of natural log personal air Mn concentration ( lnMn ) with an associated decrease of 0.075 lnMn for each km TWD ( p<0.05 , 95% CI -0.13 to -0.01 ) .
+Personal Mn exposures were positively associated with stationary air Mn levels and inversely associated with wind speed .
+A child's location ( home and school ) relative to the refinery is a significant predictor of personal Mn exposure .
+Wind speed is also an important contributor to personal Mn exposure .

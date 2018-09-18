@@ -1,0 +1,9 @@
+In this study , the presence of bisphenol A ( BPA ) in human placental and fetal liver samples collected from 1998 to 2008 was investigated to provide a more detailed analysis of the transfer of BPA across the placenta and fetal exposure to BPA .
+The average concentrations in placental samples were 12.6 ng g(-1) for free BPA , 17.2 ng g(-1) for BPA-glu , and 30.2 ng g(-1) for total BPA .
+The highest concentrations in placental samples were 165 ng g(-1) for free BPA , 178 ng g(-1) for BPA-glu , and 280 ng g(-1) for total BPA .
+Samples with higher levels of BPA-glu had higher levels of free BPA in general .
+Fetal age was observed to have a significant effect on BPA-glu levels in placental samples , but not on free or total BPA .
+The percentages of free BPA relative to total BPA for the placental samples varied considerably from 4.2% to 100% , suggesting that the ability of maternal liver and/or the placenta to conjugate BPA is highly variable during early to mid-gestation .
+The average concentrations in fetal liver samples were 9.02 ng g(-1) for free BPA , 19.1 ng g(-1) for BPA-glu , and 25.8 ng g(-1) for total BPA .
+The highest concentrations in fetal liver samples were 37.7 ng g(-1) for free BPA , 93.9 ng g(-1) for BPA-glu , and 123 ng g(-1) for total BPA .
+The percentages of free BPA level relative to total BPA for all fetal liver samples varied from 12.4% to 99.1% , indicating extensive variability in the ability of the human feto-placental unit to glucuronidate BPA .

@@ -1,0 +1,8 @@
+Breast milk is a valuable biological specimen to assess maternal and infant exposure to polybrominated diphenyl ethers ( PBDEs ) .
+In this study , 208 breast milk samples were collected from 89 participants during lactation period , at <7 , 15 , 30 , and 90 days postpartum , in four cities in Korea , and were determined for 19 PBDE congeners .
+The total PBDE concentrations ( \u03a3PBDE ) ranged from 0.23 to 68.4 ( mean : 2.73 ) ng/g lipid weight , and were within the ranges reported for European and Asian countries .
+Within a month of lactation after delivery , no significant changes were found in the PBDE concentrations .
+The predominance of BDE 153 rather than BDE 47 was found in the most samples that BDE 153 was detected , and was likely to be associated with stepwise debromination of BDE 209 .
+No associations were found between PBDE concentrations in breast milk and demographic parameters , except for \u03a3PBDE with maternal age and delivery mode .
+Certain types of diet such as corn , seafood and nut correlated significantly with PBDE levels in breast milk .
+The estimated daily intakes of \u03a3PBDE for breast-feeding infants were lower than the guidelines proposed by the US EPA , indicating limited health risk from PBDEs through breast feeding .

@@ -1,0 +1,9 @@
+Exposure to cadmium is known to be associated with reducing nitric oxide ( NO ) production in experimental conditions , but few studies have examined the association between environmental cadmium exposures and exhaled NO in human .
+We examined the association between blood cadmium levels and exhaled NO levels in a representative sample of US adults .
+This investigation was a cross-sectional study of 7813 adults ( \u226520 years ) who participated in the 2007-2008 and 2009-2010 National Health and Nutrition Examination Survey and had their exhaled NO and blood cadmium measurements recorded .
+The geometric means of the exhaled NO and blood cadmium levels were 13.3ppb ( 95% CI : 12.7 , 13.9 ) and 0.51\u03bcg/dL ( 95% CI : 0.48 , 0.54 ) , respectively .
+Higher blood cadmium levels were associated with decreased exhaled NO levels after adjusting for potential confounding variables .
+Additionally , a two-fold increase in the blood cadmium levels was associated with a 5% decrease in the exhaled NO levels .
+The results were significant regardless of the subjects ' smoking status or serum cotinine levels , although the percent changes in the exhaled NO levels differed depending on the extent of smoking .
+Our findings suggest that blood cadmium levels may be associated with reduced levels of exhaled NO in a general sample of US adults .
+Moreover , cadmium may partially mediate the effect of smoking on exhaled NO production .

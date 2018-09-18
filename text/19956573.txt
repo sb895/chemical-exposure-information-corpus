@@ -1,0 +1,14 @@
+BACKGROUND Phthalates are synthetic compounds with a widespread field of applications .
+For example , they are used as plasticizers in PVC plastics and food packaging , or are added to personal care products .
+Diethyl phthalate ( DEP ) may be used to denature alcohol , e.g. , for cosmetic purposes .
+Public health concerns of phthalates include carcinogenic , teratogenic , hepatotoxic and endocrine effects .
+The aim of this study was to develop and validate a method for determining phthalates in alcohol samples and to provide a risk assessment for consumers of such products .
+METHODOLOGY/PRINCIPAL FINDINGS A liquid-liquid extraction procedure was optimized by varying the following parameters : type of extraction solvent ( cyclohexane , n-hexane , 1,1,2-trichlorotrifluoroethane ) , the ratio extraction solvent/sample volume ( 1 ratio 1 to 50 ratio 1 ) and the number of extraction repetitions ( 1-10 ) .
+The best extraction yield ( 99.9% ) was achieved with the solvent 1,1,2-trichlorotrifluoroethane , an extraction solvent volume/sample volume ratio of 10 ratio 1 and a double extraction .
+For quantification , gas chromatography/mass spectrometry with deuterated internal standards was used .
+The investigated samples were alcoholic beverages and unrecorded alcohol products from different countries ( n = 257 ) .
+Two unrecorded alcohol samples from Lithuania contained diethyl phthalate in concentrations of 608 mg/L and 210 mg/L .
+CONCLUSIONS/SIGNIFICANCE The consumption of the phthalate-positive unrecorded alcohols would exceed tolerable daily intakes as derived from animal experiments .
+Both positive samples were labelled as cosmetic alcohol , but had clearly been offered for human consumption .
+DEP seems to be unsuitable as a denaturing agent as it has no effect on the organoleptic properties of ethanol .
+In light of our results that DEP might be consumed by humans in unrecorded alcohols , the prohibition of its use as a denaturing agent should be considered .

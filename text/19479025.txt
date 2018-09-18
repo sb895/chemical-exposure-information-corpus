@@ -1,0 +1,7 @@
+BACKGROUND The University of Michigan Dioxin Exposure Study ( UMDES ) was undertaken in response to concerns that the discharge of dioxin-like compounds from the Dow Chemical Company facilities in Midland , Michigan , resulted in contamination of soils in the Tittabawassee River floodplain and areas of the city of Midland , leading to an increase in residents ' body burdens of polychlorinated dibenzodioxins and polychlorinated dibenzofurans .
+OBJECTIVES The UMDES is a hypothesis-driven study designed to answer important questions about human exposure to dioxins in the environment of Midland , where the Dow Chemical Company has operated for > 100 years , and in neighboring Saginaw , Michigan .
+In addition , the UMDES includes a referent population from an area of Michigan in which there are no unusual sources of dioxin exposure and from which inferences regarding the general Michigan population can be derived .
+A central goal of the study is to determine which factors explain variation in serum dioxin levels and to quantify how much variation each factor explains .
+CONCLUSIONS In this article we describe the study design and methods for a large population-based study of dioxin contamination and its relationship to blood dioxin levels .
+The study collected questionnaire , blood , dust , and soil samples on 731 people .
+This study provides a foundation for understanding the exposure pathways by which dioxins in soils , sediments , fish and game , and homegrown produce lead to increased body burdens of these compounds .

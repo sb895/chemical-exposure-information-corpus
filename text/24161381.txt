@@ -1,0 +1,11 @@
+Epidemiologic studies have demonstrated that long-term exposure to relatively low levels of particulate air pollution is associated with adverse cardiovascular outcomes in Europe and North America .
+However , few studies have assessed the association with high level air pollutants .
+We aimed to assess the cardiovascular effects of long-term exposure to high level concentrations of inhalable particulate and to identify the characteristics of the Chinese population that are susceptible to the health effects .
+A retrospective cohort , containing 39,054 subjects from four cities in northern China , was followed for mortality of all cause and specific cardiovascular diseases from 1998 to 2009 .
+Information on concentrations of PM10 ( particulate matter<10 \u03bcm in aerodynamic diameter ) was collected from the local Environmental Monitoring Centers .
+The estimated exposure for the study participants was the mean concentration of PM10 over their surviving years during the cohort period .
+Relative risk values were obtained using Cox proportional hazards regression models after adjusting for potential confounding factors .
+For each 10 \u03bcg/m(3) increase in PM10 , the relative risk ratios ( RRs ) of all-cause mortality , cardiovascular disease mortality , ischemic heart disease mortality , heart failure disease mortality , and cerebrovascular disease mortality were 1.24 ( 95% CI , 1.22-1.27 ) , 1.23 ( 95% CI , 1.19-1.26 ) , 1.37 ( 95% CI , 1.28-1.47 ) , 1.11(95% CI , 1.05-1.17 ) , and 1.23(95% CI:1.18-1.28 ) , respectively .
+Results from stratified analyses suggest that the effects of PM10 on cardiovascular mortality were more pronounced in males , smokers and people with a higher socioeconomic status .
+Long-term exposure to PM10 increases mortality from cardiovascular disease , especially from ischemic heart disease and this association seemed to be modified by other factors .
+Further research that focuses on exploring dose-response relationship and inter-population comparisons is warranted .

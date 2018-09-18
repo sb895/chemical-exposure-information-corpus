@@ -1,0 +1,10 @@
+BACKGROUND Inorganic arsenic ( InAs ) is metabolized to monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) , and this methylation facilitates urinary arsenic excretion .
+Previous studies suggest that persons with more complete methylation , characterized as greater proportions of DMA and lesser proportions of MMA and InAs in urine , have a lower risk of adverse arsenic-related health outcomes .
+OBJECTIVE The purpose of this study was to examine whether the capacity to methylate arsenic differs by nutrient intake .
+DESIGN Participants were 1016 Bangladeshi adults exposed to arsenic in drinking water .
+Nutrient intake was assessed with a validated food-frequency questionnaire .
+Multivariate regression analyses were used to examine associations of nutrients with urinary arsenic metabolite profiles .
+RESULTS In multivariate analyses , higher intakes of cysteine , methionine , calcium , protein , and vitamin B-12 were associated with lower percentages of InAs and higher ratios of MMA to InAs in urine .
+Higher intakes of niacin ( beta=0.22 , P=0.02 ) and choline ( beta=0.10 , P=0.02 ) were associated with higher DMA-to-MMA ratios , after adjustment for age , sex , smoking , total urinary arsenic , and total energy intake .
+CONCLUSIONS Findings from the current study show the influence of multiple nutrients on arsenic methylation .
+In particular , this study highlights the potential importance of dietary intakes of cysteine , methionine , niacin , vitamin B-12 , and choline on health effects of arsenic by modulating its metabolism .

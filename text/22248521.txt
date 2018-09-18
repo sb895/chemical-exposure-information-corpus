@@ -1,0 +1,9 @@
+PURPOSE In this study we assessed bladder cancer health care and mortality trends in recent decades in a well studied arsenic exposed area in Northern Chile .
+MATERIALS AND METHODS Arsenic levels in the affected region were obtained for the last 60 years , and correlated with bladder cancer hospital discharge and mortality rates in recent decades .
+RESULTS Bladder cancer hospital discharge rates were significantly higher in the affected region ( peak RR 3.6 , 95% CI 3.0-4.7 ) .
+Mortality rates for bladder cancer showed a trend of increase during the period analyzed , reaching peak mortality rates of 28.4 per 100,000 for men and 18.7 per 100,000 for women in the last 10 years .
+Poisson regression models showed an increased mortality risk in the studied region compared to the rest of the country until the present for men ( IRR 5.3 , 95% CI 4.8-5.8 ) and women ( IRR 7.8 , 95% CI 7.0-8.7 ) .
+Mean age at cancer specific death was significantly lower in the exposed region ( 69.6 years , 95% CI 68.4-70.7 vs 73.7 years , 95% CI 73.3-74.2 , p <0.01 ) .
+CONCLUSIONS Exposure to arsenic is related to a significant need for bladder cancer health care and to high mortality rates even 20 years after having controlled arsenic levels in drinking water .
+Affected individuals should be aware of the significant impact of this ecological factor .
+Further research is required to identify strategies for the management of bladder cancer in arsenic exposed populations .

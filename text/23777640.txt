@@ -1,0 +1,8 @@
+1,2-Cyclohexane dicarboxylic acid , diisononyl ester ( DINCH ) is a complex mixture of nine carbon branched-chain isomers .
+It has been used in Europe since 2002 as a plasticizer to replace phthalates such as di(2-ethylhexyl)phthalate ( DEHP ) and diisononyl phthalate ( DINP ) .
+Urinary concentrations of the oxidative metabolites of DINCH , namely cyclohexane-1,2-dicarboxylic acid-monocarboxy isooctyl ester ( MCOCH ) ; cyclohexane-1,2-dicarboxylic acid-mono(oxo-isononyl) ester ( MONCH ) ; and cyclohexane-1,2-dicarboxylic acid-mono(hydroxy-isononyl) ester ( MHNCH ) , can potentially be used as DINCH exposure biomarkers .
+The concentrations of MCOCH , MONCH and MHNCH were measured by online solid phase extraction-high performance liquid chromatography-tandem mass spectrometry in urine collected in 2000 ( n=114 ) , 2001 ( n=57 ) , 2007 ( n=23 ) , 2009 ( n=118 ) , 2011 ( n=94 ) and 2012 ( n=121 ) from convenience groups of anonymous U.S. adult volunteers with no known DINCH exposure .
+None of the DINCH metabolites were detected in samples collected in 2000 and 2001 .
+Only one sample collected in 2007 had measureable concentrations of DINCH metabolites .
+The detection rate for all three metabolites increased from 2007 to 2012 .
+The presence of oxidative metabolites of DINCH in urine suggests that these oxidative metabolites can be used as DINCH biomarkers for exposure assessment even at environmental exposure levels .

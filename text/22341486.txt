@@ -1,0 +1,9 @@
+Most Americans living in rural areas use groundwater for drinking .
+Exposure to low-level ( around the current U.S. standard 10 \u03bcg/L ) arsenic in drinking water is associated with increased mortality of cardiovascular diseases .
+The current study was to determine if coronary heart disease , hypertension , and hyperlipidemia were associated with low-level arsenic exposure and AS3MT gene single nucleotide polymorphism ( SNP ) A35991G ( rs10748835 ) in rural Texas .
+Subjects ( 156 men , 343 women , 40-96 years of age with a mean of 61 ) were residents from rural counties Cochran , Palmer , and Bailey , Texas .
+Groundwater arsenic concentration at each subject's home was estimated with ArcGIS inverse distance weighted interpolation based on the residential location's distances to surrounding wells with known water arsenic concentrations .
+The estimated groundwater arsenic concentration ranged from 2.2 to 15.3 ( mean 6.2 ) \u03bcg/L in this cohort .
+Logistic regression analysis showed that coronary heart disease was associated with higher arsenic exposure ( p<0.05 ) and with AS3MT genotype GG vs. AA ( p<0.05 ) after adjustments for age , ethnicity , gender , education , smoking status , alcoholism , and anti-hyperlipidemia medication .
+Hypertension was associated with higher arsenic exposure , while hyperlipidemia was associated with genotype AG vs. AA of the AS3MT gene ( p<0.05 ) .
+Thus , coronary heart disease and its main risk factors were associated with low-level arsenic exposure , AS3MT polymorphism or both .

@@ -1,0 +1,14 @@
+BACKGROUND It has been hypothesized that ambient particulate air pollution is able to modify the autonomic nervous control of the heart , measured as heart rate variability ( HRV ) .
+Previously we reported heterogeneous associations between particulate matter with aerodynamic diameter < 2.5 microm ( PM2.5 ) and HRV across three study centers .
+OBJECTIVES We evaluated whether exposure misclassification , effect modification by medication , or differences in particle composition could explain the inconsistencies .
+METHODS Subjects with coronary heart disease visited clinics biweekly in Amsterdam , the Netherlands ; Erfurt , Germany ; and Helsinki , Finland for 6-8 months .
+The standard deviation ( SD ) of NN intervals on an electrocardiogram ( ECG ; SDNN ) and high frequency ( HF ) power of HRV was measured with ambulatory ECG during paced breathing .
+Outdoor levels of PM2.5 were measured at a central site .
+In Amsterdam and Helsinki , indoor and personal PM2.5 were measured during the 24 hr preceding the clinic visit .
+PM2.5 was apportioned between sources using principal component analyses .
+We analyzed associations of indoor/personal PM2.5 , elements of PM2.5 , and source-specific PM2.5 with HRV using linear regression .
+RESULTS Indoor and personal PM2.5 were not associated with HRV .
+Increased outdoor PM2.5 was associated with decreased SDNN and HF at lags of 2 and 3 days only among persons not using beta-blocker medication .
+Traffic-related PM2.5 was associated with decreased SDNN , and long-range transported PM2.5 with decreased SDNN and HF , most strongly among persons not using beta blockers .
+Indicators for PM2.5 from traffic and long-range transport were also associated with decreased HRV .
+CONCLUSIONS Our results suggest that differences in the composition of particles , beta-blocker use , and obesity of study subjects may explain some inconsistencies among previous studies on HRV .

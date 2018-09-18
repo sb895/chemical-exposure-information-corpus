@@ -1,0 +1,10 @@
+BACKGROUND Cadmium is a ubiquitous environmental pollutant associated with increased risk of leading causes of mortality and morbidity in women , including breast cancer and osteoporosis .
+Iron deficiency increases absorption of dietary cadmium , rendering women , who tend to have lower iron stores than men , more susceptible to cadmium uptake .
+We used body iron , a measure that incorporates both serum ferritin and soluble transferrin receptor , as recommended by the World Health Organization , to evaluate the relationships between iron status and urine and blood cadmium .
+METHODS Serum ferritin , soluble transferrin receptor , urine and blood cadmium values in never-smoking , non-pregnant , non-lactating , non-menopausal women aged 20-49 years ( n=599 ) were obtained from the 2003-2008 National Health and Nutrition Examination Surveys .
+Body iron was calculated from serum ferritin and soluble transferrin receptor , and iron deficiency defined as body iron <0 mg/kg .
+Robust linear regression was used to evaluate the relationships between body iron and blood and urine cadmium , adjusted for age , race , poverty , body mass index , and parity .
+RESULTS Per incremental ( mg/kg ) increase in body iron , urine cadmium decreased by 0.003 \u03bcg/g creatinine and blood cadmium decreased by 0.014 \u03bcg/L .
+Iron deficiency was associated with 0.044 \u03bcg/g creatinine greater urine cadmium ( 95% CI=0.020 , 0.069 ) and 0.162 \u03bcg/L greater blood cadmium ( 95% CI=0.132 , 0.193 ) .
+CONCLUSIONS Iron deficiency is a risk factor for increased blood and urine cadmium among never-smoking , pre-menopausal , non-pregnant US women , independent of age , race , poverty , body mass index and parity .
+Expanding programs to detect and correct iron deficiency among non-pregnant women merits consideration as a potential means to reduce the risk of cadmium associated diseases .

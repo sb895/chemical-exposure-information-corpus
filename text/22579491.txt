@@ -1,0 +1,6 @@
+Occupational exposure of dairy workers to particulate matter ( PM ) and endotoxin has been considered by some to be of potential concern .
+This paper reports personal exposure concentrations of PM ( \u03bcg/m3 ) and endotoxin ( EU/m3 ) for 226 workers from 13 California dairies .
+Arithmetic mean personal concentrations for PM2.5 , inhalable PM and endotoxin were 48 \u03bcg/m3 ( N = 222 ) , 987 \u03bcg/m3 ( N = 225 ) and 453 EU/m3 ( N = 225 ) , respectively .
+Using mixed effects models , time spent re-bedding of freestall barns versus any other job conducted on a dairy led to the highest exposure for PM2.5 , inhalable PM , and endotoxin .
+Personal exposure concentrations were found to be greater than those reported for ambient area based concentrations at the same dairies .
+A pseudo R-square approach revealed that one area based measure combined with time spent performing tasks explained a significant portion of variation in personal exposure concentrations .

@@ -1,0 +1,10 @@
+Remote coastal populations that rely on seafood for subsistence often receive unusually high doses of organochlorines and methyl mercury .
+Immunosuppression resulting from prenatal exposure to organochlorines has been reported in wildlife species and humans .
+In this study , we assessed lymphocyte activation and associated cytokine secretion in 47 newborns from a remote maritime population living on the Mid and Lower North Shore regions of the St. Lawrence River ( Québec , Canada ; subsistence fishing group ) and 65 newborns from nearby urban settings ( reference group ) .
+Cord blood samples were collected for organochlorine and mercury analyses and also to isolate cord blood mononuclear cells ( CBMCs ) for the in vitro assessment of cytokine production and expression of surface markers after mitogenic stimulation ( CD4(+)CD45RO(+) , CD8(+)CD45RO(+) , CD3(+)CD25(+) , and CD8(+)HLA-DR(+) ) .
+Blood mercury and plasma concentrations of polychlorinated biphenyls ( PCBs ) , 1,1-dichloro-2,2-bis(4-chlorophenyl)ethylene ( p,p'-DDE ) , and hexachlorobenzene ( HCB ) were significantly higher in the subsistence fishing group than in the reference group ( p < 0.001 ) .
+No difference was observed between the two groups regarding subsets of lymphocytes showing markers of activation .
+In vitro secretion of cytokines by CBMCs after mitogenic stimulation was lower in the subsistence fishing group than in the reference group ( p < 0.05 ) .
+Moreover , we found an inverse correlation between tumor necrosis factor-alpha ( TNF-alpha ) secretion and plasma PCB , p,p'-DDE , and HCB concentrations ( p < 0.05 ) .
+Our data support a negative association between TNF-alpha secretion by CBMCs and prenatal organochlorine exposure .
+If the relationship between organochlorine and TNF-alpha secretion is causal , it would suggest a role for this important proinflammatory cytokine in mediating organochlorine-induced immunotoxicity in infants developmentally exposed to these compounds .

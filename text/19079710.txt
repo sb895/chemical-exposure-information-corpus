@@ -1,0 +1,10 @@
+BACKGROUND Prospective cohort studies constitute the major source of evidence about the mortality effects of chronic exposure to particulate air pollution .
+Additional studies are needed to provide evidence on the health effects of chronic exposure to particulate matter < or = 2.5 microm in aerodynamic diameter ( PM(2.5) ) because few studies have been carried out and the cohorts have not been representative .
+OBJECTIVES This study was designed to estimate the relative risk of death associated with long-term exposure to PM(2.5) by region and age groups in a U.S. population of elderly , for the period 2000-2005 .
+METHODS By linking PM(2.5) monitoring data to the Medicare billing claims by ZIP code of residence of the enrollees , we have developed a new retrospective cohort study , the Medicare Cohort Air Pollution Study .
+The study population comprises 13.2 million participants living in 4,568 ZIP codes having centroids within 6 miles of a PM(2.5) monitor .
+We estimated relative risks adjusted by socioeconomic status and smoking by fitting log-linear regression models .
+RESULTS In the eastern and central regions , a 10-microg/m(3) increase in 6-year average of PM(2.5) is associated with 6.8% [ 95% confidence interval ( CI ) , 4.9-8.7% ] and 13.2% ( 95% CI , 9.5-16.9 ) increases in mortality , respectively .
+We found no evidence of an association in the western region or for persons > or = 85 years of age .
+CONCLUSIONS We established a cohort of Medicare participants for investigating air pollution and mortality on longer-term time frames .
+Chronic exposure to PM(2.5) was associated with mortality in the eastern and central regions , but not in the western United States .

@@ -1,0 +1,7 @@
+Soil lead in urban neighborhoods is a known predictor of child blood lead levels .
+In this paper , we address the question where one ought to concentrate soil sample collection efforts to efficiently predict children at-risk for soil Pb exposure .
+Two extensive data sets are combined , including 5467 surface soil samples collected from 286 census tracts , and geo-referenced blood Pb data for 55,551 children in metropolitan New Orleans , USA .
+Random intercept least squares , random intercept logistic , and quantile regression results indicate that soils collected within 1m adjacent to residential streets most reliably predict child blood Pb outcomes in child blood Pb levels .
+Regression decomposition results show that residential street soils account for 39.7% of between-neighborhood explained variation , followed by busy street soils ( 21.97% ) , open space soils ( 20.25% ) , and home foundation soils ( 18.71% ) .
+Just as the age of housing stock is used as a statistical shortcut for child risk of exposure to lead-based paint , our results indicate that one can shortcut the characterization of child risk of exposure to neighborhood soil Pb by concentrating sampling efforts within 1m and adjacent to residential and busy streets , while significantly reducing the total costs of collection and analysis .
+This efficiency gain can help advance proactive upstream , preventive methods of environmental Pb discovery .

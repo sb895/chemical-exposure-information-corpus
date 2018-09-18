@@ -1,0 +1,9 @@
+BACKGROUND In 2005 , the World Health Organization ( WHO ) - International Programme on Chemical Safety reevaluated the toxic equivalency factors ( TEFs ) for dioxin-like compounds and made changes that affect the calculation of the total toxic equivalent ( TEQ ) .
+The impact of these changes on the TEQs for human blood and abiotic matrices such as soil and household dust has not been widely assessed or reported .
+METHODS AND RESULTS Using a major exposure study which examined blood , household dust , and soil levels of dioxin-like compounds in several regions of Michigan , we found the mean total TEQ was significantly reduced by 26% , 12% and 14% for serum , household dust , and soil , respectively , when the TEQ was based on the 2005 TEFs compared to the 1998 TEFs .
+The decrease in the serum total TEQ was largely due to the down-weighting of the TEFs for the majority of mono-ortho PCBs .
+In contrast , the decrease in the soil total TEQ was mostly due to the down-weighting of the TEF for 2,3,4,7,8-pentachlorodibenzofuran ( PeCDF ) ( 1998 TEF=0.5 , 2005 TEF=0.3 ) .
+For household dust , the decrease in total TEQ was not due to any single TEF but was due to small changes in a number of compounds .
+There was a dramatic decrease ( -88% ) in the mean and 95th percentile for mono-ortho PCB TEQ due to the 2005 TEFs .
+DISCUSSION These findings suggest that comparisons between studies based on the TEQ-WHO(98) and TEQ-WHO(05) may need to consider an appropriate conversion factor to assure comparability .
+Furthermore , the changes in TEFs may have impact in locations where regulations of soil contamination are triggered by specific TEQ levels .

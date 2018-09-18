@@ -1,0 +1,10 @@
+We have evaluated the levels and specific profiles of several organohalogenated contaminants , including organochlorine pesticides ( OCPs ) , polychlorinated biphenyls ( PCBs ) , and flame retardants ( FRs ) , such as polybrominated diphenyl ethers ( PBDEs ) , hexabromocyclododecanes ( HBCDs ) , novel brominated FRs ( NBFRs ) , and organophosphate FRs ( OPFRs ) , in 47 indoor dust samples collected in 2010 from urban locations from Iasi , Eastern Romania .
+The dominant contaminants found in the samples were OPFRs ( median sum OPFRs 7890 ng/g ) .
+Surprisingly , OCPs were also measured at high levels ( median 1300 ng/g ) .
+Except for BDE 209 ( median 275 ng/g ) , PBDEs were present in dust samples at relatively low levels ( median sum PBDEs 8 ng/g ) .
+PCBs were also measured at low levels ( median sum PCBs 35 ng/g ) , while NBFRs were only occasionally detected , showing a low usage in goods present on the Romanian market .
+The results of the present study evidence the existence of a multitude of chemical formulations in indoor dust .
+FRs are usually associated to human exposure via ingestion of dust , but other chemicals , such as OCPs , are not commonly reported in such matrix .
+Although OCPs were found at comparable levels with OPFRs in Romanian dust , OCPs possess a higher risk to human health due to their considerably lower reference dose ( RfD ) values .
+Indeed , the OCP exposure calculated for various intake scenarios was only 2-fold lower than the corresponding RfD .
+Therefore , the inclusion of OCPs as target chemicals in the indoor environment becomes important for countries where elevated levels in other environmental compartments have been previously shown .

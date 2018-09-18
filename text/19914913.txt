@@ -1,0 +1,15 @@
+OBJECTIVES To assess dermal exposure to 16 polycyclic aromatic hydrocarbons ( PAHs ) in asphalt workers by applying polypropylene pads to six body sites ( neck , shoulder , upper arm , wrist , groin , ankle ) , to identify the compounds and exposure sites most representative , and to integrate dermal exposure results with environmental and biological data .
+METHODS Twenty-four asphalt workers were recruited .
+Dermal exposure was assessed during a single work shift .
+Sixteen PAHs ( from naphthalene to indeno[1,2,3-cd]pyrene ) were quantified via gas chromatography-mass spectrometry .
+Airborne exposure , urinary PAHs and monohydroxy metabolites were also investigated .
+RESULTS Phenanthrene ( PHE ) , present in all samples , was the most abundant compound ( median 0.805-1.825 ng/cm(2) ) .
+Benzo[a]pyrene ( BaP ) was present in 75% of the samples ( 0.046-0.101 ng/cm(2) ) .
+Wrist had the highest contamination , with median PHE , pyrene ( PYR ) , and BaP concentrations of 1.825 , 0.527 , and 0.063 ng/cm(2) .
+PHE and PYR on wrist correlated with almost all 3- to 4-ring PAHs ( 0.405< or =r< or =0.856 ) , but not with BaP ; BaP correlated with almost all 4- to 6- ring PAHs ( 0.584< or =r< or =0.633 ) .
+Significant correlations were observed between PHE level , airborne exposure , and the corresponding urinary PHE and monohydroxy metabolites .
+For PYR , significant correlations existed only between urinary PYR and monohydroxy metabolites .
+Multiple linear regression analysis revealed that 42% of the end-of-shift monohydroxy metabolites were the result of airborne exposure , dermal exposure , and baseline levels of biomarkers .
+CONCLUSIONS Dermal exposure to PAHs was in the low ng/cm(2) range .
+PHE or PYR and BaP were the most representative compounds and the wrist was the best location to perform dermal exposure assessments .
+Both dermal and airborne exposure contributed to the total body burden of PAHs , though the relative contribution was analyte-dependent .

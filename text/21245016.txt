@@ -1,0 +1,8 @@
+BACKGROUND Increased arterial stiffness could represent an intermediate subclinical outcome in the mechanistic pathway underlying associations between average long-term pollution exposure and cardiovascular events .
+OBJECTIVE We hypothesized that 20 years of exposure to particulate matter ( PM ) \u2264 2.5 and 10 \u03bcm in aerodynamic diameter ( PM2.5 and PM10 , respectively ) would be positively associated with arterial stiffness in 3,996 participants from the Multi-Ethnic Study of Atherosclerosis ( MESA ) who were seen at six U.S. study sites .
+METHODS We assigned pollution exposure during two decades preceding a clinical exam ( 2000-2002 ) using observed PM10 from monitors nearest participants ' residences and PM10 and PM2.5 imputed from a space-time model .
+We examined three log-transformed arterial stiffness outcome measures : Young's modulus ( YM ) from carotid artery ultrasound and large ( C1 ) and small ( C2 ) artery vessel compliance from the radial artery pulse wave .
+All associations are expressed per 10 \u03bcg/m3 increment in PM and were adjusted for weather , age , sex , race , glucose , triglycerides , diabetes , waist:hip ratio , seated mean arterial pressure , smoking status , pack-years , cigarettes per day , environmental tobacco smoke , and physical activity .
+C1 and C2 models were further adjusted for heart rate , weight , and height .
+RESULTS Long-term average particle exposure was not associated with greater arterial stiffness measured by YM , C1 , or C2 , and the few associations observed were not robust across metrics and adjustment schemes .
+CONCLUSIONS Long-term particle mass exposure did not appear to be associated with greater arterial stiffness in this study sample .

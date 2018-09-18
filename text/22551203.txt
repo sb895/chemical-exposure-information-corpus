@@ -1,0 +1,13 @@
+BACKGROUND Accumulating evidence indicates that in utero exposure to arsenic is associated with congenital defects and long-term disease consequences including cancers .
+Recent studies suggest that arsenic carcinogenesis results from epigenetic changes , particularly in DNA methylation .
+This study aimed to investigate DNA methylation changes as a result of arsenic exposure in utero and in vitro .
+METHODS For the exposure in utero study , a total of seventy-one newborns ( fifty-five arsenic-exposed and sixteen unexposed newborns ) were recruited .
+Arsenic concentrations in the drinking water were measured , and exposure in newborns was assessed by measurement of arsenic concentrations in cord blood , nails and hair by Inductively Coupled Plasma Mass Spectrometry ( ICP-MS ) .
+In the in vitro study , human lymphoblasts were treated with arsenite at 0-100 \u03bcM for two , four and eight hours ( short-term ) and at 0 , 0.5 and 1.0 \u03bcM for eight-weeks period ( long-term ) .
+DNA methylation was analyzed in cord blood lymphocytes and lymphoblasts treated with arsenite in vitro .
+Global DNA methylation was determined as LINE-1 methylation using combined bisulfite restriction analysis ( COBRA ) and total 5-methyldeoxycytidine ( 5MedC ) content which was determined by HPLC-MS/MS .
+Methylation of p53 was determined at the promoter region using methylation-specific restriction endonuclease digestion with MspI and HpaII .
+RESULTS Results showed that arsenic-exposed newborns had significantly higher levels of arsenic in cord blood , fingernails , toenails and hair than those of the unexposed subjects and a slight increase in promoter methylation of p53 in cord blood lymphocytes which significantly correlated with arsenic accumulation in nails ( p < 0.05 ) was observed , while LINE-1 methylation was unchanged .
+Short-term in vitro arsenite treatment in lymphoblastoid cells clearly demonstrated a significant global hypomethylation , determined as reduction in LINE-1 methylation and total 5-MedC content , and p53 hypermethylation ( p < 0.05 ) .
+However , a slight LINE-1 hypomethylation and transient p53 promoter hypermethylation were observed following long-term in vitro treatment .
+CONCLUSIONS This study provides an important finding that in utero arsenic exposure affects DNA methylation , particularly at the p53 promoter region , which may be linked to the mechanism of arsenic carcinogenesis and the observed increased incidence of cancer later in life .

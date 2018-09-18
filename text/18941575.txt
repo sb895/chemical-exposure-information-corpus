@@ -1,0 +1,11 @@
+BACKGROUND Urinary cadmium ( U-Cd ) has been associated with decreased peripheral bone mineral density ( BMD ) and osteoporosis .
+This association , however , has not been confirmed using femoral BMD , the international standard for diagnosing osteoporosis , at levels < 1.0 microg Cd/g creatinine .
+OBJECTIVES Our goal was to investigate the statistical association between U-Cd , at levels <or= 1 microg/g creatinine , and osteoporosis , as indicated by hip BMD and self-report in a population-based sample of U.S. women >or= 50 years of age .
+METHODS We drew data from the National Health and Nutrition Examination Surveys for 1988-1994 ( n = 3,207 ) and 1999-2004 ( n = 1,051 ) .
+Osteoporosis was indicated by hip BMD cutoffs based on the international standard and self-report of physician diagnosis .
+We analyzed U-Cd levels for association with osteoporosis using multiple logistic regression .
+RESULTS Women >or= 50 years of age with U-Cd levels between 0.50 and 1.00 microg/g creatinine were at 43% greater risk for hip-BMD-defined osteoporosis , relative to those with levels <or= 0.50 microg/g ( odds ratio = 1.43 ; 95% confidence interval , 1.02-2.00 ; p = 0.04 ) .
+We observed similar effect estimates using self-report of physician-diagnosed osteoporosis .
+Smokers did not show a statistically increased risk .
+CONCLUSIONS Results suggest that U.S. women are at risk for osteoporosis at U-Cd levels below the U.S. Occupational Safety and Health Administration's 3-microg/g safety standard .
+Given null findings among smokers , dietary Cd , rather than tobacco , is the likely source of Cd-related osteoporosis risk for the U.S. female population >or= 50 years of age .

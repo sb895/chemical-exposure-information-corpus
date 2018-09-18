@@ -1,0 +1,9 @@
+BACKGROUND Studies on the association of maternal exposure to polychlorinated dibenzo-p-dioxin ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and polychlorinated biphenyls ( PCBs ) with decreased birth weight in humans have produced conflicting results .
+In Japan in 1968 , an accidental human exposure to rice oil contaminated with PCDDs , PCDFs , and PCBs , led to the development of Yusho disease .
+OBJECTIVE The Yusho cohort was used to evaluate the effect of maternal exposure to PCDDs , PCDFs , and PCBs on birth weight .
+METHODS Blood samples , obtained from 101 Yusho women ( 190 births ) who gave birth after exposure , were analyzed for congeners of seven PCDDs , ten PCDFs , and four non-ortho PCBs .
+RESULTS Total PCDD TEQ ( adjusted beta=-161.9g ; 95% CI , -265.3 to -58.6 ) , total PCDF TEQ ( adjusted beta=-105.9g ; 95% CI , -179.5 to -32.2 ) , and total non-ortho PCBs ( adjusted beta=-178.4g ; 95% CI , -318.3 to -38.5 ) levels were inversely associated with birth weight .
+Significant inverse associations with birth weight were also found for total PCDD TEQ , total PCDF TEQ , and total non-ortho PCB TEQ levels among male , but not female , infants .
+Significant inverse associations with birth weight were also found for nine congeners among all infants ; the adjusted beta coefficients were largest for 1,2,3,6,7,8-HxCDD and smallest for 2,3,4,7,8-PeCDF .
+CONCLUSION In the setting of exposure to high levels of dioxins , maternal blood levels of PCDDs , PCDFs and PCBs are associated with lower birth weight in Yusho patients .
+The association exhibited gender-specific differences , as male infants are more susceptible than females to growth restriction induced by in utero dioxin exposures .

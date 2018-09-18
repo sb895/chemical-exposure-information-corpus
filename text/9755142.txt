@@ -1,0 +1,9 @@
+The variability of repeated house dust mite ( HDM ) allergen determinations at the same site within 3-24 months was evaluated on previously collected samples .
+Between two and four repeated measurements of Der p 1 , a major allergen of Dermatophagoides pteronyssinus and Der f 1 , a major allergen of D. farinae , on 46 carpets and 31 mattresses were analyzed .
+In 90% of carpets and mattresses , HDM allergen concentrations were clinically relevant ( at least one measurement >0.1 microg Der p 1 + Der f 1/g dust ) .
+The coefficients of variation ( CVs ) for allergen concentrations in repeated samples over time ( 55.3-82.0% for the two allergens in beds and carpets ) were clearly greater than the CVs for multiple samples collected at the same time ( 4.0-32.6% ) .
+Determination of allergen mass per square meter of surface instead of concentration per gram of dust resulted in an even greater CV ( 72.3-86.7% ) .
+The 95% range of expected values was about 10-fold above and below the result of a single determination .
+We conclude that single determinations of HDM allergen in dust give very limited information about long-term exposure of an individual to the allergen .
+Repeated measurements are recommended .
+Studies of factors that affect HDM allergen exposure must be planned with appropriate sample sizes .

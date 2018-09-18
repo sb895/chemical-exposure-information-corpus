@@ -1,0 +1,12 @@
+A subset of private pesticide applicators in the Agricultural Health Study ( AHS ) epidemiological cohort was monitored around the time of their agricultural use of 2,4-dichlorophenoxyacetic acid ( 2,4-D ) and O,O-diethyl-O-3,5,6-trichloro-2-pyridyl phosphorothioate ( chlorpyrifos ) to assess exposure levels and potential determinants of exposure .
+Measurements included pre- and post-application urine samples , and patch , hand wipe , and personal air samples .
+Boom spray or hand spray application methods were used by applicators for 2,4-D products .
+Chlorpyrifos products were applied using spray applications and in-furrow application of granular products .
+Geometric mean ( GM ) values for 69 2,4-D applicators were 7.8 and 25 microg/l in pre- and post-application urine , respectively ( P<0.05 for difference ) ; 0.39 mg for estimated hand loading ; 2.9 mg for estimated body loading ; and 0.37 microg/m(3) for concentration in personal air .
+Significant correlations were found between all media for 2,4-D .
+GM values for 17 chlorpyrifos applicators were 11 microg/l in both pre- and post-application urine for the 3,5,6-trichloro-2-pyridinol metabolite , 0.28 mg for body loading , and 0.49 microg/m(3) for air concentration .
+Only 53% of the chlorpyrifos applicators had measurable hand loading results ; their median hand loading being 0.02 mg .
+Factors associated with differences in 2,4-D measurements included application method and glove use , and , for hand spray applicators , use of adjuvants , equipment repair , duration of use , and contact with treated vegetation .
+Spray applications of liquid chlorpyrifos products were associated with higher measurements than in-furrow granular product applications .
+This study provides information on exposures and possible exposure determinants for several application methods commonly used by farmers in the cohort and will provide information to assess and refine exposure classification in the AHS .
+Results may also be of use in pesticide safety education for reducing exposures to pesticide applicators .

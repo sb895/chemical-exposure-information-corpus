@@ -1,0 +1,9 @@
+Childhood obesity , a major public health problem , can lead to cardiovascular disease in adulthood .
+Studies have implicated exposure to bisphenol A ( BPA ) , a commonly used chemical , in the development of obesity in adults .
+However , literature is limited on this association in children .
+We examined the association between urinary BPA and obesity in children aged 6-18 years from the National Health and Nutrition Examination Survey ( 2003-2008 ) .
+The primary exposure was urinary BPA and the outcome was obesity , defined as the \u2265 95th percentile of body mass index specific for age and sex .
+We found a positive association between increasing levels of urinary BPA and obesity , independent of age , sex , race/ethnicity , education , physical activity , serum cotinine , and urinary creatinine .
+Compared with children in the lowest quartile of BPA ( <1.5 ng/mL ) , children in the highest quartile ( >5.4 ng/mL ) had a multivariable odds ratio for obesity of 2.55 ( 95% confidence interval ( CI ) : 1.65 , 3.95 ) ( Ptrend < 0.01 ) .
+The observed positive association was predominantly present in boys ( odds ratio = 3.80 , 95% CI : 2.25 , 6.43 ) ( Ptrend < 0.001 ) and in non-Hispanic whites ( odds ratio = 5.87 , 95% CI : 2.15 , 16.05 ) ( Ptrend < 0.01 ) .
+In a representative sample of children , urinary BPA was associated with obesity , predominantly in non-Hispanic white boys , independent of major risk factors .

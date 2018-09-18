@@ -1,0 +1,13 @@
+Despite the recent popularity of e-cigarettes , to date only limited data is available on their safety for both users and secondhand smokers .
+The present study reports a comprehensive inner and outer exposure assessment of e-cigarette emissions in terms of particulate matter ( PM ) , particle number concentrations ( PNC ) , volatile organic compounds ( VOC ) , polycyclic aromatic hydrocarbons ( PAH ) , carbonyls , and metals .
+In six vaping sessions nine volunteers consumed e-cigarettes with and without nicotine in a thoroughly ventilated room for two hours .
+We analyzed the levels of e-cigarette pollutants in indoor air and monitored effects on FeNO release and urinary metabolite profile of the subjects .
+For comparison , the components of the e-cigarette solutions ( liquids ) were additionally analyzed .
+During the vaping sessions substantial amounts of 1,2-propanediol , glycerine and nicotine were found in the gas-phase , as well as high concentrations of PM2.5 ( mean 197\u03bcg/m(3) ) .
+The concentration of putative carcinogenic PAH in indoor air increased by 20% to 147ng/m(3) , and aluminum showed a 2.4-fold increase .
+PNC ranged from 48,620 to 88,386 particles/cm(3) ( median ) , with peaks at diameters 24-36nm .
+FeNO increased in 7 of 9 individuals .
+The nicotine content of the liquids varied and was 1.2-fold higher than claimed by the manufacturer .
+Our data confirm that e-cigarettes are not emission-free and their pollutants could be of health concern for users and secondhand smokers .
+In particular , ultrafine particles formed from supersaturated 1,2-propanediol vapor can be deposited in the lung , and aerosolized nicotine seems capable of increasing the release of the inflammatory signaling molecule NO upon inhalation .
+In view of consumer safety , e-cigarettes and nicotine liquids should be officially regulated and labeled with appropriate warnings of potential health effects , particularly of toxicity risk in children .

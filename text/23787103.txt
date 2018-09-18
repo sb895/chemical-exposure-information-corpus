@@ -1,0 +1,7 @@
+In this study , the concentrations of polycyclic aromatic hydrocarbons ( PAHs ) in soil profiles and the soil properties were analyzed in Hunpu , a typical wastewater irrigation area , northeast of China .
+The total concentrations of 16 priority control PAHs ranged from 7.88 to 2,231.42 \u03bcg/kg .
+Among 16 PAHs , the most abundant was Phenanthrene and the 3- or 4- ring PAHs were predominant .
+The PAH concentrations were higher in the upland fields near the oil wells , whereas leaching of PAH into the groundwater caused low concentrations in the paddy fields .
+The geochemical indices and the results from the principal component analysis of all 16 PAHs indicated that PAHs were mainly from atmospheric dusts in the top soil in I-1P/I-3P/I-7P and through soil profiles in I-4U/I-5P/I-8U , whereas those in the bottom layers were mainly from petroleum production and wastewater irrigation in I-1P/I-3P/I-7P and through soil profiles in I-2U and I-6U .
+In the redundancy analysis , PAHs exhibited negative correlation with pH , depth , silt , and clay , but had positive correlation with sand and organic matter .
+Finally , total toxic equivalent in the soil profiles and the calculated health risk of PAHs in the surface soil using contaminated land exposure assessment model elucidated the cancer risk that PAHs pose on human health in the Hunpu region .

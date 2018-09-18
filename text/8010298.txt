@@ -1,0 +1,7 @@
+Quantifying the exposure of agricultural workers to pesticides is difficult in the face of the heterogeneity of the pesticides used , the variability in methods of application , and the lack of adequate exposure data .
+This report describes an attempt to estimate long-term dermal and inhalation exposure of bulb farmers by the development of an exposure index .
+This proposed exposure index consists of generic levels of exposure specific to the method of application , which were derived from databases as well as from field studies .
+The index is further determined by farm-related parameters such as acreage and number of pesticide applications ascertained from questionnaire responses .
+A widely used dithiocarbamate mixture served as a marker compound for exposure to other pesticides .
+Ranking of 127 bulb farmers according to calculated lifetime dermal exposure correlated only moderately to ranking based on duration of exposure , e.g. , years of exposure and farm acreage .
+This finding indicates that the proposed exposure index could provide a useful estimate of long-term exposure to a mixture of pesticides in epidemiological investigations .

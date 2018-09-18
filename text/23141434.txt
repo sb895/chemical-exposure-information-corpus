@@ -1,0 +1,11 @@
+Manganese ( Mn ) is an essential metal , but in excess it becomes neurotoxic .
+Children's developing nervous system may be especially vulnerable to the neurotoxic effects of overexposure to this metal .
+The aim of this study was to assess the effect of Mn exposure on verbal memory and learning in 7- to 11-year-old children .
+We tested 79 children living in the Molango Mn-mining district and 95 children from a non-exposed community in the same State of Mexico .
+The Children's Auditory Verbal Learning Test ( CAVLT ) was administered .
+Blood and hair samples were obtained to determine Mn concentrations using atomic absorption spectrophotometry .
+CAVLT performance was compared between the two groups and multilevel regression models were constructed to estimate the association between biomarkers of Mn exposure and the CAVLT scores .
+The exposed group presented higher hair and blood Mn ( p<0.001 ) than the non-exposed group ( median 12.6 vs. 0.6\u03bcg/g , 9.5vs. 8.0\u03bcg/L respectively ) , as well as lower scores ( p<0.001 ) for all the CAVLT subscales .
+Hair Mn was inversely associated with most CAVLT subscales , mainly those evaluating long-term memory and learning ( \u03b2=-0.47 , 95% CI -0.84 , -0.09 ) .
+Blood Mn levels showed a negative but non-significant association with the CAVLT scores .
+These results suggest that Mn exposure has a negative effect on children's memory and learning abilities .

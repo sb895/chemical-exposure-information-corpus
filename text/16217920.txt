@@ -1,0 +1,14 @@
+Data on inhalational and potential dermal exposures during spray application of liquid biocidal products were generated .
+On the one hand , model experiments with different spraying devices using fluorescent tracers were carried out to investigate the influence of parameters relevant to the exposure ( e.g. spraying equipment , nozzle size , direction of application ) .
+On the other hand , measurements were performed at selected workplaces ( during disinfection operations in food and feed areas ; pest control operations for private , public and veterinary hygiene ; wood protection and antifouling applications ) after application of biocidal products such as Empire 20 , Responsar SC , Omexan-forte , Actellic , Perma-forte ; Fendona SC , Pyrethrum mist ; CBM 8 , Aldekol Des 03 , TAD CID , Basileum , Basilit .
+The measurements taken in the model rooms demonstrated dependence of the inhalation exposure on the type of spraying device used , in the following order : " spraying with low pressure " < " airless spraying " < " fogging " indicating that the particle diameter of the released spray droplets is the most important parameter .
+In addition inhalation exposure was lowest when the spraying direction was downward .
+Also for the potential dermal exposure , the spraying direction was of particular importance : overhead spraying caused the highest contamination of body surfaces .
+The data of inhalational and potential dermal exposures gained through workplace measurements showed considerable variation .
+During spraying procedures with low-pressure equipments , dose rates of active substances inhaled by the operators ranged from 7 to 230 microg active substance ( a.s.)/h .
+An increase in inhaled dose rates ( 6-33 mg a.s./h ) was observed after use of high application volumes/time unit during wood protection applications indoors .
+Spraying in the veterinary sector using medium-pressure sprayers led to inhaled dose rates between 2 and 24mga.s./h .
+The highest inhaled dose rates were measured during fogging ( 114 mg a.s./h ) and after-high-pressure applications in the antifouling sector ( 110-300 mg a.s./h ) .
+The potential dermal exposure of spray operators was lowest ( dose rates from 0.2 to 7 mg a.s./h ) in the areas of food and feed disinfection and private and public hygiene during spraying with low-pressure devices .
+During fogging , wood protection and antifouling applications , high-potential dermal exposures of the operators were determined .
+Dermal dose rates varied between 100 and 34,000 mg a.s./h .

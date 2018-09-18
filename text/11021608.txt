@@ -1,0 +1,11 @@
+Our aim was to examine the contribution of an infant's indoor environment to childhood asthma using prospective data .
+We conducted a cross-sectional asthma survey in 1995 on 92% ( 6,378/6,911 ) of 7-year-olds in Tasmania , Australia .
+We linked these data with data collected in 1988 as part of the Tasmanian Infant Health Survey , which was designed to investigate sudden infant death .
+We were able to match 863 records out of the 1,111 in the 1988 survey and the 6,378 in the 1995 survey .
+The former group was interviewed at home at 1 month of age .
+In homes where at least one adult smoked in 1988 , reported infant exposure to smoking in the same room in 1988 was associated with increased asthma by 1995 ( relative risk = 1.52 ; 95% confidence interval = 1.01-2.29 ) after adjustment for confounders .
+The associations between infant exposure to environmental tobacco smoke and asthma were not consistent , however .
+Gas heater use in 1988 was associated with asthma ( relative risk = 1.92 ; 95% confidence interval = 1.33-2.76 ) .
+Markers of aeroallergen exposure at 1 month of age were not materially associated with asthma or wheeze .
+In some settings , air circulation practice with regard to bedroom door closure appeared important .
+Poor indoor air quality may play an important role in the development of childhood asthma .

@@ -1,0 +1,8 @@
+BACKGROUND Outdoor concentrations of soot and nitrogen dioxide ( NO2 ) outside of schools have been associated with children's respiratory and eye symptoms .
+We assessed how adjustments for measurement error affect these associations .
+METHODS Concentrations of air pollutants outside children's schools were validated by personal measurements of exposure to traffic-related air pollution .
+We estimated prevalence ratios of 4 health outcomes ( current wheeze , conjunctivitis , phlegm , and elevated total serum immunoglobulin E ) using school outdoor measurements , and then adjusted for measurement error using the personal exposure data and applying a regression calibration method .
+The analysis adjusting for measurement error was carried out using a main study/external validation design .
+RESULTS Adjusting for measurement error produced effect estimates related to soot and NO2 that were 2 to 3 times higher than in the original study .
+The adjusted prevalence ratio for current phlegm was 5.3 ( 95% confidence interval = 1.2-23 ) for a 9.3 microg/m3 increase in soot , and 3.8 ( 1.0-14 ) , for a 17.6 microg/m3 increase in NO2 , compared with the original results of 2.2 ( 1.3-3.9 ) and 1.8 ( 1.1-2.8 ) , respectively .
+Corrections were of similar magnitude for the prevalence of current wheeze , current conjunctivitis , and total elevated total immunoglobulin E. CONCLUSIONS The estimated effects of outdoor air pollution on respiratory and other health effects in children may be substantially attenuated when based on exposure measurements outside schools instead of personal exposure .

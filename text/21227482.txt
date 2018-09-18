@@ -1,0 +1,10 @@
+Arsenic plays an important role in producing oxidative stress in cultured cells .
+To investigate the interaction between high oxidative stress and low arsenic methylation capacity on arsenic carcinogenesis , a case-control study was conducted to evaluate the relationship among the indices of oxidative stress , such as urinary 8-hydroxydeoxyquanine ( 8-OHdG ) , as well as plasma micronutrients and urinary arsenic profiles on urothelial carcinoma ( UC ) risk .
+Urinary 8-OHdG was measured using high-sensitivity enzyme-linked immunosorbent assay kits .
+The urinary arsenic species were analyzed using high-performance liquid chromatography and hydride generator-atomic absorption spectrometry .
+Plasma micronutrient levels were analyzed using reversed-phase high-performance liquid chromatography .
+The present study showed a significant protective effect of plasma alpha-tocopherol on UC risk .
+Plasma alpha-tocopherol levels were significantly inversely related to urinary total arsenic concentrations and inorganic arsenic percentage ( InAs% ) , and significantly positively related to dimethylarsinic acid percentage ( DMA% ) .
+There were no correlations between plasma micronutrients and urinary 8-OHdG .
+Study participants with lower alpha-tocopherol and higher urinary total arsenic , higher InAs% , higher MMA% , and lower DMA% had a higher UC risk than those with higher alpha-tocopherol and lower urinary total arsenic , lower InAs% , lower MMA% , and higher DMA% .
+These results suggest that plasma alpha-tocopherol might modify the risk of inorganic arsenic-related UC .

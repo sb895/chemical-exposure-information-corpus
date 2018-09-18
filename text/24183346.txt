@@ -1,0 +1,12 @@
+Organochlorine ( OC ) pesticides are endocrine disruptors altering the thyroid hormonal system .
+The aim of this study is to investigate the relationship between exposure to OC pesticides and thyroid status in adults from a rural area in Rio de Janeiro , Brazil , heavily contaminated with OC pesticides .
+A cross-sectional study was carried out in 303 men and 305 women >14 years old .
+Concentrations of 19 OC pesticides and levels of free thyroxine ( T4 ) , total triiodothyronine ( T3 ) , thyroid-stimulating hormone ( TSH ) , anti-thyroperoxidase ( TPOAb ) and anti-thyroglobulin ( TgAg ) antibodies were analyzed in serum samples .
+Associations between OC pesticides concentrations and values of biochemical thyroid parameters were determined using multivariate regression models stratified by gender .
+Prevalence of subclinical hyperthyroidism and the presence of TPOAb antibodies were higher than those described for euthyroid populations elsewhere .
+After adjusting for confounders , total T3 levels were associated with lower concentrations of endosulphan 2 in men and with higher alpha-chlordane , p,p'-dichlorodiphenyltrichloroethane ( DDT ) , endosulphan 2 , and methoxychlor in women .
+Levels of free T4 showed inverse association with beta-hexachlorocyclohexane ( HCH ) and p,p'-DDT in men , and were positively associated with hexachlorobenzene ( HCB ) , heptachlor , o,p'-DDT , and p,p'-DDT in women .
+TSH levels were associated with higher beta-HCH in men .
+A positive association was observed between exposure methoxychlor in males and presence of TPOAb , but no association with TPOAb was found in women .
+These results suggest that OC pesticides can affect the thyroid system through gender-specific mechanisms that may differ among compounds .
+Further detailed investigations and health monitoring should be warranted for this population .

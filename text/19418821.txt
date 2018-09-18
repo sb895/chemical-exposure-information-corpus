@@ -1,0 +1,13 @@
+For this paper , we considered relationships between mortality , vehicular traffic density , and ambient levels of 12 hazardous air pollutants , elemental carbon ( EC ) , oxides of nitrogen ( NOx ) , sulfur dioxide ( SO2 ) , and sulfate ( SO4(2-) ) .
+These pollutant species were selected as markers for specific types of emission sources , including vehicular traffic , coal combustion , smelters , and metal-working industries .
+Pollutant exposures were estimated using emissions inventories and atmospheric dispersion models .
+We analyzed associations between county ambient levels of these pollutants and survival patterns among approximately 70,000 U.S. male veterans by mortality period ( 1976-2001 and subsets ) , type of exposure model , and traffic density level .
+We found significant associations between all-cause mortality and traffic-related air quality indicators and with traffic density per se , with stronger associations for benzene , formaldehyde , diesel particulate , NOx , and EC .
+The maximum effect on mortality for all cohort subjects during the 26-yr follow-up period is approximately 10% , but most of the pollution-related deaths in this cohort occurred in the higher-traffic counties , where excess risks approach 20% .
+However , mortality associations with diesel particulates are similar in high- and low-traffic counties .
+Sensitivity analyses show risks decreasing slightly over time and minor differences between linear and logarithmic exposure models .
+Two-pollutant models show stronger risks associated with specific traffic-related pollutants than with traffic density per se , although traffic density retains statistical significance in most cases .
+We conclude that tailpipe emissions of both gases and particles are among the most significant and robust predictors of mortality in this cohort and that most of those associations have weakened over time .
+However , we have not evaluated possible contributions from road dust or traffic noise .
+Stratification by traffic density level suggests the presence of response thresholds , especially for gaseous pollutants .
+Because of their wider distributions of estimated exposures , risk estimates based on emissions and atmospheric dispersion models tend to be more precise than those based on local ambient measurements .

@@ -1,0 +1,11 @@
+BACKGROUND Polybrominated diphenyl ethers ( PBDEs ) are widely used in Western countries .
+OBJECTIVES Because the prevalence of cryptorchidism appears to be increasing , we investigated whether exposure to PBDEs was associated with testicular maldescent .
+METHODS In a prospective Danish-Finnish study , 1997-2001 , all boys were examined for cryptorchidism .
+We analyzed whole placentas ( for 95 cryptorchid/185 healthy boys ) and individual breast milk samples ( 62/68 ) for 14 PBDEs and infant serum samples for gonadotropins , sex-hormone binding globulin , testosterone , and inhibin B. RESULTS In 86 placenta-milk pairs , placenta PBDE concentrations in fat were lower than in breast milk , and a larger number of congeners were nondetectable .
+There was no significant difference between boys with and without cryptorchidism for individual congeners , the sum of 5 most prevalent , or all 14 congeners .
+The concentration of PBDEs in breast milk was significantly higher in boys with cryptorchidism than in controls ( sum of BDEs 47 , 153 , 99 , 100 , 28 , 66 , and 154 : median , 4.16 vs. 3.16 ng/g fat ; p < 0.007 ) .
+There was a positive correlation between the sum of PBDEs and serum luteinizing hormone ( p < 0.033 ) .
+The sum of PBDEs in breast milk did not differ between Denmark and Finland ( median , 3.52 vs. 3.44 ng/g fat ) , but significant differences in some individual congeners were found .
+CONCLUSIONS Two different proxies were used for prenatal PBDE exposure , and levels in breast milk , but not in placenta , showed an association with congenital cryptorchidism .
+Other environmental factors may contribute to cryptorchidism .
+Our observations are of concern because human exposure to PBDEs is high in some geographic areas .

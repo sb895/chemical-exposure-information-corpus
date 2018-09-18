@@ -1,0 +1,11 @@
+Mercury ( Hg ) exposure is associated with disease conditions , including cardiovascular problems .
+Although the mechanisms implicated in these complications have not been precisely defined yet , matrix metalloproteinases ( MMPs ) may be involved .
+The gene encoding MMP-2 presents genetic polymorphisms which affect the expression and activity level of this enzyme .
+A common polymorphism of MMP-2 gene is the C(-1306)T ( rs 243865 ) , which is known to disrupt a Sp1-type promoter site ( CCACC box ) , thus leading to lower promoter activity associated with the T allele .
+This study aimed at examining how this polymorphism affects the circulating MMP-2 levels and its endogenous inhibitor , the tissue inhibitor of metalloproteinase-2 ( TIMP-2 ) in 210 subjects environmentally exposed to Hg .
+Total blood and plasma Hg concentrations were determined by inductively coupled plasma-mass spectrometry ( ICP-MS ) .
+MMP-2 and TIMP-2 concentrations were measured in plasma samples by gelatin zymography and ELISA , respectively .
+Genotypes for the C(-1306)T polymorphism were determined by Taqman® Allele Discrimination assay .
+We found a positive association ( p=0.0057 ) between plasma Hg concentrations and MMP-2/TIMP-2 ( an index of net MMP-2 activity ) .
+The C(-1306)T polymorphism modified MMP-2 concentrations ( p=0.0465 ) and MMP-2/TIMP-2 ratio ( p=0.0060 ) in subjects exposed to Hg , with higher MMP-2 levels been found in subjects carrying the C allele .
+These findings suggest a significant interaction between the C(-1306)T polymorphism and Hg exposure , possibly increasing the risk of developing diseases in subjects with the C allele .

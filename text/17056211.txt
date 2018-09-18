@@ -1,0 +1,12 @@
+An integrated approach based on ambient and biological monitoring , the latter including both biomarkers of exposure and susceptibility , was applied to characterize benzene exposure in a group of 37 taxi drivers of the city of Parma ( Italy ) .
+Airborne benzene concentrations were assessed by 24 h personal sampling and work-shift sampling inside the taxicab using passive samplers ( Radiello ) .
+Benzene metabolites , trans,trans-muconic acid ( t,t-MA ) and S-phenylmercapturic acid ( S-PMA ) , and urinary cotinine as biomarker of smoking habits were measured by isotopic dilution liquid chromatography tandem mass spectrometry in both pre-shift ( PS ) and end-of-shift ( EOS ) samples .
+Urinary benzene ( U-B ) levels were determined by solid-phase microextraction gas chromatography-mass spectrometry in EOS samples .
+Relevant polymorphisms of microsomal epoxide hydrolase , NAD(P)H:quinone oxidoreductase , glutathione S-transferases M1-1 ( GSTM1 ) , T1-1 , and A1 were characterized by PCR-based methods .
+Mean airborne benzene concentration was 5.85 +/- 1.65 microg/m3 , as assessed by 24 h personal sampling integrating for work-shift , indoor or general environment activities .
+Significantly , higher benzene concentrations were detected in the taxicab during the work-shift ( 7.71 +/- 1.95 microg/m3 , p < 0.005 ) .
+Smokers eliminated significantly higher concentrations of U-B and S-PMA than non-smokers in EOS samples [ geometric mean ( geometric S.D. ) : 2.58 ( 4.23 ) versus 0.44 ( 1.79 ) microg/l for U-B ; 3.79 ( 1.50 ) versus 2.14 ( 1.87 ) microg/gcreat. for S-PMA , p < 0.002 ] .
+Within smokers , S-PMA concentrations significantly increased at the end of the work-shift compared to pre-shift values ( p < 0.05). t,t-MA showed a similar behaviour , although differences were not significant .
+In the narrow range examined , no correlation was observed between air benzene concentration and urinary biomarkers .
+All benzene biomarkers but EOS t,t-MA were correlated with U-cotinine ( p < 0.05 ) .
+GSTM1 polymorphism significantly modulated S-PMA excretion , as subjects bearing the GSTM1pos genotype [ 3.61 ( 1.15 ) microg/gcreat. ] excreted significantly higher S-PMA concentrations than GSTM1null subjects [ 2.19 ( 1.18 ) microg/gcreat. , p < 0.05 ] .

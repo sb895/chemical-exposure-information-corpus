@@ -1,0 +1,7 @@
+In order to investigate the body burden levels of toxic metals in Japanese , five toxic metal concentrations in scalp hair samples from 28,424 subjects from infant to elderly were determined with inductively coupled plasma mass spectrometry ( ICP-MS ) .
+The geometric mean of hair mercury concentrations showed a high-significant age-correlated increase ( r = 0.341 , p < 0.0001 ) with a peak at the 6th decade of life and then decreased with further aging in both sexes .
+The mean mercury concentrations in male adults were significantly higher than those in female ( p < 0.001 ) , indicating the gender difference ( male > female ) in mercury accumulation .
+Arsenic also showed a similar accumulation profile with age dependency and gender difference in adult subjects .
+In contrast , cadmium , lead and aluminium exhibited another type of accumulation profile : the highest burden level was observed in infants aged 0-3 years old for every element in both sexes .
+In addition , cadmium was found to have a character accumulating in aged females , with significant age-dependency ( r = 0.134 , p < 0.0001 ) and gender difference ( female > male ) .
+These findings suggest that toxic metals are classified into two families on the basis of their accumulation profiles , and that the three elements of mercury , arsenic and cadmium which accumulate age-dependently in adults , may play a role in aging process and higher burden with them may lead to acceleration of aging .

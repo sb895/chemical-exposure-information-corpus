@@ -1,0 +1,10 @@
+BACKGROUND Glycol ethers are present in a wide range of occupational and domestic products .
+Animal studies have suggested that some of them may affect ovarian function .
+OBJECTIVE We examined the relation between women's exposure to glycol ethers and time to pregnancy .
+METHODS We used chromatography coupled to mass spectrometry to measure eight glycol ether metabolites in urine samples from randomly selected women in the PELAGIE mother-child cohort who had samples collected before 19 weeks of gestation .
+Using time to pregnancy information collected at the beginning of the pregnancy ( women were asked how many months it took for them to conceive ) , we estimated associations between metabolite levels and time to pregnancy in 519 women with complete data using discrete-time Cox proportional hazards models to adjust for potential confounders .
+RESULTS We detected glycol ether metabolites in 6% ( for ethoxyacetic acid ) to 93% ( for phenoxyacetic and butoxyacetic acids ) of urine samples .
+Phenoxyacetic acid was the only metabolite with a statistically significant association with longer time to pregnancy [ fecundability OR = 0.82 ; 95% CI : 0.63 , 1.06 for the second and third quartile combined ; fecundability OR = 0.70 ; 95% CI : 0.52 , 0.95 for a fourth-quartile ( \u2265 1.38 mg/L ) vs. first-quartile concentration ( < 0.14 mg/L) ] .
+This association remained stable after multiple sensitivity analyses .
+CONCLUSION Phenoxyacetic acid , which was present in most of the urine samples tested in our study , was associated with increased time to pregnancy .
+This metabolite and its main parent compound , 2-phenoxyethanol , are plausible causes of decreased fecundability , but they may also be surrogates for potential coexposures to compounds frequently present in cosmetics .

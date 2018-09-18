@@ -1,0 +1,10 @@
+The aim of this study was to evaluate the associations of environmental exposure to dioxins with diabetes among general inhabitants in Japan .
+A cross-sectional study was performed on 1374 participants , who were not occupationally exposed to dioxins , aged 15-73 years , living widely in 75 different residential areas of 25 prefectures in Japan through 2002-2006 .
+Seven polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) , 12 dioxin-like polychlorinated biphenyls ( PCBs ) , which are assigned a toxic equivalency factor , and biochemical factors were determined in fasting blood .
+A questionnaire survey on life-style including past history of diseases and treatments was also performed .
+We examined the associations of the accumulated toxic equivalents ( TEQs ) of PCDDs+PCDFs , dioxin-like PCBs and total dioxins with prevalent diabetes .
+Simple and partial correlation analyses revealed that HbA1c correlated with the accumulated TEQs of PCDDs+PCDFs , dioxin-like PCBs and total dioxins .
+In logistic regression analyses , the third and the highest quartiles of dioxin-like PCBs had adjusted odds ratios ( ORs ) of 3.07 ( 95% CI 1.16-8.81 ) and 6.82 ( 95% CI 2.59-20.1 ) compared to the reference ( first plus second quartiles ) .
+On the other hand , the highest but not the third quartiles of PCDDs+PCDFs and total dioxins had significantly higher adjusted ORs compared to the respective references .
+These associations persisted when the subjects with poor liver or poor renal function were removed from the analysis .
+This recent representative data from general inhabitants in Japan showed associations of environmental exposure to dioxins , especially dioxin-like PCBs , with diabetes .

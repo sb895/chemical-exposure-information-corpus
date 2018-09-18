@@ -1,0 +1,11 @@
+There is a potential for widespread occupational exposure to jet fuel among military and civilian personnel .
+Urinary metabolites of naphthalene have been suggested for use as short-term biomarkers of exposure to jet fuel ( jet propulsion fuel 8 ( JP8) ) .
+In this study , urinary biomarkers of JP8 were evaluated among US Air Force personnel .
+Personnel ( n=24 ) were divided a priori into high , moderate , and low exposure groups .
+Pre- and post-shift urine samples were collected from each worker over three workdays and analyzed for metabolites of naphthalene ( 1- and 2-naphthol ) .
+Questionnaires and breathing-zone naphthalene samples were collected from each worker during the same workdays .
+Linear mixed-effects models were used to evaluate the exposure data .
+Post-shift levels of 1- and 2-naphthol varied significantly by a priori exposure group ( levels in high group>moderate group>low group ) , and breathing-zone naphthalene was a significant predictor of post-shift levels of 1- and 2-naphthol , indicating that for every unit increase in breathing-zone naphthalene , there was an increase in naphthol levels .
+These results indicate that post-shift levels of urinary 1- and 2-naphthol reflect JP8 exposure during the work-shift and may be useful surrogates of JP8 exposure .
+Among the high exposed workers , significant job-related predictors of post-shift levels of 1- and 2-naphthol included entering the fuel tank , repairing leaks , direct skin contact with JP8 , and not wearing gloves during the work-shift .
+The job-related predictors of 1- and 2-naphthol emphasize the importance of reducing inhalation and dermal exposure through the use of personal protective equipment while working in an environment with JP8 .

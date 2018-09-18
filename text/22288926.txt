@@ -1,0 +1,11 @@
+Resin-based dental restorative materials contain allergenic methacrylate monomers , which may be released into saliva after restorative treatment .
+Monomers from resin-based composite materials have been demonstrated in saliva in vitro ; however , studies analyzing saliva after restorative therapy are scarce .
+The aim of this study was to quantify methacrylate monomers in saliva after treatment with a resin-based composite filling material .
+Saliva was collected from 10 patients at four start points--before treatment , and 10 min , 24 h , and 7 d after treatment--and analysed by combined chromatography/mass spectrometry .
+The monomers bisphenol-A diglycidyl methacrylate ( Bis-GMA ) , 2-hydroxyethyl methacrylate ( HEMA ) , and urethane dimethacrylate ( UDMA ) were detected and quantified in the samples collected shortly ( 10 min ) after treatment .
+The amounts detected ranged from 0.028 to 9.65 \u03bcg ml(-1) for Bis-GMA , from 0.015 to 0.19 \u03bcg ml(-1) for HEMA , and from 0.004 to 1.2 \u03bcg ml(-1) for UDMA .
+Triethyleneglycol dimethacrylate ( TEGDMA ) was detected in four of the samples .
+Ethoxylated bisphenol-A dimethacrylate ( Bis-EMA ) was not detected .
+Monomers were not detected in saliva samples collected before treatment , or 24 h or 7 d after treatment , with the exception of one sample , 24 h after treatment , in which HEMA was detected .
+In conclusion , monomers from the investigated resin-based composite and adhesive system were present in saliva shortly after treatment .
+One week after treatment , no monomers could be detected in patients ' saliva samples .

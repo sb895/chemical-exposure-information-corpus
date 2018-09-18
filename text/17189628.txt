@@ -1,0 +1,18 @@
+In the framework of a cohort study of pregnant women conducted in Brittany ( France ) , we assessed the exposure to trihalomethanes ( THM ) during pregnancy in a subset by evaluating ( 1 ) potential sources of variability in household THM levels ; ( 2 ) the between- and within-subject variability in THM levels ; ( 3 ) THM levels in swimming pools ; and ( 4 ) the role of water-related habits on total THM uptake .
+We visited 109 women from the ongoing cohort study at home for an interview and collection of tap water from October to December 2004 .
+Forty-three of them were re-contacted to obtain a second tap water sample in April-May 2005 .
+We designed a questionnaire to collect individual information on source and amount of drinking water , frequency of showering , bathing , and swimming pool attendance , and household characteristics .
+We obtained 282 THM measurements , 152 specifically for the study and 130 from a regulatory agency .
+Personal information and environmental data were combined using two methodologies ( method 1 using regulatory data and method 2 using our THM measurements ) with a different set of assumptions .
+We calculated ingestion , showering , bathing , and swimming pool THM uptakes and added up those uptakes to calculate total THM uptake .
+Average THM levels from our measurements in October , November-December , and April-May were 61.3 , 45.1 , and 54.5 microg/l , respectively .
+Geographical variability was low and characteristics of the household did not influence THM levels .
+Within-subject variability in THM levels was three times higher than between-subject variability .
+Average THM level in swimming pools was 80.4 microg/l .
+Average water consumption during pregnancy was 1.9l/day .
+The source of the household drinking water was 90% bottled , 8% municipal , and 2% from other sources .
+Forty-seven per cent attended swimming pools during pregnancy .
+Using method 1 , the geometric mean of total THM uptake was 0.93 microg/day .
+Showering contributed 64% , swimming in pools 23% , bathing 12% , and drinking water 1% to the total THM uptake .
+In a setting with low geographical variability and limited environmental measurements , individual data is highly relevant to determine personal THM exposure and uptake .
+In a population that mainly drinks bottled water ( e.g. , pregnant women ) , individual THM uptakes are dominated by inhalation and dermal absorption during , showering , swimming in pools , and bathing .

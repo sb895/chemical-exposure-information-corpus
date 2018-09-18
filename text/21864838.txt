@@ -1,0 +1,15 @@
+Antisocial behavior is a product of multiple interacting sociohereditary variables , yet there is increasing evidence that metal exposure , particularly , manganese and lead , play a role in its epigenesis .
+Other metals , such as arsenic , cadmium , chromium , and mercury , and exposure to traffic-related air pollution , such as fine particulate matter ( \u22642.5 \u03bcm ) have been associated with neurological deficits , yet largely unexplored with respect to their relationship with delinquent behavior .
+The purpose of this study is to evaluate the ecological relationship between county-wide reported airborne emissions of air metals , particulate matter , and youth adjudicated for criminal activity .
+Metal exposure data were collected from the Environmental Protection Agency AirData .
+Population statistics were obtained from the United States Census 2000 and adjudication data was obtained from the Courts of Common Pleases from each Ohio County .
+Simple correlations were calculated with the percentage of adjudications , all covariates , and estimated metal air emissions .
+Separate negative binomial regression models for each pollutant were used to provide an estimated risk ratio of pollutant emissions on the risk of adjudication for all Ohio counties adjusting for urban-rural residence , percentage of African Americans , median family income , percentage of family below poverty , percentage of high school graduation in 25 years and older populations , and population density .
+Metal emissions and PM in 1999 were all correlated with adjudication rate ( 2003-2005 average ) .
+Metal emissions were associated with slightly higher risk of adjudication , with about 3-4% increased risk per natural log unit of metal emission except chromium .
+The associations achieved statistical significance for manganese and mercury .
+The particulate matter\u22642.5 and \u226410 \u03bcm emissions had a higher risk estimate , with 12% and 19% increase per natural log unit emission , respectively , and also achieved statistical significance .
+In summary , airborne exposure to manganese , mercury , and particulate matter are associated with increased risk of adjudication .
+Causality cannot be proven in observational studies such as this one , but the association warrants further examination in other research studies .
+Comprehensive epidemiologic investigations of metal exposure in pediatric populations should include social health outcomes , including measures of delinquent or criminal activity .
+Furthermore , the influence of metals on the neurotoxic pathway leading to delinquent activity should be further explored .

@@ -1,0 +1,8 @@
+Persons with congestive heart failure may be susceptible to ambient air pollution .
+The authors evaluated the association between exposure to particulate matter with an aerodynamic diameter of <2.5 microm ( PM2.5 ) and onset of symptom exacerbation leading to hospital admission in Baltimore , Maryland .
+They used a case-crossover design for 135 case events occurring among 125 persons with prevalent congestive heart failure who were admitted to a single hospital through the emergency department during 2002 .
+The case period was assigned using three index times : 8-hour and 24-hour periods of symptom onset and date of hospital admission .
+Controlling for weather , the authors detected a modest relative increase in risk for cases defined by 8-hour symptom onset for an interquartile-range increase in PM2.5 at a 2-day lag ( odds ratio=1.09 , 95% confidence interval : 0.91 , 1.30 ) .
+A corresponding increase in risk was not observed when admission date was used to define the case period .
+A series of simulations based on study data indicated that the study had adequate statistical power to detect odds ratios of 1.2 or higher .
+Although overall findings were not statistically significant , the identification of case events defined by an 8-hour onset period may be more relevant than either a 24-hour onset period or the admission date for estimating harmful effects of air pollutant exposure on cardiovascular health .

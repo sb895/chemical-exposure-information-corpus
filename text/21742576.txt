@@ -1,0 +1,10 @@
+BACKGROUND Several reports indicate that drinking water arsenic ( WAs ) and manganese ( WMn ) are associated with children's intellectual function .
+Very little is known , however , about possible associations with other neurologic outcomes such as motor function .
+METHODS We investigated the associations of WAs and WMn with motor function in 304 children in Bangladesh , 8-11 years of age .
+We measured As and Mn concentrations in drinking water , blood , urine , and toenails .
+We assessed motor function with the Bruininks-Oseretsky test , version 2 , in four subscales-fine manual control ( FMC ) , manual coordination ( MC ) , body coordination ( BC ) , and strength and agility-which can be summarized with a total motor composite score ( TMC ) .
+REsults : Log-transformed blood As was associated with decreases in TMC [ \u03b2 = -3.63 ; 95% confidence interval ( CI ) : -6.72 , -0.54 ; p < 0.01 ] , FMC ( \u03b2 = -1.68 ; 95% CI : -3.19 , -0.18 ; p < 0.05 ) , and BC ( \u03b2 = -1.61 ; 95% CI : -2.72 , -0.51 ; p < 0.01 ) , with adjustment for sex , school attendance , head circumference , mother's intelligence , plasma ferritin , and blood Mn , lead , and selenium .
+Other measures of As exposure ( WAs , urinary As , and toenail As ) also were inversely associated with motor function scores , particularly TMC and BC .
+Square-transformed blood selenium was positively associated with TMC ( \u03b2 = 3.54 ; 95% CI : 1.10 , 6.0 ; p < 0.01 ) , FMC ( \u03b2 = 1.55 ; 95% CI : 0.40 , 2.70 ; p < 0.005 ) , and MC ( \u03b2 = 1.57 ; 95% CI : 0.60 , 2.75 ; p < 0.005 ) in the unadjusted models .
+Mn exposure was not significantly associated with motor function .
+CONCLUSION Our research demonstrates an adverse association of As exposure and a protective association of Se on motor function in children .

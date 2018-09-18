@@ -1,0 +1,14 @@
+UNLABELLED Children spend increasing time indoors .
+Exposure to environmental factors may contribute to the development or exacerbation of the asthmatic phenotype .
+Inter-relationships between these factors might influence the manifestation of asthma .
+Endotoxin exposure has been shown to have pro-inflammatory and protective effects in different situations .
+We investigated the exposure to several indoor pollutants ( endotoxin , Der p 1 , damp , ETS , PM2.5 ) in asthmatic and healthy children .
+The children were recruited from two primary care centers according to their response to a validated questionnaire .
+Asthmatic children were matched for sex , age and sib-ship size with children living in asthma free households .
+Of 90 matched pairs , higher levels of endotoxin were found in the living room carpets , but not the bedroom carpet or mattresses of the asthma compared with the control homes ( STATA analysis OR : 1.88 ( 1.11-3.18 ) ; P=0.018 ) .
+Asthmatic children were also more likely to live as part of a single parent family , in a house where the parents self-reported the presence of damp , and where the living room had been redecorated in the 12 months prior to the sampling visits .
+This study suggests that endotoxin in urban homes is a risk factor for the development of asthma .
+Moreover , this study found that there were no statistically significant interactions between environmental factors .
+PRACTICAL IMPLICATIONS This study has demonstrated that the home environments of English children ( 4-17 ) with asthma and without the disease do not differ greatly .
+With the exception of endotoxin , the parameters examined in this study , including house dust mite allergens , nitrogen dioxide , ETS and damp are unlikely to be related to the development of asthma .
+Avoidance of these pollutants may not be beneficial in preventing asthma in this age group .

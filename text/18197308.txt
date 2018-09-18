@@ -1,0 +1,8 @@
+OBJECTIVE Our goal was to evaluate the relationship between cause-specific postneonatal infant mortality and chronic early-life exposure to particulate matter and gaseous air pollutants across the United States .
+METHODS We linked county-specific monitoring data for particles with aerodiameter of < or = 2.5 microm ( PM2.5 ) and < or = 10 microm ( PM10 ) , ozone , sulfur dioxide , and carbon monoxide to birth and death records for infants born from 1999 to 2002 in U.S. counties with > 250,000 residents .
+For each infant , we calculated the average concentration of each pollutant over the first 2 months of life .
+We used logistic generalized estimating equations to estimate odds ratios of postneonatal mortality for all causes , respiratory causes , sudden infant death syndrome ( SIDS ) , and all other causes for each pollutant , controlling for individual maternal factors ( race , marital status , education , age , and primiparity ) , percentage of county population below poverty , region , birth month , birth year , and other pollutants .
+This analysis includes about 3.5 million births , with 6,639 postneonatal infant deaths .
+RESULTS After adjustment for demographic and other factors and for other pollutants , we found adjusted odds ratios of 1.16 [ 95% confidence interval ( CI ) , 1.06-1.27 ] for a 10-mug/m3 increase in PM10 for respiratory causes and 1.20 ( 95% CI , 1.09-1.32 ) for a 10-ppb increase in ozone and deaths from SIDS .
+We did not find relationships with other pollutants and for other causes of death ( control category ) .
+CONCLUSIONS This study supports particulate matter air pollution being a risk factor for respiratory-related postneonatal mortality and suggests that ozone may be associated with SIDS in the United States .

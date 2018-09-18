@@ -1,0 +1,10 @@
+BACKGROUND Polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) and polychlorinated biphenyls ( PCBs ) are persistent organic pollutants ( POPs ) that have been characterized as endocrine disrupting chemicals ( EDCs ) .
+OBJECTIVES Within the Duisburg birth cohort study we studied associations of prenatal exposure to PCDD/Fs and PCBs with parent-reported sexually dimorphic behavior in children .
+METHODS We measured lipid-based and WHO2005-TEq-standardized PCDD/Fs and PCBs in maternal blood samples and in early breast milk using gas chromatography/high-resolution mass-spectrometry ( GC/HRMS ) .
+At the age of 6 - 8 years parents ( mostly mothers ) reported sex-typical characteristics , preferred toys and play activities using the Preschool Activities Inventory ( PSAI ) which was used to derive feminine , masculine and difference ( feminine - masculine ) scores .
+We estimated exposure-outcome associations using multivariate linear regression .
+Between 91 and 109 children were included in this follow-up .
+RESULTS Mean blood levels of WHO2005-TEq-standardized dioxins ( \u03a3 PCDD/Fs ) were 14.5 ± 6.4 pg/g blood lipids , and of \u03a3 PCBs 6.9 ± 3.8 pg/g blood lipids , with similar values for milk lipids .
+Regression analyses revealed some highly significant interactions between sex and exposure , e.g. for \u03a3 PCBs in milk , pronounced positive ( boys : \u03b2 = 3.24 ; CI = 1.35 , 5.14 ) or negative ( girls : \u03b2 = -3.59 ; CI = -1.10 , -6.08 ) associations with reported femininity .
+Less pronounced and mostly insignificant but consistent associations were found for the masculinity score , positive for boys and negative for girls .
+CONCLUSIONS Based on our results and the findings of previous studies , we conclude that there is sufficient evidence that EDCs modify behavioral sexual dimorphism in children , presumably by interacting with the hypothalamic-pituitary-gonadal ( HPG ) axis .

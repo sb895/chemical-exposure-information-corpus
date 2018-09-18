@@ -1,0 +1,14 @@
+Arsenic , a human carcinogen , is known to induce oxidative damage to DNA .
+In this study we investigated oxidative stress and As exposure by determining gene expression of OGG1 , which codes for an enzyme , 8-oxoguanine DNA glycosylase , involved in removing 8-oxoguanine in As-exposed individuals .
+Bayingnormen ( Ba Men ) residents in Inner Mongolia are chronically exposed to As via drinking water .
+Water , toenail , and blood samples were collected from 299 Ba Men residents exposed to 0.34-826 microg/L As .
+RNA was isolated from blood , and mRNA levels of OGG1 were determined using real-time polymerase chain reaction .
+OGG1 expression levels were linked to As concentrations in drinking water and nails , selenium concentrations in nails , and skin hyperkeratosis .
+OGG1 expression was strongly associated with water As concentrations ( p < 0.0001 ) .
+Addition of the quadratic term significantly improved the fit compared with the linear model ( p = 0.05 ) .
+The maximal OGG1 response was at the water As concentration of 149 microg/L .
+OGG1 expression was also significantly associated with toenail As concentrations ( p = 0.015 ) but inversely associated with nail Se concentrations ( p = 0.0095 ) .
+We found no significant differences in the As-induced OGG1 expression due to sex , smoking , or age even though the oldest group showed the strongest OGG1 response ( p = 0.0001 ) .
+OGG1 expression showed a dose-dependent increased risk of skin hyperkeratosis in males ( trend analysis , p = 0.02 ) , but the trend was not statistically significant in females .
+The results from this study provide a linkage between oxidative stress and As exposure in humans .
+OGG1 expression may be useful as a biomarker for assessing oxidative stress from As exposure .

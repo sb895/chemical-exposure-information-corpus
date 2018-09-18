@@ -1,0 +1,8 @@
+OBJECTIVE Firefighters were likely exposed to perfluorooctane sulfonate since it was a component of extinguishing foams and perfluorohexane sulfonate ( PFHxS ) , a surfactant coating carpet and other building materials , during firefighting .
+The objective of the study is to evaluate serum concentrations of perfluoroalkyl acids ( PFAAs ) in firefighters .
+METHODS A total of 8826 male adults , including 37 firefighters , were analyzed .
+Multivariate analysis was conducted by using a general linear model .
+The least square mean of serum PFAAs was obtained after adjustment for demographic and socioeconomic variables .
+RESULTS Serum concentration of PFHxS was statistically higher in firefighters both before and after adjustment .
+Perfluorooctane sulfonate and perfluorononanoic acid were also found higher in firefighters , though not statistically significant .
+CONCLUSIONS The study suggests that fighting fire can be a risk of exposure to PFAAs , specifically PFHxS .

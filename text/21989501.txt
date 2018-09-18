@@ -1,0 +1,8 @@
+Available biomonitoring data for volatile organic chemicals ( VOCs ) in blood from the National Health and Nutrition Examination Survey ( NHANES ) ( 2003-2004 ) ( CDC , 2009 ) were compared with recently derived screening biomonitoring equivalent ( BE ) values ( Aylward et al. , 2010 ) .
+A BE is defined as the estimated concentration or range of concentrations of a chemical or its metabolites in a biological medium ( blood , urine , or other medium ) that is consistent with an existing health-based exposure guidance value .
+Blood concentrations of VOCs from the NHANES data set were compared with predicted screening BE values based upon a hazard quotient ( HQ ) for individual chemicals , and a hazard index ( HI ) approach for combined exposures .
+HI values for detected chemicals were generally at or below a value of 1 , suggesting that the potential for deleterious effects is low .
+However , smoking was an important determinant of HI and HQ values .
+Detected levels of benzene in non-smokers were within the range of BE values corresponding to a 1 × 10(-6)-1 × 10(-4) range for upper-bound cancer risk ; in smokers , levels of benzene were at the upper end of or exceeded this range .
+For VOCs that were not detected in the NHANES sampling , analytical detection limits were generally sufficiently sensitive to detect concentrations consistent with existing non-cancer and cancer risk-based exposure guidance values .
+Interpretations of measured blood concentrations of VOCs must be made with caution due to the substantial within-individual , within-day fluctuations in levels expected due to the rapid elimination of VOCs .

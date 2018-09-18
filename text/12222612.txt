@@ -1,0 +1,5 @@
+The concentrations of aluminium ( Al ) , arsenic ( As ) , beryllium ( Be ) , cadmium ( Cd ) , chromium ( Cr ) , mercury ( Hg ) , manganese ( Mn ) , nickel ( Ni ) , lead ( Pb ) , tin ( Sn ) , thallium ( Tl ) , vanadium ( V ) , and zinc ( Zn ) were determined in soil samples collected in Alcalá de Henares ( Madrid , Spain ) .
+Human health risks derived from metal inhalation and ingestion of soils were also assessed .
+For noncarcinogenic risks , the current levels of metals were usually lower than those considered as safe for the general population .
+With respect to the potentially carcinogenic elements As , Be , Cd , and Cr , the concentrations of Be , Cd , and Cr were lower than the reference values , while the average As concentration ( 3.4 microg/g ) was higher than the safety limit for risk cancer .
+In general terms , the potential human health impact of ingestion/inhalation through soils of the analyzed elements seems to be rather small .

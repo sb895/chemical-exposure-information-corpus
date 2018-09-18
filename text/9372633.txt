@@ -1,0 +1,9 @@
+The variation in lead concentration was measured by thermal ionisation mass spectrometry isotope dilution in household tap water throughout the day when the plumbing system was not fully flushed .
+After collection of an initial 125-ml water sample containing 119 micrograms/l and a 2-l sample , 125-ml samples were collected at hourly intervals for 8 h .
+The concentrations in the hourly samples remained in the range 35-52 micrograms/l compared with 1.7 micrograms/l for fully flushed water .
+High precision lead isotopic measurements showed that approximately 50% of the lead in these water samples derives from the tap ' housing ' compared with the overall household system .
+A health risk assessment was performed employing the US Environmental Protection Agency Integrated Exposure Uptake Biokinetic Model .
+Predicted blood lead levels in infants only exceeded the ' levels of concern ' of 10 micrograms/dl when 100% of the water consumed contained 100 micrograms Pb/1 .
+It would appear that unless the infant consumed 100% of first flush water at lead concentrations of approximately 100 micrograms/l , the blood lead would not exceed the recommended ' level of concern ' .
+However , if more than 0.51 was consumed in drinks and formulae using first flush water , then the blood lead could easily exceed the recommended level .
+Likewise , a pregnant mother could be at risk of consuming considerably more than the 0.51/day first flush water of the concentrations measured , or throughout the day , if the system were not fully flushed .

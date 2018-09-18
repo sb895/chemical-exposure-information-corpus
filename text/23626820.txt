@@ -1,0 +1,11 @@
+Total daily intakes of diethyl phthalate ( DEP ) , di(n-butyl) phthalate ( DnBP ) , di(isobutyl) phthalate ( DiBP ) , butyl benzyl phthalate ( BBzP ) and di(2-ethylhexyl) phthalate ( DEHP ) were calculated from phthalate metabolite levels measured in the urine of 431 Danish children between 3 and 6 years of age .
+For each child the intake attributable to exposures in the indoor environment via dust ingestion , inhalation and dermal absorption were estimated from the phthalate levels in the dust collected from the child's home and daycare center .
+Based on the urine samples , DEHP had the highest total daily intake ( median : 4.42 µg/d/kg-bw ) and BBzP the lowest ( median : 0.49 µg/d/kg-bw ) .
+For DEP , DnBP and DiBP , exposures to air and dust in the indoor environment accounted for approximately 100% , 15% and 50% of the total intake , respectively , with dermal absorption from the gas-phase being the major exposure pathway .
+More than 90% of the total intake of BBzP and DEHP came from sources other than indoor air and dust .
+Daily intake of DnBP and DiBP from all exposure pathways , based on levels of metabolites in urine samples , exceeded the Tolerable Daily Intake ( TDI ) for 22 and 23 children , respectively .
+Indoor exposures resulted in an average daily DiBP intake that exceeded the TDI for 14 children .
+Using the concept of relative cumulative Tolerable Daily Intake ( TDI(cum) ) , which is applicable for phthalates that have established TDIs based on the same health endpoint , we examined the cumulative total exposure to DnBP , DiBP and DEHP from all pathways ; it exceeded the tolerable levels for 30% of the children .
+From the three indoor pathways alone , several children had a cumulative intake that exceeded TDI(cum) .
+Exposures to phthalates present in the air and dust indoors meaningfully contribute to a child's total intake of certain phthalates .
+Such exposures , by themselves , may lead to intakes exceeding current limit values .

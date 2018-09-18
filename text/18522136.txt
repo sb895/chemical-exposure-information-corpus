@@ -1,0 +1,17 @@
+The collapse of the World Trade Center ( WTC ) on September 11 , 2001 resulted in the release of several airborne pollutants in and around the site .
+Perfluorochemicals including perfluorooctanesulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) , which are used in soil- and stain-resistant coatings on upholstery , carpets , leather , floor waxes , polishes , and in fire-fighting foams were potentially released during the collapse of the WTC .
+In this pilot study , we analyzed 458 plasma samples of New York State ( NYS ) employees and National Guard personnel assigned to work in the vicinity of the WTC between September 11 and December 23 , 2001 , to assess exposure to perfluorochemicals released in dust dust and smoke .
+The plasma samples collected from NYS WTC responders were grouped based on estimated levels of exposure to dust dust and smoke , as follows : more dust dust exposure ( MDE ) , less dust dust exposure ( LDE ) , more smoke exposure ( MSE ) , and less smoke exposure ( LSE ) .
+Furthermore , samples were grouped , based on self-reported symptoms at the time of sampling , as symptomatic and asymptomatic .
+Eight perfluorochemicals were measured in 458 plasma samples .
+PFOS , PFOA , perfluorohexanesulfonate ( PFHxS ) , and perfluorononanoic acid ( PFNA ) , were consistently detected in almost all samples .
+PFOA and PFHxS concentrations were approximately 2-fold higher in WTC responders than the concentrations reported for the U.S. general population .
+No significant difference was observed in the concentrations of perfluorochemicals between symptomatic and asymptomatic groups .
+Concentrations of PFHxS were significantly ( p < or = 0.05 ) higher in the MDE group than in the LDE group .
+Concentrations of PFNA were significantly higher in the MSE group than in the LSE group .
+Significantly higher concentrations of PFOA and PFHxS were found in individuals exposed to smoke than in individuals exposed to dust .
+A significant negative correlation existed between plasma lipid content and concentrations of certain perfluorochemicals .
+Our initial findings suggest that WTC responders were exposed to perfluorochemicals , especially PFOA , PFNA , and PFHxS , through inhalation of dust dust and smoke released during and after the collapse of the WTC .
+The potential health implications of these results are unknown at this time .
+Expansion of testing to include all archived samples will be critical to help confirm these findings .
+In doing so , it may be possible to identify biological markers of WTC exposure and to improve our understanding of the health impacts of these compounds .

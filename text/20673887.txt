@@ -1,0 +1,9 @@
+As factors affecting neonatal neurodevelopment , methylmercury , polychlorinated biphenyls ( PCBs ) , and maternal seafood intake reflecting n-3 polyunsaturated fatty acids ( PUFAs ) are believed to have adverse or beneficial effects , but there are a few reports addressing such factors simultaneously .
+We carried out a birth cohort study to clarify the effects of these three factors on the Neonatal Behavioral Assessment Scale ( NBAS ) , administered 3 days after birth .
+In a total of 498 mother-neonate pairs , the total mercury level ( median , 1.96microg/g ) in maternal hair at parturition and the summation operatorPCB level ( 45.5ng/g-lipid ) in cord blood were analyzed , and maternal seafood intake was estimated using a semi-quantitative food frequency questionnaire .
+A negative relationship between the hair mercury level and the motor cluster of NBAS was observed , even after adjusting for PCBs , maternal seafood intake , and possible confounders such as maternal age , birth weight , and parity .
+The summation operatorPCB level was negatively correlated with the motor cluster , but this association was attenuated after adjusting for mercury and the confounders .
+There was seen to be a positive association between maternal seafood intake and the motor cluster when considering the effects of mercury and PCBs .
+In conclusion , our data suggest that prenatal exposure to methylmercury adversely affects neonatal neurobehavioral function ; in contrast , maternal seafood intake appears to be beneficial .
+The neurobehavioral effect of prenatal exposure to PCBs remains unclear in our study .
+Further research is necessary to elucidate interactive effects of methylmercury , PCBs , and n-3 PUFAs , originating from fish , on child neurodevelopment .

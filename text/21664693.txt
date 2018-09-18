@@ -1,0 +1,8 @@
+Some persistent organic pollutants ( POPs ) have been found in human semen but until this point it was unclear whether polybrominated diphenyl ethers ( PBDEs ) could be detected in human semen .
+In this study , PBDEs were found for the first time in human semen samples ( n=101 ) from Taizhou , China .
+The concentrations of total PBDEs ( \u2211PBDEs ) varied from 15.8 to 86.8 pg/g ww ( median=31.3 pg/g ww ) and 53.2 to 121 pg/g ww ( median=72.3 pg/g ww ) in semen and blood samples , respectively .
+The \u2211PBDE level in semen was about two times lower than in human blood , which was different in the distribution in the two matrices from other POPs .
+A correlation of \u2211PBDE concentration was found between paired semen and in blood .
+The results suggest that semen could be used to detect PBDE burden in human body as a non-invasive matrix .
+In addition , the levels of BDE-209 and BDE-153 , especially the latter , were much higher in blood than in semen , while the levels of BDE-28 , BDE-47 and BDE-99 were comparable in the two matrices , suggesting that low brominated congeners could be more easily transferred to semen than high brominated congeners .
+Considering different toxicities among the PBDE congeners , it might be more significant to measure PBDEs in semen than in blood for evaluating male reproduction risks of PBDEs .

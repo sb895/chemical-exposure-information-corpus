@@ -1,0 +1,12 @@
+BACKGROUND Mineral dusts that contain crystalline silica have been associated directly or indirectly with the development of pneumoconiosis or silicosis , non-malignant respiratory diseases , lung cancer , and other diseases .
+The health impacts on workers with silica mixed dust exposure in tin mines and dose-response relationships between cumulative dust exposure and the mortality from lung cancer are investigated .
+METHODS A cohort of 7,837 workers registered in the employment records in 4 Chinese tin mines between 1972 and 1974 was identified for this study and the mortality follow-up was traced through 1994 .
+Of the cohort , the cause of death was ascertained for 1,061 ( 97% ) of the 1,094 deceased workers .
+Standardized mortality ratios ( SMRs ) were calculated for all workers , non-exposed workers , and dust-exposed workers with different exposure levels , silicotics , and non-silicotics based on Chinese national rates .
+RESULTS The mortality from all causes in four tin mines was nearly the same as the national mortality .
+Malignant neoplasm , cerebrovascular disease , and cardiovascular disease accounted for 68.6% of all deaths .
+Mortality excess from lung cancer , liver cancer , all malignant diseases , and non-malignant respiratory diseases was observed among dust-exposed workers ; a 50-fold excess of pneumoconiosis was observed .
+There was an upward trend for SMRs of lung cancer was noted from no exposure to low , medium , and high exposure levels ( SMRs=1.29 , 2.65 , 2.66 , 3.33 ) .
+The shape of the exposure-response curve for risk of lung cancer at high exposure levels was inconsistent in these four mines .
+CONCLUSIONS The findings indicated a positive dose-response relation between exposure to cumulative dust and the mortality of lung cancer .
+High arsenic content in dust particles , together with crystalline silica , may play an important role in causing increased mortality from lung cancer .

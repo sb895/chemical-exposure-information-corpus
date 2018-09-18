@@ -1,0 +1,8 @@
+Biopharmaceutical R&D complexes are major emission sources of volatile organic compounds ( VOCs ) , which may pose potential health risks for staff on site and residents nearby .
+In this paper health risk assessments were performed for the VOCs in the ambient air of a typical biopharmaceutical R&D complex in China .
+Results showed halogenated and alkyl compounds were dominant components among 24 major VOCs from 9 selected sampling sites , inside or around the complex .
+The principal component analysis ( PCA ) indicated VOCs were generated predominantly from the biopharmaceutical research activities ( factor 1 ( F1 ) , 71.6% ) and traffic vehicles ( factor 2 ( F2 ) , 15.4% ) , which were confirmed by contour maps of five selected VOCs ( benzene , toluene , chlorobenzene , methylene chloride and n-hexane ) simulated by Golden Software Surfer .
+The cumulative cancer risks for the staff on site and residents nearby were investigated and results showed the risk value were 1.01E--5 and 2.03E--5 , respectively , higher than the threshold value of 1.0E--6 .
+These results indicated that elevated VOCs from biopharmaceutical R&D complex are potential risks to the public health .
+Furthermore , the human health risk assessment revealed that 1,2-dichloroethane , methylene chloride , carbon tetrachloride and benzene were the dominant risk contributors for staff on site , while methyl chloride , carbon tetrachloride , 1,2-dichloroethane and tetrahydrofuran for residents nearby .
+As a conclusion , this work suggests that proper control strategy should be taken for VOCs releasing to minimize the public health risks , especially for the halogenated compounds .

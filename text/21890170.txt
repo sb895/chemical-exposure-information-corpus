@@ -1,0 +1,9 @@
+In this study , we investigated concentration , congener distribution pattern , and effects of potential environmental factors that affect PBDE accumulation .
+We also estimated correlation between PBDE concentration and health status or thyroid function by analyzing 90 cord blood and 21 breast milk samples obtained from Korean population .
+Seven from tri- to hepta-BDEs were analyzed by solid phase extraction-high-resolution gas chromatography/high-resolution mass spectrometry ( SPE-HRGC/HRMS ) .
+The total concentration of 7 PBDEs in cord blood was 2.786-94.64 ng g(-1) lipid and that in breast milk was 1.076-8.664 ng g(-1) lipid .
+Tetra-BDE ( #47 ) was the predominant type of PBDE and was present at concentrations of over 40% in both sample types .
+A weak correlation was observed between the concentration of BDE28 and 153 and thyroid hormone concentration only in the breast milk samples .
+In children , a weak negative correlation was observed between free thyroxine ( FT4 ) concentration and BDE28 concentration ( 0.302 , p<0.05 ) , while in mothers , a weak positive correlation was observed between thyroid hormone concentration and BDE153 concentration ( 0.403 , p<0.05 ) .
+No significant correlations between PBDE concentration and work and residential environments were found in this study , but a weak correlation between BDE concentration in cord blood and potential PBDE sources was confirmed by investigating the frequency of oil paint usage ( 0.510 , p<0.001 ) .
+A weak correlation was also found between PBDE concentration in breast milk during pregnancy and dietary habits such as green tea drinking ( 0.541 , p=0.025 ) and Trichiuridae intake ( 0.565 , p=0.015 ) .

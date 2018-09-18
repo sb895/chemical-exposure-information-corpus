@@ -1,0 +1,10 @@
+Bisphenol A ( BPA ) is a high production-volume chemical used in the manufacture of a wide variety of consumer products .
+However it is also a ubiquitous contaminant that can interfere with endocrine systems of wildlife and humans .
+China is the " world factory " and the Pearl River Delta is the major manufacturing center and is consequently polluted .
+Concentrations of BPA in meats of marketable fish had not been previously reported for this region .
+In the study upon which we report here concentrations of BPA were determined in 20 common species of freshwater and marine fish , collected from markets in Hong Kong , SAR , China .
+A comprehensive analytical method based on SPE extraction and liquid chromatography electrospray ionization tandem mass spectrometry ( LC-ESI-MS/MS ) was developed , validated and applied .
+The method limit of detection ( LOD ) and limit of quantification ( LOQ ) were 0.5 and 1.25 ng g(-1) dw , respectively .
+BPA was detected in 19 species of fish at concentrations , ranging from 0.5 to 2.0 ng g(-1) ww .
+Average daily BPA intake per person ranged from 1.1×10(2) ng d(-1) for marine fish and 2.2×10(2) ng d(-1) for freshwater fish .
+Concentrations of BPA in fish from Hong Kong markets unlikely would be causing adverse population-level effects in humans .

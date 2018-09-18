@@ -1,0 +1,12 @@
+BACKGROUND Few European studies have investigated the effects of long-term exposure to both fine particulate matter ( \u2264 2.5 µm ; PM2.5 ) and nitrogen dioxide ( NO2 ) on mortality .
+OBJECTIVES We studied the association of exposure to NO2 , PM2.5 , and traffic indicators on cause-specific mortality to evaluate the form of the concentration-response relationship .
+METHODS We analyzed a population-based cohort enrolled at the 2001 Italian census with 9 years of follow-up .
+We selected all 1,265,058 subjects \u2265 30 years of age who had been living in Rome for at least 5 years at baseline .
+Residential exposures included annual NO2 ( from a land use regression model ) and annual PM2.5 ( from a Eulerian dispersion model ) , as well as distance to roads with > 10,000 vehicles/day and traffic intensity .
+We used Cox regression models to estimate associations with cause-specific mortality adjusted for individual ( sex , age , place of birth , residential history , marital status , education , occupation ) and area ( socioeconomic status , clustering ) characteristics .
+RESULTS Long-term exposures to both NO2 and PM2.5 were associated with an increase in nonaccidental mortality [ hazard ratio ( HR ) = 1.03 ( 95% CI : 1.02 , 1.03 ) per 10-µg/m3 NO2 ; HR = 1.04 ( 95% CI : 1.03 , 1.05 ) per 10-µg/m3 PM2.5 ] .
+The strongest association was found for ischemic heart diseases ( IHD ) [ HR = 1.10 ( 95% CI : 1.06 , 1.13 ) per 10-µg/m3 PM2.5 ] , followed by cardiovascular diseases and lung cancer .
+The only association showing some deviation from linearity was that between NO2 and IHD .
+In a bi-pollutant model , the estimated effect of NO2 on mortality was independent of PM2.5 .
+CONCLUSIONS This large study strongly supports an effect of long-term exposure to NO2 and PM2.5 on mortality , especially from cardiovascular causes .
+The results are relevant for the next European policy decisions regarding air quality .

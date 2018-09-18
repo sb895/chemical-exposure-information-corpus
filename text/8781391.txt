@@ -1,0 +1,12 @@
+This paper presents some of the results from the Commission of the European Communities collaborative research program ( contract number EV5V-CT92-0221 ) , whose aim is to investigate the relationship between exposure to petroleum emissions , benzene , and induction of genetic damage in human cells .
+Twenty-four workers from petroleum plants in Poland and 35 unexposed controls were examined for cytogenetic effects and ras oncoprotein levels and their relationship to confounding factors ( e.g. , smoking habit , sex family cancer history , and seasonal influence ) .
+Preliminary data of chromosome aberrations ( CA ) and sister chromatid exchanges ( SCE ) showed differences among sampling subgroups .
+In this present study , the levels of ras p21 proteins were determined and further analyses of CA , SCE , high frequency cells ( HFC ) , and proliferative rate index ( PRI ) have been undertaken .
+Results show that the exposed group has statistically significant increases in CA , and percent of aberrant cells .
+There were no differences between exposed and unexposed groups in SCE , HFC , PRI , or the levels of ras p21 proteins .
+Smoking was found to statistically significantly affect levels of CA , percent of aberrant cells , SCE , HFC , and ras proteins .
+Sister chromatid exchanges were also statistically significantly sex dependent ( 7.5 breaks/cells for females and 6.8 breaks/cell for males ) .
+There were no statistically significant differences for CA , percent aberrant cells , SCE , HFC , or ras p21 protein levels in subgroups characterized according to cancer cases reported in the immediate family .
+A seasonal variability was shown with statistically significant increases in various biomarkers in the winter .
+Unexposed groups also showed increases due to smoking and season .
+The nonsmoking group individuals also showed statistically significant increases in cytogenetic damage with exposure .

@@ -1,0 +1,14 @@
+OBJECTIVE The heavy metals lead ( Pb ) and mercury ( Hg ) are ubiquitous environmental pollutants with high neurotoxic potential .
+We aimed to compare perinatal Pb and Hg concentrations and to explore the potential association between Pb and Hg exposure and newborn anthropometry .
+STUDY DESIGN Pregnant women were recruited in 2005 at the General Hospital Vienna for participation in this longitudinal study .
+Pb and Hg concentrations were measured in maternal blood and hair , placenta , cord blood , meconium , and breast milk of 53 mother-child pairs by CV-AAS , GF-AAS , and HPLC-CV-ICPMS .
+We conducted bivariate analyses and categorical regression analysis ( CATREG ) to evaluate the determinants of Pb and Hg exposure , and of infant anthropometry .
+RESULTS Median Pb and total Hg contents were low , i.e. , 25 \u03bcg/L ( maternal blood-Pb ) , 13 \u03bcg/L ( cord blood-Pb ) , 0.7 \u03bcg/L ( maternal blood-Hg ) , and 1.1 \u03bcg/L ( cord blood-Hg ) .
+Hg levels in maternal and fetal tissues were frequently correlated ( r>0.3 , P<0.05 , respectively ) .
+Regarding Pb , only maternal blood and cord blood concentrations correlated ( P=0.043 ) .
+Cord blood levels indicated higher Hg exposure but lower Pb exposure relative to maternal blood contents .
+Adjusted CATREG models indicated the significant predictors of birth length ( placenta-Pb , gestational length , meconium-Pb ) , birth weight ( placenta-Pb , gestational length , maternal blood-Pb ) , and head circumference ( maternal education , maternal height ) .
+Besides one significant correlation between maternal hair Hg and birth length , the mercury levels were not associated with newborn anthropometry .
+CONCLUSIONS Our data implicate that different modes of action may exist for placentar transfer of Pb and Hg as well as that low Pb exposure levels can result in lower birth weight .
+The findings related to newborn anthropometry need to be confirmed by the examination of larger study groups .
+Further research is needed to clarify the mechanisms of Pb and Hg transfer via the placenta , and to explore how prenatal Pb exposure is related to intrauterine growth .

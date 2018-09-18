@@ -1,0 +1,7 @@
+A reanalysis of the Pliofilm cohort was conducted incorporating six additional years of follow-up information gathered by the National Institute of Occupational Safety and Health ( NIOSH ) and a new set of exposure estimates developed recently .
+The distribution of individual worker exposures calculated with the Paustenbach exposure estimates was compared to those derived using two earlier sets of job- , plant- , and year-specific exposure estimates .
+A traditional standardized mortality ratio analysis and the Cox proportional hazards model were used to investigate the impact of these exposure estimates and the NIOSH updated information on evaluation of benzene's leukemogenicity .
+There were no additional cases of multiple myeloma or any indication of increased incidences of solid tumors .
+The data added in the update did not greatly modify the estimated relative risk of all leukemias associated with benzene exposure but confirmed previous findings that occupational exposure only to very high concentrations had leukemogenic potential .
+Leukemia has not been observed in anyone who began employment in Pliofilm production after 1950 .
+Neither the Paustenbach nor the Crump exposures gave dose-response estimates as steep as that resulting from the Rinsky exposures .

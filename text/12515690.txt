@@ -1,0 +1,4 @@
+The ability of questionnaires to predict children's exposure to pesticides was examined as part of the Minnesota Children's Pesticide Exposure Study ( MNCPES ) .
+The MNCPES focused on a probability sample of 102 children between the ages of 3 and 13 years living in either urban ( Minneapolis and St. Paul , MN ) or nonurban ( Rice and Goodhue Counties in Minnesota ) households .
+Samples were collected in a variety of relevant media ( air , food , beverages , tap water , house dust , soil , urine ) , and chemical analyses emphasized three organophosphate insecticides ( chlorpyrifos , diazinon , malathion ) and a herbicide ( atrazine ) .
+Results indicate that the residential pesticide-use questions and overall screening approach used in the MNCPES were ineffective for identifying and oversampling children/households with higher levels of individual target pesticides .

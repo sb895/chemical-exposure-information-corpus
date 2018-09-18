@@ -1,0 +1,11 @@
+BACKGROUND Methylmercury ( MeHg ) , a worldwide contaminant found in fish and seafood , has been linked to an increased risk of cardiovascular mortality .
+OBJECTIVE We examined 42 Faroese whaling men ( 30-70 years of age ) to assess possible adverse effects within a wide range of MeHg exposures from consumption of pilot whale meat .
+METHODS We assessed exposure levels from mercury analysis of toenails and whole blood ( obtained at the time of clinical examination ) , and a hair sample collected 7 years previously .
+Outcome measures included heart rate variability ( HRV ) , blood pressure ( BP ) , common carotid intima-media thickness ( IMT ) , and brainstem auditory evoked potentials ( BAEP ) .
+We carried out multiple regression and structural equation model ( SEM ) analyses to determine the confounder-adjusted effect of mercury exposure .
+Taking into account correlations among related measures , we categorized exposure and outcomes in groups to derive latent exposure and response variables in SEMs .
+We used multiple regression analysis to compare the predictive validity of individual exposure biomarkers and the latent exposure variable on individual and latent outcomes .
+RESULTS The toenail mercury concentrations varied widely and had a geometric mean of 2.0 microg/g ; hair concentrations averaged about 3-fold higher .
+Mercury exposure was significantly associated with increased BP and IMT .
+This effect was reflected by SEMs , but mercury in toenails tended to be the best effect predictor .
+CONCLUSIONS The results support the notion that increased MeHg exposure promotes the development of cardiovascular disease .

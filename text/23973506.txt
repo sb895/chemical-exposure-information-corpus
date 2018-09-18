@@ -1,0 +1,13 @@
+BACKGROUND Street vending , a dominant occupation in urban areas of developing countries exposes the vendors to several environmental pollutants .
+We investigated whether work as street vendor impairs foetal growth and shortens gestational duration , and evaluated to what extent exposure to traffic-related air pollution is responsible for these adverse effects .
+METHODS A cross-sectional study was conducted among mothers and their newborns accessing postnatal services at the Korle Bu Teaching Hospital in Accra , Ghana in 2010 , focusing on 105 street vendors and a reference group of 281 mothers .
+We categorized exposure to traffic-related air pollution on the basis of street vending activity patterns and traffic density in the working area .
+RESULTS Multivariate linear regression analysis adjusting for age , social class , marital status and gravidity of mothers , sex of neonate , and indoor air pollution , indicated a 177 g ( 95% CI : 324 , 31 ) reduction in birth weight among street vendors .
+Sensitivity analysis performed by restricting the analysis to term births showed further reductions in birth weight .
+Generalized linear models adjusting for confounders indicated a 35% ( risk ratio ( RR)=1.35 ; 95% CI : 0.87 , 2.12 ) increased risk of LBW , albeit statistically not significant .
+LBW risk increased in the sensitivity analysis but was also not statistically significant .
+The risk of PTB was not associated with street vending ( RR=1.03 ; 95% CI : 0.67 , 1.58 ) .
+The exposure-response relations observed were not consistent .
+Moderate activity patterns and high traffic density jointly was associated with a statistically significant 84% ( RR=1.84 ; 95% CI : 1.05 , 3.24 ) increased risk of LBW .
+CONCLUSION Street vending during pregnancy is a determinant of average foetal growth and risk of LBW .
+More research is required to further quantify their effects on pregnancy outcomes and safeguard maternal and perinatal health in developing countries .

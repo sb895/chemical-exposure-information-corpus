@@ -1,0 +1,10 @@
+Previous investigations have shown that women exposed to polychlorinated biphenyls ( PCBs ) are at increased risk of giving birth to an infant with low birth weight ( < 2,500 g ) , and that this relationship is stronger for male than for female infants .
+We have tested the hypothesis that residents in a zip code that contains a PCB hazardous waste site or abuts a body of water contaminated with PCBs are at increased risk of giving birth to a low-birth-weight baby .
+We used the birth registry of the New York State Vital Statistics to identify all births between 1994 and 2000 in New York State except for New York City .
+This registry provides information on the infant , mother , and father together with the zip code of the mother's residence .
+The 865 state Superfund sites , the 86 National Priority List sites , and the six Areas of Concern in New York were characterized regarding whether or not they contain PCBs as a major contaminant .
+We identified 187 zip codes containing or abutting PCB-contaminated sites , and these zip codes were the residences of 24.5% of the 945,077 births .
+The birth weight in the PCB zip codes was on average 21.6 g less than in other zip codes ( p < 0.001 ) .
+Because there are many other risk factors for low birth weight , we have adjusted for these using a logistic regression model for these confounders .
+After adjusting for sex of the infant , mother's age , race , weight , height , education , income , marital status , and smoking , there was still a statistically significant 6% increased risk of giving birth to a male infant of low birth weight .
+These observations support the hypothesis that living in a zip code near a PCB-contaminated site poses a risk of exposure and giving birth to an infant of low birth weight .

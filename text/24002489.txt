@@ -1,0 +1,11 @@
+Exposure to cadmium , a heavy metal present in cigarettes , can be assessed in both urine and blood .
+Few studies have compared the properties of concurrent measurements of urine cadmium ( uCd ) and blood cadmium ( bCd ) in relation to the duration and timing of a known exposure .
+In this study , bCd and uCd were modeled with data from the National Health and Nutrition Examination Survey ( 1999-2010 ) .
+Adjusted geometric mean bCd and uCd were estimated from regression results .
+Each 1% higher geometric mean uCd was associated with 0.50% ( 95% confidence interval : 0.47%-0.54% ; R(2)=0.30 ) higher bCd .
+In male never-smokers , bCd was 69% ( 59%-81% ) and uCd was 200% ( 166%-234% ) higher at age \u226570 years versus 20-29 years .
+Ten pack-years ( py ) of smoking were associated with 13.7% ( 10.0%-17.4% ) higher bCd and 16.8% ( 12.6%-21.1% ) higher uCd in male smokers .
+The first year after smoking cessation was associated with 53% ( 48%-58% ) lower bCd and 23% ( 14%-33% ) lower uCd in representative males aged 55 years with 20\u2009py smoking .
+Smoking in the previous 5 days was associated with 55% ( 40%-71% ) higher bCd and 7% ( -3%-18% ) higher uCd .
+Results were similar for women. uCd mainly measures long-term exposure and bCd recent exposure , but with noticeable overlap .
+Epidemiological studies should base the choice of uCd or bCd on the timing of cadmium exposure relevant to the disease under study .

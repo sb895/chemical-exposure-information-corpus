@@ -1,0 +1,9 @@
+Tris(1,3-dichloro-2-propyl) phosphate ( TDCPP ) is a flame retardant widely used in furniture containing polyurethane foam .
+It is a carcinogen , endocrine disruptor , and potentially neurotoxic .
+Our objectives were to characterize exposure of adult office workers ( n=29 ) to TDCPP by measuring its primary metabolite , bis(1,3-dichloro-2-propyl) phosphate ( BDCPP ) , in their urine ; measuring TDCPP in dust from their homes ; offices and vehicles ; and assessing possible predictors of exposure .
+We identified TDCPP in 99% of dust ( GM=4.43\u03bcg/g ) and BDCPP in 100% of urine samples ( GM=408pg/mL ) .
+Concentrations of TDCPP were significantly higher in dust from vehicles ( GM=12.5\u03bcg/g ) and offices ( GM=6.06\u03bcg/g ) than in dust from the main living area ( GM=4.21\u03bcg/g ) or bedrooms ( GM=1.40\u03bcg/g ) of worker homes .
+Urinary BDCPP concentrations among participants who worked in a new office building were 26% of those who worked in older buildings ( p=0.01 ) .
+We found some evidence of a positive trend between urinary BDCPP and TDCPP in office dust that was not observed in the other microenvironments and may be related to the timing of urine sample collection during the afternoon of a workday .
+Overall our findings suggest that exposure to TDCPP in the work environment is one of the contributors to the personal exposure for office workers .
+Further research is needed to confirm specific exposure sources ( e.g. , polyurethane foam ) , determine the importance of exposure in other microenvironments such as homes and vehicles , and address the inhalation and dermal exposure pathways .

@@ -1,0 +1,14 @@
+BACKGROUND Polybrominated diphenyl ethers ( PBDEs ) are chemical additives used as flame retardants in commercial products .
+PBDEs are bioaccumulative and persistent and have been linked to several adverse health outcomes .
+OBJECTIVES This study leverages an ongoing pregnancy cohort to measure PBDEs and PBDE metabolites in serum collected from an understudied population of pregnant women late in their third trimester .
+A secondary objective was to determine whether the PBDEs or their metabolites were associated with maternal thyroid hormones .
+METHODS One hundred forty pregnant women > 34 weeks into their pregnancy were recruited into this study between 2008 and 2010 .
+Blood samples were collected during a routine prenatal clinic visit .
+Serum was analyzed for a suite of PBDEs , three phenolic metabolites ( i.e. , containing an -OH moiety ) , and five thyroid hormones .
+RESULTS PBDEs were detected in all samples and ranged from 3.6 to 694 ng/g lipid .
+Two hydroxylated BDE congeners ( 4´-OH-BDE 49 and 6-OH-BDE 47 ) were detected in > 67% of the samples .
+BDEs 47 , 99 , and 100 were significantly and positively associated with free and total thyroxine ( T4 ) levels and with total triiodothyronine levels above the normal range .
+Associations between T4 and PBDEs remained after controlling for smoking status , maternal age , race , gestational age , and parity .
+CONCLUSIONS PBDEs and OH-BDEs are prevalent in this cohort , and levels are similar to those in the general population .
+Given their long half-lives , PBDEs may be affecting thyroid regulation throughout pregnancy .
+Further research is warranted to determine mechanisms through which PBDEs affect thyroid hormone levels in developing fetuses and newborn babies .

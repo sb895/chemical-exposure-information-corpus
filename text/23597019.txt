@@ -1,0 +1,16 @@
+BACKGROUND There are several plausible mechanisms whereby either short or long term exposure to pollution can increase the risk of stroke .
+Over the last decade , several studies have reported associations between short-term ( day-to-day ) increases in ambient air pollution and stroke .
+The findings from a smaller number of studies that have looked at long-term exposure to air pollution and stroke have been mixed .
+Most of these epidemiological studies have assigned exposure to air pollution based on place of residence , but these assignments are typically based on relatively coarse spatial resolutions .
+To date , few studies have evaluated medium-term exposures ( i.e , exposures over the past season or year ) .
+To address this research gap , we evaluated associations between highly spatially resolved estimates of ambient nitrogen dioxide ( NO2 ) , a marker of traffic pollution , and emergency department visits for stroke in Edmonton , Canada .
+METHODS This was a case-control study with cases defined as those who presented to an Edmonton area hospital emergency department between 2007 and 2009 with an acute ischemic stroke , hemorrhagic stroke , or transient ischemic attack .
+Controls were patients who presented to the same emergency departments for lacerations , sprains , or strains .
+A land-use regression model provided estimates of NO2 that were assigned to the place of residence .
+Logistic regression methods were used to estimate odds ratios for stroke in relation to an increase in the interquartile range of NO2 ( 5 ppb ) , adjusted for age , sex , meteorological variables , and neighborhood effects .
+RESULTS The study included 4,696 stroke ( cases ) and 37,723 injury patients ( controls ) .
+For all strokes combined , there was no association with NO2 .
+Namely , the odds ratio associated with an interquartile increase in NO2 was 1.01 ( 95% confidence interval { CI } : 0.94-1.08 ) .
+No associations were evident for any of the stroke subtypes examined .
+CONCLUSION When combined with our earlier work in Edmonton , our findings suggest that day-to-day fluctuations in air pollution increase the risk of ischemic stroke during the summer season , while medium term exposures are unrelated to stroke risk .
+The findings for medium term exposure should be interpreted cautiously due to limited individual-level risk factor data .

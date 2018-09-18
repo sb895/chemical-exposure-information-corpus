@@ -1,0 +1,14 @@
+Indoor pesticide exposure is a growing concern , particularly for pyrethroids , a commonly used class of pesticides .
+Pyrethroid concentrations may be especially high in homes of immigrant farm worker families , who often live in close proximity to agricultural fields and are faced with poor housing conditions , potentially causing high pest infestation and pesticide use .
+We investigate levels of pyrethroids in the house dust of farm worker family homes in a study of mothers and children living in Mendota , CA , within the population-based Mexican Immigration to California : Agricultural Safety and Acculturation ( MICASA ) Study .
+We present pesticide use data and levels of pyrethroid pesticides in indoor dust collected in 2009 as measured by questionnaires and a GC/MS analysis of the pyrethroids cis- and trans-permethrin , cypermethrin , deltamethrin , esfenvalerate and resmethrin in single dust samples collected from 55 households .
+Cis- and trans-permethrin had the highest detection frequencies at 67% , with median concentrations of 244 and 172ng/g dust , respectively .
+Cypermethrin was detected in 52% of the homes and had a median concentration of 186ng/g dust .
+Esfenvalerate , resmethrin and deltamethrin were detected in less than half the samples .
+We compared the pyrethroid concentrations found in our study to other studies looking at both rural and urban homes and daycares .
+Lower detection frequencies and/or lower median concentrations of cis- and trans-permethrin and cypermethrin were observed in our study as compared to those studies .
+However , deltamethrin , esfenvalerate and resmethrin were detected more frequently in the house dust from our study than in the other studies .
+Because households whose children had higher urinary pyrethroid metabolite levels were more likely to be analyzed in this study , a positive bias in our estimates of household pyrethroid levels may be expected .
+A positive association was observed with reported outdoor pesticide use and cypermethrin levels found in the indoor dust samples ( rs=0.28 , p=0.0450 ) .
+There was also a positive association seen with summed pyrethroid levels in house dust and the results of a pesticide inventory conducted by field staff ( rs=0.32 , p=0.018 ) , a potentially useful predictor of pesticide exposure in farm worker family homes .
+Further research is warranted to fully investigate the utility of such a measure .

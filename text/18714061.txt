@@ -1,0 +1,12 @@
+CONTEXT High chronic exposure to inorganic arsenic in drinking water has been related to diabetes development , but the effect of exposure to low to moderate levels of inorganic arsenic on diabetes risk is unknown .
+In contrast , arsenobetaine , an organic arsenic compound derived from seafood intake , is considered nontoxic .
+OBJECTIVE To investigate the association of arsenic exposure , as measured in urine , with the prevalence of type 2 diabetes in a representative sample of US adults .
+DESIGN , SETTING , AND PARTICIPANTS Cross-sectional study in 788 adults aged 20 years or older who participated in the 2003-2004 National Health and Nutrition Examination Survey ( NHANES ) and had urine arsenic determinations .
+MAIN OUTCOME MEASURE Prevalence of type 2 diabetes across intake of arsenic .
+RESULTS The median urine levels of total arsenic , dimethylarsinate , and arsenobetaine were 7.1 , 3.0 , and 0.9 mug/L , respectively .
+The prevalence of type 2 diabetes was 7.7% .
+After adjustment for diabetes risk factors and markers of seafood intake , participants with type 2 diabetes had a 26% higher level of total arsenic ( 95% confidence interval [ CI ] , 2.0%-56.0% ) and a nonsignificant 10% higher level of dimethylarsinate ( 95% CI , -8.0% to 33.0% ) than participants without type 2 diabetes , and levels of arsenobetaine were similar to those of participants without type 2 diabetes .
+After similar adjustment , the odds ratios for type 2 diabetes comparing participants at the 80th vs the 20th percentiles were 3.58 for the level of total arsenic ( 95% CI , 1.18-10.83 ) , 1.57 for dimethylarsinate ( 95% CI , 0.89-2.76 ) , and 0.69 for arsenobetaine ( 95% CI , 0.33-1.48 ) .
+CONCLUSIONS After adjustment for biomarkers of seafood intake , total urine arsenic was associated with increased prevalence of type 2 diabetes .
+This finding supports the hypothesis that low levels of exposure to inorganic arsenic in drinking water , a widespread exposure worldwide , may play a role in diabetes prevalence .
+Prospective studies in populations exposed to a range of inorganic arsenic levels are needed to establish whether this association is causal .

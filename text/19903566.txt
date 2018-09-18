@@ -1,0 +1,9 @@
+Meconium is a matrix that can be obtained easily and noninvasively and is useful for detecting antenatal fetal exposure to environmental toxins .
+Taiwan is an island with high fish consumption , and many pregnant women would like to enjoy the benefits of fish without jeopardizing their health or that of their child .
+The aim of this study is to assess the mercury concentration in meconium in relation to the health risk of mercury exposure .
+A total of 198 mother-infant pairs residing in the city of HsinChu were recruited for the study between January 2007 and June 2007 .
+The average mean concentration of mercury in meconium was 79.2+/-7.3 ng g(-1) dry wt We use the Monte Carlo technique to assess the uncertainty in risk assessment and the impact of these uncertainties on the estimation of expected risk of mercury intake from fish in mothers .
+Based on the FAO/WHO's tolerable daily intake of methylmercury ( 0.23 microg kg(-1)d(-1) ) , we found that 17.3% and 14.0% of the daily mercury exposure estimated exceeded the reference dose for foreign-born and Taiwan-born mothers , respectively .
+We found that the mercury concentration in meconium was much higher than in other studies , except for one study done in Tagum in the Philippines where mercury is used in gold mining .
+This may be because Asia is the largest emitter of anthropogenic mercury , accounting for 53% of worldwide emissions .
+Sensitivity analysis suggests that mercury concentration in fish and the rate of ingesting fish may be the key parameters for governments offering risk management guidance to protect the health of mothers and unborn babies .

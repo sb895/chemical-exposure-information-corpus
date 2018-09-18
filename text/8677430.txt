@@ -1,0 +1,10 @@
+The carcinogenic potential of cadmium might be affected by several factors such as smoking , hormones and presence of other metals , such as selenium and zinc .
+Cadmium was analyzed in breast-fat tissue of 43 breast cancer patients and 32 healthy control subjects .
+Patients were thoroughly characterized according to such variables as stage of cancer , smoking habits , and number of children .
+Correlation of cadmium levels with these variables , with hormone receptors , and with previously reported selenium and zinc were all analyzed .
+The mean cadmium concentration found in breast cancer patients ( 20.4 +/- 17.5 micrograms/g ) did not differ significantly from that of the healthy controls ( 31.7 +/- 39.4 micrograms/g ) .
+However , unexpectedly high concentrations of cadmium ( 3.2-86.9 vs. 0.1-160.4 micrograms/g ) were found in breast samples , which may indicate that cadmium binding proteins exist in human breast tissue .
+Correlation of cadmium with smoking rate of cancer patients was positive ( Rs = 0.0505 , p < 0.05 ) .
+Correlation of cadmium with estrogen receptors in breast cancer was suggestive ( Rs = 0.309 , 28 cases , P = 0.06 ) .
+No correlation was found with other trace elements such as selenium , zinc and copper .
+These results seem neither to prove nor to disprove the role of cadmium in breast cancer initiation , promotion or progression .

@@ -1,0 +1,10 @@
+The association of drinking water arsenic and mortality outcome was investigated in a cohort of residents from Millard County , Utah .
+Median drinking water arsenic concentrations for selected study towns ranged from 14 to 166 ppb and were from public and private samples collected and analyzed under the auspices of the State of Utah Department of Environmental Quality , Division of Drinking Water .
+Cohort members were assembled using historical documents of the Church of Jesus Christ of Latter-day Saints .
+Standard mortality ratios ( SMRs ) were calculated .
+Using residence history and median drinking water arsenic concentration , a matrix for cumulative arsenic exposure was created .
+Without regard to specific exposure levels , statistically significant findings include increased mortality from hypertensive heart disease [ SMR = 2.20 ; 95% confidence interval ( CI ) , 1.36-3.36 ] , nephritis and nephrosis ( SMR = 1.72 ; CI , 1.13-2.50 ) , and prostate cancer ( SMR = 1.45 ; CI , 1.07-1. 91 ) among cohort males .
+Among cohort females , statistically significant increased mortality was found for hypertensive heart disease ( SMR = 1.73 ; CI , 1.11-2.58 ) and for the category of all other heart disease , which includes pulmonary heart disease , pericarditis , and other diseases of the pericardium ( SMR = 1.43 ; CI , 1.11-1.80 ) .
+SMR analysis by low , medium , and high arsenic exposure groups hinted at a dose relationship for prostate cancer .
+Although the SMRs by exposure category were elevated for hypertensive heart disease for both males and females , the increases were not sequential from low to high groups .
+Because the relationship between health effects and exposure to drinking water arsenic is not well established in U.S. populations , further evaluation of effects in low-exposure populations is warranted .

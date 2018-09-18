@@ -1,0 +1,11 @@
+BACKGROUND DNA methylation is a potential pathway linking environmental exposures to disease .
+Exposure to particulate air pollution has been associated with increased cardiovascular morbidity and mortality , and lower blood DNA methylation has been found in processes related to cardiovascular morbidity .
+OBJECTIVE We hypothesized that prolonged exposure to particulate pollution would be associated with hypomethylation of repetitive DNA elements and that this association would be modified by genes involved in glutathione metabolism and other host characteristics .
+METHODS DNA methylation of the long interspersed nucleotide element-1 ( LINE-1 ) and the short interspersed nucleotide element Alu were measured by quantitative polymerase chain reaction pyrosequencing in 1,406 blood samples from 706 elderly participants in the Normative Aging Study .
+We estimated changes in repetitive element DNA methylation associated with ambient particles ( particulate matter \u2264 2.5 µm in aerodynamic diameter ) , black carbon ( BC ) , and sulfates ( SO\u2084 ) , with mixed models .
+We examined multiple exposure windows ( 1-6 months ) before DNA methylation measurement .
+We investigated whether this association was modified by genotype and phenotype .
+RESULTS An interquartile range ( IQR ) increase in BC over a 90-day period was associated with a decrease of 0.31% 5-methylcytosine ( 5mC ) ( 95% confidence interval , 0.12-0.50% ) in Alu .
+An IQR increase in SO\u2084 over a 90-day period was associated with a decrease of 0.27% 5mC ( 0.02-0.52% ) in LINE-1 .
+The glutathione S-transferase mu-1-null genotype strengthened the association between BC and Alu hypomethylation .
+CONCLUSION Prolonged exposure to BC and SO\u2084 particles was associated with hypomethylation of two types of repetitive elements .

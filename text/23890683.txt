@@ -1,0 +1,8 @@
+Purpose of this study was to study the oxidative stress status through the urinary 15-F(2t)-isoprostane ( 15-F(2t)-isoP ) among a group of 168 adolescents , differently exposed to passive tobacco smoke .
+Subjects were enrolled , with written informed consent , between two populations of students living and attending school in two areas with different levels of urbanization in Piedmont Region , North-Western Italy .
+A general linear model ( GLM ) analysis was performed to evaluate the role of air pollution , dependent from selected degree of urbanization and of passive exposure to tobacco smoke , quantified through cotinine , in the synthesis of 15-F(2t)-isoP , measured with ELISA technique .
+Formaldehyde ( FA ) concentration in air was also evaluated as a primary confounding factor in oxidative stress but no significant differences between the two sites were found .
+Conversely , direct relationship between oxidative stress status and residence of adolescents was found : oxidative stress level was 31% higher for adolescents living in Chivasso ( urban site ) than for those living in Casalborgone ( countryside area ) .
+Furthermore , also passive tobacco smoke exposure proved to play another important direct role in the distribution of 15-F(2t)-isoP levels ( p<0.0001 ) .
+Lastly , an inversely proportional relationship was found between the age of adolescents and 15-F(2t)-isoP ( p<0.0001 ) .
+Finally , the detection of such a sensitive biological response as a consequence of limited differences of environmental pollution and exposure to tobacco smoke passively breathed could provide new and useful knowledge for the appraisal of preventive strategies , particularly for young subjects .

@@ -1,0 +1,10 @@
+In human exposure studies involving Polychlorinated Biphenyls ( PCBs ) , it is useful to establish when an individual was potentially exposed .
+Age dating PCB exposure is complex but assessments can be made because different PCB congeners have different residence times in the human body .
+The less chlorinated congeners generally tend to have shorter residence times because they are biotransformed and eliminated faster than more chlorinated congeners .
+Therefore , the presence of high proportions of less chlorinated congeners is often indicative of recent exposure .
+The 2003-04 National Health and Nutrition Examination Survey ( NHANES ) dataset contains results for the concentration of 37 PCBs in a sub-sample of the US population .
+Multivariate statistical analysis of the NHANES data showed that less chlorinated congeners are not always biotransformed faster than higher chlorinated compounds .
+For example , PCB 28 ( a tri-chlorobiphenyl ) appears to be more resistant to biotransformation than PCB 101 and 110 ( penta-chlorobiphenyls ) .
+Using statistical analysis of the NHANES data in conjunction with previously published studies on PCB persistence in humans , it was possible to identify the structural relationships that determine if a PCB is likely to be from a recent exposure ( termed ' episodic' ) or from steady state exposure .
+Congeners with chlorine atoms in the 2,5- and 2,3,6-positions appear to be more susceptible to biotransformation whereas congeners with chlorine bonds in the 2,3,4- 2,4,5- 3,4,5- and 2,3,4,5-positions appear to be more persistent .
+This work shows that future investigations to date PCB exposure would benefit from the analysis of a wide range of congeners , including the selection of key congeners based not only on the degree of chlorination but also on the positions of the chlorine atoms on the biphenyl .

@@ -1,0 +1,15 @@
+INTRODUCTION Paving workers are exposed to polycyclic aromatic compounds ( PACs ) while working with hot-mix asphalt ( HMA ) .
+Further characterization of the source and route of these exposures is necessary to guide exposure-reduction strategies .
+METHODS Personal air ( n=144 ) , hand-wash ( n=144 ) , and urine ( n=480 ) samples were collected from 12 paving workers over 3 workdays during 4 workweeks .
+Urine samples were collected at preshift , postshift , and bedtime and analyzed for 10 hydroxylated PACs ( 1-OH-pyrene ; 1- , 2- , 3- , 4-OH-phenanthrene ; 1- , 2-OH-naphthalene ; 2- , 3- , 9-OH-fluorene ) by an immunochemical quantification of PACs ( I-PACs ) .
+The air and hand-wash samples were analyzed for the parent compounds corresponding to the urinary analytes .
+Using a crossover study design , each of the 4 weeks represented a different exposure scenario : a baseline week ( normal conditions ) , a dermal protection week ( protective clothing ) , a powered air-purifying respirator ( PAPR ) week , and a biodiesel substitution week ( 100% biodiesel provided to replace the diesel oil normally used by workers to clean tools and equipment ) .
+The urinary analytes were analyzed using linear mixed-effects models .
+RESULTS Postshift and bedtime concentrations were significantly higher than preshift concentrations for most urinary biomarkers .
+Compared with baseline , urinary analytes were reduced during the dermal protection ( 29% for 1-OH-pyrene , 15% for I-PACs ) , the PAPR ( 24% for 1-OH-pyrene , 15% for I-PACs ) , and the biodiesel substitution ( 15% for 1-OH-pyrene ) weeks .
+The effect of PACs in air was different by exposure scenario ( biodiesel substitution>dermal protection>PAPR and baseline ) and was still a significant predictor of most urinary analytes during the week of PAPR use , suggesting that PACs in air were dermally absorbed .
+The application temperature of HMA was positively associated with urinary measures , such that an increase from the lowest application temperature ( 121°C ) to the highest ( 154°C ) was associated with a 72% increase in \u03a3OH-fluorene and 1-OH-pyrene and an 82% increase in \u03a3OH-phenanthrene .
+Though PACs in hand-wash samples were not predictors of urinary analytes , the effects observed during the PAPR scenario and the week of increased dermal protection provide evidence of dermal absorption .
+CONCLUSIONS Our results provide evidence that PACs in air are dermally absorbed .
+Reducing the application temperature of asphalt mix appears to be a promising strategy for reducing PAC exposure among paving workers .
+Additional reductions may be achieved by requiring increased dermal coverage of workers and by substituting biodiesel for diesel oil as a cleaning agent .

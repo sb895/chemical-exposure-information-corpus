@@ -1,0 +1,11 @@
+OBJECTIVE Our objective was to assess the relationship between di(2-ethylhexyl)phthalate ( DEHP ) exposure during pregnancy and gestational age at delivery among 311 African American or Dominican women from New York City .
+METHODS Forty-eight-hour personal air and/or spot urine samples were collected during the third trimester .
+DEHP levels were measured in air samples and 4 DEHP metabolite levels were measured in urine .
+Specific gravity was used to adjust for urinary dilution .
+Gestational age was abstracted from newborn medical records ( n = 289 ) or calculated from the expected date of delivery ( n = 42 ) .
+Multivariate linear regression models controlled for potential confounders .
+RESULTS DEHP was detected in 100% of personal air samples ( geometric mean : 0.20 microg/m(3) [ 95% confidence interval [ CI ] : 0.18-0.21 microg/m(3)] ) ; natural logarithms of air concentrations were inversely but not significantly associated with gestational age .
+Two or more of the DEHP metabolites were detected in 100% of urine samples ( geometric mean : 4.8-38.9 ng/mL [ 95% CI : 4.1-44.3 ng/mL] ) .
+Controlling for potential confounders , gestational age was shorter by 1.1 days ( 95% CI : 0.2-1.8 days ) for each 1-logarithmic unit increase in specific gravity-adjusted mono(2-ethylhexyl)phthalate concentrations ( P = .01 ) and averaged 5.0 days ( 95% CI : 2.1-8.0 days ) less among subjects with the highest versus lowest quartile concentrations ( P = .001 ) .
+Results were similar and statistically significant for the other DEHP metabolites .
+CONCLUSIONS Prenatal DEHP exposure was associated with shorter gestation but , given inconsistencies with previous findings for other study populations , results should be interpreted with caution , and additional research is warranted .

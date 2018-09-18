@@ -1,0 +1,12 @@
+Chronic arsenic ( As ) exposure affects the endothelial system causing several diseases .
+Big endothelin-1 ( Big ET-1 ) , the biological precursor of endothelin-1 ( ET-1 ) is a more accurate indicator of the degree of activation of the endothelial system .
+Effect of As exposure on the plasma Big ET-1 levels and its physiological implications have not yet been documented .
+We evaluated plasma Big ET-1 levels and their relation to hypertension and skin lesions in As exposed individuals in Bangladesh .
+A total of 304 study subjects from the As-endemic and non-endemic areas in Bangladesh were recruited for this study .
+As concentrations in water , hair and nails were measured by Inductively Coupled Plasma Mass Spectroscopy ( ICP-MS ) .
+The plasma Big ET-1 levels were measured using a one-step sandwich enzyme immunoassay kit .
+Significant increase in Big ET-1 levels were observed with the increasing concentrations of As in drinking water , hair and nails .
+Further , before and after adjusting with different covariates , plasma Big ET-1 levels were found to be significantly associated with the water , hair and nail As concentrations of the study subjects .
+Big ET-1 levels were also higher in the higher exposure groups compared to the lowest ( reference ) group .
+Interestingly , we observed that Big ET-1 levels were significantly higher in the hypertensive and skin lesion groups compared to the normotensive and without skin lesion counterpart , respectively of the study subjects in As-endemic areas .
+Thus , this study demonstrated a novel dose-response relationship between As exposure and plasma Big ET-1 levels indicating the possible involvement of plasma Big ET-1 levels in As-induced hypertension and skin lesions .

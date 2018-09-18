@@ -1,0 +1,9 @@
+As part of a multiyear birth-cohort study examining the roles of pre- and postnatal environmental exposures on developmental deficits and asthma among children , we measured personal exposures to polycyclic aromatic hydrocarbons ( PAHs ) among 348 pregnant women in northern Manhattan and the South Bronx , New York .
+Nonsmoking African-American or Dominican women were identified and recruited into the study .
+During the third trimester of pregnancy , each subject wore a personal air monitor for 48 hr to determine exposure levels to nine PAH compounds .
+In this study , we examined levels of exposures to PAHs and tested for associations with potential predictor variables collected from questionnaires addressing socioeconomic factors and day-to-day activities during pregnancy as well as activities and environmental exposures during the 48-hr monitoring period .
+Reliable personal monitoring data for women who did not smoke during the monitoring period were available for 344 of 348 subjects .
+Mean PAH concentrations ranged from 0.06 ng/m3 for dibenz[a,h]anthracene to 4.1 ng/m3 for pyrene ; mean benzo[a]pyrene concentration was 0.50 ng/m3 .
+As found in previous studies , concentrations of most PAHs were higher in winter than in summer .
+Multiple linear regression analysis revealed associations between personal PAH exposures and several questionnaire variables , including time spent outdoors , residential heating , and indoor burning of incense .
+This is the largest study to date characterizing personal exposures to PAHs , a ubiquitous class of carcinogenic air contaminants in urban environments , and is unique in its focus on pregnant minority women .

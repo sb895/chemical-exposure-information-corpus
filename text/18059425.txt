@@ -1,0 +1,10 @@
+The relationships between levels of volatile organic compounds ( VOCs ) in blood and air have not been well characterized in the general population where exposure concentrations are generally at parts per billion levels .
+This study investigates relationships between the levels of nine VOCs , namely , benzene , chloroform , 1,4-dichlorobenzene , ethylbenzene , methyl tert-butyl ether ( MTBE ) , tetrachloroethene , toluene , and m-/p- and o-xylene , in blood and air from a stratified random sample of the general US population .
+We used data collected from 354 participants , including 89 smokers and 265 nonsmokers , aged 20-59 years , who provided samples of blood and air in the National Health and Nutrition Examination Survey ( NHANES ) 1999-2000 .
+Demographic and physiological characteristics were obtained from self-reported information ; smoking status was determined from levels of serum cotinine .
+Multiple linear regression models were used to investigate the relationships between VOC levels in air and blood , while adjusting for effects of smoking and demographic factors .
+Although levels of VOCs in blood were positively correlated with the corresponding air levels , the strength of association ( R(2) ) varied from 0.02 ( ethylbenzene ) to 0.68 ( 1,4-DCB ) .
+Also the blood-air relationships of benzene , toluene , ethylbenzene , and the xylenes ( BTEX ) were influenced by smoking , exposure-smoking interactions , and by gender , age , and BMI , whereas those of the other VOCs were not .
+Interestingly , the particular exposure-smoking interaction for benzene was different from those for toluene , ethylbenzene , and the xylenes .
+Whereas smokers retained more benzene in their blood at increasing exposure levels , they retained less toluene , ethylbenzene , and xylenes at increasing exposure levels .
+Investigators should consider interaction effects of exposure levels and smoking when exploring the blood-air relationships of the BTEX compounds in the general population .

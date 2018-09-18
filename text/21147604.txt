@@ -1,0 +1,11 @@
+BACKGROUND Previous studies have reported associations between prenatal arsenic exposure and increased risk of infant mortality .
+An increase in infectious diseases has been proposed as the underlying cause of these associations , but there is no epidemiologic research to support the hypothesis .
+OBJECTIVE We evaluated the association between arsenic exposure in pregnancy and morbidity during infancy .
+METHODS This prospective population-based cohort study included 1,552 live-born infants of women enrolled during 2002-2004 in Matlab , Bangladesh .
+Arsenic exposure was assessed by the concentrations of metabolites of inorganic arsenic in maternal urine samples collected at gestational weeks 8 and 30 .
+Information on symptoms of lower respiratory tract infection ( LRTI ) and diarrhea in infants was collected by 7-day recalls at monthly home visits .
+RESULTS In total , 115,850 person-days of observation were contributed by the infants during a 12-month follow-up period .
+The estimated risk of LRTI and severe LRTI increased by 69% [ adjusted relative risk ( RR ) = 1.69 ; 95% confidence interval ( CI ) , 1.36-2.09) ] and 54% ( RR = 1.54 ; 95% CI , 1.21-1.97 ) , respectively , for infants of mothers with urinary arsenic concentrations in the highest quintile ( average of arsenic concentrations measured in early and late gestation , 262-977 µg/L ) relative to those with exposure in the lowest quintile ( < 39 µg/L ) .
+The corresponding figure for diarrhea was 20% ( RR = 1.20 ; 95% CI , 1.01-1.43 ) .
+CONCLUSIONS Arsenic exposure during pregnancy was associated with increased morbidity in infectious diseases during infancy .
+Taken together with the previous evidence of adverse effects on health , the findings strongly emphasize the need to reduce arsenic exposure via drinking water .

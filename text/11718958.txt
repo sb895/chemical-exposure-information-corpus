@@ -1,0 +1,14 @@
+Occupational exposure to organophosphorus insecticides ( OPs ) , such as chlorpyrifos , may be monitored by the measurement of the activity of peripheral cholinesterase ( ChE ) enzymes , including erythrocyte acetylcholinesterase ( EAChE ) and serum cholinesterase ( SChE ) .
+Lymphocyte neuropathy target esterase ( NTE ) is thought to have potential as a predictor of organophosphate-induced delayed neuropathy ( OPIDN ) .
+This paper describes work performed in 39 Australian pest control operators ( PCOs ) exposed to a termiticide containing chlorpyrifos , and 34 unexposed control subjects .
+EAChE activities in PCOs did not differ from those of unexposed control workers .
+Mean NTE activity was slightly higher in PCOs than in controls and mean SChE was 52% of control activity .
+These results indicate that exposure of Australian PCOs to termiticides containing chlorpyrifos may be monitored using SChE but not EAChE or NTE , and that workers in this industry have sufficiently high OP exposure to significantly depress SChE activity .
+SChE inhibition of 70-80% may be associated with symptoms .
+Although no current symptoms were reported to be associated with occupational OP exposure , these workers may be at increased risk of acute effects following inadvertent spills or self-contamination due to their background level of exposure to OPs .
+While it is preferable to compare ChE enzyme activities between pre- and post-exposure periods to evaluate OP-related effects in individuals , in some cases there is an absence of pre-exposure data .
+The results of this study suggest that a screening value for SChE of 550 nmol/min/ml in a single blood sample may be useful to identify potentially OP-exposed individuals in the Australian population .
+Australian control subjects were similar with respect to EAChE , but displayed activities of NTE and SChE approximately 50 and 23% lower than an unexposed UK reference group .
+While these comparisons are presently speculative , they suggest that there may be differences in SChE and NTE activities in control populations of the two countries .
+The routine treatment of Australian homes with termiticides containing OPs , or differences in the availability and use of domestic OP-containing insecticides may explain these population differences .
+Further work is required to examine whether these differences are real , and if so their likely cause .

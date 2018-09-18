@@ -1,0 +1,10 @@
+Although occupational benzene exposure of refinery workers has been studied for decades , no extensive analysis of historical industrial hygiene data has been performed focusing on airborne concentrations at specific refineries and tasks .
+This study characterizes benzene exposures at the ExxonMobil Baytown , TX , refinery from 1978 to 2006 to understand the variability in workers ' exposures over time and during different job tasks .
+Exposures were grouped by operational status , job title , and tasks .
+More than 9000 industrial hygiene air samples were evaluated ; approximately 4000 non-task ( > 3\u2009h ) and 1000 task-related ( < 3\u2009h ) personal samples were considered .
+Each sample was assigned to one of 27 job titles , 29 work areas , and 16 task bins ( when applicable ) .
+Process technicians were sampled most frequently , resulting in the following mean benzene concentrations by area : hydrofiner ( n=245 , mean=1.3\u2009p.p.m. ) , oil movements ( n=286 , mean=0.23\u2009p.p.m. ) , reformer ( n=575 , mean=0.10\u2009p.p.m. ) , tank farm ( n=9 , mean=0.65\u2009p.p.m. ) , waste treatment ( n=446 , mean=0.13\u2009p.p.m. ) , and other areas ( n=460 , mean=0.062\u2009p.p.m. ) .
+The most frequently sampled task was sample collection ( n=218 , mean=0.40\u2009p.p.m. ) .
+Job title and area did not significantly impact task-related exposures .
+Airborne concentrations were significantly lower after 1990 than before 1990 .
+Results of this task-focused study may be useful when analyzing benzene exposures at other refineries .

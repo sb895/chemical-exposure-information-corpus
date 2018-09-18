@@ -1,0 +1,8 @@
+Although , humans are exposed to perflourinated compounds ( PFCs ) from various media , water consumption could be an important source for the residents living near to contaminated areas .
+Since comprehensive multimedia exposure model has not been developed for PFCs , assessment of the potential risk due to exposure to PFCs through direct water consumption could be a conservative estimate .
+The human health risks derived from the exposure to PFCs through water consumption were assessed for different age groups of general population in Taiwan using probabilistic approach .
+Based on available data on concentrations of PFCs in river water , exposure to PFOS , PFOA and PFDA via water consumption for different age groups were calculated using deterministic and probabilistic risk assessment methods .
+The oral non-cancer risks from PFOS , PFOA and their combination , expressed as a Hazard Index ( HI ) , was determined by comparing oral exposure dose ( through water intake ) with the oral Reference Dose ( RfD ) .
+The average exposure to PFOS , PFOA and PFDA via water consumption for adults ranged from 0.16 to 220.15 , 0.43 to 12.5 and 0.43 to 2.36 ng kg-bw(-1) d(-1) and for children 0.13-354.3 , 0.35-20.17 and 0.35-3.79 ng kg-bw(-1) d(-1) , respectively .
+Probabilistic values of total HIs for all age groups reside near to Keya River exceed the RfD 2.4-4.8 times , corresponding mainly to PFOS with a percentage of 97% .
+In conclusions , children aged 1-3 years old and the residents reside near to Keya River are at the highest risk of exposure to PFCs via water consumption .

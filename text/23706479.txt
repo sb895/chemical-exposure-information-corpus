@@ -1,0 +1,8 @@
+The size fraction , bioaccessibility and associated human daily intake of PCBs via indoor and outdoor dust collected from two most populated urban centers of Pearl River Delta ( PRD ) , China , were studied .
+The \u03a3PCBs levels ( ng g(-1) ) in indoor ( 51.9-264 ) and outdoor ( 4.02-228 ) dust in Guangzhou ( GZ ) were found higher than those in indoor ( 17.4-137 ) and outdoor ( 7.75-114 ) dust of Hong Kong ( HK ) .
+Hexa-PCB was the largest contributor in dust samples ( 29-64% ) , followed by tri-PCB .
+The size fraction of PCBs indicated a high accumulation effect of particles less than 63 \u03bcm , while the lowest was found in 280-2000 \u03bcm .
+Toxic equivalency ( TEQ ) of dioxin-like PCBs in indoor dust of GZ and HK was 2 to 13 times higher than that in outdoor dust .
+The bioaccessibility of PCBs was determined as 5-61% depending on individual PCB congeners under study and bioaccessible PCB exposure was significantly lower than the estimate for total PCB .
+The daily intake of bioaccessible PCBs via dust ranged in 0.02-8.95 and 0.37-17.8 ng day(-1) in GZ while 0.01-4.95 and 0.16-9.83 ng day(-1) in HK for adults and children , respectively .
+Dust ingestion contributed to 0.49-10.6% of overall non-dietary PCB exposure ( dust ingestion and inhalation ) for adults while 12.9-35% for children , indicating the dominant contribution from inhalation .

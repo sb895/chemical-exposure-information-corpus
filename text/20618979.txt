@@ -1,0 +1,16 @@
+BACKGROUND Arsenic is a potent pollutant that has caused an environmental catastrophe in certain parts of the world including Bangladesh where millions of people are presently at risk due to drinking water contaminated by arsenic .
+Chronic arsenic exposure has been scientifically shown as a cause for liver damage , cancers , neurological disorders and several other ailments .
+The relationship between plasma cholinesterase ( PChE ) activity and arsenic exposure has not yet been clearly documented .
+However , decreased PChE activity has been found in patients suffering liver dysfunction , heart attack , cancer metastasis and neurotoxicity .
+Therefore , in this study , we evaluated the PChE activity in individuals exposed to arsenic via drinking water in Bangladesh .
+METHODS A total of 141 Bangladeshi residents living in arsenic endemic areas with the mean arsenic exposure of 14.10 +/- 3.27 years were selected as study subjects and split into tertile groups based on three water arsenic concentrations : low ( < 129 microg/L ) , medium ( 130-264 microg/L ) and high ( > 265 microg/L ) .
+Study subjects were further sub-divided into two groups ( <or=50 microg/L and > 50 microg/L ) based on the recommended upper limit of water arsenic concentration ( 50 microg/L ) in Bangladesh .
+Blood samples were collected from the study subjects by venipuncture and arsenic concentrations in drinking water , hair and nail samples were measured by Inductively Coupled Plasma Mass Spectroscopy ( ICP-MS ) .
+PChE activity was assayed by spectrophotometer .
+RESULTS Arsenic concentrations in hair and nails were positively correlated with the arsenic levels in drinking water .
+Significant decreases in PChE activity were observed with increasing concentrations of arsenic in water , hair and nails .
+The average levels of PChE activity in low , medium and high arsenic exposure groups were also significantly different between each group .
+Lower levels of PChE activity were also observed in the > 50 microg/L group compared to the <or=50 microg/L group .
+Moreover , PChE activity was significantly decreased in the skin ( + ) symptoms group compared to those without ( - ) .
+CONCLUSIONS We found a significant inverse relationship between arsenic exposure and PChE activity in a human population in Bangladesh .
+This research demonstrates a novel exposure-response relationship between arsenic and PChE activity which may explain one of the biological mechanisms through which arsenic exerts its neuro-and hepatotoxicity in humans .

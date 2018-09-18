@@ -1,0 +1,9 @@
+The determination of trace and toxic elements in biological samples ( blood , urine and scalp hair samples ) of human beings is an important clinical test .
+The aim of our present study was to determine the concentration of arsenic ( As ) , copper ( Cu ) , cobalt ( Co ) and manganese ( Mn ) , in biological samples of male production workers ( PW ) and quality control workers ( QW ) of steel mill , with aged 25-55 years , to assess the possible influence of environmental exposure .
+For comparison purpose , the same biological samples of unexposed healthy males of same age group were collected as control subjects .
+The determination of all elements in biological samples was carried out by electrothermal atomic absorption spectrometry , prior to microwave assisted acid digestion .
+The accuracy of the As , Cu , Co and Mn measurements was tested by simultaneously analyzing certified reference materials ( CRMs ) and for comparative purposes conventional wet acid digestion method was used on the same CRMs .
+No significant differences were observed between the analytical results and the certified values , using both methods ( paired t-test at P > 0.05 ) .
+The results indicate that concentrations of As , Cu , Co and Mn in all three biological samples of the exposed workers ( QW and PW ) were significantly higher than those of the controls .
+The possible correlation of these elements with the etiology of different physiological disorders is discussed .
+The results were also demonstrated the need of attention for improvements in workplace , ventilation and industrial hygiene practices .

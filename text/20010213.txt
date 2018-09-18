@@ -1,0 +1,10 @@
+BACKGROUND Arsenic in drinking water is associated with kidney cancer .
+Beginning in 1958 , a region of Chile experienced a rapid onset of high arsenic exposure in drinking water , followed by sharp declines when water treatment plants were installed in 1971 .
+METHODS For the years 1950-1970 , we obtained mortality data from death certificates for an exposed region and an unexposed region in Chile .
+We obtained computerized mortality data for all of Chile for 1971-2000 .
+RESULTS Kidney cancer risks for the exposed region compared with the unexposed started to increase about 10 years after high arsenic exposures began in 1958 .
+The peak kidney cancer mortality rate ratio ( RR ) was 3.4 ( 95% confidence interval = 2.2-5.1 ) for men in 1981-1985 , with subsequent declines to 1.6 ( 1.2-2.1 ) by 1996-2000 .
+Mortality RRs among women were 2.9 ( 1.8-4.7 ) in 1981-1985 but remained high longer than for men , increasing further to a RR of 4.4 ( 3.0-6.4 ) in 1991-1995 .
+Early-life exposure resulted in an increased RR of 7.1 ( 3.1-14 ) for young adults aged 30-39 years , born just before or during the high exposure period .
+CONCLUSIONS This study shows a latency pattern of increased mortality from kidney cancer , continuing for at least 25 years after the high exposures began to decline .
+Early life exposure resulted in markedly higher kidney cancer mortality in young adults .

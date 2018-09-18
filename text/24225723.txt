@@ -1,0 +1,7 @@
+BACKGROUND Particulate matter and proximity to large roadways may promote disease mechanisms , including systemic inflammation , hormonal alteration , and vascular proliferation , that may contribute to the development and severity of endometriosis .
+OBJECTIVE Our goal was to determine the association of air pollution exposures during adulthood , including distance to road , particulate matter<2.5 \u03bcm , between 2.5 and 10 \u03bcm , and <10 \u03bcm , ( PM2.5 , PM10-2.5 , PM10 ) , and timing of exposure with risk of endometriosis in the Nurses ' Health Study II .
+METHODS Proximity to major roadways and outdoor levels of PM2.5 , PM10-2.5 , and PM10 were determined for all residential addresses from 1993 to 2007 .
+Multivariable-adjusted time-varying Cox proportional hazard models were used to estimate the relation between these air pollution exposures and endometriosis risk .
+RESULTS Among 84,060 women , 2,486 incident cases of surgically confirmed endometriosis were identified over 710,230 person-years of follow-up .
+There was no evidence of an association between endometriosis risk and distance to road or exposure to PM2.5 , PM10-2.5 , or PM10 averaged over follow-up or during the previous 2- or 4-year period .
+CONCLUSIONS Traffic and air pollution exposures during adulthood were not associated with incident endometriosis in this cohort of women .

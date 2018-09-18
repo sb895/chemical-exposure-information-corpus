@@ -1,0 +1,10 @@
+NHANES subjects self-identified as " Asian , Pacific Islander , Native American , or multiracial " ( A/P/N/M ) have higher levels of blood organic mercury than other racial/ethnic groups ; however , the reasons for this have been unclear .
+This research uses exposure modeling to determine the reasons for elevated blood methylmercury ( MeHg ) levels , and also extends previous analyses of observed NHANES blood levels .
+The probabilistic SHEDS-Dietary model was applied , using MeHg fish residue data from FDA's Total Diet Study ( 1990-2002 ) combined with NHANES/WWEIA ( 1999-2006 ) fish consumption data , to generate exposure estimates by race/ethnicity , age group , and fish type .
+Statistical analyses of blood methylmercury levels in the ( 6 times larger ) 1999-2006 NHANES data were compared against previous published results for 1999-2002 data .
+The A/P/N/M group has higher fish intake , modeled MeHg exposures , and blood levels than the general population and other racial/ethnic groups .
+Tuna , other saltwater fish , and other freshwater fish are key food types driving dietary MeHg exposure .
+The 1-<3 years-old A/P/N/M group has the highest mean dietary MeHg intake per body weight ( 0.06 \u03bcg/kg/day ; times higher than the rest of the population ) .
+Fish intake and modeled exposure predictions correlate well with NHANES blood biomarker levels .
+This study , using the SHEDS-Dietary model with national data , reinforces and expands upon previous observations that dietary exposure via fish consumption is an important route for methylmercury intake by the general population , and especially for racial/ethnic groups with higher fish consumption .
+These probabilistic dietary modeling approaches could be applied for local populations ( e.g. , tribes ) and other chemicals and foods , if data are available .

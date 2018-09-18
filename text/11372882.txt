@@ -1,0 +1,11 @@
+Hexachlorobenzene ( HCB ) is an organochlorine compound widespread in the environment , highly lipophilic , that accumulates in biological systems .
+It has been suggested that it should be classified as a dioxin-like compound .
+Newborns are exposed to organochlorine compounds across the placenta and through breastfeeding .
+Although HCB is one of the most common organochlorine compounds , the transplacental transference of HCB from mother to fetus during pregnancy has been scarcely documented .
+This study reports the levels of HCB , dichlorodiphenyl trichloroethane ( DDT ) and its metabolite p,p'DDE , polychlorinated biphenyls ( PCBs ) , and beta-hexachlorocyclohexane ( beta-HCH ) in 72 maternal blood samples at delivery and in 69 cord blood samples , from which 62 corresponded to mother infant pairs born between May 1997 and September 1999 in a rural area highly exposed to HCB .
+Results show that all newborns presented detectable levels of HCB , PCBs , and p,p'DDE , and , to a lesser extent , of beta-HCH , the HCB levels being the highest .
+The geometric mean of HCB was 1.1 ng/ml , ranging from 0.3 to 5.7 ng/ml .
+Concentrations of HCB levels in cord blood ( log ng/ml ) were positively associated with concentrations in maternal blood ( log ng/ml ) ( coefficient = 0.45 , P < 0.01 ) .
+Gestational age was not associated with the transplacental transfer of HCB .
+Maternal p,p'DDE and beta-HCH levels were also associated with newborn levels , but levels of PCBs were not .
+We conclude that HCB , similar to other organochlorinated compounds , has a transplacental transfer .

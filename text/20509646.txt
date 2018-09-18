@@ -1,0 +1,10 @@
+Hydroxylated polybrominated diphenyl ethers ( OH-PBDEs ) are suspected endocrine disruptors , which can pass through the mammalian placenta and accumulate in the human maternal-fetal-placental unit .
+However , little is known about mechanisms of placental transfer and the associated risk(s) .
+Ten OH-PBDE congeners , bisphenol A ( BPA ) , total 17beta-estradiol ( E2 ) , and total thyroxine ( T4 ) were quantified in blood serum from 26 pregnant women and 28 matching fetuses , including three pairs of twins from South Korea .
+Only 6-OH-BDE-47 , a naturally occurring OH-PBDE , was detected at relatively great concentrations ( maternal serum : 17.5 +/- 26.3 pg/g ww , fetal cord blood serum : 30.2 +/- 27.1 pg/g ww ) , which suggests that exposure was related to diets among Korean women .
+Concentrations of 6-OH-BDE-47 in maternal and cord serum were positively correlated , with concentrations being significantly greater in cord blood serum .
+The placental transfer ratio between fetal and maternal blood serum for 6-OH-BDE-47 ( F/M ratio : 1.4 +/- 1.1 ) was different than the observed placental transfer ratio of BPA and previously reported values for hydroxylated polychlorinated biphenyls ( OH-PCBs ) .
+This result is possibly due to large affinities to T4 transport proteins .
+Lesser concentrations of E2 and T4 were detected in cord blood serum ( E2 : 4.7 +/- 2.2 ng/mL , T4 : 8.5 +/- 1.7 microg/dL ) compared to maternal blood serum ( E2 : 8.0 +/- 3.0 ng/mL , T4 : 9.7 +/- 1.8 microg/dL ) .
+A major effect of OH-PBDE exposure might be a decrease in serum T4 concentrations .
+Potential risks associated with disruption of T4 transport to the developing fetus such as negative consequences for fetal neurological development should be considered in further studies .

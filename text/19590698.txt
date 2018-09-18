@@ -1,0 +1,11 @@
+BACKGROUND Incidence of childhood leukemia in industrialized countries rose significantly during 1975-2004 , and the reasons for the increase are not understood .
+OBJECTIVES We used carpet dust as an exposure indicator to examine the risk of childhood leukemia in relation to residential exposure to persistent organochlorine chemicals : six polychlorinated biphenyl ( PCB ) congeners and the pesticides alpha- and gamma-chlordane , p,p'-DDT ( dichlorodiphenyltrichloroethane ) , p,p'-DDE ( dichlorodiphenyldichloroethylene ) , methoxychlor , and pentachlorophenol .
+METHODS We conducted a population-based case-control study in 35 counties in northern and central California in 2001-2006 .
+The study included 184 acute lymphocytic leukemia ( ALL ) cases 0-7 years of age and 212 birth certificate controls matched to cases by birth date , sex , race , and Hispanic ethnicity .
+We collected carpet dust samples from the room where the child spent the most time before diagnosis ( similar date for controls ) using a specialized vacuum .
+RESULTS Detection of any PCB congener in the dust conferred a 2-fold increased risk of ALL [ odds ratio ( OR ) = 1.97 ; 95% confidence interval ( CI ) , 1.22-3.17 ] .
+Compared with those in the lowest quartile of total PCBs , the highest quartile was associated with about a 3-fold risk ( OR = 2.78 ; 95% CI , 1.41-5.48 ) , and the positive trend was significant ( p = 0.017 ) .
+Significant positive trends in ALL risk were apparent with increasing concentrations of PCB congeners 118 , 138 , and 153 .
+We observed no significant positive associations for chlordane , DDT , DDE , methoxychlor , or pentachlorophenol .
+The associations with PCBs were stronger among non-Hispanic whites than among Hispanics despite similar distributions of PCB levels among controls in each racial/ethnic group .
+CONCLUSIONS Our findings suggest that PCBs , which are considered probable human carcinogens and cause perturbations of the immune system , may represent a previously unrecognized risk factor for childhood leukemia .

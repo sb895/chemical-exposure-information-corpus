@@ -1,0 +1,12 @@
+BACKGROUND Arsenic is a well-documented carcinogen of human urothelial carcinoma ( UC ) with incompletely understood mechanisms .
+OBJECTIVES This study aimed to compare the genome-wide DNA methylation profiles of arsenic-induced UC ( AsUC ) and non-arsenic-induced UC ( Non-AsUC ) , and to assess associations between site-specific methylation levels and cumulative arsenic exposure .
+METHODS Genome-wide DNA methylation profiles in 14 AsUC and 14 non-AsUC were analyzed by Illumina Infinium methylation27 BeadChip and validated by bisulfite pyrosequencing .
+Mean methylation levels ( β¯ ) in AsUC and non-AsUC were compared by their ratio ( β¯ ratio ) and difference ( Δβ¯ ) .
+Associations between site-specific methylation levels in UC and cumulative arsenic exposure were examined .
+RESULTS Among 27,578 methylation sites analyzed , 231 sites had β¯ ratio >2 or <0.5 and 45 sites had Δβ¯ >0.2 or <-0.2 .
+There were 13 sites showing statistically significant ( q<0.05 ) differences in β¯ between AsUC and non-AsUC including 12 hypermethylation sites in AsUC and only one hypermethylation site in non-AsUC .
+Significant associations between cumulative arsenic exposure and DNA methylation levels of 28 patients were observed in nine CpG sites of nine gens including PDGFD ( Spearman rank correlation , 0.54 ) , CTNNA2 ( 0.48 ) , KCNK17 ( 0.52 ) , PCDHB2 ( 0.57 ) , ZNF132 ( 0.48 ) , DCDC2 ( 0.48 ) , KLK7 ( 0.48 ) , FBXO39 ( 0.49 ) , and NPY2R ( 0.45 ) .
+These associations remained statistically significant for CpG sites in CTNNA2 , KLK7 , NPY2R , ZNF132 and KCNK17 in 20 non-smoking women after adjustment for tumor stage and age .
+CONCLUSIONS Significant associations between cumulative arsenic exposure and methylation level of CTNNA2 , KLK7 , NPY2R , ZNF132 and KCNK17 were found in smoking-unrelated urothelial carcinoma .
+Arsenic exposure may cause urothelial carcinomas through the hypermethylation of genes involved in cell adhesion , proteolysis , transcriptional regulation , neuronal pathway , and ion transport .
+The findings of this study , which are limited by its small sample size and moderate dose-response relation , remain to be validated by further studies with large sample sizes .

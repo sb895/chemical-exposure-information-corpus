@@ -1,0 +1,11 @@
+Inorganic arsenic ( In-As ) is a well-known toxicant and carcinogen found naturally in surface and groundwater around the world .
+Exposure can cause skin lesions , adverse reproductive outcomes , and cancer .
+There are two main pathways of arsenic ( As ) metabolism in humans : the reduction reactions , and the oxidative methylation reactions , where methyl groups are attached to As compounds to form monomethylarsenate ( MMA ) and dimethylarsenate ( DMA ) .
+MMA , DMA , and In-As are excreted in urine .
+Urinary levels of another metalloid , selenium ( Se ) , have recently been shown to be associated with increased As excretion and altered metabolite distribution .
+This study investigates this association , using data collected in a larger prospective study of arsenic and reproductive effects in Chile .
+This analysis included 93 pregnant women from Antofagasta .
+Data on demographic , behavioral , and other characteristics were obtained via interviews conducted by trained midwives , and spot urine samples were analyzed for As and Se concentration using inductively coupled plasma-mass spectrometry ( ICP-MS ) .
+Urinary Se levels were found to be correlated with urinary As levels in bivariate analysis ( r = 0.68 , P < 0.01 ) .
+Multiple linear regression analyses revealed that higher urinary Se levels were associated with increased urinary As excretion , increased %DMA , and decreased %In-As .
+The results of this study suggest that in populations exposed to arsenic , Se intake may be correlated with urinary As excretion , and may alter As methylation .

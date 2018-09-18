@@ -1,0 +1,12 @@
+OBJECTIVES The possibly carcinogenic properties of naphthalene are , regarding to its ubiquitary presence , of environmental-medical and occupational-medical importance .
+Seven isomeric dihydroxynaphthalenes ( DHN ) were examined for their suitability as biomarkers in human biomonitoring and to get insights in human naphthalene metabolism .
+METHODS We developed a GC-MS-method for the quantification of 1,2- , 1,4- , 1,5- , 1,6- , 1,7- , 2,6- and 2,7-DHN after solid phase extraction and derivatization with BSA/TMCS .
+The internal burden of DHN after exposure to naphthalene was determined by measuring urine collected from smokers and non-smokers among the general population and among occupationally exposed persons .
+RESULTS The elaborated method can be regarded as specific and sensitive procedure to quantify the seven different DHN .
+In human urine , we detected 1,2-DHN as main metabolite in 54 of the 55 analysed samples .
+Median 1,2-DHN values ( range ) were 1012 \u03bcg/L ( 22-6477 \u03bcg/L ) for workers and 8 \u03bcg/L ( <LOD-62 \u03bcg/L ) for controls. 1,4- , 1,7- , 2,6- and 2,7-DHN were quantified in 61-89% of the samples ( range <LOD-113 \u03bcg/L). 1,5- and 1,6-DHN were not detected in human urine .
+In the urine samples of workers , median-concentrations of 1,2-DHN were about tenfold higher than those of the established biomarkers 1- and 2-naphthol , while in our control collective comparable concentration of 1,2-DHN and 1- and 2-naphthol were found. 1,2-DHN showed to be the most sensitive biomarker for an internal exposure to naphthalene .
+It is clearly superior to 1- and 2-naphthol which up till now have been used for biomonitoring purposes .
+Moreover 1,2-DHN is the precursor of the possibly ultimate carcinogenic metabolite of naphthalene , 1,2-naphthoquinone .
+This way the diagnostical reliability of 1,2-DHN predominates the other naphthalene metabolites .
+So out of analytical and diagnostical reasons 1,2-DHN seems to be the most promising biomarker for the estimation of environmentally and occupationally caused internal exposures to naphthalene .

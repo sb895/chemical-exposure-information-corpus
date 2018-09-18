@@ -1,0 +1,9 @@
+During the past decade , more research has focused on firefighters ' multiple exposures via multi-route exposure .
+Multi-route exposure can alter the kinetics of chemicals ; this has brought changes to the recommendations on biomonitoring .
+In addition , the possibility that the chemicals in smoke have additive and synergistic effects has not been consistently taken into account .
+In this study , biomonitoring and occupational hygienic measurements were used to determine smoke diving trainers ' exposure to smoke in conventional and modern simulators .
+Biological action limit values ( BALs ) for 1-hydroxypyrene , linked with the ratio of pyrene to benzo[a]pyrene , were established for conventional and modern simulator types .
+The additive and synergistic effects for the main compounds detected in the air during the suppression of a fire were also calculated .
+According to the biomonitoring results , dermal exposure played a role in exposure to polycyclic aromatic hydrocarbons ( PAHs ) , and it seemed to delay the excretion of 1-hydroxypyrene and 1-naphthol .
+The calculated BALs for 1-hydroxypyrene were 6 nmol/L and 53 nmol/L for the conventional and modern simulators , respectively .
+The combined cancer and eye disorders or upper respiratory tract irritation effects of volatile organic compounds ( VOCs ) in the conventional simulator were from 6.5 to 7.0-fold higher than in the modern simulator .

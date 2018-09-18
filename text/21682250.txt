@@ -1,0 +1,10 @@
+BACKGROUND Perfluorinated chemicals ( PFCs ) have been used widely in consumer products since the 1950s and are currently found at detectable levels in the blood of humans and animals across the globe .
+In stark contrast to this widespread exposure to PFCs , there is relatively little research on potential adverse health effects of exposure to these chemicals .
+OBJECTIVES We performed this cross-sectional study to determine if specific blood PFC levels are associated with impaired response inhibition in children .
+METHODS Blood levels of 11 PFCs were measured in children ( N = 83 ) and 6 PFCs : perfluorooctane sulfonate ( PFOS ) , perfluorohexane sulfate ( PFHxS ) , perfluorooctanoic acid ( PFOA ) , perfluorononanoic acid ( PFNA ) , perfluorooctanesulfonamide ( PFOSA ) , and perfluorodecanoic acid ( PFDA ) - were found at detectable levels in most children ( 87.5% or greater had detectable levels ) .
+These levels were analyzed in relation to the differential reinforcement of low rates of responding ( DRL ) task .
+This task rewards delays between responses ( i.e. , longer inter-response times ; IRTs ) and therefore constitutes a measure of response inhibition .
+RESULTS Higher levels of blood PFOS , PFNA , PFDA , PFHxS , and PFOSA were associated with significantly shorter IRTs during the DRL task .
+The magnitude of these associations was such that IRTs during the task decreased by 29-34% for every 1 SD increase in the corresponding blood PFC .
+CONCLUSIONS This study suggests an association between PFC exposure and children's impulsivity .
+Although intriguing , there is a need for further investigation and replication with a larger sample of children .

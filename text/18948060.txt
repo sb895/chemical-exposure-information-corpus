@@ -1,0 +1,6 @@
+The inorganic arsenic species As(III) , As(V) and the organic species methylarsonate ( MMA(V) ) , dimethylarsinate ( DMA(V) ) and arsenobetaine ( AsB ) were determined in human urine by a fast anion exchange HPLC-ICP-MS method , which was developed for clinical laboratories with high sample throughput .
+This paper compares typical chromatograms of the arsenic species in urine samples collected in different medical cases , for example , for the non-exposed population , for environmentally ( plant protectants ) and occupationally ( glass manufacture ) exposed persons , for a person after a failed suicide attempt with As2O3 and for persons before and after administration of the antidot sodium 2,3-dimercapto-1-propane-sulfonate ( DMPS ) .
+Concentration data of the urinary As species for the non-exposed German population ( n=82 ) are compared with the concentrations before and after administration of DMPS ( n=37 ) .
+For the non-exposed group the toxicologically relevant As in urine consists of 81% DMA(V) , 10% MMA(V) and 9% inorganic As .
+However , a few hours after an acute intoxication with inorganic As this distribution changes dramatically and As(III) and As(V) are predominantly found in urine .
+After treatment with DMPS the total As concentration increases significantly and mainly MMA(V) and As(III) were found in urine samples .

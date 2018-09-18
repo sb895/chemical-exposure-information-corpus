@@ -1,0 +1,7 @@
+Concentrations of 17 polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) and 12 dioxin-like polychlorinated biphenyls ( dl-PCBs ) were measured in 96 food composite samples from eight varieties of food groups from the Chinese total diet study ( TDS ) in 2007 .
+The concentrations of samples , expressed as WHO toxic equivalents ( TEQ ) , ranged from 0.001 pg TEQ g(-1) to 0.85 pg TEQ g(-1) ( fresh weight ) .
+Dietary intake of PCDD/Fs and dl-PCBs of 12 age/gender subgroups of the Chinese population subsequently estimated ranges from 15.4 pg TEQ kg(-1) bw month(-1) to 38.7 pg TEQ kg(-1) bw month(-1) for average population and from 68.5 pg TEQ kg(-1) bw month(-1) to 226.1 pg TEQ kg(-1) bw month(-1) for high consumers ( the 97.5th percentile ) .
+Dietary exposure of children ( mean : 32.5 pg TEQ kg(-1) bw month(-1) ) is significantly higher than that of the adults ( mean : 21.5 pg TEQ kg(-1) bw month(-1) ) ( p<0.01 ) presumably due to more food consumed by children relative to their body weight compared to adults .
+There is no difference of dietary exposure , expressed as pg TEQ kg(-1) bw , found between different genders .
+Across various regions in China , there are large differences of dietary exposure of adult population and pattern of contribution of food groups to total exposure due to different contamination level and food habits .
+Dietary exposures of average population of various subgroups were all below the PTMI recommended by JECFA , but those of higher consumers were found exceeding or comparable to the PTMI .

@@ -1,0 +1,8 @@
+BACKGROUND Except for the leukemogenic effects of benzene , there is inadequate or sparse evidence on the carcinogenicity of the most common monocyclic aromatic hydrocarbons .
+The purpose of this study was to generate hypotheses on associations between exposure to benzene , toluene , xylene , and styrene and various common types of cancer .
+METHODS In the context of a population-based case-control study carried out in Montreal , 3,730 cancer patients ( 15 types of cancers , not including leukemia ) and 533 population controls were interviewed , and their job histories were translated by a team of experts into occupational exposures , including benzene , toluene , xylene , and styrene .
+In the present analysis , exposure to these substances was compared between each case series and a control group pooling selected cancer patients and population controls , using logistic regression analysis .
+RESULTS Exposure levels were low for most exposed subjects , and there was a high correlation between exposure to benzene , toluene and xylene .
+For most sites of cancer there was no evidence of excess risk due to these substances .
+However , limited evidence of increased risk was found for the following associations : esophagus-toluene , colon-xylene , rectum-toluene , rectum-xylene and rectum-styrene .
+CONCLUSIONS These latter observations warrant further investigation .

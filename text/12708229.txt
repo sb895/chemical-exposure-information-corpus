@@ -1,0 +1,13 @@
+A prospective epidemiological study with respect to pyrethroid exposure was carried out combining clinical examination , indoor monitoring and biological monitoring .
+The results of the biological monitoring are presented .
+Biological monitoring was performed in 57 persons before ( T1 ) as well as 1 day ( T2 ) , 3 days ( T3 ) , 4-6 months ( T4 ) , and 10-12 months ( T5 ) following a pest control operation ( PCO ) with pyrethroid containing products such as cyfluthrin , cypermethrin , deltamethrin or permethrin .
+Pyrethroids in blood were measured by GC-ECD .
+The respective metabolities cis- and trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid ( DCCA ) , cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane carboxylic acid ( DBCA ) , 3-phenoxybenzoic acid ( 3-PBA ) and fluorophenoxybenzoic acid ( FPBA ) were measured in urine using GC/MS .
+For all cases the concentrations of pyrethroids in blood were found to be below the detection limit of 5 micrograms/l before and after the PCO .
+With a detection limit of 0.2 microgram/l of the investigated metabolites , the percentage of positive samples were 7% for cis-DCCA , 3.5% for trans-DCCA and 5.3% for 3-PBA before PCO .
+One day after PCO ( T2 ) the percentage of positive samples increased remarkably for cis-DCCA ( 21.5% ) , trans-DCCA ( 32.1% ) and 3-PBA ( 25% ) showing significantly increased internal doses as compared to pre-existing values .
+This holds also true for T3 , whereas at T4 and T5 the significant increase was no more present .
+FPBA and DBCA concentrations were below the respective detection limit before PCO and also in most cases after PCO .
+In 72% of the subjects the route of pyrethroid uptake ( measured by determining the DCCA isomeric ratio ) was oral/inhalative and in 28% it was dermal .
+Based on the biological monitoring data it could be shown that appropriately performed pest control operations lead to a significant increase of pyrethroid metabolite concentration in the early phase ( 1 and 3 days ) after pyrethroid application as compared to the pre-exposure values .
+However , evaluated metabolite concentrations 4-6 months after PCO did not exceed values of published background levels .

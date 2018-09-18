@@ -1,0 +1,6 @@
+OBJECTIVE To investigate changes in blood pressure , lipids , and sugar associated with changes in exposure to ambient air pollution .
+METHODS We conducted secondary analyses of blood pressure and biochemistry markers from Taiwanese Survey on Prevalence of Hyperglycemia , Hyperlipidemia , and Hypertension and air pollution monitoring data in 2002 by applying generalized additive models .
+RESULTS We observed increased particulate matter with aerodynamic diameters <10 microm was associated with elevated systolic blood pressure ( an interquartile range , 34 microg/m , for 0.47 mmHg ; 95% CI , -0.09 to 1.02 ) , triglyceride , apolipoprotein B , hemoglobin A1c , and reduced high-density lipoprotein cholesterol .
+Elevated ozone was associated with increased diastolic blood pressure , apolipoprotein B , and hemoglobin A1c .
+CONCLUSIONS Alterations of atherosclerotic indicators are associated with particulate matter with aerodynamic diameters <10 microm and ozone changes .
+This might provide a link between air pollution and progression of atherosclerotic cardiovascular diseases .

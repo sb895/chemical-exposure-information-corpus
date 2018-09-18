@@ -1,0 +1,11 @@
+Extensive human exposure to perfluoroalkyl compounds ( PFAA ) together with their persistence and various toxicities have arisen increasing concern .
+A noninvasive method would improve exposure assessment for large population , especially the children susceptible to contaminants .
+The aim of the study was to assess the use of PFAA measurements in human nails as a biomarker of exposure to PFAAs .
+Fingernail , toenail , and blood samples were collected from 28 volunteers .
+The PFAA concentrations were determined by high performance liquid chromatography-tandem mass spectrometry ( HPLC-MS/MS ) .
+Six PFAA were detected in nails , with perfluorooctane sulfonate ( PFOS ) being the compound with the highest median concentration ( 33.5 and 26.1 ng/g in fingernail and toenail , respectively ) .
+Followed was perfluorononanoate ( PFNA ) , with the median concentrations of 20.4 and 16.8 ng/g , respectively , in fingernail and toenail .
+Other PFAA detected were perfluorooctanoate ( PFOA ) , perfluorodecanoate ( PFDA ) , perfluorododecanoate ( PFDoA ) , and perfluorotetradecanoate ( PFTA ) , with median levels ranging between 0.19 and 8.94 ng/g .
+PFOS and PFNA concentrations in fingernail significantly correlated with those in serum .
+Fingernail PFOS and PFNA levels were 2.8 and 24.4 times , respectively , higher than the serum levels .
+The accumulation of PFAA in nails , together with its advantages in noninvasive sampling and ability of reflecting long-term exposure , made nails PFAA an attractive biomarker of exposure .

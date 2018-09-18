@@ -1,0 +1,9 @@
+Exposure to heavy metals from environmental tobacco smoke ( ETS ) was investigated in 23 children with asthma ( 8.4+/-3.7 yr ) .
+ETS exposure was assessed by an inquiry data-based exposure index , the urinary concentration of cotinine ( U-cotinine ; a major nicotine metabolite ) and the house dust ( fine and coarse fractions ) concentrations of nicotine at home .
+The corresponding concentrations of the heavy metals cadmium and lead in dust and urine ( U-Cd ; U-Pb ) were determined in the same samples .
+There were strong associations between the ETS exposure index and U-cotinine ( r(s)=0.62 ; P<0.002 ) and nicotine in house dust ( r(s)=0.77 ; P<0.001 ) .
+There was a strong positive correlation between lead and cadmium concentrations in both fine ( r(s)=0.86 ; P<0.001 ) and coarse dust ( r(s)=0.57 ; P=0.02 ) .
+Although , there was a tendency for a relation between nicotine and lead concentrations in fine dust ( r(s)=0.52 ; P=0.06 ) , no other significant associations were found between house dust metals and nicotine concentrations .
+U-Cd correlated well with U-cotinine ( r(s)=0.50 ; P=0.02 ) .
+Further , U-Pb were associated with U-cotinine , however not statistically significant ( r(s)=0.41 ; P=0.06 ) .
+A probable explanation is a direct inhalation of side-stream smoke containing heavy metals and/ or an increased pulmonary uptake , due to a small airways disease in children with asthma .

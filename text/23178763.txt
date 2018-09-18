@@ -1,0 +1,9 @@
+BACKGROUND Children are susceptible to mercury toxicity , and mercury has immunomodulatory effects .
+Lower folate and B-12 , and higher homocysteine may represent susceptibility cofactors .
+A large proportion of variability in rubella immune response is attributable to environmental factors .
+OBJECTIVE This study aimed to evaluate the interaction between total blood mercury ( Hg ) and nutritional and homocysteine status on rubella virus antibody concentrations .
+DESIGN Cross-sectional data on rubella IgG antibody concentrations , Hg , homocysteine , methylmalonic acid ( MMA , an indicator of B-12 deficiency ) , and folate were obtained from 2003-2004 NHANES for children aged 6-11 years with rubella seropositivity ( n=690 ) .
+Linear regression was used to evaluate relationships between log-transformed rubella concentrations and Hg , stratified by sex , MMA \u2265 , folate< , and homocysteine \u2265 sample medians , adjusted for demographic and nutritional cofactors .
+RESULTS Hg was significantly positively associated with rubella antibody concentrations ( \u03b2=0.24 ; 95% confidence interval ( CI)=0.11 , 0.38 ) in children with higher MMA , lower folate and higher homocysteine ( n=110 ) , yet inversely associated among all other children ( \u03b2=-0.18 ; 95% CI=-0.34 , -0.03 ) ( n=580 ) .
+Among the former , estimates ( \u03b2 ) were positive across all Hg quartiles relative to the lowest ( Q1 ) ( Hg<0.30 \u03bcg/L ) : Q2 : \u03b2=0.23 ( -.10 , 0.56 ) ; Q3 : \u03b2=0.35 ( 0.13 , 0.57 ) ; Q4 : \u03b2=0.53 ( 0.21 , 0.84 ) ; P(trend)<0.01 .
+CONCLUSION Findings are consistent with previously reported associations between Hg and measles antibody concentrations , and highlight the importance of considering dynamics between toxicant exposures , pathogens and host susceptibility .

@@ -1,0 +1,13 @@
+OBJECTIVES While many studies have assessed the health impacts of PCDD/Fs and PCBs on animals and humans , long-term consequences for especially adolescents , have not ( yet ) been well documented .
+This is certainly also true for the effects of PBDE exposure .
+As part of a longitudinal cohort study , now well into its second decade , effects of perinatal and current PCDD/F exposure , as well as current dl-PCB and PBDE exposures , on puberty , were assessed .
+STUDY DESIGN Prenatal , lactational and current PCDD/F , dl-PCB and PBDE concentrations were determined using GC-MS .
+Pubertal development and growth were assessed by means of physical examination and the Tanner scale. 33 Children ( born between 1986 and 1991 ) consented to the current follow-up study .
+Outcomes were evaluated using linear regression or the non parametric Spearman's correlation coefficient .
+RESULTS A delay in initiation of breast development was found in girls ( n = 18 ) with higher prenatal ( p = 0.023 ) and lactational PCDD/F exposure ( p = 0.048 ) .
+The males revealed a negative trend with age at first ejaculation .
+For other endpoints on puberty and growth ( pubic hair , axillary hair , genital stage , length , BMI , testicular volume , menarche ) no significant relation was found with any of the measured compounds .
+DISCUSSION AND CONCLUSION A relation between prenatal PCDD/F exposure and later initiation of breast development was seen .
+A Belgian study found a delay in breast development with higher current serum concentrations of dioxin-like compounds .
+The initiation of puberty is a complex process and it is yet not clear how dioxin-like compounds precisely affect this process prenatally .
+Further follow-up into adulthood is warranted , in order to detect the possibility of developing malignancies and fertility problems .

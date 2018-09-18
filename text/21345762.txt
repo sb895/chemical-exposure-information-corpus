@@ -1,0 +1,12 @@
+BACKGROUND Human exposure to polychlorinated biphenyls ( PCBs ) remains widespread .
+PCBs have been associated with adverse reproductive health outcomes including reduced fecundability and increased risk of pregnancy loss , although the human data remain largely inconclusive .
+OBJECTIVE Our goal was to explore the relationship between serum PCB concentrations and early pregnancy loss among a large cohort of women undergoing in vitro fertilization ( IVF ) between 1994 and 2003 .
+METHODS Concentrations of 57 PCB congeners were measured in serum samples collected during 827 IVF/intracytoplasmic sperm injection cycles from 765 women .
+Joint statistical models that accommodate multiple outcomes and multiple cycles per woman were used to assess the relationship between serum PCB quartiles and implantation failure , chemical pregnancies ( human chorionic gonadotropin level > 5.0 mIU/mL ) that did not result in clinical pregnancy , or spontaneous abortion , while also adjusting for confounders .
+RESULTS PCB-153 was the congener present in the highest concentration ( median , 46.2 ng/g lipid ) .
+Increasing quartiles of PCB-153 and the sum of all measured PCB congeners ( \u03a3PCBs ) were associated with significantly elevated dose-dependent odds of failed implantation .
+Adjusted odds ratios ( 95% confidence interval ) for highest versus lowest quartile were 2.0 ( 1.2-3.4 ) for PCB-153 and 1.7 ( 1.0-2.9 ) for \u03a3PCBs .
+There were suggestive trends for increased odds of implantation failure for PCB-118 and cytochrome P450-inducing congeners ( p-values for trend = 0.06 ) .
+No statistically significant associations between PCBs and chemical pregnancy or spontaneous abortion were found .
+CONCLUSIONS Serum PCB concentrations at levels similar to the U.S. general population were associated with failed implantation among women undergoing IVF .
+These findings may help explain previous reports of reduced fecundability among women exposed to PCBs .

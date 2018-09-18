@@ -1,0 +1,8 @@
+This is a follow up survey of exposure to 4,4'-methylene-bis(2-chloroaniline) ( MbOCA ) and isocyanates in the UK polyurethane industry .
+Urine samples ( n=446 ) were collected from 90 different workers .
+MbOCA levels were below the limit of detection in 170 samples and 26 were above the UK Biological Monitoring Guidance Value ( BMGV ) of 15 \u03bcmol MbOCA/mol creatinine .
+Detailed advice and guidance was given to each workplace at the end of the survey in 2008 and the 90% value reduced from 10 to 3 \u03bcmol MbOCA/mol creatinine in samples collected since .
+There was a positive correlation between glove contamination and urinary MbOCA and levels were dependent upon individual working practices especially how gloves were used .
+Of the 446 samples analysed for urinary metabolites of toluene diisocyanate 280 were below the detection limit and 126 were above the BMGV ( 1 \u03bcmol/mol creatinine ) .
+Of the 326 urine samples that were analysed for metabolites of methylenediphenyl diisocyanate , 270 were below the detection limit and 13 were above the BMGV for isocyanates .
+There was no correlation between urinary levels of isocyanates and MbOCA suggesting different routes of absorption , most likely inhalation and dermal respectively .

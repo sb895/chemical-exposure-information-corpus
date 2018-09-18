@@ -1,0 +1,10 @@
+Human hair as a biologic measure of exposure to persistent organic pollutants ( POPs ) has some advantages over the more commonly used blood and adipose tissue samples .
+However , one of the primary limitations is the difficulty in distinguishing between exogenous and endogenous contamination .
+In addition , there are currently no standardized methods for hair sample collection , washing , and chemical analysis .
+There is also very limited information describing the correlation between levels of organic contaminants in hair and other body compartments .
+To explore levels of POPs in blood and hair , samples from 10 volunteers were collected and analyzed for select organochlorine pesticides and 57 individual polychlorinated biphenyl ( PCB ) congeners .
+We demonstrated that the method for analyzing organic contaminants in human hair was reliable and reproducible .
+Washing hair with shampoo decreased levels of PCBs , pesticides , and lipids by 25-33% on average and up to 62% for low-chlorinated congeners .
+The percentage of lipids and the levels of organochlorines in hair were higher than in serum .
+We found strong correlation ( r = 0.8 ) between p,p -DDE ( dichlorodiphenyldichloroethylene ) levels in hair and blood and moderate correlations for the more persistent PCB congeners , but no correlations or weak correlations for other organochlorines .
+The present study provides preliminary evidence on the utility of hair analysis for POPs ; however , further larger studies are recommended before hair analysis can be successfully applied in epidemiologic studies on POPs .

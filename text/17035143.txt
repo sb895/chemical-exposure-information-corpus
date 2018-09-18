@@ -1,0 +1,13 @@
+BACKGROUND The Toxics Exposure Assessment Columbia-Harvard ( TEACH ) project assessed exposures and cancer risks from urban air pollutants in a population of high school teenagers in New York City ( NYC ) and Los Angeles ( LA ) .
+Forty-six high school students participated in NYC and 41 in LA , most in two seasons in 1999 and 2000 , respectively .
+METHODS Personal , indoor home , and outdoor home 48-hr samples of volatile organic compounds ( VOCs ) , aldehydes , particulate matter with aerodynamic diameter < or = 2.5 microm , and particle-bound elements were collected .
+Individual cancer risks for 13 VOCs and 6 particle-bound elements were calculated from personal concentrations and published cancer unit risks .
+RESULTS The median cumulative risk from personal VOC exposures for this sample of NYC high school students was 666 per million and was greater than the risks from ambient exposures by a factor of about 5 .
+In the LA sample , median cancer risks from VOC personal exposures were 486 per million , about a factor of 4 greater than ambient exposure risks .
+The VOCs with the highest cancer risk included 1,4-dichlorobenzene , formaldehyde , chloroform , acetaldehyde , and benzene .
+Of these , benzene had the greatest contributions from outdoor sources .
+All others had high contributions from indoor sources .
+The cumulative risks from personal exposures to the elements were an order of magnitude lower than cancer risks from VOC exposures .
+CONCLUSIONS Most VOCs had median upper-bound lifetime cancer risks that exceeded the U.S. Environmental Protection Agency ( EPA ) benchmark of 1 x 10-6 and were generally greater than U.S. EPA modeled estimates , more so for compounds with predominant indoor sources .
+Chromium , nickel , and arsenic had median personal cancer risks above the U.S. EPA benchmark with exposures largely from outdoors and other microenvironments .
+The U.S. EPA-modeled concentrations tended to overestimate personal cancer risks for beryllium and chromium but underestimate risks for nickel and arsenic .

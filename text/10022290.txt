@@ -1,0 +1,8 @@
+Neurobehavioral effects of polychlorinated biphenyls ( PCBs ) at environmental levels of exposure have been reported in cross-sectional and prospective studies in infants and children .
+However , observations differ for effect spectrum , persistence and effective matrix ( cord plasma , maternal plasma or milk ) .
+In order to improve risk assessment by clarifying some of these uncertainties , a European multicentric study was set up .
+Results from the German ( Düsseldorf ) cohort covering 171 healthy mother-infant pairs are given .
+The sum of PCB congeners 138 , 153 and 180 ( sigma PCB ) in cord plasma and maternal milk was used to describe neonatal PCB exposure .
+Mean sigma PCB-concentrations were 0.55 ng/ml in cord plasma and 427 ng/g fat in breastmilk .
+This report covers the Bayley II mental ( MDI ) and psychomotor development index ( PDI ) as well as the Fagan Test of Infant Intelligence ( Visual Recognition Memory ) taken at 7 months of age in relation to neonatal sigma PCB .
+After confounder-adjustment significant negative associations were found between sigma PCB in milk and MDI ( P < 0.05 ) , whereas the other associations proved insignificant .

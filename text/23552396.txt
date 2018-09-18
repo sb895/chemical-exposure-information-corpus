@@ -1,0 +1,11 @@
+BACKGROUND Altered DNA methylation has been associated with various diseases .
+OBJECTIVE We evaluated the association between levels of methylation in leukocyte DNA at long interspersed nuclear element 1 ( LINE-1 ) and genetic and non-genetic characteristics of 892 control participants from the Spanish Bladder Cancer/EPICURO study .
+METHODS We determined LINE-1 methylation levels by pyrosequencing .
+Individual data included demographics , smoking status , nutrient intake , toenail concentrations of 12 trace elements , xenobiotic metabolism gene variants , and 515 polymorphisms among 24 genes in the one-carbon metabolism pathway .
+To assess the association between LINE-1 methylation levels ( percentage of methylated cytosines ) and potential determinants , we estimated beta coefficients ( \u03b2s ) by robust linear regression .
+RESULTS Women had lower levels of LINE-1 methylation than men ( \u03b2 = -0.7 , p = 0.02 ) .
+Persons who smoked blond tobacco showed lower methylation than nonsmokers ( \u03b2 = -0.7 , p = 0.03 ) .
+Arsenic toenail concentration was inversely associated with LINE-1 methylation ( \u03b2 = -3.6 , p = 0.003 ) .
+By contrast , iron ( \u03b2 = 0.002 , p = 0.009 ) and nickel ( \u03b2 = 0.02 , p = 0.004 ) were positively associated with LINE-1 methylation .
+Single nucleotide polymorphisms ( SNPs ) in DNMT3A ( rs7581217-per allele , \u03b2 = 0.3 , p = 0.002 ) , TCN2 ( rs9606756-GG , \u03b2 = 1.9 , p = 0.008 ; rs4820887-AA , \u03b2 = 4.0 , p = 4.8 × 10-7 ; rs9621049-TT , \u03b2 = 4.2 , p = 4.7 × 10-9 ) , AS3MT ( rs7085104-GG , \u03b2 = 0.7 , p = 0.001 ) , SLC19A1 ( rs914238 , TC vs. TT : \u03b2 = 0.5 and CC vs. TT : \u03b2 = -0.3 , global p = 0.0007 ) and MTHFS ( rs1380642 , CT vs. CC : \u03b2 = 0.3 and TT vs. CC ; \u03b2 = -0.8 , global p = 0.05 ) were associated with LINE-1 methylation .
+CONCLUSIONS We identified several characteristics , environmental factors , and common genetic variants that predicted DNA methylation among study participants .

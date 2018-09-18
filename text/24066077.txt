@@ -1,0 +1,11 @@
+The worldwide financial crisis during recent years has raised concerns of negative public health effects .
+This is notably evident in southern Europe .
+In Greece , where the financial austerity has been especially pronounced , the prevalence of mental health problems including depression and suicide has increased , and outbreaks of infectious diseases have risen .
+The main objective in this study was to investigate whether different indicators of health and stress levels measured by a new biomarker based on cortisol in human hair were different amongst comparable Greek and Swedish young adults , considering that Sweden has been much less affected by the recent economic crises .
+In this cross-sectional comparative study , young adults from the city of Athens in Greece ( n = 124 ) and from the city of Linkoping in Sweden ( n = 112 ) participated .
+The data collection comprised answering a questionnaire with different health indicators and hair samples being analyzed for the stress hormone cortisol , a biomarker with the ability to retrospectively measure long-term cortisol exposure .
+The Greek young adults reported significantly higher perceived stress ( p<0.0001 ) , had experienced more serious life events ( p = 0.002 ) , had lower hope for the future ( p<0.0001 ) , and had significantly more widespread symptoms of depression ( p<0.0001 ) and anxiety ( p<0.0001 ) than the Swedes .
+But , the Greeks were found to have significantly lower cortisol levels ( p<0.0001 ) than the Swedes , and this difference was still significant in a multivariate regression ( p<0.0001 ) , after adjustments for potential intervening variables .
+A variety of factors related to differences in the physical or socio-cultural environment between the two sites , might possibly explain this finding .
+However , a potential biological mechanism is that long-term stress exposure could lead to a lowering of the cortisol levels .
+This study points out a possible hypothesis that the cortisol levels of the Greek young adults might have been suppressed and their HPA-axis down-regulated after living in a stressful environment with economic and social pressure .

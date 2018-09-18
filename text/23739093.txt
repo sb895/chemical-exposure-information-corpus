@@ -1,0 +1,12 @@
+We characterized flame retardant ( FR ) morphologies and spatial distributions in 7 consumer products and 7 environmental dusts to determine their implications for transfer mechanisms , human exposure , and the reproducibility of gas chromatography-mass spectrometry ( GC-MS ) dust measurements .
+We characterized individual particles using scanning electron microscopy/energy dispersive x-ray spectroscopy ( SEM/EDS ) and Raman micro-spectroscopy ( RMS ) .
+Samples were screened for the presence of 3 FR constituents ( bromine , phosphorous , non-salt chlorine ) and 2 metal synergists ( antimony and bismuth ) .
+Subsequent analyses of select samples by RMS enabled molecular identification of the FR compounds and matrix materials .
+The consumer products and dust samples possessed FR elemental weight percents of up to 36% and 31% , respectively .
+We identified 24 FR-containing particles in the dust samples and classified them into 9 types based on morphology and composition .
+We observed a broad range of morphologies for these FR-containing particles , suggesting FR transfer to dust via multiple mechanisms .
+We developed an equation to describe the heterogeneity of FR-containing particles in environmental dust samples .
+The number of individual FR-containing particles expected in a 1-mg dust sample with a FR concentration of 100ppm ranged from <1 to >1000 particles .
+The presence of rare , high-concentration bromine particles was correlated with decabromodiphenyl ether concentrations obtained via GC-MS .
+When FRs are distributed heterogeneously in highly concentrated dust particles , human exposure to FRs may be characterized by high transient exposures interspersed by periods of low exposure , and GC-MS FR concentrations may exhibit large variability in replicate subsamples .
+Current limitations of this SEM/EDS technique include potential false negatives for volatile and chlorinated FRs and greater quantitation uncertainty for brominated FR in aluminum-rich matrices .

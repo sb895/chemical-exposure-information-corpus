@@ -1,0 +1,10 @@
+The aim of the present study was to model apparent serum half-lives of polybrominated diphenyl ethers ( PBDEs ) with 7-10 bromine substituents .
+Workers with occupational exposure to PBDEs have elevated serum levels of PBDEs , but these substances are also found in the general population and are ubiquitous environmental contaminants .
+The calculations were based on exposure assessments of rubber workers ( manufactured flame-retarded rubber compound ) and electronics dismantlers who donated blood during a period with no work-related exposures to PBDEs , and referents without any known occupational exposure ( clerks , cleaners , and abattoir workers ) .
+The workers had previously been found to have elevated levels of high- and medium-brominated diphenyl ethers compared with the referent populations .
+We performed nonlinear mixed-effects modeling of kinetics , using data from previous and present chemical analyses .
+The calculated apparent half-life for decabromodiphenyl ether ( BDE-209 ) was 15 days ( 95% confidence interval , 11-18 days ) .
+The three nona-BDEs and four octa-BDE congeners were found to have half-lives of 18-39 and 37-91 days , respectively .
+BDE-209 has a short half-life in human blood .
+Because BDE-209 is commonly present in humans in general , the results of this study imply that humans must be more or less continuously exposed to BDE-209 to sustain the serum concentrations observed .
+BDE-209 is more readily transformed and/or eliminated than are lower brominated diphenyl ether congeners , and human health risk must be assessed accordingly .

@@ -1,0 +1,14 @@
+BACKGROUND In Spain , few studies have evaluated prenatal exposure to heavy metals .
+The objective of this study was to describe lead , mercury and cadmium concentrations in blood from a sample of newborn-mother-father trios , as well as to investigate the association between metals in cord blood and parental variables .
+We also explored the relationship between cord blood metal concentrations and child characteristics at birth .
+METHODS Metal correlations among family members were assessed using Spearman Rank Correlation Coefficient .
+Linear regression was used to explore the association between parental variables and log-transformed cord blood lead and cord blood mercury concentrations .
+In the case of cadmium , tobit regression was used due to the existence of samples below the detection limit .
+The association between cord blood metal concentrations and child characteristics at birth was evaluated using linear regression .
+RESULTS Geometric means for lead , mercury and cadmium were 14.09\u03bcg/L , 6.72\u03bcg/L and 0.27\u03bcg/L in newborns ; 19.80\u03bcg/L , 3.90\u03bcg/L and 0.53\u03bcg/L in pregnant women ; and 33.00\u03bcg/L , 5.38\u03bcg/L and 0.49\u03bcg/L in men .
+Positive correlations were found between metal concentrations among members of the trio .
+Lead and cadmium concentrations were 15% and 22% higher in newborns from mothers who smoked during pregnancy , while mercury concentrations were 25% higher in newborns from mothers with greater fish intake .
+Cord-blood lead levels showed seasonal periodicity , with lower concentrations observed in winter .
+Cord blood cadmium concentrations over 0.29\u03bcg/L were associated with lower 1-minute and 5-minute Apgar scores .
+CONCLUSIONS These results reinforce the need to establish biomonitoring programs in Spain , and provide support for tobacco smoke and fish consumption as important preventable sources of heavy metal exposure in newborns .
+Additionally , our findings support the hypothesis that cadmium exposure might be deleterious to fetal development .

@@ -1,0 +1,12 @@
+INTRODUCTION Increasing awareness of the potential chronic health effects of arsenic ( As ) at low exposure levels has motivated efforts to better understand impaired child development during pregnancy by biomarkers of exposure .
+The aims of this study were to evaluate the prenatal exposure to As by analysis of an alternative matrix ( meconium ) , to examine its effects on neonatal outcomes and investigate the association with maternal lifestyle and dietary habits during pregnancy .
+METHODS A transversal descriptive study was conducted in Tenerife ( Spain ) .
+A total of 96 mother-child pairs participated in the study .
+A questionnaire on sociodemographic , lifestyle and dietary habits during pregnancy was administered the day after the delivery .
+Analysis of total As in meconium was performed by inductively coupled plasma-optical emission spectrometer .
+RESULTS Total As was detected in 37 ( 38.5% ) meconium samples .
+The univariate logistic regression model indicates that prenatal exposure to As was associated with a low intake of eggs per week ( OR 0.56 ; CI ( 95% ) : 0.34-0.94 ) during pregnancy .
+Conversely , frequent intake of vegetables was associated with prenatal As exposure ( OR : 1.19 ; CI ( 95% ) : 1.01-1.41 ) and frequent intake of processed meat ( as bacon , Frankfurt's sausage , and hamburger ) shows a trend to As prenatal exposure ( OR : 8.54 ; CI ( 95% ) : 0.80-90.89 ) .
+The adjusted multivariate logistic regression model indicates that only frequent intake of vegetables maintains the association ( OR : 1.31 ; CI ( 95% ) : 1.02-1.68 ) .
+CONCLUSION The studied population presented a low As exposure and was not associated with neonatal effects .
+Maternal consumption of vegetables during pregnancy was associated with detectable meconium As levels ; however the concentration detected in meconium was too low to be considered a major public health concern in this geographical area .

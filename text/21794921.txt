@@ -1,0 +1,12 @@
+4-Nonylphenol ( 4-NP ) , bisphenol-A ( BPA ) and triclosan ( TCS ) are three industrial chemicals used widely in daily products .
+This study investigated 4-NP , BPA and TCS levels in urine samples of 287 children and students aged from 3 to 24 years old in Guangzhou , China .
+Total ( free and conjugated ) amounts of 4-NP , BPA and TCS in the urine samples were detected using gas chromatography-mass spectrometry with negative chemical ionization .
+The detection rates of 4-NP , BPA and TCS were 100% , 100% and 93% respectively , given the detection limits of 3.8 , 0.5 and 0.9 ng/L respectively .
+Data for 4-NP , BPA and TCS were presented in both creatinine-adjusted ( microgram per gram creatinine ) and unadjusted ( microgram per liter ) urinary concentrations .
+The geometric mean ( GM ) concentrations of urinary 4-NP , BPA and TCS were 15.92 \u03bcg/g creatinine ( 17.40 \u03bcg/L ) , 2.75 \u03bcg/g creatinine ( 3.00 \u03bcg/L ) and 3.55 \u03bcg/g creatinine ( 3.77 \u03bcg/L ) respectively .
+Multiple regression models considering age , gender , preferred drinking bottle and log-transformed creatinine were used to calculate the adjusted least square geometric mean ( LSGM ) .
+Among these subjects , the females had higher LSGM concentrations of 4-NP , BPA and TCS than the males ; and the only statistically significant difference was found for the LSGM concentrations of triclosan ( p=0.031 ) .
+Participants who reported to use ceramic cups more frequently had significantly lower LSGM concentrations of BPA than those who used plastic cups ( p=0.037 ) .
+Meanwhile , a three-week test of using polycarbonate bottles and ceramic cups to drink bottled water and boiled tap-water was carried out among 12 graduate students of 25 years old .
+The GM concentrations of urinary BPA at the end of the first week after using ceramic cups to drink bottled water were 7.16 \u03bcg/g creatinine , then decreased significantly to 3.49 \u03bcg/g creatinine after the second week of using ceramic cups to drink boiled tap-water ( p<0.05 ) , and finally increased to 4.15 \u03bcg/g creatinine after the third week of using polycarbonate bottles in drinking boiled tap-water .
+The results indicate that in daily life the use of polycarbonate bottles or drinking of bottled water is likely to increase the ingestion of BPA , resulting in an increase in urinary BPA levels .

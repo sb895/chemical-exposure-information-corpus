@@ -1,0 +1,13 @@
+OBJECTIVE To reduce arsenic ( As ) exposure , we evaluated the effectiveness of training community members to perform water arsenic ( WAs ) testing and provide As education compared to sending representatives from outside communities to conduct these tasks .
+METHODS We conducted a cluster based randomized controlled trial of 20 villages in Singair , Bangladesh .
+Fifty eligible respondents were randomly selected in each village .
+In 10 villages , a community member provided As education and WAs testing .
+In a second set of 10 villages an outside representative performed these tasks .
+RESULTS Overall , 53% of respondents using As contaminated wells , relative to the Bangladesh As standard of 50\u2009\u03bcg/L , at baseline switched after receiving the intervention .
+Further , when there was less than 60% arsenic contaminated wells in a village , the classification used by the Bangladeshi and UNICEF , 74% of study households in the community tester villages , and 72% of households in the outside tester villages reported switching to an As safe drinking water source .
+Switching was more common in the outside-tester ( 63% ) versus community-tester villages ( 44% ) .
+However , after adjusting for the availability of arsenic safe drinking water sources , well switching did not differ significantly by type of As tester ( Odds ratio = 0.86[95% confidence interval 0.42-1.77 ) .
+At follow-up , among those using As contaminated wells who switched to safe wells , average urinary As concentrations significantly decreased .
+CONCLUSION The overall intervention was effective in reducing As exposure provided there were As-safe drinking water sources available .
+However , there was not a significant difference observed in the ability of the community and outside testers to encourage study households to use As-safe water sources .
+The findings of this study suggest that As education and WAs testing programs provided by As testers , irrespective of their residence , could be used as an effective , low cost approach to reduce As exposure in many As-affected areas of Bangladesh .

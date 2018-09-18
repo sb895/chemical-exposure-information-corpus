@@ -1,0 +1,8 @@
+Hettstedt , a city in eastern Germany with a long history of mining and smelting of non-ferrous ores , has multiple lead waste deposits and the remains of a former lead smelter and a copper-silver smelter .
+As part of a cross-sectional study , an analysis of lead concentrations in drinking water and in blood was undertaken to determine the impact of lead in drinking water on the internal burden of lead in children .
+The geometric mean of blood lead levels among children 5-14 years old was 35.0 micrograms/l with a 95% confidence interval ( C.I. ) of 33.4-36.7 .
+The geometric mean of lead in the random tap water samples was 0.5 microgram/l ( 95% C.I. , 0.5-0.6 ) and 0.7 microgram/l ( 95% C.I. , 0.6-0.8 ) in the stagnant tap water samples .
+Blood lead levels were somewhat correlated with the random water measures but not the stagnant water measures ( random sample : r = 0.12 , P = 0.012 ; stagnant sample : r = 0.04 , P = 0.396 ) .
+After adjustment for relevant confounders , lead in drinking water ( random sample ) was not significantly associated with blood lead levels .
+Factors that were significantly associated with blood lead included gender , the city area of residence , lead in house dust , regular contact with dogs and dirtiness of the child after playing outdoors .
+Based on this study , lead in domestic tap water contributed little to the lead exposure of children in the lead contaminated region of Hettstedt .

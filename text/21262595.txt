@@ -1,0 +1,14 @@
+BACKGROUND Preterm delivery and preeclampsia are common adverse pregnancy outcomes that have been inconsistently associated with ambient air pollutant exposures .
+OBJECTIVES We aimed to prospectively examine relations between exposures to ambient carbon monoxide ( CO ) and fine particulate matter [ \u2264 2.5 \u03bcm in aerodynamic diameter ( PM2.5) ] and risks of preeclampsia and preterm delivery .
+METHODS We used data from 3,509 western Washington women who delivered infants between 1996 and 2006 .
+We predicted ambient CO and PM2.5 exposures using regression models based on regional air pollutant monitoring data .
+Models contained predictor terms for year , month , weather , and land use characteristics .
+We evaluated several exposure windows , including prepregnancy , early pregnancy , the first two trimesters , the last month , and the last 3 months of pregnancy .
+Outcomes were identified using abstracted maternal medical record data .
+Covariate information was obtained from maternal interviews .
+RESULTS Predicted periconceptional CO exposure was significantly associated with preeclampsia after adjustment for maternal characteristics and season of conception [ adjusted odds ratio ( OR ) per 0.1 ppm=1.07 ; 95% confidence interval ( CI ) , 1.02-1.13 ] .
+However , further adjustment for year of conception essentially nullified the association ( adjusted OR=0.98 ; 95% CI , 0.91-1.06 ) .
+Associations between PM2.5 and preeclampsia were nonsignificant and weaker than associations estimated for CO , and neither air pollutant was strongly associated with preterm delivery .
+Patterns were similar across all exposure windows .
+CONCLUSIONS Because both CO concentrations and preeclampsia incidence declined during the study period , secular changes in another preeclampsia risk factor may explain the association observed here .
+We saw little evidence of other associations with preeclampsia or preterm delivery in this setting .

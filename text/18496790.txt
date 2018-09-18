@@ -1,0 +1,10 @@
+BACKGROUND A 5-year longitudinal study examined nonmalignant respiratory effects of wood processing dust exposure .
+METHODS Ten study plants , investigator selected from 447 candidate plants , included 1 sawmill-planing-plywood , 1 plywood , 1 milling , 3 cabinet and 4 furniture facilities .
+Personal dust samples ( 2363 ) were divided into three size fractions ( extrathoracic , tracheobronchial , and respirable ) which were apportioned into wood solids ( WS ) and residual particulate matter ( RPM ) , and used to compute each individuals TWA exposure for the 6 exposure types .
+Serial spirometric tests and medical , smoking and occupational questionnaires were collected with 1,164 subjects having adequate follow-up ( minimum 3 datapoints over at least 2.5 years ) for analyses .
+Forward selection regression was used to evaluate the effect of exposure on annual change in FEV(1) , FVC , FEF(25-75) , and FEV(1)/FVC .
+RESULTS There were no significant adverse effects of WS exposures ( overall means were 0.66 , 0.32 , and 0.05 mg/m(3) , for extrathoracic , tracheobronchial , and respirable fractions , respectively ) .
+Statistically significant effects were only to respirable RPM in the milling facility ( mean exposures of 0.147 mg/m(3) associated with changes in FEV(1) = -32 ml/year , FEV(1)/FVC = -0.48%/year , and FEF(25-75) = -0.11 l/s/year ) and in the sawmill-planing-plywood facility ( mean exposures of 0.255 mg/m(3) associated with changes in FEV(1) = -59 ml/year and FVC = -103 ml/year ) .
+CONCLUSION Exposure to WS was not associated with significant adverse effects .
+Respirable RPM was associated with an obstructive effect in the milling facility , and respirable RPM was also associated with a restrictive effect in the sawmill-planing plywood facility .
+Finally , this study does not exclude the possibility that other exposures common to this industry can cause respiratory effects , only that none were noted in this population for wood solids for the exposure levels and durations studied .

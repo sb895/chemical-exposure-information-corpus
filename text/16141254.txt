@@ -1,0 +1,19 @@
+Acrylamide has a range of toxicological hazards including neurotoxicity and reproductive toxicity ; however , occupational risk management is driven by its genotoxic and carcinogenic potential ( it is classified within the EU as a Category 2 carcinogen , R45 and Category 2 mutagen , R46 ) .
+Since there is the potential for skin absorption and systemic toxicity , biological monitoring may be a useful aid for the assessment of exposure via inhalation , ingestion and dermal absorption .
+However , there are currently no biological monitoring guidance values ( BMGVs ) .
+This study describes an extensive survey of potential workplace exposure to acrylamide at the Ciba ( Bradford ) site to gather data suitable for a BMGV .
+This manufacturing site is typical within the industry as a whole and includes a cross section of activities and tasks representative of acrylamide exposure .
+Acrylamide is used in the manufacture of polyacrylamide based products for applications in water treatment ; oil and mineral extraction ; paper , paint and textile processes .
+Workers ( 62 plus 6 controls ) with varying potential exposures provided a total of 275 pre shift and 247 post-shift urine samples along with 260 personal air samples .
+A small non-exposed control group was similarly monitored .
+Urine samples were analysed for S-carboxyethyl-cysteine ( CEC ) .
+Airborne , surface and glove samples were analysed for acrylamide .
+Inhalation exposures were well controlled with values consistently below one-tenth of the UK Workplace Exposure Limit .
+Engineering controls , personal protective equipment and work practice , all contributed to good control of occupational exposure .
+CEC was found in urine samples from both exposed workers and non-occupationally exposed controls .
+At the low levels of exposure found , smoking made a significant contribution to urinary CEC levels .
+Nevertheless a correlation between urinary CEC and airborne acrylamide was found .
+A mixed effects model incorporating inhalation concentrations of acrylamide and smoking habits could predict some of the variation in observed post-shift urine results but could be improved through the use of additional surface contamination data .
+However , the data does not suggest that dermal absorption was a major contributor to the systemic dose .
+Based on the 90th percentile of the data , inclusive of the effects of smoking and environmental factors , a value of 4 mmol mol(-1) creatinine is proposed as a pragmatic BMGV associated with good occupational hygiene practice and control of workplace exposure .
+CEC in urine analysis has the utility for routine use as a means to estimate biological uptake where there is a potential for significant exposure or loss of workplace control .

@@ -1,0 +1,9 @@
+Polychlorinated biphenyls ( PCBs ) have been in widespread industrial use in the 1960s and 1970s .
+Despite a worldwide reduction , environmental exposure remains an issue especially in contaminated buildings .
+Due to the ubiquitous presence and poor degradation of PCBs , public health concerns continue to exist ; however , evidence on the actual health effects of chronic low-dose exposure is scanty .
+The objective of the present study is an assessment of subjective complaints of exposed subjects in comparison to a non-exposed control group and their inter-relation to plasma levels of PCB congeners .
+The plasma concentrations of PCB congeners were measured in 583 subjects who had worked for an average of 14.7+/-9.6 years in a contaminated building in Germany , and 205 control subjects working in a non-contaminated building .
+Subjective complaints were assessed with the 24-item ' Giessen Subjective Complaints List ' ( GSCL-24 ) .
+The subjects under chronic low-dose exposure scored significantly higher values on all the GSCL subscales except ' stomach complaints ' in comparison to the non-exposed subjects and a ' normal ' sample derived from the literature .
+However , thorough statistical analysis revealed no correlation of symptoms and PCB congener plasma concentration ; the scores on the subscale ' exhaustion were even higher in subjects with low PCB concentration .
+Subjects working in a PCB-contaminated building report more subjective complaints in comparison to non-exposed subjects , but the complaints are not related to current PCB plasma concentrations .

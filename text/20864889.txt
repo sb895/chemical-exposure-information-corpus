@@ -1,0 +1,10 @@
+BACKGROUND Millions of people worldwide are drinking water with elevated arsenic concentrations .
+Epidemiologic studies , mainly cross-sectional in design , have suggested that arsenic in drinking water may affect pregnancy outcome and infant health .
+We assessed the association of arsenic exposure with adverse pregnancy outcomes and infant mortality in a prospective cohort study of pregnant women .
+METHODS A population-based , prospective cohort study of 2924 pregnant women was carried out during 2002-2004 in Matlab , Bangladesh .
+Spontaneous abortion was evaluated in relation to urinary arsenic concentrations at gestational week 8 .
+Stillbirth and infant mortality were evaluated in relation to the average of urinary arsenic concentrations measured at gestational weeks 8 and 30 .
+RESULTS : The odds ratio of spontaneous abortion was 1.4 ( 95% confidence interval [ CI ] = 0.96-2.2 ) among women with urine arsenic concentrations in the fifth quintile ( 249-1253 \u03bcg/L ; median = 382 \u03bcg/L ) , compared with women in the first quintile ( <33 \u03bcg/L ) .
+There was no clear evidence of increased rates of stillbirth .
+The rate of infant mortality increased with increasing arsenic exposure : the hazard ratio was 5.0 ( 95% CI = 1.4-18 ) in the fifth quintile of maternal urinary arsenic concentrations ( 268-2019 \u03bcg/L ; median = 390 \u03bcg/L ) , compared with the first quintile ( <38 \u03bcg/L ) .
+CONCLUSIONS We found evidence of increased risk of infant mortality with increasing arsenic exposure during pregnancy , with less evidence of associations with spontaneous abortion or stillbirth risk .

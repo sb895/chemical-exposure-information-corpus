@@ -1,0 +1,11 @@
+BACKGROUND Bisphenol A ( BPA ) is an endocrine disruptor that in animal studies can bind to the thyroid hormone receptor and affect thyroid function .
+Relevant epidemiologic studies are limited and results are inconsistent .
+We explored the relationship between urinary BPA and thyroid function in a Chinese population .
+METHODS The study population included 3394 subjects age 40 years or older who were enrolled in a population-based study from Songnan Community , Baoshan District , Shanghai , China , from June through August 2009 .
+We analyzed the association between urinary BPA and thyroid function using multivariate linear regression .
+Participants were further divided according to thyroid function status , and logistic regression was applied to determine the relationship between urinary BPA and thyroid function .
+RESULTS Each one-quartile increase in BPA was related to an increase of 0.068 pmol/l ( 95% confidence interval = 0.065- 0.071 ) in free triiodothyronine and a 0.084 \u03bcIU/ml decline ( -0.099 to -0.069 ) in thyroid-stimulating hormone ( TSH ) in men .
+For women , there was a 0.10 pmol/l ( 0.09 to 0.11 ) increase in free triiodothyronine and a 0.13 \u03bcIU/ml decline ( -0.14 to -0.11 ) in TSH .
+High urinary BPA level was associated with increased thyroid function ( adjusted odds ratio= 1.71 [ 1.26 to 2.32] ) .
+CONCLUSIONS Our results support previous reports of associations between BPA exposure and altered thyroid hormones in animal models and epidemiologic studies .
+Because our study is cross-sectional , no causal relationships can be established .

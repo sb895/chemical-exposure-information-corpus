@@ -1,0 +1,11 @@
+Methylation is considered the detoxification pathway for inorganic arsenic ( InAs ) , an established human carcinogen .
+Urinary speciation analysis is used to assess the distribution of metabolites [ monomethylarsonate ( MMA ) , dimethylarsinate ( DMA ) , and unmethylated arsenic ( InAs) ] , as indicators of methylation capacity .
+We conducted a large biomarker study in northern Chile of a population chronically exposed to high levels of arsenic in drinking water .
+We report the results of the methylation study , which focused on the effects of exposure and other variables on the percent InAs , MMA , DMA , and the ratio of MMA to DMA in urine .
+The study consisted of 122 people in a town with arsenic water levels around 600 micrograms/l and 98 participants in a neighboring town with arsenic levels in water of about 15 micrograms/l .
+The corresponding mean urinary arsenic levels were 580 micrograms/l and 60 micrograms/l , of which 18.4% and 14.9% were InAs , respectively .
+The main differences were found for MMA:DMA ; exposure , smoking , and being male were associated with higher MMA:DMA , while longer residence , Atacameño ethnicity , and being female were associated with lower MMA:DMA .
+Together , these variables explained about 30% of the variability in MMA:DMA .
+Overall , there was no evidence of a threshold for methylation capacity , even at very high exposures , and the interindividual differences were within a much wider range than those attributed to the variables investigated .
+The differences in percent InAs were small and within the ranges of other studies of background exposure levels .
+The biological significance of MMA:DMA , which was more than 1.5 times greater in the exposed group , and its relationship to sex , length of exposure , and ethnicity need further investigation because its relevance to health risk is not clear .

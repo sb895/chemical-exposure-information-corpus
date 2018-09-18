@@ -1,0 +1,13 @@
+Nitric oxide ( NO ) , produced by endothelial nitric oxide synthase ( eNOS ) , is a potent vasodilator and plays a prominent role in regulating the cardiovascular system .
+Decreased basal NO release may predispose to cardiovascular diseases .
+Evidence suggests that the 27 nt repeat polymorphism of the intron 4 in the eNOS gene may regulate eNOS expression .
+On the other hand , some recent reports strongly suggest an association between methylmercury ( MeHg ) exposures and altered NO synthesis .
+In the present study , we investigate the contribution of the 27-pb tandem repeat polymorphism on nitric oxide production , which could enhance susceptibility to cardiovascular disease in the MeHg-exposed study population .
+Two-hundred-two participants ( 98 men and 104 women ) , all chronically exposed to MeHg through fish consumption were examined .
+Mean blood Hg concentration and nitrite plasma concentration were 50.5 ± 35.4 \u03bcg/L and 251.4 ± 106.3n M , respectively .
+Mean systolic and diastolic blood pressure were 120.1 ± 19.4mm Hg and 72.0 ± 10.6mm Hg , respectively .
+Mean body mass index was 24.5 ± 4.3 kg/m(2) and the mean heart rate was 69.8 ± 11.8 bpm .
+There were no significant differences in age , arterial blood pressure , body mass index or cardiac frequency between genotype groups ( all P>0.05 ) .
+However , we observed different nitrite concentrations in the genotypes groups , with lower nitrite levels for the 4a4a genotype carriers .
+Age , gender and the presence of intron 4 polymorphism contributed to nitrite reduction as a result of blood Hg concentration .
+Taken together , our results show that the 27 nt repeat polymorphism of the intron 4 in the eNOS gene increases susceptibility to cardiovascular diseases after MeHg exposure by modulating nitric oxide levels .

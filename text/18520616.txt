@@ -1,0 +1,14 @@
+BACKGROUND Prenatal and early life periods represent critical windows for oxidant pollutant-induced lung remodeling .
+The objective of this study was to examine the association of prenatal and lifetime exposures to air pollutants with pulmonary function in a cohort of children with asthma .
+METHODS Prenatal and lifetime exposure to several air pollutants was reconstructed for 232 children with asthma from the San Joaquin Valley of California , USA .
+Prenatal and lifetime residences were geocoded .
+We obtained data on monthly average ozone ( O3 ) , carbon monoxide ( CO ) , nitrogen dioxide ( NO2 ) , and particulate matter with a median aerodynamic diameter <10 microm ( PM10 ) concentrations .
+Metrics were created for key developmental periods .
+Predictive models were developed for 8 pulmonary function measures .
+A newly-developed stepwise model selection procedure-the Deletion/Substitution/Addition algorithm-was implemented and results were compared with those obtained using traditional stepwise methods .
+RESULTS Second-trimester exposure to NO2 negatively affected forced vital capacity ( FVC ) and forced expiratory volume in 1 second ( FEV1 ) , and first trimester exposure to PM10 negatively affected peak expiratory flow ( PEF ) rate .
+Exposure to CO in early years of life also had a negative effect on FEV1/FVC and forced expiratory flow between 25% and 75% of FVC ( FEF25-75)/FVC .
+Second trimester exposure to PM10 and exposure to CO in the first 6 years of life had negative effects on forced expiratory flow at 25% of FVC .
+Prenatal , but not trimester-specific , exposure to CO was negatively associated with FEF25-75 .
+Effects were limited to subgroups , such as children who were African American , those diagnosed with asthma before the age of 2 years , and those exposed to maternal smoking during pregnancy .
+CONCLUSION Prenatal and early-life exposures to CO , PM10 , and NO2 have a negative effect on pulmonary function in subgroups of asthmatic children .

@@ -1,0 +1,8 @@
+Polybrominated diphenyl ethers ( PBDEs ) were widely used as flame retardants in the past three decades .
+These compounds are lipophilic and easily cross the placenta from pregnant woman to fetus .
+It is not clear whether hydroxylated PBDEs ( OH-PBDEs ) , with greater hydrophilicity , have different concentrations in maternal and cord serum samples .
+We analyzed PBDEs ( BDE-28 , -47 , -99 , -100 , -153 , -154 , -209 ) and OH-PBDEs ( 6-OH-BDE-47 , 5-OH-BDE-47 , 4'-OH-BDE-49 , 5'-OH-BDE-99 ) in 20 pairs of maternal and cord serum samples collected in Cincinnati , OH in 2011 .
+The geometric mean concentration of \u2211OH-BDEs ( the sum of four OH-PBDEs ) was 49.76 pg/mL in cord sera , higher than 32.84 pg/mL in maternal sera .
+Similarly , cord serum total BDEs had a higher geometric mean than maternal serum ( 45.51 vs 32.07 ng/g lipid ) .
+Equal or higher levels of total OH-BDEs and total BDEs in cord serum were observed in 85% and 80% of the mother-neonate pairs , respectively .
+The study suggests fetuses might receive higher OH-PBDE and PBDE exposure than their mothers .

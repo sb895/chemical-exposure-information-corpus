@@ -1,0 +1,11 @@
+Around the world humans use products that contain phthalates , and human exposure to certain of these phthalates has been associated with various adverse health effects .
+The aim of the present study has been to determine the concentrations of the metabolites of diethyl phthalate ( DEP ) , di(n-butyl) phthalate ( DnBP ) , di(iso-butyl) phthalate ( DiBP ) , butyl benzyl phthalate ( BBzP ) and di(2-ethylhexyl) phthalate ( DEHP ) in urine samples from 441 Danish children ( 3-6 years old ) .
+These children were subjects in the Danish Indoor Environment and Children's Health study .
+As part of each child's medical examination , a sample from his or her first morning urination was collected .
+These samples were subsequently analyzed for metabolites of the targeted phthalates .
+The measured concentrations of each metabolite were approximately log-normally distributed , and the metabolite concentrations significantly correlated with one another .
+Additionally , the mass fractions of DEP , DnBP , DiBP and BBzP in dust collected from the children's bedrooms and daycare centers significantly correlated with the concentrations of these phthalates ' metabolites ( monoethyl phthalate ( MEP ) , mono-n-butyl phthalate ( MnBP ) , mono-isobutyl phthalate ( MiBP ) and monobenzyl phthalate ( MBzP ) , respectively ) in the children's urine .
+Such correlations indicate that indoor exposures meaningfully contributed to the Danish children's intake of DEP , DnBP , DiBP and BBzP .
+This was not the case for DEHP .
+The urine concentrations of the phthalate metabolites measured in the present study were remarkably similar to those measured in urine samples from children living in countries distributed over four continents .
+These similarities reflect the globalization of children's exposure to phthalate containing products .

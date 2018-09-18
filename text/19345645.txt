@@ -1,0 +1,20 @@
+Five commercially available insect sprays were applied in a model room .
+Spraying was performed in accordance with the manufacturers ' instructions and in an overdosed manner in order to simulate worst-case conditions or an unforeseeable misuse .
+In addition , we examined electro-vaporizers .
+The Respicon aerosol monitoring system was applied to determine inhalation exposure .
+During normal spraying ( 10 seconds ) and during the following 2-3 minutes , exposure concentrations ranged from 70 to 590 microg/m3 for the pyrethroids tetramethrin , d-phenothrin , cyfluthrin , bioallethrin , and the pyrethrins .
+Calculated inhalable doses were 2-16 microg .
+A concentration of approximately 850 microg chlorpyrifos/m(3) ( inhalable dose : approximately 20 microg ) was determined when the " Contra insect fly spray " was applied .
+Highest exposure concentrations ( 1100-2100 microg/m3 ) were measured for piperonyl butoxide ( PBO ) , corresponding to an inhalation intake of 30-60microg .
+When simulating worst-case conditions , exposure concentrations of 200-3400microg/m3 and inhalable doses of 10-210microg were determined for the various active substances .
+Highest concentrations ( 4800-8000 microg/m3 ) were measured for PBO ( inhalable : 290-480 microg ) .
+By applying the electro-vaporizer " Nexa Lotte " plug-in mosquito killer concentrations for d-allethrin were in the range of 5-12microg/m3 and 0.5-2 microg/m3 for PBO while with the " Paral " plug-in mosquito killer concentrations of 0.4-5microg/m3 for pyrethrins and 1-7 microg/m3 for PBO were measured .
+Potential dermal exposures were determined using exposure pads .
+Between 80 and 1000microg active substance ( tetramethrin , phenothrin , cyfluthrin , bioallethrin , pyrethrins , chlorpyrifos ) were deposited on the clothing of the total body surface area of the spray user .
+Highest levels ( up to 3000 microg ) were determined for PBO .
+Worst-case uses of the sprays led to 5-9 times higher concentrations .
+Also a 2-hour stay nearby an operating electro-vaporizer led to a contamination of the clothing ( total amounts on the whole body were 450 microg d-allethrin and 50 microg PBO for " Nexa Lotte " plug-in mosquito killer and 80 microg pyrethrins and 190 microg PBO for " Paral " plug-in mosquito killer ) .
+Human biomonitoring data revealed urine concentrations of the metabolite ( E)-trans-chrysanthemum dicarboxylic acid ( (E)-trans-CDCA ) between 1.7 microg/l and 7.1 microg/l after 5 minutes of exposure to the different sprays .
+Also the use of electro-vaporizers led to ( E)-trans-CDCA concentrations in the urine in the range of 1.0 microg/l to 6.2 microg/l ( 1-3 hours exposure period ) .
+The exposure data presented can be used for performing human risk assessment when these biocidal products were applied indoors .
+The airborne concentrations of the non-volatile active chemical compounds could be predicted from first principles using a deterministic exposure model ( SprayExpo ) .

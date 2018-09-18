@@ -1,0 +1,10 @@
+BACKGROUND Laboratory workers have long been suspected of having increased risks of cancer due to their occupation .
+We evaluated occupational exposure and cancer incidence among Finnish laboratory workers .
+MATERIALS AND METHODS The cohort was comprised of 4,722 laboratory workers reported to the Finnish Register of Workers Exposed to Carcinogens in 1979-1988 .
+The standardized incidence ratios ( SIR ) for cancers and their 95% confidence intervals ( CI ) were calculated based on data of the Finnish Cancer Registry .
+RESULTS The most common carcinogens , to which these workers were potentially exposed , were chromium ( VI ) , carbon tetrachloride , cadmium , benzene , and chloroform .
+From this cohort , 174 persons were recorded with primary tumors in 1980-1999 .
+The SIR for cancer of all sites combined was 0.99 ( CI 0.85-1.14 ) .
+None of the cancer-specific SIRs were significantly elevated .
+Slight excesses were found , e.g. , for non-Hodgkin's lymphoma ( seven observed , 4.8 expected ) and leukemia ( four observed , three expected ) .
+CONCLUSIONS This study did not suggest any major cancer risks among Finnish laboratory workers but the follow-up time of the cohort was too short ( on an average 15.7 years ) to reveal possible cancer risks requiring a longer induction period .

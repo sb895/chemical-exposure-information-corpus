@@ -1,0 +1,9 @@
+A cross-sectional study was carried out to determine whether environmental exposure of children to lead may cause renal effects .
+The study involved a total of 195 children aged 12 to 15 years .
+One hundred forty-four children ( 63 boys and 81 girls ) were recruited from two schools in the vicinity of a lead smelter and 51 ( 25 boys and 26 girls ) from a school in a rural area .
+Compared to their referents , boys and girls from the two schools in the polluted area had significantly higher levels of lead in blood ( PbB ) but similar levels of cadmium ( CdB ) and zinc protoporphyrins ( ZPP ) .
+The functional integrity of the kidney was assessed by measuring the urinary excretion of beta 2-microglobulin , Clara cell protein , retinol-binding protein ( RBP ) , albumin and beta-N-acetyl-D-glucosaminidase .
+The most significant and consistent finding of the study was that children from the two schools in the polluted area showed a significant elevation of the urinary excretion of RBP that paralleled the level of lead in blood or in the dust collected on the school playgrounds .
+A similar pattern was observed for the prevalence of elevated values of urinary RBP which increased from 3.9% in the control area up to 17% in the most polluted school .
+Urinary RBP was found to be associated with PbB ( partial r2 = 0.046 , P = 0.005 ) in a stepwise regression analysis testing also the influence of age , sex , CdB , and ZPP .
+In conclusion , the present study suggests that lead contaminating the environment may cause slight effects on the proximal tubule function in children at exposure levels close to those associated with CNS deficit .

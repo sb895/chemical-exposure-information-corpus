@@ -1,0 +1,9 @@
+OBJECTIVES To assess the temporal and spatial relationship of risk for total leukemia and AML ( acute myelogenous leukemia ) among community residents of an area in northeastern ( NE ) Pennsylvania ( PA ) affected by the Tranguch Gasoline Spill which occurred in the early 1990s .
+METHODS Standardized incidence ratios ( SIR ) were calculated for total leukemia and AML among 625 residents affected by the gasoline spill in relation to both PA and local county cancer incidence rates .
+The risk of total leukemia and AML among the gasoline exposed population was evaluated for the period prior to the spill , 1985-1989 ; during the time surrounding the spill , 1990-1994 ; and for a period subsequent to the spill , 1995-2001 .
+RESULTS The incidence of total leukemia and AML was significantly elevated subsequent to the spill for the entire period 1990-2001 and was highest for the period 1995-2001 , whether comparison was made to PA or local county leukemia rates .
+Based on comparison to PA rates , the SIRs for total leukemia and AML were 7.69 ( 95% CI=1.58-22.46 ) and 11.54 ( 95% CI=2.38-33.69 ) for the 1995-2001 period , respectively .
+Prior to the spill , 1985-1989 , and during the period of the spill , 1990-1994 , no cases of leukemia were identified among the affected residents .
+CONCLUSIONS These results suggest a possible association between chronic low level benzene exposure and increased risk of leukemia among residents of the Tranguch Spill Site in NE PA .
+Our study provides additional support to the growing body of evidence implicating low level benzene exposure and cancer risk .
+We recommend that other communities contaminated with gasoline vapor through leaking underground storage vessels be monitored for elevated risk of leukemia .

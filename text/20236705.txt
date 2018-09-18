@@ -1,0 +1,11 @@
+Perflurooctanoic acid ( PFOA ) and perfluorooctane sulfonic acid ( PFOS ) have been used for a variety of applications including fluoropolymer processing , fire-fighting foams and surface treatments since the 1950s .
+Both PFOS and PFOA are polyfluoroalkyl chemicals ( PFCs ) , man-made compounds that are persistent in the environment and humans ; some PFCs have shown adverse effects in laboratory animals .
+Here we describe the application of a simple one compartment pharmacokinetic model to estimate total intakes of PFOA and PFOS for the general population of urban areas on the east coast of Australia .
+Key parameters for this model include the elimination rate constants and the volume of distribution within the body .
+A volume of distribution was calibrated for PFOA to a value of 170ml/kgbw using data from two communities in the United States where the residents ' serum concentrations could be assumed to result primarily from a known and characterized source , drinking water contaminated with PFOA by a single fluoropolymer manufacturing facility .
+For PFOS , a value of 230ml/kgbw was used , based on adjustment of the PFOA value .
+Applying measured Australian serum data to the model gave mean+/-standard deviation intake estimates of PFOA of 1.6+/-0.3ng/kgbw/day for males and females >12years of age combined based on samples collected in 2002-2003 and 1.3+/-0.2ng/kg bw/day based on samples collected in 2006-2007 .
+Mean intakes of PFOS were 2.7+/-0.5ng/kgbw/day for males and females >12years of age combined based on samples collected in 2002-2003 , and 2.4+/-0.5ng/kgbw/day for the 2006-2007 samples .
+ANOVA analysis was run for PFOA intake and demonstrated significant differences by age group ( p=0.03 ) , sex ( p=0.001 ) and date of collection ( p<0.001 ) .
+Estimated intake rates were highest in those aged >60years , higher in males compared to females , and higher in 2002-2003 compared to 2006-2007 .
+The same results were seen for PFOS intake with significant differences by age group ( p<0.001 ) , sex ( p=0.001 ) and date of collection ( p=0.016 ) .

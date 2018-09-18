@@ -1,0 +1,8 @@
+Accurate quantitation of any contaminant of interest is critical for exposure assessment and metabolism studies that support risk assessment .
+A preliminary step in an arsenic exposure assessment study in Nevada quantified total arsenic ( TAs ) concentrations in tissues as biomarkers of exposure .
+Participants in this study ( n=95 ) were at least 45 years old , had lived in the area for more than 20 years , and were exposed to a wide range of arsenic concentrations in drinking water ( 3-2,100 ppb ) .
+Concentrations of TAs in blood , urine , and toenails determined by hydride generation-atomic fluorescence spectrometry ( HG-AFS ) ranged from below detection to 0.03 , 0.76 , and 12 ppm , respectively ; TAs in blood rarely exceeded the limit of detection .
+For comparison , TAs in toenails determined by neutron activation analysis ( NAA ) ranged from below detection to 16 ppm .
+Significant ( P<0.0001 ) positive regressions were seen between the TAs concentration in toenails and in drinking water ( adjusted r(2)=0.3557 HG-AFS , adjusted r(2)=0.3922 NAA ) ; TAs concentrations in urine were not described by drinking water As ( adjusted r(2)=0.0170 , P=0.1369 ) .
+Analyses of TAs in toenails by HGAFS and NAA yielded highly concordant estimates ( r=0.7977 , P<0.0001 ) .
+These results suggest that toenails are a better biomarker of chronic As exposure than urine in the current study , because the sequestration of As in toenails provides an integration of exposure over time that does not occur in urine .

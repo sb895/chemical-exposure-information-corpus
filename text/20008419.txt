@@ -1,0 +1,13 @@
+OBJECTIVE Several untoward health effects of phthalates , which are a group of industrial chemicals with many commercial uses including personal-care products and plastic materials , have been defined .
+The most commonly used , di-(2-ethylhexyl)-phthalate ( DEHP ) , is known to have antiandrogenic or estrogenic effects or both .
+Mono-(2-ethylhexyl)-phthalate ( MEHP ) is the main metabolite of DEHP .
+In this study , we aimed to determine the plasma DEHP and MEHP levels in pubertal gynecomastia cases .
+PATIENTS AND METHODS The study group comprised 40 newly diagnosed pubertal gynecomastia cases who were admitted to Hacettepe University Ihsan Do\u011framaci Children's Hospital .
+The control group comprised 21 age-matched children without gynecomastia or other endocrinologic disorder .
+Plasma DEHP and MEHP levels were measured by using high-performance liquid chromatography .
+Serum hormone levels were determined in some pubertal gynecomastia cases according to the physician's evaluation .
+RESULTS Plasma DEHP and MEHP levels were found to be statistically significantly higher in the pubertal gynecomastia group compared with the control group ( P < .001 ) ( DEHP , 4.66 +/- 1.58 and 3.09 +/- 0.90 microg/mL , respectively [ odds ratio : 2.77 ( 95% confidence interval : 1.48-5.21) ] ; MEHP , 3.19 +/- 1.41 and 1.37 +/- 0.36 microg/mL [ odds ratio : 24.76 ( 95% confidence interval : 3.5-172.6)] ) .
+There was a statistically significant correlation between plasma DEHP and MEHP levels ( r : 0.58 ; P < .001 ) .
+In the pubertal gynecomastia group , no correlation could be determined between plasma DEHP and MEHP levels and any of the hormone levels .
+CONCLUSIONS DEHP , which has antiandrogenic or estrogenic effects , may be an etiologic factor in pubertal gynecomastia .
+These results may pioneer larger-scale studies on the etiologic role of DEHP in pubertal gynecomastia .

@@ -1,0 +1,1 @@
+< <exposure routes--inhalation--personal measurement--< < <  Biomonitoring--exposure biomarker--urine--< <Biomonitoring--effect marker--biomarker--gene AND biomonitoring--effect marker--biomarker--molecule--other molecule AND  Biomonitoring--effect marker--biomarker--oxidative stress< 

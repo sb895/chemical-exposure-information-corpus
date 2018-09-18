@@ -1,0 +1,10 @@
+Polybrominated diphenyl ethers ( PBDEs ) are ubiquitous environmental pollutants , and on a global basis , North American populations are exposed to the highest doses of PBDEs .
+In response to the exponential increase in human exposure to PBDEs during the late 1990s , some PBDE formulations were phased out from production in the early 2000s .
+The effectiveness of the phase-out of commercial penta-BDE and octa-BDE mixtures in 2004 in the U.S. on human exposure levels is not known .
+Dried blood spots ( DBSs ) , collected for the newborn screening program ( NSP ) in the U.S. , are a valuable resource for the elucidation of trends in exposure to environmental pollutants in newborns .
+In this study , seven PBDE congeners were determined by gas chromatography-high resolution mass spectrometry ( GC-HRMS ) in archived DBS samples ( in total , 51 blood spot composites from 1224 newborns ) collected from newborns in New York State ( NYS ) from 1997 to 2011 .
+The most frequently detected PBDE congener was BDE-47 , with a detection rate ( DR ) of 86% , followed by BDE-99 ( DR : 45% ) and BDE-100 ( DR : 43% ) .
+The mean concentrations determined during 1997 through 2011 in the whole blood of newborns were 0.128 , 0.040 , and 0.012 ng/mL for BDE-47 , -99 , and -100 , respectively .
+A significant correlation was found among the concentrations of three major congeners ( p < 0.001 ) .
+PBDE concentrations were similar during 1997 through 2002 and , thereafter , decreased significantly , which was similar to the trends observed for perfluorinated compounds ( PFCs ) in DBS samples .
+Occurrence of PBDEs in the whole blood of newborns confirms that these compounds do cross the placental barrier .

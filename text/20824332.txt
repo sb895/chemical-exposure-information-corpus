@@ -1,0 +1,9 @@
+The main objectives of this study were to investigate the concentration and lifetime cancer risk and hazard index of trihalomethanes ( THMs ) through multiple routes like oral ingestion , dermal absorption , and inhalation exposure in the water samples collected at water treatment plant endpoints .
+Bromoform has been found in highest concentration followed by chloroform .
+A lesser concentration of dibromochloromethane has been found than dichlorobromomethane in most of the studied water , which is an unusual scenario , in spite of the high concentration of bromide in the water which can be attributed to the formation , speciation , and distribution of THMs in the breakpoint chlorination curve .
+Among the three pathways studied , inhalation contributed 80-90% of the total risk followed by oral exposure and dermal contact .
+Chloroform was found to be the major THM which is having cancer risk in its gaseous form whereas bromoform contributed highest cancer risk through oral ingestion .
+The average hazard index of total THMs through oral route was higher than unity , indicating high noncarcinogenic risk .
+The discrepancy between the three exposure pathways may be attributed to different concentration and speciation of THMs present in the waters .
+The sensitivity analysis by tornado diagram confirmed the highest positive impact of chloroform to the total cancer risk and , indirectly , confirmed inhalation as the major pathway of exposure .
+This study suggests the modification of the regulatory issues related to THMs based on the health risk associated with each THM and exposure pathway .

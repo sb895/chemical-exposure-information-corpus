@@ -1,0 +1,16 @@
+BACKGROUND Biomarkers for mercury ( Hg ) exposure have frequently been used to assess exposure and risk in various groups of the general population .
+We have evaluated the most frequently used biomarkers and the physiology on which they are based , to explore the inter-individual variations and their suitability for exposure assessment .
+METHODS Concentrations of total Hg ( THg ) , inorganic Hg ( IHg ) and organic Hg ( OHg , assumed to be methylmercury ; MeHg ) were determined in whole blood , red blood cells , plasma , hair and urine from Swedish men and women .
+An automated multiple injection cold vapour atomic fluorescence spectrophotometry analytical system for Hg analysis was developed , which provided high sensitivity , accuracy , and precision .
+The distribution of the various mercury forms in the different biological media was explored .
+RESULTS About 90% of the mercury found in the red blood cells was in the form of MeHg with small inter-individual variations , and part of the IHg found in the red blood cells could be attributed to demethylated MeHg .
+THg in plasma was associated with both IHg and MeHg , with large inter-individual variations in the distribution between red blood cells and plasma .
+THg in hair reflects MeHg exposure at all exposure levels , and not IHg exposure .
+The small fraction of IHg in hair is most probably emanating from demethylated MeHg .
+The inter-individual variation in the blood to hair ratio was very large .
+The variability seemed to decrease with increasing OHg in blood , most probably due to more frequent fish consumption and thereby blood concentrations approaching steady state .
+THg in urine reflected IHg exposure , also at very low IHg exposure levels .
+CONCLUSION The use of THg concentration in whole blood as a proxy for MeHg exposure will give rise to an overestimation of the MeHg exposure depending on the degree of IHg exposure , why speciation of mercury forms is needed .
+THg in RBC and hair are suitable proxies for MeHg exposure .
+Using THg concentration in plasma as a measure of IHg exposure can lead to significant exposure misclassification .
+THg in urine is a suitable proxy for IHg exposure .

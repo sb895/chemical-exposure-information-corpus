@@ -1,0 +1,10 @@
+BACKGROUND Previous studies have reported relationships between adverse respiratory health outcomes and residential proximity to traffic pollution , but have not shown this at a personal exposure level .
+OBJECTIVE We compared , among inner-city children with asthma , the associations of adverse asthma outcome incidences with increased personal exposure to particulate matter mass \u2264 2.5 \u03bcm in aerodynamic diameter ( PM(2.5) ) air pollution versus the diesel-related carbonaceous fraction of PM2.5 .
+METHODS Daily 24-hr personal samples of PM(2.5) , including the elemental carbon ( EC ) fraction , were collected for 40 fifth-grade children with asthma at four South Bronx schools ( 10 children per school ) during approximately 1 month each .
+Spirometry and symptom scores were recorded several times daily during weekdays .
+RESULTS We found elevated same-day relative risks of wheeze [ 1.45 ; 95% confidence interval ( CI ) , 1.03-2.04) ] , shortness of breath ( 1.41 ; 95% CI , 1.01-1.99 ) , and total symptoms ( 1.30 ; 95% CI , 1.04-1.62 ) with an increase in personal EC , but not with personal PM(2.5) mass .
+We found increased risk of cough , wheeze , and total symptoms with increased 1-day lag and 2-day average personal and school-site EC .
+We found no significant associations with school-site PM(2.5) mass or sulfur .
+The EC effect estimate was robust to addition of gaseous pollutants .
+CONCLUSION Adverse health associations were strongest with personal measures of EC exposure , suggesting that the diesel " soot " fraction of PM(2.5) is most responsible for pollution-related asthma exacerbations among children living near roadways .
+Studies that rely on exposure to PM mass may underestimate PM health impacts .

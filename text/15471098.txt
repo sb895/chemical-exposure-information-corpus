@@ -1,0 +1,10 @@
+A study has been performed to estimate if hair lead ( Pb ) can be used assessing environmental and occupational exposure to the metal .
+From 1994-1997 , 622 ceramic plant employees , 520 randomly selected controls from Kaunas without occupational exposure to Pb aged 18-64 years , and 380 10-13 year old children living in Kaunas participated in this study .
+The concentration of Pb in the hair samples was measured by atomic absorption spectrometry .
+The geometric mean of Pb in the hair of workers occupationally exposed to Pb was significantly higher than that in persons not exposed to the metal ( 7.6 microg/g , 95% CI = 6.5-8.7 for exposed workers , 3.2 microg/g , 95% CI = 2.8-3.6 for not exposed workers and 2.6 microg/g , 95% CI = 2.4-2.9 for randomly selected controls , p < 0.05 ) .
+Pb content in hair of boys and girls was 2.9 microg/g ( 95% CI = 2.6-3.3 ) and 3.1 microg/g ( 95% CI = 2.6-3.6 ) , respectively .
+Lead in hair was not related to gender .
+Multiple regression analysis in adults with age as a continuous variable showed a positive relationship between Pb in hair and age .
+Also different exposure levels were significantly related to Pb in hair .
+In men , a positive association was found between Pb in hair and smoking .
+The data obtained suggest that human hair could be used to identify lead exposure in epidemiological surveys .

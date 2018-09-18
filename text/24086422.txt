@@ -1,0 +1,9 @@
+Studies of the effect of air pollution on cognitive health are often limited to populations living near cities that have air monitoring stations .
+Little is known about whether the estimates from such studies can be generalized to the U.S. population , or whether the relationship differs between urban and rural areas .
+To address these questions , we used a satellite-derived estimate of fine particulate matter ( PM2.5 ) concentration to determine whether PM2.5 was associated with incident cognitive impairment in a geographically diverse , biracial US cohort of men and women ( n = 20,150 ) .
+A 1-year mean baseline PM2.5 concentration was estimated for each participant , and cognitive status at the most recent follow-up was assessed over the telephone using the Six-Item Screener ( SIS ) in a subsample that was cognitively intact at baseline .
+Logistic regression was used to determine whether PM2.5 was related to the odds of incident cognitive impairment .
+A 10 µg/m(3) increase in PM2.5 concentration was not reliably associated with an increased odds of incident impairment , after adjusting for temperature , season , incident stroke , and length of follow-up [ OR ( 95% CI ) : 1.26 ( 0.97 , 1.64) ] .
+The odds ratio was attenuated towards 1 after adding demographic covariates , behavioral factors , and known comorbidities of cognitive impairment .
+A 10 µg/m(3) increase in PM2.5 concentration was slightly associated with incident impairment in urban areas ( 1.40 [ 1.06-1.85] ) , but this relationship was also attenuated after including additional covariates in the model .
+Evidence is lacking that the effect of PM2.5 on incident cognitive impairment is robust in a heterogeneous US cohort , even in urban areas .

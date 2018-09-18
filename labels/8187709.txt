@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--adipose tissue-- AND  Biomonitoring--exposure biomarker--blood--< <  Biomonitoring--exposure biomarker--blood--<  Biomonitoring--exposure biomarker--adipose tissue--< <  Biomonitoring--exposure biomarker--blood--< < < < 

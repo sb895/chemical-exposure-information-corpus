@@ -1,0 +1,8 @@
+This study reports the quantification of the toxicity of particulate matter ( PM)-bound metals and their possible associated risks to human health .
+For assessment of PM , 24-h samples of PM(10) and PM2.5 were collected by Mini Vol-TAS sampler at an urban site of Pune .
+Samples were sequentially extracted with ultrapure water and concentrated HNO3 and analyzed for " soluble " and " total " metals .
+Factor analysis identified the resuspension of road dust due to traffic , biomass burning , construction activities , and wind-blown dust as possible sources that played an important role for overall pollution throughout the year .
+Water-soluble proportion was found to be \u2264 20 % for Cr , Co , Fe , and Al ; \u2265 50 % for Sr , Cd , Ca , and Zn ; and a substantial proportion ( % ) for Mn , Ba , K , Na , Ni , Mg , Cu , and Pb metals in PM(10) .
+For PM2.5 , the water-soluble proportion was \u2264 20 % for Fe , Co , Ni , Cr , and Al , while Sr , K , and Cd were mostly soluble ( > 50 % ) and Cu , Ba , Mn , Ca , Zn , Pb , Na , and Mg were substantially soluble ( % ) .
+In the present study , among the toxic metals , Cd and Pb show higher concentration in the soluble fraction and thus represent the higher bioavailability index and especially are harmful to the environment and exposed person .
+Risk calculations with a simple exposure assessment method showed that the cancer risks of the bioavailable fractions of Cr , Cd and Ni were greater than the standard goal .

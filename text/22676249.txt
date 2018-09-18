@@ -1,0 +1,14 @@
+BACKGROUND Chronic exposure to high level of inorganic arsenic in drinking water has been associated with Type 2 Diabetes ( T2D ) .
+Most research has been ecological in nature and has focused on high levels of arsenic exposure with few studies directly measuring arsenic levels in drinking water as an index of arsenic exposure .
+The effect of low to moderate levels of arsenic exposure on diabetes risk is largely unknown thus our study is adding further knowledge over previous works .
+METHODS This cross sectional study was conducted in 1004 consenting women and men from 1682 eligible participants yielding a participation rate of 60% .
+These participants are aged >30 years and were living in Bangladesh and had continuously consumed arsenic-contaminated drinking water for at least 6 months .
+T2D cases were diagnosed using glucometer following the new diagnostic criteria ( Fasting Blood Glucose > 126 mg/dl ) from the WHO guideline ( WHO 2006 ) , or a self-reported physician diagnosis of type 2 diabetes .
+Association between T2D and chronic arsenic exposure was estimated by multiple logistic regression with adjustment for age , sex , education , Body Mass Index ( BMI ) and family history of T2D .
+RESULTS A total of 1004 individuals participated in the study .
+The prevalence of T2D was 9% ( 95% CI 7-11% ) .
+After adjustment for diabetes risk factors , an increased risk of type 2 diabetes was observed for arsenic exposure over 50 \u03bcg/L with those in the highest category having almost double the risk of type 2 diabetes ( OR=1.9 ; 95% CI 1.1-3.5 ) .
+For most levels of arsenic exposure , the risk estimates are higher with longer exposure ; a dose-response pattern was also observed .
+CONCLUSIONS These findings suggest an association between chronic arsenic exposure through drinking water and T2D .
+Risks are generally higher with longer duration of arsenic exposure .
+The risk of T2D is highest among those who were exposed to the highest concentration of arsenic for more than 10 years .

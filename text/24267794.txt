@@ -1,0 +1,13 @@
+OBJECTIVE This study investigates the association between urinary phthalate metabolite levels and attention deficit disorder ( ADD ) , learning disability ( LD ) , and co-occurrence of ADD and LD in 6-15-year-old children .
+METHODS We used cross-sectional data from the National Health and Nutrition Examination Survey ( NHANES , 2001-2004 ) .
+Phthalate metabolites with \u226575% detection in urine samples were examined .
+The study population comprised 1493 children with parent-reported information on ADD or LD diagnosis and phthalate concentrations in urine .
+Phthalate concentrations were creatinine-adjusted and log10-transformed for analysis .
+All models controlled for child sex , age , race , household income , blood lead , and maternal smoking during pregnancy .
+RESULTS There were 112 ADD cases , 173 LD cases , and 56 ADD and LD cases in the sample .
+After adjusting for potential confounders , we found increased odds of ADD with increasing urinary concentration of di-2-ethylhexyl phthalates ( OR : 2.1 ; 95% CI : 1.1 , 3.9 ) and high molecular weight phthalates ( OR : 2.7 ; 95% CI : 1.2 , 6.1 ) .
+In addition , dibutyl phthalates ( OR : 3.3 ; 95% CI : 0.9 , 12.7 ) and high molecular weight phthalates ( OR : 3.7 ; 95% CI : 0.9 , 14.8 ) were marginally associated with increased odds of co-occurring ADD and LD .
+We did not find associations for any phthalate and LD alone .
+We observed stronger associations between phthalates and ADD and both ADD and LD in girls than boys in some models .
+CONCLUSIONS We found cross-sectional evidence that certain phthalates are associated with increased odds of ADD and both ADD and LD .
+Further investigations with longitudinal data are needed to confirm these results .

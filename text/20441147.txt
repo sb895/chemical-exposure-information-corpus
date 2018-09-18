@@ -1,0 +1,11 @@
+Two hundred and forty five human blood ( whole blood ) samples from Chinese donors aged from 0 to 90 yrs were analyzed for 10 perfluorinated compounds ( PFCs ) .
+Perfluorooctane sulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) were the most abundant PFCs found in blood .
+The median concentration of PFOS was lower in nonadults ( i.e. , infants , toddlers , children , and adolescents ) ( 2.52-5.55 ng/mL ) than in adults ( 8.07 ng/mL ) .
+However , median concentration of PFOA in nonadults ( 1.23-2.42 ng/mL ) was higher than that found in adults ( 1.01 ng/mL ) .
+A significant increase in PFOS ( r = 0.468 , p < 0.01 ) and perfluorohexane sulfonate ( PFHxS ) ( r = 0.357 , p < 0.01 ) concentrations with age was found , while PFOA concentrations ( r = -0.344 , p < 0.01 ) were negatively correlated with age .
+No significant gender-related differences in PFC concentrations were found across all ages .
+The composition profiles of PFCs , as identified by principal component analysis , varied for each age group ; this suggested differences in sources and pathways of exposure to PFCs for different age groups .
+Based on the blood PFC concentration , we estimated the daily intake of PFOS by adults using a one-compartment toxicokinetic model .
+The modeled daily intake of PFOS agreed well with the calculated daily intake via diet and indoor dust ( 0.74 vs 1.19 ng/kg b.w. for males , 1.20 vs 1.15 ng/kg b.w. for females ) suggesting that dietary intake and dust ingestion are the major exposure routes to PFOS exposure in China .
+This is the first comprehensive study on PFCs in human blood from infants , toddlers , children , and adolescents in China .
+The data are valuable for understanding the sources and pathways of human exposure to PFCs for different age groups .

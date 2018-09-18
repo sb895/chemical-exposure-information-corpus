@@ -1,0 +1,12 @@
+BACKGROUND Quality adjusted life years ( QALYs ) , based on health related quality of life ( HRQL ) , are a commonly used concept in health economics .
+The aim of this study was to apply the concept of QALY to the evaluation of a surveillance program for health related effects of PCB exposure and measure the impact of occupational PCB-exposure on the remaining QALYs of participants .
+METHODS The internal PCB exposure was determined by gas chromatography with mass spectrometry in plasma .
+The HRQOL was assessed via the EQ-5D-3L instrument and combined with the remaining lifetime ( RLE ) at the time point of cessation of exposure .
+For comparative reasons we used both the linear calculation and the complex-number-model from Prieto and Sacristan .
+The impact of several PCB congeners was regressed on the percentage of discounted QALYs on RLE via hierarchical multiple regression , controlling for gender , relational and educational status .
+RESULTS Findings were able to detect a small but significant effect of elevated plasma levels of PCB on QALY for the linear calculation and partially for the complex number calculation .
+This means that an internal exposure to PCB reduced HRQOL in the RLE of participants in the surveillance program .
+CONCLUSION QALYs can be applied successfully to monitor HRQL effects in surveillance programs .
+The exposure to a hazardous substance has an influence on QALYs .
+Findings have to be interpreted as a first hint .
+In the following assessment it has to be monitored whether there is an improvement or worsening of HRQL .

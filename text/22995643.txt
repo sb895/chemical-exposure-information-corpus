@@ -1,0 +1,8 @@
+BACKGROUND Both ambient temperature and air pollution have been associated with alterations in cardiac autonomic function , but the responsive patterns associated with temperature exposure and the interactive effects of temperature and air pollution remain largely unclear .
+OBJECTIVES We investigated the associations between personal temperature exposure and cardiac autonomic function as reflected by heart rate variability ( HRV ) in a panel of 14 healthy taxi drivers in the context of traffic-related air pollution .
+METHODS We collected real-time data on study subjects ' in-car exposures to temperature and traffic-related air pollutants including particulate matter with an aerodynamic diameter \u22642.5 \u03bcm ( PM(2.5) ) and carbon monoxide ( CO ) and HRV indices during work time ( 8:30-21:00 ) on 48 sampling days in the warm season ( May-September ) and cold season ( October-March ) .
+We applied mixed-effects models and loess models adjusting for potential confounders to examine the associations between temperature and HRV indices .
+RESULTS We found nonlinear relationships between temperature and HRV indices in both the warm and cold seasons .
+Linear regression stratified by temperature levels showed that increasing temperature levels were associated with declines in standard deviation of normal-to-normal intervals over different temperature strata and increases in low-frequency power and low-frequency:high-frequency ratio in higher temperature range ( >25 °C ) .
+PM(2.5) and CO modified these associations to various extents .
+CONCLUSIONS Temperature was associated with alterations in cardiac autonomic function in healthy adults in the context of traffic-related air pollution .

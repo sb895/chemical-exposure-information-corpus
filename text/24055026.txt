@@ -1,0 +1,8 @@
+The aim of the study is to determine concentrations of polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , dioxin-like polychlorinated biphenyls ( dl-PCBs ) and indicator PCBs ( ind-PCBs ) in eggs from cage hens without soil contact , pasteurized egg samples and imported egg yolk powder samples in Turkey .
+Concentrations of PCDD/Fs , PCDD/Fs and dl-PCBs , and ind-PCBs in eggs and pasteurized egg samples are in the range of 0.247-1.527 pg WHO-TEQ(2005)g(-1) fat , 0.282-1.762 pg WHO-TEQ(2005)g(-1) fat and 202-1,235 pg g(-1) fat , respectively .
+For egg yolk powder samples , concentrations of PCDD/Fs , PCDD/Fs and dl-PCBs , and ind-PCBs are in the range of 0.122-0.494 pg WHO-TEQ(2005)g(-1) fat , 0.214-0.640 pg WHO-TEQ(2005)g(-1) fat and 217-1,498 pg g(-1) fat , respectively .
+All results for PCDD/Fs , PCDD/Fs and dl-PCBs , and ind-PCBs are below the values of 2.5 pg WHO-TEQ(2005)g(-1) fat , 5.0 pg WHO-TEQ(2005)g(-1) fat and 40 ng g(-1) fat imposed in Turkish Regulation for eggs and egg products , respectively .
+In all samples 2,3,4,7,8-PeCDF , 2,3,7,8-TCDD , 1,2,3,7,8-PeCDD and PCB126 are the most prominent congeners .
+Mean estimated daily exposure to PCDD/Fs and dl-PCBs for Turkish population from egg is 0.011 pg WHO-TEQ(2005)d(-1)kg body weight ( bw)(-1 ) .
+Although the exposure levels are below the TDI of 2 pg WHO-TEQ(1998)kg bw(-1) , the results were based only on consumption of egg .
+In order to estimate total dietary intake for Turkish population , various food items should be investigated .

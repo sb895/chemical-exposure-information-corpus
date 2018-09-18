@@ -1,0 +1,9 @@
+The aim of the Bavarian Monitoring of Breast Milk ( BAMBI ) project was to examine 10 organochlorine pesticides ( OPs ) , 3 nitro musks , 6 indicator polychlorinated biphenyls ( PCBs ) , 7 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 10 polychlorinated dibenzofurans ( PCDFs ) , 12 dioxin-like PCBs ( dl-PCBs ) and several perfluorinated alkyl compounds in breast milk samples .
+A total of 516 breast milk samples were collected from seven regions in Bavaria and were analyzed by means of GC/ECD , GC/HRMS , and LC/MS-MS .
+Concerning the OPs , only hexachlorobenzene and a metabolite of DDT , 1,1-dichloro-2,2-bis(4-chlorophenyl) ethylene ( p,p'-DDE ) , could be quantified in all samples ( median : 16 ngg(-1) lipid and 63 ngg(-1) lipid , respectively ) .
+Median concentrations of 150 ngg(-1) lipid ( range : 3-1900 ngg(-1) lipid ) were found for the sum of the indicator PCBs .
+The concentrations of the PCDDs/PCDFs and the dl-PCBs ranged from 0.8 to 15.1 ( median 5.7 ) pg WHO-TEQ1998g(-1) lipid and from 1.5 to 18.9 pg ( median 6.4 ) WHO-TEQ1998 g(-1) lipid , respectively .
+The median perfluorooctane sulfonate concentration was 0.05 \u03bcgL(-1) ( range : <0.02-0.26 \u03bcgL ) , while the other PFCs were observed only in a subset of samples .
+On the basis of the median and 95th percentile concentration , " medium " and " high " intake levels were estimated for a 3-month-old exclusively breastfed infant .
+In particular , " medium " and " high " intake levels were calculated of 69 and 133 pg WHO1998 TEQ kg(-1) b.w. for PCDDs/PCDFs , 8 and 21 ngkg(-1) b.w. for dl-PCBs , and 6 and 25 ngkg(-1) b.w. for perfluorooctane sulfonate , respectively .
+The calculated intake for perfluorinated substances is clearly below the tolerable daily intake ( TDI ) , while the established TDI values are still clearly exceeded for PCDDs/PCDFs and dl-PCBs .

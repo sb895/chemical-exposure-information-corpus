@@ -1,0 +1,12 @@
+BACKGROUND Arsenic ( As ) exposure during pregnancy induces oxidative stress and increases the risk of fetal loss and low birth weight .
+OBJECTIVES In this study we aimed to elucidate the effects of As exposure on immune markers in the placenta and cord blood , and the involvement of oxidative stress .
+METHODS Pregnant women were enrolled around gestational week ( GW ) 8 in our longitudinal , population-based , mother-child cohort in Matlab , an area in rural Bangladesh with large variations in As concentrations in well water .
+Women ( n = 130 ) delivering at local clinics were included in the present study .
+We collected maternal urine twice during pregnancy ( GW8 and GW30 ) for measurements of As , and placenta and cord blood at delivery for assessment of immune and inflammatory markers .
+Placental markers were measured by immunohistochemistry , and cord blood cytokines by multiplex cytokine assay .
+RESULTS In multivariable adjusted models , maternal urinary As ( U-As ) exposure both at GW8 and at GW30 was significantly positively associated with placental markers of 8-oxoguanine ( 8-oxoG ) and interleukin-1\u03b2 ( IL-1\u03b2 ) ; U-As at GW8 , with tumor necrosis factor-\u03b1 ( TNF\u03b1 ) and interferon-\u03b3 ( IFN\u03b3 ) ; and U-As at GW30 , with leptin ; U-As at GW8 was inversely associated with CD3+ T cells in the placenta .
+Cord blood cytokines ( IL-1\u03b2 , IL-8 , IFN\u03b3 , TNF\u03b1 ) showed a U-shaped association with U-As at GW30 .
+Placental 8-oxoG was significantly positively associated with placental proinflammatory cytokines .
+Multivariable adjusted analyses suggested that enhanced placental cytokine expression ( TNF\u03b1 and IFN\u03b3 ) was primarily influenced by oxidative stress , whereas leptin expression appeared to be mostly mediated by As , and IL-1\u03b2 appeared to be influenced by both oxidative stress and As .
+CONCLUSION As exposure during pregnancy appeared to enhance placental inflammatory responses ( in part by increasing oxidative stress ) , reduce placental T cells , and alter cord blood cytokines .
+These findings suggest that effects of As on immune function may contribute to impaired fetal and infant health .

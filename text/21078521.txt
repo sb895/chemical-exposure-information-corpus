@@ -1,0 +1,12 @@
+Volatile Organic Compounds ( VOCs ) exposure can induce a range of adverse human health effects .
+To date , however , personal VOCs exposure and residential indoor and outdoor VOCs levels have not been well characterized in the mainland of China , less is known about health risk of personal exposure to VOCs .
+In this study , personal exposures for 12 participants as well as residential indoor/outdoor , workplace and in vehicle VOCs concentrations were measured simultaneously in Tianjin , China .
+All VOCs samples were collected using passive samplers for 5 days and were analyzed using Thermal Desorption GC-MS method .
+U.S. Environmental Protect Agency's Inhalation Unit Risks were used to calculate the inhalation cancer health risk .
+To assess uncertainty of health risk estimate , Monte Carlo simulation and sensitivity analysis were implemented .
+Personal exposures were greater than residential indoor exposures as expected with the exception of carbon tetrachloride .
+Exposure assessment showed modeled and measured concentrations are statistically linearly correlated for all VOCs ( P<0.01 ) except chloroform , confirming that estimated personal exposure using time-weighted model can provide reasonable estimate of personal inhalation exposure to VOCs .
+Indoor smoking and recent renovation were identified as two major factors influencing personal exposure based on the time-activity pattern and factor analysis .
+According to the cancer risk analysis of personal exposure , benzene , chloroform , carbon tetrachloride and 1,3-butadiene had median upper-bound lifetime cancer risks that exceeded the U.S. EPA benchmark of 1 per one million , and benzene presented the highest median risks at about 22 per one million population .
+The median cumulative cancer risk of personal exposure to 5 VOCs was approximately 44 per million , followed by indoor exposure ( 37 per million ) and in vehicle exposure ( 36 per million ) .
+Sensitivity analysis suggested that improving the accuracy of exposure measurement in further research would advance the health risk assessment .

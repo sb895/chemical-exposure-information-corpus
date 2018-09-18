@@ -1,0 +1,17 @@
+The 21 square mile Bunker Hill Superfund Site in northern Idaho includes several thousand acres of contaminated hillsides and floodplain , a 365-acre abandoned lead/zinc smelter and is home to more than 7000 people in 5 residential communities .
+Childhood lead poisoning was epidemic in the 1970s with >75% of children exceeding 40 microg/dl blood lead .
+Health response activities have been ongoing for three decades .
+In 1991 , a blood lead goal of 95% of children with levels less than 10 microg/dl was adopted .
+The cleanup strategy , based on biokinetic pathways models , was to reduce house dust lead exposure through elimination of soil-borne sources .
+An interim health intervention program , that included monitoring blood lead and exposures levels , was instituted to reduce exposures through parental education during the cleanup .
+In 1989 and 2001 , 56% and 3% of children , respectively , exceeded the blood lead criteria .
+More than 4000 paired blood lead/environmental exposure observations were collected during this period .
+Several analyses of these data were accomplished .
+Slope factors derived for the relationship between blood lead , soil and dust concentrations are age-dependent and similar to literature reported values .
+Repeat measures analysis assessing year to year changes found that the remediation effort ( without intervention ) had approximately a 7.5 microg/dl effect in reducing a 2-year-old child's mean blood lead level over the course of the last ten years .
+Those receiving intervention had an additional 2-15 microg/dl decrease .
+Structural equations models indicate that from 40 to 50% of the blood lead absorbed from soils and dusts is through house dust with approximately 30% directly from community-wide soils and 30% from the home yard and immediate neighborhood .
+Both mean blood lead levels and percent of children to exceed 10 microg/dl have paralleled soil/dust lead intake rates estimated from the pathways model .
+Application of the IEUBK model for lead indicates that recommended USEPA default parameters overestimate mean blood lead levels , although the magnitude of over-prediction is diminished in recent years .
+Application of the site-specific model , using the soil and dust partitions suggested in the pathways model and an effective bioavailability of 18% , accurately predicts mean blood lead levels and percent of children to exceed 10 microg/dl throughout the 11-year cleanup period .
+This reduced response rate application of the IEUBK is consistent with the analysis used to originally develop the cleanup criteria and indicates the blood lead goal will be achieved .

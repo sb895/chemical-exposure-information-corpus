@@ -1,0 +1,11 @@
+We reported previously that increases in ambient air pollution in the Los Angeles basin increased the risk of low weight and premature birth .
+However , ambient concentrations measured at monitoring stations may not take into account differential exposure to pollutants found in elevated concentrations near heavy-traffic roadways .
+Therefore , we used an epidemiologic case-control study design to examine whether residential proximity to heavy-traffic roadways influenced the occurrence of low birth weight ( LBW ) and/or preterm birth in Los Angeles County between 1994 and 1996 .
+We mapped subject home locations at birth and estimated exposure to traffic-related air pollution using a distance-weighted traffic density ( DWTD ) measure .
+This measure takes into account residential proximity to and level of traffic on roadways surrounding homes .
+We calculated odds ratios ( ORs ) and risk ratios ( RRs ) for being LBW and/or preterm per quintile of DWTD .
+The clearest exposure-response pattern was observed for preterm birth , with an RR of 1.08 [ 95% confidence interval ( CI ) , 1.01-1.15 ] for infants in the highest DWTD quintile .
+Although higher risks were observed for LBW infants , exposure-response relations were less consistent .
+Examining the influence of season , we found elevated risks primarily for women whose third trimester fell during fall/winter months ( OR(term LBW ) = 1.39 ; 95% CI , 1.16-1.67 ; OR(preterm and LBW ) = 1.24 ; 95% CI = 1.03-1.48 ; RR(all preterm ) = 1.15 ; 95% CI , 1.05-1.26 ) , and exposure-response relations were stronger for all outcomes .
+This result is consistent with elevated pollution in proximity to sources during more stagnant air conditions present in winter months .
+Our previous research and these latest results suggest exposure to traffic-related pollutants may be important .

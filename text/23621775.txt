@@ -1,0 +1,9 @@
+Data on early human fetal exposure to polybrominated diphenyl ethers ( PBDEs ) is limited .
+However , early pregnancy , in particular the first trimester , is critical for fetal development .
+We investigated exposure to PBDEs and placental transfer during early pregnancy by analyzing PBDEs in paired aborted fetuses ( n = 65 ) , placentas ( n = 65 ) , and maternal blood samples ( n = 31 ) at 10-13 weeks gestation , which were collected in a hospital near electronic wastes ( e-wastes ) recycling sites in Taizhou , China .
+Mean total PBDE ( \u2211PBDE ) concentrations were 4.46 , 7.90 , and 15.7 ng/g of lipid weight ( lw ) in the fetuses , placentas , and blood , respectively .
+The three matrices had roughly similar PBDE congener profiles , dominated by BDE-209 , BDE-197 , BDE-153 , BDE-47 , and BDE-28 .
+Significant correlations were found between \u2211PBDE concentrations in the paired matrices .
+Comparing the concentration ratios between the paired samples , we observed significantly higher fetus/blood and fetus/placenta ratios for BDE-28 , BDE-99 , and BDE-47 than for BDE-197 , BDE-209 , and BDE-153 , while opposite results were found in placenta/blood ratios .
+Our results indicate that PBDEs can enter the fetus during the first trimester and low-brominated congeners cross the placenta more easily than high-brominated congeners , which tend to remain in the placenta .
+This phenomenon is consistent with findings at the end of pregnancy .

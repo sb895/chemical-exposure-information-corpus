@@ -1,0 +1,10 @@
+BACKGROUND Benzene is a human carcinogen .
+Exposure to benzene occurs in occupational and environmental settings .
+OBJECTIVE I evaluated variation in benzene-related leukemia with age at exposure and time since exposure .
+METHODS I evaluated data from a cohort of 1,845 rubber hydrochloride workers .
+Benzene exposure-leukemia mortality trends were estimated by applying proportional hazards regression methods .
+Temporal variation in the impact of benzene on leukemia rates was assessed via exposure time windows and fitting of a multistage cancer model .
+RESULTS The association between leukemia mortality and benzene exposures was of greatest magnitude in the 10 years immediately after exposure [ relative rate ( RR ) at 10 ppm-years = 1.19 ; 95% confidence interval ( CI ) , 1.10-1.29 ] ; the association was of smaller magnitude in the period 10 to < 20 years after exposure ( RR at 10 ppm-years = 1.05 ; 95% CI , 0.97-1.13 ) ; and there was no evidence of association > or = 20 years after exposure .
+Leukemia was more strongly associated with benzene exposures accrued at > or = 45 years of age ( RR at 10 ppm-years = 1.11 ; 95% CI , 1.04-1.17 ) than with exposures accrued at younger ages ( RR at 10 ppm-years = 1.01 ; 95% CI , 0.92-1.09 ) .
+Jointly , these temporal effects can be efficiently modeled as a multistage process in which benzene exposure affects the penultimate stage in disease induction .
+CONCLUSIONS Further attention should be given to evaluating the susceptibility of older workers to benzene-induced leukemia .

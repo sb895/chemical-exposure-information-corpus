@@ -1,0 +1,8 @@
+Bisphenol A ( BPA ) is used in the manufacture of a range of consumer products , and human biomonitoring studies suggest that exposure to BPA is nearly ubiquitous .
+We constructed and calibrated a simple pharmacokinetic model to predict urinary concentrations of BPA based on a known initial dose .
+This descriptive ( rather than physiologically based ) model has three compartments : " stomach/liver, " " blood, " and " bladder. "
+We calibrated and validated the model parameters using blood and urine measurements from nine volunteers who consumed 5\u2009mg of d16-BPA .
+We then applied the model to a second group of eight persons , who supplied full volumes of urine over 7 consecutive days and a diary identifying times and types of food and beverage consumed , to " reconstruct " the time and mass of BPA intakes .
+These reconstructed daily intakes ranged on average from 60 to 100\u2009ng/kg-day , within the range of , but slightly higher than , those surmised from other studies .
+About two-thirds of intakes occurred within an hour of reported food or drink consumption , supporting the hypothesis that diet is the main pathway of exposure to BPA .
+However , one-third of all reconstructed intakes took place outside this time window , suggesting that other sources of BPA exposure may also be relevant.Journal of Exposure Science and Environmental Epidemiology advance online publication , 20 November 2013 ; doi:10.1038/jes.2013.81 .

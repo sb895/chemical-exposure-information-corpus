@@ -1,0 +1,11 @@
+Environmental chemicals can disrupt endocrine balance and in particular thyroid hormone ( TH ) homeostasis .
+However , studies differ with respect to thyroid profile changes and gender differences are rarely examined .
+This study investigated the THs , triodothyronine ( T3 ) , thyroxine ( T4 ) , and thyroid stimulating hormone ( TSH ) , in relation to serum organochlorines ( OCs ) , bioindicators of mercury ( Hg ) and blood lead ( Pb ) in 211 freshwater fish consumers ( 124 men and 87 women ) from two communities in Canada .
+Thyroid hormones were within the normal range and the bioindicators of exposure were low compared to other reports on fish consumers .
+Stratified analysis showed that for women , serum T3 concentrations were negatively related to serum concentrations of PCB 138 , PCB 153 , the non-coplanar congeners , Arochlor 1260 , and SigmaPCB , as well as p,p'-DDE .
+No relations were observed between T4 and any of the chemicals measured , but TSH was negatively related to blood Pb .
+For men , serum T4 was inversely related to PCB 138 , non-ortho-substituted ( dioxin-like ) PCBs and SigmaPCB .
+A significant positive relationship was observed between serum TSH and different PCB congeners ( PCB 138 , PCB 180 , non-coplanar congeners , mono-ortho coplanar congeners , dioxin-like PCBs ) , as well as SigmaPCB .
+Serum TSH increased with hair and blood Hg concentrations and was highest among those in the highest 50th percentile for both Hg and dioxin-like PCB congeners compared to the others .
+No associations were observed for T3 in men .
+These findings suggest that even at low concentrations , these environmental contaminants can interfere with thyroid status and effects may differ by gender .

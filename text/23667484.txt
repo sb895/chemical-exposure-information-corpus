@@ -1,0 +1,12 @@
+There is a growing concern about the potential health effects of exposure to various environmental chemicals during pregnancy and infancy .
+The placenta is expected to be an effective barrier protecting the developing embryo against some endocrine disruptors ( EDs ) circulating in maternal blood .
+The current study was designed to assess in utero exposure levels of non-persistent organic pollutants ( non-POPs ) and persistent organic pollutants ( POPs ) in Chinese newborns and potential role of placenta barrier against fetal exposure to these commonly-used environmental endocrine disruptors .
+A total of 230 newborn-mother pairs were enrolled during 2010-2011 , 201 pairs of which were recruited from Shanghai , and the other 29 pairs came from Wenzhou .
+Maternal blood , cord blood , and meconium specimens were collected in the subject population from Shanghai and analyzed for non-POPs , including mono-2-ethylhexyl phthalate ( MEHP ) , octylphenol ( OP ) and 4-nonylphenol ( 4-NP ) .
+A total of 19 polybrominated diphenyl ethers ( PBDEs ) congeners , which belong to POPs , were detected in maternal and cord blood specimens from the other 29 pairs .
+Fetal-maternal ratios ( F-M ratios ) and regression coefficients were presented to assess potential function of placenta on barricading the mother/fetal transfer of these EDs .
+Concentrations of the detected non-POPs in cord blood samples were approximately 20% lower than those in maternal blood , and regression coefficients of which were all over 0.80 .
+In contrast , PBDEs levels in cord blood samples were significantly higher than those in maternal blood .
+MEHP levels in meconium were much higher than those in cord blood samples , and highly correlated .
+Therefore , observations demonstrated that the placental barrier slightly decreased the fetal exposure to most non-POPs , while PBDEs seemed to be totally transferred across the placenta and finally reached the fetus .
+For in utero exposure assessment of Di-2-ethylhexyl phthalate ( DEHP ) , MEHP level in meconium may be a useful biomarker .

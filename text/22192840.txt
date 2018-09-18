@@ -1,0 +1,9 @@
+Environmental exposure to cadmium ( Cd ) is known to induce oxidative stress , a state of imbalance between the production of reactive oxygen species ( ROS ) and the ability to detoxify them , in adults .
+However , data are lacking on potential effects in early-life .
+We evaluated urinary concentrations of 8-oxo-7,8-dihydro-2'-deoxyguanosine ( 8-oxodG ) , a recognized marker of oxidative DNA damage , in relation to Cd exposure in 96 predominantly breast-fed infants ( 11-17 weeks of age ) in rural Bangladesh .
+Urinary 8-oxodG was measured using liquid chromatography tandem mass spectrometry and Cd in urine and breast milk by inductively coupled plasma mass spectrometry .
+Median concentration of 8-oxodG was 3.9 nmol/L , urinary Cd 0.30 \u03bcg/L , and breast-milk Cd 0.13 \u03bcg/L .
+In linear regression analyses , urinary 8-oxodG was positively associated with Cd in both urine ( p=0.00067 ) and breast milk ( p=0.0021 ) , and negatively associated with body weight ( kg ; p=0.0041 ) .
+Adjustment for age , body weight , socio-economic status , urinary arsenic , as well as magnesium , calcium , and copper in breast milk did not change the association between Cd exposure and urinary 8-oxodG .
+These findings suggest that early-life low-level exposure to Cd via breast milk induces oxidative stress .
+Further studies are warranted to elucidate whether this oxidative stress is associated with impaired child health and development .

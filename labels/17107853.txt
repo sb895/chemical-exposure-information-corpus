@@ -1,0 +1,1 @@
+< <exposure routes--inhalation--other--pregnant women< <exposure routes--inhalation--other--<biomonitoring--exposure biomarker--blood--pregnant women AND Biomonitoring--exposure biomarker--blood--cord blood AND exposure routes--inhalation--other--< <exposure routes--inhalation--other--<biomonitoring--exposure biomarker--blood--pregnant women< < < 

@@ -1,0 +1,10 @@
+BACKGROUND Perfluorinated alkyl acids ( PFAAs ) , persistent chemicals with unique water- , dirt- , and oil-repellent properties , are suspected of having endocrine-disrupting activity .
+The PFAA compounds perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonic acid ( PFOS ) are found globally in humans ; because they readily cross the placental barrier , in utero exposure may be a cause for concern .
+OBJECTIVES We investigated whether in utero exposure to PFOA and PFOS affects semen quality , testicular volume , and reproductive hormone levels .
+METHODS We recruited 169 male offspring ( 19-21 years of age ) from a pregnancy cohort established in Aarhus , Denmark , in 1988-1989 , corresponding to 37.6% of the eligible sons .
+Each man provided a semen sample and a blood sample .
+Semen samples were analyzed for sperm concentration , total sperm count , motility , and morphology , and blood samples were used to measure reproductive hormones .
+As a proxy for in utero exposure , PFOA and PFOS were measured in maternal blood samples from pregnancy week 30 .
+RESULTS Multivariable linear regression analysis suggested that in utero exposure to PFOA was associated with lower adjusted sperm concentration ( ptrend = 0.01 ) and total sperm count ( ptrend = 0.001 ) and with higher adjusted levels of luteinizing hormone ( ptrend = 0.03 ) and follicle-stimulating hormone ( ptrend = 0.01 ) .
+PFOS did not appear to be associated with any of the outcomes assessed , before or after adjustment .
+CONCLUSIONS The results suggest that in utero exposure to PFOA may affect adult human male semen quality and reproductive hormone levels .

@@ -1,0 +1,9 @@
+Perfluorooctanoate ( PFOA ) and perfluorooctanesulfonate ( PFOS ) are widespread persistent organic pollutants that have been associated with reduced birth weight at doses expected in many pregnant populations .
+The authors randomly selected 1,400 pregnant women and their newborns from the Danish National Birth Cohort ( 1996-2002 ) to investigate whether these compounds reduce organ growth .
+PFOS and PFOA were measured in maternal blood samples taken early in pregnancy .
+Placental weight , birth length , and head and abdominal circumferences were measured shortly after birth by trained midwives or nurses .
+Maternal PFOA levels in early pregnancy were associated with smaller abdominal circumference and birth length .
+For each ng/ml increase in PFOA , birth length decreased by 0.069 cm ( 95% confidence interval : 0.024 , 0.113 ) and abdominal circumference decreased by 0.059 cm ( 95% confidence interval : 0.012 , 0.106 ) .
+An inverse association was also observed between PFOA and placental weight and head circumference , and a positive association was observed with newborn ponderal index , but none of these associations was statistically significant .
+Maternal PFOS levels were not associated with any of the five fetal growth indicators .
+These findings suggest that fetal exposure to PFOA but not PFOS during organ development may affect the growth of organs and the skeleton .

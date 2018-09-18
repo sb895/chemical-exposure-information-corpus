@@ -1,0 +1,12 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) are ubiquitous environmental toxicants , for which animal studies demonstrate immunotoxic effects , including thymic atrophy and suppressed immune responses ; human investigations of similar end points are sparse .
+The thymus is essential for the differentiation and maturation of T-cell lymphocytes .
+OBJECTIVES The objective of this study was to examine the association between prenatal PCB exposures and estimated thymus volume in infants from eastern Slovakia , a region where PCBs were produced until 1984 .
+METHODS Mothers were enrolled at delivery , and maternal blood samples were collected for analysis of 15 PCB congeners , p,p'-DDT [ 1,1,1-trichloro-2,2'-bis(p-chlorophenyl)ethane ] , and p,p'-DDE [ 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene ] .
+Each mother was interviewed to obtain information on sociodemographic characteristics , past pregnancies , occupational history , medication history , and living environment .
+Neonatal thymus volume was estimated using ultrasound measurements on the third or fourth day after birth .
+Thymic index was calculated on 982 newborns from mothers with PCB measurements .
+We developed a predictive model of the natural log of the thymic index using multiple linear regression with covariates selected from the bivariate analyses .
+RESULTS Prenatal PCB exposure was associated with a smaller thymic index at birth [ beta= -36 ( natural log-transformed ; nanograms per gram lipids ) ; p = 0.047 ] .
+District of residence and delivery also predicted thymic index .
+Male sex , later gestational age , larger birth weight z-score , and Roma ethnicity were associated with a larger thymic index , whereas respiratory illness was associated with a lower thymic index .
+CONCLUSIONS This study provides the first evidence to date that PCB exposure in neonates is associated with a smaller thymic volume , suggesting possible impaired immunologic development .

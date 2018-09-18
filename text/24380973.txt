@@ -1,0 +1,10 @@
+BACKGROUND Polycyclic aromatic hydrocarbons ( PAHs ) are known carcinogens and suspected endocrine disruptors .
+Prenatal exposure to PAHs has been associated with obesity in early childhood .
+OBJECTIVE We examined the association of urinary PAH metabolites with adiposity outcomes ( BMI z-score , waist circumference , and rate of obesity ) in children and adolescents .
+METHODS We performed whole-sample analyses of 3,189 individuals 6-19 years of age who participated in the 2001-2006 National Health and Nutrition Examination Survey .
+We performed multivariate linear and logistic regression to analyze the association of BMI z-score , waist circumference ( WC ) and obesity with concentrations of single urinary PAH compounds and the sum of PAHs .
+Furthermore , the analyses were stratified by developmental stage [ i.e. , children ( 6-11 ) and adolescents ( 12-19) ] .
+RESULTS BMI z-score , WC , and obesity were positively associated with the molecular mass sum of the PAHs and the total sum of naphthalene metabolites .
+Most associations increased monotonically with increasing quartiles of exposure among children 6-11 years of age , whereas dose-response trends were less consistent for adolescents ( 12-19 years of age ) .
+Neither total PAHs nor total naphthalene metabolites were associated with overweight in either age group , and there was little evidence of associations between the outcomes and individual PAHs .
+CONCLUSIONS Total urinary PAH metabolites and naphthalene metabolites were associated with higher body mass index , waist circumference , and obesity in children ages 6-11 , with positive but less consistent associations among adolescents .

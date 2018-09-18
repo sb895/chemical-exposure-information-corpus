@@ -1,0 +1,12 @@
+BACKGROUND Previous research has documented effects of both physical and social environmental exposures on childhood asthma .
+However , few studies have considered how these two environments might interact to affect asthma .
+OBJECTIVE This study aimed to test interactions between chronic exposure to traffic-related air pollution and chronic family stress in predicting biologic and clinical outcomes in children with asthma .
+METHOD Children with asthma ( n = 73 , 9-18 years of age ) were interviewed about life stress , and asthma-relevant inflammatory markers [ cytokine production , immunoglobulin E ( IgE ) , eosinophil counts ] were measured .
+Parents reported on children's symptoms .
+Children completed daily diaries of symptoms and peak expiratory flow rate ( PEFR ) measures at baseline and 6 months later .
+Exposure to traffic-related air pollution was assessed using a land use regression model for nitrogen dioxide concentrations .
+RESULTS NO(2) by stress interactions were found for interleukin-5 ( beta for interaction term = -0.31 , p = 0.02 ) , IgE ( interaction beta = -0.29 , p = 0.02 ) , and eosinophil counts ( interaction beta = -0.24 , p = 0.04 ) .
+These interactions showed that higher chronic stress was associated with heightened inflammatory profiles as pollution levels decreased .
+Longitudinally , NO(2) by stress interactions emerged for daily diary symptoms ( interaction beta = -0.28 , p = 0.02 ) , parent-reported symptoms ( interaction beta = -0.25 , p = 0.07 ) , and PEFR ( interaction beta = 0.30 , p = 0.03 ) .
+These interactions indicated that higher chronic stress was associated with increases over time in symptoms and decreases over time in PEFR as pollution levels decreased .
+CONCLUSIONS The physical and social environments interacted in predicting both biologic and clinical outcomes in children with asthma , suggesting that when pollution exposure is more modest , vulnerability to asthma exacerbations may be heightened in children with higher chronic stress .

@@ -1,0 +1,11 @@
+Cardiovascular disease is the number one cause of death globally and air pollution can be a contributing cause .
+Acute myocardial infarction and cardiac arrest are frequent manifestations of coronary heart disease .
+The objectives of the study were to investigate the association between 4 657 out-of-hospital cardiac arrests ( OHCA ) and hourly and daily outdoor levels of PM(10) , PM(2.5) , coarse fraction of PM ( PM(10-2.5) ) , ultrafine particle proxies , NO(x) , NO(2) , O(3) and CO in Copenhagen , Denmark , for the period 2000-2010 .
+Susceptible groups by age and sex was also investigated .
+A case-crossover design was applied .
+None of the hourly lags of any of the pollutants were significantly associated with OHCA events .
+The strongest association with OHCA events was observed for the daily lag4 of PM(2.5) , lag3 of PM(10) , lag3 of PM(10-2.5) , lag3 of NO(x) and lag4 of CO .
+An IQR increase of PM(2.5) and PM(10) was associated with a significant increase of 4% ( 95% CI : 0% ; 9% ) and 5% ( 95% CI : 1% ; 9% ) in OHCA events with 3 days lag , respectively .
+None of the other daily lags or other pollutants was significantly associated with OHCA events .
+Adjustment for O(3) slightly increased the association between OHCA and PM(2.5) and PM(10) .
+No susceptible groups were identified .

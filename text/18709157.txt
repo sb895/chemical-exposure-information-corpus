@@ -1,0 +1,11 @@
+BACKGROUND Many phthalates and phenols are hormonally active and are suspected to alter the course of development .
+OBJECTIVE We investigated prenatal exposures to phthalate and phenol metabolites and their associations with body size measures of the infants at birth .
+METHODS We measured 5 phenol and 10 phthalate urinary metabolites in a multiethnic cohort of 404 women in New York City during their third trimester of pregnancy and recorded size of infants at birth .
+RESULTS Median urinary concentrations were > 10 microg/L for 2 of 5 phenols and 6 of 10 phthalate monoester metabolites .
+Concentrations of low-molecular-weight phthalate monoesters ( low-MWP ) were approximately 5-fold greater than those of high-molecular-weight metabolites .
+Low-MWP metabolites had a positive association with gestational age [ 0.97 day gestational age per ln-biomarker ; 95% confidence interval ( CI ) , 0.07-1.9 days , multivariate adjusted ] and with head circumference .
+Higher prenatal exposures to 2,5-dichlorophenol ( 2,5-DCP ) predicted lower birth weight in boys ( -210 g average birth weight difference between the third tertile and first tertile of 2,5-DCP ; 95% CI , 71-348 g ) .
+Higher maternal benzophenone-3 ( BP3 ) concentrations were associated with a similar decrease in birth weight among girls but with greater birth weight in boys .
+CONCLUSIONS We observed a range of phthalate and phenol exposures during pregnancy in our population , but few were associated with birth size .
+The association of 2,5-DCP and BP3 with reduced or increased birth weight could be important in very early or small-size births .
+In addition , positive associations of urinary metabolites with some outcomes may be attributable partly to unresolved confounding with maternal anthropometric factors .

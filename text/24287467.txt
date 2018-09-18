@@ -1,0 +1,10 @@
+Few studies have investigated associations between nonoccupational exposure to ambient volatile organic compounds and lung cancer .
+We conducted a case-control study of 445 incident lung cancers and 948 controls ( 523 hospital , 425 general population ) in Toronto , Ontario , Canada , between 1997 and 2002 .
+Participants provided information on several risk factors , including tobacco use , secondhand exposure to cigarette smoke , obesity , and family history of cancer .
+Exposure to benzene , hydrocarbons , and nitrogen dioxide was estimated using land-use regression models .
+Exposures were linked to residential addresses to estimate exposure at the time of interview , 10 years before interview , and across past residences ( time-weighted average ) .
+Logistic regression was used to estimate adjusted odds ratios .
+Analyses involving the population-based controls found that an interquartile-range increase in the time-weighted average benzene concentration ( 0.15 µg/m(3) ) across previous residences was associated with lung cancer ( odds ratio = 1.84 , 95% confidence interval : 1.26 , 2.68 ) .
+Similarly , an interquartile-range increase in the time-weighted average nitrogen dioxide concentration ( 4.8 ppb ) yielded an odds ratio of 1.59 ( 95% confidence interval : 1.19 , 2.12 ) .
+Our study suggests that long-term exposure to ambient volatile organic compounds and nitrogen dioxide at relatively low concentrations is associated with lung cancer .
+Further work is needed to evaluate joint relationships between these pollutants , smoking , and lung cancer .

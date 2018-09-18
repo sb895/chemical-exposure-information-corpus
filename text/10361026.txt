@@ -1,0 +1,8 @@
+For the purpose of examining the association between blood lead levels and household-specific soil lead levels , we used a multivariate linear regression model to find a slope factor relating soil lead levels to blood lead levels .
+We used previously collected data from the Agency for Toxic Substances and Disease Registry's ( ATSDR's ) multisite lead and cadmium study .
+The data included the blood lead measurements ( 0.5 to 40.2 microg/dL ) of 1015 children aged 6-71 months , and corresponding household-specific environmental samples .
+The environmental samples included lead in soil ( 18.1-9980 mg/kg ) , house dust ( 5.2-71,000 mg/kg ) , interior paint ( 0-16.5 mg/cm2 ) , and tap water ( 0.3-103 microg/L ) .
+After adjusting for income , education of the parents , presence of a smoker in the household , sex , and dust lead , and using a double log transformation , we found a slope factor of 0.1388 with a 95% confidence interval of 0.09-0.19 for the dose-response relationship between the natural log of the soil lead level and the natural log of the blood lead level .
+The predicted blood lead level corresponding to a soil lead level of 500 mg/kg was 5.99 microg/kg with a 95% prediction interval of 2. 08-17.29 .
+Predicted values and their corresponding prediction intervals varied by covariate level .
+The model shows that increased soil lead level is associated with elevated blood leads in children , but that predictions based on this regression model are subject to high levels of uncertainty and variability .

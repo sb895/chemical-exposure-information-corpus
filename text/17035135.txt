@@ -1,0 +1,11 @@
+OBJECTIVES Our objectives in this study were to expand a previously reported U.S. market basket survey using a larger sample size and to estimate levels of PBDE intake from food for the U.S. general population by sex and age .
+METHODS We measured concentrations of 13 polybrominated diphenyl ether ( PBDE ) congeners in food in 62 food samples .
+In addition , we estimated levels of PBDE intake from food for the U.S. general population by age ( birth through > or = 60 years of age ) and sex .
+RESULTS In food samples , concentrations of total PBDEs varied from 7.9 pg/g ( parts per trillion ) in milk to 3,726 pg/g in canned sardines .
+Fish were highest in PBDEs ( mean , 1,120 pg/g ; median , 616 pg/g ; range , 11.14-3,726 pg/g ) .
+This was followed by meat ( mean , 383 pg/g ; median , 190 pg/g ; range , 39-1,426 pg/g ) and dairy products ( mean , 116 pg/g ; median , 32.2 pg/g ; range , 7.9-683 pg/g ) .
+However , using estimates for food consumption ( excluding nursing infants ) , meat accounted for the highest U.S. dietary PBDE intake , followed by dairy and fish , with almost equal contributions .
+Adult females had lower dietary intake of PBDEs than did adult males , based on body weight .
+We estimated PBDE intake from food to be 307 ng/kg/day for nursing infants and from 2 ng/kg/day at 2-5 years of age for both males and females to 0.9 ng/kg/day in adult females .
+CONCLUSION Dietary exposure alone does not appear to account for the very high body burdens measured .
+The indoor environment ( dust , air ) may play an important role in PBDE body burdens in addition to food .

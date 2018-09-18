@@ -1,0 +1,8 @@
+Widespread use of phenols has led to ubiquitous exposure to phenols .
+In experimental animals , phenols increased resorptions , reduced live litter size and fetal body weights .
+However , there are limited epidemiological evidences of the relationships between exposure to phenols and pregnancy outcomes .
+We evaluated the associations between parental urinary levels of various phenols and spontaneous abortion in a Chinese population residing in the middle and lower reaches of the Yangtze River .
+A case-control study was conducted that included 70 case couples with medically unexplained spontaneous abortion and 180 control couples who did not have a history of spontaneous abortion and had at least one living child .
+Both parental urinary phenols were measured by ultra-high performance liquid chromatography-tandem mass spectrometry including bisphenol A ( BPA ) , benzophenone-3 ( BP-3 ) , 2,3,4-trichlorophenol ( 2,3,4-TCP ) , pentachlorophenol ( PCP ) , 4-n-octylphenol ( 4-n-OP ) and 4-n-nonylphenol ( 4-n-NP ) .
+Compared with the low exposure group , there was an increased risk of spontaneous abortion with high paternal urinary PCP concentration [ odds ratio ( OR)=2.09 , 95% Confidence Interval ( CI ) , 1.05-4.14 ] , and maternal exposure to 4-n-OP and alkylphenol(s) also significantly increased the risk of spontaneous abortion ( OR=2.21 , 95% CI , 1.02-4.80 ; OR=2.81 , 95% CI , 1.39-5.65 , respectively ) .
+Our study firstly provides the evidence that paternal PCP exposure , maternal 4-n-OP and alkylphenol(s) exposure are associated with spontaneous abortion in humans .

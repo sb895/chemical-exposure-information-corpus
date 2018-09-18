@@ -1,0 +1,13 @@
+BACKGROUND Few population studies have reported on the long-term changes in the internal cadmium dose and simultaneously occurring mortality .
+OBJECTIVE We monitored blood cadmium ( BCd ) , 24-hr urinary cadmium ( UCd ) , and mortality in an environmentally exposed population .
+METHODS Starting from 1985 , we followed BCd ( until 2003 ) , UCd ( until 1996 ) , and mortality ( until 2007 ) among 476 and 480 subjects , randomly recruited from low- exposure areas ( LEA ) and high-exposure areas ( HEA ) .
+The last cadmium-producing plant in the HEA closed in 2002 .
+RESULTS From 1985-1989 to 1991-1996 , BCd decreased by 40.3% and 18.9% in the LEA and HEA , respectively ( p < 0.0001 for between-area difference ) .
+From 1991-1996 until 2001-2003 , BCd remained unchanged in the HEA ( + 1.8% ) and increased by 19.7% in the LEA ( p < 0.0001 ) .
+Over the entire follow-up period , the annual decrease in BCd averaged 2.7% in the LEA ( n = 258 ) and 1.8% in the HEA ( n = 203 ) .
+From 1985-1989 to 1991-1996 , UCd fell by 12.9% in the LEA and by 16.6% in the HEA ( p = 0.22 ) , with mean annual decreases of 2.7% ( n = 366 ) and 3.4% ( n = 364 ) .
+Over 20.3 years ( median ) , 206 deaths ( 21.5% ) occurred .
+At baseline , BCd ( 14.6 vs. 10.2 nmol/L ) and UCd ( 14.1 vs. 8.6 nmol/24-hr ) were higher in deaths than in survivors .
+The risks ( p < or = 0.04 ) associated with a doubling of baseline UCd were 20% and 44% for total and noncardiovascular mortality , and 25% and 33% for a doubling of BCd .
+CONCLUSIONS Even if zinc-cadmium smelters close , historical environmental contamination remains a persistent source of exposure .
+Environmental exposure to cadmium increases total and noncardiovascular mortality in a continuous fashion without threshold .

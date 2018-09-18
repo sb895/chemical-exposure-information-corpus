@@ -1,0 +1,13 @@
+Cooking is a significant source of indoor particulate matter that can cause adverse health effects .
+In this study , a 5-stage cascade impactor was used to collect particulate matter from 14 restaurants that cooked with charcoal in Kocaeli , the second largest city in Turkey .
+A total of 24 elements were quantified using ICP-MS .
+All of the element contents except for Mn were higher for fine particles ( PM2.5 ) than coarse particles ( PM>2.5 ) , and the major trace elements identified in the PM2.5 included V , Se , Zn , Cr , As , Cu , Ni , and Pb .
+Principle component analysis ( PCA ) and enrichment factor ( EF ) calculations were used to determine the sources of PM2.5 .
+Four factors that explained over 77% of the total variance were identified by the PCA .
+These factors included charcoal combustion , indoor activities , crustal components , and road dust .
+The Se , As , Cd , and V contents in the PM2.5 were highly enriched ( EF>100 ) .
+The health risks posed by the individual metals were calculated to assess the potential health risks associated with inhaling the fine particles released during charcoal cooking .
+The total hazard quotient ( total HQ ) for a PM2.5 of 4.09 was four times greater than the acceptable limit ( i.e. , 1.0 ) .
+In addition , the excess lifetime cancer risk ( total ELCR ) for PM2.5 was 1.57×10(-4) , which is higher than the acceptable limit of 1.0×10(-6) .
+Among all of the carcinogenic elements present in the PM2.5 , the cancer risks resulting from Cr(VI) and As exposure were the highest ( i.e. , 1.16×10(-4) and 3.89×10(-5) , respectively ) .
+Overall , these results indicate that the lifetime cancer risk associated with As and Cr(VI) exposure is significant at selected restaurants , which is of concern for restaurant workers .

@@ -1,0 +1,9 @@
+Health risk for well drinking water is a worldwide problem .
+Our recent studies showed increased toxicity by exposure to barium alone ( \u2264700 µg/L ) and coexposure to barium ( 137 µg/L ) and arsenic ( 225 µg/L ) .
+The present edition of WHO health-based guidelines for drinking water revised in 2011 has maintained the values of arsenic ( 10 µg/L ) and barium ( 700 µg/L ) , but not elements such as manganese , iron and zinc .
+Nevertheless , there have been very few studies on barium in drinking water and human samples .
+This study showed significant correlations between levels of arsenic and barium , but not its homologous elements ( magnesium , calcium and strontium ) , in urine , toenail and hair samples obtained from residents of Jessore , Bangladesh .
+Significant correlation between levels of arsenic and barium in well drinking water and levels in human urine , toenail and hair samples were also observed .
+Based on these results , a high-performance and low-cost adsorbent composed of a hydrotalcite-like compound for barium and arsenic was developed .
+The adsorbent reduced levels of barium and arsenic from well water in Bangladesh and Vietnam to <7 µg/L within 1 min .
+Thus , we have showed levels of arsenic and barium in humans and propose a novel remediation system .

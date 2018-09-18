@@ -1,0 +1,12 @@
+OBJECTIVE Postmenopausal women have a higher prevalence of osteoporosis compared with premenopausal women .
+Postmenopause status has been found to be an independent risk factor for osteoporosis .
+Several studies have reported that heavy metals , including lead ( Pb ) , mercury ( Hg ) , cadmium ( Cd ) , and arsenic ( As ) , have detrimental effects on bone .
+The aim of this study was to evaluate the association among heavy metals , including Pb , Hg , Cd , and As , bone mineral density , and osteoporosis in postmenopausal Korean women .
+METHODS We conducted a cross-sectional study of 481 postmenopausal women , all of whom were enrolled in the Korean National Health and Nutrition Examination Survey in 2008 .
+Bone mineral density was measured using dual-energy x-ray absorptiometry .
+Blood Pb , Hg , and Cd and urinary As levels were measured .
+RESULTS Postmenopausal women with higher blood Hg levels were more likely to be younger and have higher vitamin D levels , fish consumption , and prevalence of osteoporosis .
+On multivariate logistic regression analysis , postmenopausal women with blood Hg levels in the fourth quartile had a 0.36-fold decreased risk of having osteoporosis compared with those with levels in the first quartile , after adjustments for age , body mass index , alcohol intake , smoking history , exercise , use of oral contraceptive pills , hormone therapy , intake of caloric energy and calcium , fish consumption , and vitamin D level .
+However , there was no association between other heavy metals and osteoporosis .
+CONCLUSIONS High blood Hg levels were associated with a lower risk of having osteoporosis in postmenopausal women .
+Because biomarkers of all four metals measured in this study reflect recent exposures , further studies are necessary to clarify the association of osteoporosis with the level of heavy metals in biomarkers for long-term exposure such as hair or fingernail .

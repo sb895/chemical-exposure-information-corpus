@@ -1,0 +1,1 @@
+< <exposure routes--oral intake--drinking water-- AND exposure routes--oral intake--food-- AND exposure routes--oral intake--soil--<Biomonitoring--exposure biomarker--blood-- AND Biomonitoring--exposure biomarker--hair nail-- AND  Biomonitoring--exposure biomarker--urine--< 

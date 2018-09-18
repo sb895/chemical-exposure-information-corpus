@@ -1,0 +1,16 @@
+BACKGROUND The direct and close relationship between fish consumption and blood and hair mercury ( Hg ) levels is well known , but the influence of fish consumption on inorganic mercury in blood ( B-IHg ) and in urine ( U-Hg ) is unclear .
+OBJECTIVE Examine the relationship between fish consumption , total , inorganic and organic blood Hg levels and urinary Hg concentration .
+METHODS A cross-sectional study was carried out on 171 persons from 7 riparian communities on the Tapajós River ( Brazilian Amazon ) , with no history of inorganic Hg exposure from occupation or dental amalgams .
+During the rising water season in 2004 , participants responded to a dietary survey , based on a seven-day recall of fish and fruit consumption frequency , and socio-demographic information was recorded .
+Blood and urine samples were collected .
+Total , organic and inorganic Hg in blood as well as U-Hg were determined by Atomic Absorption Spectrometry .
+RESULTS On average , participants consumed 7.4 fish meals/week and 8.8 fruits/week .
+Blood total Hg averaged 38.6+/-21.7 microg/L , and the average percentage of B-IHg was 13.8% .
+Average organic Hg ( MeHg ) was 33.6+/-19.4 microg/L , B-IHg was 5.0+/-2.6 microg/L , while average U-Hg was 7.5+/-6.9 microg/L , with 19.9% of participants presenting U-Hg levels above 10 microg/L .
+B-IHg was highly significantly related to the number of meals of carnivorous fish , but no relation was observed with non-carnivorous fish ; it was negatively related to fruit consumption , increased with age , was higher among those who were born in the Tapajós region , and varied with community .
+U-Hg was also significantly related to carnivorous but not non-carnivorous fish consumption , showed a tendency towards a negative relation with fruit consumption , was higher among men compared to women and higher among those born in the region .
+U-Hg was strongly related to I-Hg , blood methyl Hg ( B-MeHg ) and blood total Hg ( B-THg ) .
+The Odds Ratio ( OR ) for U-Hg above 10 microg/L for those who ate >4 carnivorous fish meals/week was 4.00 [ 1.83-9.20 ] .
+CONCLUSION This study adds further evidence to a positive relation between fish consumption and IHg in both blood and urine , which may result from absorption of IHg from fish or from demethylation of MeHg .
+The findings support the importance of assessing IHg exposure in fish-eating communities .
+Further studies should examine the potential toxicity of IHg in heavy fish consumers .

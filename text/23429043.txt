@@ -1,0 +1,7 @@
+1,2-Benzisothiazolin-3-one ( BIT ; CAS # 2634-33-5 ) is a preservative used in consumer products .
+Dermal exposure to BIT at sufficient dose and duration can produce skin sensitization and allergic contact dermatitis in animals and susceptible humans.The purpose of this study is to derive a maximal concentration of BIT in various consumer products that would result in exposures below the No Expected Sensitization Induction Level ( NESIL ) , a dose below which skin sensitization should not occur .
+A screening level exposure estimate was performed for several product use scenarios with sunscreen , laundry detergent , dish soap , and spray cleaner .
+We calculated that BIT concentrations below the following concentrations of 0.0075% , 0.035% , 0.035% , 0.021% in sunscreen , laundry detergent , dish soap , and spray cleaner , respectively , are unlikely to induce skin sensitization .
+We completed a pilot study consisting of bulk sample analysis of one representative product from each category labelled as containing BIT , and found BIT concentrations of 0.0009% and 0.0027% for sunscreen and dish soap , respectively .
+BIT was not detected in the laundry detergent and spray cleaner products above the limit of detection of 0.0006% .
+Based on publically available data for product formulations and our results , we were able to establish that cleaning products and sunscreens likely contain BIT at concentrations similar to or less than our calculated maximal safe concentrations and that exposures are unlikely to induce skin sensitization in most users .

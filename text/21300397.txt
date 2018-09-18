@@ -1,0 +1,8 @@
+The paper presents the results of a study conducted into the relationship between dwelling characteristics and occupant activities with the respiratory health of resident women and children in Lao People's Democratic Republic ( PDR ) .
+Lao is one of the least developed countries in south-east Asia with poor life expectancies and mortality rates .
+The study , commissioned by the World Health Organisation , included questionnaires delivered to residents of 356 dwellings in nine Districts in Lao PDR over a five month period ( December 2005-April 2006 ) , with the aim of identifying the association between respiratory health and indoor air pollution , in particular exposures related to indoor biomass burning .
+Adjusted odds ratios were calculated for each health outcome separately using binary logistic regression .
+After adjusting for age , a wide range of symptoms of respiratory illness in women and children aged 1-4 years were positively associated with a range of indoor exposures related to indoor cooking , including exposure to a fire and location of the cooking place .
+Among women , " dust always inside the house " and smoking were also identified as strong risk factors for respiratory illness .
+Other strong risk factors for children , after adjusting for age and gender , included dust and drying clothes inside .
+This analysis confirms the role of indoor air pollution in the burden of disease among women and children in Lao PDR .

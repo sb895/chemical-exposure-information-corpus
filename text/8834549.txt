@@ -1,0 +1,7 @@
+Inorganic arsenic ( In-As ) is known to be a human carcinogen , causing lung cancer by inhalation and skin cancer by ingestion .
+Ecologic studies in Taiwan have found a dose-response relation between ingestion of In-As from drinking water and bladder cancer , but questions have been raised concerning the validity and generalizability of the findings .
+Several areas of Argentina have had high exposures to arsenic from naturally contaminated drinking water , particularly the eastern region of the province of Córdoba .
+In this study , we investigated bladder cancer mortality for the years 1986-1991 in Córdoba's 26 counties , using rates for all of Argentina as the standard for comparison .
+Bladder cancer standardized mortality ratios ( SMRs ) were consistently higher in counties with documented arsenic exposure .
+We grouped counties into low- , medium- , and high-exposure categories ; the corresponding SMRs [ with 95% confidence intervals ( CI) ] were 0.80 ( 95% CI = 0.66-0.96 ) , 1.42 ( 95% CI = 1.14-1.74 ) , and 2.14 ( 95% CI = 1.78-2.53 ) for men , and 1.21 ( 95% CI = 0.85-1.64 ) , 1.58 ( 95% CI = 1.01-2.35 ) , and 1.82 ( 95% CI = 1.19-2.64 ) for women .
+The clear trends found in a population with different genetic composition and a high-protein diet support the findings in Taiwan .

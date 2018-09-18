@@ -1,0 +1,13 @@
+BACKGROUND A growing body of research suggests that prenatal exposure to air pollution may be harmful to fetal development .
+We assessed the association between exposure to air pollution during pregnancy and anthropometric measures at birth in four areas within the Spanish Children's Health and Environment ( INMA ) mother and child cohort study .
+METHODS Exposure to ambient nitrogen dioxide ( NO2 ) and benzene was estimated for the residence of each woman ( n = 2,337 ) for each trimester and for the entire pregnancy .
+Outcomes included birth weight , length , and head circumference .
+The association between residential outdoor air pollution exposure and birth outcomes was assessed with linear regression models controlled for potential confounders .
+We also performed sensitivity analyses for the subset of women who spent more time at home during pregnancy .
+Finally , we performed a combined analysis with meta-analysis techniques .
+RESULTS In the combined analysis , an increase of 10 µg/m3 in NO2 exposure during pregnancy was associated with a decrease in birth length of -0.9 mm [ 95% confidence interval ( CI ) , -1.8 to -0.1 mm ] .
+For the subset of women who spent \u2265 15 hr/day at home , the association was stronger ( -0.16 mm ; 95% CI , -0.27 to -0.04 ) .
+For this same subset of women , a reduction of 22 g in birth weight was associated with each 10-µg/m3 increase in NO2 exposure in the second trimester ( 95% CI , -45.3 to 1.9 ) .
+We observed no significant relationship between benzene levels and birth outcomes .
+CONCLUSIONS NO2 exposure was associated with reductions in both length and weight at birth .
+This association was clearer for the subset of women who spent more time at home .

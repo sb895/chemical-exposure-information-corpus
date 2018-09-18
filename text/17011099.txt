@@ -1,0 +1,11 @@
+Triclosan is an established bacteriostatic compound widely used in topical and dental preparations .
+Its pharmacokinetics and toxicology have been extensively studied in humans and animals .
+It is known to be absorbed from the gastrointestinal tract and across the skin .
+A recent report noted its occurrence in human breast milk and this has now been further investigated .
+Sixty two unselected samples of human milk from Breast Milk Banks in California and Texas have been analysed for triclosan ; the concentration ranged from 0 to 2100 microg/kg lipid .
+A risk assessment of triclosan in human milk has been made , based on a conservative calculation of exposure of neonates and experimental toxicity test results .
+The broad set of reproduction toxicity tests of triclosan includes a 2-generation study in the rat , in which there was considerable exposure of dams and pups to triclosan throughout fetal development and up to sexual maturity in the F2 generation , and a further study in which pups of dosed dams were followed to weaning .
+They established an oral NOAEL for pups of 50 mg/kg/d .
+The maximum exposure of babies via breast milk calculated using very conservative additive assumptions is approximately 7.4 microg/kg/d .
+The ' Margin of Exposure ' between the NOAEL and that calculated in breast fed babies is approximately 6760-fold .
+It is concluded that there is no evidence to indicate that the presence of a miniscule amount of triclosan in breast milk presents a risk to babies .

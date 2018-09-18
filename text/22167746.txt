@@ -1,0 +1,7 @@
+Exposure to air pollution during pregnancy has been suggested to be a risk factor for preterm birth ; however , epidemiologic evidence remains mixed and limited .
+The authors examined the association between ambient levels of particulate matter <2.5 \u03bcm in aerodynamic diameter ( PM(2.5) ) and the risk of preterm birth in North Carolina during the period 2001-2005 .
+They estimated the risks of cumulative and lagged average exposures to PM(2.5) during pregnancy via a 2-stage discrete-time survival model .
+The authors also considered exposure metrics derived from 1 ) ambient concentrations measured by the Air Quality System ( AQS ) monitoring network and 2 ) concentrations predicted by statistically fusing AQS data with process-based numerical model output ( the Statistically Fused Air and Deposition Surfaces ( FSD ) database ) .
+Using the AQS measurements , an interquartile-range ( 1.73 \u03bcg/m(3) ) increase in cumulative PM(2.5) exposure was associated with a 6.8% ( 95% posterior interval : 0.5 , 13.6 ) increase in the risk of preterm birth .
+Using the FSD-predicted levels and accounting for prediction error , the authors also found significant adverse associations between trimester 1 , trimester 2 , and cumulative PM(2.5) exposure and preterm birth .
+These findings suggest that exposure to ambient PM(2.5) during pregnancy is associated with increased risk of preterm birth , even in a region characterized by relatively good air quality .

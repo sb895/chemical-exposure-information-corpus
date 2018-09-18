@@ -1,0 +1,10 @@
+Excessive release of heavy metals , especially cadmium ( Cd ) and lead ( Pb ) , results from primitive electronic waste ( e-waste ) recycling activities in Guiyu , China , and has adverse effects on the health of local infants and pregnant women .
+We investigated the expression of placental S100P , a Ca(2+)-binding protein , as a biological indicator of heavy-metal environmental pollution in pregnant women involved in these activities and constantly exposed to Cd and Pb .
+We included 105 pregnant women in the study : 55 from Guiyu and 50 from Shantou , an area not involved in e-waste recycling .
+The placental concentrations of Cd and Pb ( PCCd , PCPb ) after birth were measured by graphite-furnace atomic-absorption spectrometry .
+S100P mRNA expression was determined by semi-quantitative RT-PCR and real-time quantitative PCR .
+S100P protein expression was examined by western blot analysis and immunohistochemistry .
+The expression of metallothionein ( MT ) , previously found upregulated after heavy metal contamination , was used for comparison .
+Placentas from Guiyu women showed 62.8% higher Cd concentrations , higher MT levels , and lower S100P protein levels than placentas from Shantou women .
+Furthermore , PCCd was negatively correlated with S100P protein expression and positively with MT expression , with no correlation between PCPb and S100P or MT expression .
+The PCCd-associated downregulation of S100P in placentas from Guiyu women suggests that S100P might be an effective biological indicator in the placental response to Cd toxicity in areas of e-waste recycling .

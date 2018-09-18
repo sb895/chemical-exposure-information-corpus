@@ -1,0 +1,15 @@
+As part of a larger exposure study , samples of dust and indoor air were collected in the homes of 43 pregnant women living in the Copenhagen area ( Denmark ) and analysed for 12 polybrominated diphenyl ethers using GC-MS .
+A second dust sample collected after delivery was analysed for BDE-183 and BDE-209 , which were highly correlated with the pre-delivery samples , but did not reproduce the actual values .
+Concentrations as high as 80 \u03bcg/g were measured for the dominant BDE congener BDE-209 , with median concentrations of 332 and 432 ng/g , respectively , in pre- and post-delivery dust samples .
+In 12% of the dust samples , the concentration of BDE-209 was lower than that of the summed concentration of PentaBDE congeners .
+The median concentrations of BDE-47 and BDE-99 in dust were 16.9 and 13.6 ng/g , respectively .
+The dust concentrations were in line with other European studies and confirmed previously established geographical differences between continental Europe and North America .
+Additional octa- and nonaBDE congeners ( BDE-197 , BDE-203 , BDE-206 , BDE-207 , and BDE-208 ) were analysed in dust and analytical issues were discussed as these congeners also can be a product of thermal degradation of BDE-209 in gas chromatographic analysis .
+BDE-206 was the dominating nonaBDE , with median and maximum concentrations of 12.8 and 2217 ng/g , respectively , but the ratio of nonaBDEs to the sum of nona- and decaBDEs was relatively constant , despite a large range in absolute dust concentrations .
+While the congeners of the PentaBDE mixture were highly inter-correlated for both dust and air , no correlation was found with BDE-209 in either matrix .
+Air concentrations were relatively high in an international context , with median concentrations of 134 , 63.7 and 119 pg/m³ for BDE-47 , BDE-99 and BDE-209 , respectively , and not correlated with dust concentrations .
+Additional placenta data were available for the study group and found to correlate significantly with dust concentrations for some PentaBDE congeners , but not BDE-209 , indicating that dust may be an important exposure pathway for PentaBDE congeners .
+While BDE-209 also was present in placenta , it did not exceed the other congeners by the same factors as in dust .
+This might be caused by a combination of the compound's physical-chemical properties affecting bioavailability , uptake , partitioning and metabolisation , and other sources of exposure , but was not investigated further in this study .
+For all matrices , the PBDE profile resembled that of the technical product Bromkal 70-5DE , but air contained higher percentages of the lower brominated congeners and placenta tissue was dominated by BDE-153 .
+The predominance of BDE-153 has been described in other studies on human samples and related to the highest retention in the body , but further research into toxicokinetics will be required to clarify mechanisms .

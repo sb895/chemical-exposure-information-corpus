@@ -1,0 +1,14 @@
+The accuracy of the exposure assessment is a critical factor in epidemiological investigations of pesticide exposures and health in agricultural populations .
+However , few studies have been conducted to evaluate questionnaire-based exposure metrics .
+The Agricultural Health Study ( AHS ) is a prospective cohort study of pesticide applicators who provided detailed questionnaire information on their use of specific pesticides .
+A field study was conducted for a subset of the applicators enrolled in the AHS to assess a pesticide exposure algorithm through comparison of algorithm intensity scores with measured exposures .
+Pre- and post-application urinary biomarker measurements were made for 2,4-D ( n=69 ) and chlorpyrifos ( n=17 ) applicators .
+Dermal patch , hand wipe , and personal air samples were also collected .
+Intensity scores were calculated using information from technician observations and an interviewer-administered questionnaire .
+Correlations between observer and questionnaire intensity scores were high ( Spearman's r=0.92 and 0.84 for 2,4-D and chlorpyrifos , respectively ) .
+Intensity scores from questionnaires for individual applications were significantly correlated with post-application urinary concentrations for both 2,4-D ( r=0.42 , P<0.001 ) and chlorpyrifos ( r=0.53 , P=0.035 ) applicators .
+Significant correlations were also found between intensity scores and estimated hand loading , estimated body loading , and air concentrations for 2,4-D applicators ( r-values 0.28-0.50 , P-values<0.025 ) .
+Correlations between intensity scores and dermal and air measures were generally lower for chlorpyrifos applicators using granular products .
+A linear regression model indicated that the algorithm factors for individual applications explained 24% of the variability in post-application urinary 2,4-D concentration , which increased to 60% when the pre-application urine concentration was included .
+The results of the measurements support the use of the algorithm for estimating questionnaire-based exposure intensities in the AHS for liquid pesticide products .
+Refinement of the algorithm may be possible using the results from this and other measurement studies .

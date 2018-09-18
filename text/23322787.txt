@@ -1,0 +1,10 @@
+BACKGROUND Arsenic ( III ) methyltransferase ( AS3MT ) has been related to urine arsenic metabolites in association studies .
+Other genes might also play roles in arsenic metabolism and excretion .
+OBJECTIVE We evaluated genetic determinants of urine arsenic metabolites in American Indian adults from the Strong Heart Study ( SHS ) .
+METHODS We evaluated heritability of urine arsenic metabolites [ percent inorganic arsenic ( %iAs ) , percent monomethylarsonate ( %MMA ) , and percent dimethylarsinate ( %DMA) ] in 2,907 SHS participants with urine arsenic measurements and at least one relative within the cohort .
+We conducted a preliminary linkage analysis in a subset of 487 participants with available genotypes on approximately 400 short tandem repeat markers using a general pedigree variance component approach for localizing quantitative trait loci ( QTL ) .
+RESULTS The medians ( interquartile ranges ) for %iAs , %MMA , and %DMA were 7.7% ( 5.4-10.7% ) , 13.6% ( 10.5-17.1% ) , and 78.4% ( 72.5-83.1% ) , respectively .
+The estimated heritability was 53% for %iAs , 50% for %MMA , and 59% for %DMA .
+After adjustment for sex , age , smoking , body mass index , alcohol consumption , region , and total urine arsenic concentrations , LOD [ logarithm ( to the base of 10 ) of the odds ] scores indicated suggestive evidence for genetic linkage with QTLs influencing urine arsenic metabolites on chromosomes 5 ( LOD = 2.03 for %iAs ) , 9 ( LOD = 2.05 for %iAs and 2.10 for %MMA ) , and 11 ( LOD = 1.94 for %iAs ) .
+A peak for %DMA on chromosome 10 within 2 Mb of AS3MT had an LOD of 1.80 .
+CONCLUSIONS This population-based family study in American Indian communities supports a genetic contribution to variation in the distribution of arsenic metabolites in urine and , potentially , the involvement of genes other than AS3MT .

@@ -1,0 +1,9 @@
+The Hudson River has been a federally designated Superfund site for over 20 years .
+Discharges of industrial waste and of treated and untreated sewage and atmospheric deposition have introduced mercury and other persistent pollutants to the Hudson River ecosystem .
+Despite New York and New Jersey health advisories , many local anglers and their family members continue to consume fish caught from the river .
+To evaluate associations between body burden of mercury and local fish consumption , we conducted a cross-sectional study of 191 anglers recruited from piers and fishing clubs .
+Participants were administered a questionnaire to obtain information on local fish consumption , and 65% ( 124 individuals ) provided a blood sample used to determine mercury levels .
+Mercury levels ranged from below the limit of detection ( 0.75 ng/mL ) to 24.0 ng/mL .
+Participants who reported eating locally caught fish had significantly higher levels of mercury ( mean ( M)=2.4 ng/mL , standard error ( SE)=1.2 ) than anglers who never ate locally caught fish ( M=1.3 ng/mL , SE=1.1 ) .
+A positive dose-response pattern was also observed , where participants who reported eating locally caught fish more than once a week had higher mercury levels ( M=2.6 ng/mL , SE=1.1 ) than anglers eating fish less frequently ( M=2.0 ng/mL , SE=1.2 ) or never at all ( M=1.3 ng/mL , SE=1.1 ) .
+These findings indicate that consumption of fish caught from the lower Hudson River area is a route of human exposure to mercury for the angling community .

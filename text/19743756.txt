@@ -1,0 +1,8 @@
+BACKGROUND Some studies suggest that high levels of blood and hair mercury ( Hg ) increase the risk of atherothrombotic diseases , an effect that may be explained by oxidative damage to the vascular endothelium .
+OBJECTIVES We tested whether high Hg levels impair the vasodilating function of the vascular endothelium or increase blood pressure .
+METHODS We measured the association between high blood and hair Hg and brachial artery flow mediated vasodilation ( FMD% ) , middle cerebral artery reactivity to CO2 ( MCAR% ) and hypertensive status in 101 participants in the Wisconsin Sleep Cohort Study ( mean age of 59.4 years ; 52.5% male ) .
+Whole blood total Hg and hair total Hg were tested using inductively coupled plasma mass spectrometry and cold vapor atomic fluorescence spectrometry , respectively .
+RESULTS Geometric mean blood and hair Hg were 1.16 microg/L and 270.1 ng/g .
+Blood and hair Hg were not significantly associated with FMD% and MCAR% .
+However , after adjustment for other risk factors , people in the upper quartile of blood Hg were 1.9 times ( P=0.23 ) more likely to be hypertensive and those in the upper quartile of hair Hg were more than 4 times more likely ( P=0.02 ) .
+CONCLUSION High hair and blood Hg levels do not seem to influence vascular reactivity , but may increase the risk of hypertension .

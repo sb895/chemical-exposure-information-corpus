@@ -1,0 +1,1 @@
+< <biomonitoring--effect marker--biomarker--molecule--other molecule< <exposure routes--inhalation--personal measurement--< <exposure routes--inhalation--< <exposure routes--inhalation--personal measurement--workers

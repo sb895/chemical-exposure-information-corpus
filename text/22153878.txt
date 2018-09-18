@@ -1,0 +1,11 @@
+Simple aromatic hydrocarbon benzene occurs naturally in crude oil and petroleum .
+Benzene has been internationally recognised as a haematotoxin and carcinogen .
+The involvement of oxidative stress is a major susceptibility factors for benzene hematotoxicity in humans .
+Advanced oxidation protein products ( AOPPs ) and advanced glycation end products ( AGEs ) are modified structures which can serve as markers of oxidative stress .
+The aim of this study is to assess modification of circulating AOPPs and AGEs , as early markers of oxidative stress , in subjects exposed to low dose of benzene .
+Furthermore the genetic polymorphism of glutathione-S-transferase ( GST ) may be related to health effects of benzene exposure , in fact both genotype T1 ( GSTT1 ) and M1 ( GSTM1 ) are involved in the detoxification of benzene oxide .
+The study was performed on 54 workers oil refinery employees .
+A group of 32 healthy age-matched subjects was included as controls .
+The AOPPs serum levels in oil refinery employees were higher in a statistically significant way than those measured in controls , but there were no significant changes in serum AGE levels between both groups .
+However , GST polymorphisms had not influence on serum levels of both biomarkers , so demonstrating that production of circulating AGEs and AOPPs in benzene parity-exposed workers levels is not dependent by GST genotypes .
+We can conclude that , in this condition , AOPPs are more sensitive marker of low benzene exposure than AGEs .

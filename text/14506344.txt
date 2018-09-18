@@ -1,0 +1,8 @@
+The healthy worker effect and incomplete exposure information have been problems in former studies regarding the association between exposure to Portland cement dust and respiratory effects .
+We included former workers and made an individual estimation of particle exposure to reduce the selection bias in this controlled cross-sectional study on the effects of cement dust exposure on respiratory symptoms and ventilatory function in long-term exposed Norwegian cement plant workers .
+A total of 119 workers from the largest cement plant in Norway and 50 workers from a nearby control plant , born 1918 to 1938 , performed spirometry and gave information on respiratory symptoms in 1998 and 1999 .
+The prevalence of symptoms and mean pulmonary function indices were similar for exposed workers and controls .
+There was no dose-response-related increase in symptoms or decrease in lung function indices .
+The estimated power to detect a true difference between forced expiratory volume in one second ( FEV1 ) in the two groups of 0.3l was 0.90 , assuming 95% significance level .
+The prevalence of chronic obstructive pulmonary disease was 14.3% in the exposed group and 14.0% among the controls .
+These findings do not support the hypothesis that cement dust exposure has a negative impact on lung function or gives an increase in respiratory symptoms .

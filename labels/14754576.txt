@@ -1,0 +1,1 @@
+< < < <exposure routes--oral intake--food--<exposure routes--inhalation-- AND exposure routes--oral intake--dust-- AND exposure routes--oral intake--food-- AND exposure routes--oral intake--soil--< <exposure routes--oral intake--dust--children AND exposure routes--oral intake--food--children AND exposure routes--oral intake--soil--children< < < 

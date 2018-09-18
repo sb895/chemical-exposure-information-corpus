@@ -1,0 +1,10 @@
+A total of 420 human plasma from two cities ( Halle and Münster , Germany ) collected between 1982 and 2009 , were analyzed for a suite of PFSAs ( C4 , C6 , C8 , C10 ) and selected PFOS precursors ( MeFOSAA , EtFOSAA , FOSAA , di-SAmPAP ) .
+Among these target analytes , only di-SAmPAP was used in consumer products .
+PFSAs ( C6 and C8 ) , MeFOSAA , EtFOSAA , and FOSAA were detected in over 95% of the samples ( <0.0011-116.0 ng/mL ) , PFDS was detected in approximately 40% of the samples ( <0.005-0.0998 ng/mL ) , and di-SAmPAP was detected in 17% of the samples ( <0.005-0.0137 ng/mL ) .
+Significant positive correlations were found between PFOS and PFHxS , MeFOSAA , EtFOSAA , and FOSAA .
+Temporal trends of decreasing concentration were identified for PFOS , MeFOSAA , EtFOSAA , and FOSAA , but not for PFHxS .
+Di-SAmPAP , a common food-contact paper surfactant and expected PFOS precursor , was detected infrequently ( 25% in samples prior to 2000 ) in samples before 2006 .
+Population halving times of PFOS , MeFOSAA , EtFOSAA , and FOSAA were estimated .
+The observed reduction of these chemicals over time in human plasma is presumably related to the phase-out of POSF-based products beginning in 2000 .
+The detection of di-SAmPAP in human sera is significant because this chemical is expected to be metabolized or degraded to PFOS in humans and the environment .
+Our detection of di-SAmPAP is the first confirmation of human exposure to this commercially available product which is a plausible source of PFOS in humans .

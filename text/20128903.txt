@@ -1,0 +1,18 @@
+BACKGROUND Products containing biocides are used for a variety of purposes in the home environment .
+To assess potential health risks , data on products containing biocides were gathered by means of a market survey , exposures were estimated using a worst case scenario approach ( screening ) , the hazard of the active components were evaluated , and a preliminary risk assessment was conducted .
+METHODS Information on biocide-containing products was collected by on-site research , by an internet inquiry as well as research into databases and lists of active substances .
+Twenty active substances were selected for detailed investigation .
+The products containing these substances were subsequently classified by range of application ; typical concentrations were derived .
+Potential exposures were then estimated using a worst case scenario approach according to the European Commission's Technical Guidance Document on Risk Assessment .
+Relevant combinations of scenarios and active substances were identified .
+The toxicological data for these substances were compiled in substance dossiers .
+For estimating risks , the margins of exposure ( MOEs ) were determined .
+RESULTS Numerous consumer products were found to contain biocides .
+However , it appeared that only a limited number of biocidal active substances or groups of biocidal active substances were being used .
+The lowest MOEs for dermal exposure or exposure by inhalation were obtained for the following scenarios and biocides : indoor pest control using sprays , stickers or evaporators ( chlorpyrifos , dichlorvos ) and spraying of disinfectants as well as cleaning of surfaces with concentrates ( hydrogen peroxide , formaldehyde , glutardialdehyde ) .
+The risk from aggregate exposure to individual biocides via different exposure scenarios was higher than the highest single exposure on average by a factor of three .
+From the 20 biocides assessed 10 had skin-sensitizing properties .
+The biocides isothiazolinone ( mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and 2-methyl-2H-isothiazolin-3-one , CMI/MI ) , glutardialdehyde , formaldehyde and chloroacetamide may be present in household products in concentrations which have induced sensitization in experimental studies .
+CONCLUSIONS Exposure to biocides from household products may contribute to induction of sensitization in the population .
+The use of biocides in consumer products should be carefully evaluated .
+Detailed risk assessments will become available within the framework of the EU Biocides Directive .

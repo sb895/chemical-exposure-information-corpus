@@ -1,0 +1,9 @@
+Occupational exposure to aluminium , arsenic , lead , cadmium , and manganese can increase the risk of numerous neurophysiological changes in workers , and may lead to conditions resembling Parkinson's and Alzheimer's disease .
+However , although the health hazard aspect of these agents has been examined , biomass-fired power plant workers ' exposure to them remains a neglected issue .
+The purpose of this study was to measure maintenance and ash removal workers ' multiple exposures to inhalable dust , metals , and crystalline silica during their work tasks in biomass-fired power plants .
+Maintenance and ash removal workers were exposed to high inhalable dust concentrations inside biomass-fired boilers .
+The median air inhalable dust concentration in workers ' breathing zones were 33mgm(-3) and 120mgm(-3) in ash removal and maintenance tasks , respectively .
+The median concentration of manganese ( 0.31mgm(-3) ) exceeded the occupational exposure limit in worker's breathing zone samples in maintenance tasks .
+The most evident exposure-associated health risk from multiple exposures to metals was that of cancer , followed by central nervous system disorders , lower respiratory tract irritation , and finally upper respiratory tract irritation .
+To avoid the above mentioned health effects , powered air respirators with ABEK+P3 cartridges and carbon monoxide gas detectors are recommended as the minimum requirement for these work tasks .
+A compressed air breathing apparatus is the best form of protection for the most demanding work phases inside boilers in biomass-fired power plants .

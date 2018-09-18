@@ -1,0 +1,8 @@
+Polychlorinated biphenyls ( PCBs ) have been suspected for some time of having adverse effects on neuropsychological functioning in humans .
+While there is evidence of slowing of cognitive function in children associated with exposure to PCBs , the evidence of comparable effects on adults is far less well understood .
+We report here on the neuropsychological evaluation of 277 Native American adults , ranging in age from 18 to 79 , who were exposed to PCBs by way of environmental contamination in the St. Lawrence region of upstate New York .
+PCB body burden was estimated by 101 PCB congeners and neuropsychological functioning was assessed by a battery of 18 tests .
+Spline regression models were fitted to the latent variables of memory , motor function , and higher-order executive functioning .
+After adjusting for age , gender , and education the analyses revealed a threshold effect of PCBs at approximately 2 ppb .
+An age-by-PCB interaction effect was also observed for several variables which suggests that the threshold effect was largely confined to the age range of 40-79 and was not observable in the 18-40-year-old group .
+Implications of these results are discussed in comparison to previously published similar work with adults and in terms of its potential clinical meaningfulness .

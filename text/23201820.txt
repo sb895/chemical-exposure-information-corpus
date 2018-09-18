@@ -1,0 +1,12 @@
+Persistent organic pollutants ( POPs ) exert harmful effects on cognitive , endocrine and immune functions and bioaccumulate in the environment and human tissues .
+The aim of this study was to investigate the body burden of several POPs in the adult population ( n=246 ) and their association to diet and other lifestyle factors in a Swedish national survey .
+Serum concentrations of several polychlorinated biphenyls ( PCBs ) , and the pesticides hexachlorobenzene ( HCB ) , \u03b2-hexachlorocyclohexane ( \u03b2-HCH ) , chlordane compounds and dichlorodiphenyldichloroethylene ( DDE ) were determined by liquid-liquid extraction , silica column cleanup and gas chromatography high resolution mass spectrometry .
+Diet was assessed using 4-day food records and complementary dietary and lifestyle factors by questionnaire .
+Fish intake was additionally assessed by plasma fatty acid composition .
+Clustering of the compounds revealed that PCBs were separated into two clusters , one including low-chlorinated PCB 28 and 52 , and the other high-chlorinated mono- and di-ortho PCBs , suggesting similarities and dissimilarities in exposure sources and possibly also toxicokinetics .
+Men had 24% and 32% higher levels of PCB 138-180 and chlordane compounds , respectively , compared with women .
+This may partly be explained by elimination of the POPs among women reporting a history of breastfeeding .
+The proportion of very long-chain n-3 fatty acids in plasma were positively correlated with the pollutants : r=0.24 ( PCB 28 ) , r=0.33 ( PCB 118 ) , r=0.35 ( PCB 138-180 ) , r=0.29 ( HCB ) , r=0.18 ( \u03b2-HCH ) , r=0.34 ( chlordane compounds ) , r=0.34 ( p,p'-DDE ) , p\u22640.005 .
+Individuals consuming fatty Baltic fish\u22651 time per months had 45% higher serum levels of PCB 118 compared with non-consumers .
+Levels of PCB 28 were associated with the age of the residential building .
+To conclude , the population-distributed approach of surveying dietary habits , lifestyle factors and POP body burdens , made it possible to identify personal characteristics associated with the POP body burdens in Sweden .

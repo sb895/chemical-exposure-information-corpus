@@ -1,0 +1,12 @@
+The purpose of this study was to estimate exposure of pregnant women in Poland to fine particulate matter [ less than or equal to 2.5 microm in diameter ( PM 2.5) ] and to assess its effect on the birth outcomes .
+The cohort consisted of 362 pregnant women who gave birth between 34 and 43 weeks of gestation .
+The enrollment included only nonsmoking women with singleton pregnancies , 18-35 years of age , who were free from chronic diseases such as diabetes and hypertension .
+PM 2.5 was measured by personal air monitoring over 48 hr during the second trimester of pregnancy .
+All assessed birth effects were adjusted in multiple linear regression models for potential confounding factors such as the size of mother ( maternal height , prepregnancy weight ) , parity , sex of child , gestational age , season of birth , and self-reported environmental tobacco smoke ( ETS ) .
+The regression model explained 35% of the variability in birth weight ( beta = -200.8 , p = 0.03 ) , and both regression coefficients for PM 2.5 and birth length ( beta = -1.44 , p = 0.01 ) and head circumference ( HC ; beta = -0.73 , p = 0.02 ) were significant as well .
+In all regression models , the effect of ETS was insignificant .
+Predicted reduction in birth weight at an increase of exposure from 10 to 50 microg/m3 was 140.3 g .
+The corresponding predicted reduction of birth length would be 1.0 cm , and of HC , 0.5 cm .
+The study provides new and convincing epidemiologic evidence that high personal exposure to fine particles is associated with adverse effects on the developing fetus .
+These results indicate the need to reduce ambient fine particulate concentrations .
+However , further research should establish possible biologic mechanisms explaining the observed relationship .

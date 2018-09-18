@@ -1,0 +1,11 @@
+The objective of this analysis was to evaluate mortality among a cohort of 24,865 capacitor-manufacturing workers exposed to polychlorinated biphenyls ( PCBs ) at plants in Indiana , Massachusetts , and New York and followed for mortality through 2008 .
+Cumulative PCB exposure was estimated using plant-specific job-exposure matrices .
+External comparisons to US and state-specific populations used standardized mortality ratios , adjusted for gender , race , age and calendar year .
+Among long-term workers employed 3 months or longer , within-cohort comparisons used standardized rate ratios and multivariable Poisson regression modeling .
+Through 2008 , more than one million person-years at risk and 8749 deaths were accrued .
+Among long-term employees , all-cause and all-cancer mortality were not elevated ; of the a priori outcomes assessed only melanoma mortality was elevated .
+Mortality was elevated for some outcomes of a priori interest among subgroups of long-term workers : all cancer , intestinal cancer and amyotrophic lateral sclerosis ( women ) ; melanoma ( men ) ; melanoma and brain and nervous system cancer ( Indiana plant ) ; and melanoma and multiple myeloma ( New York plant ) .
+Standardized rates of stomach and uterine cancer and multiple myeloma mortality increased with estimated cumulative PCB exposure .
+Poisson regression modeling showed significant associations with estimated cumulative PCB exposure for prostate and stomach cancer mortality .
+For other outcomes of a priori interest - rectal , liver , ovarian , breast , and thyroid cancer , non-Hodgkin lymphoma , Alzheimer disease , and Parkinson disease - neither elevated mortality nor positive associations with PCB exposure were observed .
+Associations between estimated cumulative PCB exposure and stomach , uterine , and prostate cancer and myeloma mortality confirmed our previous positive findings .

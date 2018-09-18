@@ -1,0 +1,10 @@
+A quantitative retrospective exposure assessment method was developed for use in a nested case-control study of lung cancer among mine and pottery workers exposed to silica dust in the People's Republic of China .
+Exposure assessment was carried out in 20 mines ( 10 tungsten , 6 iron/copper , and 4 tin ) and nine pottery factories .
+A job title dictionary was developed and used in both the collection of historical exposure information and work histories of 1,668 ( 316 cases and 1,352 controls ) study subjects .
+Several data abstraction forms were developed to collect historical and current exposure information and employees ' work histories , starting in 1950 .
+A retrospective exposure matrix was developed on the basis of facility/job title/calendar year combinations using available historical exposure information and current exposure profiles .
+Information on the amount of respirable , thoracic , and free silica content in total dust was used in estimating exposure to silica .
+Starting in 1950 , 6,805 historical estimates had been carried out for 14 calendar-year periods .
+We estimated the average total dust concentration to be 9 mg/M3 , with a range from 28 mg/M3 in earlier years to 3 mg/M3 in recent years .
+Several exposure indices [ such as cumulative dust , average dust , cumulative respirable ( < 5 mu in particle size ) and thoracic ( < 10 mu in particle size ) silica dust , average respirable and thoracic silica dust , exposure-weighted duration , and the highest/longest exposure ] were calculated for individuals by merging work history and historical exposure matrix for each study subject .
+We developed these various measures of exposure to allow investigators to compare and contrast different indices of historical exposure to silica .

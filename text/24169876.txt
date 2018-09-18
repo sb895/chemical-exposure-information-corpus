@@ -1,0 +1,10 @@
+Individuals spend \u223c90% of their time indoors in proximity to sources of particulate and gaseous air pollutants .
+The sulfur tracer method was used to separate indoor concentrations of particulate matter ( PM ) PM2.5 mass , elements and thermally resolved carbon fractions by origin in New York City residences of asthmatic children .
+Enrichment factors relative to sulfur concentrations were used to rank species according to the importance of their indoor sources .
+Mixed effects models were used to identify building characteristics and resident activities that contributed to observed concentrations .
+Significant indoor sources were detected for OC1 , Cl , K and most remaining OC fractions .
+We attributed 46% of indoor PM2.5 mass to indoor sources related to OC generation indoors .
+These sources include cooking ( NO2 , Si , Cl , K , OC4 and OP ) , cleaning ( most OC fractions ) , candle/incense burning ( black carbon , BC ) and smoking ( K , OC1 , OC3 and EC1 ) .
+Outdoor sources accounted for 28% of indoor PM2.5 mass , mainly photochemical reaction products , metals and combustion products ( EC , EC2 , Br , Mn , Pb , Ni , Ti , V and S ) .
+Other indoor sources accounted for 26% and included re-suspension of crustal elements ( Al , Zn , Fe , Si and Ca ) .
+Indoor sources accounted for \u223c72% of PM2.5 mass and likely contributed to differences in the composition of indoor and outdoor PM2.5 exposures.Journal of Exposure Science and Environmental Epidemiology advance online publication , 30 October 2013 ; doi:10.1038/jes.2013.74 .

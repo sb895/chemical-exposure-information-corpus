@@ -1,0 +1,10 @@
+Airborne particulate matter ( PM ) may lead to increased cardiac risk through an inflammatory pathway .
+Therefore , we investigated associations between ambient PM and markers of systemic inflammation among repeated measures from 44 senior citizens ( >/= 60 years of age ) and examined susceptibility by conditions linked to chronic inflammation .
+Mixed models were used to identify associations between concentrations of fine PM [ aerodynamic diameter </= 2.5 microm ( PM2.5) ] averaged over 1-7 days and measures of C-reactive protein ( CRP ) , interleukin-6 ( IL-6 ) , and white blood cells ( WBCs ) .
+Effect modification was investigated for diabetes , obesity , hypertension , and elevated mean inflammatory markers .
+We found positive associations between longer moving averages of PM2.5 and WBCs across all participants , with a 5.5% [ 95% confidence interval ( CI ) , 0.10 to 11% ] increase per interquartile increase ( 5.4 microg/m3 ) of PM2.5 averaged over the previous week .
+PM2.5 and CRP also exhibited positive associations among all individuals for averages longer than 1 day , with the largest associations for persons with diabetes , obesity , and hypertension .
+For example , an interquartile increase in the 5-day mean PM)2.5 ( 6.1 microg/m3 ) was associated with a 14% increase in CRP ( 95% CI , -5.4 to 37% ) for all individuals and an 81% ( 95% CI , 21 to 172% ) increase for persons with diabetes , obesity , and hypertension .
+Persons with diabetes , obesity , and hypertension also exhibited positive associations between PM2.5 and IL-6 .
+Individuals with elevated mean inflammatory markers exhibited enhanced associations with CRP , IL-6 , and WBCs .
+We found modest positive associations between PM2.5 and indicators of systemic inflammation , with larger associations suggested for individuals with diabetes , obesity , hypertension , and elevated mean inflammatory markers .

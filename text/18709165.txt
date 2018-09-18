@@ -1,0 +1,12 @@
+BACKGROUND Asthma is the most important chronic disease of childhood .
+The U.S. Environmental Protection Agency has concluded that children with asthma continue to be susceptible to ozone-associated adverse effects on their disease .
+OBJECTIVES This study was designed to evaluate time trends in associations between declining warm-season O(3) concentrations and hospitalization for asthma in children .
+METHODS We undertook an ecologic study of hospital discharges for asthma during the high O(3) seasons in California's South Coast Air Basin ( SoCAB ) in children who ranged in age from birth to 19 years from 1983 to 2000 .
+We used standard association and causal statistical analysis methods .
+Hospital discharge data were obtained from the State of California ; air pollution data were obtained from the California Air Resources Board , and demographic data from the 1980 , 1990 , and 2000 U.S. Census .
+SoCAB was divided into 195 spatial grids , and quarterly average O(3) , sulfurdioxide , particulate matter with aerodynamic diameter < or = 10 microm , nitrogen dioxide , and carbon monoxide were assigned to each unit for 3-month periods along with demographic variables .
+RESULTS O(3) was the only pollutant associated with increased hospital admissions over the study period .
+Inclusion of a variety of demographic and weather variables accounted for all of the non-O(3) temporal changes in hospitalizations .
+We found a time-independent , constant effect of ambient levels of O(3) and quarterly hospital discharge rates for asthma .
+We estimate that the average effect of a 10-ppb mean increase in any given mean quarterly 1-hr maximum O(3) over the 18-year median of 87.7 ppb was a 4.6% increase in the same quarterly outcome .
+CONCLUSIONS Our data indicate that at current levels of O(3) experienced in Southern California , O(3) contributes to an increased risk of hospitalization for children with asthma .

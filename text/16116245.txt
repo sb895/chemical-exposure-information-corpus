@@ -1,0 +1,13 @@
+The selenium ( Se ) content of the diet and/or selenium supplements might have an ameliorating effect on arsenic ( As ) toxicity as recently shown by Wang et al. , Yang et al. , and as reviewed by Spallholz et al. .
+The underlying principles of the ameliorating effect is the complexation of Se with As forming the seleno-bis ( S-glutathionyl ) arsinium ion excreted in bile and the complexation of Se with As in tissues forming nontoxic insoluble selenides .
+Additional protection afforded by Se supplementation from arsenicosis could be the elevation of glutathione peroxidase activity reducing the oxidative stress induced by As .
+The present study assessed the status of Se and As in hair by neutron activation analysis ( NAA ) .
+Human hair samples were collected from the United States , Canada , The People's Republic of China ( PRC ) , Bangladesh , and Nepal , the latter two countries now engaged in a struggle to find relief from human arsenicosis resulting from extensive domestic groundwater contamination by As .
+No statistically significant differences were observed in the samples between the Se and As content of hair from , Lubbock , Texas ( USA ) or Winnipeg , Canada .
+The concentration of As in all hair samples analyzed correlated ( r = 0.960 , p < 0.001 ) with the amount of As in the drinking water .
+Selenium levels in hair were highest from Nepal .
+The results demonstrate the viability of hair as a noninvasive biomonitor in assessing aspects of dietary Se and environmental As exposure .
+The hair data confirmed the known low intake of Se in the Keshan disease area of the PRC , the very high accumulation in hair of As from subjects consuming contaminated groundwaters , and an adequate Se status in subjects from North America consuming municipal water of low As content .
+The high As content of hair from people in Bangladesh is the result of a high As consumption from contaminated water compounded by a less than desirable intake of Se .
+From Nepal , the As content of hair corresponded to the known low and high intake of As from contaminated groundwater .
+The very high Se content found in all hair samples from Nepal might be the result of the use of henna .

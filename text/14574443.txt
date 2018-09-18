@@ -1,0 +1,9 @@
+Metabolism of most diesters of phthalic acid in humans occurs by an initial phase I biotransformation in which phthalate monoesters are formed , followed by a phase II biotransformation in which phthalate monoesters react with glucuronic acid to form their respective glucuronide conjugates .
+The phase II conjugation increases water solubility and facilitates urinary excretion of phthalate , and reduces the potential biological activity because the putative biologically active species is the monoester metabolite .
+In this study , we report percentages of glucuronidation of four common phthalate monoesters , monoethyl ( mEP ) , monobutyl ( mBP ) , monobenzyl ( mBzP ) , and mono-2-ethylhexyl phthalate ( mEHP ) in a subset of urine ( mEP n=262 , mBP n=283 , mBzP n=328 , mEHP n=119 ) and serum ( mEP n=93 , mBP n=149 , mEHP n=141 ) samples from the general US population .
+The percentages of free and conjugated monoester excreted in urine differed for the various phthalates .
+For the more lipophilic monoesters ( i.e. , mBP , mBzP , and mEHP ) , the geometric mean of free monoester excretion ranged from 6 to 16% .
+The contrary was true for the most hydrophilic monoester , mEP , for which about 71% was excreted in urine as its free monoester .
+Furthermore , percentages of free and conjugated monoesters were similar for mEP , mBP and mEHP among serum and urine samples .
+Serum mBzP was largely below the method limit of detection .
+Interestingly , the serum mEP and mBP levels were less than 3% and 47% , respectively , of their urinary levels , whereas the level of mEHP was similar both in urine and serum .

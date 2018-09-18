@@ -1,0 +1,7 @@
+The objective of this study was to investigate the concentrations , seasonal variations , bioaccessibility , and associated human daily intake of polybrominated diphenyl ethers ( PBDEs ) in in- and out-house dust collected in Shanghai , China .
+The PBDE concentrations varied from 131.6 to 3,886.7 ng g(-1) ( with an average of 948.2 ng g(-1) ) in in-house dust and from 8.7 to 3,116.3 ng g(-1) ( with an average of 290.8 ng g(-1) ) in out-house dust during four seasons .
+The PBDE concentrations in the autumn were the lowest for both in- and out-house dust .
+Among the detected PBDEs , BDE209 was the predominant congener , accounting for more than 80% of the total PBDE amounts .
+The bioaccessibility of PBDEs , measured using a simulation system of human gastrointestinal tract , was determined as 14.2-66.4% depending on individual PBDE congeners and showed significant negative correlations with organic matter in dust .
+After corrected with the bioaccessibility of PBDEs , the human daily intake of PBDEs via dust ingestion was calculated to be 0.4-21.4 and 4.3-40.6 ng day(-1) for an average adult and child in Shanghai , respectively .
+The values were much lower than most estimates in the literature , in which the bioaccessibility of PBDEs were not taken into account , suggesting that the intake of PBDEs may have been overestimated .

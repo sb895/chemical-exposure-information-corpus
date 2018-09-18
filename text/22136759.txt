@@ -1,0 +1,16 @@
+BACKGROUND The use of biomass for cooking and heating is considered an important factor associated with respiratory diseases .
+However , few studies evaluate the amount of particulate matter less than 2.5 \u03bcm in diameter ( PM2.5 ) , symptoms and lung function in the same population .
+OBJECTIVES To evaluate the respiratory effects of biomass combustion and compare the results with those of individuals from the same community in Brazil using liquefied petroleum gas ( Gas ) .
+METHODS 1402 individuals in 260 residences were divided into three groups according to exposure ( Gas , Indoor-Biomass , Outside-Biomass ) .
+Respiratory symptoms were assessed using questionnaires .
+Reflectance of paper filters was used to assess particulate matter exposure .
+In 48 residences the amount of PM2.5 was also quantified .
+Pulmonary function tests were performed in 120 individuals .
+RESULTS Reflectance index correlated directly with PM2.5 ( r=0.92 ) and was used to estimate exposure ( ePM2.5 ) .
+There was a significant increase in ePM2.5 in Indoor-Biomass and Outside-Biomass , compared to Gas .
+There was a significantly increased odds ratio ( OR ) for cough , wheezing and dyspnea in adults exposed to Indoor-Biomass ( OR=2.93 , 2.33 , 2.59 , respectively ) and Outside-Biomass ( OR=1.78 , 1.78 , 1.80 , respectively ) compared to Gas .
+Pulmonary function tests revealed both Non-Smoker-Biomass and Smoker-Gas individuals to have decreased %predicted-forced expiratory volume in the first second ( FEV1 ) and FEV1/forced vital capacity ( FVC ) as compared to Non-Smoker-Gas .
+Pulmonary function tests data was inversely correlated with duration and ePM2.5 .
+The prevalence of airway obstruction was 20% in both Non-Smoker-Biomass and Smoker-Gas subjects .
+CONCLUSION Chronic exposure to biomass combustion is associated with increased prevalence of respiratory symptoms , reduced lung function and development of chronic obstructive pulmonary disease .
+These effects are associated with the duration and magnitude of exposure and are exacerbated by tobacco smoke .

@@ -1,0 +1,14 @@
+BACKGROUND Phthalates are a group of chemicals with widespread use in the industrial production of numerous consumer products .
+They are suspected to be involved in male reproductive health problems and have also been associated with several other health problems in children including obesity and asthma .
+OBJECTIVES To study the urinary excretion of phthalate metabolites in Danish children recruited from the general population , and to estimate the daily intake of phthalates in this segment of the population .
+METHOD One 24 h urine sample and to consecutive first morning urine samples were collected from 129 healthy Danish children and adolescents ( range 6-21 yrs ) .
+The concentrations of 11 phthalate metabolites of 5 different phthalate diesters were analyzed by liquid chromatography-tandem mass spectrometry .
+RESULTS The analyzed metabolites were detectable in almost all 24h urine samples .
+The median concentrations of monoethyl phthalate ( MEP ) , monobenzyl phthalate ( MBzP ) and the sums of the two monobutyl phthalate isoforms ( \u2211MBP(i+n) ) , metabolites of di-(2-ethylhexyl) phthalate ( \u2211DEHPm ) and of di-iso-nonyl phthalate ( \u2211DiNPm ) were 29 , 17 , 111 , 107 and 31 ng/mL , respectively .
+The youngest children were generally more exposed to phthalates than older children and adolescents ( except diethyl phthalate ( DEP) ) .
+Boys were more exposed than girls .
+The median estimated daily intake of phthalate diesters was : 4.29 ( dibutyl phthalate isoforms ( DBP(i+n)) ) , 4.04 ( DEHP ) , 1.70 ( DiNP ) , 1.09 ( DEP ) and 0.62 ( butylbenzyl phthalate ( BBzP) ) , all calculated as \u03bcg/kg body weight/24h .
+Between 40% and 48% of the absolute amount of phthalate metabolites excreted over 24h were excreted in first morning urine voids .
+CONCLUSION Danish children are exposed simultaneously to multiple phthalates .
+The highest exposure levels were found for DBP(i+n) and DEHP , which in animal models are the known most potent anti-androgenic phthalates .
+The combined exposure to the two isoforms of DBP , which have similar endocrine-disrupting potencies in animal models , exceeded the TDI for di-n-butyl phthalate ( DnBP ) in several of the younger children .

@@ -1,0 +1,8 @@
+Occupational exposure to styrene was studied in 34 workers employed in the production of fiberglass-reinforced plastic sheets and compared to 29 unexposed healthy controls .
+We evaluated genotoxic effects induced by occupational styrene exposure in lymphocytes by alkaline version of the comet assay to detect single-strand breaks ( SSBs ) , DNA oxidation products ( formamido pyrimidine glycosilase ( Fpg)- and endonuclease ( Endo III)-sensitive sites ) and DNA repair kinetics studies , as well as the neutral version of comet assay for DNA double-strand breaks ( DSBs ) .
+An innovative aspect of this study was the use of immuno-comet assay , a new technique that recognizes DSBs with specific antibody by DAPI/FITC method .
+The battery of parameters included markers of external and internal exposure .
+Exposed workers showed significant high levels of SSBs ( p<0.0001 ) and DSBs ( p<0.0001 ) in neutral- and immuno-comet assay .
+A drastic decrease in DNA repair activity as compared to controls was observed ( 180 min vs. 35 min ) .
+Styrene workplace concentration significantly correlated with alkaline comet parameters ( TM , p=0.013 ; TI , p=0.008 ) , in negative with TL ( p=0.022 ) , and with DNA-base oxidation ( TM Endo III , p=0.048 and TI Endo III , p=0.028 ) .
+There was a significant negative correlation between urinary metabolites ( MA+PGA ) and TM Endo III ( p=0.032 ) and TI Endo III ( p=0.017 ) .

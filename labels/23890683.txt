@@ -1,0 +1,1 @@
+<Biomonitoring--effect marker--biomarker--molecule--lipid AND Biomonitoring--effect marker--biomarker--oxidative stress AND exposure routes--inhalation--other--children< <exposure routes--inhalation--< < <exposure routes--inhalation--other--< <exposure routes--inhalation-- AND exposure routes--inhalation--other--

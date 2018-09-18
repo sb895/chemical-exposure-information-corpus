@@ -1,0 +1,16 @@
+Many studies use the number of fish meals as an estimate of Hg intake , although fish Hg concentrations , even within the same species , can greatly vary .
+Furthermore , most freshwater advisories only refer to local catch , while market fish advisories only focus on market fish , although both can contribute to Hg body burden .
+The present study , carried out in lakeside communities from 2 ecosystems in Quebec , Canada , sought to ( i ) estimate Hg intake from local freshwater sources , hunted waterfowl and market fish and seafood , and ( ii ) examine the relations between fish consumption , estimated Hg intake and biomarkers of exposure .
+A total of 238 adults ( 18-74 years ) , who had consumed local catch within the past three months , responded to an extensive interview-administered fish and waterfowl frequency questionnaire .
+Anthropometric measures were taken and a self-administered questionnaire was used to obtain socio-demographic information .
+Hg intake was estimated as microg Hg/kg body weight/day .
+Blood and hair samples were analyzed for Hg content .
+Results showed that persons from one ecosystem ate significantly more fish compared to those from the other ( median : 52.1 g/day vs 38.9 g/day ) , but presented significantly lower concentrations of hair Hg ( median : 448.0 ng/g vs 730.5 ng/g ) , blood organic Hg ( median : 1.1 microg/L vs 3.4 microg/L ) and inorganic Hg ( median : 0.4 microg/L vs 0.8 microg/L ) .
+Median daily total Hg intake was 0.080 microg/kg bw/day for the former community and 0.141 microg/kg bw/day for the latter .
+Overall , 59.5% from the first ecosystem and 41.0% from the other , exceeded the US EPA RfD ( 0.1 microg/kg bw/day ) , while 13.2% and 6.0% , respectively , exceeded the Canadian tolerable daily intake ( 0.47 microg/kg bw/day ) for adults .
+For the two groups , freshwater fish consumption frequency , but not total fish , was positively associated with bioindicators of Hg while estimated Hg intake from freshwater catch as well as from total fish consumption were positively related to Hg biomarkers .
+There was a positive relation between consumption and estimated Hg intake from freshwater fish and blood inorganic Hg .
+These findings indicate that the number of fish can be a poor surrogate for Hg exposure .
+The differences observed here for Hg intake and exposure reflect ecosystem disparities in fish diversity and Hg bioaccumulation .
+Studies and advisories need to consider Hg fish concentrations and fish-eating patterns in different ecosystems , as well as the contribution of market fish .
+The relation between fish consumption and inorganic Hg exposure , reported as well in other studies , needs to be further investigated .

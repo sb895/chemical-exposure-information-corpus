@@ -1,0 +1,14 @@
+An Indiana capacitor-manufacturing cohort ( n=3,569 ) was exposed to polychlorinated biphenyls ( PCBs ) from 1957 to 1977 .
+The original study of mortality through 1984 found excess melanoma and brain cancer ; other studies of PCB-exposed individuals have found excess non-Hodgkin lymphoma and rectal , liver , biliary tract , and gallbladder cancer .
+Mortality was updated through 1998 .
+Analyses have included standardized mortality ratios ( SMRs ) and 95% confidence intervals ( CIs ) using rates for Indiana and the United States , standardized rate ratios ( SRRs ) , and Poisson regression rate ratios ( RRs ) .
+Estimated cumulative exposure calculations used a new job-exposure matrix .
+Mortality overall was reduced ( 547 deaths ; SMR , 0.81 ; 95% CI , 0.7-0.9 ) .
+Non-Hodgkin lymphoma mortality was elevated ( 9 deaths ; SMR , 1.23 ; 95% CI , 0.6-2.3 ) .
+Melanoma remained in excess ( 9 deaths ; SMR , 2.43 ; 95% CI , 1.1-4.6 ) , especially in the lowest tertile of estimated cumulative exposure ( 5 deaths ; SMR , 3.72 ; 95% CI , 1.2-8.7 ) .
+Seven of the 12 brain cancer deaths ( SMR , 1.91 ; 95% CI , 1.0-3.3 ) occurred after the original study .
+Brain cancer mortality increased with exposure ( in the highest tertile , 5 deaths ; SMR , 2.71 ; 95% CI , 0.9-6.3 ) ; the SRR dose-response trend was significant ( p=0.016 ) .
+Among those working >or= 90 days , both melanoma ( 8 deaths ; SMR , 2.66 ; 95% CI , 1.1-5.2 ) and brain cancer ( 11 deaths ; SMR , 2.12 ; 95% CI , 1.1-3.8 ) were elevated , especially for women : melanoma , 3 deaths ( SMR , 5.99 ; 95% CI , 1.2-17.5 ) ; brain cancer , 3 deaths ( SMR , 2.87 ; 95% CI , 0.6-8.4 ) .
+These findings of excess melanoma and brain cancer mortality confirm results of the original study .
+Melanoma mortality was not associated with estimated cumulative exposure .
+Brain cancer mortality did not demonstrate a clear dose-response relationship with estimated cumulative exposure .

@@ -1,0 +1,8 @@
+BACKGROUND Arsenic exposure from drinking water has been associated with heart disease ; however , underlying mechanisms are uncertain .
+OBJECTIVE We evaluated the association between a history of arsenic exposure from drinking water and the prolongation of heart rate-corrected QT ( QTc ) , PR , and QRS intervals.Method : We conducted a study of 1,715 participants enrolled at baseline from the Health Effects of Arsenic Longitudinal Study .
+We assessed the relationship of arsenic exposure in well water and urine samples at baseline with parameters of electrocardiogram ( ECG ) performed during 2005-2010 , 5.9 years on average since baseline .
+RESULTS The adjusted odds ratio ( OR ) for QTc prolongation , defined as a QTc \u2265 450 msec in men and \u2265 460 msec in women , was 1.17 ( 95% CI : 1.01 , 1.35 ) for a 1-SD increase in well-water arsenic ( 108.7 µg/L ) .
+The positive association appeared to be limited to women , with adjusted ORs of 1.24 ( 95% CI : 1.05 , 1.47 ) and 1.24 ( 95% CI : 1.01 , 1.53 ) for a 1-SD increase in baseline well-water and urinary arsenic , respectively , compared with 0.99 ( 95% CI : 0.73 , 1.33 ) and 0.86 ( 95% CI : 0.49 , 1.51 ) in men .
+There were no apparent associations of baseline well-water arsenic or urinary arsenic with PR or QRS prolongation in women or men .
+CONCLUSIONS Long-term arsenic exposure from drinking water ( average 95 µg/L ; range , 0.1-790 µg/L ) was associated with subsequent QT-interval prolongation in women .
+Future longitudinal studies with repeated ECG measurements would be valuable in assessing the influence of changes in exposure .

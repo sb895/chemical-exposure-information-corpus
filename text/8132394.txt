@@ -1,0 +1,12 @@
+A historical cohort of service station attendants is underway .
+It is aimed at evaluating possible excess cancer risk in relation to exposure intensity .
+In this paper we discuss the feasibility of a retrospective exposure assessment by evaluating the association between indicators of workload and the exposure intensity to some aromatic hydrocarbons measured in a sample of current employees .
+Available for the analysis were 703 personal samples from 111 filling station workers .
+Measured concentrations of benzene , toluene and xylenes ( 8-hour time weighted averages ) averaged 0.55 mg/m3 , 0.71 mg/m3 and 0.32 mg/m3 , respectively .
+The number of vehicles filled , the daily sales of super premium gasoline and motorbike fuel , and the winter season were all significant predictors of the log concentration of benzene in simple regression analyses .
+The size of the station acted as an effect modifier .
+While no single variable was able to predict the benzene level in large stations , for small stations an increase of 0.0579 and of 0.0418 in the log benzene concentration per unit increase in super premium gasoline ( 100 I ) and in motorbike fuel ( 10 I ) dispensed , was estimated .
+The overall variance explained by the multivariate model , however , was only 12.3% .
+Therefore , a clear categorization of groups with homogeneous and significantly different exposure levels is not achievable .
+From the point of view of exposure assessment , workers in small stations with higher sales of super premium gasoline tend to have higher exposure levels .
+This group should be examined in detail when the final results of the cohort study are available .

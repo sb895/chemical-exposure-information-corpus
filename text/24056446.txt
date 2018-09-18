@@ -1,0 +1,11 @@
+This study evaluated the effectiveness of different configurations for two building design elements , namely building permeability and setback , proposed for mitigating air pollutant exposure problems in isolated deep canyons by using an indirect exposure approach .
+The indirect approach predicted the exposures of three different population subgroups ( i.e. pedestrians , shop vendors and residents ) by multiplying the pollutant concentrations with the duration of exposure within a specific micro-environment .
+In this study , the pollutant concentrations for different configurations were predicted using a computational fluid dynamics model .
+The model was constructed based on the Reynolds-Averaged Navier-Stokes ( RANS ) equations with the standard k-\u03b5 turbulence model .
+Fifty-one canyon configurations with aspect ratios of 2 , 4 , 6 and different building permeability values ( ratio of building spacing to the building façade length ) or different types of building setback ( recess of a high building from the road ) were examined .
+The findings indicated that personal exposures of shop vendors were extremely high if they were present inside a canyon without any setback or separation between buildings and when the prevailing wind was perpendicular to the canyon axis .
+Building separation and building setbacks were effective in reducing personal air exposures in canyons with perpendicular wind , although their effectiveness varied with different configurations .
+Increasing the permeability value from 0 to 10% significantly lowered the personal exposures on the different population subgroups .
+Likewise , the personal exposures could also be reduced by the introduction of building setbacks despite their effects being strongly influenced by the aspect ratio of a canyon .
+Equivalent findings were observed if the reduction in the total development floor area ( the total floor area permitted to be developed within a particular site area ) was also considered .
+These findings were employed to formulate a hierarchy decision making model to guide the planning of deep canyons in high density urban cities .

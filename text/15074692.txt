@@ -1,0 +1,9 @@
+A model is developed that predicts exposure and absorbed dose for chemical contaminants in household drinking water via three pathways : inhalation , direct and indirect ingestion , and dermal penetration .
+Extensive probability distributions for building characteristics , activity and water use patterns , operating conditions of water devices , and physiological characteristics of the general population are developed .
+The impacts of different operating conditions on mass transfer coefficients for the shower , bath , washing machine , dishwasher , and faucet are established .
+Dichlorobromomethane , inorganic lead , and endosulfan , three compounds associated with adverse birth outcomes that have significantly different chemical properties , are selected for analysis .
+The primary exposure pathways for dichlorobromomethane are inhalation ( 62% ) and ingestion ( 27% ) .
+Seventy percent of total exposure to endosulfan comes from ingestion , and 18% from dermal sorption with the remaining 12% due to inhalation .
+Virtually all ( 99.9% ) of the exposure to lead occurs via ingestion .
+A nested Monte Carlo analysis shows that natural variability contributes significantly more ( a factor of 10 ) toward total uncertainty than knowledge uncertainty ( a factor of 1.5 ) .
+Better identification of certain critical input variables ( ventilation rate in the shower and bathroom , ingestion rate , the boiling water mass transfer coefficient , and skin permeability ) is required .

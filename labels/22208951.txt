@@ -1,0 +1,1 @@
+< <Biomonitoring--effect marker--biomarker--molecule--lipid AND  Biomonitoring--exposure biomarker--blood--< <  Biomonitoring--exposure biomarker--blood--<  Biomonitoring--exposure biomarker--blood--< <  Biomonitoring--effect marker--biomarker--molecule--lipid<  Biomonitoring--effect marker--biomarker--molecule--lipid

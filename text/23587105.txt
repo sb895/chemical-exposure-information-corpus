@@ -1,0 +1,12 @@
+BACKGROUND The aim was to investigate possible associations between glioma ( an aggressive type of brain cancer ) and occupational exposure to selected agents : combustion products ( diesel and gasoline exhaust emissions , benzo(a)pyrene ) , dusts ( animal dust , asbestos , crystalline silica , wood dust ) and some other chemical agents ( formaldehyde , oil mist , sulphur dioxide ) .
+METHODS The INTEROCC study included cases diagnosed with glioma during 2000-2004 in sub-regions of seven countries .
+Population controls , selected from various sampling frames in different centers , were frequency or individually matched to cases by sex , age and center .
+Face-to-face interviews with the subject or a proxy respondent were conducted by trained interviewers .
+Detailed information was collected on socio-economic and lifestyle characteristics , medical history and work history .
+Occupational exposure to the 10 selected agents was assessed by a job exposure matrix ( JEM ) which provides estimates of the probability and level of exposure for different occupations .
+Using a 25% probability of exposure in a given occupation in the JEM as the threshold for considering a worker exposed , the lifetime prevalence of exposure varied from about 1% to about 15% for the different agents .
+Associations between glioma and each of the 10 agents were estimated by conditional logistic regression , and using three separate exposure indices : i ) ever vs. never ; ii ) lifetime cumulative exposure ; iii ) total duration of exposure .
+RESULTS The study sample consisted of 1,800 glioma cases and 5,160 controls .
+Most odds ratio estimates were close to the null value .
+None of the ten agents displayed a significantly increased odds ratio nor any indication of dose-response relationships with cumulative exposure or with duration of exposure .
+CONCLUSION Thus , there was no evidence that these exposures influence risk of glioma .

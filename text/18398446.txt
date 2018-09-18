@@ -1,0 +1,13 @@
+The NORMTOX model predicts the lifetime-averaged exposure to contaminants through multiple environmental media , that is , food , air , soil , drinking and surface water .
+The model was developed to test the coherence of Dutch environmental quality objectives ( EQOs ) .
+A set of EQOs is called coherent if simultaneous exposure to different environmental media that are all polluted up to their respective EQOs does not result in exceeding the acceptable or tolerable daily intake ( ADI or TDI ) .
+Aim of the present study is to separate the impact of uncertainty and interindividual variability in coherence predictions with the NORMTOX model .
+The method is illustrated in a case study for chlorfenvinphos , mercury and nitrate .
+First , ANOVA was used to calculate interindividual variability in input parameters .
+Second , nested Monte Carlo simulation was used to propagate uncertainty and interindividual variability separately .
+Lifetime-averaged exposure to chlorfenvinphos , mercury and nitrate was modeled for the Dutch population .
+Output distributions specified the population fraction at risk , due to a particular exposure , and the reliability of this risk .
+From the case study , it was obtained that at lifelong exposure to all media polluted up to their standard , 100% of the Dutch population exceeds the ADI for chlorfenvinphos , 15% for mercury and 0% for nitrate .
+Variance in exposure to chlorfenvinphos , mercury and nitrate is mostly caused by interindividual variability instead of true uncertainty .
+It is concluded that the likelihood that ADIs of chlorfenvinphos and mercury will be exceeded should be further explored .
+If exceeding is likely , decision makers should focus on identification of high-risk subpopulations , rather than on additional research to obtain more accurate estimates for particular parameters .

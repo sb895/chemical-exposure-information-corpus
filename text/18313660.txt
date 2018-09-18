@@ -1,0 +1,9 @@
+The aim of this study was to examine the relationship between insulin sensitivity and polychlorinated biphenyls ( PCBs ) exposure in non-diabetic pregnant women .
+Forty gravidas , 21-39 years of age and residing within the study area , were recruited .
+Seventeen 2,3,7,8-substituted dichloro-p-dioxin , dibenzofurans and 12 PCBs were measured using high-resolution gas chromatography/high-resolution mass spectrometry ( HRGC/HRMS ) .
+Serum insulin and glucose were also measured .
+Insulin sensitivity and the quantitative insulin sensitivity check index ( QUICKI ) were calculated based on fasting glucose and insulin levels .
+Three specific congeners of PCBs ( 123 , 126 , and 169 ) were significantly associated with insulin activity ( r=-0.34 approximately -0.36 , p<0.05 ) .
+Statistical analyses revealed that insulin sensitivity was significantly associated with age- and pre-pregnancy body mass indices ( BMI)-adjusted for decreasing toxic equivalents ( TEQ ) of PCBs ( p=0.02 for age- and BMI-adjusted ) .
+We also performed an insulin correlation for total TEQ and the TEQ of PCBs , and determined that insulin sensitivity was predicted by the TEQ of PCBs by a regression coefficient of -0.189 after adjustment for age and pre-pregnancy BMI .
+These findings suggest that PCBs may be associated with decreasing insulin sensitivity in non-diabetic pregnant women ; however , the mechanism remains to be ascertained .

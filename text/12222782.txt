@@ -1,0 +1,6 @@
+Dioxins including polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) and co-planar polychlorinated biphenyls ( Co-PCBs ) are highly toxic .
+Even at environmental pollution levels , they cause hormonal damage in women , and they have been shown to induce immunosuppression and genital function damage in humans .
+In this study , a new method using isotope dilution was established to detect PCDDs , PCDFs and Co-PCBs in human hair .
+This method , comprised of washing and cutting of hair , alkaline decomposition , hexane extraction , multilayer silica gel column chromatography , high performance liquid chromatography with a porous graphite carbon column and analysis by high resolution gas chromatography/high resolution mass spectrometry , enabled us to analyze PCDDs , PCDFs and Co-PCBs at trace levels of less than pg/g with good reproducibility .
+In addition , there was a correlation between some isomers in human hair and blood collected from identical donors .
+Human hair analysis is useful to evaluate human risk assessment including that due to environmental pollution .

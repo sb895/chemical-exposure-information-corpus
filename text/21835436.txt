@@ -1,0 +1,12 @@
+BACKGROUND Previous studies observed associations between airborne particles and cardio-vascular disease .
+Questions , however , remain as to which size of the inhalable particles ( coarse , fine , or ultrafine ) exerts the most significant impact on health .
+METHODS For this retrospective study , data of the total number of 23,741 emergency service calls , registered between February 2002 and January 2003 in the City of Leipzig , were analysed , identifying 5326 as being related to cardiovascular incidences .
+Simultaneous particle exposure was determined for the particle sizes classes <100 nm ( UFP ) , <2.5 \u03bcm ( PM2.5 ) and <10 \u03bcm ( PM10 ) .
+We used a time resolution of 1 day for both parameters , emergency calls and exposure .
+RESULTS Within the group of cardiovascular diseases , the diagnostic category of hypertensive crisis showed a significant association with particle exposure .
+The significant effect on hypertensive crisis was found for particles with a size of <100 nm in diameter and starting with a lag of 2 days after exposure .
+No consistent influence could be observed for PM2.5 and PM10 .
+The Odds Ratios on hypertensive crisis were significant for the particle size <100 nm in diameter from day 2 post exposure OR=1.06 ( 95%CI : 1.02-1.10 , p=0.002 ) up to day 7 OR=1.05 ( 95%CI 1.02-1.09 , p=0.005 ) .
+CONCLUSION Ultrafine particles affect cardiovascular disease adversely , particularly hypertensive crises .
+Their effect is significant compared with PM2.5 and PM10 .
+It appears necessary , from a public health point of view , to consider regulating this type of particles using appropriate measurands as particle number .

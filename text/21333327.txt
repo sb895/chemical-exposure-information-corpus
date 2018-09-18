@@ -1,0 +1,12 @@
+BACKGROUND Cadmium , a persistent and widespread environmental pollutant , has been associated with kidney function impairment and several diseases .
+Cigarettes are the dominant source of cadmium exposure among smokers ; the primary source of cadmium in non-smokers is food .
+We investigated sources of cadmium exposure in a sample of healthy women .
+METHODS In a cross-sectional study , 191 premenopausal women completed a health questionnaire and a food frequency questionnaire .
+The cadmium content of spot urine samples was measured with inductively-coupled plasma mass spectrometry and normalized to urine creatinine content .
+Multivariable linear regression was used to estimate the strength of association between smoking habits and , among non-smokers , usual foods consumed and urinary cadmium , adjusted for age , race , multivitamin and supplement use , education , estimated total energy intake , and parity .
+RESULTS Geometric mean urine creatinine-normalized cadmium concentration ( uCd ) of women with any history of cigarette smoking was 0.43 \u03bcg/g ( 95% confidence interval ( CI ) : 0.38-0.48 \u03bcg/g ) and 0.30 \u03bcg/g ( 0.27-0.33 \u03bcg/g ) among never-smokers , and increased with pack-years of smoking .
+Analysis of dietary data among women with no reported history of smoking suggested that regular consumption of eggs , hot cereals , organ meats , tofu , vegetable soups , leafy greens , green salad , and yams was associated with uCd .
+Consumption of tofu products showed the most robust association with uCd ; each weekly serving of tofu was associated with a 22% ( 95% CI : 11-33% ) increase in uCd .
+Thus , uCd was estimated to be 0.11 \u03bcg/g ( 95% CI : 0.06-0.15 \u03bcg/g ) higher among women who consumed any tofu than among those who consumed none .
+CONCLUSIONS Cigarette smoking is likely the most important source of cadmium exposure among smokers .
+Among non-smokers , consumption of specific foods , notably tofu , is associated with increased urine cadmium concentration .

@@ -1,0 +1,10 @@
+Traffic-related air pollution and noise are associated with cardiovascular diseases , and alternation of heart rate variability ( HRV ) , which reflects cardiac autonomic function , is one of the mechanisms .
+However , few studies considered the impacts of noise when exploring associations between air pollution and HRV .
+We explored whether noise modifies associations between short-term exposure to traffic-related air pollution and HRV in young healthy adults .
+In this randomized , crossover study , 40 young healthy adults stayed for 2 h in a traffic center and , on a separate occasion , in a park .
+Personal exposure to traffic-related air pollutants and noise were measured and ambulatory electrocardiogram was performed .
+Effects were estimated using mixed-effects regression models .
+Traffic-related air pollution and noise were both associated with HRV , and effects of air pollutants were amplified at high noise level ( >65.6 A-weighted decibels ( dB[A]) ) compared with low noise level ( \u2264 65.6 dB[A] ) .
+High frequency ( HF ) decreased by -4.61% ( 95% confidence interval , -6.75% to-2.42% ) per 10 \u03bcg/m(3) increment in fine particle ( PM2.5 ) at 5-min moving average , but effects became insignificant at low noise level ( P>0.05 ) .
+Similar effects modification was observed for black carbon ( BC ) and carbon monoxide ( CO ) .
+We conclude that noise is an important factor influencing the effects of air pollution on HRV .

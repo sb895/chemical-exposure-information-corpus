@@ -1,0 +1,8 @@
+This study investigated total mercury ( THg ) and methylmercury ( MeHg ) concentrations in five species of freshwater fish and their associated fish pond sediments collected from 18 freshwater fish ponds around the Pearl River Delta ( PRD ) .
+The concentrations of THg and MeHg in fish pond surface sediments were 33.1-386 ng g(-1) dry wt and 0.18-1.25 ng g(-1) dry wt , respectively .
+The age of ponds affected the surface sediment MeHg concentration .
+The vertical distribution of MeHg in sediment cores showed that MeHg concentrations decreased with increasing depth in the top 10 cm .
+In addition , a significant correlation was observed between %MeHg and DNA from Desulfovibrionacaea or Desulfobulbus ( p<0.05 ) in sediment cores .
+Concentrations of THg and MeHg in fish muscles ranged from 7.43-76.7 to 5.93-76.1 ng g(-1) wet wt , respectively , with significant linear relationships ( r=0.97 , p<0.01 , n=122 ) observed between THg and MeHg levels in fish .
+A significant correlation between THg concentrations in fish ( herbivorous : r=0.71 , p<0.05 , n=7 ; carnivorous : r=0.77 , p<0.05 , n=11 ) and corresponding sediments was also obtained .
+Risk assessment indicated that the consumption of largemouth bass and mandarin fish would result in higher estimated daily intakes ( EDIs ) of MeHg than reference dose ( RfD ) for both adults and children .

@@ -1,0 +1,10 @@
+We conducted a study to investigate the relationship between exposure to cyanobacteria and microcystins and the incidence of symptoms in humans living in close proximity to lakes affected by cyanobacteria .
+The design was a prospective study of residents living around three lakes ( Canada ) , one of which has a water treatment plant supplying potable water to local residents .
+Participants had to keep a daily journal of symptoms and record contact ( full or limited ) with the water body .
+Samples were collected to document cyanobacteria and microcystin concentrations .
+Symptoms potentially associated with cyanobacteria ( gastrointestinal : 2 indices ( GI1 : diarrhea or abdominal pain or nausea or vomiting ; GI2 : diarrhea or vomiting or [ nausea and fever ] or [ abdominal cramps and fever] ) ; upper and lower respiratory tract ; eye ; ear ; skin ; muscle pain ; headaches ; mouth ulcers ) were examined in relation with exposure to cyanobacteria and microcystin by using Poisson regression .
+Only gastrointestinal symptoms were associated with recreational contact .
+Globally , there was a significant increase in adjusted relative risk ( RR ) with higher cyanobacterial cell counts for GI2 ( <20,000 cells/mL : RR=1.52 , 95% CI=0.65-3.51 ; 20,000-100,000 cells/mL : RR=2.71 , 95% CI=1.02-7.16 ; >100,000 cells/mL : RR=3.28 , 95% CI=1.69-6.37 , p-trend=0.001 ) .
+In participants who received their drinking water supply from a plant whose source was contaminated by cyanobacteria , an increase in muscle pain ( RR=5.16 ; 95% CI=2.93-9.07 ) and gastrointestinal ( GI1 : RR=3.87 ; 95% CI=1.62-9.21 ; GI2 : RR=2.84 ; 95% CI=0.82-9.79 ) , skin ( RR=2.65 ; 95% CI=1.09-6.44 ) and ear symptoms ( RR=6.10 ; 95% CI=2.48-15.03 ) was observed .
+The population should be made aware of the risks of gastrointestinal symptoms associated with contact ( full or limited ) with cyanobacteria .
+A risk management plan is needed for water treatment plants that draw their water from a source contaminated with cyanobacteria .

@@ -1,0 +1,13 @@
+BACKGROUND Erectile dysfunction ( ED ) has a profound impact on the quality of life of many men .
+Many risk factors are associated with ED , such as aging , sex hormone levels , hypertension , cardiovascular diseases , and diabetes mellitus .
+Arsenic exposure could damage peripheral vessels and increase the risk of cardiovascular disease .
+However , the relationship between arsenic exposure and ED has seldom been evaluated .
+OBJECTIVES In this study we aimed to investigate whether exposure to arsenic enhances the risk of ED .
+METHODS We recruited 177 males >or= 50 years of age through health examinations conducted in three hospitals in Taiwan .
+We used a questionnaire ( International Index of Erectile Function-5 ) to measure the level of erectile function .
+Sex hormones , including total testosterone and sex hormone-binding globulin , were determined by radioimmunoassay .
+We used another standardized questionnaire to collect background and behavioral information ( e.g. , cigarette smoking ; alcohol , tea , or coffee drinking ; and physical activity ) .
+RESULTS The prevalence of ED was greater in the arsenic-endemic area ( 83.3% ) than in the non-arsenic-endemic area ( 66.7% ) .
+Subjects with arsenic exposure > 50 ppb had a significantly higher risk of developing ED than those with exposure <or= 50 ppb , after adjusting for age , cigarette smoking , diabetes mellitus , hypertension , and cardiovascular disease [ odds ratio ( OR ) = 3.4 ] .
+Results also showed that the risk of developing severe ED was drastically enhanced by arsenic exposure ( OR = 7.5 ) , after adjusting for free testosterone and traditional risk factors of ED .
+CONCLUSIONS Results suggested that chronic arsenic exposure has a negative impact on erectile function .

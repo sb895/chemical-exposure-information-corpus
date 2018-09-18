@@ -1,0 +1,11 @@
+BACKGROUND Almost half of the world's population uses coal and biomass fuels for domestic energy .
+Limited evidence suggests that exposure to air pollutants from indoor biomass combustion may be associated with elevated blood pressure ( BP ) .
+OBJECTIVE Our aim was to assess the relationship between air pollution exposure from indoor biomass combustion and BP in women in rural China .
+METHODS We measured 24-hr personal integrated gravimetric exposure to fine particles < 2.5 µm in aerodynamic diameter ( PM2.5 ) and systolic BP ( SBP ) and diastolic BP ( DBP ) in the winter and summer among 280 women \u2265 25 years of age living in rural households using biomass fuels in Yunnan , China .
+We investigated the association between PM2.5 exposure and SBP and DBP using mixed-effects models with random intercepts to account for correlation among repeated measures .
+RESULTS Personal average 24-hr exposure to PM2.5 ranged from 22 to 634 µg/m3 in winter and from 9 to 492 µg/m3 in summer .
+A 1-log-µg/m3 increase in PM2.5 exposure was associated with 2.2 mm Hg higher SBP [ 95% confidence interval ( CI ) , 0.8 to 3.7 ; p = 0.003 ] and 0.5 mm Hg higher DBP ( 95% CI , -0.4 to 1.3 ; p = 0.31 ) among all women ; estimated effects varied by age group .
+Among women > 50 years of age , a 1-log-µg/m3 increase in PM2.5 exposure was associated with 4.1 mm Hg higher SBP ( 95% CI , 1.5 to 6.6 ; p = 0.002 ) and 1.8 mm Hg higher DBP ( 95% CI , 0.4 to 3.2 ; p = 0.01 ) .
+PM2.5 exposure was positively associated with SBP among younger women , but the association was not statistically significant .
+CONCLUSION PM2.5 exposure from biomass combustion may be a risk factor for elevated BP and hence for cardiovascular events .
+Our findings should be corroborated in longitudinal studies .

@@ -1,0 +1,9 @@
+Household air pollution ( HAP ) due to solid fuel use is a major public health threat in low-income countries .
+Most health effects are thought to be related to exposure to the fine particulate matter ( PM ) component of HAP , but it is currently impractical to measure personal exposure to PM in large studies .
+Carbon monoxide ( CO ) has been shown in cross-sectional analyses to be a reliable surrogate for particles<2.5 µm in diameter ( PM2.5 ) in kitchens where wood-burning cookfires are a dominant source , but it is unknown whether a similar PM2.5-CO relationship exists for personal exposures longitudinally .
+We repeatedly measured ( 216 measures , 116 women ) 24-hour personal PM2.5 ( median [ IQR]\u200a=\u200a0.11 [ 0.05 , 0.21 ] mg/m(3) ) and CO ( median [ IQR]\u200a=\u200a1.18 [ 0.50 , 2.37 ] mg/m(3) ) among women cooking over open woodfires or chimney woodstoves in Guatemala .
+Pollution measures were natural-log transformed for analyses .
+In linear mixed effects models with random subject intercepts , we found that personal CO explained 78% of between-subject variance in personal PM2.5 .
+We did not see a difference in slope by stove type .
+This work provides evidence that in settings where there is a dominant source of biomass combustion , repeated measures of personal CO can be used as a reliable surrogate for an individual's PM2.5 exposure .
+This finding has important implications for the feasibility of reliably estimating long-term ( months to years ) PM2.5 exposure in large-scale epidemiological and intervention studies of HAP .

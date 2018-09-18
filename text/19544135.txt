@@ -1,0 +1,12 @@
+Because crude oil contains up to 3% benzene and there is an association between high chronic exposure to appreciable concentrations of benzene and acute myelogenous leukemia , exposure of refinery workers has been studied for many years .
+To date , no extensive industrial hygiene exposure analyses for historical benzene exposure have been performed , and none have focused on the airborne concentrations in the workplace at specific refineries or for specific tasks .
+In this study , the authors evaluated the airborne concentrations of benzene and their variability over time at the ExxonMobil refinery in Baton Rouge between 1977 and 2005 .
+Refinery workers were categorized into 117 worker groups using company job descriptions .
+These 117 groups were further collapsed into 25 job categories based on similarity of measured exposure results .
+Results of 5289 personal air samples are included in this analysis ; 3403 were considered nontask ( >or= 180 min ) personal samples , and 830 were considered task-related ( < 180 min ) personal samples ; the remainder did not fit in either category .
+In general , nontask personal air samples indicated that exposures of the past 30 years were generally below the occupational exposure limit of 1 ppm , but there was only a small , decreasing temporal trend in the concentrations .
+The job sampled most frequently during routine operations was process technician and , as broken down by area , resulted in the following mean benzene concentrations : analyzers ( mean = 0.12 ppm ) , coker ( mean = 0.013 ppm ) , hydrofiner ( mean = 0.0054 ppm ) , lube blending and storage ( mean = 0.010 ppm ) , waste treatment ( mean = 0.092 ppm ) , and all other areas ( mean = 0.055 ppm ) .
+Task-based samples indicated that the highest exposures resulted from the sampling tasks , specifically from those performed on process materials ; in general , though , even these tasks had concentrations well below the STEL of 5 ppm .
+The most frequently sampled task was gauging ( mean = 0.12 ppm ) .
+Task-related exposures were also similar across job categories for a given task , with a few exceptions .
+This study thus provides a task-focused analysis for occupational exposure to benzene during refinery operations , which can be insightful for understanding exposures at this refinery and perhaps others operated since about 1975 .

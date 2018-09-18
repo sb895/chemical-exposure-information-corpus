@@ -1,0 +1,10 @@
+Arsenic , cadmium , and lead have been associated with various forms of cancer , nephrotoxicity , central nervous system effects , and cardiovascular disease in humans .
+Drinking water is a well-recognized pathway of exposure to these metals .
+To improve understanding of the temporal dimension of exposure to As , Cd , and Pb in drinking water , we obtained 381 samples of tap and/or tap/filtered water and self-reported rates of drinking water consumption from 73 members of a stratified random sample in Maryland .
+Data were collected at approximately 2-month intervals from September 1995 through September 1996 .
+Concentrations of As ( range < 0.2-13.8 microg/L ) and Pb ( < 0.1-13.4 microg/L ) were within the ranges reported for the United States , as were the rates of drinking water consumption ( median < 0.1-4.1 L/day ) .
+Cd was present at a detectable level in only 8.1% of the water samples .
+Mean log-transformed concentrations and exposures for As and Pb varied significantly among sampling cycles and among respondents , as did rates of drinking water consumption , according to a generalized linear model that accounted for potential correlation among repeated measures from the same respondent .
+We used the intraclass correlation coefficient of reliability to attribute the total variance observed for each exposure metric to between-person and within-person variability .
+Between-person variability was estimated to account for 67 , 81 , and 55% of the total variance in drinking water consumption , As exposure ( micrograms per day ) , and Pb exposure ( micrograms per day ) , respectively .
+We discuss these results with respect to their implications for future exposure assessment research , quantitative risk assessment , and environmental epidemiology .

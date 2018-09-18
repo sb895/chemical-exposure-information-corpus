@@ -1,0 +1,8 @@
+Although a rich source of n-3 polyunsaturated fatty acids ( PUFAs ) that may confer multiple health benefits , some fish also contain methyl mercury ( MeHg ) , which may harm the developing fetus .
+U.S. government recommendations for women of childbearing age are to modify consumption of high MeHg fish to reduce MeHg exposure , while recommendations encourage fish consumption among the general population because of the nutritional benefits .
+The Harvard Center for Risk Analysis convened an expert panel ( see acknowledgements ) to quantify the net impact of resulting hypothetical changes in fish consumption across the population .
+This paper quantifies the impact of prenatal MeHg exposure on cognitive development .
+Other papers quantify the beneficial impact of prenatal intake of n-3 PUFAs on cognitive function and the extent to which fish consumption protects against coronary heart disease mortality and stroke in adults .
+This analysis aggregates results from three major prospective epidemiology studies to quantify the association between prenatal MeHg exposure and cognitive development as measured by intelligence quotient ( IQ ) .
+It finds that prenatal MeHg exposure sufficient to increase the concentration of mercury in maternal hair at parturition by 1 microg/g decreases IQ by 0.7 points .
+This paper identifies important sources of uncertainty influencing this estimate , concluding that the plausible range of values for this loss is 0 to 1.5 IQ points .

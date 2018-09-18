@@ -1,0 +1,9 @@
+Biomonitoring studies show that humans carry a body burden of multiple classes of contaminants which are not often studied together .
+Many of these chemicals may be hepatotoxic .
+We used the 2003-2004 National Health and Nutrition Examination Survey to evaluate the relationship between alanine aminotransferase ( ALT ) and 37 environmental contaminants , comprising heavy metals , non-dioxin-like polychlorinated biphenyls ( PCBs ) , and dioxin-like compounds , using a novel method .
+Linear regression models were constructed for each chemical separately , then as a class , using quartiles to represent exposure and adjusting for age , sex , race , income , and BMI .
+We then used an optimization approach to compile a weighted sum of the quartile scores , both within and across chemical classes .
+Using the optimization approach to construct weighted quartile scores , the dioxin like PCB , the non-dioxin like PCB and metal class-level scores were significantly associated with elevated ALT .
+A significant interaction was detected between the class-level score for metals , and the score for non-dioxin-like PCBs .
+When including all chemicals in one model , 3 chemicals accounted for 78% of the weight ( mercury , PCB 180 , 3,3',4,4',5-PNCB ) with the remaining 22% associated with 4 chemicals ( a dioxin and 3 PCBs ) .
+Validation with a holdout dataset indicated that the weighted quartile sum estimator efficiently identifies reproducible significant associations .

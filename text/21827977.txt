@@ -1,0 +1,10 @@
+BACKGROUND Recent studies have shown an association of short-term exposure to fine particulate matter ( PM ) with transient increases in blood pressure ( BP ) , but it is unclear whether long-term exposure has an effect on arterial BP and hypertension .
+OBJECTIVES We investigated the cross-sectional association of residential long-term PM exposure with arterial BP and hypertension , taking short-term variations of PM and long-term road traffic noise exposure into account .
+METHODS We used baseline data ( 2000-2003 ) on 4,291 participants , 45-75 years of age , from the Heinz Nixdorf Recall Study , a population-based prospective cohort in Germany .
+Urban background exposure to PM with aerodynamic diameter \u2264 2.5 \u03bcm ( PM(2.5) ) and \u2264 10 \u03bcm ( PM(10) ) was assessed with a dispersion and chemistry transport model .
+We used generalized additive models , adjusting for short-term PM , meteorology , traffic proximity , and individual risk factors .
+RESULTS An interquartile increase in PM2.5 ( 2.4 \u03bcg/m(3) ) was associated with estimated increases in mean systolic and diastolic BP of 1.4 mmHg [ 95% confidence interval ( CI ) : 0.5 , 2.3 ] and 0.9 mmHg ( 95% CI : 0.4 , 1.4 ) , respectively .
+The observed relationship was independent of long-term exposure to road traffic noise and robust to the inclusion of many potential confounders .
+Residential proximity to high traffic and traffic noise exposure showed a tendency toward higher BP and an elevated prevalence of hypertension .
+CONCLUSIONS We found an association of long-term exposure to PM with increased arterial BP in a population-based sample .
+This finding supports our hypothesis that long-term PM exposure may promote atherosclerosis , with air-pollution-induced increases in BP being one possible biological pathway .

@@ -1,0 +1,10 @@
+BACKGROUND Arsenic is constantly present in drinking water supply systems of Zrenjanin municipality across decades .
+It presents a great public health problem in Serbia , but its relationship with acute coronary syndrome ( ACS ) has not been studied previously .
+OBJECTIVES The aims of this study were to assess the incidence of ACS in two areas from Zrenjanin municipality consuming different levels of arsenic in drinking water , and to explore the association between arsenic exposure and the probability of fatal outcome of ACS .
+METHODS The research was a registry-based ecological study of two populations consuming water with different arsenic levels , based on current guidelines ( 10 \u03bcg/L ) .
+Median arsenic in the area above national standard was 80 \u03bcg/L ; median arsenic in the other area was 1 \u03bcg/L .
+Newly diagnosed cases of ACS were obtained from the National Registry for Acute Coronary Syndrome from 2006 to 2010 .
+RESULTS The two populations were comparable by age , gender , and prevalence of risk factors for ACS .
+Standardized incidence rates ( SIR ) of ACS were higher for people consuming arsenic above standard ( average five-year SIR was 237.00 per 100.000 ; 95% CI=214.93-260.74 ) , in comparison to people consuming arsenic within limits ( average SIR=124.40 per 100.000 ; 95% CI=96.00-158.56 ) .
+Exposure to arsenic above limits was insignificantly associated with fatal outcome of ACS for the whole population , men and women .
+CONCLUSIONS Consumption of arsenic above national standards was associated with higher risk for the occurrence of acute coronary syndrome and with insignificantly higher probability of fatal outcome of ACS in Zrenjanin municipality .

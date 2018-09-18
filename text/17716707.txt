@@ -1,0 +1,14 @@
+BACKGROUND Detoxification is an essential process in all living organisms .
+Humans accumulate heavy metals primarily as a result of lifestyle and environmental contamination .
+However , not all humans experience the estimated individual exposure .
+This suggests the presence of genetic regulatory mechanisms .
+OBJECTIVE In order to identify genetic factors underlying the inter-individual variance in detoxification capacity for the heavy metal mercury , 192 students were investigated .
+We focused on the relationship between polymorphisms in glutathione-S-transferase ( GST ) genes and mercury concentrations in blood , urine , and hair .
+The correlation between blood mercury levels , GSTT1 and GSTM1 polymorphism , and gene expression of certain metallothionein subgroups ( MT1 , MT3 ) was evaluated in a further group of students ( N=30 ) .
+METHODS Mercury levels in acid digested samples were measured by cold vapor AAS .
+Genotyping of the GSTT1 and GSTM1-gene deletion polymorphism was performed by means of PCR .
+Gene expression of several MT genes was analyzed in lymphocytes from fresh peripheral blood by semiquantitative RT-PCR .
+RESULTS The following was noted : a ) hair mercury concentrations are significantly increased in persons with the double deleted genotype ( GSTT1-/- and GSTM1-/- ) as compared to persons with the intact genotype , and b ) MT1X expression is higher in persons with the intact genotype ( GSTT1+/+ and GSTM1+/+ ) .
+CONCLUSIONS We conclude that the epistatic effect of the GSTT1 and the GSTM1 deletion polymorphism is a risk factor for increased susceptibility to mercury exposure .
+The relationship between MT gene expression and GST gene polymorphisms needs further investigation .
+If MT expression depends on GST polymorphisms it would have important implications on the overall metal detoxification capability of the human organism .

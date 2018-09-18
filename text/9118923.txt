@@ -1,0 +1,14 @@
+This study was conducted to evaluate the relationship between leukemia occurrence and long-term , low-level benzene exposures in petroleum distribution workers .
+Fourteen cases were identified among a previously studied cohort [ Schnatter et al. , Environ Health Perspect 101 ( Suppl 6):85-89 ( 1993) ] .
+Four controls per case were selected from the same cohort , controlling for birth year and time at risk .
+Industrial hygienists estimated workplace exposures for benzene , without knowledge of case-control status .
+Average benzene concentrations ranged from 0.01 to 6.2 ppm .
+Company medical records were used to abstract information on other potential confounders such as cigarette smoking .
+Odds ratios were calculated for several exposure metrics .
+Conditional logistic regression modeling was used to control for potential confounders .
+The risk of leukemia was not associated with increasing cumulative exposure to benzene for these exposure levels .
+Duration of benzene exposure was more closely associated with leukemia risk than other exposure metrics , although results were not statistically significant .
+A family history of cancer and cigarette smoking were the two strongest risk factors for leukemia , with cumulative benzene exposure showing no additional risk when considered in the same models .
+This study is consistent with other data in that it was unable to demonstrate a relationship between leukemia and long-term , low-level benzene exposures .
+The power of the study was limited .
+Thus , further study on benzene exposures in this concentration range are warranted .

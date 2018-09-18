@@ -1,0 +1,13 @@
+Phthalates have long been used as plasticizers to soften plastic products and , thus , are ubiquitous in modern life .
+As part of the Bavarian Monitoring of Breast Milk ( BAMBI ) , we aimed to characterize the exposure of infants to phthalates in Germany .
+Overall , 15 phthalates , including di-2-ethylhexyl phthalate ( DEHP ) , di-n-butyl phthalate ( DnBP ) , di-isobutyl phthalate ( DiBP ) , di-isononyl phthalate ( DiNP ) , three primary metabolites of DEHP [ mono-(2-ethylhexyl) phthalate ( MEHP ) , mono-isobutyl phthalate ( MiBP ) , and mono-n-butyl phthalate ( MnBP) ] , and two secondary metabolites of DEHP were analyzed in 78 breast milk samples .
+We found median concentrations of 3.9 ng/g for DEHP , 0.8 ng/g for DnBP , and 1.2 ng/g for DiBP , while other parent phthalates were found in only some or none of the samples at levels above the limit of quantitation .
+In infant formula ( n=4 ) we observed mean values of 19.7 ng/g ( DEHP ) , 3.8 ng/g ( DnBP ) , and 3.6 ng/g ( DiBP ) .
+For MEHP , MiBP , and MnBP , the median values in breast milk were 2.3 \u03bcg/l , 11.8 \u03bcg/l , and 2.1 \u03bcg/l , respectively .
+The secondary metabolites were not detected in any samples .
+Using median and 95th percentile values , we estimated an " average " and " high " daily intake for an exclusively breast-fed infant of 0.6 \u03bcg/kg body weight ( b.w. ) and 2.1 \u03bcg/kg b.w. , respectively , for DEHP , 0.1 \u03bcg/kg b.w. and 0.5 \u03bcg/kg b.w. for DnBP , and 0.2 \u03bcg/kg b.w. and 0.7 \u03bcg/kg b.w. for DiBP .
+For DiNP , intake values were 3.2 \u03bcg/kg b.w. and 6.4 \u03bcg/kg b.w. , respectively , if all values in milk were set half of the detection limit or the detection limit .
+The above-mentioned " average " and " high " intake values corresponded to only about 2% to 7% , respectively , of the recommended tolerable daily intake .
+Thus , it is not likely that an infant's exposure to phthalates from breast milk poses any significant health risk .
+Nevertheless , other sources of phthalates in this vulnerable phase have to be considered .
+Moreover , it should be noted that for infants nourished with formula , phthalate intake is of the same magnitude or slightly higher ( DEHP ) than for exclusively breast-fed infants .

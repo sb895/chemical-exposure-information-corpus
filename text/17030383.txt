@@ -1,0 +1,16 @@
+We monitored the exposure of hairdressers to oxidative hair dyes for 6 working days under controlled conditions .
+Eighteen professional hairdressers ( 3/day ) coloured hairdresser's training heads bearing natural human hair ( hair length : approximately 30 cm ) for 6 h/working day with a dark-shade oxidative hair dye containing 2% [ 14C]-para-phenylenediamine ( PPD ) .
+Three separate phases of hair dyeing were monitored : ( A ) dye preparation/hair dyeing , ( B ) rinsing/shampooing/conditioning and ( C ) cutting/drying/styling .
+Ambient air and personal monitoring samples ( vapours and particles ) , nasal and hand rinses were collected during all study phases .
+Urine ( pre-exposure , quantitative samples for the 0-12 , 12-24 , 24-48 h periods after start of exposure ) and blood samples ( blank , 4 , 8 or 24 h ) were collected from all exposed subjects .
+Radioactivity was determined in all biological samples and study materials , tools and washing liquids , and a [ 14C]-mass balance was performed daily .
+No adverse events were noted during the study .
+Waste , equipment , gloves and coveralls contained 0.41+/-0.16% , dye mixing bowls 2.88+/-0.54% , hair wash 45.47+/-2.95% , hair+scalp 53.46+/-4.06% of the applied radioactivity , respectively .
+Plasma levels were below the limit of quantification ( 10 ng PPDeq/mL ) .
+Total urinary 0-48 h excretion of [ 14C ] levels ranged from a total of <2-18 microg PPDeq and was similar in subjects exposed during the different phases of hair dyeing .
+Minimal air levels at or slightly above the limit of quantification were found in a few personal air monitoring samples during the phases of hair dyeing and hair cutting , but not during the rinsing phase .
+Air area monitoring samples or nasal rinses contained no measurable radioactivity .
+Hand residues ranged from 0.006 to 0.15 microg PPDeq/cm2 , and were found predominantly after the cutting/drying phase .
+The mean mass balance of [ 14C ] across the six study days was 102.50+/-2.20% .
+Overall , the mean , total systemic exposure of hairdressers to oxidative hair dyes during a working day including 6 hair dyeing processes was estimated to be <0.36 microg PPDeq/kg body weight/working day .
+Our results suggest that ( a ) current safety precautions for the handling of hair dyes offer sufficient protection against local and systemic exposure and ( b ) professional exposure to oxidative hair dyes does not pose a risk to human health .

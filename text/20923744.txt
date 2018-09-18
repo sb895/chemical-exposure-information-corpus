@@ -1,0 +1,13 @@
+BACKGROUND Oxidative damage to placental DNA can result in negative pregnancy outcomes , including intrauterine growth restriction ( IUGR ) and low birth weight ( LBW ) .
+OBJECTIVE We investigated associations between the levels of 8-oxo-7,8-dihydro-2´-deoxyguanosine ( 8-oxodG ) , a marker of oxidative DNA damage , in placental DNA , exposure to air pollutants during pregnancy , genetic polymorphisms in 94 selected genes , and pregnancy outcomes .
+METHODS We studied 891 newborns who were IUGR- or LBW-affected or normal weight and were born between 1994 and 1999 in the Czech Republic in two districts with different levels of air pollution .
+RESULTS We found nonsignificantly elevated 8-oxodG levels in the IUGR-affected group compared with the non-IUGR group ( p = 0.055 ) .
+Similarly , slightly elevated 8-oxodG levels were found in the LBW-affected group compared with the non-LBW group ( p < 0.050 ) .
+In univariate analyses , we identified single nucleotide polymorphisms associated with 8-oxodG levels , IUGR , and LBW .
+Exposure to particulate matter < 2.5 µm was associated with increased 8-oxodG levels in placental DNA and LBW .
+However , multivariate-adjusted logistic regression revealed that above-median 8-oxodG levels were the only factor significantly associated with IUGR [ OR = 1.56 ; 95% confidence interval ( CI ) , 1.07-2.37 ; p = 0.022 ] .
+Above-median levels of 8-oxodG were associated with LBW ( OR = 1.88 ; 95% CI , 1.15-3.06 ; p = 0.011 ) .
+Other variables associated with LBW included sex and gestational age of the newborn , maternal smoking , and haplotypes in the promoter region of the gene encoding mannose-binding lectin 2 ( MBL2 ) .
+The role of air pollutants in the risk of adverse pregnancy outcomes seemed to be less important .
+CONCLUSIONS Levels of 8-oxodG in placental DNA were associated with the risk of IUGR as well as LBW .
+Newborn's sex , gestational age , maternal smoking , and genetic polymorphisms in the promoter region of the MBL2 gene were associated with LBW incidence .

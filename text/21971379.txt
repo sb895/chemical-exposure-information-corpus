@@ -1,0 +1,8 @@
+This project was initiated by the North America Commission for Environmental Cooperation ( CEC ) .
+Its main purpose was to obtain an initial profile on pregnant woman's exposure to persistent organic pollutants ( POPs ) in North America ( Canada , the United States and Mexico ) .
+Persistent organic pollutants are transferred to the fetus via the placenta during the pregnancy or to the infant via maternal milk ; therefore , the pregnant woman's body burden is important because of the higher exposures and potential health effects in the fetus and infant .
+This paper presents the results from 240 pregnant women in 10 Mexican cities , and includes the concentrations of various POPs such as polychlorinated biphenyls ( PCBs ) , organochlorine pesticides and polychlorinated dibenzo dioxins and furans ( PCDDs and PCDFs ) in maternal plasma .
+We found concentrations of p,p'-DDE in maternal samples from Coatzacoalcos to be \u223c60% higher than those found in Ciudad Obregon , which had the second highest concentration .
+Pregnant women from Merida had higher mean concentrations of PCBs than all women in other regions .
+Results for PCDDs and PCDFs plus dioxin-like PCBs data were only available on the basis of composite samples , and their concentrations are similar in most cities except for Coatzacoalcos , which had more than double the concentration found in other cities .
+Although this study provides useful information on the variability of POPs in specific populations and possible regional/local differences , these results cannot be generalized to the entire Mexican population because of differences in age , gender , sources of exposure and nonrandom nature of the sample .

@@ -1,0 +1,11 @@
+BACKGROUND Benzene , an established cause of acute myeloid leukemia ( AML ) , may also cause one or more lymphoid malignancies in humans .
+Previously , we identified genes and pathways associated with exposure to high ( > 10 ppm ) levels of benzene through transcriptomic analyses of blood cells from a small number of occupationally exposed workers .
+OBJECTIVES The goals of this study were to identify potential biomarkers of benzene exposure and/or early effects and to elucidate mechanisms relevant to risk of hematotoxicity , leukemia , and lymphoid malignancy in occupationally exposed individuals , many of whom were exposed to benzene levels < 1 ppm , the current U.S. occupational standard .
+METHODS We analyzed global gene expression in the peripheral blood mononuclear cells of 125 workers exposed to benzene levels ranging from < 1 ppm to > 10 ppm .
+Study design and analysis with a mixed-effects model minimized potential confounding and experimental variability .
+RESULTS We observed highly significant widespread perturbation of gene expression at all exposure levels .
+The AML pathway was among the pathways most significantly associated with benzene exposure .
+Immune response pathways were associated with most exposure levels , potentially providing biological plausibility for an association between lymphoma and benzene exposure .
+We identified a 16-gene expression signature associated with all levels of benzene exposure .
+CONCLUSIONS Our findings suggest that chronic benzene exposure , even at levels below the current U.S. occupational standard , perturbs many genes , biological processes , and pathways .
+These findings expand our understanding of the mechanisms by which benzene may induce hematotoxicity , leukemia , and lymphoma and reveal relevant potential biomarkers associated with a range of exposures .

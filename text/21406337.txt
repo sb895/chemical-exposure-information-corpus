@@ -1,0 +1,11 @@
+BACKGROUND Human exposure to bisphenol A ( BPA ) is widespread .
+After exposure , BPA is rapidly metabolized and eliminated in urine .
+Therefore , there is considerable within-person and between-person variability of BPA concentrations in spot urine samples .
+However , no information exists on the within-day variability of urinary BPA concentrations .
+OBJECTIVES We examined the between-person and within-person and between-day and within-day variability in the urinary BPA concentrations of eight adults who collected all voids for 1 week to investigate the impact of sampling strategy in the exposure assessment of BPA using spot , first morning , or 24-hr urine collections .
+METHODS We determined the urinary concentrations of BPA using on-line solid-phase extraction coupled to isotope dilution high-performance liquid chromatography/tandem mass spectrometry .
+RESULTS The between-day and within-person variability was the primary contributor to the total variance both for first morning voids ( 77% ) and 24-hr urine collections ( 88% ) .
+For the spot collections , we observed considerable within-day variance ( 70% ) , which outweighed the between-person ( 9% ) and between-day and within-person ( 21% ) variances .
+CONCLUSIONS Regardless of the type of void ( spot , first morning , 24-hr collection ) , urinary BPA concentrations for a given adult changed considerably--both within a day and for the 7 days of the study period .
+Single 24-hr urine collections accurately reflect daily exposure but can misrepresent variability in daily exposures over time .
+Of interest , when the population investigated is sufficiently large and samples are randomly collected relative to meal ingestion times and bladder emptying times , the single spot-sampling approach may adequately reflect the average exposure of the population to BPA .

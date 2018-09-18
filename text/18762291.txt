@@ -1,0 +1,8 @@
+Cardiopulmonary morbidity and mortality is associated with several environmental exposures .
+Mechanistically , pathophysiological changes in the cardiopulmonary system may lead to the induction of inflammatory responses .
+In the present study we explored associations between environmental exposures and serum concentrations of lung Clara cell protein 16kDa , a biomarker that has recently been used to assess the integrity of the lung epithelium .
+Serum Clara cell protein concentrations were associated with both number of cigarettes smoked per day and number of pack-years of smoking .
+There was no evidence of an association between long-term exposure to ambient air pollution , as assessed at each participant's home address , and serum concentrations of CC16 .
+However , short-term variations in both ambient air pollution and temperature were associated with increases in serum Clara cell concentrations .
+All findings were robust when other factors were adjusted for .
+These findings suggest that acute environmental exposures may compromise the integrity of the lung epithelium and lead to increased epithelial barrier permeability in the lungs of elderly men .

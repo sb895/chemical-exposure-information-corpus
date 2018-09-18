@@ -1,0 +1,9 @@
+Human exposure to polybrominated diphenyl ethers ( PBDEs ) through food and indoor dust ingestion was assessed for 19 Belgian adults .
+The intake of PBDEs ( sigma-hepta BDEs and BDE 209 ) in the studied population is influenced mainly by diet Dietary intakes of sigmatri-hepta BDEs ( BDEs 28 , 47 , 99 , 100 , 153 , 154 , and 183 ) were 5.9-22.0 ng/day ( median 10.3 ) , while those via dust ingestion were 0.1-1.4 ng/day ( median 0.25 ) or 0.3-3.5 ng/day ( average 0.6 ) , assuming dust ingestion rates of 20 and 50 mg/day , respectively .
+Dietary intakes of BDE 209 were 50-238 ng/day ( median 95 ) , whereasthose via dust ingestion were 0.4-11 ng/day ( median 1.8 ) or 1.0-29 ng/day ( median 4.6 ) for dust ingestion rates of 20 and 50 mg/day , respectively .
+It is important to acknowledge the uncertainty associated with the dust ingestion rates .
+Concentrations of sigmatri-hepta BDEs measured in blood serum were 0.9-7.2 ng/g lipid weight ( lw ) ( median 1.9 ) .
+This is similar to other European populations , but lower than for nonoccupationally exposed Americans ( average of 19 ng/g lw ) .
+When compared with estimates of exposure via both dietary and indoor dust ingestion for Americans , the exposures reported here are consistent with the hypothesis that the difference between European and American body burdens of PBDEs is attributable primarily to greater exposure via dust ingestion for Americans .
+The total intake of PBDEs through food and dustfor each participant could not be correlated with the corresponding serum concentration .
+Instead , it is hypothesized that past and episodic current higher intakes of PBDEs are more important determinants of body burden than continuous background exposures at the low levels measured in this study .

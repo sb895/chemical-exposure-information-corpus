@@ -1,0 +1,10 @@
+Individual susceptibility to arsenic-induced carotid atherosclerosis might be associated with genetic variations in arsenic metabolism .
+The purpose of this study is to explore the interaction effect on risk of carotid atherosclerosis between arsenic exposure and risk genotypes of purine nucleoside phosphorylase ( PNP ) , arsenic ( +3 ) methyltransferase ( As3MT ) , and glutathione S-transferase omega 1 ( GSTO1 ) and omega 2 ( GSTO2 ) .
+A community-based case-control study was conducted in northeastern Taiwan to investigate the arsenic metabolic-related genetic susceptibility to carotid atherosclerosis .
+In total , 863 subjects , who had been genotyped and for whom the severity of carotid atherosclerosis had been determined , were included in the present study .
+Individual well water was collected and arsenic concentration determined using hydride generation combined with flame atomic absorption spectrometry .
+The result showed that a significant dose-response trend ( P=0.04 ) of carotid atherosclerosis risk associated with increasing arsenic concentration .
+Non-significant association between genetic polymorphisms of PNP Gly51Ser , Pro57Pro , As3MT Met287Thr , GSTO1 Ala140Asp , and GSTO2 A-183G and the risk for development of carotid atherosclerosis were observed .
+However , the significant interaction effect on carotid atherosclerosis risk was found for arsenic exposure ( >50\u03bcg/l ) and the haplotypes of PNP ( p=0.0115 ) .
+A marked elevated risk of carotid atherosclerosis was observed in subjects with arsenic exposure of >50\u03bcg/l in drinking water and those who carried the PNP A-T haplotype and at least either of the As3MT risk polymorphism or GSTO risk haplotypes ( OR , 6.43 ; 95% CI , 1.79-23.19 ) .
+In conclusion , arsenic metabolic genes , PNP , As3MT , and GSTO , may exacerbate the formation of atherosclerosis in individuals with high levels of arsenic concentration in well water ( >50\u03bcg/l ) .

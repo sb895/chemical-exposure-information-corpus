@@ -1,0 +1,10 @@
+Blood concentrations of 11 volatile organic compounds ( VOCs ) were measured up to four times over 2 years in a probability sample of more than 150 children from two poor , minority neighborhoods in Minneapolis , Minnesota .
+Blood levels of benzene , carbon tetrachloride , trichloroethene , and m-/p-xylene were comparable with those measured in selected adults from the Third National Health and Nutrition Examination Survey ( NHANES III ) , whereas concentrations of ethylbenzene , tetrachloroethylene , toluene , 1,1,1-trichloroethane , and o-xylene were two or more times lower in the children .
+Blood levels of styrene were more than twice as high , and for about 10% of the children 1,4-dichlorobenzene levels were greater than or equal to 10 times higher compared with NHANES III subjects .
+We observed strong statistical associations between numerous pairwise combinations of individual VOCs in blood ( e.g. , benzene and m-/p-xylene , m-/p-xylene and o-xylene , 1,1,1-trichloroethane and m-/p-xylene , and 1,1,1-trichloroethane and trichloroethene ) .
+Between-child variability was higher than within-child variability for 1,4-dichlorobenzene and tetrachloroethylene .
+Between- and within-child variability were approximately the same for ethylbenzene and 1,1,1-trichloroethane , and between-child was lower than within-child variability for the other seven compounds .
+Two-day , integrated personal air measurements explained almost 79% of the variance in blood levels for 1,4-dichlorobenzene and approximately 20% for tetrachloroethylene , toluene , m-/p-xylene , and o-xylene .
+Personal air measurements explained much less of the variance ( between 0.5 and 8% ) for trichloroethene , styrene , benzene , and ethylbenzene .
+We observed no significant statistical associations between total urinary cotinine ( a biomarker for exposure to environmental tobacco smoke ) and blood VOC concentrations .
+For siblings living in the same household , we found strong statistical associations between measured blood VOC concentrations .

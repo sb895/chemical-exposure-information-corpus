@@ -1,0 +1,10 @@
+Because fetuses are considered significantly more sensitive to various environment toxicants , there is a need for continuous biomonitoring of polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) and dioxin-like polychlorinated biphenyls PCBs ( DL-PCBs ) to assess their impact on this susceptible population .
+The aim of this study was to assess the concentration of PCDD/Fs and DL-PCBs in placenta samples from women participating in the Spanish Environment and Childhood ( INMA ) birth cohort study and to evaluate whether maternal and child characteristics predict placenta concentrations of these pollutants .
+The presence of PCDD/Fs and DL-PCBs was investigated in 50 placenta samples selected at random in the recruitment period 2000-2008 .
+Multivariable regression models were constructed .
+Mothers had a mean age at delivery of 30.7 years ( 18.0-38.0 years ) , pre-pregnancy BMI of 23.3 kg/m² ( 18.0-40.2 kg/m² ) , and 31% were smokers .
+Median total concentrations of PCDD/Fs and DL-PCBs were 6.9 pg WHO-TEQ/g lipid and 2.1 pg WHO-TEQ/g lipid , respectively .
+In comparison to the few previous studies in placenta , total TEQ levels were among the lowest recorded in comparable general populations .
+The congener distribution pattern and the frequencies and concentrations of PCDD/F and DL-PCB congeners were similar to previous reports in placenta .
+PCDD/F and DL-PCB exposure was related to the age of the mother and the year of the delivery .
+Although placental concentrations cannot be considered wholly appropriate predictors for evaluating fetal exposure to these contaminants , they can provide a good indication of both maternal and infant prenatal and postnatal exposure and can be used as a proxy for fetal exposure .

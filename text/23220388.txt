@@ -1,0 +1,10 @@
+The study relies on the development of a methodology for assessing the determinants that comprise the overall leukemia risk due to benzene exposure and how these are affected by outdoor and indoor air quality regulation .
+An integrated modeling environment was constructed comprising traffic emissions , dispersion models , human exposure models and a coupled internal dose/biology-based dose-response risk assessment model , in order to assess the benzene imposed leukemia risk , as much as the impact of traffic fleet renewal and smoking banning to these levels .
+Regarding traffic fleet renewal , several " what if " scenarios were tested .
+The detailed full-chain methodology was applied in a South-Eastern European urban setting in Greece and a limited version of the methodology in Helsinki .
+Non-smoking population runs an average risk equal to 4.1·10(-5) compared to 23.4·10(-5) for smokers .
+The estimated lifetime risk for the examined occupational groups was higher than the one estimated for the general public by 10-20% .
+Active smoking constitutes a dominant parameter for benzene-attributable leukemia risk , much stronger than any related activity , occupational or not .
+From the assessment of mitigation policies it was found that the associated leukemia risk in the optimum traffic fleet scenario could be reduced by up to 85% for non-smokers and up to 8% for smokers .
+On the contrary , smoking banning provided smaller gains for ( 7% for non-smokers , 1% for smokers ) , while for Helsinki , smoking policies were found to be more efficient than traffic fleet renewal .
+The methodology proposed above provides a general framework for assessing aggregated exposure and the consequent leukemia risk from benzene ( incorporating mechanistic data ) , capturing exposure and internal dosimetry dynamics , translating changes in exposure determinants to actual changes in population risk , providing a valuable tool for risk management evaluation and consequently to policy support .

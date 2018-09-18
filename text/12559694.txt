@@ -1,0 +1,23 @@
+Styrene ( ST ) occurs ubiquitously in the environment and it is an important industrial chemical .
+After its uptake by the exposed mammalian organism , ST is oxidized to styrene-7,8-oxide ( SO ) by cytochrome P450 dependent monooxygenases .
+This reactive intermediate is further metabolized by epoxide hydrolase ( EH ) and glutathione S-transferase ( GST ) .
+In long-term animal studies , ST induced lung tumors in mice but not in rats .
+Considering the lung to be the relevant target organ for ST induced carcinogenicity in mice , we extended a previously developed physiological toxicokinetic model in order to simulate the lung burden with ST and SO in the ST exposed mouse , rat and human .
+The new model describes oral and pulmonary uptake of ST , its distribution into various tissues , its exhalation and its metabolism to SO in lung and liver .
+It also simulates the distribution of the produced SO into the tissues and its EH and GST mediated metabolism in liver and in lung .
+In both organs the ST induced GSH consumption is described together with the formation of adducts to hemoglobin and to DNA of lymphocytes in ST exposed mice , rats and humans .
+The model includes compartments for arterial , venous and pulmonary blood , liver , muscle , fat , richly perfused tissues and lung .
+The latter organ is represented by two compartments , namely by the conducting and the alveolar zone .
+The physiological description of the pulmonary compartments relies on measured alveolar retentions , literature values of surface area of capillary endothelium , of the thickness of the tissue ' air-to-plasma ' , of the partition coefficient lung:blood and of metabolic parameters of ST and SO measured in pulmonary cell fractions of rodents and humans .
+Simulations of average pulmonary GSH levels in ST exposed rodents agree with measured data .
+The model predicts a significant GSH depletion ( 40% ) in the conducting zone of mice exposed for 6 h to a ST concentration of only 20 ppm .
+In the conducting zone of rats , exposure to 200 ppm ST results in a loss of GSH of about 15% only .
+In humans , a pulmonary GSH reduction does not occur .
+The highest average pulmonary SO concentrations are predicted for mice , somewhat lower values for rats and by far the lowest ones for humans .
+Following steady state exposure to 20 ppm ST , the average SO concentration in mouse lungs is expected to be only three times higher than in rats .
+This difference diminishes to a factor of less than two at 70 ppm .
+In humans exposed to 20 ppm ST for 8 h , the average pulmonary SO burden of 0.016 micromol/kg is predicted to be about 17 and 50 times smaller than the corresponding values for rat and mouse .
+In agreement with reported values , pulmonary DNA adduct levels in rodents exposed to 160 ppm ST were simulated to be similar in rats and mice .
+In summary , there was no dramatic difference in the calculated average pulmonary SO burden between both animal species .
+However , pulmonary GSH loss was by far more expressed in ST exposed mice than rats .
+Since the model was validated on all available ST/SO data in mice , rats and humans , we consider it to be useful for estimating the risk resulting from exposure to ST .

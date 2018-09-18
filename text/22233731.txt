@@ -1,0 +1,11 @@
+BACKGROUND Recent studies have suggested that several genes that mediate mercury metabolism are polymorphic in humans .
+OBJECTIVE We hypothesized that single-nucleotide polymorphisms ( SNPs ) in metallothionein ( MT ) genes may underlie interindividual differences in mercury biomarker levels .
+We studied the potential modifying effects of MT SNPs on mercury exposure-biomarker relationships .
+METHODS We measured total mercury in urine and hair samples of 515 dental professionals .
+We also surveyed occupational and personal exposures to dental amalgam and dietary fish consumption , from which daily methylmercury ( MeHg ) intake was estimated .
+Log-transformed urine and hair levels were modeled in multivariable linear regression separately against respective exposure surrogates , and the effect modification of 13 MT SNPs on exposure was investigated .
+RESULTS The mean mercury levels in urine ( 1.06 \u03bcg/L ) and hair ( 0.51 \u03bcg/g ) were not significantly different from the U.S. general population ( 0.95 \u03bcg/L and 0.47 \u03bcg/g , respectively ) .
+The mean estimated daily MeHg intake was 0.084 \u03bcg/kg/day ( range , 0-0.98 \u03bcg/kg/day ) , with 25% of study population intakes exceeding the current U.S. Environmental Protection Agency reference dose of 0.1 \u03bcg/kg/day .
+Multivariate regression analysis showed that subjects with the MT1M ( rs2270837 ) [ corrected ] AA genotype ( n = 10 ) or the MT2A ( rs10636 ) CC genotype ( n = 42 ) had lower urinary mercury levels than did those with the MT1M or MT2A GG genotype ( n = 329 and 251 , respectively ) after controlling for exposure and potential confounders .
+After controlling for MeHg intake , subjects with MT1A ( rs8052394 ) GA and GG genotypes ( n = 24 ) or the MT1M ( rs9936741 ) TT genotype ( n = 459 ) had lower hair mercury levels than did subjects with MT1A AA ( n = 113 ) or MT1M TC and CC genotypes ( n = 15 ) , respectively .
+CONCLUSION Our findings suggest that some MT genetic polymorphisms may influence mercury biomarker concentrations at levels of exposure relevant to the general population .

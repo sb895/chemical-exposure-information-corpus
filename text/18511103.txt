@@ -1,0 +1,11 @@
+We report reference ranges for the total toxic equivalency ( TEQ ) and TEQ sub-fractions of polychlorinated dibenzo-p-dioxins ( PCDDs ) , dibenzofurans ( PCDFs ) , coplanar biphenyls ( cPCBs ) , and mono-ortho-substituted biphenyls ( mPCBs ) in a statistically designed sampling of the US population in 2001-2002 .
+The TEQ and TEQ sub-fractions have been stratified by age , sex , and race/ethnicity .
+The TEQ levels are lower using the 2005 toxic equivalency factors ( TEFs ) compared to using the 1998 TEF values , principally due to the much lower 2005 TEF values assigned to the mPCBs .
+Mexican Americans ( MA ) have significantly lower TEQ levels than both non-Hispanic whites ( NHW ) and non-Hispanic blacks ( NHB ) .
+Using the 1998 or 2005 TEF values , males and females have nearly the same distribution of TEQ sub-fractions .
+We found a significant increase in TEQ levels with age for males , females , and NHW .
+About 80-90% of the total TEQ can be estimated by using seven congeners , namely 2,3,7,8-TCDD , 1,2,3,7,8-PeCDD , 1,2,3,6,7,8-HxCDD , 2,3,4,7,8-PeCDF , PCB-126 , PCB-118 , and PCB-156 .
+We also measured geometric mean TEQ levels in pooled samples from the US population .
+The geometric mean TEQ levels also increase with age .
+In the youngest age group ( 12-19 years ) , the TEQ levels were higher in males than in females while females had higher TEQ levels than males in all older age groups .
+In the pools , as age increases the percent contribution of the PCDD TEQ levels increases while the percent contribution of the PCDF TEQ levels decreases for all race/ethnicity and sex strata .

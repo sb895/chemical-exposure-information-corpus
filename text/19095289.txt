@@ -1,0 +1,10 @@
+AIMS Exposure to polycyclic aromatic hydrocarbons ( PAH ) , among the main compounds present in polluted urban air , is of concern for children's health .
+Childhood exposure to PAH was assessed by urinary monitoring of 1-hydroxypyrene ( 1-OHP ) , a pyrene metabolite , investigating its association with exposure to air pollution and other factors related to PAH in air .
+METHODS A group of 174 4-year-old children were recruited and a questionnaire on their indoor and outdoor residential environment was completed by parents .
+At the same time , environmental measurements of traffic-related air pollution ( NO2 ) were carried out .
+A urine sample was collected from each child in order to analyze 1-OHP using HPLC with fluorescence detection , correcting for creatinine concentrations .
+Non-parametric tests and regression analyses were used to identify environmental factors that influence 1-OHP excretion .
+RESULTS Mean urinary 1-OHP concentration was 0.061 micromol/mol creatinine , ranging from 0.004 to 0.314 micromol/mol .
+Non-parametric tests and regression analysis showed positive and significant associations ( P<or=0.05 ) between 1-OHP and predicted residential exposure to NO2 ( which was based on outdoor environmental measurements and geo-statistical analysis ) , self-reported residential vehicle traffic , passive smoking and cooking appliance. 1-OHP levels tended to be higher among children living in urban areas ( 0.062 micromol/mol vs. 0.058 micromol/mol for children living in rural areas ) but differences were not significant ( P=0.20 ) .
+CONCLUSION In Southern Spain , concentrations of urinary 1-OHP were in the lower range of those generally reported for children living in non-polluted areas in Western Europe and the USA .
+Traffic-related air pollution , passive smoking and cooking appliance influenced urinary 1-OHP level in the children , which should be prevented due to the health consequences of the inadvertent exposure to PAH during development .

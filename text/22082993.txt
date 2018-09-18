@@ -1,0 +1,11 @@
+BACKGROUND Gas cooking is a main source of indoor air pollutants , including nitrogen dioxide and particles .
+Because concerns are emerging for neurodevelopmental effects of air pollutants , we examined the relationship between indoor gas cooking during pregnancy and infant neurodevelopment .
+METHODS Pregnant mothers were recruited between 2004 and 2008 to a prospective birth cohort study ( INfancia y Medio Ambiente ) in Spain during the first trimester of pregnancy .
+Third-trimester questionnaires collected information about the use of gas appliances at home .
+At age 11 to 22 months , children were assessed for mental development using the Bayley Scales of Infant Development .
+Linear regression models examined the association of gas cooking and standardized mental development scores ( n = 1887 mother-child pairs ) .
+RESULTS Gas cookers were present in 44% of homes .
+Gas cooking was related to a small decrease in the mental development score compared with use of other cookers ( -2.5 points [ 95% confidence interval = -4.0 to -0.9] ) independent of social class , maternal education , and other measured potential confounders .
+This decrease was strongest in children tested after the age of 14 months ( -3.1 points [ -5.1 to -1.1] ) and when gas cooking was combined with less frequent use of an extractor fan .
+The negative association with gas cooking was relatively consistent across strata defined by social class , education , and other covariates .
+CONCLUSIONS This study suggests a small adverse effect of indoor air pollution from gas cookers on the mental development of young children .

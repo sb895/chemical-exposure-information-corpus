@@ -1,0 +1,13 @@
+BACKGROUND Information on the impact of genetic predisposition on metal toxicokinetics in the human body is limited .
+There is increasing evidence that certain genetic polymorphisms modify lead and mercury toxicokinetics .
+This called for analysis of further candidate genes .
+OBJECTIVES Medical students ( N=324 ) were examined in order to detect potential associations between lead exposure and polymorphisms in HFE , VDR , ALAD , and MT genes , as well as between mercury exposure and GSTT1 , GSTM1 , GSTA1 , GSTP1 , GCLC , and MT polymorphisms .
+METHODS The levels of lead and mercury exposure of students were determined by blood , urine , and hair analyses ( ICP-MS , CV-AAS ) .
+Genotyping of common polymorphisms was examined by MALDI-TOF MS and the TaqMan methodology .
+Associations between lead and mercury exposures and genetic background were examined by bivariate analysis , and by categorical regression analysis ( CATREG ) controlled by metal- and matrix-specific variables .
+RESULTS Lead and mercury levels in urine , blood , and hair indicated low exposures .
+VDR polymorphism and joint presence of VDR/ALAD polymorphisms were significantly and independently associated with urine lead concentrations ( CATREG P<0.05 ) .
+Polymorphisms in GSTP1-114 and MT4 genes as well as dual gene combinations including GSTP1 , GCLC , GSTT1 , and GSTM1 polymorphisms were independent variables related to mercury body burdens ( CATREG P<0.05 ) .
+GSTP1-114/GSTT1 and GSTP1-105/GCLC combinations showed synergistic effects on hair mercury levels compared to single-gene variants .
+CONCLUSIONS We found evidence that certain genetic backgrounds were associated with lead and mercury metabolism , suggesting gene-environment and gene-gene-environment interactions .
+The modes of interaction remain to be evaluated .

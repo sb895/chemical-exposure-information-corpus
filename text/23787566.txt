@@ -1,0 +1,6 @@
+OBJECTIVE Evidence linking short-term exposure to outdoor air pollution with hemorrhagic stroke is inconclusive .
+METHODS We evaluated the effects of suspended particulate matter ( SPM ) on cardiovascular disease mortality , focusing on types of stroke , from March 2005 to December 2010 , in five selected prefectures in western Japan .
+A multicity time-series analysis was used , and Asian dust was adjusted in the models .
+RESULTS Even after adjusting for Asian dust , the same-day SPM was positively associated with several types of stroke mortality .
+Following a 10-\u03bcg/m increase in SPM , rate ratios were 1.014 ( 90% confidence interval [ CI ] : 1.002 to 1.026 ) for stroke , 1.030 ( 90% CI : 1.004 to 1.056 ) for intracerebral hemorrhage , and 1.016 ( 90% CI : 1.003 to 1.030 ) for ischemic stroke mortality .
+CONCLUSIONS Short-term exposure to outdoor air pollution may increase the risks of hemorrhagic stroke as well as ischemic stroke mortality .

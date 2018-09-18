@@ -1,0 +1,8 @@
+Several studies have examined associations between particulate matter with aerodynamic diameter of 2.5 µm or less ( PM2.5 ) and preterm birth , but it is uncertain whether results were affected by individual predispositions ( e.g. , genetic factors , social conditions ) that might vary considerably between women .
+We tested the hypothesis that a woman is at greater risk of preterm delivery when she has had elevated exposure to ambient PM2.5 during a pregnancy than when she has not by comparing pregnancies in the same woman .
+From 271,204 births , we selected 29,175 women who had vaginal singleton livebirths at least twice in Connecticut in 2000-2006 ( n = 61,688 births ) .
+Analyses matched pregnancies to the same woman .
+Adjusted odds ratios per interquartile range ( 2.33-µg/m(3) ) increase in PM2.5 in the first trimester , second trimester , third trimester , and whole pregnancy were 1.07 ( 95% confidence interval ( CI ) : 1.00 , 1.15 ) , 0.96 ( 95% CI : 0.90 , 1.03 ) , 1.03 ( 95% CI : 0.97 , 1.08 ) , and 1.13 ( 95% CI : 1.01 , 1.28 ) , respectively .
+Among Hispanic women , the odds ratio per interquartile range increase in whole-pregnancy exposure was 1.31 ( 95% CI : 1.00 , 1.73 ) .
+Pregnancies with elevated PM2.5 exposure were more likely to result in preterm birth than were other pregnancies to the same woman at lower exposure .
+Associations were most pronounced in the first trimester and among Hispanic women .

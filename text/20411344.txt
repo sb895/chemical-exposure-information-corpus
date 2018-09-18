@@ -1,0 +1,12 @@
+PURPOSE Chlor-alkali plants are one of the most important point sources of mercury to aquatic environment .
+The problem of Hg contamination has been studied in a region , Rm Valcea ( Romania ) , impacted by the wastewater discharge of a chlor-alkali plant .
+The purpose of the present study is to evaluate the current status of mercury pollution in the Babeni reservoir ( Olt River ) and the exposure of local population via fish consumption to mercury originating from the chlor-alkali plant .
+METHODS Sediments were collected from Valcea , Govora and Babeni reservoirs .
+Grain size distribution , organic content and total mercury ( THg ) concentrations were analysed in sediments .
+Fish were purchased from local anglers , and the scalp hair was collected from volunteers .
+THg in sediment , fish and hair samples was determined using an atomic absorption spectrophotometer for Hg determination .
+Monomethylmercury ( MMHg ) was analysed in the muscle and liver tissues by species-specific isotope dilution and capillary gas chromatography hyphenated to inductively coupled plasma mass spectrometer .
+RESULTS High mercury concentrations were found in the sediments and in fish from Babeni reservoir , with a median of 2.1 mg/kg ( IQR = 3.2 ) in sediments and a mean value of 1.8 +/- 0.8 mg/kg_ww in fish muscle .
+MMHg concentrations in fish were well above the WHO guidelines for fish consumption .
+Local population consuming fish from the Babeni reservoir had THg concentrations in hair significantly higher than those consuming fish from upstream reservoirs and/or from the shops and reached a median value of 2.5 mg/kg ( IQR = 3.6 ) .
+CONCLUSIONS The remnant pollution in the fish of this reservoir , and probably many other lakes and reservoirs receiving Hg polluted wastewater , represents a considerable health risk for the local fish consumers .

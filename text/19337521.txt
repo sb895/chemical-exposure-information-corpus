@@ -1,0 +1,13 @@
+BACKGROUND Numerous studies have shown associations between ambient air pollution and daily mortality .
+OBJECTIVES Our goal was to investigate the association of ambient air pollution and daily mortality in Erfurt , Germany , over a 10.5-year period after the German unification , when air quality improved .
+METHODS We obtained daily mortality counts and data on mass concentrations of particulate matter ( PM)<10 microm in aerodynamic diameter ( PM10 ) , gaseous pollutants , and meteorology in Erfurt between October 1991 and March 2002 .
+We obtained ultrafine particle number concentrations ( UFP ) and mass concentrations of PM<2.5 microm in aerodynamic diameter ( PM2.5 ) from September 1995 to March 2002 .
+We analyzed the data using semiparametric Poisson regression models adjusting for trend , seasonality , influenza epidemics , day of the week , and meteorology .
+We evaluated cumulative associations between air pollution and mortality using polynomial distributed lag ( PDL ) models and multiday moving averages of air pollutants .
+We evaluated changes in the associations over time in time-varying coefficient models .
+RESULTS Air pollution concentrations decreased over the study period .
+Cumulative exposure to UFP was associated with increased mortality .
+An interquartile range ( IQR ) increase in the 15-day cumulative mean UFP of 7,649 cm(-3) was associated with a relative risk ( RR ) of 1.060 [ 95% confidence interval ( CI ) , 1.008-1.114 ] for PDL models and an RR/IQR of 1.055 ( 95% CI , 1.011-1.101 ) for moving averages .
+RRs decreased from the mid-1990s to the late 1990s .
+CONCLUSION Results indicate an elevated mortality risk from short-term exposure to UFP .
+They further suggest that RRs for short-term associations of air pollution decreased as pollution control measures were implemented in Eastern Germany .

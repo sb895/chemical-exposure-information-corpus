@@ -1,0 +1,12 @@
+Inhalation of particulate matter in industrial environments has been associated with respiratory symptoms and lung diseases , which continues to lead to long- and short-term hazardous health effects on exposed subjects .
+The main objectives of this study were ( a ) to determine the dust exposure of workers from the lead industry in different operations and ( b ) to evaluate if the Exhaled Breath Condensate ( EBC ) can be used as a non-invasive tool to evaluate this exposure .
+Therefore , this cross-sectional study not only measured the exposure to Airborne Particulate Matter ( APM ) and to the associated elements but also analysed the EBC elemental composition .
+APM was collected in Ind1 , Ind2 , Offices and outdoor with Gent samplers , which delivers two size fractions : fine particulate matter ( < 2.5 \u03bcm ) , and coarse particulate matter ( between 2.5 and 10 \u03bcm ) .
+EBC samples were collected from the workers and from a non-exposed group working in Offices .
+The techniques INAA and PIXE were used for the APM element characterization and ICP-MS for EBC elemental content .
+The PM2.5 and PM2.5-10 mass concentrations were significantly higher in the industries studied than in Offices and in the environment .
+At the industrial sites surveyed the coarse fraction dominated and both factories had different fingerprints : APM elements with higher expression were Pb , Sb , Na , Cl and Fe in Ind1 and Pb , Si , Br , Ca , Al , Cl and Na in Ind2 .
+Most of these elements revealed a gradient of concentration where Ind.1 > Ind.2 > Offices and EBC revealed a clear translation of this exposure , suggesting the latter to be a potential good indicator of exposure to metals in occupational settings .
+Pb in EBC presented the most representative results .
+Even though EBC was found to reflect predominantly the inhaled coarser fraction it is more related to concentration levels of exposure than to the predominance of APM fraction .
+The present study demonstrated not only the ability of EBC to reflect environmental exposure to metals but also the importance of measuring and characterizing different fractions of APM for a correct assessment .

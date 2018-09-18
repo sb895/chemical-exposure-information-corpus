@@ -1,0 +1,12 @@
+BACKGROUND Resin-based dental restorations may intra-orally release their components and bisphenol A. Gestational bisphenol A exposure has been associated with poorer executive functioning in children .
+OBJECTIVES To examine whether exposure to resin-based composite restorations is associated with neuropsychological development in children .
+METHODS Secondary analysis of treatment level data from the New England Children's Amalgam Trial , a 2-group randomized safety trial conducted from 1997 to 2006 .
+Children ( N=534 ) aged 6-10 y with \u22652 posterior tooth caries were randomized to treatment with amalgam or resin-based composites ( bisphenol-A-diglycidyl-dimethacrylate-composite for permanent teeth ; urethane dimethacrylate-based polyacid-modified compomer for primary teeth ) .
+Neuropsychological function at 4- and 5-year follow-up ( N=444 ) was measured by a battery of tests of executive function , intelligence , memory , visual-spatial skills , verbal fluency , and problem-solving .
+Multivariable generalized linear regression models were used to examine the association between composite exposure levels and changes in neuropsychological test scores from baseline to follow-up .
+For comparison , data on children randomized to amalgam treatment were similarly analyzed .
+RESULTS With greater exposure to either dental composite material , results were generally consistent in the direction of slightly poorer changes in tests of intelligence , achievement or memory , but there were no statistically significant associations .
+For the four primary measures of executive function , scores were slightly worse with greater total composite exposure , but statistically significant only for the test of Letter Fluency ( 10-surface-years \u03b2=-0.8 , SE=0.4 , P=0.035 ) , and the subtest of color naming ( \u03b2=-1.5 , SE=0.5 , P=0.004 ) in the Stroop Color-Word Interference Test .
+Multivariate analysis of variance confirmed that the negative associations between composite level and executive function were not statistically significant ( MANOVA , P=0.18 ) .
+Results for greater amalgam exposure were mostly nonsignificant in the opposite direction of slightly improved scores over follow-up .
+CONCLUSIONS Dental composite restorations had statistically insignificant associations of small magnitude with impairments in neuropsychological test change scores over 4- or 5-years of follow-up in this trial .

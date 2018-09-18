@@ -1,0 +1,7 @@
+The purpose of this study was to assess the potential risk of children skin lesions from arsenic-contaminated rice ( Oryza sativa ) consumption in West Bengal ( India ) .
+Published age- and gender-specific skin lesions data in West Bengal were reanalyzed and incorporated into a Weibull dose-response model to predict children skin lesion prevalence .
+Monomethylarsonous acid ( MMA(III) ) levels in urine was used as a biomarker that could be predicted from a human physiologically based pharmacokinetic ( PBPK ) model .
+This study integrated arsenic contents in irrigation water , bioaccumulation factors of paddy soil , cooking methods , and arsenic bioavailability of cooked rice in gastrointestinal tract into a probabilistic risk model .
+Results indicated that children aged between 13 and 18 years might pose a relative higher potential risk of skin lesions to arsenic-contaminated cooked rice ( odds ratios ( ORs)=1.18 ( 95% CI 1.12-2.15) ) than those of 1-6 years children ( ORs=0.98 ( 0.85-1.40) ) .
+This study revealed the need to consider the relationships between cooking method and arsenic in cooked rice when assessing the risk associated with children skin lesions from rice consumption .
+This study suggested that arsenic-associated skin lesions risk from arsenic-contaminated rice consumption would be reduced significantly by adopting traditional rice cooking method ( wash until clean ; rice:water=1:6 ; discard excess water ) as followed in West Bengal ( India ) and using water containing lower arsenic ( e.g. , <10 microg L(-1) ) for cooking .

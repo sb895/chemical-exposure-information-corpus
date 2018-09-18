@@ -1,0 +1,10 @@
+Because people tend to move from one place to another during the day , their exposure to air pollution will be determined by the concentration at each location combined with the exposure encountered in transport .
+In order to estimate the exposure of individuals in a population more accurately , the activity-based modeling framework for Black Carbon exposure assessment , AB(2)C , was developed .
+An activity-based traffic model was applied to model the whereabouts of individual agents .
+Exposure to black carbon ( BC ) in different microenvironments is assessed with a land use regression model , combined with a fixed indoor/outdoor factor for exposure in indoor environments .
+To estimate exposure in transport , a separate model was used taking into account transport mode , timing of the trip and degree of urbanization .
+The modeling framework is validated using weeklong time-activity diaries and BC exposure as revealed from a personal monitoring campaign with 62 participants .
+For each participant in the monitoring campaign , a synthetic population of 100 model-agents per day was made up with all agents meeting similar preconditions as each real-life agent .
+When these model-agents pass through every stage of the modeling framework , it results in a distribution of potential exposures for each individual .
+The AB(2)C model estimates average personal exposure slightly more accurately compared to ambient concentrations as predicted for the home subzone ; however the added value of a dynamic model lies in the potential for detecting short term peak exposures rather than modeling average exposures .
+The latter may bring new opportunities to epidemiologists : studying the effect of frequently repeated but short exposure peaks on long term exposure and health .

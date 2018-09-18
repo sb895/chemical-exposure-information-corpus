@@ -1,0 +1,13 @@
+BACKGROUND Cancer is the second leading cause of death among U.S. children with few known risk factors .
+There is increasing interest in the role of air pollutants , including benzene and 1,3-butadiene , in the etiology of childhood cancers .
+OBJECTIVE Our goal was to assess whether census tracts with the highest benzene or 1,3-butadiene ambient air levels have increased childhood lymphohematopoietic cancer incidence .
+METHODS Our ecologic analysis included 977 cases of childhood lymphohematopoietic cancer diagnosed from 1995-2004 .
+We obtained the U.S. Environmental Protection Agency's 1999 modeled estimates of benzene and 1,3-butadiene for 886 census tracts surrounding Houston , Texas .
+We ran Poisson regression models by pollutant to explore the associations between pollutant levels and census-tract cancer rates .
+We adjusted models for age , sex , race/ethnicity , and community-level socioeconomic status ( cSES ) .
+RESULTS Census tracts with the highest benzene levels had elevated rates of all leukemia [ rate ratio ( RR ) = 1.37 ; 95% confidence interval ( CI ) , 1.05 , 1.78 ] .
+This association was higher for acute myeloid leukemia ( AML ) ( RR = 2.02 ; 95% CI , 1.03-3.96 ) than for acute lymphocytic leukemia ( ALL ) ( RR = 1.24 ; 95% CI , 0.92-1.66 ) .
+Among census tracts with the highest 1,3-butadiene levels , we observed RRs of 1.40 ( 95% CI , 1.07-1.81 ) , 1.68 ( 95% CI , 0.84-3.35 ) , and 1.32 ( 95% CI , 0.98-1.77 ) for all leukemia , AML , and ALL , respectively .
+We detected no associations between benzene or 1,3-butadiene levels and lymphoma incidence .
+Results that examined joint exposure to benzene and 1,3-butadiene were similar to those that examined each pollutant separately .
+CONCLUSIONS Our ecologic analysis suggests an association between childhood leukemia and hazardous air pollution ; further research using more sophisticated methodology is warranted .

@@ -1,0 +1,10 @@
+INTRODUCTION Toxic heavy metals have adverse effects on human health .
+However , the risk of hematuria caused by heavy metal exposure has not been evaluated .
+METHODS Data from 4701 Korean adults were obtained in the Korean National Health and Nutritional Examination Survey ( 2008-2010 ) .
+Blood levels of the toxic heavy metals cadmium , lead , and mercury were measured .
+Hematuria was defined as a result of \u2265+1 on a urine dipstick test .
+The odds ratios ( ORs ) for hematuria were measured according to the blood heavy metal levels after adjusting for multiple variables .
+RESULTS Individuals with blood cadmium levels in the 3rd and 4th quartiles had a greater OR for hematuria than those in the 1st quartile group : 3rd quartile , 1.35 ( 1.019-1.777 ; P=0.037 ) ; 4th quartile , 1.52 ( 1.140-2.017 ; P=0.004 ) .
+When blood cadmium was considered as a log-transformed continuous variable , the correlation between blood cadmium and hematuria was significant : OR , 1.97 ( 1.224-3.160 ; Ptrend=0.005 ) .
+In contrast , no significant correlations between hematuria and blood lead or mercury were found in the multivariate analyses .
+DISCUSSION The present study shows that high cadmium exposure is associated with a risk of hematuria .

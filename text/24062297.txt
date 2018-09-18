@@ -1,0 +1,9 @@
+BACKGROUND Arsenic exposure via drinking water increases the risk of chronic respiratory disease in adults .
+However , information on pulmonary health effects in children after early life exposure is limited .
+METHODS This population-based cohort study set in rural Matlab , Bangladesh , assessed lung function and respiratory symptoms of 650 children aged 7-17 years .
+Children with in utero and early life arsenic exposure were compared with children exposed to less than 10 µg/l in utero and throughout childhood .
+Because most children drank the same water as their mother had drunk during pregnancy , we could not assess only in utero or only childhood exposure .
+RESULTS Children exposed in utero to more than 500 µg/l of arsenic were more than eight times more likely to report wheezing when not having a cold [ odds ratio ( OR ) = 8.41 , 95% confidence interval ( CI ) : 1.66-42.6 , P < 0.01 ] and more than three times more likely to report shortness of breath when walking on level ground ( OR = 3.86 , 95% CI : 1.09-13.7 , P = 0.02 ) and when walking fast or climbing ( OR = 3.19 , 95% CI : 1.22-8.32 , P < 0.01 ] .
+However , there was little evidence of reduced lung function in either exposure category .
+CONCLUSIONS Children with high in utero and early life arsenic exposure had marked increases in several chronic respiratory symptoms , which could be due to in utero exposure or to early life exposure , or to both .
+Our findings suggest that arsenic in water has early pulmonary effects and that respiratory symptoms are a better marker of early life arsenic toxicity than changes in lung function measured by spirometry .

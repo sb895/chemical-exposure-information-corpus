@@ -1,0 +1,9 @@
+BACKGROUND Subsistence ribeirinhos of the Amazon Basin depend on fish for their principal source of protein , but fish availability changes with seasonal high and low waters .
+AIM To assess taxa and quantity of fish consumed and estimate attendant exposure to methyl-Hg in a traditional subsistence high fish-eating community of the Amazon Basin .
+SUBJECTS AND METHODS 120 villagers in 18 households were followed for 6 months ( August to February ) for weighed portions of fish consumed .
+RESULTS Mean daily per capita fish consumption was high ( 406 g/day ) with fish meals ranging from 4 to 14 times/week and an integrated yearly consumption of 148.2 kg/person .
+Median total-Hg concentrations in fish ranged from 0.011 to 0.409 ppm ; six of the more consumed fish species comprised more than 50% of the fish consumed .
+The villagers mean hair-Hg concentration was high ( 17.4 +/- 11.5 microg/g ) , with both inter- and intra-household variation despite similar high fish consumption ; only 7% showed hair-Hg concentrations < 5 microg/g , but 75% had hair-Hg levels above 10 microg/g .
+Maternal hair-Hg was significantly correlated with respective children's hair-Hg ( Spearman r = 0.5390 ; p < 0.0001 ) .
+The high daily fish intake of these villagers is predominantly of species with much lower Hg concentrations .
+CONCLUSION In Amazonian lifestyle of ribeirinho communities traditional fish consumption is high and depends on available species ; fish is also the principal via of meHg exposure and attendant hair-Hg concentrations .

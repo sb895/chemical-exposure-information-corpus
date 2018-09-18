@@ -1,0 +1,13 @@
+No comprehensive data on sources or risk factors of cadmium exposure in Ukrainian children are available .
+In this we measured the blood levels of cadmium among 80 Ukrainian children and evaluated sources of exposure .
+A nested case-control study from a prospective cohort of Ukrainian 3-year-old children was conducted .
+We evaluated predictors of elevated blood cadmium using a multivariable logistic regression model .
+The model included socioeconomic data , parent occupation , environmental tobacco smoke , hygiene , body-mass index , and diet .
+Dietary habits were evaluated using the 1992 Block-NCI-HHHQ Dietary Food Frequency survey .
+Elevated cadmium was defined as blood levels in the upper quartile ( 0.25 microg/L ) .
+The mean age for all 80 children was 36.6 months .
+Geometric mean cadmium level was 0.21 microg/L ( range = 0.11-0.42 microg/L ; SD = 0.05 ) .
+Blood cadmium levels were higher among children taking zinc supplements ( 0.25 vs 0.21 microg/L ; P = 0.032 ) , children who ate sausage more than once per week ( 0.23 vs 0.20 ; P = 0.007 ) and children whose fathers worked in a by-product coking industry ( 0.25 vs 0.21 ; P = 0.056 ) .
+In the multivariable model , predictors of elevated blood cadmium levels included zinc supplementation ( adjusted OR = 14.16 ; P < 0.01 ) , father working in a by-product coking industry ( adjusted OR = 8.50 ; P = 0.03 ) , and low body mass index ( <14.5 ; adjusted OR = 5.67 ; P = 0.03 ) .
+This is the first study to indicate a strong association between elevated blood cadmium levels and zinc supplementation in young children .
+Whole-blood cadmium levels observed in this group of Ukrainian children appear to be similar to those reported in other Eastern European countries .

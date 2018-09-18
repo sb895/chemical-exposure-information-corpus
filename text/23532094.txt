@@ -1,0 +1,12 @@
+Regulatory monitoring data and land-use regression ( LUR ) models have been widely used for estimating individual exposure to ambient air pollution in epidemiologic studies .
+However , LUR models lack fine-scale temporal resolution for predicting acute exposure and regulatory monitoring provides daily concentrations , but fails to capture spatial variability within urban areas .
+This study coupled LUR models with continuous regulatory monitoring to predict daily ambient nitrogen dioxide ( NO(2) ) and particulate matter ( PM(2.5) ) at 50 homes in Windsor , Ontario .
+We compared predicted versus measured daily outdoor concentrations for 5 days in winter and 5 days in summer at each home .
+We also examined the implications of using modeled versus measured daily pollutant concentrations to predict daily lung function among asthmatic children living in those homes .
+Mixed effect analysis suggested that temporally refined LUR models explained a greater proportion of the spatial and temporal variance in daily household-level outdoor NO(2) measurements compared with daily concentrations based on regulatory monitoring .
+Temporally refined LUR models captured 40% ( summer ) and 10% ( winter ) more of the spatial variance compared with regulatory monitoring data .
+Ambient PM(2.5) showed little spatial variation ; therefore , daily PM(2.5) models were similar to regulatory monitoring data in the proportion of variance explained .
+Furthermore , effect estimates for forced expiratory volume in 1 s ( FEV(1) ) and peak expiratory flow ( PEF ) based on modeled pollutant concentrations were consistent with effects based on household-level measurements for NO(2) and PM(2.5) .
+These results suggest that LUR modeling can be combined with continuous regulatory monitoring data to predict daily household-level exposure to ambient air pollution .
+Temporally refined LUR models provided a modest improvement in estimating daily household-level NO(2) compared with regulatory monitoring data alone , suggesting that this approach could potentially improve exposure estimation for spatially heterogeneous pollutants .
+These findings have important implications for epidemiologic studies - in particular , for research focused on short-term exposure and health effects .

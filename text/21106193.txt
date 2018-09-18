@@ -1,0 +1,10 @@
+Polychlorinated biphenyls ( PCBs ) are persistent and toxic compounds that have been detected in human serum or tissues worldwide .
+The objective of our study was to determine serum PCB levels in a representative sample of the general population of the Spanish Archipelago of the Canary Islands ( 607 serum samples from subjects aged between 6 and 75 years ) in order to establish the main causes of this contamination and to evaluate the potential risks posed by these chemicals on the population through the use of toxicity equivalence to dioxins ( TEQs ) .
+PCB congeners ( 28 , 52 , 77 , 81 , 101 , 105 , 114 , 118 , 123 , 126 , 138 , 153 , 156 , 157 , 167 , 169 , 180 , and 189 ) were measured by gas chromatography-mass spectrometry ( GC/MS ) .
+Our results showed that PCB residues were found in 76% of serum samples analyzed , with the congeners 153 and 180 being the most frequently detected and having the highest median values ( 21.8 and 6.7 ng/g lipid , respectively ) .
+Serum levels of non-dioxin-like PCBs increased with age , body mass index ( BMI ) , urban habitat , and smoking .
+The median concentration of the sum of PCBs considered as markers of environmental contamination by these chemicals ( M-PCBs ) was 46.4 ng/g lipid .
+Levels of the sum of dioxin-like PCBs ( DL-PCBs ) were 48.5 ng/g lipid in the 95th percentile , and were also positively associated with age .
+As a consequence , age seemed to be positively associated with TEQs levels , reaching values as high as 58.6 pg/g lipid in the serum samples from oldest people .
+Our results indicate that the inhabitants of the Canary Archipelago show levels of PCB contamination lower than other populations present on the Spanish mainland , as well as many populations from developed countries .
+Nevertheless , as these compounds may induce adverse health effects even at very low doses , our findings should be considered by local Public Health authorities in order to establish measures for diminishing the exposure of the population of these islands to PCBs .

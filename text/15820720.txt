@@ -1,0 +1,8 @@
+The relationship of inorganic arsenic exposure through drinking water and total urinary arsenic excretion in a nonoccupationally exposed population was evaluated in a cross-sectional study in three mayor cities of Chile ( Antofagasta , Santiago , and Temuco ) .
+A total of 756 individuals in three population strata ( elderly , students , and workers ) provided first morning void urine specimens the day after exposure and food surveys were administered .
+Arsenic intake from drinking water was estimated from analysis of tap water samples , plus 24-h dietary recall and food frequency questionnaires .
+Multilevel analysis was used to evaluate the effects of the age group and city factors adjusted by predictor variables .
+Arsenic levels in drinking water and urine were significantly higher in Antofagasta compared with the other cities .
+City-and individual-level factors , 12% and 88% , respectively , accounted for the variability in urinary arsenic concentration .
+The main predictors of urinary arsenic concentration were total arsenic consumption through water and age .
+These findings indicate that arsenic concentration in drinking water continues to be the principal contributing factor to exposure to inorganic arsenic in the Chilean population .

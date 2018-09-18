@@ -1,0 +1,10 @@
+The authors evaluated the association of prenatal arsenic exposure with size at birth ( birth weight , birth length , head and chest circumferences ) .
+This prospective cohort study , based on 1,578 mother-infant pairs , was conducted in Matlab , Bangladesh , in 2002-2003 .
+Arsenic exposure was assessed by analysis of arsenic in urine collected at around gestational weeks 8 and 30 .
+The association of arsenic exposure with size at birth was assessed by linear regression analyses .
+In analysis over the full range of exposure ( 6-978 microg/L ) , no dose-effect association was found with birth size .
+However , significant negative dose effects were found with birth weight and head and chest circumferences at a low level of arsenic exposure ( <100 microg/L in urine ) .
+In this range of exposure , birth weight decreased by 1.68 ( standard error ( SE ) , 0.62 ) g for each 1-microg/L increase of arsenic in urine .
+For head and chest circumferences , the corresponding reductions were 0.05 ( SE , 0.03 ) mm and 0.14 ( SE , 0.03 ) mm per 1 microg/L , respectively .
+No further negative effects were shown at higher levels of arsenic exposure .
+The indicated negative effect on birth size at a low level of arsenic exposure warrants further investigation .

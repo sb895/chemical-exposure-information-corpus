@@ -1,0 +1,9 @@
+BACKGROUND Air pollution and obesity are hypothesized to contribute to accelerated decline in lung function with age through their inflammatory properties .
+OBJECTIVE We investigated whether the previously reported association between improved air quality and lung health in the population-based SAPALDIA cohort is modified by obesity .
+METHODS We used adjusted mixed-model analyses to estimate the association of average body mass index ( BMI ) and changes in particulate matter with aerodynamic diameter \u2264 10 µm ( PM10 ; \u0394PM10 ) with lung function decline over a 10-year follow-up period .
+RESULTS Lung function data and complete information were available for 4,664 participants .
+Age-related declines in lung function among participants with high average BMI were more rapid for FVC ( forced vital capacity ) , but slower for FEV1/FVC ( forced expiratory volume in 1 sec/FVC ) and FEF25-75 ( forced expiratory flow at 25-75% ) than declines among those with low or normal average BMI .
+Improved air quality was associated with attenuated reductions in FEV1/FVC , FEF25-75 , and FEF25-75/FVC over time among low- and normal-BMI participants , but not overweight or obese participants .
+The attenuation was most pronounced for \u0394FEF25-75/FVC ( 30% and 22% attenuation in association with a 10-\u03bcg/m3 decrease in PM10 among low- and normal-weight participants , respectively. )
+CONCLUSION Our results point to the importance of considering health effects of air pollution exposure and obesity in parallel .
+Further research must address the mechanisms underlying the observed interaction .

@@ -1,0 +1,8 @@
+Exposure to methyl mercury , a risk factor for neurodevelopmental toxicity , was assessed in U.S. children 1-5 years of age ( n = 838 ) and women 16-49 years of age ( n = 1,726 ) using hair mercury analysis during the 1999-2000 National Health and Nutrition Examination Survey ( NHANES ) .
+The data are nationally representative and are based on analysis of cross-sectional data for the noninstitutionalized , U.S. household population .
+The survey consisted of interviews conducted in participants ' homes and standardized health examinations conducted in mobile examination centers .
+Distributions of total hair mercury levels expressed as micrograms per gram hair Hg and the association of hair Hg levels with sociodemographic characteristics and fish consumption are reported .
+Geometric mean ( standard error of the geometric mean ) hair mercury was 0.12 microg/g ( 0.01 microg/g ) in children , and 0.20 microg/g ( 0.02 microg/g ) in women .
+Among frequent fish consumers , geometric mean hair mercury levels were 3-fold higher for women ( 0.38 vs. 0.11 micro g/g ) and 2-fold higher for children ( 0.16 vs. 0.08 microg/g ) compared with nonconsumers .
+The NHANES 1999-2000 data provide population-based data on hair mercury concentrations for women and children in the United States .
+Hair mercury levels were associated with age and fish consumption frequency .

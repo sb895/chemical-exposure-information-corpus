@@ -1,0 +1,11 @@
+BACKGROUND Many poor in developing countries have turned to artisanal small-scale gold mining ( ASGM ) in an attempt to improve their situation .
+However , the mercury used to extract gold from ore is discharged in vaporized form into the environment , where it poses a hazard for human health .
+METHODS As part of an environmental epidemiological study in Mongolia-to evaluate the burden of environmental mercury contamination-urine , blood and hair samples were collected from residents of areas with or without mercury contamination .
+A total of 200 blood , urine and hair samples were analyzed for mercury and divided into three subgroups according to mercury content : ( 1 ) occupational exposure ( high/medium ) ; ( 2 ) environmental exposure ( low ) ; and ( 3 ) no exposure .
+Internal mercury distributions of the subgroups were compared using the Kruskal-Wallis and Mann-Whitney U-test .
+The Chi-square test and likelihood ratio proportion were used to compare the findings with threshold limits .
+RESULTS The highest values and greatest differences were seen in the urine samples ( p<0.001 , Kruskal-Wallis ) .
+The occupational group showing the highest exposure with a median mercury level of 4.36\u03bcg/l ( control group : 0.10\u03bcg/l , p<0.001 ) , 7.18\u03bcg/g creatinine and 12 results above the threshold limit HBM I ( Human Biomonitoring I ) .
+Even participants from the low-exposure subgroup showed elevated mercury levels ( median 2.88\u03bcg/l urine and 2.98\u03bcg/g creatinine , p<0.001 ) , with 10 individuals above the HBM I threshold limits .
+DISCUSSION The body burden resulting from the use of mercury in artisanal gold mining is high not only in the miners themselves , an increased mercury hazard was also found for inhabitants of mining areas who were not actively involved in mining .
+Public health support measures are urgently needed to alleviate the situation .

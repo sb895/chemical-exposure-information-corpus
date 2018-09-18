@@ -1,0 +1,7 @@
+Polychlorinated biphenyls are persistent organic pollutants that have been used for decades in several industrial applications .
+Although production of polychlorinated biphenyls was restricted from the 1970s in most countries , substantial amounts remain in old equipment and buildings and they have been detected in various environmental and biological matrices .
+The main objective of this study was to analyze predictors of the combined exposure to three non-dioxin-like polychlorinated biphenyls ( congeners 138 , 153 and 180 ) in serum and adipose tissue from an adult cohort ( n=112 ) living in the city of Santa Cruz de la Sierra ( Bolivia ) and surrounding towns/villages .
+A second aim was to identify modifiers that might influence the statistical associations found , using crude , partially-adjusted , and global multiple linear regression models .
+Main predictors of serum concentrations were occupation and fatty food consumption , while those for adipose tissue concentrations included age , smoking habit , fatty food consumption , and residence .
+The differences between the two matrices might be derived from their biological meaning , given that adipose tissue concentrations are an indicator of chronic exposure to polychlorinated biphenyls while serum levels are a good predictor of ongoing exposure and the mobilization of polychlorinated biphenyls stored in fatty tissues .
+Body mass index was found to be an important modifier of these associations .

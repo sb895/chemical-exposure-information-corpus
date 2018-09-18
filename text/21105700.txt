@@ -1,0 +1,7 @@
+Dechlorane Plus ( DP ) and a dechlorination product , 1,6,7,8,9,14,15,16,17,17,18-octadeca-7,15-diene ( anti-Cl(11)-DP ) , were measured in human hair and indoor dust collected from an e-waste recycling area and two control areas ( rural and urban ) in South China .
+DP was detected in hair and dust samples at concentrations ranging from 0.02-58.32 ng/g and 2.78-4197 ng/g , respectively. anti-Cl(11)-DP , mainly detected in human hair and dust samples from the e-waste recycling area , ranged from nd ( nondetected ) to 0.23 ng/g in hair and from nd to 20.22 ng/g in dust .
+Average values of anti-DP fractional abundance ( f(anti) ratio ) in hair of e-waste dismantling workers ( 0.55 ± 0.11 ) and dust from e-waste recycling workshops ( 0.54 ± 0.15 ) were significantly lower than those in other groups ( 0.62-0.76 means for hair and 0.66-0.76 means for dust ) .
+Significantly positive correlation between DP concentrations in dust and hair and similarity in f(anti) ratios between hair and dust suggest that ingestion of dust comprise one of the major routes for DP exposure .
+Significantly positive relationships were also observed between anti-Cl(11)-DP and anti-DP for both hair and dust samples with similar regression line slopes .
+The ratios of anti-Cl(11)-DP to anti-DP between hair and dust show no significant difference .
+These results suggest that anti-Cl(11)-DP in the human body is likely accumulated from the environmental matrix and not formed from biotransformation of the parent DP .

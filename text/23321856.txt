@@ -1,0 +1,8 @@
+Central-site monitors do not account for factors such as outdoor-to-indoor transport and human activity patterns that influence personal exposures to ambient fine-particulate matter ( PM(2.5) ) .
+We describe and compare different ambient PM(2.5) exposure estimation approaches that incorporate human activity patterns and time-resolved location-specific particle penetration and persistence indoors .
+Four approaches were used to estimate exposures to ambient PM(2.5) for application to the New Jersey Triggering of Myocardial Infarction Study .
+These include : Tier 1 , central-site PM(2.5) mass ; Tier 2A , the Stochastic Human Exposure and Dose Simulation ( SHEDS ) model using literature-based air exchange rates ( AERs ) ; Tier 2B , the Lawrence Berkeley National Laboratory ( LBNL ) Aerosol Penetration and Persistence ( APP ) and Infiltration models ; and Tier 3 , the SHEDS model where AERs were estimated using the LBNL Infiltration model .
+Mean exposure estimates from Tier 2A , 2B , and 3 exposure modeling approaches were lower than Tier 1 central-site PM(2.5) mass .
+Tier 2A estimates differed by season but not across the seven monitoring areas .
+Tier 2B and 3 geographical patterns appeared to be driven by AERs , while seasonal patterns appeared to be due to variations in PM composition and time activity patterns .
+These model results demonstrate heterogeneity in exposures that are not captured by the central-site monitor .

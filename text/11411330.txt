@@ -1,0 +1,6 @@
+To investigate the association between organic solvent exposure and menstrual disturbance , we conducted a cross-sectional study among 1408 petrochemical workers in China .
+Based on an industrial hygiene evaluation , we classified the workshops according to the presence or absence of organic solvents ( benzene , styrene , toluene , or xylene ) .
+We used logistic regression to estimate odds ratios and 95% confidence intervals for prolonged menstrual cycle length ( oligomenorrhea : average cycle length > 35 days during the previous year ) associated with the exposure .
+After adjustment for confounders , each additional year of work in an exposed workshop was associated with a 7% increase in oligomenorrhea ( odds ratio , 1.07 ; 95% confidence interval , 1.00 to 1.14 ) .
+Compared with no exposure , 3 or more years of exposure was associated with a 53% increase in oligomenorrhea ( odds ratio , 1.53 ; 95% confidence interval , 1.00 to 2.34 ) .
+We concluded that exposure to organic solvents is associated with a trend toward increased frequency of oligomenorrhea .

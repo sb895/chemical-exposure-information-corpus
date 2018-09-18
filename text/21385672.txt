@@ -1,0 +1,11 @@
+BACKGROUND Epidemiology investigations have linked exposure to ambient and occupational air particulate matter ( PM ) with increased risk of lung cancer .
+PM contains carcinogenic and toxic metals , including arsenic and nickel , which have been shown in in vitro studies to induce histone modifications that activate gene expression by inducing open-chromatin states .
+Whether inhalation of metal components of PM induces histone modifications in human subjects is undetermined .
+OBJECTIVES We investigated whether the metal components of PM determined activating histone modifications in 63 steel workers with well-characterized exposure to metal-rich PM .
+METHODS We determined histone 3 lysine 4 dimethylation ( H3K4me2 ) and histone 3 lysine 9 acetylation ( H3K9ac ) on histones from blood leukocytes .
+Exposure to inhalable metal components ( aluminum , manganese , nickel , zinc , arsenic , lead , iron ) and to total PM was estimated for each study subject .
+RESULTS Both H3K4me2 and H3K9ac increased in association with years of employment in the plant ( p-trend = 0.04 and 0.006 , respectively ) .
+H3K4me2 increased in association with air levels of nickel [ \u03b2 = 0.16 ; 95% confidence interval ( CI ) , 0.03-0.3 ] , arsenic ( \u03b2 = 0.16 ; 95% CI , 0.02-0.3 ) , and iron ( \u03b2 = 0.14 ; 95% CI , 0.01-0.26 ) .
+H3K9ac showed nonsignificant positive associations with air levels of nickel ( \u03b2 = 0.24 ; 95% CI , -0.02 to 0.51 ) , arsenic ( \u03b2 = 0.21 ; 95% CI , -0.06 to 0.48 ) , and iron ( \u03b2 = 0.22 ; 95% CI , -0.03 to 0.47 ) .
+Cumulative exposures to nickel and arsenic , defined as the product of years of employment by metal air levels , were positively correlated with both H3K4me2 ( nickel : \u03b2 = 0.16 ; 95% CI , 0.01-0.3 ; arsenic : \u03b2 = 0.16 ; 95% CI , 0.03-0.29 ) and H3K9ac ( nickel : \u03b2 = 0.27 ; 95% CI , 0.01-0.54 ; arsenic : \u03b2 = 0.28 ; 95% CI , 0.04-0.51 ) .
+CONCLUSIONS Our results indicate histone modifications as a novel epigenetic mechanism induced in human subjects by long-term exposure to inhalable nickel and arsenic .

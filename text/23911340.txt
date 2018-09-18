@@ -1,0 +1,10 @@
+Exposure to dioxins and polychlorinated biphenyls ( PCBs ) during pregnancy and breastfeeding may result in adverse health effects in children .
+Prenatal exposure is determined by the concentrations of dioxins and PCBs in maternal blood , which reflect the body burden obtained by long term dietary exposure .
+The aims of this study were ( 1 ) to describe dietary exposure and important dietary sources to dioxins and PCBs in a large group of pregnant women and ( 2 ) to identify maternal characteristics associated with high dietary exposure to dioxins and PCBs .
+Dietary exposure to dioxins ( sum of toxic equivalents ( TEQs ) from dioxin-like ( dl ) compounds ) and PCB-153 in 83,524 pregnant women ( gestational weeks 17-22 ) who participated in the Norwegian Mother and Child Cohort Study ( MoBa ) during the years 2002-2009 was calculated based on a food frequency questionnaire ( FFQ ) and a database of dioxin and PCB concentrations in Norwegian food .
+The median ( interquartile range , IQR ) intake of PCB-153 ( marker of ndl-PCBs ) was 0.81 ( 0.77 ) ng/kg bw/day .
+For dioxins and dioxin-like PCBs , the median ( IQR ) intake was 0.56 ( 0.37 ) pg TEQ/kg bw/day .
+Moreover , 2.3% of the participants had intakes exceeding the tolerable weekly intake ( TWI ) of 14pg TEQ/kg bw/week .
+Multiple regression analysis showed that dietary exposure was positively associated with maternal age , maternal education , weight gain during pregnancy , being a student , and alcohol consumption during pregnancy and negatively associated with pre-pregnancy BMI and smoking .
+A high dietary exposure to PCB-153 or dl-compounds ( TEQ ) was mainly explained by the consumption of seagull eggs and/or pate with fish liver and roe .
+Women who according to Norwegian recommendations avoid these food items generally do not have dietary exposure above the tolerable intake of dioxins and dl-PCBs .

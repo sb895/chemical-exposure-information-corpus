@@ -1,0 +1,11 @@
+Daily variations in ambient particulate air pollution are associated with variations in respiratory lung function .
+It has been suggested that the effects of particulate matter may be due to particles in the ultrafine ( 0.01-0.1 microm ) size range .
+Because previous studies on ultrafine particles only used self-monitored peak expiratory flow rate ( PEFR ) , we assessed the associations between particle mass and number concentrations in several size ranges measured at a central site and measured ( biweekly ) spirometric lung function among a group of 54 adult asthmatics ( n = 495 measurements ) .
+We also compared results to daily morning , afternoon , and evening PEFR measurements done at home ( n = 7,672-8,110 measurements ) .
+The median ( maximum ) 24 hr number concentrations were 14,500/cm(3) ( 46,500/cm(3) ) ultrafine particles and 800/cm(3) ( 2,800/cm(3) ) accumulation mode ( 0.1-1 microm ) particles .
+The median ( maximum ) mass concentration of PM(2.5) ( particulate matter < 2.5 microm ) and PM(10) ( particulate matter < 10 microm in aerodynamic diameter ) were 8.4 microg/m(3) ( 38.3 microg/m(3) ) and 13.5 microg/m(3) ( 73.7 microg/m(3) ) , respectively .
+The number of accumulation mode particles was consistently inversely associated with PEFR in spirometry .
+Inverse , but nonsignificant , associations were observed with ultrafine particles , and no associations were observed with large particles ( PM(10) ) .
+Compared to the effect estimates for self-monitored PEFR , the effect estimates for spirometric PEFR tended to be larger .
+The standard errors were also larger , probably due to the lower number of spirometric measurements .
+The present results support the need to monitor the particle number and size distributions in urban air in addition to mass .

@@ -1,0 +1,12 @@
+Aboriginal populations from Quebec ( Canada ) are exposed to higher mercury levels than southern regions since these populations consume high quantities of fish .
+Epidemiological evidence suggests a detrimental impact of mercury on cardiovascular risk factors such as heart rate variability ( HRV ) and blood pressure ( BP ) .
+The objective of this study was to assess the impact of mercury exposure on BP , resting heart rate ( HR ) and HRV among Cree adults .
+Data were collected among 791 adults\u226518 years old living in seven communities of the James Bay .
+Blood mercury and hair levels were used as biomarkers of recent and long-term exposure .
+BP was measured through a standardised protocol while HRV was derived from a 2-h Holter monitoring assessment .
+The relationship between mercury and the outcomes was studied using ANOVA and ANCOVA analysis .
+Geometric mean of blood mercury and hair mercury concentration was 17.0 nmol/L ( 95%CI : 6.1-44.0 ) and 2.36 nmol/g ( 95%CI : 2.09-2.65 ) ; respectively .
+After adjusting for confounders , blood mercury was associated with HRV parameters such as LF ( \u03b2=0.21 , P=0.0002 ) , HF ( \u03b2=0.15 , P=0.004 ) and LF/HF ( \u03b2=0.06 , P=0.003 ) .
+Similar associations were observed with hair mercury .
+In contrast , no significant association was observed between blood mercury or hair mercury and BP after adjusting for confounders .
+In conclusion , mercury exposure seems to affect HRV among Cree adults even after considering fish nutrients ( n-3 fatty acids and selenium ) and other contaminants ( lead and polychlorinated biphenyls ) that are also present in the traditional diet of this population .

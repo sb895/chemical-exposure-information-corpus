@@ -1,0 +1,9 @@
+BACKGROUND Environmental toxins , pathogens and host susceptibility cofactors may interact to contribute to disease .
+In vitro mercury exposure inhibited antiviral cytokines in human cells ; however , little is known about the relationship between mercury and viruses in children .
+Children are susceptible to mercury toxicity ; lower vitamin B-12 and folate levels and higher homocysteine levels may represent susceptibility cofactors .
+This study aimed to evaluate associations between total blood mercury ( Hg ) and measles antibodies in children , and the influence of these susceptibility cofactors .
+DESIGN Cross-sectional data on serum measles antibodies , Hg , homocysteine , methylmalonic acid ( MMA , indicator of B-12 deficiency ) , and folate were obtained from the 2003-2004 NHANES for children aged 6-11 years with measles seropositivity ( n=692 ) .
+We used linear regression to evaluate relationships between measles antibodies and Hg , stratified by sex , MMA \u2265 , folate < , and homocysteine\u2265sample medians , adjusted for demographic , nutritional and environmental cofactors .
+RESULTS Hg ( range : 0.10-19.10\u03bcg/L ) was inversely associated with measles antibodies ( range : 1.00-28.24 units ) in non-stratified analysis ( n=692 ) , yet positively associated among the subset of boys with higher MMA and lower folate ( n=98 ) .
+Among this subset with higher homocysteine levels ( n=61 ) , correlations were positive across all Hg quartiles relative to Q1 ( Hg\u22640.20\u03bcg/L ) : Q2:\u03b2=6.60 ( 3.02 , 10.19 ) ; Q3:\u03b2=8.49 ( 6.17 , 10.81 ) ; Q4 ( Hg>0.80\u03bcg/L):\u03b2=4.90 ( 2.12 , 7.67 ) ( p(trend)=0.077 ) .
+CONCLUSION Stratification by susceptibility cofactors revealed opposing directionality for correlations between Hg and measles antibodies , with positive effect estimates at lowest exposures only among boys with higher MMA , lower folate and higher homocysteine levels .

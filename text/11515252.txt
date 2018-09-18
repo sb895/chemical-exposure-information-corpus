@@ -1,0 +1,7 @@
+Styrene is an extensively used industrial chemical that has been classified as a possible human carcinogen .
+The possible carcinogenicity may be related to the covalent DNA binding properties of styrene 7,8-oxide , a major metabolite of styrene .
+We have developed a sensitive and a highly specific phosphorus-32-postlabeling method for the determination of 1-styrene 7,8-oxide-adenine DNA adducts .
+These adducts were analyzed in white blood cells from workers exposed to styrene at mean level of 76.2 mg/m3 .
+Three of nine exposed workers showed adducts above the detection limit ; the mean was 0.79 +/- 0.14 1-styrene 7,8-oxide-adenine DNA adducts/10(9) nucleotides .
+None of the 11 control cells showed adducts above the detection limit , which was 0.4 adducts/10(9) nucleotides .
+The results show a potential of 1-adenine DNA adducts for predicting risks in the workers exposed to styrene .

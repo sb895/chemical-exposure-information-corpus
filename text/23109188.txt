@@ -1,0 +1,13 @@
+BACKGROUND Cement is used widely in the construction industry , though it contains hazardous chemicals such as hexavalent chromium .
+Several epidemiological studies have examined the association between cement dust exposure and cancer , but these associations have proved inconclusive .
+In the present study , we examined the association between dust exposure and cancer in cement industry workers in Korea .
+METHODS Our cohort consisted of 1,324 men who worked at two Portland cement manufacturing factories between 1997 and 2005 .
+We calculated cumulative dust exposures , then categorized workers into high and low dust exposure groups .
+Cancer cases were identified between 1997 and 2005 by linking with the national cancer registry .
+Standardized incidence ratios ( SIRs ) were calculated for all workers and the high and low dust exposure groups , respectively .
+RESULTS The SIR for overall cancers in all workers was increased ( 1.35 , 95% CI : 1.01-1.78 ) .
+The SIR for stomach cancer in the high dust exposure group was increased ( 2.18 , 95% CI : 1.19-3.65 ) , but there was no increased stomach cancer risk in the low dust exposure group .
+The SIR for rectal cancer in all workers was increased ( 3.05 , 95% CI : 1.32-6.02 ) .
+Rectal cancer risk was similar in the high and low exposure groups .
+CONCLUSIONS Our findings suggest a potential association between exposure in the cement industry and an increased risk of stomach and rectal cancers .
+However , due to the small number of cases , this association should be further investigated in a study with a longer follow-up period and adjustment for confounders .

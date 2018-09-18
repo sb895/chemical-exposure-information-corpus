@@ -1,0 +1,10 @@
+BACKGROUND Fetal exposure to endocrine disrupting chemicals may increase the risk for adverse health effects at birth or later in life .
+OBJECTIVES The objective of this study is to analyze the combined effect of xenoestrogens on reproductive and perinatal growth outcomes ( child birthweight , early rapid growth and body mass index ( BMI ) at 14 months ) using the biomarker total effective xenoestrogen burden ( TEXB ) .
+METHODS 490 placentas were randomly collected in the Spanish prospective birth cohort Environment and Childhood ( INMA ) project .
+TEXB was used to assess the estrogenicity of placental samples in two fractions : that largely attributable to environmental organohalogenated xenoestrogens ( TEXB-alpha ) , and that mostly due to endogenous estrogens ( TEXB-beta ) , both expressed in estrogen equivalent units ( Eeq ) per gram of tissue .
+Linear or logistic regression models were performed adjusting for cohort and confounders .
+Sex interactions were investigated .
+RESULTS The median TEXB-alpha level was 0.76 pM Eeq/g ( interquartile range ( iqr ) : 1.14 ) .
+In multivariate models , higher TEXB-alpha levels ( third tertile , >1.22 pM Eeq/g ; iqr : 1.73 ) were associated with increased birthweight in boys but not in girls ( \u03b2=148.2 g , 95% CI : 14.01 , 282.53 , p(int)=0.057 ) .
+Additionally , higher TEXB-alpha values in boys were related with a lower risk of early rapid growth ( OR=0.37 ; 95% CI : 0.15 , 0.88 ) and with a non significant association with larger BMI z-scores at 14 months of age ( \u03b2=0.29 ; 95% CI : -0.11 , 0.69 ) .
+CONCLUSIONS These findings suggest that prenatal exposure to xenoestrogens may increase birthweight in boys , which might have an impact on child obesity and other later health outcomes .

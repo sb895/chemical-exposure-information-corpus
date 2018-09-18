@@ -1,0 +1,16 @@
+OBJECTIVES To determine the contribution of dermal absorption on the total exposure dose and the performance of respirators in the field for xylene in spray painters .
+METHODS Eighteen male spray painters worked at shipyard were recruited for this study .
+The subjects were monitored during a 3-day-work period using a repeated-measures study design .
+Personal exposure to xylene outside and inside mask were collected using two 3 M model 3500 organic vapor monitors , respectively .
+Urine was collected before and after the work shift and urinary methyl hippuric acid ( MHA ) was determined .
+Total 98 of air and urine samples were obtained , respectively .
+RESULTS Air sampling results showed that workers were primarily exposed to xylene and ethyl benzene .
+Xylene and ethyl benzene concentrations outside the mask were 52.6+/-63.7 ( mean+/-SD ) and 33.2+/-32.4 ppm , and concentrations inside the mask were 2.09+/-2.74 and 1.79+/-2.16 ppm , respectively .
+The median workplace protection factors of respirators for xylene and ethyl benzene were 25.0 and 17.4 , respectively .
+On average , workers could reduce xylene inhalation by 96% and ethyl benzene inhalation by 94% for wearing respirators .
+A significant correlation ( R(2)=0.935 ; P<0.001 ) was found between the WPFs for xylene and ethyl benzene .
+Total urinary MHA concentration was 240.2+/-42.3 ( mean+/-SE ) mg/g creatinine , whereas urinary MHA via skin absorption was estimated to be 202.1+/-40.1 mg/g creatinine .
+The contribution of dermal absorption to the total exposure dose of xylene was 64+/-4.3% .
+CONCLUSION The present study showed that inhalation of solvent vapors in workers decreased as a result of wearing respirators and dermal exposure became the main contributor to the total body burden of solvents .
+Because workers had different attitude and behavior to wear respirators , the measured workplace protection factors varied .
+It is therefore equally important to prevent from being exposed to solvents through skin for shipyard spray painters .

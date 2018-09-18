@@ -1,0 +1,10 @@
+We measured two diethyl organophosphorus ( OP ) pesticides--chlorpyrifos and parathion--in residences , and their metabolic by-products , in the urine of children 6 years old or younger in a central Washington State agricultural community .
+Exposures to two dimethyl OP pesticides ( azinphos-methyl and phosmet ) in this same population have been reported previously .
+We categorized children by parental occupation and by household proximity to pesticide-treated farmland .
+Median chlorpyrifos house dust concentrations were highest for the 49 applicator homes ( 0.4 microg/g ) , followed by the 12 farm-worker homes ( 0.3 microg/g ) and the 14 nonagricultural reference homes ( 0.1 microg/g ) , and were statistically different ( p < 0.001 ) ; we observed a similar pattern for parathion in house dust .
+Chlorpyrifos was measurable in the house dust of all homes , whereas we found parathion in only 41% of the homes .
+Twenty-four percent of the urine samples from study children had measurable 3,5,6-trichloro-2-pyridinol ( TCPy ) concentrations [ limits of quantitation ( LOQ ) = 8 microg/L ] , and 7% had measurable 4-nitrophenol concentrations ( LOQ = 9 microg/L ) .
+Child urinary metabolite concentrations did not differ across parental occupational classifications .
+Homes in close proximity ( 200 ft/60 m ) to pesticide-treated farmland had higher chlorpyrifos ( p = 0.01 ) and parathion ( p = 0.014 ) house dust concentrations than did homes farther away , but this effect was not reflected in the urinary metabolite data .
+Use of OP pesticides in the garden was associated with an increase in TCPy concentrations in children's urine .
+Parathion concentrations in house dust decreased 10-fold from 1992 to 1995 , consistent with the discontinued use of this product in the region in the early 1990s .

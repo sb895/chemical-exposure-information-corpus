@@ -1,0 +1,9 @@
+Reliance on self-reported use of tobacco and intake of ethanol during pregnancy is associated with a high probability of error .
+Use of biological markers , or biomarkers , potentially offers a more valid method to assess exposure .
+Although cotinine is an established biomarker for tobacco use , there is no established biomarker for in utero ethanol exposure .
+Recent reports suggest that fatty acid ethyl esters ( FAEE ) could serve this purpose .
+To assess agreement between maternal self-reported tobacco use and ethanol intake during pregnancy and detection of metabolites associated with tobacco use ( cotinine ) and ethanol intake ( FAEE ) , the authors studied maternal histories and meconium samples obtained in November-December 1999 from 436 consecutive mother-infant pairs at a large urban regional perinatal center in Honolulu , Hawaii .
+Cohen's kappa coefficient and 95% confidence intervals were calculated .
+Moderate agreement was found between reported tobacco use during the third trimester and detected cotinine level ( kappa = 0.53 , 95% confidence interval : 0.39 , 0.68 ) ; however , there was no agreement between reported ethanol intake during the third trimester and detected FAEE ( kappa = -0.02 , 95% confidence interval : -0.04 , 0.00 ) .
+No mother reporting ethanol intake during the third trimester had detectable FAEE .
+Findings support the need for additional refinement and validation of the use of FAEE as a biomarker for maternal ethanol intake .

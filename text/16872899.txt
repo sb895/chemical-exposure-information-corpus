@@ -1,0 +1,13 @@
+Perfluorinated chemicals ( PFCs ) are used in a wide variety of consumer products .
+Major fields of application include surfactants , surface protection ( e.g. , for textiles , carpets , and upholstery ) , paper treatment ( e.g. , for food packages ) , and lubricants .
+Perfluorooctane sulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) are raw materials or manufacturing aids for some PFCs and can be released of those by biotic and/or metabolic decomposition .
+Due to their widespread use , persistence and bioaccumulative properties they are taken up by the general population from different sources .
+This might be a problem for environmental medicine because in animal studies PFOS and PFOA provoked various types of cancer and showed developmental toxic potential besides other adverse health effects .
+We determined the PFOS and PFOA plasma concentrations of 105 non-smokers out of the German general population as a first estimate of the exposure situation in Germany .
+We employed an analytical method based on serum protein precipitation followed by HPLC with MS/MS-detection .
+The median plasma concentrations of all participants were 22.3 and 6.8microg/l , the 95th percentiles 54.3 and 14.6microg/l for PFOS and PFOA , respectively .
+These values are comparable with those of other biomonitoring studies .
+In our study , men were higher burdened both with PFOS ( median : 27.1 vs. 19.9microg/l ) and PFOA ( median : 8.3 vs. 5.8microg/l ) than women .
+No significant influence of age on PFOS and PFOA plasma concentrations could be observed .
+A strong correlation ( r=0.82 ) between PFOS and PFOA plasma levels indicates the same exposure sources .
+The ubiquitous internal exposure of the general population to PFOS and PFOA must lead to further activities primarily regarding clarification of sources , metabolism , pharmacokinetics , and health effects .

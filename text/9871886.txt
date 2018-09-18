@@ -1,0 +1,9 @@
+Porphyrin , mercury , and creatinine levels in single-void urine specimens ( "spot samples" ) were compared with calculated 24-hour urine concentrations among 146 ( 77 male and 69 female ) practicing dentists who are participating in an ongoing study of urinary porphyrin changes as a biomarker of mercury body burden .
+All subjects had urinary mercury concentrations < or = 5 micrograms/L , a level comparable to that of the general US population and which is below that determined to be associated with mercury-induced changes in urinary porphyrin excretion rates .
+The results confirmed previous findings of no significant diurnal variation in any of the porphyrin levels normally found in urine or in total porphyrin levels combined among males but describe significant diurnal variations in most porphyrin levels as well as concentrations of total porphyrins combined among females .
+Similarly , no evidence of large diurnal variation in mercury excretion among males was apparent , whereas significant diurnal variation in the mercury excretion rate among females was found .
+Creatinine adjustment of porphyrin or mercury concentrations had no significant effect on these findings .
+Moreover , no evidence of diurnal variation in urinary creatinine excretion among either male or female subjects was obtained , despite substantial between-subject variability in this parameter .
+These results support the view that spot urine samples may be utilized to derive reasonably accurate estimates of 24-hour porphyrin and mercury excretion rates in male subjects .
+In contrast , time of day appears to be of considerably greater importance when spot samples are utilized as 24-hour estimates of either porphyrin or mercury excretion rates among females .
+Additionally , time of day may be an important consideration in studies involving serial ( repeated ) porphyrin or mercury measurements using spot urine samples , irrespective of gender distribution of study subjects .

@@ -1,0 +1,11 @@
+Many brominated flame retardants ( BFRs)-including polybrominated diphenyl ethers ( PBDEs)-have been shown to persist in the environment , and some have been associated with adverse health effects .
+The aim of the present study was to quantify serum concentrations of common brominated flame retardants in Inuit men from across Greenland , and in men from Warsaw , Poland and Kharkiv , Ukraine .
+Serum was sampled between 2002 and 2004 from men 19 to 50years of age. 299 samples were analyzed for BDE-28 , 47 , 99 , 100 , 153 , 154 and 183 and the brominated biphenyl BB-153 using gas chromatography-high resolution mass spectrometry .
+BDE-47 and BDE-153 were detected in more than 95% of samples from all three populations .
+All other congeners , except BDE-154 , were detected in more than 70% of samples from Greenland ; lower detection frequencies were observed in Polish and Ukrainian samples .
+Concentrations of individual congeners were 2.7 to 15 fold higher in Greenlandic relative to Polish and Ukrainian men .
+Geometric mean concentrations of the sum of the most abundant PBDEs of the Penta-BDE commercial mixture ( BDE-47 , 99 , 100 , 153 and 154 ) were 6.1 , 1.7 and 0.87ng/g lipids in the Greenlandic , Polish and Ukrainian men , respectively .
+Furthermore , significant geographical differences in BFR concentrations were observed within Greenland .
+Principal component analysis revealed distinct clustering of samples by country of origin .
+The associations between \u03a3PBDEs and age were inconsistent , varying from no association in Greenlandic and Polish study populations to a U-shaped relationship in Ukrainians .
+We report BFR levels for three populations for which sparse biomonitoring data exists .

@@ -1,0 +1,10 @@
+BACKGROUND A number of studies have shown possible associations between occupational exposures , particularly solvents , and lymphomas .
+The present investigation aimed to evaluate the association between exposure to solvents and lymphomas ( Hodgkin and non-Hodgkin ) in a large population-based , multicenter , case-control study in Italy .
+METHODS All newly diagnosed cases of malignant lymphoma in men and women age 20 to 74 years in 1991-1993 were identified in 8 areas in Italy .
+The control group was formed by a random sample of the general population in the areas under study stratified by sex and 5-year age groups .
+We interviewed 1428 non-Hodgkin lymphoma cases , 304 Hodgkin disease cases , and 1530 controls .
+Experts examined the questionnaire data and assessed a level of probability and intensity of exposure to a range of chemicals .
+RESULTS Those in the medium/high level of exposure had an increased risk of non-Hodgkin lymphoma with exposure to toluene ( odds ratio = 1.8 ; 95% confidence interval = 1.1-2.8 ) , xylene 1.7 ( 1.0-2.6 ) , and benzene 1.6 ( 1.0-2.4 ) .
+Subjects exposed to all 3 aromatic hydrocarbons ( benzene , toluene , and xylene ; medium/high intensity compared with none ) had an odds ratio of 2.1 ( 1.1-4.3 ) .
+We observed an increased risk for Hodgkin disease for those exposed to technical solvents ( 2.7 ; 1.2-6.5 ) and aliphatic solvents ( 2.7 ; 1.2-5.7 ) .
+CONCLUSION This study suggests that aromatic and chlorinated hydrocarbons are a risk factor for non-Hodgkin lymphomas , and provides preliminary evidence for an association between solvents and Hodgkin disease .

@@ -1,0 +1,12 @@
+OBJECTIVE Traditional gold mining is associated with mercury exposure .
+Especially vulnerable to its neurotoxic effects is the developing nervous system of a child .
+We aimed to investigate risk factors of mercury exposure among children in a rural mining town in Chile .
+METHODS Using a validated questionnaire distributed to the parents of the children , a priori mercury risk factors , potential exposure pathways and demographics of the children were obtained .
+Mercury levels were measured through analyzing fingernail samples .
+Logistic regression modeling the effect of risk factors on mercury levels above the 75(th) percentile were made , adjusted for potential confounders .
+RESULTS The 288 children had a mean age of 9.6 years ( SD\u200a=\u200a1.9 ) .
+The mean mercury level in the study population was 0.13 µg/g ( SD 0.11 , median 0.10 , range 0.001-0.86 µg/g ) .
+The strongest risk factor for children's odds of high mercury levels ( >75(th) percentile , 0.165 µg/g ) was to play inside a house where a family member worked with mercury ( OR adjusted 3.49 95% CI 1.23-9.89 ) .
+Additionally , children whose parents worked in industrial gold mining had higher odds of high mercury levels than children whose parents worked in industrial copper mining or outside mining activities .
+CONCLUSION Mercury exposure through small-scale gold mining might affect children in their home environments .
+These results may further help to convince the local population of banning mercury burning inside the households .

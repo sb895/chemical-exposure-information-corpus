@@ -1,0 +1,12 @@
+BACKGROUND A community around a chemical plant was exposed to perfluorooctanoic acid ( PFOA ) for over 50 years , primarily through drinking water .
+One cohort study of PFOA-exposed workers found a positive trend with stroke mortality .
+Other , cross-sectional , studies have found positive associations between serum PFOA and risk factors for stroke , including cholesterol , uric acid , and hypertension .
+OBJECTIVES We examined the relation between PFOA exposure and incident strokes ( including transient ischemic attacks ) in community members , including plant workers .
+METHODS Participants completed surveys in 2008-2011 regarding medical history , health-related behaviors , and demographics .
+Cox proportional hazards models were used to compare the hazard of stroke in relation to time-varying estimated cumulative PFOA serum levels , adjusting for confounders .
+RESULTS Of 32,254 survey participants with exposure estimates , 1596 self-reported stroke , of whom 919 had their self-report validated by medical records review .
+After excluding subjects with strokes before age 20 and subjects born before 1920 or with missing covariate data , 825 cases remained .
+Compared with the lowest quintile of cumulative exposure , subsequent quintiles in the retrospective analysis had hazard ratios of 1.39 [ 95% confidence interval , 1.11-1.76 ] , 1.36 [ 1.08-1.71 ] , 1.45 [ 1.15-1.82 ] , and 1.13 [ 0.90-1.44 ] .
+Tests for trend with linear or log-transformed cumulative dose were not significant ( p=0.52 and 0.59 , respectively ) .
+Neither an analysis with a 5-year lag , nor prospective analyses restricted to 2005-2011 ( 302 cases ) found positive trends ( p=0.44 , positive trend ; p=0.28 , negative trend , respectively ) .
+CONCLUSIONS Overall , our data provide only modest evidence of an association between PFOA and stroke incidence .

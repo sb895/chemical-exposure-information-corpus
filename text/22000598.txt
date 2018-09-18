@@ -1,0 +1,8 @@
+BACKGROUND Air pollution has been associated with adverse cardiovascular effects .
+OBJECTIVE To measure the association between air pollution , spirometry , blood pressure , and exercise capacity .
+METHODS We used data from 5604 subjects collected during the Canada Health Measures Survey to test the association between air pollution measured on the day of the survey and spirometry ( n=5011 subjects ) , blood pressure , and exercise capacity ( n=3789 subjects ) .
+RESULTS An interquartile range ( IQR ) increase in ozone ( 17.0 ppb ) was significantly associated with a 0.883% higher resting heart rate , a 0.718% higher systolic and 0.407% higher diastolic blood pressure , a 0.393% lower FEV1/FVC expressed as a percentage of predicted , and a 1.52% reduction in the aerobic fitness score ( p<0.05 ) .
+Resting systolic and diastolic blood pressure were approximately 0.5 mmHg higher for an ( IQR 4.5 \u03bcg/m3 ) increase in PM2.5 ( IQR 4.5 \u03bcg/m3 ) and 1 mmHg higher for a 12.6 ppb increase in NO2 ( IQR 12.6 ppb ) .
+An increase in PM2.5 was also associated with an approximate 0.4% decrease in percent predicted FEV1 and FVC ( p<0.05 ) .
+CONCLUSION Exposure to higher concentrations of air pollution was associated with higher resting blood pressure and lower ventilatory function .
+Ozone was associated with reduced exercise capacity .

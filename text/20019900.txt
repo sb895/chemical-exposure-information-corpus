@@ -1,0 +1,11 @@
+BACKGROUND Exposure of the U.S. population to polybrominated diphenyl ethers ( PBDEs ) is thought to be via exposure to dust and diet .
+However , little work has been done to empirically link body burdens of these compounds to either route of exposure .
+OBJECTIVES The primary goal of this research was to evaluate the dietary contribution to PBDE body burdens in the United States by linking serum levels to food intake .
+METHODS We used two dietary instruments--a 24-hr food recall ( 24FR ) and a 1-year food frequency questionnaire ( FFQ)--to examine food intake among participants of the 2003-2004 National Health and Nutrition Examination Survey .
+We regressed serum concentrations of five PBDEs ( BDE congeners 28 , 47 , 99 , 100 , and 153 ) and their sum ( Sigma PBDE ) against diet variables while adjusting for age , sex , race/ethnicity , income , and body mass index .
+RESULTS Sigma PBDE serum concentrations among vegetarians were 23% ( p = 0.006 ) and 27% ( p = 0.009 ) lower than among omnivores for 24FR and 1-year FFQ , respectively .
+Serum levels of five PBDE congeners were associated with consumption of poultry fat : Low , medium , and high intake corresponded to geometric mean Sigma PBDE concentrations of 40.6 , 41.9 , and 48.3 ng/g lipid , respectively ( p = 0.0005 ) .
+We observed similar trends for red meat fat , which were statistically significant for BDE-100 and BDE-153 .
+No association was observed between serum PBDEs and consumption of dairy or fish .
+Results were similar for both dietary instruments but were more robust using 24FR .
+CONCLUSIONS Intake of contaminated poultry and red meat contributes significantly to PBDE body burdens in the United States .

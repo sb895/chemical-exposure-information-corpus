@@ -1,0 +1,7 @@
+Mainstream cigarette smoke ( MSS ) from 12 US cigarette brands and two reference cigarettes was evaluated to determine concentrations of dioxins ( i.e. , polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and dioxin-like polychlorinated biphenyls ( PCBs) ) .
+The study included three ' tar ' ranges based on Federal Trade Commission ( FTC ) determination : Low Yield ( LY ) < or = 5.5 , Medium Yield ( MY ) 9.6-12.2 , and High Yield ( HY)> or = 14.5 mg/cig .
+Of the brands studied , the HY cigarettes yielded the greatest mean concentrations of 2005 World Health Organization Toxic Equivalents ( WHO-TEQs ) on a per cigarette basis .
+WHO-TEQ levels in LY cigarettes were significantly lower than for HY cigarettes ( p=0.039 ) on a yield per cigarette basis and WHO-TEQ concentrations correlated with ' tar ' yield ( r=0.73 , p=0.007 ) , as did concentration on a WHO-TEQ per body mass per day basis ( r=0.73 , p=0.007 ) .
+However , a statistically significant relationship was not observed between ' tar ' yield levels and WHO-TEQ concentrations on a per mg Total Particulate Matter ( TPM ) basis .
+Concentrations for all brands tested ranged from 0.44 to 3.88 fg WHO-TEQ/mg TPM .
+Maximum daily exposure estimates calculated from this range ( 0.004-0.074 pg WHO-TEQ/kg bw/day ) are below the current WHO Tolerable Daily Intake range of 1-5 pg/kg bw/day .

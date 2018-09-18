@@ -1,0 +1,12 @@
+The increase in asthma and allergies has been attributed to declining exposure to environmental microorganisms .
+The main source of these is soil , the composition of which varies geographically and which is a major component ( 40-45% ) of household dust .
+Our hypothesis-generating study aimed to investigate associations between soil components , respiratory health and allergy in a Scottish birth cohort .
+The cohort was recruited in utero in 1997/8 , and followed up at one , two and five years for the development of wheezing , asthma and eczema .
+Lung function , exhaled nitric oxide and allergic sensitization were measured at age five in a subset .
+The Scottish Soils Database held at The James Hutton Institute was linked to the birth cohort data by the residential postcode at birth and five years .
+The soil database contained information on size separates , organic matter concentration , pH and a range of inorganic elements .
+Soil and clinical outcome data were available for 869 , 790 and 727 children at one , two and five years .
+Three hundred and fifty nine ( 35% ) of children had the same address at birth and five years .
+No associations were found between childhood outcomes and soil content in the residential area at age five .
+The soil silt content ( 2-20 \u03bcm particle size ) of the residential area at birth was associated with childhood wheeze ( adjusted OR 1.20 , 95% CI [ 1.05 ; 1.37] ) , wheeze without a cold ( 1.41 [ 1.18 ; 1.69] ) , doctor-diagnosed asthma ( 1.54 [ 1.04 ; 2.28] ) , lung function ( FEV1 : beta -0.025 [ -0.047;-0.001] ) and airway inflammation ( FENO : beta 0.15 [ 0.03 ; 0.27] ) at age five , but not with allergic status or eczema .
+Whilst residual confounding is the most likely explanation for the associations reported , the results of this study lead us to hypothesise that early life exposure to residential soil silt may adversely influence childhood respiratory health , possibly because of the organic components of silt .

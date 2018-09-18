@@ -1,0 +1,7 @@
+To elucidate the influence of folate concentration on the association between urinary arsenic profiles and urothelial carcinoma ( UC ) risks in subjects without evident arsenic exposure , 177 UC cases and 488 controls were recruited between September 2002 and May 2004 .
+Urinary arsenic species including inorganic arsenic , monomethylarsonic acid ( MMA(V) ) and dimethylarsinic acid ( DMA(V) ) were determined by employing a high performance liquid chromatography-linked hydride generator and atomic absorption spectrometry procedure .
+After adjustment for suspected risk factors of UC , the higher indicators of urinary total arsenic levels , percentage of inorganic arsenic , percentage of MMA(V) , and primary methylation index were associated with increased risk of UC .
+On the other hand , the higher plasma folate levels , urinary percentage of DMA(V) and secondary methylation index were associated with decreased risk of UC .
+A dose-response relationship was shown between plasma folate levels or methylation indices of arsenic species and UC risk in the respective quartile strata .
+The plasma folate was found to interact with urinary arsenic profiles in affecting the UC risk .
+The results of this study may identify the susceptible subpopulations and provide insight into the carcinogenic mechanisms of arsenic even at low arsenic exposure .

@@ -1,0 +1,10 @@
+BACKGROUND Increased risk of various congenital anomalies has been reported to be associated with trihalomethane ( THM ) exposure in the water supply .
+OBJECTIVES We conducted a registry-based study to determine the relationship between THM concentrations and the risk of congenital anomalies in England and Wales .
+METHODS We obtained congenital anomaly data from the National Congenital Anomalies System , regional registries , and the national terminations registry ; THM data were obtained from water companies .
+Total THM ( < 30 , 30 to < 60 , > or =60 microg/L ) , total brominated exposure ( < 10 , 10 to < 20 , > or =20 microg/L ) , and bromoform exposure ( < 2 , 2 to < 4 , > or =4 microg/L ) were modeled at the place of residence for the first trimester of pregnancy .
+We included 2,605,226 live births , stillbirths , and terminations with 22,828 cases of congenital anomalies .
+Analyses using fixed- and random-effects models were performed for broadly defined groups of anomalies ( cleft palate/lip , abdominal wall , major cardiac , neural tube , urinary and respiratory defects ) , a more restricted set of anomalies with better ascertainment , and for isolated and multiple anomalies .
+Data were adjusted for sex , maternal age , and socioeconomic status .
+RESULTS We found no statistically significant trends across exposure categories for either the broadly defined or more restricted sets of anomalies .
+For the restricted set of anomalies with isolated defects , there were significant ( p < 0.05 ) excess risks in the high-exposure categories of total THMs for ventricular septal defects [ odds ratio ( OR ) = 1.43 ; 95% confidence interval ( CI ) , 1.00-2.04 ] and of bromoform for major cardiovascular defects and gastroschisis ( OR = 1.18 ; 95% CI , 1.00-1.39 ; and OR = 1.38 ; 95% CI , 1.00-1.92 , respectively ) .
+CONCLUSION In this large national study we found little evidence for a relationship between THM concentrations in drinking water and risk of congenital anomalies .

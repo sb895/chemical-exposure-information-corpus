@@ -1,0 +1,12 @@
+Inorganic arsenic is a strong carcinogen , possibly by interaction with the telomere length .
+The aim of the study was to evaluate how chronic arsenic exposure from drinking water as well as the arsenic metabolism efficiency affect the individual telomere length and the expression of telomere-related genes .
+Two hundred two women with a wide range in exposure to arsenic via drinking water ( 3.5-200 \u03bcg/L ) were recruited .
+Concentrations of arsenic metabolites in urine [ inorganic arsenic ( iAs ) , methylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA) ] were measured .
+The relative telomere length in blood was measured by quantitative real-time polymerase chain reaction .
+Genotyping ( N = 172 ) for eight SNPs in AS3MT and gene expression of telomere-related genes ( in blood ; N = 90 ) were performed .
+Urinary arsenic ( sum of metabolites ) was positively associated with telomere length ( \u03b2 = 0.65 × 10(-4) , 95% CI = 0.031 × 10(-4)-1.3 × 10(-4) , adjusted for age and BMI ) .
+Individuals with above median fractions of iAs and MMA showed significantly longer telomeres by increasing urinary arsenic ( \u03b2 = 1.0 × 10(-4) , 95% CI = 0.21 × 10(-4)-1.8 × 10(-4) at high % iAs ; \u03b2 = 0.88 × 10(-4) 95% CI = 0.12 × 10(-4)-1.6 × 10(-4) at high % MMA ) than those below the median ( p = 0.80 and 0.44 , respectively ) .
+Similarly , carriers of the slow and more toxic metabolizing AS3MT haplotype showed stronger positive associations between arsenic exposure and telomere length , as compared to noncarriers ( interaction urinary arsenic and haplotype p = 0.025 ) .
+Urinary arsenic was positively correlated with the expression of telomerase reverse transcriptase ( TERT , Spearman r = 0.22 , p = 0.037 ) , but no association was found between TERT expression and telomere length .
+Arsenic in drinking water influences the telomere length , and this may be a mechanism for its carcinogenicity .
+A faster and less toxic arsenic metabolism diminishes arsenic-related telomere elongation .

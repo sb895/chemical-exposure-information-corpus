@@ -1,0 +1,7 @@
+BACKGROUND In a study of textile workers , the effects of occupational exposure to cotton dust-with possible exposure to aflatoxin-on levels of some liver tumor biomarkers were explored .
+METHODS The study included 58 textile workers and 64 controls .
+Skin prick tests , urinary Aflatoxin M1 ( AFM1 ) and the tumor biomarkers ( alpha-fetoprotein ( AFP ) , alpha-L-fucosidase ( AFU ) , insulin-like growth factors ( IGF-1 ) were measured .
+RESULTS Positive reactants to Aspergillus niger , Aspergillus flavus , and cotton dust were significantly higher in pre-spinning ( 14.3% , 28.6% , and 28.6% , respectively ) and spinning workers ( 25.0% , 33.3% , and 25.0% , respectively ) compared to controls ( 4.7% , 7.8% , and 3.1% , respectively ) .
+Urinary AFM1 was significantly higher in the pre-spinning , spinning , and weaving groups compared to controls ( 554.2 ± 346.2 pg/ml , 459.1 ± 781.6 pg/ml , 296.5 ± 336.5 pg/ml and 68.5 ± 136.8 pg/ml , respectively ) .
+We found a highly significant increase in levels of serum AFU in textile workers , compared to the control group .
+CONCLUSION Exposure to fungi had a significant effect on AFM1 measurements and tumor biomarkers , especially in allergic textile workers ( with the exception of the arginase biomarker ) , though results were generally within normal limits .

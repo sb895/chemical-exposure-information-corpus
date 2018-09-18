@@ -1,0 +1,9 @@
+BACKGROUND Dietary factors such as folate , vitamin B12 , protein , and methionine are important for the excretion of arsenic via one-carbon metabolism in undernourished populations exposed to high levels of arsenic via drinking water .
+However , the effects of dietary factors on toenail arsenic concentrations in well-nourished populations exposed to relatively low levels of water arsenic are unknown .
+METHODS As part of a population-based case-control study of skin and bladder cancer from the USA , we evaluated relationships between consumption of dietary factors and arsenic concentrations in toenail clippings .
+Consumption of each dietary factor was determined from a validated food frequency questionnaire .
+We used general linear models to examine the associations between toenail arsenic and each dietary factor , taking into account potentially confounding effects .
+RESULTS As expected , we found an inverse association between ln-transformed toenail arsenic and consumption of vitamin B12 ( excluding supplements ) and animal protein .
+Unexpectedly , there were also inverse associations with numerous dietary lipids ( e.g. , total fat , total animal fat , total vegetable fat , total monounsaturated fat , total polyunsaturated fat , and total saturated fat ) .
+Finally , increased toenail arsenic concentrations were associated with increased consumption of long chain n-3 fatty acids .
+CONCLUSION In a relatively well-nourished population exposed to relatively low levels of arsenic via water , consumption of certain dietary lipids may decrease toenail arsenic concentration , while long chain n-3 fatty acids may increase toenail arsenic concentration , possibly due to their association with arsenolipids in fish tissue .

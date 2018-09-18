@@ -1,0 +1,10 @@
+In this study , we aimed to investigate the association between in utero toxic ( lead [ Pb ] and arsenic [ As] ) and essential element ( zinc [ Zn] ) levels and neurodevelopmental indicators after birth in Chitwan Valley , Nepal .
+We conducted a hospital-based birth cohort study with 100 pregnant women in Chitwan , Nepal .
+We measured Pb , As , and Zn concentrations in cord blood .
+We assessed 100 infants at 1 day after birth , using the Brazelton neonatal behavioral assessment scale , third edition ( NBAS III ) .
+Multivariate regression was performed to adjust for mother's age , parity , educational level , and body mass index ( BMI ) ; family income ; and newborn's birth weight , gestational age , and age in hours at the time of NBAS III assessment .
+Among the 7 clusters of NBAS III , the motor cluster score was inversely associated with the cord blood levels of Pb ( coefficient=-2.15 , at 95% confidence interval [ CI]=-4.27 to -0.03 ) .
+The cord blood levels of As were inversely associated with the state regulation cluster score ( coefficient=-6.71 , at 95% CI=-12.17 to -1.24 ) .
+The cord blood levels of Zn were not associated with NBAS III scores .
+The cord blood levels of Pb and As , but not Zn , showed significant inverse association with the neurodevelopment of newborns .
+These results suggest that high levels of Pb or As exposure during the prenatal period may induce retardation during in utero neurodevelopment .

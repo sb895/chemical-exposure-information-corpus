@@ -1,0 +1,8 @@
+Dietary intakes of mercury by children and adults in Jinhu area of China were determined using a duplicate diet approach .
+A total of 176 duplicate diet portions were collected from 60 individuals in November and December of 2007 .
+Mercury levels in duplicate samples were measured by atomic fluorescence spectrometry .
+The daily mercury intakes ( median and range ) from consumption days without fish or shellfish for children and adults were 0.13 ( 0.05-0.78 ) \u03bcg(kg(bw))(-1) day(-1) and 0.07 ( 0.04-0.18 ) \u03bcg(kg(bw))(-1) day(-1) , respectively , which were significantly lower than those from consumption days with fish or shellfish for both children and adults whose daily intakes ( median and range ) were 0.16 ( 0.11-0.84 ) \u03bcg(kg(bw))(-1) day(-1) and 0.09 ( 0.05-0.46 ) \u03bcg(kg(bw))(-1) day(-1) , respectively .
+The exposure level of children was significantly higher than that of adults .
+The 50th and 99th percentile of the usual mercury intake from all consumption days for children were 0.14 and 0.22 \u03bcg(kg(bw))(-1) day(-1) and for adults were 0.09 and 0.14 \u03bcg(kg(bw))(-1) day(-1) , where the between-person variance in dietary mercury intake for children and adults were 0.038 and 0.036 , respectively .
+Comparing with the provisional tolerable weekly intake ( PTWI ) divided into daily intake ( PTDI ) of 0.57 \u03bcg(kg(bw))(-1) day(-1) , it is concluded that the average daily intakes and the usual intakes to mercury can be considered safe for both children and adults in Jinhu area by the duplicate diet study .
+But the maximum daily intakes for children exceeding the PTDI deserve a close attention .

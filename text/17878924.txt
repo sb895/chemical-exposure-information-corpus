@@ -1,0 +1,11 @@
+Seafood and especially mollusks are known to be a rich source of cadmium ( Cd ) , but little data are available concerning French seafood contamination and Cd exposure of French populations .
+The objective was then to assess food intake and biological level of Cd in high consumers of seafood , and to determine the impact of the consumption of self-fished mollusks on urinary Cd .
+Seafood consumption levels of 80 products were assessed for 1011 high consumers aged 18 and over in four French coastal areas , thanks to a validated food frequency questionnaire ( FFQ ) .
+According to a total diet study approach , seafood samples were collected taking into account preservation methods and supply habits .
+Food samples were analyzed for Cd .
+Exposure was assessed by crossing consumption data with contamination data .
+Total blood and urine samples were collected from 380 subjects of the cohort and analyzed for Cd .
+The impact of the self-collected mollusks consumption on the Cd biological level adjusted for creatinine was assessed by a multivariate linear regression model .
+The mean dietary intake of Cd is 2.44+/-3.34 microg/kg bw/wk and the mean urinary Cd ( U-Cd ) level is 0.65+/-0.45 microg/g creatinine , and is significantly higher in women than in men ( P<0.05 ) .
+The consumption of self-fished mollusks is significantly negatively associated with U-Cd ( r=-0.11 [ -0.185 , -0.009 ] , P=0.03 ) .
+The results of this study indicate that the biological Cd levels remain below the standards , and also suggest a protective effect of self-fishing , which inspires confidence about the high consumer health safety in terms of Cd exposure .

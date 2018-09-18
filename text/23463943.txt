@@ -1,0 +1,9 @@
+Human exposure to methylmercury ( MeHg ) and elemental mercury vapor ( Hg(0)(g) ) are often estimated using total Hg concentrations in hair and urine , respectively .
+We investigated whether Hg stable isotopes could be used to better distinguish between exposure to Hg(0)(g) versus MeHg .
+We found that hair from North American dental professionals was characterized by high positive \u0394(199)Hg values ( mean = 1.86\u2030 , 1 SD = 0.12\u2030 , n = 11 ) .
+This confirms that among people who regularly consume fish , total Hg concentrations in hair reflect exposure to MeHg .
+In contrast , we found that urine from the same individuals was characterized by a range of \u0394(199)Hg values ( 0.29 to 1.77\u2030 , 2 SD = 0.06\u2030 , n = 12 ) that were significantly correlated to the number of dental amalgams in each individual's mouth .
+We hypothesize that fish-derived MeHg is demethylated within the body , causing mass-dependent fractionation and the excretion of inorganic Hg in urine .
+Mercury in urine therefore represents a mixture of demethylated fish-derived MeHg and amalgam-derived inorganic Hg .
+We estimate that the majority ( >70% ) of Hg in urine from individuals with <10 dental amalgams is derived from ingestion of MeHg in fish .
+These data suggest that within populations that consume fish , urine total Hg concentrations may overestimate Hg exposure from personal dental amalgams .

@@ -1,0 +1,13 @@
+Toluene diisocyanate ( TDI ) is a well-known cause of occupational asthma , but we know little about the potential for exposure and health effects among residents who live near facilities that release TDI .
+In the mid-1990's , the North Carolina Department of Health and Human Services and the Agency for Toxic Substances and Disease Registry investigated exposures to TDI and health outcomes in one community , which left some unanswered questions .
+This cross-sectional study evaluated the potential associations between living near a TDI source and the prevalence of three variables : asthma or asthma-like respiratory symptoms , antibodies specific to TDI , and verifiable levels of TDI in residential air .
+Results among North Carolina residents living near such facilities ( five target communities ) were compared with the results from residents living further away ( five comparison communities ) .
+Overall , the prevalence of reporting either asthma or asthma-like respiratory symptoms was higher ( odds ratio = 1.60 ; 95% confidence interval = 0.97-2.54 ) among residents in target communities than those in comparison communities .
+However , this difference was not statistically significant .
+Symptom prevalence varied greatly among the community populations .
+The prevalence of respiratory symptoms was higher near facilities with historically higher TDI emissions .
+Among the 351 participants who provided blood samples , only one had immunoglobulin G specific antibodies to TDI .
+This participant lived in a target area and may have had non-occupational exposure .
+TDI was detected at an extremely low level ( 1 ppt ) in one of the 45 air samples from target communities .
+One ppt is one-tenth the EPA reference concentration .
+Overall , air sample and antibody test results are not consistent with recent or ongoing exposure to TDI .

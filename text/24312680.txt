@@ -1,0 +1,10 @@
+BACKGROUND The association between ambient air pollution and heart rate variability ( HRV ) has been well-documented .
+Little is known about the association of HRV at night with indoor air pollution and coffee consumption .
+The aim of this study was to investigate the association of HRV indices with indoor air pollution , working time and coffee consumption .
+METHODS We recruited 60 young healthy convenient store workers to monitor indoor PM2.5 ( particulate matter with an aerodynamic diameter \u2264 2.5 µm ) exposures , coffee consumption ( yes vs. no ) and HRV indices during daytime ( 0700-1500 hours ) and nighttime ( 2300-0700 hours ) .
+We used linear mixed effects models to assess the associations of HRV indices with indoor PM2.5 exposures and coffee consumption .
+RESULTS We observed the inverse association between indoor PM2.5 exposures and HRV indices , with a decrease in all HRV indices with increased indoor PM2.5 exposures .
+However , the decrease was most pronounced during nighttime , where a 1 interquartile range ( IQR ) increase in indoor PM2.5 at 4-hr time-weighted moving average was associated with a change of -4.78% 5-min standard deviation ( SD ) of normal-to-normal intervals for 5-min segment ( SDNN ) and -3.23% 5-min square root of the mean squared differences of successive intervals for 5-min segment ( r-MSSD ) .
+Effects of indoor PM2.5 were lowest for participants with coffee consumption during daytime .
+CONCLUSIONS Indoor PM2.5 exposures were associated with decreased 5-min SDNN and 5-min r-MSSD , especially during nighttime .
+The effect of indoor PM2.5 on HRV indices may be modified by coffee consumption in young healthy convenient store workers .

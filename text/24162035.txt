@@ -1,0 +1,12 @@
+BACKGROUND Previous findings suggest that developmental exposures to persistent organochlorine pollutants ( POPs ) may be detrimental for the development of the immune system in the offspring .
+Whether these suspected immunoregulatory effects persist beyond early childhood remains unclear .
+OBJECTIVES The objective of this study was to evaluate the association between maternal serum concentrations of POPs and the risk of asthma in offspring after 20 years of follow-up .
+METHODS A birth cohort with 965 women was formed in 1988-1989 in Aarhus , Denmark .
+Concentrations of six polychlorinated biphenyls ( PCBs ) ( congeners 118 , 138 , 153 , 156 , 170 , 180 ) , hexachlorobenzene ( HCB ) , and dichlorodiphenyldichloroethylene ( p,p´-DDE ) were quantified in maternal serum ( n=872 ) collected in gestation week 30 .
+Information about offspring use of asthma medications was obtained from the Danish Registry of Medicinal Product Statistics .
+RESULTS Maternal serum concentrations of HCB and dioxin-like PCB-118 were positively associated with offspring asthma medication use after 20 years of follow-up ( p for trend<0.05 ) .
+Compared with subjects in the first tertile of maternal concentration , those in the third tertile of PCB-118 had an adjusted hazard ratio ( HR ) of 1.90 ( 95% CI : 1.12 , 3.23 ) .
+For HCB the HR for the third versus the first tertile of maternal concentration was 1.92 ( 95% CI : 1.15 , 3.21 ) .
+Weak positive associations were also estimated for PCB-156 and the non-dioxin-like PCBs ( PCBs 138 , 153 , 170 , 180 ) .
+No associations were found for p,p´-DDE .
+CONCLUSIONS Maternal concentrations of PCB-118 and HCB were associated with increased risk of asthma in offspring followed through 20 years of age .

@@ -1,0 +1,10 @@
+Alterations in cardiac autonomic control , assessed by changes in heart rate variability ( HRV ) , provide one plausible mechanistic explanation for consistent associations between exposure to airborne particulate matter ( PM ) and increased risks of cardiovascular mortality .
+Decreased HRV has been linked with exposures to PM10 ( PM with aerodynamic diameter<or=10 microm ) and with fine particles ( PM with aerodynamic diameter<or=2.5 microm ) originating primarily from combustion sources .
+However , little is known about the relationship between HRV and coarse particles [ PM with aerodynamic diameter 10-2.5 microm ( PM10-2.5) ] , which typically result from entrainment of dust and soil or from mechanical abrasive processes in industry and transportation .
+We measured several HRV variables in 19 nonsmoking older adults with coronary artery disease residing in the Coachella Valley , California , a desert resort and retirement area in which ambient PM10 consists predominantly of PM10-2.5 .
+Study subjects wore Holter monitors for 24 hr once per week for up to 12 weeks during spring 2000 .
+Pollutant concentrations were assessed at nearby fixed-site monitors .
+We used mixed models that controlled for individual-specific effects to examine relationships between air pollutants and several HRV metrics .
+Decrements in several measures of HRV were consistently associated with both PM10 and PM10-2.5 ; however , there was little relationship of HRV variables with PM2.5 concentrations .
+The magnitude of the associations ( approximately 1-4% decrease in HRV per 10-microg/m3 increase in PM10 or PM10-2.5 ) was comparable with those observed in several other studies of PM .
+Elevated levels of ambient PM10-2.5 may adversely affect HRV in older subjects with coronary artery disease .

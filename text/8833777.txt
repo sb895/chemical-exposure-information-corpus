@@ -1,0 +1,14 @@
+This study evaluated the relationship between benzene exposure and low white blood cell ( WBC ) and red blood cell ( RBC ) counts .
+Hematologic screening data collected over a 35 year period at a rubber hydrochloride manufacturing plant were analyzed ; an increased risk of leukemia had been demonstrated previously among workers at the plant [ Infante et al .
+( 1977). '
+Lancet 2:76-78 ; Rinsky et al .
+( 1981 ) : Am J Ind Med 2:217-45 ( 1987 ) : NEJM 316:1044-1050/ .
+Hematologic screening data were available for 657 of 1,037 ( 63.3% ) individuals employed at the plant from 1939 through 1976 .
+There was a total of 21. 710 blood test records ( range per individual 1-354 ) .
+The study utilized a case-control design and estimated benzene exposures using the job exposure matrix developed by Rinsky et al .
+( 1987 ) : NEJM 316:1044-1050 ] .
+The effects of benzene exposure in the 30 , 90 , and 180 days before the blood test date , as well as cumulative exposure up until the blood test date , were examined using conditional logistic regression .
+For WBCs there was a strong exposure response and all of the exposure metrics selected showed a significant relationship with low blood count .
+For RBCs there was a weak positive exposure-response , which was significant ( p = 0.03 ) for one of the dose metrics .
+The finding of an exposure-response relationship in the range of exposures represented in this study , where the maximum daily benzene exposure estimate was 34 ppm , is consistent with findings of several animal studies demonstrating a decrease in peripheral lymphocyte counts at benzene exposures as low as 10 ppm , and a stronger effect of benzene exposure on lymphocytes ( as reflected in total WBC count ) than on red cells .
+There was no evidence for a threshold for the hematologic effects of benzene exposure , suggesting that even exposure to relatively low levels of benzene ( e.g. , <5 ppm ) may result in hematologic suppression .

@@ -1,0 +1,9 @@
+BACKGROUND Previous studies have found particulate matter ( PM ) < 2.5 microm in aerodynamic diameter ( PM2.5 ) associated with heart disease mortality .
+Although rapid effects of PM2.5 exposure on the cardiovascular system have been proposed , few studies have investigated the effect of short-term exposures on out-of-hospital cardiac arrest ( OHCA ) .
+OBJECTIVES We aimed to determine whether short-term PM2.5 exposures increased the risk of OHCA and whether risk depended on subject characteristics or presenting heart rhythm .
+METHODS A case-crossover analysis determined hazard ratios ( HRs ) for OHCAs logged by emergency medical systems ( EMS ) versus hourly and daily PM2.5 exposures at the time of the OHCA and for daily and hourly periods before it .
+RESULTS For all OHCAs ( n = 1,374 ) , exposures on the day of the arrest or 1-3 days before arrest had no significant effect on the incidence of OHCA .
+For cardiac arrests witnessed by bystanders ( n = 511 ) , OHCA risk significantly increased with PM2.5 exposure during the hour of the arrest ( HR for a 10-microg/m3 increase in PM2.5 exposure = 1.12 ; 95% confidence interval , 1.01-1.25 ) .
+For the subsets of subjects who were white , 60-75 years of age , or presented with asystole , OHCA risk significantly increased with PM2.5 during the hour of the arrest ( HRs for a 10-microg/m3 increase in PM2.5 = 1.18 , 1.25 , or 1.22 , respectively ; p < 0.05 ) .
+HR generally decreased as the time lag between PM2.5 exposure and OHCA increased .
+CONCLUSION The results suggest an acute effect of short-term PM2.5 exposure in precipitating OHCAs , and a need to investigate further the role of subject factors in the effects of PM on the risk of OHCA .

@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--urine-- AND exposure routes--oral intake--products--children< <exposure routes--dermal uptake-- AND exposure routes--dermal uptake--children<exposure routes--oral intake--< <  Biomonitoring--exposure biomarker--urine--children<exposure routes--dermal uptake--< <exposure routes--dermal uptake--children

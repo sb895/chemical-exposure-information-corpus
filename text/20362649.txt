@@ -1,0 +1,10 @@
+This study was to investigate the differences in serum proteomic profiling among subjects exposed to different levels of arsenic in drinking water and to identify proteins related to arsenicosis .
+A total of 148 subjects from endemic regions of China were selected and divided into low ( 0-8.30 microg/L ) , medium ( 16.30-37.60 microg/L ) and high ( 140.88-273.67 microg/L ) exposure groups .
+High exposure group consisted of subjects with and without skin lesions .
+Serum proteomic profiling was analyzed by surface-enhanced laser desorption/ionization time-of-flight mass spectrometry ( SELDI-TOF-MS ) technology .
+Twenty proteins were found significantly different among three groups .
+Further multivariate logistic regression revealed that no different proteins existed in medium versus low exposure group .
+A panel of five proteins , including m/z of 15167.7 , 7783.1 , 7580.7 , 2952.6 and 2237.4 , was seen in high versus low exposure group , with a sensitivity of 93.0% and specificity of 87.5% .
+The same panel was found in high versus a combination of low and medium exposure groups but with somewhat lower predicting power .
+Only one protein was significantly different between high exposure group with and without skin lesions .
+The results indicate that high levels of arsenic exposure could significantly change human serum proteomic profiling , which can be detected before skin lesions occur .

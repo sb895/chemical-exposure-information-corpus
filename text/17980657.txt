@@ -1,0 +1,9 @@
+Studies have presented conflicting associations between cat allergen exposure and sensitisation and atopic disease .
+We therefore investigated the association between the observed domestic cat allergen level and cat sensitisation in young children in four study populations from three European countries .
+We recruited children from a nested case-control study , which is composed of four ongoing birth cohorts conducted in three European countries .
+Children at 2-4 years of age in the four cohorts who were sensitised to cat allergens ( n=106 ) were compared with 554 non-sensitised children ( controls ) .
+House dust samples were collected when the children were 5 to 7 years old , and cat allergen levels were measured in ng/g dust and ng/m(2) surface area .
+In the German study population we found a positive association between domestic cat allergen in house dust and cat sensitisation ( OR ( CI)=3.01 ( 1.16 , 7.99) ) while in the Swedish study population , we found a negative association ( OR ( CI)=0.41 ( 0.16 , 0.98) ) .
+No association was found in the Dutch study population ( OR ( CI)=0.83 ( 0.22 , 2.93) ) .
+Looking into the family history of cat keeping , we found the lowest prevalence of cat sensitisation in children who were cat owners at the age of blood sampling ( 11% ) and the highest prevalence was found in those who have had a cat but not anymore , at the age of blood sampling ( 41% ) .
+The mixed results may be explained by differences in age and avoidance patterns .

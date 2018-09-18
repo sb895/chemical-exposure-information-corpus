@@ -1,0 +1,8 @@
+In the present study , pressurised liquid extraction and ultrasound probe sonication , for the latter in combination with a mixed enzymatic treatment in case of rice and straw samples , were applied as sample preparation prior to arsenic speciation analysis by high pressure liquid chromatography coupled to inductively coupled plasma mass spectrometric detection ( HPLC-ICP-MS ) .
+A significant number of samples as different as rice , straw , soil , nail and hair , all coming from the heavily arsenic-contaminated Middle and Lower Ganga plain area , could be investigated with validated methods , supported by high speed extraction methods .
+For rice and paddy samples , inorganic arsenic counted up to 70-98% of the total arsenic content , being the major species As ( III ) .
+The levels of arsenic obtained from straw and soil samples are significantly higher than the background levels , being the major species As ( V ) , thus increasing human exposure to arsenic via the soil-plant-animal-human pathway .
+Concentrations found in hair and nails were significantly higher than their background levels : 39- and 20-fold for hair and nails , respectively .
+These samples contained mainly inorganic arsenic in its tri- and pentavalent forms .
+Results indicate that , under the local frame conditions , arsenic mainly enters into the food chain via its more problematic inorganic forms .
+Arsenic speciation analysis proves to be a powerful tool for a complete analytical assessment in epidemiological studies covering the endemic areas .

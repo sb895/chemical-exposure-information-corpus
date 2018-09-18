@@ -1,0 +1,10 @@
+The physical and chemical environment influences children's exposures to pesticides in and around the home .
+Children's activities , which increase their potential for exposure especially during eating , have been captured in the Children's Dietary Intake Model ( CDIM ) .
+In addition to the chemical exposure associated with the food itself , this model incorporates excess dietary exposures due to handling of food during consumption .
+To stochastically evaluate CDIM , distributions of measured , and in some cases estimated , model factors were determined from measurements of permethrin , chlorpyrifos , and diazinon derived from assembled databases and laboratory experiments .
+Using the distributions of these factors , Monte Carlo simulations were performed to obtain distributions of total dietary intake of pesticides .
+To target the sources of pesticide contamination that were influencing total dietary intake , each factor was evaluated .
+We found pesticide surface concentration to be highly influential .
+By excluding surface concentration , we were also able to determine the influence of the other factors based on the F-statistic .
+Transfer efficiencies , followed by pesticide residue in consumed foods and amount of food consumed , were the next most influential factors within the model .
+With these distributions for model inputs , CDIM has the potential to more accurately predict total dietary intake of a contaminant by a child .

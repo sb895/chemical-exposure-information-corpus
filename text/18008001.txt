@@ -1,0 +1,12 @@
+BACKGROUND Evidence for environmental causes of asthma is limited , especially among African Americans .
+To look for systematic differences in early life domestic exposures between inner-city preschool children with and without asthma , we performed a study of home indoor air pollutants and allergens .
+METHODS Children 2-6 years of age were enrolled in a cohort study in East Baltimore , Maryland .
+From the child's bedroom , air was monitored for 3 days for particulate matter <or= 2.5 and <or= 10 microm in aerodynamic diameter ( PM(2.5) , PM(10) ) , nitrogen dioxide , and ozone .
+Median baseline values were compared for children with ( n = 150 ) and without ( n = 150 ) asthma .
+Housing characteristics related to indoor air pollution were assessed by caregiver report and home inspection .
+In addition , indoor allergen levels were measured in settled dust .
+RESULTS Children were 58% male , 91% African American , and 88% with public health insurance .
+Housing characteristics related to pollutant exposure and bedroom air pollutant concentrations did not differ significantly between asthmatic and control subjects [ median : PM(2.5) , 28.7 vs. 28.5 microg/m(3) ; PM(10) , 43.6 vs. 41.4 microg/m(3) ; NO(2) , 21.6 vs. 20.9 ppb ; O(3) , 1.4 vs. 1.8 ppb ; all p > 0.05 ] .
+Settled dust allergen levels ( cat , dust mite , cockroach , dog , and mouse ) were also similar in bedrooms of asthmatic and control children .
+CONCLUSIONS Exposures to common home indoor pollutants and allergens are similar for inner-city preschool children with and without asthma .
+Although these exposures may exacerbate existing asthma , this study does not support a causative role of these factors for risk of developing childhood asthma .

@@ -1,0 +1,12 @@
+The World Health Organization has estimated that air pollution is responsible for 1.4 % of all deaths and 0.8 % of disability-adjusted life years .
+NOIDA , located at the National Capital Region , India , was declared as one of the critically air-polluted areas by the Central Pollution Control Board of the Government of India .
+Studies on the relationship of reduction in lung functions of residents living in areas with higher concentrations of particulate matter ( PM ) in ambient air were inconclusive since the subjects of most of the studies are hospital admission cases .
+Very few studies , including one from India , have shown the relationship of PM concentration and its effects of lung functions in the same location .
+Hence , a cross-sectional study was undertaken to study the effect of particulate matter concentration in ambient air on the lung functions of residents living in a critically air-polluted area in India .
+PM concentrations in ambient air ( PM(1,) PM(2.5) ) were monitored at residential locations and identified locations with higher ( NOIDA ) and lower concentrations ( Gurgaon ) .
+Lung function tests ( FEV(1) , PEFR ) were conducted using a spirometer in 757 residents .
+Both air monitoring and lung function tests were conducted on the same day .
+Significant negative linear relationship exists between higher concentrations of PM(1) with reduced FEV(1) and increased concentrations of PM(2.5) with reduced PEFR and FEV(1) .
+The study shows that reductions in lung functions ( PEFR and FEV(1) ) can be attributed to higher particulate matter concentrations in ambient air .
+Decline in airflow obstruction in subjects exposed to high PM concentrations can be attributed to the fibrogenic response and associated airway wall remodeling .
+The study suggests the intervention of policy makers and stake holders to take necessary steps to reduce the emissions of PM concentrations , especially PM(1,) PM(2.5) , which can lead to serious respiratory health concerns in residents .

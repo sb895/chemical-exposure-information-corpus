@@ -1,0 +1,6 @@
+The aim of this work was to assess the risk due to mercury ( Hg ) , dichlorodiphenyltrichloroethane ( DDT ) and non-dioxin-like polychlorinated biphenyls ( ndl PCBs ) intake via fish consumption in Serbia .
+We have developed 24 scenarios using four concentration levels ( mean , maximum , 50th and 95th percentile ) of contaminants , determined in 521 samples of fish products available on Serbian market ; two consumption levels ( Food and Agriculture Organization/World Health Organization data and recommendation of American Heart Association ) ; and three body weights ( 5th , 50th and 95th percentile ) .
+All the values concerning the intake of DDT are below the corresponding health based guidance value .
+Calculated weekly intake of Hg using maximal concentration , intake of 340g/week and 5th percentile of body weight exceeded the provisional tolerable weekly intake ( PTWI ) .
+When maximal and 95th percentile concentration of ndl PCBs was used , weekly intakes exceeded a " guidance value " with one exception i.e. , when 95th percentile of concentration along with 95th percentile of body weight were used .
+Concerning Hg and ndl PCBs , when extreme concentrations were used , HIs exceeded the value of 1 , indicating that fish and fishery products may pose a threat to consumer's health .

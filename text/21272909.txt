@@ -1,0 +1,10 @@
+It has been speculated that maternal phthalate exposure may affect reproductive development in human newborns .
+However , the mechanism awaits further investigation .
+The aim is to evaluate the association between maternal phthalate exposure and cord sex steroid hormones in pregnant women and their newborns from the general population .
+A total of 155 maternal and infant pair were recruited and analyzed .
+Levels of urinary phthalate metabolites and sex steroid hormones were determined using liquid chromatography/electrospray tandem mass spectrometry ( LC-ESI-MS/MS ) and radioimmunoassay ( RIA ) , respectively .
+No significant correlation was found between each steroid hormones and phthalate metabolites for male newborns , except MMP was marginally significantly correlated with E(2) .
+After adjusting for maternal age , estradiol ( E(2) ) levels in cord serum from male newborns were not correlated with maternal urinary phthalate metabolites .
+In female newborns , the maternal urinary levels of mono-(2-ethylhexyl) phthalate ( MEHP ) and mono-(2-ethyl-5-hydroxyhexyl) phthalate ( 5OH-MEHP ) were negatively correlated with the free testosterone ( fT ) and fT/E(2) levels in cord serum with Pearson correlation coefficients ranging between -0.24 and -0.29 ( p<0.05 ) .
+Additionally , after gestational age was adjusted , the maternal urinary level of DEHP was negatively correlated with the free testosterone ( fT ) and fT/E(2) levels in cord serum .
+We suggest that maternal exposure to phthalates may affect sex steroid hormones status in fetal and newborn stage .

@@ -1,0 +1,12 @@
+OBJECTIVES To investigate the effect of phenolic environmental estrogens on uterine leiomyoma from the perspective of clinical epidemiology .
+METHODS Urine and blood samples were collected from Han women with uterine leiomyoma and women without uterine leiomyoma , living in Nanjing , China , between September 2011 and February 2013 .
+A total of 156 urine samples and 214 blood samples were collected from the uterine leiomyoma group and 106 urine samples and 126 blood plasma samples from the control group .
+Bisphenol A ( BPA ) , nonylphenol ( NP ) and octylphenol ( OP ) concentrations were determined by solid-phase extraction ( SPE ) coupled with liquid chromatography-tandem mass spectrometry ( HPLC-MS/MS ) .
+RESULTS Phenolic environmental estrogens in the uterine leiomyoma and control groups were compared based on : gravida>3 and gravida \u2264 3 .
+In participants with gravida>3 , urine OP concentration was significantly ( P<0.05 ) higher in the uterine leiomyoma group than in the control group .
+In participants with gravida \u2264 3 , urine NP concentration was significantly ( P<0.05 ) higher in the uterine leiomyoma group compared to controls .
+Despite obstetric history , urine BPA mean exposure concentration was significantly ( P<0.05 ) different between uterine leiomyoma group and control group .
+The urine BPA concentration was not significantly ( P>0.05 ) different between gravida>3 and gravida \u2264 3 patients .
+There was no significant ( P>0.05 ) difference in plasma concentrations of BPA , OP and NP between the leiomyoma group and control group .
+Mean exposure concentration and range of distribution of BPA , OP and NP plasma concentration differed between the uterine leiomyoma and control group .
+CONCLUSION Exposure level of phenolic environmental estrogens in human was related with leiomyoma tumorigenesis .

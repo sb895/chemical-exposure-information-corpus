@@ -1,0 +1,11 @@
+Chronic exposure to inorganic arsenic ( iAs ) has been associated with increased risk of various forms of cancer and of noncancerous diseases .
+Metabolic conversions of iAs that yield highly toxic and genotoxic methylarsonite ( MAsIII ) and dimethylarsinite ( DMAsIII ) may play a significant role in determining the extent and character of toxic and cancer-promoting effects of iAs exposure .
+In this study we examined the relationship between urinary profiles of MAsIII and DMAsIII and skin lesion markers of iAs toxicity in individuals exposed to iAs in drinking water .
+The study subjects were recruited among the residents of an endemic region of central Mexico .
+Drinking-water reservoirs in this region are heavily contaminated with iAs .
+Previous studies carried out in the local populations have found an increased incidence of pathologies , primarily skin lesions , that are characteristic of arseniasis .
+The goal of this study was to investigate the urinary profiles for the trivalent and pentavalent As metabolites in both high- and low-iAs-exposed subjects .
+Notably , methylated trivalent arsenicals were detected in 98% of analyzed urine samples .
+On average , the major metabolite , DMAsIII , represented 49% of total urinary As , followed by DMAsV ( 23.7% ) , iAsV ( 8.6% ) , iAsIII ( 8.5% ) , MAsIII ( 7.4% ) , and MAsV ( 2.8% ) .
+More important , the average MAsIII concentration was significantly higher in the urine of exposed individuals with skin lesions compared with those who drank iAs-contaminated water but had no skin lesions .
+These data suggest that urinary levels of MAsIII , the most toxic species among identified metabolites of iAs , may serve as an indicator to identify individuals with increased susceptibility to toxic and cancer-promoting effects of arseniasis .

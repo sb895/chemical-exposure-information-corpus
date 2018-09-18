@@ -1,0 +1,10 @@
+A crucial step in an epidemiological study of the effects of air pollution is to accurately quantify exposure of the population .
+In this paper , we investigate the sensitivity of the health effects estimates associated with short-term exposure to fine particulate matter with respect to three potential metrics for daily exposure : ambient monitor data , estimated values from a deterministic atmospheric chemistry model , and stochastic daily average human exposure simulation output .
+Each of these metrics has strengths and weaknesses when estimating the association between daily changes in ambient exposure to fine particulate matter and daily emergency hospital admissions .
+Monitor data is readily available , but is incomplete over space and time .
+The atmospheric chemistry model output is spatially and temporally complete but may be less accurate than monitor data .
+The stochastic human exposure estimates account for human activity patterns and variability in pollutant concentration across microenvironments , but requires extensive input information and computation time .
+To compare these metrics , we consider a case study of the association between fine particulate matter and emergency hospital admissions for respiratory cases for the Medicare population across three counties in New York .
+Of particular interest is to quantify the impact and/or benefit to using the stochastic human exposure output to measure ambient exposure to fine particulate matter .
+Results indicate that the stochastic human exposure simulation output indicates approximately the same increase in the relative risk associated with emergency admissions as using a chemistry model or monitoring data as exposure metrics .
+However , the stochastic human exposure simulation output and the atmospheric chemistry model both bring additional information , which helps to reduce the uncertainly in our estimated risk .

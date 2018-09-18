@@ -1,0 +1,11 @@
+We determined the internal exposure of 111 German primary school starters by analyzing urinary metabolites of six phthalates : butyl benzyl phthalate ( BBzP ) , di-iso-butyl phthalate ( DiBP ) , di-n-butyl phthalate ( DnBP ) , di ( 2-ethylhexyl ) phthalate ( DEHP ) , di-iso-nonyl phthalate ( DiNP ) and di-iso-decylphthalate ( DiDP ) .
+From the urinary metabolite levels , we calculated daily intakes and related these values to Tolerable Daily Intake ( TDI ) values .
+By introducing the concept of a relative cumulative Tolerable Daily Intake ( TDI(cum) ) value , we tried to account for the cumulative exposure to several of the above-mentioned phthalates .
+The TDI(cum) was derived as follows : the daily intake ( DI ) calculated from the metabolite level was divided by the TDI for each phthalate ; this ratio was multiplied by 100% indicating the TDI percentage for which the DI accounted .
+Finally the % TDIs of the different phthalates were totalled to get the TDI(cum) .
+A TDI(cum) above 100% is a potential cause for concern .
+We confirmed the ubiquitous exposure of the children to all phthalates investigated .
+Exposures were within range of levels previously reported for GerES , albeit slightly lower .
+Regarding daily intakes , two children exceeded the TDI for DnBP , whereas one child closely approached the TDI for DEHP. 24% of the children exceeded the TDI(cum) for the three most critical phthalates : DEHP , DnBP and DiBP .
+Furthermore , 54% of the children had total exposures that used up more than 50% the TDI(cum) .
+Therefore , the overall exposure to a number of phthalates , and the knowledge that these phthalates ( and other anti-androgens ) act in a dose-additive manner , urgently warrants a cumulative risk assessment approach .

@@ -1,0 +1,10 @@
+BACKGROUND Traffic is a source of environmental exposures , including benzene , which may be related to childhood leukemia .
+OBJECTIVES A national registry-based case-control study [ ESCALE ( Etude Sur les Cancers et les Leucémies de l'Enfant , Study on Environmental and Genetic Risk Factors of Childhood Cancers and Leukemia) ] carried out in France was used to assess the effect of exposure to road traffic exhaust fumes on the risk of childhood leukemia .
+METHODS Over the study period , 2003-2004 , 763 cases and 1,681 controls < 15 years old were included , and the controls were frequency matched with the cases on age and sex .
+The ESCALE data were collected by a standardized telephone interview of the mothers .
+Various indicators of exposure to traffic and pollution were determined using the geocoded addresses at the time of diagnosis for the cases and of interview for the controls .
+Indicators of the distance from , and density of , main roads and traffic nitrogen dioxide ( NO(2) ) concentrations derived from traffic emission data were used .
+Odds ratios ( ORs ) were estimated using unconditional regression models adjusted for potential confounders .
+RESULTS Acute leukemia ( AL ) was significantly associated with estimates of traffic NO(2) concentration at the place of residence > 27.7 µg/m(3) compared with NO(2) concentration < 21.9 µg/m(3) [ OR=1.2 ; confidence interval ( CI ) , 1.0-1.5 ] and with the presence of a heavy-traffic road within 500 m compared with the absence of a heavy-traffic road in the same area ( OR=2.0 ; 95% CI , 1.0-3.6 ) .
+There was a significant association between AL and a high density of heavy-traffic roads within 500 m compared with the reference category with no heavy-traffic road within 500 m ( OR=2.2 ; 95% CI , 1.1-4.2 ) , with a significant positive linear trend of the association of AL with the total length of heavy-traffic road within 500 m .
+CONCLUSION This study supports the hypothesis that living close to heavy-traffic roads may increase the risk of childhood leukemia .

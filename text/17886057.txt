@@ -1,0 +1,11 @@
+Exposure to fine particulate matter ( PM2.5 ) from traffic affects heart-rate variability , thrombosis , and inflammation .
+This reanalysis investigated components potentially contributing to such effects in nonsmoking healthy male North Carolina highway patrol troopers .
+Nine officers were studied four times during their late shift .
+PM2.5 , its elemental composition , and gaseous copollutants were measured inside patrol cars .
+Components correlated to PM2.5 were compared to cardiac and blood parameters measured 10 and 15 h , respectively , after each shift .
+Mixed effects models with control for PM2.5 were used .
+Components that were associated with health endpoints independently from PM2.5 were calcium ( increased uric acid and von Willebrand Factor [ vWF ] , decreased protein C ) , chromium ( increased white blood cell count and interleukin 6 ) , aldehydes ( increased vWF , mean cycle length of normal R-R intervals [ MCL ] , and heart-rate variability parameter pNN50 ) , copper ( increased blood urea nitrogen and MCL ; decreased plasminogen activator inhibitor 1 ) , and sulfur ( increased ventricular ectopic beats ) .
+Control for gaseous copollutants had little effect on the effect estimates .
+The changes observed are consistent with effects reported earlier for PM2.5 from speed-change traffic ( characterized by copper , sulfur , and aldehydes ) and from soil ( with calcium ) .
+The associations of chromium with inflammation markers were not seen before for traffic particles , but they are consistent with the toxicological literature although at low concentrations .
+Copper , sulfur , aldehydes , calcium , and chromium or compounds containing these elements seem to directly contribute to the inflammatory , coagulatory , and cardiac response to PM2.5 from traffic in the investigated patrol troopers .

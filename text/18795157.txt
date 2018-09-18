@@ -1,0 +1,8 @@
+BACKGROUND Bone toxicity has been linked to organochlorine exposure following a few notable poisoning incidents , but epidemiologic studies in populations with environmental organochlorine exposure have yielded inconsistent results .
+OBJECTIVES The aim of this study was to investigate whether organochlorine exposure was associated with bone mineral density ( BMD ) in a population 60-81 years of age ( 154 males , 167 females ) living near the Baltic coast , close to a river contaminated by polychlorinated biphenyls ( PCBs ) .
+METHODS We measured forearm BMD in participants using dual energy X-ray absorptiometry ; and we assessed low BMD using age- and sex-standardized Z-scores .
+We analyzed blood samples for five dioxin-like PCBs , the three most abundant non-dioxin-like PCBs , and p,p'-dichloro-phenyldichloroethylene ( p,p'-DDE ) .
+RESULTS In males , dioxin-like chlorobiphenyl ( CB)-118 was negatively associated with BMD ; the odds ratio for low BMD ( Z-score less than -1 ) was 1.06 ( 95% confidence interval , 1.01-1.12 ) per 10 pg/mL CB-118 .
+The sum of the three most abundant non-dioxin-like PCBs was positively associated with BMD , but not with a decreased risk of low BMD .
+In females , CB-118 was positively associated with BMD , but this congener did not influence the risk of low BMD in women .
+CONCLUSIONS Environmental organochlorine exposures experienced by this population sample since the 1930s in Sweden may have been sufficient to result in sex-specific changes in BMD .

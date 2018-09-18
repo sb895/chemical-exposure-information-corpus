@@ -1,0 +1,14 @@
+Polybrominated diphenyl ethers ( PBDE ) are used as flame retardants in a wide variety of products .
+As part of the Integrated Exposure Assessment Survey ( INES ) , this study aimed to characterize the exposure of an adult German population using duplicate diet samples , which were collected daily over seven consecutive days , and indoor air and house dust measurements .
+Our study population consisted of 27 female and 23 male healthy subjects , aged 14-60 years , all of whom resided in 34 homes in southern Bavaria .
+In these 34 residences the air was sampled using glass fiber filters and polyurethane foams and the dust was collected from used vacuum cleaner bags .
+The median ( 95th percentile ) daily dietary intake of six Tetra- to HeptaBDE congeners was 1.2 ng/kg b.w .
+( 3.3 ng/kg b.w. ) or 67.8 ng/day ( 208 ng/day ) ( calculated from the 7-day median values of each study subject ) .
+Concentrations in indoor air and dust ( cumulative Tri- to DecaBDE congener readings ) ranged from 8.2 to 477 pg/m(3) ( median : 37.8 pg/m(3) ) and 36.6 to 1580 ng/g ( median : 386 ng/g ) , respectively .
+For some congeners , we identified a significant correlation between air and dust levels .
+The median ( 95th percentile ) blood concentration of total Tetra- to HexaBDE congener readings was 5.6 ( 13.2)ng/g lipid .
+No significant sex differences were observed , but higher blood concentrations were found in younger participants .
+Using a simplified toxicokinetic model to predict the body burden from exposure doses led to results that were of the same order of magnitude as the measured blood concentrations .
+Based on these measurements and given our exposure assumptions , we estimated for the total tetra- to heptabrominated congener count an average ( high ) comprehensive total daily intake of 1.2 ng/kg b.w .
+( 2.5 ng/kg b.w. ) .
+Overall , our results suggest that dietary exposure is the dominant intake pathway at least in our study population , responsible for 97% ( average intake ) and 95% ( high intake ) of the total intake of an adult population .

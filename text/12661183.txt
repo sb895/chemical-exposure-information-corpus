@@ -1,0 +1,8 @@
+Perfluorooctanesulfonyl fluoride ( POSF , C8F17SO2F ) is used to create applications for surfactants and paper , packaging , and surface ( e.g. , carpets , textiles ) protectants .
+Such POSF-based products or their residuals may degrade or metabolize to PFOS ( C8F17SO3- ) .
+PFOS concentrates in liver and serum and results in hypolipidemia as an early effect of cumulative dosages .
+Male and female employees of two perfluorooctanyl-manufacturing locations ( Antwerp , Belgium and Decatur , Alabama ) participated in a periodic medical surveillance program that included hematology , clinical chemistry , thyroid hormone , and urinalysis testing .
+Serum concentrations of PFOS and perfluorooctanoate ( PFOA , C7F15CO2- , used as a fluoropolymer emulsifier ) were measured via mass spectrometry methods .
+The mean serum PFOS and PFOA concentrations for 263 Decatur employees were 1.32 parts per million ( ppm ; geometric mean 0.91 , range 0.06-10.06 ppm ) and 1.78 ppm ( geometric mean 1.13 , range 0.04-12.70 ppm ) , respectively .
+Mean concentrations were approximately 50% lower among 255 Antwerp workers .
+Adjusting for potential confounding factors , there were no substantial changes in hematological , lipid , hepatic , thyroid , or urinary parameters consistent with the known toxicological effects of PFOS or PFOA in cross-sectional or longitudinal analyses of the workers ' measured serum fluorochemical concentrations .

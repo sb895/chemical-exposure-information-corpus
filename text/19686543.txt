@@ -1,0 +1,8 @@
+Triclosan is an antibacterial compound commonly used in cosmetics and personal care products for everyday use .
+As previously shown , triclosan is found in the plasma , urine and milk from large parts of different human populations .
+Recent studies have revealed that triclosan is able to activate the human pregnane X receptor in vitro and thus possibly affecting metabolism of drugs in humans via the induction of CYP3A4 .
+Besides , triclosan has been shown to affect thyroid hormonal levels in rats in vivo .
+In the present study , we investigated if an everyday exposure to triclosan via triclosan-containing toothpaste for 14 days in 12 adult humans caused an increase in plasma 4beta-hydroxycholesterol , indicative of CYP3A4 induction , and/or alterations in thyroid hormonal status .
+The plasma triclosan concentrations increased from 0.009-0.81 ng/g to 26-296 ng/g ( ranges ) upon exposure .
+Despite this , there were no significant changes in plasma levels of either plasma 4beta-hydroxycholesterol or thyroid hormones during the exposure .
+This indicates that the normal use of triclosan-containing toothpaste is not likely to alter metabolism of drugs via CYP3A4 induction or cause adverse events because of thyroid disturbances in humans .

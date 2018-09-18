@@ -1,0 +1,9 @@
+BACKGROUND The biological mechanisms involved in inflammatory response to air pollution are not clearly understood .
+OBJECTIVE In this study we assessed the association of short-term air pollutant exposure with inflammatory markers and lung function .
+METHODS We studied a cohort of 158 asthmatic and 50 nonasthmatic school-age children , followed an average of 22 weeks .
+We conducted spirometric tests , measurements of fractional exhaled nitric oxide ( Fe(NO) ) , interleukin-8 ( IL-8 ) in nasal lavage , and pH of exhaled breath condensate every 15 days during follow-up .
+Data were analyzed using linear mixed-effects models .
+RESULTS An increase of 17.5 microg/m(3) in the 8-hr moving average of PM(2.5) levels ( interquartile range ) was associated with a 1.08-ppb increase in Fe(NO) [ 95% confidence interval ( CI ) , 1.01-1.16 ] and a 1.07-pg/mL increase in IL-8 ( 95% CI 0.98-1.19 ) in asthmatic children and a 1.16 pg/ml increase in IL-8 ( 95% CI , 1.00-1.36 ) in nonasthmatic children .
+The 5-day accumulated average of exposure to particulate matter <2.5 microm in aerodynamic diamter ( PM(2.5) ) was significantly inversely associated with forced expiratory volume in 1 sec ( FEV(1) ) ( p=0.048 ) and forced vital capacity ( FVC ) ( p=0.012 ) in asthmatic children and with FVC ( p=0.021 ) in nonasthmatic children .
+Fe(NO) and FEV(1) were inversely associated ( p=0.005 ) in asthmatic children .
+CONCLUSIONS Exposure to PM(2.5) resulted in acute airway inflammation and decrease in lung function in both asthmatic and nonasthmatic children .

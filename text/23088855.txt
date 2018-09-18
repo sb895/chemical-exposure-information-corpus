@@ -1,0 +1,7 @@
+Airborne benzene concentrations were measured in a room with controlled air exchange during surface cleaning with two petroleum-based solvents ( a paint thinner and an engine degreaser ) .
+The solvents were spiked with benzene to obtain target concentrations of 0.001 , 0.01 , and 0.1% by volume in the liquid .
+Personal samples on the worker and area samples up to 1.8m away were collected over 12 events ( n=84 samples ) designed to examine variation in exposure with solvent type , cleaning method ( rag wipe or spatula scrape ) , surface area cleaned , air exchange rate , solvent volume applied , and distance from the cleaned surface .
+Average task breathing zone concentrations of benzene represented by 18-32 min time-weighted averages were 0.01 ppm , 0.05 ppm , and 0.27 ppm , when the solvents contained approximately 0.003 , 0.008 , and 0.07% benzene .
+Solvent benzene concentration , volume applied , and distance from the handling activities had the greatest effect on airborne concentrations .
+The studied solvent products containing 0.07% benzene ( spiked ) did not exceed the current OSHA permissible exposure limit of 1 ppm ( averaged over 8h ) or the ACGIH Threshold Limit Value of 0.5 ppm , in any of the tested short-term exposure scenarios .
+These data suggest that , under these solvent use scenarios , petroleum-based solvent products produced in the United States after 1978 likely did not produce airborne benzene concentrations above those measured if the concentration was less than 0.1% benzene .

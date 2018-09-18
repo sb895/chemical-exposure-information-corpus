@@ -1,0 +1,11 @@
+BACKGROUND There is increasing interest in the potential effects of polybrominated diphenyl ethers ( PBDEs ) on children's neuropsychological development , but only a few small studies have evaluated such effects .
+OBJECTIVES Our goal was to examine the association between PBDE concentrations in colostrum and infant neuropsychological development and to assess the influence of other persistent organic pollutants ( POPs ) on such association .
+METHODS We measured concentrations of PBDEs and other POPs in colostrum samples of 290 women recruited in a Spanish birth cohort .
+We tested children for mental and psychomotor development with the Bayley Scales of Infant Development at 12-18 months of age .
+We analyzed the sum of the seven most common PBDE congeners ( BDEs 47 , 99 , 100 , 153 , 154 , 183 , 209 ) and each congener separately .
+RESULTS Increasing \u03a37PBDEs concentrations showed an association of borderline statistical significance with decreasing mental development scores ( \u03b2 per log ng/g lipid = -2.25 ; 95% CI : -4.75 , 0.26 ) .
+BDE-209 , the congener present in highest concentrations , appeared to be the main congener responsible for this association ( \u03b2 = -2.40 , 95% CI : -4.79 , -0.01 ) .
+There was little evidence for an association with psychomotor development .
+After adjustment for other POPs , the BDE-209 association with mental development score became slightly weaker ( \u03b2 = -2.10 , 95% CI : -4.66 , 0.46 ) .
+CONCLUSIONS Our findings suggest an association between increasing PBDE concentrations in colostrum and a worse infant mental development , particularly for BDE-209 , but require confirmation in larger studies .
+The association , if causal , may be due to unmeasured BDE-209 metabolites , including OH-PBDEs ( hydroxylated PBDEs ) , which are more toxic , more stable , and more likely to cross the placenta and to easily reach the brain than BDE-209 .

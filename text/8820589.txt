@@ -1,0 +1,9 @@
+Average daily dietary exposures to 11 contaminants were estimated for approximately 120,000 U.S. adults by combining data on annual diet , as measured by a food frequency questionnaire , with contaminant residue data for table-ready foods that were collected as part of the annual U.S. Food and Drug Administration Total Diet Study .
+The contaminants included in the analysis were four heavy metals ( arsenic , cadmium , lead , mercury ) , three organophosphate pesticides ( chlorpyrifos , diazinon , malathion ) , and four organochlorine pesticides ( dieldrin , p,p'-DDE , lindane , heptachlor epoxide ) .
+Dietary exposures to these contaminants were highly variable among individuals , spanning two to three orders of magnitude .
+Intraindividual exposures to the metals , organophosphates , and organochlorines were estimated to be strongly correlated ; Pearson's correlation coefficients ranged from 0.28 for lindane:dieldrin to 0.84 for lead:mercury .
+For some of the compounds ( e.g. , arsenic and dieldrin ) , a substantial fraction of the population was estimated to have dietary intakes in excess of health-based standards established by the EPA .
+Before use for risk assessment or epidemiologic purposes , however , the validity of the exposure estimates must be evaluated by comparison with biological indicators of chronic exposure .
+Because of their low detection rate in table-ready foods , the estimated distributions of exposures for dieldrin , p,p'-DDE , heptachlor epoxide , lindane , diazinon , and chlorpyrifos were found to be sensitive to assumed values for nondetect samples .
+Reliable estimates of the population distribution of dietary exposures to most other contaminants cannot be made currently , due to their low rate of detection in table-ready foods .
+Monitoring programs that use more sensitive study designs and population-based assessments for other subpopulations should be a priority for future research .

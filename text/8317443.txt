@@ -1,0 +1,12 @@
+Several recent studies have reported associations between common levels of particulate air pollution and small increases in daily mortality .
+This study examined whether a similar association could be found in the southern United States , with different weather patterns than the previous studies , and examined the sensitivity of the results to different methods of analysis and covariate control .
+Data were available in Birmingham , Alabama , from August 1985 through 1988 .
+Regression analyses controlled for weather , time trends , day of the week , and year of study and removed any long-term patterns ( such as seasonal and monthly fluctuations ) from the data by trigonometric filtering .
+A significant association was found between inhalable particles and daily mortality in Poisson regression analysis ( relative risk = 1.11 , 95% confidence interval 1.02-1.20 ) .
+The relative risk was estimated for a 100-micrograms/m3 increase in inhalable particles .
+Results were unchanged when least squares regression was used , when robust regression was used , and under an alternative filtering scheme .
+Diagnostic plots showed that the filtering successfully removed long wavelength patterns from the data .
+The generalized additive model , which models the expected number of deaths as nonparametric smoothed functions of the covariates , was then used to ensure adequate control for any nonlinearities in the weather dependence .
+Essentially identical results for inhalable particles were seen , with no evidence of a threshold down to the lowest observed exposure levels .
+The association also was unchanged when all days with particulate air pollution levels in excess of the National Ambient Air Quality Standards were deleted .
+The magnitude of the effect is consistent with recent estimates from Philadelphia , Steubenville , Detroit , Minneapolis , St. Louis , and Utah Valley .

@@ -1,0 +1,12 @@
+Methyl tert-butyl ether ( MTBE ) and benzene are added to gasoline to improve the combustion process and are found in the urban environment as a consequence of vehicular traffic .
+Herein we evaluate urinary MTBE ( MTBE-U ) and benzene ( BEN-U ) as biomarkers of exposure to urban traffic .
+Milan urban policemen ( 130 total ) were investigated in May , July , October , and December for a total of 171 work shifts .
+Personal exposure to airborne benzene and carbon monoxide ( CO ) , and atmospheric data , were measured during the work shift , while personal characteristics were collected by a questionnaire .
+A time/activity diary was completed by each subject during the work shift .
+Spot urine samples were obtained for the determination of MTBE-U and BEN-U .
+Median personal exposure to CO and airborne benzene were 3.3 mg/m(3) and 9.6 \u03bcg/m(3) , respectively ; median urinary levels in end-of-shift ( ES ) samples were 147 ng/L ( MTBE-U ) and 207 ng/L ( BEN-U ) .
+The time spent on traffic duty at crossing was about 40% of work time .
+Multiple linear regression models , taking into account within-subject correlations , were applied to investigate the role of urban pollution , atmospheric conditions , job variables and personal characteristics on the level of biomarkers .
+MTBE-U was influenced by the month of sampling and positively correlated to the time spent in traffic guarding , CO exposure and atmospheric pressure , while negatively correlated to wind speed ( R(2) for total model 0.63 , P<0.001 ) .
+BEN-U was influenced by the month and smoking habit , and positively correlated to urinary creatinine ; moreover , an interaction between CO and smoking was found ( R(2)=0.62 , P<0.001 ) .
+These results suggest that MTBE-U is a reliable marker for assessing urban traffic exposure , while BEN-U is determined mainly by personal characteristics .

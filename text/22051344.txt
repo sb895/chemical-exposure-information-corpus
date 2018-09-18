@@ -1,0 +1,7 @@
+Investigators have typically relied on a single or few discrete time points as measures of polychlorinated biphenyl ( PCB ) body burden , however health effects are more likely to be the result of integrative exposure in time , optionally expressed as an area under the time curve ( AUC ) of PCB serum concentration .
+Using data from a subgroup of 93 infants from a birth cohort in eastern Slovakia-a region highly polluted by PCBs-we fit a system type model , customized to our longitudinal measures of serum PCB concentrations in cord , 6 , 16 , and 45 month blood specimens .
+The most abundant congener , PCB 153 , was chosen for modeling purposes .
+In addition to currently used methods of exposure assessment , our approach estimates a concentration time profile for each subject , taking into account mean residence time of PCB 153 molecules in the body , duration of breast feeding , hypothetical PCB 153 concentration in steady-state without breast feeding and alternately without normal food intake .
+Hypothetical PCB 153 concentration in steady-state without normal food intake correlates with AUC ( r=0.84 , p<0.001 ) as well as with duration of breast feeding ( r=0.64 , p<0.001 ) .
+It makes possible to determine each subject's exposure profile expressed as AUC of PCBs serum concentration with a minimum model parameters .
+PCB body burden in most infants was strongly associated with duration of breast feeding in most , but not all children , was apparent from model output .

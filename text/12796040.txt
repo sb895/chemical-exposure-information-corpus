@@ -1,0 +1,7 @@
+While time-series studies have consistently provided evidence for an effect of particulate air pollution on mortality , uncertainty remains as to the extent of the life-shortening implied by those associations .
+In this paper , the authors estimate the association between air pollution and mortality using different timescales of variation in the air pollution time series to gain further insight into this question .
+The authors ' method is based on a Fourier decomposition of air pollution time series into a set of independent exposure variables , each representing a different timescale .
+The authors then use this set of variables as predictors in a Poisson regression model to estimate a separate relative rate of mortality for each exposure timescale .
+The method is applied to a database containing information on daily mortality , particulate air pollution , and weather in four US cities ( Pittsburgh , Pennsylvania ; Minneapolis , Minnesota ; Seattle , Washington ; and Chicago , Illinois ) from the period 1987-1994 .
+The authors found larger relative rates of mortality associated with particulate air pollution at longer timescale variations ( 14 days-2 months ) than at shorter timescales ( 1-4 days ) .
+These analyses provide additional evidence that associations between particle indexes and mortality do not imply only an advance in the timing of death by a few days for frail individuals .

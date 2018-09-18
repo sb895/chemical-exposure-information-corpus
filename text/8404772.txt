@@ -1,0 +1,9 @@
+During winter months many neighborhoods in the Seattle metropolitan area are heavily affected by particulate matter from residential wood burning .
+A study was conducted to investigate the relationship between fine particulate matter and pulmonary function in young children .
+The subjects were 326 elementary school children , including 24 asthmatics , who lived in an area with high particulate concentrations predominantly from residential wood burning .
+FEV1 and FVC were measured before , during and after the 1988-1989 and 1989-1990 winter heating seasons .
+Fine particulate matter was assessed using a light-scattering instrument .
+Analysis of the relationship between light scattering and lung function indicated that an increase in particulate air pollution was associated with a decline in asthmatic children's pulmonary function .
+FEV1 and FVC in the asthmatic children dropped an average of 34 and 37 ml respectively for each 10(-4) m-1 increase in sigma sp .
+This sigma sp increase corresponds to an increase in PM2.5 of 20 micrograms/m3 .
+It is concluded that fine particulate matter from wood burning is significantly associated with acute respiratory irritation in young asthmatic children .

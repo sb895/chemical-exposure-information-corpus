@@ -1,0 +1,12 @@
+BACKGROUND Phthalates are multifunctional chemicals used in a variety of consumer , medical , and personal care products .
+Previously , we reported dose-response associations of decreased semen quality with urinary concentrations of monobutyl phthalate ( MBP ) and monobenzyl ( MBzP ) phthalate , which are metabolites of dibutyl phthalate and butylbenzyl phthalate , respectively .
+The present study extends our work in a larger sample of men and includes measurements of di(2-ethylhexyl) phthalate ( DEHP ) oxidative metabolites .
+METHODS Between January 2000 and May 2004 , we recruited 463 male partners of subfertile couples who presented for semen analysis to the Massachusetts General Hospital .
+Semen parameters were dichotomized based on World Health Organization reference values for sperm concentration ( <20 million/mL ) and motility ( <50% motile ) and the Tygerberg Kruger Strict criteria for morphology ( <4% normal ) .
+The comparison group was men with all 3 semen parameters above the reference values .
+In a single spot urine sample from each man , phthalate metabolites were measured using solid-phase extraction coupled to high-performance liquid chromatography isotope-dilution tandem mass spectrometry .
+RESULTS There were dose-response relationships of MBP with low sperm concentration ( odds ratio per quartile adjusted for age , abstinence time , and smoking status = 1.00 , 3.1 , 2.5 , 3.3 ; P for trend = 0.04 ) and motility ( 1.0 , 1.5 , 1.5 , 1.8 ; P for trend = 0.04 ) .
+There was suggestive evidence of an association between the highest MBzP quartile and low sperm concentration ( 1.00 , 1.1 , 1.1 , 1.9 ; P for trend = 0.13 ) .
+There were no relationships of monoethyl phthalate , monomethyl phthalate , and the DEHP metabolites with these semen parameters .
+CONCLUSION The present study confirms previous results on the relationship of altered semen quality with exposure to MBP at general population levels .
+We did not find associations between semen parameters and 3 DEHP metabolites .

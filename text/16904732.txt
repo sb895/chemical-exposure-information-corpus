@@ -1,0 +1,10 @@
+Since the appearance of DDT , increasingly potent insecticides have been developed to overcome the resistance developed by insects to successive products .
+Pesticides are also used in public health programs to control disease vectors .
+Despite legislation to control the use of certain products , they repeatedly appear in the adipose tissue , milk and serum of human populations .
+The present study determined the presence of organochlorine molecules in the adipose tissue , serum , and umblical cord of women giving birth by cesarean section in order to establish a possible correlation in organochlorine molecule content between these biological compartments and to examine fetal exposure to molecules with hormonal effects .
+Presence of nine organochlorines was detected by GC/ECD and confirmed by GC/MS .
+Highly significant differences ( p<0.000 ) were observed between adipose tissue and maternal serum in concentrations of lindane , HCB , DDE , DDD , and endosulfan but not ( p>0.5 ) in concentrations of endosulfan II or endosulfan sulfate .
+Only DDE concentrations differed ( p<0.001 ) between maternal serum and umbilical cord serum .
+An association between pp'DDE and op'DDT was observed in maternal serum ( p<0.094 ) .
+An association in pp'DDE and pp'DDD content was found between adipose tissue and umbilical cord serum , and in pp'DDT content between adipose tissue and maternal serum .
+Results obtained indicate that exposure can be measured solely in serum when relatively high concentrations of pesticides are present .

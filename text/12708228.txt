@@ -1,0 +1,14 @@
+We analyzed 85 urine samples of the general German population for human specific metabolites of phthalates .
+By that we avoided contamination with the parent phthalates being omnipresent in the environment and for the first time could deduce each individual's internal exposure to phthalates without contamination .
+Determined were the secondary metabolites mono(2-ethyl-5-hydroxyhexyl)phthalate ( 5OH-MEHP ) and mono(2-ethyl-5-oxo-hexyl)phthalate ( 5oxo-MEHP ) of di(2-ethylhexyl)phthalate ( DEHP ) and the primary monoester metabolites of DEHP , di-noctylphthalate ( DnOP ) , di-n-butylphthalate ( DnBP ) , butylbenzylphthalate ( BBzP ) and diethylphthalate ( DEP ) .
+Based on these internal exposure values we calculated the daily intake of the parent phthalates using urinary metabolite excretion factors .
+For DEHP we determined a median intake of 13.8 micrograms/kg body weight/day and an intake at the 95th percentile of 52.1 micrograms/kg body weight/day .
+The tolerable daily intake ( TDI ) value settled by the EU Scientific Committee for Toxicity , Ecotoxicity and the Environment ( CSTEE ) is 37 micrograms/kg body weight/day .
+Twelve percent of the subjects ( 10 out of 85 samples ) within our collective of the general population are exceeding this value .
+Thirty-one percent of the subjects ( 26 out of 85 samples ) had values higher than the reference dose ( RfD ) of 20 micrograms/kg body weight/day of the U.S. Environmental Protection Agency ( EPA ) .
+For DnBP , BBzP , DEP and DnOP intake values at the 95th percentile were 16.2 , 2.5 , 22.1 and 0.42 micrograms/kg body weight/day respectively .
+Our results unequivocally prove that the general German population is exposed to DEHP to a much higher extent than previously believed .
+This is of greatest importance for public health since DEHP is not only the most important phthalate with respect to its production , use , occurrence and omnipresence but also the phthalate with the greatest endocrine disrupting potency .
+DEHP is strongly suspected to be a developmental and reproductive toxicant .
+We are not aware of any other environmental contaminant for which the TDI and RfD are exceeded to such an extent within the general population .
+The transgressions of the TDI and RfD for DEHP are accompanied by considerable ubiquitous exposures to DnBP and BbzP , two phthalates under scrutiny for similar toxicological mechanisms .

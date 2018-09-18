@@ -1,0 +1,13 @@
+Ototoxicity of styrene and the synergistic action of styrene and noise have been shown in rats .
+The respective data in humans are scarce and equivocal .
+This study evaluated the effects of occupational exposure to styrene and combined exposures to styrene and noise on hearing .
+The study group , comprised of 290-yacht yard and plastic factory workers , was exposed to a mixture of organic solvents , having styrene as its main compound .
+The reference group , totaling 223 subjects , included ( 1 ) white-collar workers , exposed neither to solvents nor noise and ( 2 ) metal factory workers , exposed exclusively to noise .
+All subjects were assessed by means of a detailed questionnaire and underwent otorhinolaryngological and audiometric examinations .
+Multiple logistic regression analysis revealed almost a 4-fold ( or 3.9 ; 95% CI = 2.4-6.2 ) increase in the odds of developing hearing loss related to styrene exposure .
+The factors adjusted for were : age , gender , current occupational exposure to noise , and exposure to noise in the past .
+In cases of the combined exposures to styrene and noise , the odds ratios were two to three times higher than the respective values for styrene-only and noise-only exposed subjects .
+The mean hearing thresholds--adjusted for age , gender , and exposure to noise--were significantly higher in the solvent-exposed group than in the unexposed reference group at all frequencies tested .
+A positive linear relationship existed between an averaged working life exposure to styrene concentration and a hearing threshold at the frequencies of 6 and 8 kHz .
+This study provides the epidemiological evidence that occupational exposure to styrene is related to an increased risk of hearing loss .
+Combined exposures to noise and styrene seem to be more ototoxic than exposure to noise alone .

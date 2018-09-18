@@ -1,0 +1,9 @@
+In eight greenhouses used for carnation culture , workers engaged in harvesting ( n = 16 ) , were monitored for dermal and respiratory exposure and urinary excretion of propoxur .
+Dermal exposure of hands and forearms was estimated from dislodgable foliar residue , using a transfer factor ( a measure of transfer of pesticides from leaves to the skin ) and the total number of working hours .
+Total estimated dermal and respiratory exposure during harvesting ranged from 0.2 to 46 mg and from 3 to 278 micrograms , respectively .
+To study the relationship between external and internal exposure to propoxur , respiratory and dermal exposure levels were compared with the total amount of 2-isopropoxyphenol ( IPP ) , the major metabolite of propoxur , excreted in urine in 24 hr .
+The Pearson correlation coefficient between dermal exposure and the total amount of excreted IPP was 0.95 .
+A correlation coefficient of 0.84 was found between respiratory exposure and the amount of IPP excreted .
+The latter association was probably caused by the covariation of respiratory and dermal exposure levels ( r = 0.85 ) .
+Assuming negligible oral absorption , calculations indicated that dermal exposure could account for > 80% of the amount of excreted IPP .
+On the basis of the amount of IPP excreted , there was no reason to suspect increased health risks for workers from exposure to propoxur during harvesting .

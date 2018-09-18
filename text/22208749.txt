@@ -1,0 +1,11 @@
+The objective of this exposure assessment was to reconstruct cumulative historical exposures for workers who have been exposed to multiple chemicals and chemical groups to better understand a cluster of brain cancers within a research and development lab .
+Chemicals of interest , including acrylates , bis-chloromethyl ether ( BCME ) , chloromethyl methyl ether ( CMME ) , isothiazolones and nitrosoamines , were selected on the basis of the plausibility of penetrating the blood-brain barrier and the uniqueness of the chemical's biological activity .
+In a complicated exposure setting such as a chemical R&D facility , multiple exposure estimation methods were needed .
+First , similarly exposure groups ( SEGs ) were created for these materials based on department group , time period of the department's existence and function associated with job titles .
+A probabilistic framework for assessing exposures was developed using Bayesian analysis of historical monitoring data , mathematical exposure modeling and professional judgments of current and former industrial hygienists at the facility were used to reconstruct the exposure history for acrylates , BCME and CMME for each SEG over the time period of interest .
+Since sufficient measurement data for isothiazolones and nitrosoamines were not available , the exposure histories for each SEG for these chemicals were estimated .
+This was done using objective formaldehyde levels and subjective employee interviews .
+The interviews assessed workplace determinants of exposure as distinct surrogates for estimating inhalation and dermal exposures .
+The exposure assessments by these methods were compared against each other to estimate the potential for exposure misclassification .
+A job exposure matrix ( JEM ) was constructed that contained the exposures obtained from above multiple approaches for each of these chemical groups for each SEG for each year of interest .
+The combination of methods used in this work is a unique and potentially helpful framework that can be used in analogous workplace settings involving multiple exposures with incomplete objective measurement information .

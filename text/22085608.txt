@@ -1,0 +1,9 @@
+Benzene is an important industrial chemical and an environmental contaminant , but the pathogenesis of hematotoxicity induced by chronic occupational benzene exposure ( HCOBE ) remains to be elucidated .
+To gain an insight into the molecular mechanisms and developmental biomarkers for HCOBE , isobaric tags for relative and absolute quantitation ( iTRAQ ) combined with two-dimensional liquid chromatography-tandem mass spectrometry ( 2D-LC-MS/MS ) were utilized .
+Identification and quantitation of differentially expressed proteins between HCOBE cases and healthy control were thus made .
+Expressions of selected proteins were confirmed by western blot and further validated by ELISA .
+A total of 159 unique proteins were identified ( \u226595% confidence ) , and relative expression data were obtained for 141 of these in 3 iTRAQ experiments , with fifty proteins found to be in common among 3 iTRAQ experiments .
+Plasminogen ( PLG ) was found to be significantly up-regulated , whereas platelet basic protein ( PBP ) and apolipoprotein B100 ( APOB100 ) were significantly down-regulated in the serum of HCOBE cases .
+Additionally , the altered proteins were associated with the molecular functions of binding , catalytic activity , enzyme regulator activity and transporter activity , and involved in biological processes of apoptosis , developmental and immune system process , as well as response to stimulus .
+Furthermore , differential expressions of PLG , PBP and APOB100 were confirmed by western blot , and the clinical relevance of PBP and APOB100 with HCOBE was validated by ELISA .
+Overall , our results showed that lowered expression of PBP and APOB100 proteins served as potential biomarkers of HCOBE , and may play roles in the benzene-induced immunosuppressive effects and disorders in lipid metabolism .

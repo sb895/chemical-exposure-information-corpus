@@ -1,0 +1,10 @@
+The research presented in this article assessed geochemical factors relating to dust produced during primary lead smelting .
+Bulk dust samples and size-selective airborne dust samples were collected from four areas of a primary lead smelter and analyzed by X-ray diffraction and sequential chemical extraction .
+X-ray diffraction showed that the smelter dusts were composed primarily of sulfides , oxides , sulfates , and silicates of metal ores , with galena being the primary dust component .
+Sequential extraction revealed the solubility of lead compounds at less than 7% in the exchangeable and mildly acidic steps for the bulk dusts collected from four smelter areas .
+The later steps of the extraction procedure were more effective in dissolving the lead compounds associated with the bulk dust samples , with 43% , 26% , and 8% of the total lead , in the ore storage , sinter , and blast/dross smelter areas , respectively , being extracted in the residual step .
+Sequential extraction of coarse airborne dust samples from the ore storage and sinter plant showed that 1.2% and 4.1% of the total lead , respectively , was exchangeable .
+The finer particle size fractions from these areas of the smelter showed higher percentages of exchangeable lead .
+Of the course airborne dust from the blast/dross furnace processes , 65% of the total lead was exchangeable .
+However , the largest percentage of lead from these areas was associated with the finer particle-size fractions .
+If lead bioavailability is related to its solubility as determined through sequential extraction , the health hazards associated with lead exposure may be appreciably enhanced in the blast and dross furnace processes .

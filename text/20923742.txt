@@ -1,0 +1,11 @@
+BACKGROUND Previous studies have reported positive associations between maternal exposure to air pollutants and several adverse birth outcomes .
+However , there have been no studies assessing the association between environmental levels of hazardous air pollutants , such as benzene , and neural tube defects ( NTDs ) , a common and serious group of congenital malformations .
+OBJECTIVE Our goal was to conduct a case-control study assessing the association between ambient air levels of benzene , toluene , ethylbenzene , and xylene ( BTEX ) and the prevalence of NTDs among offspring .
+METHODS The Texas Birth Defects Registry provided data on NTD cases ( spina bifida and anencephaly ) delivered between 1999 and 2004 .
+The control group was a random sample of unaffected live births , frequency matched to cases on year of birth .
+Census tract-level estimates of annual BTEX levels were obtained from the U.S. Environmental Protection Agency 1999 Assessment System for Population Exposure Nationwide .
+Restricted cubic splines were used in mixed-effects logistic regression models to determine associations between each pollutant and NTD phenotype .
+RESULTS Mothers living in census tracts with the highest benzene levels were more likely to have offspring with spina bifida than were women living in census tracts with the lowest levels ( odds ratio = 2.30 ; 95% confidence interval , 1.22-4.33 ) .
+No significant associations were observed between anencephaly and benzene or between any of the NTD phenotypes and toluene , ethylbenzene , or xylene .
+CONCLUSION In the first study to assess the relationship between environmental levels of BTEX and NTDs , we found an association between benzene and spina bifida .
+Our results contribute to the growing body of evidence regarding air pollutant exposure and adverse birth outcomes .

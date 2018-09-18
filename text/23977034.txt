@@ -1,0 +1,12 @@
+BACKGROUND Insulin resistance ( IR ) is believed to be the underlying mechanism of metabolic syndrome and type 2 diabetes mellitus ( DM ) .
+Recently , a few studies have demonstrated that phthalates could cause oxidative stress which would contribute to the development of IR .
+Therefore , we evaluated whether exposure to phthalates affects IR , and oxidative stress is involved in the phthalates-IR pathway .
+METHODS We recruited 560 elderly participants , and obtained blood and urine samples during repeated medical examinations .
+For the determination of phthalate exposure , we measured urinary levels of mono-(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) and mono-(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) as metabolites of diethylhexyl phthalates ( DEHP ) , and mono-n-butyl phthalate ( MnBP ) as a metabolite of di-butyl phthalate ( DBP ) .
+Malondialdehyde ( MDA ) , an oxidative stress biomarker , was also measured in urine samples .
+We measured serum levels of fasting glucose and insulin , and derived the homeostatic model assessment ( HOMA ) index to assess IR .
+A mixed-effect model and penalized regression spline were used to estimate the associations among phthalate metabolites , MDA , and IR .
+RESULTS The molar sum of MEHHP and MEOHP ( \u2211DEHP ) were significantly associated with HOMA ( \u03b2\u200a=\u200a0.26 , P\u200a=\u200a0.040 ) , and the association was apparent among participants with a history of DM ( \u03b2\u200a=\u200a0.88 , P\u200a=\u200a0.037 ) and among females ( \u03b2\u200a=\u200a0.30 , P\u200a=\u200a0.022 ) .
+However , the relation between MnBP and HOMA was not found .
+When we evaluated whether oxidative stress is involved in increases of HOMA by \u2211DEHP , MDA levels were significantly associated with increases of \u2211DEHP ( \u03b2\u200a=\u200a0.11 , P<0.001 ) and HOMA ( \u03b2\u200a=\u200a0.49 , P\u200a=\u200a0.049 ) .
+CONCLUSIONS Our study results suggest that exposure to DEHP in the elderly population increases IR , which is related with oxidative stress , and that participants with a history of DM and females are more susceptible to DEHP exposure .

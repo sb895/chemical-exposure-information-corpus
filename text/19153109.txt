@@ -1,0 +1,11 @@
+OBJECTIVES Sino-nasal cancer has been consistently associated with exposure to wood dust , leather dust , nickel and chromium compounds ; for other occupational hazards , the findings are somewhat mixed .
+The aim of this study was to investigate the risk of sino-nasal epithelial cancer ( SNEC ) by histological type with prior exposure to suspected occupational risk factors and , in particular , those in metalworking .
+METHODS Between 1996 and 2000 , incident cases were collected on a monthly basis from hospitals throughout the Piedmont region of Italy by the regional Sino-nasal Cancer Registry .
+A questionnaire on occupational history , completed by 113 cases and 336 hospital controls , was used to assign exposure to occupational hazards .
+The relationship between SNEC and cumulative exposure to these hazards was explored using unconditional logistic regression to statistically adjust for age , sex , smoking and co-exposures , allowing for a 10-year latency period .
+RESULTS The risk of adenocarcinoma was significantly increased with ever-exposure to wood dust ( odds ratio ; OR = 58.6 ) , and to leather dust ( OR = 32.8 ) and organic solvents ( OR = 4.3 ) after controlling for wood dust , whereas ever-exposure to welding fumes ( OR = 3.7 ) and arsenic ( OR = 4.4 ) significantly increased the risk for squamous cell carcinoma .
+For each of these hazards , a significant increasing trend in risk across ordered cumulative exposure categories was found and , except for arsenic , a significantly increased risk with ever-exposure at low intensity .
+Treating cumulative exposure on a continuous scale , a significant effect of textile dusts was also observed for adenocarcinoma .
+For a mixed group of other histological types , a significant association was found with wood dust and organic solvents .
+CONCLUSIONS Some occupational risk factors for SNEC were confirmed , and dose-response relationships were observed for other hazards that merit further investigation .
+The high risk for adenocarcinoma with low-intensity exposure to wood dust lends support for a reduction in the occupational threshold value .

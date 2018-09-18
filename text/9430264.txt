@@ -1,0 +1,10 @@
+We conducted a population-based case-control study of bladder cancer in Iowa in 1986-1989 to evaluate the risk posed by tapwater containing chlorination byproducts .
+We combined information about residential history , drinking water source , beverage intake , and other factors with historical data from water utilities and measured contaminant levels to create indices of past exposure to chlorination byproducts .
+The study comprised 1,123 cases and 1,983 controls who had data relating to at least 70% of their lifetime drinking water source .
+After we adjusted for potential confounders , we calculated odds ratios for duration of chlorinated surface water of 1.0 ( referent ) , 1.0 , 1.1 , 1.2 , and 1.5 for 0 , 1-19 , 20-39 , 40-59 , and > or =60 years of use .
+We also found associations with total and average lifetime byproduct intake , as represented by trihalomethane estimates .
+Positive findings were restricted to men and to ever-smokers .
+Among men , odds ratios were 1.0 ( referent ) , 1.1 , 1.3 , 1.5 , and 1.9 , and among ever-smokers , 1.0 , 1.1 , 1.3 , 1.8 , and 2.2 , after adjustment for intensity and timing of smoking .
+Among nonsmoking men and women , regardless of smoking habit , there was no association .
+Among men , smoking and exposure to chlorinated surface water mutually enhanced the risk of bladder cancer .
+The overall association of bladder cancer risk with duration of chlorinated surface water use that we found is consistent with the findings of other investigations , but the differences in risk between men and women , and between smokers and nonsmokers , have not been widely observed .

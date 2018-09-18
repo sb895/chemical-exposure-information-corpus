@@ -1,0 +1,12 @@
+OBJECTIVES Although an asthma-like syndrome has been recognised in aluminium smelter workers for over 70\u2005years , the causal agent has been difficult to identify .
+METHODS An inception cohort study was conducted at two Australian aluminium smelters where 446 employees participated over a period of 9\u2005years .
+Cumulative exposures between interviews were estimated from job histories using a task exposure matrix based on measurements in the smelters .
+Participants completed an MRC respiratory questionnaire , spirometry and methacholine challenge test .
+Data were analysed with generalised estimating equations to allow for repeated measurements of each participant .
+RESULTS Wheeze and chest tightness , the two symptoms most closely related to asthma , showed associations with occupational exposures .
+SO(2) exposure was significantly associated with these symptoms , bronchial hyper-responsiveness ( BHR ) to methacholine ( a feature of asthma ) , airflow limitation ( reduced forced expiratory volume in 1 second/forced vital capacity ratio ) and longitudinal decline in lung function .
+Fluoride exposure was associated with the same outcomes , but less strongly .
+Inhalable dust and the benzene soluble fraction ( BSF ) were associated with symptoms of asthma and BHR .
+Although many of the exposures were highly correlated , further modelling suggested that of the known respiratory irritants , SO(2) was more likely than fluoride to be primarily responsible for the symptoms observed .
+Fluoride , inhalable dust and SO(2) were the most important airborne contaminants associated with effects on lung function .
+CONCLUSIONS The observed effects were detected at contaminant levels within occupational exposure standards , so further reductions are required , particularly in SO(2) exposures .

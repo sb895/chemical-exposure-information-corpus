@@ -1,0 +1,9 @@
+The current study examines whether the occupation of firefighting contributes to exposure to polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) and dioxin-like polychlorinated biphenyls ( PCBs ) .
+We compared serum dioxin concentrations and congener profiles of current firefighters ( n=13 ) with those of men who have ceased employment as firefighters ( n=17 ) and with men employed in occupations other than firefighter ( n=10 ) .
+We found that compared to former or non-firefighters , current firefighters have higher levels of dioxins primarily due to the contribution of PCBs and to a lesser extent PCDFs .
+PCDFs were significantly higher in former firefighters compared to non-firefighters ( p<0.05 ) .
+Comparisons with studies performed by other investigators suggest that local environmental conditions contribute to some of the elevation of PCBs .
+The congeners 1,2,3,4,6,7,8-heptachlorodibenzodioxin and PCB-114 were significantly higher in current firefighters when compared to former or non-firefighters .
+Moreover , levels of these congeners were inversely correlated with years since employed as firefighter ( Spearman r=-0.610 , p=0.009 and Spearman r=-0.53 , p=0.03 , respectively ) .
+The classes of dioxins show an overall decline with years since employed as firefighters , this decline is most evident with PCDDs ( Spearman r=-0.46 , p=0.06 ) .
+Together , the combination of evidence supports firefighting as a source of exposure to dioxins .

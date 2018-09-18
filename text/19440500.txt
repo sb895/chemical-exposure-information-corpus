@@ -1,0 +1,10 @@
+BACKGROUND There is general concern that persistent organic pollutants ( POPs ) found in the environment , wildlife , food , water , house dust , human tissues , and fluids may alter normal human physiologic activities ( e.g. , fetal development , immune and endocrine systems ) .
+Although the levels of some POPs [ polychlorinated biphenyls ( PCBs ) and organochlorine pesticides ( OCs) ] in these matrices have decreased after their ban , others [ polybrominated diphenyl ethers ( PBDEs) ] have increased in recent years .
+OBJECTIVE To determine the longitudinal trend of specific POPs in human fetal tissues for risk assessment purposes .
+METHODS We analyzed early to mid-gestation fetal liver ( n = 52 ) and placental ( n = 60 ) tissues , obtained after elective abortions during 1998-2006 , for selected PBDEs , PCBs , and OCs using gas chromatography-mass spectroscopy .
+RESULTS Total PBDEs in fetal liver increased over time ( mean +/- SE : 1998 , 284.4 +/- 229.8 ng/g lipid ; 2006 , 1,607.7 +/- 605.9 ; p < 0.03 ) , whereas placental levels were generally lower , with no clear trend .
+Low levels of PCBs and OCs varied yearly , with no evident trend .
+The major analytes in 1998 were OCs ( liver , 49% ; placenta , 71% ) , whereas the major analytes in 2006 were PBDEs ( liver , 89% ; placenta , 98% ) .
+The 1998-2006 tissue PBDE congener profile is similar to that of DE-71 , a commercial primarily pentabrominated diphenyl ether mixture manufactured in North America .
+CONCLUSIONS Although commercial production of penta- and octa-brominated diphenyl ethers in North America was halted in 2004 , their concentrations in fetal liver and placenta are now greater than the tissue burdens for the analyzed OCs and PCBs .
+Our findings also demonstrate that PBDEs accumulate within the fetal compartment at a very early stage in gestation .

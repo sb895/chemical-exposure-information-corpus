@@ -1,0 +1,15 @@
+Short-term exposure to ambient air pollution is associated with increased cardiovascular mortality and morbidity .
+This adverse health effect is suggested to be mediated by inflammatory processes .
+The purpose of this study was to determine if low levels of particulate matter , typical for smaller cities , are associated with acute systemic inflammation .
+Fifty-two elderly individuals with ischemic heart disease were followed for six months with biweekly clinical visits in the city of Kotka , Finland .
+Blood samples were collected for the determination of inflammatory markers interleukin ( IL)-1\u03b2 , IL-6 , IL-8 , IL-12 , interferon ( IFN)\u03b3 , C-reactive protein ( CRP ) , fibrinogen , myeloperoxidase and white blood cell count .
+Particle number concentration and fine particle ( particles with aerodynamic diameters <2.5 \u03bcm ( PM(2.5)) ) as well as thoracic particle ( particles with aerodynamic diameters <10 \u03bcm ( PM(10)) ) mass concentration were measured daily at a fixed outdoor measurement site .
+Light-absorbance of PM(2.5) filter samples , an indicator of combustion derived particles , was measured with a smoke-stain reflectometer .
+In addition , personal exposure to PM(2.5) was measured with portable photometers .
+During the study period , wildfires in Eastern Europe led to a 12-day air pollution episode , which was excluded from the main analyses .
+Average ambient PM(2.5) concentration was 8.7 \u03bcg/m(3) .
+Of the studied pollutants , PM(2.5) and absorbance were most strongly associated with increased levels of inflammatory markers ; most notably with C-reactive protein and IL-12 within a few days of exposure .
+There was also some evidence of an effect of particulate air pollution on fibrinogen and myeloperoxidase .
+The concentration of IL-12 was considerably ( 227% ) higher during than before the forest fire episode .
+These findings show that even low levels of particulate air pollution from urban sources are associated with acute systemic inflammation .
+Also particles from wildfires may exhibit pro-inflammatory effects .

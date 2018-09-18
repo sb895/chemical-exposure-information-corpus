@@ -1,0 +1,9 @@
+BACKGROUND Recent studies have identified associations between the concentration of phthalates in indoor dust and allergic symptoms in the airways , nose , and skin .
+OBJECTIVES Our goal was to investigate the associations between allergic symptoms in children and the concentration of phthalate esters in settled dust collected from children's homes in Sofia and Burgas , Bulgaria .
+METHODS Dust samples from the child's bedroom were collected .
+A total of 102 children ( 2-7 years of age ) had symptoms of wheezing , rhinitis , and/or eczema in preceding 12 months ( cases ) , and 82 were nonsymptomatic ( controls ) .
+The dust samples were analyzed for their content of dimethyl phthalate ( DMP ) , diethyl phthalate ( DEP ) , di-n-butyl phthalate ( DnBP ) , butyl benzyl phthalate ( BBzP ) , di(2-ethylhexyl) phthalate ( DEHP ) , and di-n-octyl phthalate ( DnOP ) .
+RESULTS A higher concentration of DEHP was found in homes of case children than in those of controls ( 1.24 vs. 0.86 mg/g dust ) .
+The concentration of DEHP was significantly associated with wheezing in the preceding 12 months ( p = 0.035 ) as reported by parents .
+We found a dose-response relationship between DEHP concentration and case status and between DEHP concentration and wheezing in the preceding 12 months .
+CONCLUSIONS This study shows an association between concentration of DEHP in indoor dust and wheezing among preschool children in Bulgaria .

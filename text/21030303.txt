@@ -1,0 +1,12 @@
+The present study aimed to evaluate the effects of styrene exposure at levels below the recommended standards of the Threshold Limit Value ( TLV-TWA(8) ) of 20 ppm ( ACGIH , 2004 ) in reinforced-fiberglass plastics workers .
+Study subjects comprised 50 exposed workers and 40 control subjects .
+The exposed workers were stratified by styrene exposure levels , i.e. group I ( <10 ppm , <42.20 mg/m(3) ) , group II ( 10-20 ppm , 42.20-84.40 mg/m(3) ) , and group III ( >20 ppm , >84.40 mg/m(3) ) .
+The mean styrene exposure levels of exposed workers were significantly higher than those of the control workers .
+Biomarkers of exposure to styrene , including blood styrene and the urinary metabolites , mandelic acid ( MA ) and phenylglyoxylic acid ( PGA ) , were significantly increased with increasing levels of styrene exposure , but were not detected in the control group .
+DNA damage , such as DNA strand breaks , 8-hydroxydeoxyguanosine ( 8-OHdG ) , and DNA repair capacity , were used as biomarkers of early biological effects .
+DNA strand breaks and 8-OHdG/10(5)dG levels in peripheral leukocytes of exposed groups were significantly higher compared to the control group ( P<0.05 ) .
+In addition , DNA repair capacity , determined by the cytogenetic challenge assay , was lower in all exposed groups when compared to the control group ( P<0.05 ) .
+The expression of CYP2E1 , which is involved in styrene metabolism , in all styrene exposed groups , was higher than that of the control group at a statistically significant level ( P<0.05 ) .
+Levels of expression of the DNA repair genes hOGG1 and XRCC1 were significantly higher in all exposed groups than in the control group ( P<0.05 ) .
+In addition to styrene contamination in ambient air , a trace amount of benzene was also found but , the correlation between benzene exposure and DNA damage or DNA repair capacity was not statistically significant .
+The results obtained from this study indicate an increase in genotoxic effects and thus health risk from occupational styrene exposure , even at levels below the recommended TLV-TWA(8) of 20 ppm .

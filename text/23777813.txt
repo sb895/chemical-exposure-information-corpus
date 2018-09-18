@@ -1,0 +1,11 @@
+BACKGROUND Findings from previous studies on the effects of air pollution exposure on lung function during childhood have been inconsistent .
+A common limitation has been the quality of exposure data used , and few studies have modeled exposure longitudinally throughout early life .
+OBJECTIVES We sought to study the long-term effects of exposure to particulate matter with an aerodynamic diameter \u2264 10 \u03bcm ( PM10 ) and to nitrogen dioxide ( NO2 ) on specific airway resistance ( sR(aw) ) and forced expiratory volume in 1 sec ( FEV1 ) before and after bronchodilator treatment .
+Subjects were from the Manchester Asthma and Allergy Study ( MAAS ) birth cohort ( n = 1,185 ) .
+METHODS Spirometry was performed during clinic visits at ages 3 , 5 , 8 , and 11 years .
+Individual-level PM10 and NO2 exposures were estimated from birth to 11 years of age through a microenvironmental exposure model .
+Longitudinal and cross-sectional associations were estimated using generalized estimating equations and multivariable linear regression models .
+RESULTS Lifetime exposure to PM10 and NO2 was associated with significantly less growth in FEV1 ( percent predicted ) over time , both before ( -1.37% ; 95% CI : -2.52 , -0.23 for a 1-unit increase in PM10 and -0.83% ; 95% CI : -1.39 , -0.28 for a 1-unit increase in NO2 ) and after bronchodilator treatment ( -3.59% ; 95% CI : -5.36 , -1.83 and -1.20% ; 95% CI : -1.97 , -0.43 , respectively ) .
+We found no association between lifetime exposure and sR(aw) over time .
+Cross-sectional analyses of detailed exposure estimates for the summer and winter before 11 years of age and lung function at 11 years indicated no significant associations .
+CONCLUSIONS Long-term PM10 and NO2 exposures were associated with small but statistically significant reductions in lung volume growth in children of elementary-school age .

@@ -1,0 +1,13 @@
+BACKGROUND For people living close to busy roads , traffic is a major source of air pollution .
+Few prospective data have been published on the effects of long-term exposure to traffic on the incidence of coronary heart disease ( CHD ) .
+OBJECTIVES In this article , we examined the association between long-term traffic exposure and incidence of fatal and nonfatal CHD in a population-based prospective cohort study .
+METHODS We studied 13,309 middle-age men and women in the Atherosclerosis Risk in Communities study , without previous CHD at enrollment , from 1987 to 1989 in four U.S. communities .
+Geographic information system-mapped traffic density and distance to major roads served as measures of traffic exposure .
+We examined the association between traffic exposure and incident CHD using proportional hazards regression models , with adjustment for background air pollution and a wide range of individual cardiovascular risk factors .
+RESULTS Over an average of 13 years of follow-up , 976 subjects developed CHD .
+Relative to those in the lowest quartile of traffic density , the adjusted hazard ratio ( HR ) in the highest quartile was 1.32 [ 95% confidence interval ( CI ) , 1.06-1.65 ; p-value for trend across quartiles = 0.042 ] .
+When we treated traffic density as a continuous variable , the adjusted HR per one unit increase of log-transformed density was 1.03 ( 95% CI , 1.01-1.05 ; p = 0.006 ) .
+For residents living within 300 m of major roads compared with those living farther away , the adjusted HR was 1.12 ( 95% CI , 0.95-1.32 ; p = 0.189 ) .
+We found little evidence of effect modification for sex , smoking status , obesity , low-density lipoprotein cholesterol level , hypertension , age , or education .
+CONCLUSION Higher long-term exposure to traffic is associated with incidence of CHD , independent of other risk factors .
+These prospective data support an effect of traffic-related air pollution on the development of CHD in middle-age persons .

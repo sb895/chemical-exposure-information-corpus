@@ -1,0 +1,10 @@
+BACKGROUND Environmental justice research suggests that inequalities in the distribution of environmental exposure to chemical pollution systematically disadvantage the lower social strata of society .
+The effects of these inequalities on the human exposure to pollution are however to a large extend unknown .
+The purpose of this study is to assess social gradients in human biomonitoring results of a representative sample of Flemish adolescents .
+METHODS We investigate the associations between individual socioeconomic status ( SES ) , measured by parental educational attainments , and internal body concentration of seven chemical compounds in biological samples of 1642 adolescents aged 14-15 in Flanders ( Belgium ) : PCBs , HCB , DDE , lead , cadmium , benzene and PAHs .
+Social gradients in average and high exposure to these biomarkers were examined with geometric means and odds ratios ( with 95% confidence intervals ) , using multiple regression models , controlling for covariates and confounders .
+RESULTS Depending on the ( type of ) pollutant , adolescents with a lower SES either have higher or lower internal concentrations .
+Chlorinated compounds ( PCBs and pesticides HCB and DDE ) are positively associated with SES ( higher exposures for higher SES ) , while heavy metals ( lead and cadmium ) are negatively associated ( higher exposures for lower SES ) .
+For metabolites of organic compounds ( benzene and PAHs ) we find no association with SES .
+Socially constructed factors , such as dietary and lifestyle habits , play an important role in these relations .
+CONCLUSIONS Our study suggests that the association between individual SES and the internal body concentration of exposure to environmental pollutants in Flemish adolescents is more complex than can be assumed on the basis of the environmental justice hypothesis .

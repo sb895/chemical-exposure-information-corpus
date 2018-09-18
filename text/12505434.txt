@@ -1,0 +1,7 @@
+This paper investigates the possible link between non-workplace cadmium ( Cd ) exposure , cytochrome P450 expression and hypertension .
+We present results of our investigation into the relationships between liver and kidney Cd burdens and the abundance of the CYP isoform 4A11 .
+Our data show associations between non-workplace Cd exposure and changes in the abundance of hepatic and renal cortical CYP4A11 .
+In liver the levels of immunochemically detectable CYP4A11 were positively correlated with tissue Cd content while in contrast CYP4A11 abundance was inversely correlated with kidney Cd burden .
+These differences are most likely related to the different Cd burden of the tissues .
+These observations suggest the potential for involvement of Cd as a mediator of CYP4A11 expression in kidney cortex and indicate that elevations in kidney Cd content may be involved in hypertension via alteration of the expression of this particular isoform .
+Potential mechanisms by which Cd may alter CYP4A11 expression are discussed briefly .

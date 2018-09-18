@@ -1,0 +1,13 @@
+OBJECTIVE Several studies have suggested that there is an occupational component to the causation of non-Hodgkin lymphoma ( NHL ) .
+We aimed to use accurate means to assess occupational exposures to solvents , metals , organic dusts and polychlorinated biphenyls ( PCBs ) in a case-control study .
+METHODS Cases were incident NHLs during 2000 and 2001 in two regions of Australia .
+Controls were randomly selected from the electoral roll and frequency matched to cases by age , sex and region .
+A detailed occupational history was taken from each subject .
+For jobs with likely exposure to the chemicals of interest , additional questions were asked by telephone interview using modified job specific modules .
+An expert allocated exposures using the information in the job histories and the interviews .
+Odds ratios were calculated for each exposure adjusting for age , sex , region and ethnic origin .
+RESULTS 694 cases and 694 controls ( 70 and 45 respectively of those potentially eligible ) participated .
+The risk of NHL was increased by about 30 for exposure to any solvent with a dose response relationship , subgroup analysis showed the finding was restricted to solvents other than benzene .
+Exposure to wood dust also increased the risk of NHL slightly .
+Exposures to other organic dusts , metals , and PCBs were not strongly related to NHL .
+CONCLUSIONS The risk of NHL appears to be increased by exposure to solvents other than benzene and possibly to wood dust .

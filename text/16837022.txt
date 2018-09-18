@@ -1,0 +1,10 @@
+Benzene , toluene , ethylbenzene and xylenes ( BTEX ) are common volatile organic compounds ( VOCs ) found in urban airsheds .
+Elevated levels of VOCs have been reported in many airsheds at many locations , particularly those associated with industrial activity , wood heater use and heavy traffic .
+Exposure to some VOCs has been associated with health risks .
+There have been limited investigations into community exposures to BTEX using personal monitoring to elucidate the concentrations to which members of the community may be exposed and the main contributors to that exposure .
+In this cross sectional study we investigated BTEX exposure of 204 non-smoking , non-occupationally exposed people from four Australian cities .
+Each participant wore a passive BTEX sampler over 24h on five consecutive days in both winter and summer and completed an exposure source questionnaire for each season and a diary for each day of monitoring .
+The geometric mean ( GM ) and range of daily BTEX concentrations recorded for the study population were benzene 0.80 ( 0.04-23.8 ppb ) ; toluene 2.83 ( 0.03-2120 ppb ) ; ethylbenzene 0.49 ( 0.03-119 ppb ) ; and xylenes 2.36 ( 0.04-697 ppb ) .
+A generalised linear model was used to investigate significant risk factors for increased BTEX exposure .
+Activities and locations found to increase personal exposure included vehicle repair and machinery use , refuelling of motor vehicles , being in an enclosed car park and time spent undertaking arts and crafts .
+A highly significant difference was found between the mean exposures in each of the four cities , which may be explained by differences in fuel composition , differences in the mix and density of industry , density of motor vehicles and air pollution meteorology .

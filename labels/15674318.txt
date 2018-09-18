@@ -1,0 +1,1 @@
+< < < <Biomonitoring--exposure biomarker--blood--cord blood AND  Biomonitoring--exposure biomarker--hair nail--children<  Biomonitoring--effect marker--physiological parameter< <Biomonitoring--exposure biomarker--blood--cord blood AND  Biomonitoring--exposure biomarker--hair nail--< < 

@@ -1,0 +1,16 @@
+The thyroid is integral to regulation of development and metabolism .
+Certain metals have been shown to affect thyroid function in occupationally exposed persons , but few studies have been conducted in the general population .
+This study evaluates the association between biomarkers of metal exposure and thyroid hormones in the US population .
+Analyses included adults participating in the 2007-2008 National Health and Nutrition Examination Survey , with no history of thyroid disease or use of thyroid medications , and with data on metals in blood ( lead , cadmium and mercury ) and urine ( lead , cadmium , mercury , barium , cobalt , cesium , molybdenum , antimony , thallium , tungsten and uranium ) , and thyroid hormones ( TSH , free and total T3 and T4 ) in serum ( N=1587 ) .
+Multivariate linear regression was used to model the association between thyroid hormone levels , and metals in either urine ( creatinine-adjusted ) or blood .
+Metal concentrations were considered as both continuous and categorical variables .
+Models were adjusted for : age , sex , race , BMI , serum lipids , serum cotinine , pregnancy and menopausal status , and use of selected medications .
+Few participants ( <5% ) had free T3 , free T4 , or TSH levels outside the reference range .
+However , 9.2% ( SE=1.2% ) had low T3 and 9.4% ( SE=1.1% ) had low T4 .
+Metals were detected in nearly all blood and urine samples , with the highest levels seen for urinary molybdenum ( median 42.5\u03bcg/L ) .
+When including all blood metals , mercury was associated with decreases in T3 and T4 , while cadmium was associated with decreased TSH .
+Urinary cadmium was associated with increases in both T3 and T4 ( models including all metals measured in urine ) .
+Urinary thallium and barium were associated with decreased T4 ( both ) and T3 ( barium ) .
+For TSH , cesium was associated with decreased , and tungsten with increased levels .
+Given the high prevalence of exposure to metals , associations of the size reported here could indicate an appreciable contribution of metals exposure to the prevalence of thyroid disorders .
+These findings indicate the importance of further research to further examine these relationships .

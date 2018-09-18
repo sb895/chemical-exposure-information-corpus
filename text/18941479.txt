@@ -1,0 +1,15 @@
+UNLABELLED Field measurements of exhaled nitric oxide ( FeNO ) and ambient nitric oxide ( NO ) are useful to assess both respiratory health and short-term air pollution exposure .
+Online real-time measurement maximizes data quality and comparability with clinical studies , but offline delayed measurement may be more practical for large epidemiological studies .
+To facilitate cross-comparison in larger studies , we measured FeNO and concurrent ambient NO both online and offline in 362 children at 14 schools in 8 Southern California communities .
+Offline breath samples were collected in bags at 100 ml/s expiratory flow with deadspace discard ; online FeNO was measured at 50 ml/s .
+Scrubbing of ambient NO from inhaled air appeared to be nearly 100% effective online , but 50-75% effective offline .
+Offline samples were stored at 2-8 degrees C and analyzed 2-26 h later at a central laboratory .
+Offline and online FeNO showed a nearly ( but not completely ) linear relationship ( R(2)=0.90 ) ; unadjusted means ( ranges ) were 10 ( 4-94 ) and 15 ( 3-181 ) p.p.b. , respectively .
+Ambient NO concentration range was 0-212 p.p.b .
+Offline FeNO was positively related to ambient NO ( r=0.30 , P<0.0001 ) , unlike online FeNO ( r=0.09 , P=0.08 ) , indicating that ambient NO artifactually influenced offline measurements .
+Offline FeNO differed between schools ( P<0.001 ) ; online FeNO did not ( P=0.26 ) , suggesting artifacts related to offline bag storage and transport .
+Artifact effects were small in comparison with between-subject variance of FeNO .
+An empirical statistical model predicting individual online FeNO from offline FeNO , ambient NO , and lag time before offline analysis gave R(2)=0.94 .
+Analyses of school or age differences yielded similar results from measured or model-predicted online FeNO .
+CONCLUSIONS Either online or offline measurement of exhaled NO and concurrent ambient NO can be useful in field epidemiology .
+Influence of ambient NO on exhaled NO should be examined carefully , particularly for offline measurements .

@@ -1,0 +1,11 @@
+BACKGROUND The few studies that have investigated the relationship between emissions from municipal solid-waste incinerators and adverse pregnancy outcomes have had conflicting results .
+We conducted a study to assess the effects of air emissions from the eight incinerators currently in operation in the Emilia-Romagna Region of Italy on reproductive outcomes ( sex ratio , multiple births , preterm births , and small for gestational age [ SGA ] births ) .
+METHODS We considered all births ( n = 21,517 ) to women residing within a 4-km radius of an incinerator at the time of delivery during the period 2003-2010 who were successfully linked to the Delivery Certificate database .
+This source also provided information on maternal characteristics and deliveries .
+Each newborn was georeferenced and characterized by a specific level of exposure to incinerator emissions , categorized in quintiles of PM10 , and other sources of pollution ( NOx quartiles ) , evaluated by means of ADMS-Urban system dispersion models .
+We ran logistic regression models for each outcome , adjusting for exposure to other pollution sources and maternal covariates .
+RESULTS Incinerator pollution was not associated with sex ratio , multiple births , or frequency of SGA .
+Preterm delivery increased with increasing exposure ( test for trend , P < 0.001 ) ; for the highest versus the lowest quintile exposure , the odds ratio was 1.30 ( 95% confidence interval = 1.08-1.57 ) .
+A similar trend was observed for very preterm babies .
+Several sensitivity analyses did not alter these results .
+CONCLUSIONS Maternal exposure to incinerator emissions , even at very low levels , was associated with preterm delivery .

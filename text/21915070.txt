@@ -1,0 +1,6 @@
+OBJECTIVE The work aimed to study the potential correlation between the high-level benzene exposure and its urinary metabolites S-phenylmercapturic acid ( SPMA ) and trans , trans-muconic acid ( t,t-MA ) in Chinese shoe-making workers .
+METHODS Individual benzene-exposed levels were determined by gas chromatography analysis , urinary t,t-MA , and urinary SPMA were determined by high performance liquid chromatography-an ultraviolet detector and liquid chromatography/electrospray tandem mass spectrometry method , respectively .
+RESULTS The concentration of benzene ranged from 2.57 to 146.11 mg/m³ .
+And the correlation between benzene and t,t-MA was significantly higher than that of SPMA at the postshift , for example , the correlation coefficient was 0.905 and 0.537 for t,t-MA and SPMA , respectively .
+Moreover , The relative internal exposure index of t,t-MA ( 0.28 mg/g Cr : mg/m³ ) was more similar to the data supplied by American Conference of Governmental Industrial Hygienists compared to the index of SPMA ( 0.025 mg/g Cr:mg/m³ ) .
+CONCLUSIONS t,t-MA appeared to be a more specific biomarker than SPMA at high-level benzene exposure .

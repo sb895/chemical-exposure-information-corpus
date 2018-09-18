@@ -1,0 +1,14 @@
+BACKGROUND Modern persistent organic pollutants ( POPs ) contamination are logical candidates in the investigation of the , as yet , unexplained association between allergic disease and progressive industrialisation .
+POPs have been detected in human cord blood , placental tissues and breast milk , and the reported association between cord blood IgE levels and cord/placental POP levels has raised concerns about potential immunological effects in early life .
+METHODS The initial aim of this study was to determine if POPs were detectable in maternal blood , cord blood , placental tissues , adipose tissue and breast milk samples from randomly selected Western Australian women ( n = 31 ) , where allergic disease is epidemic .
+Gas chromatography was used to detect polychlorinated biphenyl compounds [ PCBs ] ( as Aroclor 1232 , 1254 , 1260 ) and organochlorine ( OC ) pesticides , including p,p'-DDT , p,p'-DDE , hexachlorobenzene ( HCB ) , lindane , heptachlor epoxide , dieldrin and chlordane .
+Secondly , we assessed the relationship between POP levels detected in vivo and maternal and neonatal responses ( cytokine and lymphoproliferation ) to allergens and mitogens .
+RESULTS Low level POP contamination was detected in adipose tissue and breast milk ( but not in cord blood , maternal blood or placental tissues ) .
+The most ubiquitous compound found in over 90% of adipose tissues samples was a OC metabolite of DDT , p,p'-DDE ( median 0.07 mg/kg ; interquartile range [ IQR ] 0.05-0.12 ) .
+However , the majority of other OC compounds were not detectable and PCB were not detectable in any samples .
+The three main residues detected in breast milk were p,p'-DDE ( 0.003 mg/l ; 0.001-0.009 ) , dieldrin ( 0.001 mg/l ; 0.001-0.046 ) and HCB ( 0.001 mg/l ; 0.001-0.001 ) .
+These levels are significantly lower than reported over 20 years ago .
+There were no consistent relationships between POP levels in vivo and maternal or infant responses , with the exception of a significant inverse association ( Spearman rank correlation : r = -0.406 , p = 0.049 ) between maternal adipose tissue levels of OC p,p'-DDE and maternal T helper cell Type 1 interferon [ IFN ] gamma to mitogens .
+CONCLUSION This study provides the first evidence ( in Australia ) since the early 1990's that adipose OC levels have continued to fall .
+The negligible levels in this randomly selected group are significantly lower than those previously recorded , suggesting that POP contamination ( at biologically relevant levels ) is not likely to be a major contributing factor in the increasing rates of allergy in Western Australia .
+However , the relationship between Th1 immune function and OC contamination is consistent with other reports and is worth investigating as a relevant factor in populations where OC contamination is greater .

@@ -1,0 +1,10 @@
+BACKGROUND Phthalates are ubiquitous industrial chemicals used as plasticizers in plastics made of polyvinyl chloride ( PVC ) to confer flexibility and durability .
+They are also present in products used for personal-care , industry and in medical devices .
+Phthalates have been associated with several adverse health effects , and recently it has been proposed that exposure to phthalates , could have an effect on metabolic homeostasis .
+This exploratory cross-sectional study evaluated the possible association between phthalate exposure and self-reported diabetes among adult Mexican women .
+METHODS As part of an on-going case-control study for breast cancer , only controls were selected , which constituted 221 healthy women matched by age ( ±5 years ) and place of residence with the cases .
+Women with diabetes were identified by self-report .
+Urinary concentrations of nine phthalate metabolites were measured by online solid phase extraction coupled to high performance liquid chromatography-isotope-dilution tandem mass spectrometry .
+RESULTS Participants with diabetes had significantly higher concentrations of di(2-ethylhexyl) pththalate ( DEHP ) metabolites : mono(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , mono(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) and mono(2-ethyl-5-carboxypentyl) phthalate ( MECPP ) but lower levels of monobenzyl phthalate ( MBzP ) a metabolite of benzylbutyl phthalate , compared to participants without diabetes .
+A marginally significant positive associations with diabetes status were observed over tertiles with MEHHP ( OR(T3 vs. T1)=2.66 ; 95% CI : 0.97-7.33 ; p for trend=0.063 ) and MEOHP ( OR(T3 vs. T1)=2.27 ; 95% CI ; 0.90-5.75 ; P for trend=0.079 ) even after adjusting for important confounders .
+CONCLUSIONS The results suggest that levels of some phthalates may play a role in the genesis of diabetes .

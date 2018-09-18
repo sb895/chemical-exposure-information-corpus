@@ -1,0 +1,12 @@
+BACKGROUND AND OBJECTIVE High concentrations of air pollutants have been linked to increased incidence of stroke in North America and Europe but not yet assessed in mainland China .
+The aim of this study is to evaluate the association between stroke hospitalization and short-term elevation of air pollutants in Wuhan , China .
+METHODS Daily mean NO2 , SO2 and PM10 levels , temperature and humidity were obtained from 2006 through 2008 .
+Data on stroke hospitalizations ( ICD 10 : I60-I69 ) at four hospitals in Wuhan were obtained for the same period .
+A time-stratified case-crossover design was performed by season ( April-September and October-March ) to assess effects of pollutants on stroke hospital admissions .
+RESULTS Pollution levels were higher in October-March with averages of 136.1 µg/m(3) for PM10 , 63.6 µg/m(3) for NO2 and 71.0 µg/m(3) for SO2 than in April-September when averages were 102.0 µg/m(3) , 41.7 µg/m(3) and 41.7 µg/m(3) , respectively ( p<.001 ) .
+During the cold season , every 10 µg/m(3) increase in NO2 was associated with a 2.9% ( 95%C.I. 1.2%-4.6% ) increase in stroke admissions on the same day .
+Every 10 ug/m(3) increase in PM10 daily concentration was significantly associated with an approximate 1% ( 95% C.I. 0.1%-1.4% ) increase in stroke hospitalization .
+A two-pollutant model indicated that NO2 was associated with stroke admissions when controlling for PM10 .
+During the warm season , no significant associations were noted for any of the pollutants .
+CONCLUSIONS Exposure to NO2 is significantly associated with stroke hospitalizations during the cold season in Wuhan , China when pollution levels are 50% greater than in the warm season .
+Larger and multi-center studies in Chinese cities are warranted to validate our findings .

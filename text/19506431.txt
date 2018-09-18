@@ -1,0 +1,9 @@
+OBJECTIVE We evaluated the association between infant hair-Hg and Gesell schedules ( GS ) .
+BACKGROUND Longitudinal assessment of prenatal and postnatal Hg exposure during the first 60 months .
+METHODS We used hair-Hg as a marker of postnatal Hg exposure ( inorganic and methyl-Hg from breast milk , and ethyl-Hg from thimerosal ) and GS measured at 6 , 36 , and 60 months .
+RESULTS Hair-Hg at 6 months responded to events related to Hg exposure and breastfeeding .
+However , most neurodevelopment delays observed at 6 months were overcome with infant growth ; at 60 months 87% of children showed adequate GS ( >85 ) .
+Length of lactation and hair-Hg were each significantly correlated with GS , but in opposite ways : length of lactation was positive and significantly correlated with all GS at 60 months ; hair-Hg concentrations were negative and significantly correlated with GS at 6 months ( r=-0.333 ; P=0.002 ) and 60 months ( r=-0.803 ; P=0.010 ) , but not at 36 months .
+Multiple regression models showed that the GS outcome at 60 months depended on GS at 36 months that in turn was influenced by infants ' developmental and Hg exposure variables .
+GS at 6 months was significantly influenced by prenatal ( maternal and infant hair-Hg at birth ) and postnatal Hg exposure at 6 months .
+CONCLUSIONS Until there is more refined approach to recognize children sensitive to Hg exposure , and in situations of uncertainty ( EtHg exposure ) , the neurodevelopment benefit of breastfeeding should be recommended .

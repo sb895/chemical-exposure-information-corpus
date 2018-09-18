@@ -1,0 +1,13 @@
+BACKGROUND Overexposure to carbon disulfide ( CS(2) ) has been associated with an increase in coronary heart disease , but the mechanisms mediating this effect remain unclear .
+We aimed to examine the relationship between CS(2) exposure and oxidative stress markers , in order to clarify the oxidative mechanisms involved in CS(2) -induced atherosclerosis .
+METHODS A total of 89 workers from a viscose rayon plant were recruited for this study , and 111 workers not exposed to CS(2) served as controls .
+Cholesterol , triglyceride , malondialdehyde ( MDA ) , superoxide dismutase ( SOD ) , catalase , GSH peroxidase , as well as total antioxidants were analyzed .
+RESULTS The workers exposed to CS(2) had significantly higher MDA levels and lower SOD levels than the controls .
+The average MDA levels were 776 ± 268.2 ( 240-1,220 ) in the high exposure ( \u226510\u2009ppm ; n\u2009=\u200938 ) , 751.6 ± 274 ( 170-1,320 ) in the low exposure ( <10\u2009ppm ; n\u2009=\u200951 ) , and 550.4 ± 199 ( 115-1,050 ) mM in the control group ( n\u2009=\u2009111 ) .
+The average SOD levels were 36.5 ± 38.8 ( 0-223.5 ) , 39.3 ± 38.8 ( 0-160 ) , and 58.8 ± 60.8 ( 5.25 , 400)\u2009U/ml in the high exposure- , low exposure- , and control group , respectively .
+MDA level increased significantly at a cumulative CS(2) exposure of over 60 ppm-years .
+Dyslipoproteinemia was borderline significantly associated with CS(2) exposure and MDA level .
+CONCLUSIONS These results indicate that CS(2) exposure can induce oxidative stress as well as reduce the levels of antioxidative enzymes , and that a cumulative exposure level of 60 ppm-years may be a threshold value for the oxidative and the antioxidant response .
+Am .
+J. Ind .
+Med. 54:637-645 , 2011. © 2011 Wiley-Liss , Inc .

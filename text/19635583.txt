@@ -1,0 +1,8 @@
+Individual variability in arsenic metabolism is suggested to be associated with the effects of chronic arsenic exposure on health .
+Glutathione-S-transferase omega ( GSTO ) 1 and 2 are known to have the activity of monomethyl arsenate [ MMA(V) ] reductase , which is the rate-limiting enzyme for the biotransformation of inorganic arsenic .
+This study was conducted to investigate the relationship between polymorphisms in the GSTO1 and GSTO2 genes and arsenic metabolism and oxidative stress status in Chinese populations chronically exposed to different levels of arsenic in drinking water .
+Two polymorphisms ( GSTO1*A140D and GSTO2*N142D ) with relatively higher mutation frequencies in the Chinese population were determined by polymerase chain reaction-restriction fragment length polymorphism ( PCR-RFLP ) .
+The allele frequencies of 140D and 142D in the entire study population were 0.17 and 0.25 , respectively .
+There were no significant differences in the urinary arsenic profile , the blood reduced glutathione ( GSH ) levels , the blood superoxide dismutase ( SOD ) activity , or the urinary 8-hydroxy-2'-deoxyguanosine ( 8-OHdG ) levels between the study subjects with different genotypes of GSTO1*A140D or GSTO2*N142D .
+Multivariate analysis revealed that there was no association between the urinary profile or oxidative stress status and the polymorphism of GSTO1*A140D or GSTO2*N142D .
+Collectively , polymorphisms in GSTO1 or GSTO2 do not appear to contribute to the large individual variability in arsenic metabolism or susceptibility to arsenicosis .

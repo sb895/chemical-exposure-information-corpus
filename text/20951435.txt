@@ -1,0 +1,7 @@
+We measured major PBDEs and PCBs in breast adipose tissues of California women participating in a breast cancer study in the late 1990s .
+Samples were analyzed using gas chromatography with electron impact ionization and tandem mass spectrometry detection .
+The congener profile observed was : BDE47>BDE99>BDE153>BDE100>BDE154 and PCB153>PCB180>PCB138>PCB118 .
+Whereas high correlations were observed within each chemical class , very weak correlations appeared between classes , pointing to different exposure pathways .
+Weak negative associations were observed for PBDE congeners and age .
+Our PBDE data are among the highest reported , exceeding data from the National Health and Nutrition Examination Survey and consistent with the high use of PBDEs in California .
+These data may be helpful in establishing a baseline for PBDE body burdens to gauge changes over time as a result of restrictions in the use of PBDE formulations .

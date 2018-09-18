@@ -1,0 +1,8 @@
+Mercury ( Hg ) is widely used in the dental working environment , exposing dental practitioners and assistants to potentially toxic Hg vapors .
+Concentrations of Hg in vapor and in particulate matter ( PM10 ) were measured in the Dental Simulation Laboratory ( DSL ) and in the Dental Clinic ( DC ) at the School of Dentistry , University of Puerto Rico .
+PM10 samples were collected over a 36-h period and Hg vapor was collected for eight-hour periods .
+PM10 mass was determined gravimetically and Hg ( bound to PM10 and vapor ) was extracted and analyzed by atomic absorption .
+Indoor levels of PM10 in the DSL ranged from 9.2 to 41.6 microg/m3 and 35.0 to 68.2 microg/m3 in the DC .
+Levels of particle-bound Hg ranged from 0.1 to 1.2 microg/m3 and in vapor 1.1 to 3.3mg/m3 at the DSL ; the DC levels ranged from <0.01 to 0.2 microg/m3 for particle bound Hg and 13.6 to 102.7 microg/m3 in vapor .
+PM10 concentrations were below Indoor Air Quality suggested limits for total dust ( 100 microg/m3 ) .
+Levels of mercury bound to PM10 were low ; however , mercury vapor was several times higher than the suggested OSHA ( permissible exposure limit--100 microg/m3 ) in the DSL .

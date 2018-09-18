@@ -1,0 +1,11 @@
+Pooling of surplus serum from individual samples , collected between 2007 and 2009 during Cycle 1 of the Canadian Health Measures Survey ( CHMS ) , was performed to develop a national baseline estimate of brominated flame retardants in Canadians .
+Serum samples were categorized by sex and distributed by five age groups ranging from 6 to 79years .
+Nearly 5000 ( 4583 ) serum samples were used to form 59 composite pools .
+Serum pools were created to ensure a high detection frequency of these analytes in serum because low volume samples had previously resulted in non-detectable concentrations .
+The analytes of interest in these serum pools included 23 polybrominated diphenyl ethers ( PBDEs ) and three hexabromocyclododecane ( HBCD ) isomers ( \u03b1- , \u03b2- and \u03b3-HBCD ) .
+PBDEs were observed in all samples tested and total PBDE concentrations ranged from 27ngg(-1) lipid to 130ngg(-1) lipid ( geometric mean [ GM ] 46ngg(-1) lipid). \u2211PBDE concentrations were significantly elevated in samples representing the 6-11year old age group ( GM 65ngg(-1) lipid ) relative to ages above 40years , although no difference in concentration was observed between the sexes .
+PBDE concentrations in Canadian sera from the general population were higher than reported in Europe and Asia , but a little lower than observed in the US .
+PBDE 47 was the greatest contributor to \u2211PBDE concentrations and the GM concentration for this congener was 22ngg(-1) lipid .
+The other dominant contributors to \u2211PBDE concentrations were in descending order : 153 [ GM 9.4ngg(-1) lipid]>99 [ GM 4.6ngg(-1) lipid]\u2245100 [ GM 4.1ngg(-1) lipid]>209 [ GM 1.1ngg(-1) lipid ] and 183 [ GM 0.42ngg(-1) lipid]. \u2211HBCD was detected in all samples analysed , although most samples were observed at concentrations <1ngg(-1) lipid , similar to global concentrations. \u03b1-HBCD was the dominant contributor to \u2211HBCD concentrations in Canadians although \u03b2- and \u03b3-HBCD were detected in 23% and 35% of the samples , respectively .
+No differences in \u2211HBCD concentration were associated with age or sex .
+This dataset represents the first national data describing HBCD isomers and some PBDEs ( e.g. , 183 , 209 ) in Canadians .

@@ -1,0 +1,13 @@
+BACKGROUND Residential pesticide exposure has been linked to adverse health outcomes in adults and children .
+High-quality exposure estimates are critical for confirming these associations .
+Past epidemiologic studies have used one measurement of pesticide concentrations in carpet dust to characterize an individual's average long-term exposure .
+If concentrations vary over time , this approach could substantially misclassify exposure and attenuate risk estimates .
+OBJECTIVES We assessed the repeatability of pesticide concentrations in carpet dust samples and the potential attenuation bias in epidemiologic studies relying on one sample .
+METHODS We collected repeated carpet dust samples ( median = 3 ; range , 1-7 ) from 21 homes in Fresno County , California , during 2003-2005 .
+Dust was analyzed for 13 pesticides using gas chromatography-mass spectrometry .
+We used mixed-effects models to estimate between- and within-home variance .
+For each pesticide , we computed intraclass correlation coefficients ( ICCs ) and the estimated attenuation of regression coefficients in a hypothetical case-control study collecting a single dust sample .
+RESULTS The median ICC was 0.73 ( range , 0.37-0.95 ) , demonstrating higher between-home than within-home variability for most pesticides .
+The expected magnitude of attenuation bias associated with using a single dust sample was estimated to be \u2264 30% for 7 of the 13 compounds evaluated .
+CONCLUSIONS For several pesticides studied , use of one dust sample to represent an exposure period of approximately 2 years would not be expected to substantially attenuate odds ratios .
+Further study is needed to determine if our findings hold for longer exposure periods and for other pesticides .

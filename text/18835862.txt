@@ -1,0 +1,11 @@
+Adverse health effects of exposures to acute air pollution have been well studied .
+Fewer studies have examined effects of chronic exposure .
+Previous studies used exposure estimates for narrow time periods and were limited by the geographic distribution of pollution monitors .
+This study examined the association of chronic particulate exposures with all-cause mortality , incident nonfatal myocardial infarction , and fatal coronary heart disease ( CHD ) in a prospective cohort of 66,250 women from the Nurses ' Health Study in northeastern US metropolitan areas .
+Nonfatal outcomes were assessed through self-report and medical record review and fatalities through death certificates and medical record review .
+During follow-up ( 1992-2002 ) , 3,785 deaths and 1,348 incident fatal CHD and nonfatal myocardial infarctions occurred .
+In age- and calendar-time-adjusted models , 10-microg/m(3) increases in 12-month average exposures to particulate matter <10 microm in diameter were associated with increased all-cause mortality ( 16% , 95% confidence interval : 5 , 28 ) and fatal CHD ( 43% , 95% confidence interval : 10 , 86 ) .
+Adjustment for body mass index and physical activity weakened these associations .
+Body mass index and smoking modified the association between exposure to particulate matter <10 microm in diameter and fatal CHD .
+In this population , increases in such exposures were associated with increases in all-cause and CHD mortality .
+Never smokers with higher body mass indexes were at greatest risk of fatal CHD .

@@ -1,0 +1,22 @@
+OBJECTIVES The main objective of the study was to gather information about the current controls and levels of exposure to 4,4'-methylene-bis ( 2-chloroaniline ) ( MbOCA ) in a representative cross section of workplaces that use it to manufacture polyurethane elastomers .
+The study also aimed to investigate whether controls and guidance could be improved and to investigate exposure to isocyanates in these workplaces using biological monitoring .
+METHODS An occupational hygienist and a field scientist visited the two UK suppliers and 20 out of the 25 workplaces known to be using MbOCA in the UK during 2005 and 2006 .
+They collected air samples , surface wipes , gloves , and urine samples and made observations to assess exposure and the adequacy of controls .
+All samples were analysed for MbOCA and urine samples were additionally analysed for isocyanate metabolites .
+A statistical analysis was made of the results .
+RESULTS Only 2.5% of the 80 personal inhalation exposures to MbOCA exceeded the workplace exposure limit of 5 microg m(-3) 8-h time-weighted average and 84% were below the limit of detection ( LOD ) .
+Surface samples ( n = 334 ) were collected from MbOCA users and suppliers and 60% had detectable levels of MbOCA ranging from 0.019 to 400 microg cm(-2) .
+The highest levels were around a hopper , ovens , and the weighing and pouring areas .
+MbOCA was also detected in 8 of the 75 samples collected from areas not likely to be in contact with MbOCA .
+At the two suppliers , samples ( n = 28 ) were collected from the outside surfaces of recently imported kegs , pallets , and the floor around kegs .
+Six samples had detectable levels and four of these ( 0.2 , 0.8 , 1 , and 6 microg cm(-2) ) were from the floor and pallets in both suppliers .
+The other two positive results were found on the outside rim ( 18 microg cm(-2) ) and side ( 23 microg cm(-2) ) of a keg at one supplier indicating contamination by the manufacturer .
+Urine samples ( n = 79 ) were collected and 49% were below the LOD for MbOCA and only three samples had levels of MbOCA that exceeded the biological monitoring guidance value ( BMGV ) of 15 micromol mol(-1) creatinine .
+The highest urinary MbOCA concentrations were in samples from workers casting and moulding .
+The 90th percentile of the urine MbOCA results was 8.6 micromol MbOCA per mol creatinine .
+Urine samples were also analysed for the diamine metabolites of toluene diisocyanate and hexamethylene diisocyanate and 33% had detectable levels with 22 and 13% of results , respectively , above the BMGV for isocyanates ( 1 micromol isocyanate-derived diamine per mol creatinine ) .
+The maximum urinary concentration of toluene diamine and hexane diamine were 15.6 and 10.1 micromol mol(-1) creatinine , respectively .
+CONCLUSIONS The survey found that the measures used to control exposure to MbOCA could be improved .
+Although air levels of MbOCA were generally low , there was evidence of spread of surface contamination and poor maintenance of controls such as local exhaust ventilation .
+A BMGV based on the 90th percentile of data from workplaces with good control would be less than the 90% value of 8.6 micromol mol(-1) creatinine found in this study and suggests that the current BMGV of 15 micromol mol(-1) creatinine is no longer acting as a stimulus to reduce exposure .
+The metabolites of isocyanates found in urine samples in this study could arise from inhalation exposure to isocyanates or from dermal exposure to either isocyanates or their diamine breakdown product and need further investigation .

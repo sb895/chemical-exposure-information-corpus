@@ -1,0 +1,10 @@
+BACKGROUND Lead ( Pb ) and polychlorinated biphenyls ( PCBs ) are neurotoxic contaminants that have been related to impairment in response inhibition .
+OBJECTIVES In this study we examined the neurophysiological correlates of the response inhibition deficits associated with these exposures , using event-related potentials ( ERPs ) in a sample of school-age Inuit children from Arctic Québec exposed through their traditional diet .
+METHODS In a prospective longitudinal study , we assessed 196 children ( mean age , 11.3 years ) on a visual go/no-go response inhibition paradigm .
+Pb , PCB , and mercury ( Hg ) concentrations were analyzed in cord and current blood samples .
+Hierarchical multiple regression analyses were conducted to examine the associations of contaminant levels to go/no-go performance ( mean reaction time , percent correct go , percent correct no-go ) and five ERPs [ N2 , P3 , error-related negativity , error positivity ( Pe ) , and correct response positivity ( Pc) ] after control for confounding variables .
+RESULTS Current blood Pb concentrations were associated with higher rates of false alarms and with decreased P3 amplitudes to go and no-go trials .
+Current plasma PCB-153 concentrations were associated with slower reaction times and with reduced amplitudes of the Pe and Pc response-related potentials .
+Hg concentrations were not related to any outcome on this task but showed significant interactions with other contaminants on certain outcomes .
+CONCLUSIONS These results suggest that Pb exposure during childhood impairs the child's ability to allocate the cognitive resources needed to correctly inhibit a prepotent response , resulting in increased impulsivity .
+By contrast , postnatal PCB exposure appears to affect processes associated with error monitoring , an aspect of behavioral regulation required to adequately adapt to the changing demands of the environment , which results in reduced task efficiency .

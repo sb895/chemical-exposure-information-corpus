@@ -1,0 +1,10 @@
+BACKGROUND Second-hand smoke is associated with adverse health effects .
+Many countries have extended smoke-free policies to public buildings and workplaces such as hospitals , but mental health units have usually been exempted from complete smoke-free bans .
+The objective of this study was to evaluate second-hand smoke levels in mental health units with different types of smoking bans .
+Method We conducted a cross-sectional study to evaluate second-hand smoke in 64 mental health inpatient units ( 95.5% of the all such units ) in Catalonia , Spain .
+We measured air concentrations of particulate matter <2.5 \u03bcm ( PM2.5 ) as a marker of second-hand smoke in different locations at each unit .
+RESULTS The geometric mean ( 95% confidence interval ) of the PM2.5 concentration was 8.81 \u03bcg/m(3) ( 8.06-9.56 ) in units with indoor and outdoor smoking bans , 13.80 \u03bcg/m(3) ( 13.23-14.36 ) in units with indoor smoking bans that allowed smoking in outdoor areas , 24.29 \u03bcg/m(3) ( 23.50-25.03 ) in units with indoor smoking rooms and 51.00 \u03bcg/m(3) ( 49.83-52.04 ) in units that allowed smoking in common indoor areas ( P < 0.05 ) .
+The regression model adjusted for confounding variables showed a linear increase of PM2.5 .
+The PM2.5 concentration in smoking rooms was 286.50 \u03bcg/m(3) ( 283.95-288.89 ) .
+CONCLUSIONS Only units with indoor and outdoor smoking bans had PM2.5 levels below the standard recommended WHO levels of 10 \u03bcg/m(3) .
+Units with more permissive smoking policies had PM2.5 levels from second-hand smoke that have harmful health effects .

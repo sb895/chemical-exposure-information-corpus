@@ -1,0 +1,7 @@
+To assess occupational exposure , we determined the concentrations of PCDD/Fs and PCBs in human serum samples from 26 incinerator workers ( 10 industrial waste and 16 municipal solid waste incinerator workers ) , 38 residents near the facilities and 7 inhabitants ( as control subjects ) living over 10 km away from any incinerator facilities in Korea .
+The mean TEQ(WHO) levels of PCDD/Fs in the industrial and MSWI workers were 41.57 and 9.86 pg TEQ(WHO) g(-1) lipid , respectively .
+For the residents , the mean TEQ(WHO) was 13.47 pg TEQ(WHO) g(-1) lipid ( residents near IWI , MSWI , and control subjects : 17.64 , 13.31 , and 6.91 pg TEQ(WHO) g(-1) lipid ) .
+Higher levels of certain PCDD/F congeners , mainly PCDFs , were detected in the serum of industrial incinerator workers in comparison to the levels measured in the residents .
+Significant differences were observed for PCDFs , the major compounds were OCDF , 1,2,3,4,6,7,8-HpCDF , and the minor components 1,2,3,4,7,8-HxCDF , 1,2,3,6,7,8-HxCDF , and 2,3,4,6,7,8-HxCDF ( p<0.01 ) .
+The PCDD/F congener patterns and concentrations measured in the 71 serum samples examined suggest that the industrial incinerator workers were exposed to PCDD/Fs in the workplace , possibly through inhalation and/or skin contact .
+In contrast , the levels and congener patterns of PCBs measured were similar in all subjects , indicating that workers from the incinerator facilities examined were not subjected to additional exposure to these compounds .

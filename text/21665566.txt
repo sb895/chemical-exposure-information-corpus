@@ -1,0 +1,12 @@
+BACKGROUND Perfluorinated compounds ( PFCs ) are persistent environmental pollutants .
+Toxicology studies demonstrate the potential for perfluorooctanoic acid ( PFOA ) and other PFCs to affect human growth and development .
+Attention deficit/hyperactivity disorder ( ADHD ) is a developmental disorder with suspected environmental and genetic etiology .
+OBJECTIVES We examined the cross-sectional association between serum PFC concentration and parent or self-report of doctor-diagnosed ADHD with and without current ADHD medication .
+METHODS We used data from the C8 Health Project , a 2005-2006 survey in a Mid-Ohio Valley community highly exposed to PFOA through contaminated drinking water , to study non-Hispanic white children 5-18 years of age .
+Logistic regression models were adjusted for age and sex .
+RESULTS Of the 10,546 eligible children , 12.4% reported ADHD and 5.1% reported ADHD plus ADHD medication use .
+We observed an inverted J-shaped association between PFOA and ADHD , with a small increase in prevalence for the second quartile of exposure compared with the lowest , and a decrease for the highest versus lowest quartile .
+The prevalence of ADHD plus medication increased with perfluorohexane sulfonate ( PFHxS ) levels , with an adjusted odds ratio of 1.59 ( 95% confidence interval , 1.21-2.08 ) comparing the highest quartile of exposure to the lowest .
+We observed a modest association between perfluorooctane sulfonate and ADHD with medication .
+CONCLUSIONS The most notable finding for PFOA and ADHD , a reduction in prevalence at the highest exposure level , is unlikely to be causal , perhaps reflecting a spurious finding related to the geographic determination of PFOA exposure in this population or to unmeasured behavioral or physiologic correlates of exposure and outcome .
+Possible positive associations between other PFCs and ADHD , particularly PFHxS , warrant continued investigation .

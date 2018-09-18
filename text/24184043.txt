@@ -1,0 +1,11 @@
+Traffic-related volatile organic compounds ( VOCs ) pollution has frequently been demonstrated to be a serious problem in the developing countries .
+Benzene and 1,3-butadiene ( BD ) have been classified as a human carcinogen based on evidence for an increased genotoxic and epigenotoxic effects in both occupational exposure assessment and in vivo/in vitro studies .
+We have undertaken a biomonitoring of 25 traffic policemen and 23 office policemen in Beirut , through personal air monitoring , assessed by diffusive samplers , as well as through the use of biomarkers of exposure to benzene and BD .
+Personal benzene , toluene , ethylbenzene , and xylene ( BTEX ) exposure were quantified by GC-MS/MS , urinary trans , trans-muconic acid ( t,t-MA ) by HPLC/UV , S-phenyl mercapturic acid ( S-PMA ) , monohydroxy-butenyl mercapturic acid ( MHBMA ) and dihydroxybutyl mercapturic acid ( DHBMA ) by ultra-performance liquid chromatography-electrospray tandem mass spectrometry ( UPLC/ESI(-)-MS/MS ) in MRM ( Multiple Reaction Monitoring ) mode .
+We found that individual exposure to benzene in the traffic policemen was higher than that measured in traffic policemen in Prague , in Bologna , in Ioannina and in Bangkok. t,t-MA levels could distinguish between office and traffic policemen .
+However , median MHBMA levels in traffic policemen were slightly elevated , though not significantly higher than in office policemen .
+Alternatively , DHBMA concentrations could significantly distinguish between office and traffic policemen and showed a better correlation with personal total BTEX exposure .
+DHMBA , measured in the post-shift urine samples , correlated with both pre-shift MHMBA and pre-shift DHMBA .
+Moreover , there was not a marked effect of smoking habits on DHBMA .
+Taken together , these findings suggested that DHBMA is more suitable than MHBMA as biomarker of exposure to BD in humans .
+Traffic policemen , who are exposed to benzene and BD at the roadside in central Beirut , are potentially at a higher risk for development of diseases such as cancer than office policemen .

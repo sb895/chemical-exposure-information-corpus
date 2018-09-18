@@ -1,0 +1,12 @@
+Bisphenol A ( BPA ) exposure during early life may have endocrine-disrupting effects , but the dietary and sociodemographic predictors of BPA exposure during pregnancy and childhood remain unclear .
+Our aim was to evaluate the correlations between , and sociodemographic and dietary predictors of , serial urinary BPA concentrations measured during pregnancy and childhood in a Spanish birth cohort study .
+BPA was measured in two spot urine samples collected from 479 women during the first and third trimester of pregnancy and in one urine sample from their 4-year old children ( n=130 ) .
+Average dietary intakes were reported in food frequency questionnaires during the first and third pregnancy trimester and at age 4years .
+Multivariate mixed models and linear regression models were used to estimate associations between sociodemographic and dietary factors and BPA concentrations .
+A small , but statistically significant correlation was found between serial maternal BPA concentrations measured during pregnancy ( r=0.17 ) .
+Pregnant women who were younger , less-educated , smoked , and who were exposed to second-hand tobacco smoke ( SHS ) had higher BPA concentrations than others .
+BPA concentrations were also higher in children exposed to SHS .
+High consumption of canned fish during pregnancy was associated with 21% [ GM ratio=1.21 ; 95%CI 1.02 , 1.44 ] and 25% [ GM ratio=1.25 ; 95%CI 1.05 , 1.49 ] higher urinary BPA concentrations in the first and third pregnancy trimester , respectively , compared to the lowest consumption group .
+This study suggests that canned fish may be a major source of BPA during pregnancy in Spain , a country of high canned fish consumption .
+Further evaluation of specific BPA exposure sources in the sociodemographic group of younger women who smoke , are exposed to SHS , and have a low educational level is needed .
+Studies identifying sources of exposure would benefit from repeat BPA measurements and questionnaires specifically focused on dietary and packaging sources .

@@ -1,0 +1,10 @@
+BACKGROUND Several epidemiologic studies have demonstrated relationships between prenatal exposure to polychlorinated biphenyls ( PCBs ) and modest cognitive impairments in infancy and early childhood .
+However , few studies have followed cohorts of exposed children long enough to examine the possible impact of prenatal PCB exposure on psychometric intelligence in later childhood .
+Of the few studies that have done so , one in the Great Lakes region of the United States reported impaired IQ in children prenatally exposed to PCBs , whereas another found no association .
+OBJECTIVES This study was designed to determine whether environmental exposure to PCBs predicts lower IQ in school-age children in the Great Lakes region of the northeastern United States .
+METHODS We measured prenatal exposure to PCBs and IQ at 9 years of age in 156 subjects from Oswego , New York .
+We also measured > 50 potential predictors of intelligence in children , including repeated measures of the home environment [ Home Observation for Measurement of the Environment ( HOME) ] , socioeconomic status ( SES ) , parental IQ , alcohol/cigarette use , neonatal risk factors , and nutrition .
+RESULTS For each 1-ng/g ( wet weight ) increase in PCBs in placental tissue , Full Scale IQ dropped by three points ( p = 0.02 ) , and Verbal IQ dropped by four points ( p = 0.003 ) .
+The median PCB level was 1.50 ng/g , with a lower quartile of 1.00 ng/g and an upper quartile of 2.06 ng/g .
+Moreover , this association was significant after controlling for many potential confounders , including prenatal exposure to methylmercury , dichlorodiphenyldichloroethylene , hexachlorobenzene , and lead .
+CONCLUSIONS These results , in combination with similar results obtained from a similar study in the Great Lakes conducted 10 years earlier , indicate that prenatal PCB exposure in the Great Lakes region is associated with lower IQ in children .

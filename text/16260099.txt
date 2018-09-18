@@ -1,0 +1,5 @@
+Recent advances on biomarker research are discussed , primarily relying on experience gained with technologies based on liquid chromatography-tandem mass spectrometry ( LC-MS-MS ) .
+Determination of urinary metabolites of industrial chemicals ( n-hexane , benzene , toluene , and styrene ) in samples from occupationally exposed workers and controls was performed by LC-MS-MS with either electrospray ( ESI ) or atmospheric pressure chemical ionization ( APCI ) , as appropriate .
+Both phase I and II metabolites ( glucuronides , sulfates , and mercapturic acids ) can be detected with little or no sample manipulation , thus allowing the identification of a number of artifacts and " new " metabolites .
+However , experimental evidence indicates the need for properly addressing the matrix effect , which is always associated with the analysis of biological samples .
+Both efficient sample preparation and the use of isotopically labeled internal standards seem to be necessary to develop validated quantitative methods .

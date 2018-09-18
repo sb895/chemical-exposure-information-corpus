@@ -1,0 +1,7 @@
+During 1998-2000 , the authors investigated relations between lung function , respiratory symptoms , and arsenic in drinking water among 287 study participants , including 132 with arsenic-caused skin lesions , in West Bengal , India .
+The source population involved 7,683 participants who had been surveyed for arsenic-related skin lesions in 1995-1996 .
+Respiratory symptoms were increased among men with arsenic-caused skin lesions ( versus those without lesions ) , particularly " shortness of breath at night " ( odds ratio ( OR ) = 2.8 , 95% confidence interval ( CI ) : 1.1 , 7.6 ) and " morning cough " ( OR = 2.8 , 95% CI : 1.2 , 6.6 ) in smokers and " shortness of breath ever " ( OR = 3.8 , 95% CI : 0.7 , 20.6 ) in nonsmokers .
+Among men with skin lesions , the average adjusted forced expiratory volume in 1 second ( FEV1 ) was reduced by 256.2 ml ( 95% CI : 113.9 , 398.4 ; p < 0.001 ) and the average adjusted forced vital capacity ( FVC ) was reduced by 287.8 ml ( 95% CI : 134.9 , 440.8 ; p < 0.001 ) .
+In men , a 100-microg/liter increase in arsenic level was associated with a 45.0-ml decrease ( 95% CI : 6.2 , 83.9 ) in FEV1 ( p = 0.02 ) and a 41.4-ml decrease ( 95% CI : -0.7 , 83.5 ) in FVC ( p = 0.054 ) .
+Women had lower risks than men of developing skin lesions and showed little evidence of respiratory effects .
+In this study , consumption of arsenic-contaminated water was associated with respiratory symptoms and reduced lung function in men , especially among those with arsenic-related skin lesions .

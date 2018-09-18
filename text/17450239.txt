@@ -1,0 +1,17 @@
+BACKGROUND Inorganic arsenic ( iAs ) is a well-known human carcinogen recognized by the World Health Organization and the International Agency for Research on Cancer .
+Currently , most iAs studies in populations are concerned with drinking water and occupational arsenicosis .
+In Guizhou province , arsenicosis caused by the burning of coal in unventilated indoor stoves is an unusual type of exposure .
+Because the poisoning mechanism involved in arsenicosis is as yet unknown and no effective therapy exists , progress has been slow on the prevention and therapy of arsenicosis .
+OBJECTIVES We examined the relationship between arsenic ( As ) exposure from the burning of coal in unventilated indoor stoves and genetic damage in humans , using cellular and molecular indices .
+We selected villagers from Jiaole township , Guizhou province , China , who had been exposed to milligram levels of As daily via food and air contaminated by the burning of As-containing coal in unventilated indoor stoves .
+RESULTS The As-exposed subjects from Jiaole were divided into four groups according to skin lesion symptoms : nonpatients , mild , intermediate , and severe arsenicosis .
+Another 53 villagers from a town 12 km from Jiaole were recruited as the external control group .
+In the four groups of exposed subjects , As concentrations in urine and hair were 76-145 microg/L and 5.4-7.9 microg/g , respectively .
+These values were higher than those in the external control group , which had As concentrations of 46 microg/L for urine and 1.6 microg/g for hair .
+We measured sister chromatid exchange and chromosomal aberrations to determine human chromosome damage , and for DNA damage , we measured DNA single-strand breaks and DNA-protein cross-links .
+All measurements were higher in the four exposed groups compared with the external control group .
+DNA repair was impaired by As exposure , as indicated by the mRNA of O-6-methylguanine-DNA methyltransferase ( MGMT ) , X-ray repair complementing defective repair in Chinese hamster cells 1 ( XRCC1 ) , and , to a lesser extent , by the mismatch repair gene hMSH2 mRNA .
+The expression of mutant-type p53 increased with aggravation of arsenicosis symptoms , whereas the expression of p16-INK4(p16) decreased. p53 mutated at a frequency of 30-17% in the carcinoma ( n = 10 ) and precarcinoma ( n = 12 ) groups .
+No mutation was found in p16 , although deletion was evident .
+Deletion rates were 8.7% ( n = 23 ) and 38.9% ( n = 18 ) in noncarcinoma and carcinoma groups , respectively .
+CONCLUSIONS The results showed that long-term As exposure may be associated with damage of chromosomes and DNA , gene mutations , gene deletions , and alterations of DNA synthesis and repair ability .

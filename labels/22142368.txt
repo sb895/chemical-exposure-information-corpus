@@ -1,0 +1,1 @@
+<exposure routes--<Biomonitoring--exposure biomarker--blood-- AND exposure routes--oral intake--dust-- AND exposure routes--oral intake--dust--workers AND exposure routes--oral intake--food--< <exposure routes--oral intake--food--< 

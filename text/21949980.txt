@@ -1,0 +1,8 @@
+Arsenic is a ubiquitous environmental toxin with known neurological consequences .
+Few studies , however , have investigated groundwater arsenic concentrations and cognition among adults and elders .
+In the study described in this article , the authors examined the potential link between cognitive functioning and low concentrations of arsenic in drinking water .
+Arsenic concentrations were estimated by the Geographic Information System approach ( GIS-arsenic ) for 299 rural-dwelling adults and elders .
+Cognition was assessed with Folstein Mini-Mental State Examination ( MMSE ) .
+Those in the relatively high GIS-arsenic exposure ( > 10.0 microg/L ) group had significantly lower MMSE scores than those in the low GIS-arsenic exposure ( < or = 10.0 microg/L ) group ( p < .03 ) .
+The number of years of education was significantly lower in those in the high GIS-arsenic group(s) than in those in the low GIS-arsenic group ( p < .05 ) .
+These results suggest that poorer cognitive functioning and lower education levels were associated with higher ( though still low-level ) GIS-arsenic levels in this rural adult cohort .

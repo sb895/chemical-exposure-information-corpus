@@ -1,0 +1,16 @@
+The respiratory function and immunological status of workers employed in the paper recycling industry were studied .
+The mean age of the 101 studied workers was 41 years , and the mean duration of their exposure was 17 years .
+A group of 87 unexposed workers of similar age , duration of employment , and smoking history was studied for the prevalence of chronic respiratory symptoms .
+Lung function in the paper workers was measured by recording maximum expiratory flow volume ( MEFV ) curves and recording forced vital capacity ( FVC ) , 1-second forced expiratory volume ( FEV1 ) , and maximum expiratory flow rates at 50% and the last 25% of the FVC ( FEF50 , FEF25 ) .
+Immunological studies were performed in all 101 paper workers and in 37 control workers ( volunteers ) .
+These included skin-prick tests with paper-dust extracts and other nonoccupational allergens , as well as the measurement of total serum immunoglobulin E. Significantly higher prevalences of all chronic respiratory symptoms were found in paper compared with control workers ( P < 0.01 ) .
+The highest prevalences were found for chronic cough ( 36.6% ) , chronic phlegm ( 34.7% ) , chronic bronchitis ( 33.7% ) , sinusitis ( 31.7% ) , and dyspnea ( 18.8% ) .
+Occupational asthma was diagnosed in four ( 4.0% ) of the paper workers .
+A logistic regression analysis performed on chronic respiratory symptoms of paper workers indicated significant effects of smoking and exposure , with the smoking effect being the most important .
+Multivariate analysis of lung-function parameters indicate significant effects of exposure .
+For paper workers , the measured FEF50 and FEF25 were significantly decreased , compared with predicted values , suggesting obstructive changes located primarily in smaller airways .
+Among 101 tested paper workers , 16 ( 15.8% ) had positive skin-prick tests to at least one of the paper extracts ; none of the control workers reacted to these extracts .
+Increased serum IgE levels were found in 21% of the paper workers and in 5% of control workers ( P < 0.05 ) .
+Paper workers with positive skin-prick tests to any of the paper and/or other tested extracts had higher prevalences of chronic respiratory symptoms and lower measured lung-function tests compared with predicted than did those with negative skin-prick tests , but the differences were not statistically significant .
+The measured concentrations of total and respirable dust in this industry were higher than those recommended by Croatian standards .
+Our study suggests that work in the paper-recycling industry is associated with respiratory impairment and that sensitive workers employed in this industry may be at particular risk of developing chronic respiratory abnormalities .

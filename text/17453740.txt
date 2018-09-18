@@ -1,0 +1,9 @@
+Epidermal growth factor receptor-dependent mechanisms have been implicated in growth signal transduction pathways that contribute to cancer development , including dermal carcinogenesis .
+Detection of the extracellular domain of the epidermal growth factor receptor ( EGFR ECD ) in serum has been suggested as a potential biomarker for monitoring this effect in vivo .
+Arsenic is a known human carcinogen , producing skin and other malignancies in populations exposed through their drinking water .
+One such exposed population , which we have been studying for a number of years , is in Bangladesh .
+The purpose of this study was to examine the EGFR ECD as a potential biomarker of arsenic exposure and/or effect in this population .
+Levels of the EGFR ECD were determined by enzyme-linked immunosorbent assay in the serum samples from 574 individuals with a range of arsenic exposures from drinking water in the Araihazar area of Bangladesh .
+In multiple regression analysis , serum EGFR ECD was found to be positively associated with three different measures of arsenic exposure ( well water arsenic , urinary arsenic and a cumulative arsenic index ) at statistically significant levels ( p<or=0.034 ) , and this association was strongest among the individuals with arsenic-induced skin lesions ( p <or= 0.002 ) .
+When the study subjects were stratified in tertiles of serum EGFR ECD levels , the risk of skin lesions increased progressively for each increase in all three arsenic measures ( also stratified in tertiles ) and this increasing risk became more pronounced among subjects within the highest tertile of EGFR ECD levels .
+These results suggest that serum EGFR ECD levels may be a potential biomarker of effect of arsenic exposure and may indicate those exposed individuals at greatest risk for the development of arsenic-induced skin lesions .

@@ -1,0 +1,11 @@
+BACKGROUND We expanded an existing cohort of workers ( n = 2,588 ) considered highly exposed to polychlorinated biphenyls ( PCBs ) at two capacitor manufacturing plants to include all workers with at least 90 days of potential PCB exposure during 1939-1977 ( n = 14,458 ) .
+Causes of death of a priori interest included liver and rectal cancers , previously reported for the original cohort , and non-Hodgkin lymphoma ( NHL ) , melanoma , and breast , brain , intestine , stomach , and prostate cancers , based on other studies .
+METHODS We ascertained vital status of the workers through 1998 , and cumulative PCB exposure was estimated using a new job exposure matrix .
+Analyses employed standardized mortality ratios ( SMRs ; U.S. , state , and county referents ) and Poisson regression modeling .
+RESULTS Mortality from NHL , melanoma , and rectal , breast , and brain cancers were neither in excess nor associated with cumulative exposure .
+Mortality was not elevated for liver cancer [ 21 deaths ; SMR 0.89 ; 95% confidence interval ( CI ) , 0.55-1.36 ] , but increased with cumulative exposure ( trend p-value = 0.071 ) .
+Among men , stomach cancer mortality was elevated ( 24 deaths ; SMR 1.53 ; 95% CI , 0.98-2.28 ) and increased with cumulative exposure ( trend p-value = 0.039 ) .
+Among women , intestinal cancer mortality was elevated ( 67 deaths ; SMR 1.31 ; 95% CI , 1.02-1.66 ) , especially in higher cumulative exposure categories , but without a clear trend .
+Prostate cancer mortality , which was not elevated ( 34 deaths ; SMR 1.04 ; 95% CI , 0.72-1.45 ) , increased with cumulative exposure ( trend p-value = 0.0001 ) .
+CONCLUSIONS This study corroborates previous studies showing increased liver cancer mortality , but we cannot clearly associate rectal , stomach , and intestinal cancers with PCB exposure .
+This is the first PCB cohort showing a strong exposure-response relationship for prostate cancer mortality .

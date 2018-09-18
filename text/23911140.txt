@@ -1,0 +1,14 @@
+Bisphenol A ( BPA ) is used primarily in the production of polycarbonate plastics and epoxy resins .
+Widespread exposure to BPA has created a great deal of concern regarding its potential adverse effects on human health .
+This study examined the relationship between prenatal BPA exposure and birth outcomes , including birth weight , birth length , and ponderal index considering gender difference .
+A multi-center birth cohort study , Mothers and Children's Environmental Health ( MOCEH ) has been established in Korea since 2006 .
+Study subjects are 757 pregnant women from the original cohort , who had their urinary BPA level measured during the third trimester , as well as information on birth outcome , prior medical history , psychosocial status , health behavior , environmental exposure as well as socio-demographic characteristics .
+Regression analysis was performed to assess the effect of BPA on birth outcome .
+The geometric mean concentration of BPA in pregnant women was 1.29\u03bcg/L ( 1.87\u03bcg/g creatinine ) during late pregnancy .
+Urinary BPA concentrations were shown to be higher in women with a higher income level .
+Univariate regression analysis revealed a significant association between BPA levels and birth weight .
+In adjusted analysis , the second tertile of maternal BPA exposure exhibited an increase in birth weight , relative to the first tertile ( p=0.04 ) .
+These relationships were more pronounced in male neonates .
+Also , prenatal exposure to BPA was associated with an increase of ponderal index in total , and especially female neonates .
+This study shows that the association of prenatal exposure to BPA with anthropometric measures , such as birth weight and birth length , differed by gender .
+Further study is required to more fully elaborate this relationship between prenatal BPA exposure and birth outcome .

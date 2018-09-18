@@ -1,0 +1,5 @@
+OBJECTIVE We sought to assess whether the metabolism of arsenic impacts a person's susceptibility to bladder cancer .
+METHODS Urinary methylation products were measured in subjects from Argentina ( 114 cases and 114 controls ) and the United States ( 23 cases and 49 controls ) .
+RESULTS In Argentina , the adjusted odds ratio ( OR ) for subjects with a high proportion of ingested arsenic excreted as monomethylarsonate ( %MMA ) was 2.17 ( 95% confidence interval [ CI ] = 1.02-4.63 ) in smokers and 0.48 ( 95% CI = 0.17-1.33 ) in nonsmokers .
+In the United States , the adjusted ORs for high %MMA in subjects with arsenic intakes less than and greater than 100 microg/d were 1.20 ( 95% CI = 0.27-5.38 ) and 2.70 ( 95% CI = 0.39-18.6 ) .
+CONCLUSIONS Overall , these results are consistent with data from Taiwan suggesting that some individuals who excrete a higher proportion of ingested arsenic as MMA are more susceptible to arsenic-related cancer .

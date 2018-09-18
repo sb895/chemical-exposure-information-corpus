@@ -1,0 +1,10 @@
+The evidence linking arsenic in drinking water with increased urinary cancer risk comes from populations in relatively high exposure areas ( >100 microg/L ) , whereas studies from lower exposure areas ( <100 microg/L ) reported inconsistent results .
+A previous study conducted in northeastern Taiwan , where residents were exposed to relatively lower concentrations , reported increased risk of urinary cancer in a dose-response way .
+Using the same cohort with longer follow-up , we conducted analysis to elucidate the relationship between ingested arsenic and urinary cancer in lower exposure groups and assessed the influence of duration , recency , and latency of drinking arsenic-containing well water .
+A total of 8,086 residents from northeastern Taiwan were followed for 12 years .
+Incident urinary cancer was ascertained through linkage with the national cancer registry .
+All analysis was done by Cox proportional hazards regression models .
+There were 45 incidences of urinary cancer and a monotonic increased risk of urinary cancer was found with increasing arsenic concentration ( P < 0.001 ) .
+For the highly exposed ( >100 microg/L ) , the relative risks ( RR ) were >5-fold , whereas the risk was elevated but not significant for low exposure ( <100 microg/L ) .
+Relative to the arsenic concentration <10 microg/L , those who drank well water with higher concentration from birth [ RR , 3.69 ; 95% confidence interval ( 95% CI ) , 1.31-10.4 ] , still drank at enrollment ( RR , 3.50 ; 95% CI , 1.33-9.22 ) , and drank for >50 years ( RR , 4.12 ; 95% CI , 1.48-11.5 ) had a significantly increased risk of urinary cancer .
+When restricted to urothelial carcinoma , all risk estimates including concentration and characteristics of well water consumption were higher .

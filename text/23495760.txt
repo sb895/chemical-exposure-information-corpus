@@ -1,0 +1,14 @@
+BACKGROUND Dust from indoor environments consists of animal allergens , pollen , endotoxins , and other substances which may exacerbate symptoms in sensitive individuals .
+In prospective cohort studies , dust is often collected from indoor environments in order to assess allergen exposure and possible relationships to health outcomes .
+Typically , large numbers of samples are collected and kept frozen until further analysis , sometimes several years later .
+To date , there is insufficient knowledge about what happens to the dust and its contents during storage .
+OBJECTIVES In the present study , our aim was to analyze allergen content over a 30 month period frozen dust collected from beds in homes in order to simulate a study design of exposure assessment commonly used in epidemiological studies .
+METHODS Thirty-seven dust samples from mattresses in homes were collected using a Duststream dust collector .
+Each dust sample was subdivided into six aliquots .
+One tube ( baseline ) was extracted and analyzed for cat and house dust mite ( HDM ) allergen content using ELISA , all other tubes were stored at -80 °C until further handling .
+Approximately every six months ( 6 , 12 , 18 , and 30 months ) , dust from one tube was thawed , extracted and analyzed the same way .
+Data was log-transformed and analyzed using linear regression .
+RESULTS No trend for decreasing or increasing cat ( p = 0.606 ) or HDM ( p = 0.928 ) allergen levels could be observed over time .
+Levels of cat allergen were considerably higher in mattresses from homes with cats compared to homes without cats ( p < 0.001 ) .
+CONCLUSION It is important to assess the allergen stability in dust before designing costly and labor-intensive studies of allergen exposure and health outcomes , commonly used in environmental epidemiology .
+Although the present study showed that cat and HDM allergens remained stable in dust stored at -80 °C during a 2.5 year period , analyses of other allergens or substances in frozen dust and evaluating the effect of longer storage times is desirable .

@@ -1,0 +1,7 @@
+Exposure to metals , specifically cadmium , lead , and mercury , is widespread and is associated with reduced bone mineral density ( BMD ) in older populations , but the associations among premenopausal women are unclear .
+Therefore , we evaluated the relationship between these metals in blood and BMD ( whole body , total hip , lumbar spine , and non-dominant wrist ) quantified by dual energy X-ray absorptiometry in 248 premenopausal women , aged 18-44 .
+Participants were of normal body mass index ( mean BMI 24.1 ) , young ( mean age 27.4 ) , 60% were white , 20% non-Hispanic black , 15% Asian , and 6% other race group , and were from the Buffalo , New York region .
+The median ( interquartile range ) level of cadmium was 0.30 \u03bcg/l ( 0.19-0.43 ) , of lead was 0.86 \u03bcg/dl ( 0.68-1.20 ) , and of mercury was 1.10 \u03bcg/l ( 0.58-2.00 ) .
+BMD was treated both as a continuous variable in linear regression and dichotomized at the 10th percentile for logistic regression analyses .
+Mercury was associated with reduced odds of decreased lumbar spine BMD ( 0.66 , 95% confidence interval : 0.44 , 0.99 ) , but overall , metals at environmentally relevant levels of exposure were not associated with reduced BMD in this population of healthy , reproductive-aged women .
+Further research is needed to determine if the blood levels of cadmium , lead , and mercury in this population are sufficiently low that there is no substantive impact on bone , or if effects on bone can be expected only at older ages .

@@ -1,0 +1,9 @@
+OBJECTIVE We aimed to investigate whether the Prognos device might be a useful tool in the diagnosis of disorders suspected to be due to dental amalgam fillings .
+PARTICIPANTS AND METHODS A diagnostic case-control study was performed in 27 patients who complained about health problems attributed to amalgam ( cases ) , 27 healthy volunteers with amalgam fillings ( controls I ) , and 27 healthy amalgamfree volunteers ( controls II ) .
+All participants were tested before and after application of 300 mg DMPS ( 2.3-dimercapto- 1-propanesulfonic acid ) with Prognos , a diagnostic device for the energetic measurement of Traditional Chinese Medicine meridians .
+In addition , mercury was measured in blood , urine , and saliva , and a lymphocyte transformation test ( LTT ) was performed .
+RESULTS Diagnoses derived from the first and second Prognos testing did not agree above chance ( Cohen's Kappa = -0.11 , 95% confidence interval -0.33 to 0.10 ; p = 0.30 ) .
+Agreement for secondary outcome measures was poor , too .
+Prognos measurements did not differ between cases and controls .
+Correlations with measurements in urine , blood and saliva were low .
+CONCLUSION In this study Prognos could not be shown to be a useful tool in the diagnosis of disorders suspected to be due to dental amalgam fillings .

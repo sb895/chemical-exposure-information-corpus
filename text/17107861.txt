@@ -1,0 +1,15 @@
+BACKGROUND Research has shown associations between pediatric asthma outcomes and airborne particulate matter ( PM ) .
+The importance of particle components remains to be determined .
+METHODS We followed a panel of 45 schoolchildren with persistent asthma living in Southern California .
+Subjects were monitored over 10 days with offline fractional exhaled nitric oxide ( FeNO ) , a biomarker of airway inflammation .
+Personal active sampler exposures included continuous particulate matter < 2.5 microm in aerodynamic diameter ( PM2.5 ) , 24-hr PM2.5 elemental and organic carbon ( EC , OC ) , and 24-hr nitrogen dioxide .
+Ambient exposures included PM2.5 , PM2.5 EC and OC , and NO2 .
+Data were analyzed with mixed models controlling for personal temperature , humidity and 10-day period .
+RESULTS The strongest positive associations were between FeNO and 2-day average pollutant concentrations .
+Per interquartile range pollutant increase , these were : for 24 microg/m3 personal PM2.5 , 1.1 ppb FeNO [ 95% confidence interval ( CI ) , 0.1-1.9 ] ; for 0.6 microg/m3 personal EC , 0.7 ppb FeNO ( 95% CI , 0.3-1.1 ) ; for 17 ppb personal NO2 , 1.6 ppb FeNO ( 95% CI , 0.4-2.8 ) .
+Larger associations were found for ambient EC and smaller associations for ambient NO2 .
+Ambient PM2.5 and personal and ambient OC were significant only in subjects taking inhaled corticosteroids ( ICS ) alone .
+Subjects taking both ICS and antileukotrienes showed no significant associations .
+Distributed lag models showed personal PM2.5 in the preceding 5 hr was associated with FeNO .
+In two-pollutant models , the most robust associations were for personal and ambient EC and NO2 , and for personal but not ambient PM2.5 .
+CONCLUSION PM associations with airway inflammation in asthmatics may be missed using ambient particle mass , which may not sufficiently represent causal pollutant components from fossil fuel combustion .

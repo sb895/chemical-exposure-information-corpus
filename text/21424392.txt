@@ -1,0 +1,10 @@
+Boric acid and sodium borates have been considered as being " toxic to reproduction and development " , following results of animal studies with high doses .
+Experimentally , a NOAEL ( no observed adverse effect level ) of 17.5 mg B/kg-bw/day has been identified for the ( male ) reproductive effects of boron in a multigeneration study of rats , and a NOAEL for the developmental effects in rats was identified at 9.6 mg B/kg-bw/day .
+These values are being taken as the basis of current EU safety assessments .
+The present study was conducted to investigate the reproductive effects of boron exposure in workers employed in boric acid production plant in Bandirma , Turkey .
+In order to characterize the external and internal boron exposures , boron was determined in biological samples ( blood , urine , semen ) , in workplace air , in food , and in water sources .
+Unfavorable effects of boron exposure on the reproductive toxicity indicators ( concentration , motility , morphology of the sperm cells and blood levels of follicle-stimulating hormone ( FSH ) , luteinizing hormone ( LH ) , and total testosterone ) were not observed .
+The mean calculated daily boron exposure ( DBE ) of the highly exposed group was 14.45 ± 6.57 ( 3.32-35.62 ) mg/day .
+These human exposures represent worst-case exposure conditions to boric acid/borates in Turkey .
+These exposure levels are considerably lower than exposures , which have previously led to reproductive effects in experimental animals .
+In conclusion , this means that dose levels of boron associated with developmental and reproductive toxic effects in animals are by far not reachable for humans under conditions of normal handling and use .

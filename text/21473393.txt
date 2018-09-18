@@ -1,0 +1,12 @@
+AIM To investigate the relationships , if any , between elemental content of the placenta with age of mother birthweight and the Apgar scores of a neonate .
+METHODS Placental samples were collected , stored at -20 degrees C and then dried and analysed using neutron activation with the SLOWPOKE II reactor at the International Centre for Environmental and Nuclear Sciences ( ICENS ) .
+A questionnaire was administered at the time of delivery to determine the level of fish consumption , numbers of dental amalgam fillings and use of cough syrups .
+Placental concentrations of bromine , calcium , chlorine , iron , mercury , potassium , rubidium , selenium , sodium and zinc were determined .
+RESULTS The placentae of 52 Jamaican mothers with a mean age 29 years ( range 18-42 years ) delivering singleton neonates with a mean birthweight of 3.1 kg ( 1.3-5.5 kg ) at term were collected .
+With the exception of iron and bromine , all results for elemental determinations are very similar to those found elsewhere .
+Correlation was observed for Apgar 2 ( 5 minutes ) , calcium and zinc with birthweight , with p-values of 0.002 , 0.007 and 0.07 , respectively .
+Negative correlation was observed for the Apgar 2 and potassium ( p = 0.056 ) and age of mother at birth and bromine ( p = 0.02 ) .
+The mercury concentration in the measured placentae ( 7.29 +/- 9.1 microg/kg w/w ) was slightly lower than the mean concentration found in the literature ( 8 microg/kg w/w ) .
+Approximately 93% of the measured placentae in this study are below the derived placentae upper limit of 22 microg/kg .
+Of the 7% above the upper limit none exceeded the conservative estimated limit of 115 microg/kg at which neural developmental problems start .
+CONCLUSION The significant associations noted are of unknown clinical relevance and need further study .

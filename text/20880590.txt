@@ -1,0 +1,10 @@
+The widespread presence of perfluorooctanesulfonate ( PFOS ) , perfluorooctanoate ( PFOA ) , and perfluorohexanesulfonate ( PFHxS ) in human general populations and their slow elimination profiles have led to renewed interest in understanding the potential human neonatal exposures of perfluoroalkyls ( PFAs ) from consumption of human milk .
+The objective of this study was to evaluate the concentrations of PFOS , PFHxS , and PFOA in pooled human milk samples obtained in Sweden between 1972 and 2008 ( a period representing the most significant period of PFA production ) and to see whether the time trend of these analytes parallels that indicated in human serum .
+Chemical analysis of PFOS , PFHxS , and PFOA was performed on pooled Swedish human milk samples from 1972 to 2008 after methodological refinements .
+The 20 samples which formed the 2007 pool were also analyzed individually to evaluate sample variations .
+Analyses were performed by HPLC-MS/MS .
+Due to the complexities of the human milk matrix and the requirement to accurately quantitate low pg/mL concentrations , meticulous attention must be paid to background contamination if accurate results are to be obtained .
+PFOS was the predominant analyte present in the pools and all three analytes showed statistically significant increasing trends from 1972 to 2000 , with concentrations reaching a plateau in the 1990s .
+PFOA and PFOS showed statistically significant decreasing trends during 2001-2008 .
+At the end of the study , in 2008 , the measured concentrations of PFOS , PFHxS , and PFOA in pooled human milk were 75 pg/mL , 14 pg/mL , and 74 pg/mL , respectively .
+The temporal concentration trends of PFOS , PFHxS , and PFOA observed in human milk are parallel to those reported in the general population serum concentrations .

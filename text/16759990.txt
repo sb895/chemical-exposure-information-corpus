@@ -1,0 +1,9 @@
+We measured tumor-associated proteins ( TAPs ) and pollutants in blood , serum , and urine of 200 nonsmoking women 50-65 years of age , residing in the rural municipality of Peer or in Hoboken or Wilrijk , industrial suburbs of Antwerp , Belgium .
+Persons with occupational exposures or commuting to other towns were excluded .
+Residents from Hoboken had significantly higher levels of blood lead and serum zinc and polychlorinated biphenyls .
+Surprisingly , residents of Peer had significantly higher levels of serum cadmium , dioxin-like activity in blood fat , and urinary 1-hydroxypyrene .
+For 5 of the 12 TAPs assessed in this study , we observed significant differences in serum levels among residents of the three municipalities after adjusting for personal or lifestyle parameters .
+Although we found levels of internal exposure to pollutants to be quite homogeneous in Flanders , we found significantly higher levels of TAPs only in the industrial suburbs .
+In multiple regression with all 29 available personal , lifestyle , and internal exposure parameters , blood lead levels showed a positive association with serum levels of anti-p53 , carcino-embryonic antigen ( CEA ) , and tissue polypeptide-specific antigen ( TPS ) and with an index for mean TAP level ( I(tap) ) ; dioxin-like activity in serum and serum copper showed a positive association with serum CA 125 ( cancer antigen 125 ) ; and serum zinc showed a positive association with serum levels of c-erbB-2 ectodomain and TPS .
+An index of internal exposure showed a positive association with serum levels of both CEA and anti-p53 and with I(tap) .
+This study provides some evidence that levels of internal exposure such as those present in Flanders , in particular concerning lead , are indeed associated with biologic effects .

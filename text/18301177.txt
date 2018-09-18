@@ -1,0 +1,9 @@
+OBJECTIVE Exposure to pollutants would adversely affect lung function of healthy athletes .
+METHODS Pulmonary function was recorded on beach lifeguards at three different times during the day .
+Daily and average peak pollutant levels were calculated .
+Linear regression analyses were made comparing lung function changes in response to pollutant levels .
+A multivariate model was constructed to explain the combined effects of pollutants .
+RESULTS Afternoon forced vital capacity ( FVC ) and forced expired volume in 1 second ( FEV1 ) decreased significantly compared with morning values and decreased with increasing fine particulates ( PM2.5 ) .
+FEV1/FVC decreased with increasing ozone ( O3 ) levels .
+CONCLUSION The deleterious effect of PM2.5 and O3 were transient and occurred at pollutant levels far below national standards .
+At low levels of exposure , PM2.5 was associated with reduced lung volumes , while increasing O3 levels were associated with airway obstruction .

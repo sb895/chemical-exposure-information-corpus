@@ -1,0 +1,11 @@
+BACKGROUND Di(2-ethylhexyl) phthalate ( DEHP ) , used primarily as a plasticizer for polyvinyl chloride , is found in a variety of products .
+Previous studies have quantified human exposure by back calculating intakes based on DEHP metabolite concentrations in urine and by determining concentrations of DEHP in exposure media ( e.g. , air , food , dust ) .
+OBJECTIVES To better understand the timing and extent of DEHP exposure , we used a simple pharmacokinetic model to " reconstruct " the DEHP dose responsible for the presence of DEHP metabolites in urine .
+METHODS We analyzed urine samples from eight adults for four DEHP metabolites [ mono(2-ethylhexyl) phthalate , mono(2-ethyl-5-hydroxyhexyl) phthalate , mono(2-ethyl-5-oxohexyl) phthalate , and mono(2-ethyl-5-carboxypentyl) phthalate ] .
+Participants provided full volumes of all voids over 1 week and recorded the time of each void and information on diet , driving , and outdoor activities .
+Using a model previously calibrated on a single person self-dosed with DEHP in conjunction with the eight participants ' data , we used a simple trial-and-error method to determine times and doses of DEHP that resulted in a best fit of predicted and observed urinary concentrations of the metabolites .
+RESULTS The average daily mean and median reconstructed DEHP doses were 10.9 and 5.0 µg/kg-day , respectively .
+The highest single modeled dose of 60 µg/kg occurred when one study participant reported consuming coffee and a bagel with egg and sausage that was purchased at a gas station .
+About two-thirds of all modeled intake events occurred near the time of reported food or beverage consumption .
+Twenty percent of the modeled DEHP exposure occurred between 2200 hours and 0500 hours .
+CONCLUSIONS Dose reconstruction using pharmacokinetic models-in conjunction with biomonitoring data , diary information , and other related data-can provide a powerful means to define timing , magnitude , and possible sources of exposure to a given contaminant .

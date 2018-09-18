@@ -1,0 +1,8 @@
+Hexachlorobenzene ( HCB ) was measured in adipose tissue intraoperatively collected from 387 subjects over 16 years old undergoing surgery in two hospitals in Granada ( Southern Spain ) .
+HCB was quantified in 90.7% of subjects .
+The concentrations and frequencies of HCB were similar to those reported in adipose tissue samples in other recent European studies .
+Exposure patterns differed between females and males : higher HCB concentrations were found in females than in males ( geometric mean 18.3 vs. 6.8 ng/g , p<0.001 ) .
+The relationship between HCB concentrations and exposure risk factors was assessed by multivariate analysis stratifying by gender .
+In men , HCB concentrations were predicted ( r(2)=0.45 ) by age , body mass index ( BMI ) , place of residence , smoking , consumption of fish , chicken and cheese , occupation related to agriculture , and family involvement in construction activities .
+In women , HCB concentrations were predicted ( r(2)=0.50 ) by age , BMI , consumption of milk and cheese , and occupation related to industry .
+The finding that women had three-fold higher levels of HCB than the men deserves further investigation .

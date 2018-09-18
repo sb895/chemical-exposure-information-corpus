@@ -1,0 +1,8 @@
+Arsenic is a known carcinogen , but data are especially lacking on the health effects of low-level exposure , and on the health significance of methylation ability .
+We conducted a case-control study ( 76 cases and 224 controls from 1996 to 1999 ) in southwestern Taiwan to explore the association among primary and secondary arsenic methylation index ( PMI and SMI , respectively ) , cumulative arsenic exposure ( CAE ) , and the risk of skin cancer .
+As compared with the controls , the skin cancer group reported more sun exposure ( P = 0.02 ) and had a lower BMI ( P = 0.03 ) , as well as lower education level ( P = 0.01 ) .
+Skin cancer patients and controls were similar with regard to age , gender , smoking and alcohol consumption .
+Given a low SMI ( < or = 5 ) , CAE > 15 mg/L-year was associated with an increased risk of skin cancer ( OR , 7.48 ; 95% CI , 1.65-33.99 ) compared to a CAE < or = 2 mg/L-year .
+Given the same level of PMI , SMI , and CAE , men had a higher risk of skin cancer ( OR , 4.04 ; 95% CI , 1.46-11.22 ) when compared to women .
+Subjects with low SMI and high CAE have a substantially increased risk of skin cancer .
+Males in all strata of arsenic exposure and methylation ability had a higher risk of skin cancer than women .

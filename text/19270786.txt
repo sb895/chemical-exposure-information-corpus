@@ -1,0 +1,10 @@
+BACKGROUND Widespread human exposure to phthalates , some of which are developmental and reproductive toxicants in experimental animals , raises concerns about potential human health risks .
+Underappreciated sources of exposure include phthalates in the polymers coating some oral medications .
+OBJECTIVE The objective of this study was to evaluate whether users of phthalate-containing medications have higher urinary concentrations of phthalate metabolites than do nonusers .
+METHODS We used publically available files from the National Health and Nutrition Examination Survey for the years 1999-2004 .
+For certain survey periods , participants were asked to recall use of prescription medication during the past 30 days , and for a subsample of individuals , the urinary concentrations of phthalate metabolites were measured .
+We a priori identified medications potentially containing phthalates as inactive ingredients and then compared the mean urinary concentration of phthalate metabolites between users and nonusers of those medications .
+RESULTS Of the 7,999 persons with information on urinary phthalate concentrations , 6 reported using mesalamine formulations , some of which may include dibutyl phthalate ( DBP ) ; the mean urinary concentration of monobutyl phthalate , the main DBP metabolite , among these mesalamine users was 50 times higher than the mean for nonusers ( 2,257 microg/L vs. 46 microg/L ; p < 0.0001 ) .
+Users of didanosine , omeprazole , and theophylline products , some of which may contain diethyl phthalate ( DEP ) , had mean urinary concentrations of monoethyl phthalate , the main DEP metabolite , significantly higher than the mean for nonusers .
+CONCLUSION Select medications might be a source of high exposure to some phthalates , one of which , DBP , shows adverse developmental and reproductive effects in laboratory animals .
+These results raise concern about potential human health risks , specifically among vulnerable segments of the general population and particularly pregnant women and children .

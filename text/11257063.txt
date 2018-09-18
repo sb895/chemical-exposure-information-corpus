@@ -1,0 +1,7 @@
+Arsenic is a known carcinogen specifically linked to skin cancer occurrence in regions with highly contaminated drinking water or in individuals who took arsenic-containing medicines .
+Presently , it is unknown whether such effects occur at environmental levels found in the United States .
+To address this question , the authors used data collected on 587 basal cell and 284 squamous cell skin cancer cases and 524 controls interviewed as part of a case-control study conducted in New Hampshire between 1993 and 1996 .
+Arsenic was determined in toenail clippings using instrumental neutron activation analysis .
+The odds ratios for squamous cell carcinoma ( SCC ) and basal cell carcinoma ( BCC ) were close to unity in all but the highest category .
+Among individuals with toenail arsenic concentrations above the 97th percentile , the adjusted odds ratios were 2.07 ( 95% confidence interval ( CI ) : 0.92 , 4.66 ) for SCC and 1.44 ( 95% CI : 0.74 , 2.81 ) for BCC , compared with those with concentrations at or below the median .
+While the risks of SCC and BCC did not appear elevated at the toenail arsenic concentrations detected in most study subjects , the authors cannot exclude the possibility of a dose-related increase at the highest levels of exposure experienced in the New Hampshire population .

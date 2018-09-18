@@ -1,0 +1,10 @@
+The risk estimates calculated from the conventional risk assessment method usually are compound specific and provide limited information for source-specific air quality control .
+We used a risk apportionment approach , which is a combination of receptor modeling and risk assessment , to estimate source-specific lifetime excess cancer risks of selected hazardous air pollutants .
+We analyzed the speciated PM(2.5) and VOCs data collected at the Beacon Hill in Seattle , WA between 2000 and 2004 with the Multilinear Engine to first quantify source contributions to the mixture of hazardous air pollutants ( HAPs ) in terms of mass concentrations .
+The cancer risk from exposure to each source was then calculated as the sum of all available species ' cancer risks in the source feature .
+We also adopted the bootstrapping technique for the uncertainty analysis .
+The results showed that the overall cancer risk was 6.09 x 10(-5) , with the background ( 1.61 x 10(-5) ) , diesel ( 9.82 x 10(-6) ) and wood burning ( 9.45 x 10(-6) ) sources being the primary risk sources .
+The PM(2.5) mass concentration contributed 20% of the total risk .
+The 5th percentile of the risk estimates of all sources other than marine and soil were higher than 110(-6) .
+It was also found that the diesel and wood burning sources presented similar cancer risks although the diesel exhaust contributed less to the PM(2.5) mass concentration than the wood burning .
+This highlights the additional value from such a risk apportionment approach that could be utilized for prioritizing control strategies to reduce the highest population health risks from exposure to HAPs .

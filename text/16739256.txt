@@ -1,0 +1,7 @@
+Reference values for environmental pollutants in the German population are established continuously by the Human Biomonitoring Commission of the German Federal Environmental Agency .
+The reference values ( defined as 95th percentile ) are usually derived from results of the German Environmental Surveys ( GerES ) .
+However , current reference values for children are lacking since GerES II conducted in 1990/92 and additionally the first German Environmental Survey on Children ( GerES IV ) will not be finished until the end of 2006 .
+As an interim solution , the commission derived in 2005 reference values for children aged 6-12 years from a survey performed in south-west Germany in 2002/03 ( 508 children ) and the pilot study for GerES IV 2001/2002 ( 252 children ) .
+A new reference value of 15 microg/l for children was derived for arsenic in urine .
+The reference values for cadmium in whole blood ( 0.5 microg/l ) and for cadmium in urine ( 0.5 microg/l ) were confirmed .
+The following reference values were lowered : for lead in blood from 60 to 50 microg/l , for mercury in whole blood from 1.5 to 1.0 microg/l and for mercury in urine from 1.4 to 0.7 microg/l .

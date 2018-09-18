@@ -1,0 +1,12 @@
+Environmental and occupational exposure to lead ( Pb ) remains to be a major public health issue .
+The purpose of this cross-sectional study was to use non-invasive magnetic resonance imaging ( MRI ) and proton magnetic resonance spectroscopy ( (1)H MRS ) techniques to investigate whether chronic exposure to Pb in an occupational setting altered brain structure and function of Pb-exposed workers .
+The Pb-exposed group consisted of 15 workers recruited from either a Pb-smelting factory or a Pb-battery manufacturer .
+The control group had 19 healthy volunteers who had no history of Pb exposure in working environment or at home .
+The average airborne Pb concentrations in fume and dust were 0.43 and 0.44 mg/m(3) , respectively , in the smeltery , and 0.10 and 1.06 mg/m(3) , respectively , in the Pb battery workshop .
+The average blood Pb concentrations ( BPb ) in Pb-exposed and control workers were 63.5 and 8.7 microg/dL , respectively .
+The MRI examination showed that brain hippocampal volume among Pb-exposed workers was significantly diminished in comparison to age-matched control subjects ( p < 0.01 ) , although the extent of this reduction was relatively small ( 5-6% of the control values ) .
+Linear regression analyses revealed significant inverse associations between BPb and the decreased hippocampal volume on both sides of brain hemisphere .
+Among five brain metabolites investigated by MRS , i.e. , N-acetyl-aspartate ( NAA ) , creatine ( Cr ) , choline ( Cho ) , inosine ( mI ) , glutamate/glutamine ( Glx ) and lipids ( Lip ) , a significant decrease in NAA/Cr ratio ( 7% of controls , p < 0.05 ) and a remarkable increase in Lip/Cr ratio ( 40% , p < 0.01 ) were observed in the brains of Pb-exposed workers as compared to controls .
+Furthermore , the increased Lip/Cr ratio was significantly associated with BPb ( r = 0.46 , p < 0.01 ) .
+Taken together , this study suggests that occupational exposure to Pb may cause subtle structural and functional alteration in human brains .
+The MRI and MRS brain imaging techniques can be used as the non-invasive means to evaluate Pb-induced neurotoxicity .

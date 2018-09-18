@@ -1,0 +1,14 @@
+Human biomonitoring is an important tool for the evaluation of environmental exposure to contaminants .
+The data that are obtained from these studies might be compared to appropriate reference values ( RVs ) in a specific population .
+The RVs were derived from the rounded values of the upper limit of the 95th confidence interval of the 95th percentile for lead ( Pb ) , cadmium ( Cd ) and mercury ( Hg ) in blood from adults in the metropolitan area of Sao Paulo ( MASP ) , Brazil to investigate the association between blood metals and sociodemographic and lifestyle factors .
+Blood samples from 653 nonsmoking blood donors without occupational exposure to the studied metals were collected in 2006 .
+Our evaluations distinguished a younger group ( 18-39 years ) and an older group ( 40-65 years ) .
+RVs in the younger group were 60 \u03bcgPb/L and 4 \u03bcgHg/L for men and 47 \u03bcgPb/L and 4 \u03bcgHg/L for women .
+RVs in the older group were 80 \u03bcgPb/L and 5 \u03bcgHg/L for men and 63 \u03bcgPb/L and 6 \u03bcgHg/L for women .
+The RV for Cd was 0.6 \u03bcg/L for adults aged 18-65 years .
+Pb and Cd levels demonstrated a significant association with sex and age .
+Male blood contained 50% more Pb , and the older group exhibited 23% more Pb .
+Fish consumption and amalgam fillings were primarily related to Hg levels .
+RVs for lead were similar to the Czech Republic and Germany but higher than the US population .
+The RV for Cd in Brazil was well below the RVs of these countries .
+The RVs for Hg in Brazil were similar to the US but higher than Germany and the Czech Republic .

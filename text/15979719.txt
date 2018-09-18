@@ -1,0 +1,12 @@
+Assessment of airborne organophosphorus pesticides in houses of young children ( 1-6 years old ) and childcare facilities was conducted following pesticide applications in an agricultural community in Japan .
+Trichlorfon and fenitrothion , applied in two separate periods , were frequently detected from outdoor and indoor air .
+Dichlorvos , the primary degradation product of trichlorfon , was also detected after the application of trichlorfon .
+Both the outdoors and indoor concentration of applied pesticide were shown to increase with decreasing distance from the pesticide-applied farm .
+Indoor concentration of these pesticides significantly correlated with outdoor concentration ( p=0.001 for trichlorfon and p=0.001 for fenitrothion ) , indicating infiltration of applied pesticide inside .
+Ratio of indoor to outdoor concentration ( I/O ratio ) of fenitrothion was higher for houses with windows open during the application than those with closed windows ( median value : 0.74 vs. 0.16 , p=0.003 ) .
+However , a similar trend was not observed for trichlorfon as well as dichlorvos in the first period .
+Dichlorvos was found to have a higher I/O ratio than trichlorfon during the period , and clear correlation between indoor concentrations of dichlorvos and those of trichlorfon suggested increased decomposition of trichlorfon in the indoor environment .
+Daily inhalation exposure estimated by using the fixed measurement data and time-activity questionnaire ranged from 0 to 35 ng/kg/day for trichlorfon , from 0 to 26 ng/kg/day for dichlorvos , and from 0 to 44 ng/kg/day for fenitrothion .
+Median inhalation exposure from indoor air accounted for 74% , 86.3% , and 45% of the daily inhalation exposure , respectively .
+For kindergarteners or nursery school children , inhalation exposure at childcare facilities was comparable with or more than that at home , indicating that pollution level at childcare facilities had potential of high impact on children's exposure .
+Estimated daily inhalation exposures were inversely correlated to the proximity of their activity location to the pesticide-applied farm .

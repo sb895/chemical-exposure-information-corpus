@@ -1,0 +1,14 @@
+BACKGROUND Synoptic circulation patterns ( large-scale weather systems ) affect ambient levels of air pollution , as well as the relationship between air pollution and human health .
+OBJECTIVE To investigate the air pollution-mortality relationship within weather types and seasons , and to determine which combination of atmospheric conditions may pose increased health threats in the elderly age categories .
+METHODS The relative risk of mortality ( RR ) due to air pollution was examined using Poisson generalized linear models ( GLMs ) within specific weather types .
+Analysis was completed by weather type and age group ( all ages , \u226464 , 65-74 , 75-84 , \u226585 years ) in ten Canadian cities from 1981 to 1999 .
+RESULTS There was significant modification of RR by weather type and age .
+When examining the entire population , weather type was shown to have the greatest modifying effect on the risk of dying due to ozone ( O3 ) .
+This effect was highest on average for the dry tropical ( DT ) weather type , with the all-age RR of mortality at a population weighted mean ( PWM ) found to be 1.055 ( 95% CI 1.026-1.085 ) .
+All-weather type risk estimates increased with age due to exposure to carbon monoxide ( CO ) , nitrogen dioxide ( NO2 ) , and sulphur dioxide ( SO2 ) .
+On average , RR increased by 2.6 , 3.8 and 1.5% for the respective pollutants between the \u226464 and \u226585 age categories .
+Conversely , mean ozone estimates remained relatively consistent with age .
+Elevated levels of air pollution were found to be detrimental to the health of elderly individuals for all weather types .
+However , the entire population was negatively effected by air pollution on the hot dry ( DT ) and hot humid ( MT ) days .
+CONCLUSIONS We identified a significant modification of RR for mortality due to air pollution by age , which is enhanced under specific weather types .
+Efforts should be targeted at minimizing pollutant exposure to the elderly and/or all age groups with respect to weather type in question .

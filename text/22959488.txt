@@ -1,0 +1,15 @@
+BACKGROUND Epidemiological evidence suggests a negative impact of methylmercury ( MeHg ) on cardiovascular risk factors such as blood pressure ( BP ) and heart rate ( HR ) .
+This issue is of concern in Arctic populations such as in the Inuit of Nunavik since this contaminant is accumulated in fish and marine mammals , which still represent the subsistence diet of this population .
+OBJECTIVE We examined the associations between MeHg and BP and resting HR among Inuit adults .
+METHODS The " Santé Quebec " health survey was conducted in 1992 in the 14 villages of Nunavik and a complete set of data was obtained for 313 Inuit adults\u226518 years .
+Blood samples were collected in order to determine total mercury , lead , total polychlorinated biphenyls ( PCBs ) , n-3 polyunsaturated fatty acids ( PUFAs ) , fasting glucose and lipid profile while socio-demographic variables were obtained through questionnaires .
+Anthropometric measurements as well as BP and resting HR were obtained using standardised protocols .
+Pulse pressure ( PP : systolic BP minus diastolic BP ) was also calculated .
+Multiple linear regression was used in order to determine the change in the dependent variables associated with the quartiles of MeHg concentration , taking the quartile 1 as reference .
+RESULTS The mean age of the participants was 38±14 years and the sample was composed of 132 men ( 42.2% ) and 181 women ( 57.8% ) .
+MeHg geometric mean was 15.4 \u03bcg/L ( 95%CI : 13.9-17.0 ) and levels ranged from 0.8 to 112.0 \u03bcg/L .
+Resting HR increased linearly across quartiles of blood MeHg concentration after adjusting for confounders ( p for trend=0.02 ) .
+An increase of 6.9 beats per minute ( bpm ) between the 4th and 1st quartile was observed after adjusting for confounders .
+No significant association was observed between blood MeHg and systolic BP , diastolic BP or PP .
+CONCLUSIONS MeHg was associated with increasing resting HR after considering traditional risk factors as well as other contaminants ( lead and total PCBs ) and n-3 PUFAs .
+In contrast , no significant association with blood pressure was observed in this study .

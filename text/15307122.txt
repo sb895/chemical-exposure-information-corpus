@@ -1,0 +1,8 @@
+BACKGROUND Jet propulsion fuel-8 ( JP-8 ) is one of the largest sources of chemical exposures among Air Force personnel .
+Urinary naphthols have been suggested as useful biomarkers of exposure to JP-8 .
+METHODS Multivariate linear regression models were applied to evaluate the effects of environmental and work-related factors upon production of urinary naphthols among 323 Air Force personnel .
+RESULTS Naphthalene exposure , smoking status , and their interaction , plus self-reported skin irritation explained about two-thirds of the variation in naphthol levels .
+The exposure-smoking interaction was consistent with induction by smoking of one or more steps in the metabolism of naphthalene and naphthalene-1,2-oxide ( NapO ) .
+A supralinear dose-response relationship was observed between urinary naphthols and naphthalene exposure .
+CONCLUSIONS Urinary naphthols were associated with specific sources of exposure to JP-8 , arising from both inhalation and dermal contact .
+Smokers and nonsmokers metabolized naphthalene at different rates , consistent with induction of at least two metabolic pathways by smoking .

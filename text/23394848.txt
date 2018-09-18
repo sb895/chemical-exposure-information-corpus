@@ -1,0 +1,13 @@
+In the study presented here , we evaluated the exposure of the German population aged 14-80 years to bis(2-ethylhexyl)phthalate ( DEHP ) from consumption of food by means of deterministic and probabilistic estimations .
+The study was performed on the basis of an extensive review of literature from around the world reporting measured data on DEHP in food , as well as official German food control data .
+Only data from individual measurements were considered and used for fitting of distributions .
+A wide range of concentrations in non-representative samples are reported in the literature .
+On the basis of the available DEHP concentration data , 37 food categories were characterized which covered all major food classes .
+Food consumption data were taken from the diet history interviews of the German National Nutrition Survey II ( Nationale Verzehrsstudie II ) which was performed in 2005/2006 in a representative study population of 15,371 and is the most recent data source of this kind in Germany .
+Average DEHP intake was estimated deterministically using data on measured concentrations in food ( medians and means ) and food consumption ( means ) .
+A total dietary exposure to DEHP of 3.6 ( median based ) and 9.3\u03bcg/kg of BW per day ( based on mean values ) was estimated deterministically .
+In addition , distributions of both concentrations and consumption figures were fitted using the @RISK best fit tool for further probabilistic estimations .
+This approach resulted in estimates within the same range : the estimated median DEHP intake in the whole population ( both non-consumers and consumers of the foods considered ) was 10.2 , the arithmetic mean 14.0 and the 95th percentile 28.6\u03bcg/kg of BW per day .
+The respective estimates for consumers only were 12.4 , 18.7 and 36.5\u03bcg/kg of BW per day .
+These results demonstrate that the probabilistic approach is able to estimate broader ranges of exposure even when using data representing an average intake .
+Moreover , it reflects the uncertainties of the estimation due to insufficient analytical data on concentrations of DEHP in food .

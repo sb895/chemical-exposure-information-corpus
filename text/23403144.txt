@@ -1,0 +1,8 @@
+Asian dust storm ( ADS ) events have raised concerns regarding their adverse impact on human health .
+Whether ADS events can result in the heterogeneity of health impacts on children across space and time has not been studied .
+The goal of this study is to examine the spatial vulnerability impact of ADS events on children's respiratory health geographically and to analyze any patterns related to ADS episodes .
+From 1998 to 2007 , data from both preschool children's and schoolchildren's daily respiratory clinic visits , gathered from patients located in 41 districts of Taipei City and New Taipei City , are analyzed in a Bayesian spatiotemporal model in order to investigate the interaction between spatial effects and ADS episodes .
+When adjusting for the temporal effect , air pollutants , and temperature , the spatial pattern explicitly varies during defined study periods : non-ADS periods , ADS periods , and post-ADS periods .
+Compared to non-ADS periods , the relative rate of children's respiratory clinic visits significantly reduced 0.74 to 0.99 times in most districts during ADS periods , while the relative rate rose from 1.01 to 1.11 times in more than half of districts during post-ADS periods , especially in schoolchildren .
+This spatial vulnerability denotes that the significantly increased relative rate of respiratory clinic visits during post-ADS periods is primarily located in highly urbanized areas for both children's populations .
+Hence , the results of this study suggest that schoolchildren are particularly more vulnerable to the health impacts of ADS exposure in terms of higher excessive risks over a larger spatial extent than preschool children , especially during post-ADS periods .

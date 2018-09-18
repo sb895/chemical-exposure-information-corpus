@@ -1,0 +1,11 @@
+BACKGROUND Global DNA methylation levels have been reported to be inversely associated with blood levels of persistent organic pollutants ( POPs ) , xenobiotics that accumulate in adipose tissue .
+Whether these associations extend to a population with much lower concentrations of POPs is not known .
+OBJECTIVES This study was performed to examine whether low-dose exposure to POPs was associated with global DNA hypomethylation in Koreans .
+METHODS The amount of global DNA hypomethylation was estimated by the percent 5-methyl-cytosine ( %5-mC ) in Alu and LINE-1 assays in 86 apparently healthy Koreans .
+Among various POPs , organochlorine ( OC ) pesticides , polychlorinated biphenyls ( PCBs ) , and polybrominated diphenylethers ( PBDEs ) were measured .
+RESULTS Most OC pesticides were inversely and significantly associated with %5-mC in the Alu assay , with correlation coefficients in the range 0.2 to 0.3 after adjusting for age , sex , body mass index , smoking , and alcohol .
+The strongest OC pesticide associations with %5-mC in the Alu assay were observed with oxychlordane , trans-nonachlor , and p,p -dichlorodiphenyldichloroethylene .
+The correlation coefficient of age with %5-mC in the Alu assay was 0.24 , similar to correlations of OC pesticides with %5-mC in the Alu assay .
+Most PCBs and PBDEs showed nonsignificant inverse trends with %5-mC in the Alu assay , but for some PCBs the U-shaped association was significant .
+On the other hand , POPs were not associated with %5-mC in the LINE-1 assay .
+CONCLUSIONS We found that low-dose exposure to POPs , in particular OC pesticides , was associated with global DNA hypomethylation in apparently healthy Koreans .

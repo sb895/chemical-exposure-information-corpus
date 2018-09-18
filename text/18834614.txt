@@ -1,0 +1,9 @@
+The exposure of humans to perfluorooctane sulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) was quantified with emphasis on assessing the relative importance of metabolic transformation of precursor compounds .
+A Scenario-Based Risk Assessment ( SceBRA ) approach was used to model the exposure to these compounds from a variety of different pathways , the uptake into the human body and resulting daily doses .
+To capture the physiological and behavioral differences of age and gender , the exposure and resulting doses for seven consumer groups were calculated .
+The estimated chronic doses of a general population of an industrialized country range from 3.9 to 520 ng/(kg day ) and 0.3 to 140 ng/(kg day ) for PFOS and PFOA , respectively .
+The relative importance of precursor-based doses of PFOS and PFOA was estimated to be 2-5% and 2-8% in an intermediate scenario and 60-80% and 28-55% in a high-exposure scenario .
+This indicates that sub groups of the population may receive a substantial part of the PFOS and PFOA doses from precursor compounds , even though they are of low importance for the general population .
+Similar to a preceding study , uptake of perfluorinated acids from contaminated food and drinking water was identified as the most important pathway of exposure for the general population .
+The biotransformation yields of telomer-based precursors and to a lesser extent perfluorooctanesulfonylfluoride-based precursors were identified as influential parameters in the uncertainty analysis .
+Fast food consumption and fraction of food packaging paper treated with PFCs were influential parameters for determining the doses of PFOA .

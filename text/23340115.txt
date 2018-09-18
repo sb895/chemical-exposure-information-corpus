@@ -1,0 +1,11 @@
+BACKGROUND Groundwater , surface water and drinking water are contaminated by nitrates and atrazine , an herbicide .
+They are present as a mixture in drinking water and with their endocrine-disrupting activity , they may alter fetal growth .
+OBJECTIVES To study an association between drinking-water atrazine metabolites/nitrate mixture exposure and small-for-gestational-age(SGA) .
+METHODS A historic cohort study based on birth records and drinking-water nitrate and pesticide measurements in Deux-Sèvres ( France ) between 2005 and 2009 was carried out .
+Exposure to drinking-water atrazine metabolites/nitrate mixture was divided into 6 classes according to the presence or absence of atrazine metabolites and to terciles of nitrate concentrations in each trimester of pregnancy .
+Regression analysis of SGA by mixture exposure at second trimester was subsequently conducted .
+RESULTS We included 11,446 woman-neonate couples of whom 37.0% were exposed to pesticides , while 99.9% of the women were exposed to nitrates .
+Average nitrate concentration was from 0 to 63.30 mg/L .
+In the second trimester of pregnancy , the risk of SGA was different with mixture exposure when drinking-water atrazine metabolites , mainly 2 hydroxyatrazine and desethylatrazine , were present and nitrate dose exposure increased : compared to single first tercile of nitrate concentration exposure , single second tercile exposure OR was 1.74 CI 95% [ 1.10 ; 2.75 ] and atrazine metabolites presence in the third tercile of nitrate concentration exposure OR was 0.87 CI 95% [ 0.45;1.67 ] .
+CONCLUSIONS It is possible that the association found at the second trimester of exposure with regard to birth weight may likewise be observed before birth , with regard to the estimated fetal weight , and that it might change in the event that the atrazine metabolites dose were higher or the nitrate dose lower .
+It would appear necessary to further explore the variability of effects .

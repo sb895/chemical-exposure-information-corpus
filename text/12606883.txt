@@ -1,0 +1,11 @@
+BACKGROUND Over 6 million people live in areas of West Bengal , India , where groundwater sources are contaminated with naturally occurring arsenic .
+The key objective of this nested case-control study was to characterize the dose-response relation between low arsenic concentrations in drinking water and arsenic-induced skin keratoses and hyperpigmentation .
+METHODS We selected cases ( persons with arsenic-induced skin lesions ) and age- and sex-matched controls from participants in a 1995-1996 cross-sectional survey in West Bengal .
+We used a detailed assessment of arsenic exposure that covered at least 20 years .
+Participants were reexamined between 1998 and 2000 .
+Consensus agreement by four physicians reviewing the skin lesion photographs confirmed the diagnosis in 87% of cases clinically diagnosed in the field .
+RESULTS The average peak arsenic concentration in drinking water was 325 microg/liter for cases and 180 microg/liter for controls .
+The average latency for skin lesions was 23 years from first exposure .
+We found strong dose-response gradients with both peak and average arsenic water concentrations .
+CONCLUSIONS The lowest peak arsenic ingested by a confirmed case was 115 microg/liter .
+Confirmation of case diagnosis and intensive longitudinal exposure assessment provide the basis for a detailed dose-response evaluation of arsenic-caused skin lesions .

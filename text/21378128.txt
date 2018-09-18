@@ -1,0 +1,8 @@
+Inorganic arsenic is metabolized to monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) .
+Limited evidence suggests that the ability to fully metabolize arsenic into DMA influences susceptibility to disease .
+To determine whether percentage of MMA was predictive of disease , the authors used data from a case-control study conducted in Bangladesh ( 2001-2003 ) .
+Persons who were diagnosed with keratosis , melanosis , Bowen's disease , or squamous cell carcinoma were matched on age , sex , and village to persons without these conditions .
+This analysis was restricted to persons who had no missing data on covariates ( 859 cases , 868 controls ) .
+A path analysis was used to evaluate simultaneously the association between the percentage of all urinary arsenic metabolites and the odds of skin lesions using PROC CALIS in SAS , version 9.1 ( SAS Institute , Inc. , Cary , North Carolina ) and Mplus , version 6.1 ( Muthén & Muthén , Los Angeles , California ) .
+The odds of skin lesions were significantly associated with log(10) percentage of MMA ( adjusted odds ratio ( OR(adj) ) = 1.56 , 95% confidence interval ( CI ) : 1.15 , 2.12 ) but not log(10) percentage of inorganic arsenic ( OR(adj) = 1.06 , 95% CI : 0.75 , 1.50 ) or log(10) percentage of DMA ( OR(adj) = 1.07 , 95% CI : 0.33 , 3.46 ) .
+This novel analysis confirmed that persons who excrete a higher proportion of MMA have a greater risk of skin lesions after data are adequately controlled for urinary arsenic metabolites , current arsenic exposure , and other risk factors .

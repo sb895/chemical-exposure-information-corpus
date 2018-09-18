@@ -1,0 +1,11 @@
+Lead , cadmium and arsenic represent well recognized toxic agents which in a specific manner disturb function of cardiovascular system .
+Cystatin C has been accepted to be a significant prognostic factor for cardiovascular diseases .
+The study aimed at defining relationship between occupational exposure to lead , cadmium and arsenic on one hand and concentration of cystatin C on the other .
+The studies were performed on 282 men occupationally exposed to lead , cadmium and arsenic .
+Among the tested individuals several groups of persons were distinguished : exposed exclusively to lead ( Pb group ) , cadmium ( Cd group ) , arsenic ( As group ) , to lead and cadmium ( Pb/Cd group ) , to lead and arsenic ( Pb/As group ) or to cadmium and arsenic ( Cd/As group ) .
+In all the individuals serum concentration of cystatin C was estimated .
+Concentration of cystatin C was found to be significantly higher in Pb group than in Cd and As groups , also in Pb/Cd group higher than in Cd group and in Pb/As group than in As group .
+Positive linear correlations were established between Pb concentration in blood ( Pb-B ) and serum concentration of cystatin C ( r=0.59 ; p<0.05 ) as well as between urinary concentration of As ( As-U ) and serum concentration of cystatin C ( r=0.41 ; p<0.05 ) .
+Regression analysis demonstrated that higher blood level of lead , higher urinary level of arsenic , more advanced age and higher body mass index represented independent risk factors of an increased serum concentration of cystatin C in the group of persons exposed to lead , cadmium and arsenic .
+Conclusions : Higher blood level of lead and higher urinary level of arsenic represented independent risk factors of an increased serum concentration of cystatin C in the group of persons occupationally exposed to lead , cadmium and arsenic .
+Concentration of lead in blood was significantly influencing serum concentration of cystatin C. The highest mean serum concentration of cystatin C was detected in the group of foundry workers exposed simultaneously to lead and arsenic .

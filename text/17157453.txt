@@ -1,0 +1,14 @@
+Urban air pollution resulting from traffic is a major problem in many cities in Asia , including Bangkok , Thailand .
+This pollution originates mainly from incomplete fossil fuel combustion , e.g. transportation , and the composition of which is very complex .
+Some of the compounds are carcinogenic in experimental animals and in man .
+Polycyclic aromatic hydrocarbons ( PAHs ) and benzene are among the major carcinogenic compounds found in urban air pollution from motor vehicle emissions .
+In major cities in Asia , the levels of PAHs and benzene are relatively high compared with those in Europe or in the United States and thus people are exposed to higher levels .
+Biomarkers of exposure and early biological effects have been used to study the potential health effects of exposure to PAHs and benzene in air pollution in school children attending schools in inner-city Bangkok compared to those attending schools in rural areas .
+Bangkok school children are exposed to total PAHs at levels 3.5-fold higher than those in the rural area .
+Urinary 1-hydroxypyrene , a metabolite of PAH , was also significantly higher , while PAH-DNA adducts in lymphocytes were five-fold higher in Bangkok school children than rural school children .
+Benzene exposure in Bangkok school children was approximately two-fold higher than in rural school children .
+This is in agreement with the levels of biomarkers of internal benzene dose , i.e. blood benzene and urinary t,t-muconic acid .
+The potential health risks from exposure to genotoxic substances were assessed through DNA-damage levels and DNA repair capacity .
+DNA strand breaks were significantly higher , whereas DNA repair capacity was significantly reduced in Bangkok children .
+Genetic polymorphisms have been detected in glutathione-S-transferases ( GSTs ) and cytochrome P450 ( CYP450 ) enzymes involved in the metabolism of benzene and PAHs , but these polymorphisms had no significant effects on the biomarkers of PAH exposure .
+Our results indicate that children living in a mega city such as Bangkok may have an increased health risk of the development of certain diseases due to exposure to genotoxic substances in air pollution compared to children living in suburban/rural areas .

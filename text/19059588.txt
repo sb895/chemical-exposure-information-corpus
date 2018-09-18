@@ -1,0 +1,9 @@
+Cadmium is a widespread environmental pollutant , which is associated with increased risk of osteoporosis .
+It has been proposed that cadmium's toxic effect on bone is exerted via impaired activation of vitamin D , secondary to the kidney effects .
+To test this , we assessed the association of cadmium-induced bone and kidney effects with serum 1,25-dihydroxyvitamin D ( 1,25(OH)(2)D ) ; measured by enzyme immunoassay .
+For the assessment , we selected 85 postmenopausal women , based on low ( 0.14-0.39 microg/L ) or high ( 0.66-2.1 microg/L ) urinary cadmium , within a cross-sectional population-based women's health survey in Southern Sweden .
+We also measured 25-hydroxy vitamin D , cadmium in blood , bone mineral density and several markers of bone remodeling and kidney effects .
+Although there were clear differences in both kidney and bone effect markers between women with low and high cadmium exposure , the 1,25(OH)(2)D concentrations were not significantly different ( median , 111 pmol/L ( 5-95th percentile , 67-170 pmol/L ) in low- and 125 pmol/L ( 66-200 pmol/L ) in high-cadmium groups ; p=0.08 ) .
+Also , there was no association between 1,25(OH)(2)D and markers of bone or kidney effects .
+It is concluded that the low levels of cadmium exposure present in the studied women , although high enough to be associated with lower bone mineral density and increased bone resorption , were not associated with lower serum concentrations of 1,25(OH)(2)D .
+Hence , decreased circulating levels of 1,25(OH)(2)D are unlikely to be the proposed link between cadmium-induced effects on kidney and bone .

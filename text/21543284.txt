@@ -1,0 +1,9 @@
+BACKGROUND Metals can interfere with hormonal functioning by binding at the receptor site and through indirect mechanisms ; thus , they may be associated with hormonal changes in premenopausal women .
+OBJECTIVES We examined the associations between cadmium , lead , and mercury , and anovulation and patterns of reproductive hormones [ estradiol , progesterone , follicle-stimulating hormone ( FSH ) , luteinizing hormone ] among 252 premenopausal women 18-44 years of age who were enrolled in the BioCycle Study in Buffalo , New York .
+METHODS Women were followed for up to two menstrual cycles , with serum samples collected up to eight times per cycle .
+Metal concentrations were determined at baseline in whole blood by inductively coupled mass spectroscopy .
+Marginal structural models with stabilized inverse probability weights and nonlinear mixed models with harmonic terms were used to estimate the effects of cadmium , lead , and mercury on reproductive hormone levels during the menstrual cycle and anovulation .
+RESULTS Geometric mean ( interquartile range ) cadmium , lead , and mercury levels were 0.29 ( 0.19-0.43 ) \u03bcg/L , 0.93 ( 0.68-1.20 ) \u03bcg/dL , and 1.03 ( 0.58-2.10 ) \u03bcg/L , respectively .
+We observed decreases in mean FSH with increasing cadmium [ second vs. first tertile : -10.0% ; 95% confidence interval ( CI ) , -17.3% to -2.5% ; third vs. first tertile : -8.3% ; 95% CI , -16.0% to 0.1% ] and increases in mean progesterone with increasing lead level ( second vs. first tertile : 7.5% ; 95% CI , 0.1-15.4% ; third vs. first tertile : 6.8% ; 95% CI , -0.8% to 14.9% ) .
+Metals were not significantly associated with anovulation .
+CONCLUSIONS Our findings support the hypothesis that environmentally relevant levels of metals are associated with modest changes in reproductive hormone levels in healthy , premenopausal women .

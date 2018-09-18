@@ -1,0 +1,10 @@
+BACKGROUND Outbreaks of Saharan-Sahel dust over Euro-Mediterranean areas frequently induce exceedances of the Europen Union's 24-hr standard of 50 \u03bcg/m3 for particulate matter ( PM ) with aerodynamic diameter \u2264 than 10 \u03bcm ( PM10 ) .
+OBJECTIVES We evaluated the effect of Saharan dust on the association between different PM fractions and daily mortality in Rome , Italy .
+METHODS In a study of 80,423 adult residents who died in Rome between 2001 and 2004 , we performed a time-series analysis to explore the effects of PM2.5 , PM2.5-10 , and PM10 on natural , cardiac , cerebrovascular , and respiratory mortality .
+We defined Saharan dust days by combining light detection and ranging ( LIDAR ) observations and analyses from operational models .
+We tested a Saharan dust-PM interaction term to evaluate the hypothesis that the effects of PM , especially coarse PM ( PM2.5-10 ) , on mortality would be enhanced on dust days .
+RESULTS Interquartile range increases in PM2.5-10 ( 10.8 \u03bcg/m3 ) and PM10 ( 19.8 \u03bcg/m3 ) were associated with increased mortality due to natural , cardiac , cerebrovascular , and respiratory causes , with estimated effects ranging from 2.64% to 12.65% [ 95% confidence interval ( CI ) , 1.18-25.42% ] for the association between PM2.5-10 and respiratory mortality ( 0- to 5-day lag ) .
+Associations of PM2.5-10 with cardiac mortality were stronger on Saharan dust days ( 9.73% ; 95% CI , 4.25-15.49% ) than on dust-free days ( 0.86% ; 95% CI , -2.47% to 4.31% ; p = 0.005 ) .
+Saharan dust days also modified associations between PM10 and cardiac mortality ( 9.55% increase ; 95% CI , 3.81-15.61% ; vs. dust-free days : 2.09% ; 95% CI , -0.76% to 5.02% ; p = 0.02 ) .
+CONCLUSIONS We found evidence of effects of PM2.5-10 and PM10 on natural and cause-specific mortality , with stronger estimated effects on cardiac mortality during Saharan dust outbreaks .
+Toxicological and biological effects of particles from desert sources need to be further investigated and taken into account in air quality standards .

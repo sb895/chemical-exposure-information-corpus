@@ -1,0 +1,11 @@
+BACKGROUND Numerous studies have examined the association between heavy metal contamination ( including arsenic [ As ] , cadmium [ Cd ] , chromium [ Cr ] , copper [ Cu ] , mercury [ Hg ] , nickel [ Ni ] , lead [ Pb ] , and zinc [ Zn] ) and lung cancer .
+However , data from previous studies on pathological cell types are limited , particularly regarding exposure to low-dose soil heavy metal contamination .
+The purpose of this study was to explore the association between soil heavy metal contamination and lung cancer incidence by specific cell type in Taiwan .
+METHODS We conducted an ecological study and calculated the annual averages of eight soil heavy metals ( i.e. , As , Cd , Cr , Cu , Hg , Ni , Pb , and Zn ) by using data from the Taiwan Environmental Protection Administration from1982 to 1986 .
+The age-standardized incidence rates of lung cancer according to two major pathological types ( adenocarcinoma [ AC ] and squamous cell carcinoma [ SCC] ) were obtained from the National Cancer Registry Program conducted in Taiwan from 2001 to 2005 .
+A geographical information system was used to plot the maps of soil heavy metal concentration and lung cancer incidence rates .
+Poisson regression models were used to obtain the adjusted relative ratios ( RR ) and 95% confidence intervals ( CI ) for the lung cancer incidence associated with soil heavy metals .
+RESULTS For males , the trend test for lung SCC incidence caused by exposure to Cr , Cu , Hg , Ni , and Zn showed a statistically significant dose-response relationship .
+However , for lung AC , only Cu and Ni had a significant dose-response relationship .
+As for females , those achieving a statistically significant dose-response relationship for the trend test were Cr ( P = 0.02 ) , Ni ( P = 0.02 ) , and Zn ( P= 0.02 ) for lung SCC , and Cu ( P < 0.01 ) and Zn ( P = 0.02 ) for lung AC .
+CONCLUSION The current study suggests that a dose-response relationship exists between low-dose soil heavy metal concentration and lung cancer occurrence by specific cell-type ; however , the relevant mechanism should be explored further .

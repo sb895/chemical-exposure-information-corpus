@@ -1,0 +1,9 @@
+A rapid analytical screening method allowing simultaneous analysis of 23 persistent organic pollutants ( POPs ) in human plasma was developed .
+Sample preparation based on solid-phase extraction ( SPE ) with additional clean-up using small multilayer silica gel columns .
+SPE was performed using a custom made polystyrene-divinylbenzene sorbent for the extraction of chlorinated and brominated POPs .
+Special efforts to reduce sample volume and improve speed and efficiency of the analytical procedure were made .
+Determination of 16 polychlorinated biphenyls ( PCBs ) , 5 organochlorine ( OC ) pesticides , octachlorinated dibenzo-p-dioxin ( OCDD ) and polybrominated diphenyl ether ( BDE #47 ) in 0.5 mL human plasma was performed by using high resolution gas chromatography coupled to high resolution mass spectrometry ( HRGC/HRMS ) .
+Recovery of POPs ranged between 46% and 110% , and reproducibility was below 25% relative standard deviation ( RSD ) for all target compounds , except for trans-nonachlor and OCDD , which were present only at low levels .
+Limits of detection ( LOD ) were for the PCBs between 0.8 and 117.7 pg mL(-1) plasma and for the OC pesticides between 5.9 and 89.1 pg mL(-1) plasma .
+The LOD for OCDD and BDE #47 were 1.4 pg mL(-1) plasma , and 9.2 pg mL(-1) plasma , respectively .
+The presented method was successfully applied to 1016 human plasma samples from an epidemiological study on cardiovascular disease .

@@ -1,0 +1,9 @@
+This study investigates the indoor air quality of typical photocopy centers in Taiwan to evaluate the human health risk following inhalation exposure .
+Both personal and area samplings were conducted at seven photocopy centers in the Tainan area from July 2002 to March 2003 , which covered both summer and winter seasons in Taiwan .
+The benzene , toluene , ethylbenzene , xylenes , and styrene ( BTEXS ) measurements indicated no difference between personal and area samplings ( P>0.05 ) and found that air conditioning improves indoor air quality .
+The additive factor at each photocopy center was significantly below 1.0 , based on the current BTEXS permissible exposure limits in Taiwan .
+However , the mean benzene and styrene levels in the current study were 138 and 18 times , respectively , higher than those in another study conducted in the United States .
+Comparison of mass ratios of BTEXS with those of several chamber studies revealed that the photocopier is not the only volatile organic compound ( VOC ) source in photocopy centers .
+The lifetime cancer and noncancer risks for workers exposed to VOCs were also assessed .
+Results show that all seven centers in this study had a lifetime cancer risk exceeding 1x10(-6) ( ranging from 2.5x10(-3) to 8.5x10(-5) ) .
+Regarding noncancer risk , levels of toluene , ethylbenzene , xylenes , and styrene were below the reference levels in all photocopy centers ; however , the hazard indices for all still exceeded 1.0 ( range 26.2-1.8 ) because of the high level of benzene in the photocopy centers .

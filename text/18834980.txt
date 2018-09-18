@@ -1,0 +1,9 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) may interact with several thyroid functions .
+Severe environmental pollution by PCBs has been observed in Brescia , Italy , due to the presence of a factory that produced these compounds until 1984 .
+OBJECTIVES We aimed to investigate the correlation between serum levels of total PCBs and PCB 153 and thyroid hormone serum levels in adults in a cross-sectional population-based study .
+METHODS A total of 527 subjects were enrolled ; they were face-to-face interviewed about their history of thyroid disease and provided a blood sample under fasting conditions .
+The serum levels of free and total triiodothyronine ( FT3 and TT3 ) , thyroxine ( FT4 and TT4 ) and thyroid-stimulating hormone ( TSH ) , anti-thyroperoxidase ( anti-TPO ) and anti-thyroglobulin ( anti-TGA ) , and lipid-adjusted total PCBs and PCB 153 were determined .
+RESULTS There was no statistically significant difference in total PCB and PCB 153 concentrations in subjects with and without thyroid disease .
+Inverse , weak , statistically significant correlations were found between total PCBs and FT3 ( Spearman's r=-0.09 ) and between total PCBs and PCB 153 and TSH ( Spearman's r=-0.16 and -0.12 , respectively ) .
+However , multiple regression analysis with FT3 and TSH serum levels as dependent variables and total PCBs and PCB 153 serum levels as predictors , including age , gender and BMI , showed a positive , rather than negative , association of PCBs and PCB 153 with FT3 and no association with TSH .
+CONCLUSIONS This study does not support the hypothesis that relatively high PCB environmental exposure can determine substantial alterations in thyroid function among adult people .

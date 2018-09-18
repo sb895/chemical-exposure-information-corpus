@@ -1,0 +1,7 @@
+The aim of the present study was to evaluate the associations between dietary patterns and blood levels of lead and mercury in Korean adults .
+A total of 858 Korean adults ( \u226520 years ) who participated in the Korea National Health and Nutrition Examination Survey ( KNHANES ) V-1 2010 were included in this study .
+Data of biochemical measurements including blood lead and mercury levels , nutrients intakes and anthropometric measurements were acquired .
+' Balanced diet ' , ' Grain and kimchi ' , and ' Alcohol and noodle ' dietary patterns were derived from a factor analysis , and the subjects were divided into tertiles by each dietary pattern score .
+A logistic multiple regression analysis showed that the balanced diet pattern was negatively associated with blood levels of lead before and after adjustment .
+On the other hand , the alcohol and noodle pattern was positively associated with blood lead and mercury levels .
+These results indicate that the alcohol and noodle dietary pattern characterized by high alcohol consumption and lack of various foods , and the balanced dietary pattern , including vegetable , fish , meat and milk intake , was associated with the blood concentrations of heavy metals in Korean adults .

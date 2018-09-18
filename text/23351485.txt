@@ -1,0 +1,8 @@
+The University of Michigan Dioxin Exposure Study provides extensive data on elevated residential soil and house dust concentrations of polychlorinated dioxins and dibenzofurans ( PCDD/Fs ) and adult body burdens among residents near a chemical manufacturing plant in Midland , Michigan .
+Recent reports found no significant contribution of residential soil/dust concentrations to serum lipid PCDD/Fs in adults .
+Although child body burdens were not studied by the University of Michigan , internal dose modeling that incorporates recent findings on demonstrated shorter elimination half life of PCDD/Fs in children ( 1-2 year half life in children vs. years in older adults ) can be applied to assess this important issue .
+The model examines children ( ages 0-7 years ) with background dietary intake and exposure to residential soils at selected concentrations ( 10 , 100 and 1000 pg/g 2,3,7,8-tetrachlorodibenzo-p-dioxin toxic equivalents , TEQ ) using the congener patterns observed in Midland .
+Model predictions assuming 50th percentile TEQ uptake from soil/dust-related dermal and ingestion exposures indicate no measurable changes in serum lipid TEQ concentrations up to 1000 pg/g in soil/dust .
+Assuming 95th percentile uptake , the model shows no measurable serum lipid TEQ change up to 100 pg/g in soil/dust , but serum lipid TEQ levels rose pg/g at 1000 pg/g in soil/dust .
+Since the vast majority of soil/dust data were below 100 pg/g , Michigan children exposed to such soil/dust TEQ concentrations are not reasonably expected to exhibit measurable changes in serum lipid TEQ concentrations when compared to typical background dietary exposures .
+With adequate data , this approach can be applied to evaluate child dose and risk for other persistent chemicals .

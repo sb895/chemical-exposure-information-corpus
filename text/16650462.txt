@@ -1,0 +1,9 @@
+The levels of organochlorinated pesticides ( OCPs ) : p,p'-DDT and its metabolites , hexachlorobenzene ( HCB ) , hexachlorocyclohexane isomers ( HCHs ) , chlordanes and their metabolites , and 18 polychlorinated biphenyl ( PCB ) congeners were measured in maternal serum , umbilical cord serum and human milk collected from 22 mothers living in the Wielkopolska region , Poland .
+Additionally , 11 polybrominated diphenyl ether ( PBDE ) congeners were measured in the human milk samples. p,p'-DDT and its major metabolite , p,p'-DDE , together with HCB , were found in all milk and serum samples .
+Median concentrations of p,p'-DDE in maternal serum , umbilical cord serum and milk were 343 , 329 and 634ng/g lipid weight ( lw ) .
+PCB congeners 138 , 153 and 180 were the major congeners measured in all serum samples , while CB 170 was detected in 74% and 100% of umbilical cord and maternal serum , respectively .
+Except for CBs 74 , 101 and 105 , which had a detection frequency of 77% , 23% and 82% , respectively , all investigated PCB congeners were measured in all human milk samples .
+The median concentrations of sum PCBs in maternal serum , umbilical cord serum and milk were 79 , 60 and 133 ng/g lw , respectively .
+A good correlation ( Spearman R(S)>0.75 , p<0.001 ) was found for major PCBs , p,p'-DDT and p,p'-DDE , between maternal and umbilical cord serum , while the correlation was weaker between milk and serum .
+The median of sum PBDEs in human milk was 2.0 ng/g lw ( range 0.8 to 8.4 ) , with BDE 47 being always the most abundant PBDE congener and , together with BDE 153 , being present in all samples .
+In general , results found in the investigated group are at the low end of the concentration range measured in Europe .

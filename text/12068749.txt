@@ -1,0 +1,12 @@
+The German Environmental Survey was conducted for the third time in 1998 ( GerES III ) .
+The probability sample of about 4800 subjects was selected to be representative for the German population with regard to region ( East-/West-Germany ) , community size , age ( 18 to 69 years ) and gender .
+Blood samples were taken from each study participant and questionnaires were used to get exposure-related information .
+Cadmium , lead , mercury , hexachlorobenzene ( HCB ) , hexachlorocyclohexane ( alpha-HCH , beta-HCH , gamma-HCH ) , 1,1-dichloro-2,2-bis(p-chlorophenyl)ethylene ( p , p'-DDE ) and polychlorinated biphenyls ( PCB-138 , PCB-153 , PCB-180 ) were analysed in whole blood to document the extent , distribution , and determinants of exposure of the general population to these substances .
+The geometric means of Cd , Pb , and Hg in blood amounted to 0.44 , 31 , and 0.58 microgram/l , respectively .
+Smokers showed a Cadmium level of 1.1 micrograms/l and non-smokers a level of 0.28 microgram/l .
+The geometric mean of lead was higher in the blood of males than of females ( 36 micrograms/l vs. 26 micrograms/l ) .
+The concentration of mercury in blood depends on fish consumption and the number of teeth with amalgam fillings .
+The mean concentrations of HCB and p , p'-DDE in blood were 0.44 microgram/l and 1.6 micrograms/l , respectively .
+In East-Germany ( the former GDR ) the DDE concentration in blood was more than twice as high as in West-Germany .
+Geometric means for PCB were 0.42 , 0.68 and 0.44 microgram/l for PCB-138 , PCB-153 , and PCB-180 , respectively .
+A marked increase of HCB , DDE and PCB levels with age could be observed. alpha-HCH and gamma-HCH could be detected in 1.7% and 5.2% of the samples only. beta-HCH was quantified in 34% of the samples with a 95th percentile of 0.5 microgram/l .

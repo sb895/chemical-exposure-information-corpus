@@ -1,0 +1,6 @@
+BACKGROUND We estimated the extent of exposure to occupational carcinogens in Quebec , Canada , to help raise awareness of occupational cancers .
+METHODS Proportions of workers exposed to 21 recognized and 17 probable carcinogens ( according to Quebec occupational health regulation and the International Agency for Research on Cancer [ IARC ] classification ) were extracted from various sources : workplace monitoring data , research projects , a population survey , radiation protection data , exposure estimates from the Carcinogen Exposure Canada ( CAREX Canada ) Project database , and published exposure data .
+These proportions were applied to Quebec labor force data .
+RESULTS Among the 38 studied , carcinogens with the largest proportions of exposed workers were solar radiation ( 6.6% of workers ) , night shift work/rotating shift work including nights ( 6.0% ) , diesel exhaust fumes ( 4.4% ) , wood dust ( 2.9% ) and polycyclic aromatic hydrocarbons ( 2.0% ) .
+More than 15 carcinogens were identified in several industrial sectors , and up to 100,000 young workers are employed in these sectors .
+CONCLUSION Although crude , estimates obtained with different data sources allow identification of research and intervention priorities for cancer in Quebec .

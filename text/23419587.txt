@@ -1,0 +1,11 @@
+Human exposure to phthalates occurs through multiple sources and pathways .
+In the Canadian Health Measures Survey 2007-2009 , 11 phthalate metabolites , namely , MMP , MEP , MnBP , MBzP , MCHP , MCPP , MEHP , MEOHP , MEHHP , MnOP , and MiNP were measured in urine samples of 6-49 year old survey respondents ( n=3236 ) .
+The phthalate metabolites biomonitoring data from this nationally-representative Canadian survey are presented here .
+The metabolites MEP , MnBP , MBzP , MCPP , MEHP , MEOHP and MEHHP were detected in >90% of Canadians while MMP , MCHP , MnOP and MiNP were detected in <20% of the Canadian population .
+Step-wise regression analyses were carried out to identify important predictors of volumetric concentrations ( \u03bcg/L ) of the metabolites in the general population .
+Individual multiple regression models with covariates age , sex , creatinine , fasting status , and the interaction terms age×creatinine , age×sex and fasting status×creatinine were constructed for MEP , MnBP , MBzP , MCPP , MEHP , MEOHP and MEHHP .
+The least square geometric mean ( LSGM ) estimates for volumetric concentration ( \u03bcg/L ) of the metabolites derived from respective regression models were used to assess the patterns in the metabolite concentrations among population sub-groups .
+The results indicate that children had significantly higher urinary concentrations of MnBP , MBzP , MEHP , MEHHP , MEOHP and MCPP than adolescents and adults .
+Moreover , MEP , MBzP , MnBP and MEOHP concentrations in females were significantly higher than in males .
+We observed that fasting status significantly affects the concentrations of MEHP , MEHHP , MEOHP , and MCPP metabolites analyzed in this study .
+Moreover , our results indicate that the sampling time could affect the DEHP metabolite concentrations in the general Canadian population .

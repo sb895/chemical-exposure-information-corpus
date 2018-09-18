@@ -1,0 +1,10 @@
+Previously , we investigated the association between urinary cadmium ( Cd ) concentration and indicators of renal dysfunction , including total protein , beta2-microglobulin ( beta2-MG ) , and N-acetyl-beta-D-glucosaminidase ( NAG ) .
+In 2778 inhabitants 50 years of age ( 1114 men , 1664 women ) in three different Cd nonpolluted areas in Japan , we showed that a dose-response relationship existed between renal effects and Cd exposure in the general environment without any known Cd pollution .
+However , we could not estimate the threshold levels of urinary Cd at that time .
+In the present study , we estimated the threshold levels of urinary Cd as the benchmark dose low ( BMDL ) using the benchmark dose ( BMD ) approach .
+Urinary Cd excretion was divided into 10 categories , and an abnormality rate was calculated for each .
+Cut-off values for urinary substances were defined as corresponding to the 84% and 95% upper limit values of the target population who have not smoked .
+Then we calculated the BMD and BMDL using a log-logistic model .
+The values of BMD and BMDL for all urinary substances could be calculated .
+The BMDL for the 84% cut-off value of beta2-MG , setting an abnormal value at 5% , was 2.4 microg/g creatinine ( cr ) in men and 3.3 microg/g cr in women .
+In conclusion , the present study demonstrated that the threshold level of urinary Cd could be estimated in people living in the general environment without any known Cd-pollution in Japan , and the value was inferred to be almost the same as that in Belgium , Sweden , and China .

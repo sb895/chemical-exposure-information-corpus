@@ -1,0 +1,8 @@
+OBJECTIVE To explore the spatial features of arsenic contamination and its association with chronic arsenic poisoning in a tin mining area of Thailand .
+METHODS Geographic information system(GIS) was built up with integration of arsenic concentration in varied environmental media and occurring location data of chronic arsenism patients .
+Then , the spatial interpolation ( IDW ) , buffer zoning , query and rank correlation analysis were applied .
+RESULTS Groundwater and surface farming land were classified according to local environmental arsenic standards ; the relative risk areas were identified .
+The incidence of chronic arsenic poisoning was significantly correlated with arsenic level in groundwater and soil type ( P < 0.05 ) , and insignificantly related with water soluble arsenic in soil ( P > 0.05 ) .
+CONCLUSION The arsenic content in drinking water could be critical to chronic arsenic poisoning .
+The soil type could be an important factor affecting such poisoning .
+Trend analysis in GIS could provide a valuable tool for understanding the pollution situation and disease surveillance .

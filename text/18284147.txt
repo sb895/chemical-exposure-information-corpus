@@ -1,0 +1,9 @@
+alpha- , beta- , and gamma-hexabromocyclododecane diastereomers ( HBCDs ) were measured in house dust from Birmingham , U.K .
+( n=31 , median concentration=730 ng sigmaHBCDs g(-1) ) ; Amarillo/Austin , TX ( n=13 , 390 ng g(-1) ) ; and Toronto , Canada ( n=8 , 640 ng g(-1) ) .
+Concentrations in dust ( n=6 , 650 ng g(-1) ) from U.K. offices were within the range for UK homes .
+Concentrations from each country were statistically indistinguishable .
+In one UK house dust sample , 110,000 ng g(-1) was recorded-the highest recorded in indoor dust to date .
+While upper bound average U.K. dietary exposures for adults and toddlers , respectively , are 413 and 240 ng sigmaHBCDs day(-1) , U.K. adults and toddlers daily ingesting , respectively , 50 and 200 mg of dust contaminated at the 95th percentile concentration are exposed , respectively , to 1100 and 4400 ng sigmaHBCDs day(-1) .
+Normalized to body weight , this high-end exposure scenario estimate for toddlers is within the range reported elsewhere for occupationally exposed adults .
+While in commercial formulations gamma-HBCD predominates ( >80% ) , alpha-HBCD in dust constitutes 14-67% of sigmaHBCDs ( average 32% ) .
+Hence the predominance of the alpha-diastereomer in humans may arise partly from dust ingestion , and not solely to in vivo metabolism ( when alpha-HBCD is formed from bioisomerization of other diastereomers ) , or dietary exposure ( where alpha-HBCD predominates in most foodstuffs ) .

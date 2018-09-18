@@ -1,0 +1,11 @@
+Recent studies suggest potential adverse effects of methylmercury exposure on cardiovascular disease , although the evidence of association with hypertension is still inconsistent .
+Therefore , we evaluated the effects of methylmercury exposure on hypertension in Minamata .
+We used data derived from the 1971 population-based survey in Minamata and neighboring communities .
+We also utilized data on hair mercury content of the participants ( derived from a 1960 investigation ) .
+We adopted two exposure indices ( residential area and hair mercury content ) and two hypertension outcomes ( past history of hypertension and hypertension defined by measurements in the examination ) .
+Then , we estimated the adjusted prevalence odds ratio ( POR ) and its confidence interval ( CI ) of both hypertension outcomes in relation to residential area and hair mercury content .
+In the Minamata area ( high exposure area ) , 87% ( 833 ) of the eligible population ( aged > or =10 years ) participated in the 1971 investigations .
+In the Goshonoura area ( middle exposure area ) and the Ariake area ( low exposure area ) , 93% ( 1450 ) and 77% ( 755 ) , respectively , of the eligible population participated .
+Compared with subjects in the Ariake area , the subjects in the Minamata area manifested hypertension more frequently , and PORs observed for two hypertension outcomes were 1.6 ( 95% CI : 1.2-2.1 ) and 1.4 ( 95% CI : 1.1-1.9 ) , respectively .
+Furthermore , dose-response trends with hair mercury content were observed for both hypertension outcomes .
+The present finding supports the causal relationship between methylmercury exposure and hypertension .

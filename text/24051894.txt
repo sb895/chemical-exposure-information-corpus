@@ -1,0 +1,10 @@
+BACKGROUND Epidemiologic studies have reported associations between air pollution levels and semen characteristics , which might in turn affect a couple's ability to achieve a live birth .
+Our aim was to characterize short-term effects of atmospheric pollutants on fecundability ( the month-specific probability of pregnancy among noncontracepting couples ) .
+METHODS For a cohort of births between 1994 and 1999 in Teplice ( Czech Republic ) , we averaged fine particulate matter ( PM2.5 ) , carcinogenic polycyclic aromatic hydrocarbons , ozone , nitrogen dioxide ( NO2 ) , and sulfur dioxide levels estimated from a central measurement site over the 60-day period before the end of the first month of unprotected intercourse .
+We estimated changes in the probability of occurrence of a pregnancy during the first month of unprotected intercourse associated with exposure , using binomial regression and adjusting for maternal behaviors and time trends .
+RESULTS Among the 1,916 recruited couples , 486 ( 25% ) conceived during the first month of unprotected intercourse .
+Each increase of 10 µg/m in PM2.5 levels was associated with an adjusted decrease in fecundability of 22% ( 95% confidence interval = 6%-35% ) .
+NO2 levels were also associated with decreased fecundability .
+There was no evidence of adverse effects with the other pollutants considered .
+Biases related to pregnancy planning or temporal trends in air pollution were unlikely to explain the observed associations .
+CONCLUSIONS In this polluted area , we highlighted short-term decreases in a couple's ability to conceive in association with PM2.5 and NO2 levels assessed in a central monitoring station .

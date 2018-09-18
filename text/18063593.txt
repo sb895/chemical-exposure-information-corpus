@@ -1,0 +1,10 @@
+The authors tested the hypothesis that the birth prevalence of gastroschisis is positively associated with use of recreational drugs in early pregnancy .
+A matched case-control study was carried out in three regions of the United Kingdom over the period January 2001 through August 2003 .
+For each case , three liveborn controls were matched by initial intended place of delivery , region , and maternal age .
+Maternal hair analysis provided independent verification of recreational drug use .
+Conditional logistic regression was used to estimate mutually adjusted odds ratios .
+Estimates were revised using data from hair analysis .
+Statistically significant adjusted odds ratios for gastroschisis were associated with first-trimester use of 1 ) any recreational drug ( odds ratio ( OR ) = 2.2 , 95% confidence interval ( CI ) : 1.2 , 4.3 ) and 2 ) vasoconstrictive recreational drugs ( defined as cocaine , amphetamines , and ecstasy ) ( OR = 3.3 , 95% CI : 1.0 , 10.5 ) .
+Other significant exposures included aspirin use ( OR = 20.4 , 95% CI : 2.2 , 191.5 ) , cigarette smoking ( OR = 1.7 , 95% CI : 1.1 , 2.6 ) , and prior history of gynecologic infection/disease ( OR = 2.6 , 95% CI : 1.2 , 5.6 ) .
+Recreational drug use is a significant risk factor for gastroschisis and is one of a constellation of potentially preventable exposures which include cigarette smoking , aspirin use , and history of gynecologic infection/disease .
+Maternal hair analysis proved an acceptable and valuable method of independently verifying recreational drug use .

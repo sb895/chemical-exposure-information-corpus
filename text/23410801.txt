@@ -1,0 +1,13 @@
+The German system of a health-related environmental monitoring is based upon two instruments : The German Environmental Survey ( GerES ) and the Environmental Specimen Bank ( ESB ) .
+The ESB is a tool to describe time trends of human exposure .
+Each year approx. 500 students from 4 sampling locations are analysed for their heavy metal contents in blood , blood plasma , and urine .
+GerES is a nationwide representative cross-sectional study that has been conducted four times up to now .
+Both instruments have been used to measure heavy metals over the last decades and thus provide complementary information .
+Both instruments are useful to describe time trends .
+However , combining the two has an added value , which is demonstrated for heavy metals for the first time in this paper .
+Major results and the changing importance of sources of exposure to heavy metals ( Pb , Cd , Hg , Au , Pt , U and Ni ) are shown .
+This leads to the following conclusion about the today's relevance of exposure in Germany .
+For the study participants of the city of Muenster , lead in whole blood decreased from about 70 \u03bcg/l in 1981 to levels below 15 \u03bcg/l in 2009 .
+GerES data of young adults confirmed this time trend and GerES IV on children revealed the decreasing relevance of lead in outdoor air and in drinking water .
+The concentrations of mercury in urine decreased because in Germany it is no longer recommended to use amalgam fillings for children .
+However , GerES IV and ESB data also demonstrate that despite the decline of these heavy metals exposures to nickel and uranium originating from drinking water are still of importance .

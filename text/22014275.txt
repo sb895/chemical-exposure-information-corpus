@@ -1,0 +1,12 @@
+BACKGROUND Despite its limitations , ecological study design is widely applied in epidemiology .
+In most cases , adjustment for age is necessary , but different methods may lead to different conclusions .
+To compare three methods of age adjustment , a study on the associations between arsenic in drinking water and incidence of bladder cancer in 243 townships in Taiwan was used as an example .
+METHODS A total of 3068 cases of bladder cancer , including 2276 men and 792 women , were identified during a ten-year study period in the study townships .
+Three methods were applied to analyze the same data set on the ten-year study period .
+The first ( Direct Method ) applied direct standardization to obtain standardized incidence rate and then used it as the dependent variable in the regression analysis .
+The second ( Indirect Method ) applied indirect standardization to obtain standardized incidence ratio and then used it as the dependent variable in the regression analysis instead .
+The third ( Variable Method ) used proportions of residents in different age groups as a part of the independent variables in the multiple regression models .
+RESULTS All three methods showed a statistically significant positive association between arsenic exposure above 0.64 mg/L and incidence of bladder cancer in men and women , but different results were observed for the other exposure categories .
+In addition , the risk estimates obtained by different methods for the same exposure category were all different .
+CONCLUSIONS Using an empirical example , the current study confirmed the argument made by other researchers previously that whereas the three different methods of age adjustment may lead to different conclusions , only the third approach can obtain unbiased estimates of the risks .
+The third method can also generate estimates of the risk associated with each age group , but the other two are unable to evaluate the effects of age directly .

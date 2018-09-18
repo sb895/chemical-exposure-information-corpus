@@ -1,0 +1,10 @@
+OBJECTIVE We previously demonstrated that exposure to polyvinyl chloride plastic medical devices containing di(2-ethylhexyl) phthalate ( DEHP ) was associated with higher urinary concentrations of several DEHP metabolites in 54 premature infants in two neonatal intensive care units than in the general population .
+For 42 of these infants , we evaluated urinary concentrations of several phenols , including bisphenol A ( BPA ) , in association with the use of the same medical devices .
+MEASUREMENTS We measured the urinary concentrations of free and total ( free plus conjugated ) species of BPA , triclosan , benzophenone-3 , methyl paraben , and propyl paraben .
+RESULTS The percentage of BPA present as its conjugated species was > 90% in more than three-quarters of the premature infants .
+Intensity of use of products containing DEHP was strongly associated with BPA total concentrations but not with any other phenol .
+Adjusting for institution and sex , BPA total concentrations among infants in the group of high use of DEHP-containing products were 8.75 times as high as among infants in the low use group ( p < 0.0001 ) .
+Similarly , after adjusting for sex and DEHP-containing product use category , BPA total concentrations among infants in Institution A were 16.6 times as high as those among infants in Institution B ( p < 0.0001 ) .
+CONCLUSION BPA geometric mean urinary concentration ( 30.3 microg/L ) among premature infants undergoing intensive therapeutic medical interventions was one order of magnitude higher than that among the general population .
+Conjugated species were the primary urinary metabolites of BPA , suggesting that premature infants have some capacity to metabolize BPA .
+The differences in exposure to BPA by intensity of use of DEHP-containing medical products highlight the need for further studies to determine the specific source(s) of exposure to BPA .

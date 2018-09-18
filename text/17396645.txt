@@ -1,0 +1,9 @@
+This study was designed to determine the body burden of polybrominated diphenyl ethers ( PBDEs ) among first-time mothers in the Greater Boston , Massachusetts area and to explore key routes of exposure .
+We collected breast milk samples from 46 first-time mothers , 2-8 weeks after birth .
+We also sampled house dust from the homes of a subset of participants by vacuuming commonly used areas .
+Data on personal characteristics , diet , home furniture , and electrical devices were gathered from each participant using a questionnaire .
+Breast milk and dust samples were analyzed for PBDEs using gas chromatography/ mass spectrometry .
+PBDE concentrations were log-normally distributed in breast milk and dust .
+We found statistically significant , positive associations between PBDE concentrations in breast milk and house dust ( r = 0.76 , p = 0.003 , not including BDE-209 ) , as well as with reported dietary habits , particularly the consumption of dairy products ( r = 0.41 , p = 0.005 ) and meat ( r = 0.37 , p = 0.01 ) .
+Due to low detection rates , it was not possible to draw conclusions about the association between BDE-209 in milk and dust .
+Our results support the hypothesis that the indoor environment and diet both play prominent roles in adult human exposure to PBDEs .

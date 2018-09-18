@@ -1,0 +1,1 @@
+< < <exposure routes--inhalation-- AND exposure routes--inhalation--other-- AND exposure routes--oral intake-- AND exposure routes--oral intake--dust-- AND exposure routes--oral intake--food--<  Biomonitoring--exposure biomarker--< < <Biomonitoring--exposure biomarker-- AND exposure routes--oral intake--food--

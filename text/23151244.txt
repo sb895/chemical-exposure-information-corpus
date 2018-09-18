@@ -1,0 +1,7 @@
+Increasing attention has been paid to bisphenol A and bisphenol ( BP ) analogues due to high production volumes , wide usage and potential adverse effects .
+Bisphenol AF ( BPAF ) is considered a new bisphenol analogue which is used as raw material in plastic industry , but little is known about its occurrence in the environment and the potential associated risk .
+In this work , BPAF levels and environmental distribution were reported in samples collected around a manufacturing plant and a preliminary exposure risk assessment to local residents was conducted .
+BPAF was detected in most of the samples , with levels in river ranging between <LOD to 1.53 × 10\u2074 ng/L , sediments ( 0.520-2.00 × 10³ ng/g dry weight , dw ) , soils ( <LOD to 331 ng/g dw ) and indoor dusts ( 7.82-739 ng/g dw ) and well water ( <LOD to 300 ng/L ) .
+Exponential declining trends were observed for BPAF levels with increasing distance from the manufacturing plant .
+Based on the quantitative data and quantitative structure-property relationship ( QSPR ) model deduction , BPAF was predicted to mainly retain in sediment and soil after released into the ambient environment and organic carbon was the domain factor during the process .
+The preliminary BPAF exposure assessment based on the CSOIL model suggested that children could have higher intake of BPAF than adults through inhalation of soils , dermal exposure by soils contact and bathing with well water .

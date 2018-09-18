@@ -1,0 +1,9 @@
+Numerous epidemiologic investigations have identified links between high concentrations of arsenic in drinking water and cancer , although the risks at lower exposures are largely unknown .
+This paper presents the results of a case-control study of arsenic ingestion and bladder cancer in seven counties in the western United States .
+These counties contain the largest populations historically exposed to drinking water arsenic at concentrations near 100 microg/liter .
+All incident cases diagnosed from 1994 to 2000 were recruited .
+Individual data on water sources , water consumption patterns , smoking , and other factors were collected for 181 cases and 328 controls .
+Overall , no increased risks were identified for arsenic intakes greater than 80 microg/day ( odds ratio=0.94 , 95% confidence interval : 0.56 , 1.57 ; linear trend , p=0.48 ) .
+These risks are below predictions based on high dose studies from Taiwan .
+When the analysis was focused on exposures 40 or more years ago , an odds ratio of 3.67 ( 95% confidence interval : 1.43 , 9.42 ; linear trend , p<0.01 ) was identified for intakes greater than 80 microg/day ( median intake , 177 microg/day ) in smokers .
+These data provide some evidence that smokers who ingest arsenic at concentrations near 200 microg/day may be at increased risk of bladder cancer .

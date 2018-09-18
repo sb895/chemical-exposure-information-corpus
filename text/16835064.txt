@@ -1,0 +1,12 @@
+We assessed determinants of cord serum polychlorinated biphenyl ( PCB ) levels among 720 infants born between 1993 and 1998 to mothers living near a PCB-contaminated Superfund site in Massachusetts , measuring the sum of 51 PCB congeners ( capital sigmaPCB ) and ascertaining maternal address , diet , sociodemographics , and exposure risk factors .
+Addresses were geocoded to obtain distance to the Superfund site and neighborhood characteristics .
+We modeled log10(capital sigmaPCB ) as a function of potential individual and neighborhood risk factors , mapping model residuals to assess spatial correlates of PCB exposure .
+Similar analyses were performed for light ( mono-tetra ) and heavy ( penta-deca ) PCBs to assess potential differences in exposure pathways as a function of relative volatility .
+PCB-118 ( relatively prevalent in site sediments and cord serum ) was assessed separately .
+The geometric mean of capital sigmaPCB levels was 0.40 ( range , 0.068-18.14 ) ng/g serum .
+Maternal age and birthplace were the strongest predictors of capital sigmaPCB levels .
+Maternal consumption of organ meat and local dairy products was associated with higher and smoking and previous lactation with lower capital sigmaPCB levels .
+Infants born later in the study had lower capital sigmaPCB levels , likely due to temporal declines in exposure and site remediation in 1994-1995 .
+No association was found between capital sigmaPCB levels and residential distance from the Superfund site .
+Similar results were found with light and heavy PCBs and PCB-118 .
+Previously reported demographic ( age ) and other ( lactation , smoking , diet ) correlates of PCB exposure , as well as local factors ( consumption of local dairy products and Superfund site dredging ) but not residential proximity to the site , were important determinants of cord serum PCB levels in the study community .

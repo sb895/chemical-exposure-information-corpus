@@ -1,0 +1,15 @@
+BACKGROUND Air pollution has been associated with respiratory health effects .
+There is little direct evidence that reductions in air pollution related to abatement policies lead to actual improvement in respiratory health .
+We assessed whether a reduction in ( traffic policy-related ) air pollution concentrations was associated with changes in respiratory health .
+METHODS Air pollution concentrations and respiratory health were measured in 2008 and 2010 at eight busy urban streets and at four suburban background control locations .
+Respiratory function was assessed twice in 661 residents by spirometry and measurements of airway resistance .
+Nitric oxide ( NO ) in exhaled air was measured as a marker for airway inflammation .
+RESULTS Air pollution concentrations were lower in 2010 than in 2008 .
+The declines in pollutants varied among locations , with the largest decline observed in a street with a large reduction in traffic intensity .
+In regression analyses adjusted for important covariates , reductions in concentrations of soot , NO2 , NOx , Cu , and Fe were associated with increases in forced vital capacity ( FVC ) ( \u223c1% increase per interquartile range [ IQR ] decline ) .
+Airway resistance decreased with a decline in particulate matter ( PM10 ) and PM2.5 ( 9% per IQR ) , although these associations were somewhat less consistent .
+No associations were found with exhaled NO .
+Results were driven largely by one street where traffic-related air pollution showed the largest reduction .
+Forced expiratory volume and FVC improved by 3% to 6% in residents of this street compared with suburban background residents .
+This was accompanied by a suggestive reduction in airway resistance .
+CONCLUSIONS Reductions in air pollution may lead to small improvements in respiratory function .

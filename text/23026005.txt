@@ -1,0 +1,8 @@
+OBJECTIVE Chlorpyrifos exposures were assessed in 12 Egyptian cotton field workers .
+METHODS 3,5,6-trichloro-2-pyridinol ( TCPy ) was measured in 24-hour urine samples to estimate absorbed dose .
+Workshift air samples were used to calculate chlorpyrifos inhalation dose .
+RESULTS Patches on legs had the highest chlorpyrifos loading rates among body regions sampled .
+Geometric mean chlorpyrifos air concentrations were 5·1 , 8·2 , and 45·0 \u03bcg/m(3) for engineers , technicians , and applicators , respectively ; peak TCPy urinary concentrations were 75-129 , 78-261 , and 487-1659 \u03bcg/l , respectively ; geometric mean doses were 5·2-5·4 , 8·6-9·7 , and 50-57 \u03bcg/kg , respectively , considering TCPy excretion half-life values of 27 and 41 hours .
+All worker doses exceeded the acceptable operator exposure level of 1·5 \u03bcg/kg/day .
+An estimated 94-96% of the dose was attributed to dermal exposure , calculated as the difference between total dose and inhalation dose .
+DISCUSSION Interventions to reduce dermal exposure are warranted in this population , particularly for the hands , feet , and legs .

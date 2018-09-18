@@ -1,0 +1,8 @@
+Although the concentrations of the toxic metal cadmium in breast milk are generally low ( < 1 microg/L ) , experimental studies indicated neurobehavioral and endocrine effects in the suckling offspring .
+The aim of the present study was to elucidate how cadmium is transported to breast milk by assessing interactions with essential micronutrients .
+The study is nested into a food and micronutrient supplementation trial conducted among pregnant women in Matlab , a rural area in Bangladesh , where malnutrition is prevalent and the cadmium exposure is relatively high .
+We measured cadmium in breast milk ( BM-Cd ; median 0.14 microg/kg ; range <0.050-1.0 microg/kg ) , in erythrocytes ( Ery-Cd ; median 1.5 microg/kg ; range 0.46-4.8 microg/kg ) and in urine ( U-Cd ; median 0.63 microg/L ; range 0.050-4.5 microg/L ) , using inductively coupled plasma mass spectrometry ( ICPMS ) .
+We found a significant positive association between Ery-Cd and BM-Cd and a breast milk-plasma ratio of approximately 3-4 , indicating no barrier against cadmium transport from plasma to breast milk .
+BM-Cd was positively associated with manganese ( r(s)=0.56 ; p<0.01 ) and iron ( r(s)=0.55 ; p<0.01 ) in breast milk , but not with plasma ferritin .
+On the other hand , BM-Cd was negatively associated with BM-Ca ( r(s)=-0.17 ; p=0.05 ) , indicating that cadmium inhibits the transport of calcium to breast milk .
+In conclusion , the present study may indicate that cadmium shares common transporters with iron and manganese for transfer to breast milk , but inhibits secretion of calcium to breast milk .

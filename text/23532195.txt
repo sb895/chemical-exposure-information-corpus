@@ -1,0 +1,8 @@
+OBJECTIVE To determine whether short-term jet propulsion fuel 8 ( JP-8 ) exposure is associated with balance measurements in JP-8-exposed air force personnel .
+METHODS As part of a larger neuroepidemiology study , balance tasks were completed by JP-8-exposed individuals ( n = 37 ) .
+Short-term JP-8 exposure was measured using personal breathing zone levels and urinary biomarkers .
+Multivariate linear regression analyses were conducted to examine the relationship between workday JP-8 exposure and postural sway .
+RESULTS Balance control decreased as the task became more challenging .
+Workday exposure to JP-8 , measured by either personal air or urinary metabolite levels , was not significantly related to postural sway .
+Increases in workday postural sway were associated with demographic variables , including younger age , being a current smoker , and higher body mass index .
+CONCLUSION Results suggest that short-term workday JP-8 exposure does not significantly contribute to diminished balance control .

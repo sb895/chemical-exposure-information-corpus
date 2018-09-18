@@ -1,0 +1,8 @@
+General regulations and risk assessment regarding toxicants are single-compound oriented even though humans are exposed to multi-chemicals in the general environment .
+This study investigated the effects of different levels of N,N-dimethylformamide ( DMF ) and co-exposure levels of methyl ethyl ketone ( MEK ) and toluene ( TOL ) on two biomarkers of DMF exposure : non-metabolized urinary ( U-)DMF and the DMF metabolite urinary N-methylformamide ( NMF ) .
+Thirty-five workers were selected from a two-stage field investigation strategy and were classified into four groups based on DMF exposure and co-exposure levels .
+Breathing-zone air concentrations of DMF , MEK , and TOL as well as dermal DMF exposure were determined .
+Post-shift U-DMF and U-NMF levels were determined for each individual .
+U-DMF concentrations were significantly higher in high-DMF groups than in low-DMF groups , but U-NMF concentrations were significantly ( P<0.05 ) lower in the high-DMF-high-co-exposure group than in the high-DMF-low-co-exposure group ; there were no significant differences between two low-DMF groups .
+The ratio of U-NMF to U-DMF showed the biotransformation from DMF to NMF was significantly suppressed at high co-exposure ( P<0.001 ) for high-DMF exposure groups , possibly because of competitive inhibition of CYP2E1 , the responsible enzyme involved .
+Due to the ubiquity of MEK/TOL in DMF-exposed occupational settings , the biological exposure index for occupational DMF exposure should be re-evaluated at high co-exposure levels .

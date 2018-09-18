@@ -1,0 +1,8 @@
+To explore human biomonitor of persistent organic pollutants ( POP ) for public health risk assessment , extractable organohalogens ( EOX ) , extractable persistent organohalogens ( EPOX ) and some selected organochlorine pesticides ( OCP ) and polychlorinated biphenyls ( PCB ) in children hair from urban and rural regions of Beijing , China , were measured by instrumental neutron activation analysis ( INAA ) and gas chromatography-electron capture detector ( GC-ECD ) .
+The results indicated that about 96% of the total halogens existed as water-soluble polar compounds ; about 25 to 50% of EOX were sulfuric acid-resistant EPOX ; organochlorines were the major fraction of the organohalogens ; and 88 to 99.6% of extractable persistent organochlorines ( EPOCl ) cannot be attributed to the selected OCP and PCB .
+HCH , DDT and 2-5CB were the major contributors to hair OCP and PCB .
+Further , gamma-HCH , p,p'-DDE , p,p'-DDT and PCB-52 were the predominant individuals of HCH , DDT and 2-5CB , respectively .
+The concentration distributions of EPOCl , HCH , DDT and PCB in children hair were generally in the order of urban>rural and girls>boys , except for PCB congeners with random distributions between genders .
+Pearson positive correlations between hair lipid and the detected parameters of hair gamma-HCH ( p<0.01 ) , DDT ( p<0.01 ) , EOCl ( p<0.05 ) , as well as EPOCl ( p<0.05 ) were observed .
+Also , the ratios of hair alpha/gamma and p,p'-DDE/p,p'-DDT suggested that fresh input of HCH and DDT might exist in Beijing area .
+Hair can reflect body's integral exposure to POP from endogenous and exogenous sources , which , thus , can be used as a potential biomonitor in assessing POP exposure for public health purposes .

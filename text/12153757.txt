@@ -1,0 +1,11 @@
+Polychlorinated aromatic hydrocarbons ( PCAHs ) have been described as endocrine disruptors in animals and in accidentally or occupationally exposed humans .
+In the present study we examined the effect of moderate exposure to PCAHs on sexual maturation .
+Two hundred adolescents ( mean age , 17.4 years ) who resided in two polluted suburbs and a rural control area in Flanders ( Belgium ) participated .
+We measured the serum concentration of polychlorinated biphenyl ( PCB ) congeners 138 , 153 , and 180 and dioxin-like compounds [ chemically activated luciferase expression ( CALUX ) assay ] as biomarkers of exposure .
+School physicians assessed the pubertal development of boys and girls and measured testicular volume .
+In one suburb near two waste incinerators , compared with the other suburb and the control area , fewer boys ( p < 0.001 ) had reached the adult stages of genital development ( 62% vs. 92% and 100% , respectively ) and pubic hair growth ( 48% vs. 77% and 100% ) .
+Also , in the same suburb , fewer girls ( p = 0.04 ) had reached the adult stage of breast development ( 67% vs. 90% and 79% ) .
+In individual boys , a doubling of the serum concentration of PCB congener 138 increased the odds of not having matured into the adult stage of genital development by 3.5 ( p = 0.04 ) ; similarly for PCB congener 153 in relation to male pubic hair growth , the odds ratio was 3.5 ( p = 0.04 ) .
+In girls , a doubling of the serum dioxin concentration increased the odds of not having reached the adult stage of breast development by 2.3 ( p = 0.02 ) .
+Left plus right testicular volume was lower in both polluted areas than in the control area ( 42.4 mL vs. 47.3 mL , p = 0.005 ) but was not related to the current exposure of the adolescents to PCAHs .
+Through endocrine disruption , environmental exposure to PCAHs may interfere with sexual maturation and in the long-run adversely affect human reproduction .

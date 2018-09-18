@@ -1,0 +1,12 @@
+BACKGROUND Environmental determinants of appendicitis are poorly understood .
+Past work suggests that air pollution may increase the risk of appendicitis .
+OBJECTIVES We investigated whether ambient ground-level ozone ( O3 ) concentrations were associated with appendicitis and whether these associations varied between perforated and nonperforated appendicitis .
+METHODS We based this time-stratified case-crossover study on 35,811 patients hospitalized with appendicitis from 2004 to 2008 in 12 Canadian cities .
+Data from a national network of fixed-site monitors were used to calculate daily maximum O3 concentrations for each city .
+Conditional logistic regression was used to estimate city-specific odds ratios ( ORs ) relative to an interquartile range ( IQR ) increase in O3 adjusted for temperature and relative humidity .
+A random-effects meta-analysis was used to derive a pooled risk estimate .
+Stratified analyses were used to estimate associations separately for perforated and nonperforated appendicitis .
+RESULTS Overall , a 16-ppb increase in the 7-day cumulative average daily maximum O3 concentration was associated with all appendicitis cases across the 12 cities ( pooled OR = 1.07 ; 95% CI : 1.02 , 1.13 ) .
+The association was stronger among patients presenting with perforated appendicitis for the 7-day average ( pooled OR = 1.22 ; 95% CI : 1.09 , 1.36 ) when compared with the corresponding estimate for nonperforated appendicitis [ 7-day average ( pooled OR = 1.02 , 95% CI : 0.95 , 1.09) ] .
+Heterogeneity was not statistically significant across cities for either perforated or nonperforated appendicitis ( p > 0.20 ) .
+CONCLUSIONS Higher levels of ambient O3 exposure may increase the risk of perforated appendicitis .

@@ -1,0 +1,5 @@
+Arsenic is a well-known human carcinogen with a ubiquitous distribution in the natural environment .
+Chronic exposure to inorganic arsenic involves a biotransformation process that leds to the main excretion of organic methylated metabolites , such as monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) , as well as the parental inorganic species .
+Interindividual variation in arsenic metabolism has been extensively reported , and polymorphisms in genes involved in such process could be related to changes in the arsenic excretion profile and the response to chronic exposures .
+Our analysis of the metabolic profiles in three groups of workers exposed to different arsenic exposure levels showed high amounts of inorganic arsenic and MMA in the most-exposed workers versus the least-exposed workers , in whom high amounts of DMA were observed .
+With respect to the role of different genetic polymorphisms in the glutathione S-transferase ( GST ) genes in the modulation of the urinary profiles , for the overall population only a tendency was just observed between GSTM1 null and MMA excretion as well as between GSTP1 val/val and DMA excretion .

@@ -1,0 +1,10 @@
+BACKGROUND The risk of skin lesions associated with arsenic exposure from drinking water in Bangladesh is considerably greater in men than in women .
+METHODS Using baseline data from 11,062 cohort members in the Health Effects of Arsenic Longitudinal Study in Araihazar , Bangladesh , we performed a cross-sectional analysis to evaluate whether the association between arsenic exposure from drinking water and the risk of skin lesions is modified by tobacco smoking , excessive sunlight , the use of fertilizer , and the use of pesticides .
+A time-weighted well arsenic concentration was estimated for each participant by incorporating history of well use .
+Relative excess risk for interaction ( RERI ) and its 95% confidence intervals ( CIs ) were estimated using adjusted prevalence odds ratios .
+RESULTS We observed a synergistic effect between the highest level of arsenic exposure ( > 113 microg/L ) and tobacco smoking on risk of skin lesions in men ( RERI = 1.5 [ 95% CI = 0.3 to 2.7 ] overall and 1.7 [ 0.2 to 3.4 ] for the subpopulation with longer-term arsenic exposure ) .
+We also observed suggestive synergistic effects between higher levels ( 28.1-113.0 microg/L and 113.1-864.0 microg/L ) of arsenic exposure and fertilizer use in men ( RERI = 1.0 [ -0.2 to 2.2 ] and 1.3 [ -0.2 to 2.9 ] respectively ) .
+Furthermore , the risk of skin lesions associated with any given level of arsenic exposure was greater in men with excessive sun exposure .
+The patterns of effect estimates in women indicate similar-but-weaker interaction effects of arsenic exposure with tobacco smoking and fertilizer use .
+CONCLUSIONS These findings help explain why the risk of arsenic-related skin lesions was much greater in men than in women in Bangladesh .
+Because most arsenic-induced skin cancers arise from these skin lesions , treatment and remediation plans should take into consideration these etiologic cofactors .

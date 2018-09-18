@@ -1,0 +1,12 @@
+Estimates of exposure to the flame-retardant polybrominated diphenyl ethers ( PBDEs ) in dust dust are very poor due to limited knowledge about dust dust ingestion .
+This study was undertaken to determine if PBDEs could be measured on hand hand wipes , and if so , to determine the distribution of levels present on the skin surface area to provide preliminary exposure estimates from hand-to-mouth contact .
+Hand Hand wipes were collected from 33 individuals residing in the United States using sterile gauze pads soaked in isopropyl alcohol .
+The total PBDE residue collected on the wipes ranged from 2.60 to 1982 ng , with a median value of 130 ng , or normalized to hand hand surface area , a concentration of 135 pg/cm2 .
+The fully brominated congener , BDE 209 , was also detected and ranged from < DL to 270 ng with a median value of 26 ng .
+Congener patterns observed on the wipes were similar to patterns observed in house dust dust samples , consisting of congeners associated with the PentaBDE and DecaBDE mixtures , suggesting that the source of PBDEs to the hands may be dust dust particles .
+However , PBDE hand hand residues may also be a result of direct contact with PBDE-laden products , leading to adsorption to the skin surface oils .
+Repeated wipe sampling from three individuals suggests that sigmaPBDE levels on the hand hand may be relatively consistent for some individuals but not for others .
+Furthermore , levels of sigmaPBDEs were greater on the bottom of the hands relative to the top of the hands .
+Using these values we have calculated potential human exposure from hand-to-mouth contact .
+The median exposure estimates for children and adults are 1380 and 154 ng/day , respectively , whereas the 95th percentile exposure estimates were 6090 and 677 ng/day , respectively .
+These estimates are greater than dietary intake rates and suggest hand-to-mouth contact may be a key exposure route for PBDEs .

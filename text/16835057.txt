@@ -1,0 +1,9 @@
+To address the lack of research on the pulmonary health effects of ozone and fine particulate matter ( </= 2.5 microm in aerodynamic diameter ; PM2.5 ) on individuals who recreate in the Great Smoky Mountains National Park ( USA ) and to replicate a study performed at Mt .
+Washington , New Hampshire ( USA ) , we conducted an observational study of adult ( 18-82 years of age ) day hikers of the Charlies Bunion trail during 71 days of fall 2002 and summer 2003 .
+Volunteer hikers performed pre- and posthike pulmonary function tests ( spirometry ) , and we continuously monitored ambient O3 , PM2.5 , temperature , and relative humidity at the trailhead .
+Of the 817 hikers who participated , 354 ( 43% ) met inclusion criteria ( nonsmokers and no use of bronchodilators within 48 hr ) and gave acceptable and reproducible spirometry .
+For these 354 hikers , we calculated the posthike percentage change in forced vital capacity ( FVC ) , forced expiratory volume in 1 sec ( FEV1 ) , FVC/FEV1 , peak expiratory flow , and mean flow rate between 25 and 75% of the FVC and regressed each separately against pollutant ( O3 or PM2.5 ) concentration , adjusting for age , sex , hours hiked , smoking status ( former vs. never ) , history of asthma or wheeze symptoms , hike load , reaching the summit , and mean daily temperature .
+O3 and PM2.5 concentrations measured during the study were below the current federal standards , and we found no significant associations of acute changes in pulmonary function with either pollutant .
+These findings are contrasted with those in the Mt .
+Washington study to examine the hypothesis that pulmonary health effects are associated with exposure to O3 and PM2.5 in healthy adults engaged in moderate exercise .
+.

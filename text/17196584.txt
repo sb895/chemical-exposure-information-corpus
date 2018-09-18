@@ -1,0 +1,13 @@
+Previous studies have indicated that farm workers may be at increased risk of gastric cancer .
+Meta-analyses , ecological , case-control , and cohort studies suggest that some aspects of the agricultural environment may be implicated in the elevated risk .
+Hispanic farm workers in California are exposed to a multitude of potentially toxic substances in the work site , including excessive sunlight , fertilizers , diesel fumes , and pesticides .
+A previous analysis of a cohort of California farm workers who had been members of a farm labor union , the United Farm Workers of America ( UFW ) found a proportionate cancer incidence ratio for stomach cancer of 1.69 when using the California Hispanic population as the standard .
+The aim of the current study was to further evaluate associations between gastric cancer and the types of crops and commodities UFW members cultivate and the associated pesticide use as recorded by the California Department of Pesticide Regulation ( DPR ) .
+We conducted a nested case-control study of gastric cancer embedded in the UFW cohort and identified 100 cases of newly diagnosed gastric cancer between 1988 and 2003 .
+We identified 210 control participants matched on age , gender , ethnicity , and who were known to be alive and resident in California up to the date of the cases ' diagnosis .
+Both stratified analyses and unconditional logistic regression were used to calculate adjusted odds ratios ( OR ) and 95% confidence intervals ( 95% CI ) .
+Work in the citrus industry was associated with increased gastric cancer ( OR=2.88 ; 95% CI=1.02-8.12 ) although no other specific crops or commodities were associated with this disease .
+Working in areas with high use of the phenoxyacetic acid herbicide 2,4-D was associated with gastric cancer ( OR=1.85 ; 95% CI=1.05-3.25 ) ; use of the organochlorine insecticide chlordane was also associated with the disease ( OR=2.96 ; 95% CI=1.48-5.94 ) .
+Gastric cancer was associated with use of the acaricide propargite and the herbicide triflurin ( OR=2.86 ; 95% CI=1.56-5.23 and 1.69 , 95% CI=0.99-2.89 , respectively ) .
+Gastric cancer in California Hispanic farm workers is associated with work in the citrus fruit industry and among those who work in fields treated with 2,4-D , chlordane , propargite , and trifluin .
+These findings may have larger public health implications especially in those areas of the country where these pesticides are heavily used and where they may be found in the ambient atmosphere .

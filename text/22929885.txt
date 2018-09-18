@@ -1,0 +1,12 @@
+BACKGROUND In 1996 and 2009 , the International Agency for Research on Cancer classified silica as carcinogenic to humans .
+The exposure-response relationship between silica and lung cancer risk , however , is still debated .
+Data from the German uranium miner cohort study were used to further investigate this relationship .
+METHODS The cohort includes 58677 workers with individual information on occupational exposure to crystalline silica in mg m(-3)-years and the potential confounders radon and arsenic based on a detailed job-exposure matrix .
+In the follow-up period 1946-2003 , 2995 miners died from lung cancer .
+Internal Poisson regression with stratification by age and calendar year was used to estimate the excess relative risk ( ERR ) per dust-year .
+Several models including linear , linear quadratic and spline functions were applied .
+Detailed adjustment for cumulative radon and arsenic exposure was performed .
+RESULTS A piecewise linear spline function with a knot at 10 mg m(-3)-years provided the best model fit .
+After full adjustment for radon and arsenic no increase in risk <10 mg m(-3)-years was observed .
+Fixing the parameter estimate of the ERR in this range at 0 provided the best model fit with an ERR of 0.061 ( 95% confidence interval : 0.039 , 0.083 ) >10 mg m(-3)-years .
+CONCLUSION The study confirms a positive exposure-response relationship between silica and lung cancer , particularly for high exposures .

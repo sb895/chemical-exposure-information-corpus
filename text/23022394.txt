@@ -1,0 +1,7 @@
+Polychlorinated biphenyls ( PCBs ) and polybrominated diphenyl ethers ( PBDEs ) are persistent organic pollutants suspected to have various toxic effects , including reproductive toxicity .
+The aim of this study was to determine the concentrations of PCBs and PBDEs in human placentas and to examine the potential association between in utero exposure to these pollutants and the risk of neural tube defects .
+Subjects were recruited from a birth defects surveillance program in a rural area of Shanxi Province , China , from 2005 to 2007. 80 placental samples from fetuses/neonates with neural tube defects and 50 samples from healthy newborn infants were analyzed for PCBs and PBDEs using electron-capture negative-ionization gas chromatographic mass spectrometry .
+The median concentrations were 0.89 and 0.54ng/g lipid for the eight PCB congeners and six PBDE congeners detected , respectively .
+The median concentration of total PCBs was slightly higher in the case samples than in the controls ( 0.91 vs. 0.89ng/g lipid ) , but the difference was not significant ( P=0.46 ) , as also found for the median concentration of total PBDEs ( 0.55 vs. 0.54ng/g lipid , P=0.61 ) .
+For both PCBs and PBDEs , when their placental concentration was above the median of all samples , it was associated with a non-significantly higher or equal risk of neural tube defects .
+Low levels of PCBs and PBDEs are not likely risk factors for neural tube defects in this population .

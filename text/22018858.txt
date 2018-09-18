@@ -1,0 +1,8 @@
+An evolving body of evidence suggests an adverse relation between persistent organochlorine pollutants ( POPs ) and menstruation , though prospective longitudinal measurement of menses is limited and served as the impetus for study .
+We prospectively assessed the relation between a mixture of persistent organochlorine compounds and menstrual cycle length and duration of bleeding in a cohort of women attempting to become pregnant .
+Eighty-three ( 83% ) women contributing 447 cycles for analysis provided a blood specimen for the quantification of 76 polychlorinated biphenyls and seven organochlorine pesticides , and completed daily diaries on menstruation until a human chorionic gonadotropin confirmed pregnancy or 12 menstrual cycles without conception .
+Gas chromatography with electron capture detection was used to quantify concentrations ( ng g(-1)serum ) ; enzymatic methods were used to quantify serum lipids ( mg dL(-1) ) .
+A linear regression model with a mixture distribution was used to identify chemicals grouped by purported biologic activity that significantly affected menstrual cycle length and duration of bleeding adjusting for age at menarche and enrollment , body mass index , and cigarette smoking .
+A significant 3-d increase in cycle length was observed for women in the highest tertile of estrogenic PCB congeners relative to the lowest tertile ( \u03b2=3.20 ; 95% CI 0.36 , 6.04 ) .
+A significant reduction in bleeding ( <1 d ) was observed among women in the highest versus lowest tertile of aromatic fungicide exposure ( \u03b3=-0.15 ; 95% CI -0.29 , -0.00 ) .
+Select POPs were associated with changes in menstruation underscoring the importance of assessing chemical mixtures for female fecundity .

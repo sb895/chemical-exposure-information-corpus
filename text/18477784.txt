@@ -1,0 +1,12 @@
+CONTEXT Health risks of fine particulate matter of 2.5 microm or less in aerodynamic diameter ( PM2.5 ) have been studied extensively over the last decade .
+Evidence concerning the health risks of the coarse fraction of greater than 2.5 microm and 10 microm or less in aerodynamic diameter ( PM10-2.5 ) is limited .
+OBJECTIVE To estimate risk of hospital admissions for cardiovascular and respiratory diseases associated with PM10-2.5 exposure , controlling for PM2.5 .
+DESIGN , SETTING , AND PARTICIPANTS Using a database assembled for 108 US counties with daily cardiovascular and respiratory disease admission rates , temperature and dew-point temperature , and PM10-2.5 and PM2.5 concentrations were calculated with monitoring data as an exposure surrogate from January 1 , 1999 , through December 31 , 2005 .
+Admission rates were constructed from the Medicare National Claims History Files , for a study population of approximately 12 million Medicare enrollees living on average 9 miles ( 14.4 km ) from collocated pairs of PM10 and PM2.5 monitors .
+MAIN OUTCOME MEASURES Daily counts of county-wide emergency hospital admissions for primary diagnoses of cardiovascular or respiratory disease .
+RESULTS There were 3.7 million cardiovascular disease and 1.4 million respiratory disease admissions .
+A 10-microg/m3 increase in PM10-2.5 was associated with a 0.36% ( 95% posterior interval [ PI ] , 0.05% to 0.68% ) increase in cardiovascular disease admissions on the same day .
+However , when adjusted for PM2.5 , the association was no longer statistically significant ( 0.25% ; 95% PI , -0.11% to 0.60% ) .
+A 10-microg/m3 increase in PM10-2.5 was associated with a nonstatistically significant unadjusted 0.33% ( 95% PI , -0.21% to 0.86% ) increase in respiratory disease admissions and with a 0.26% ( 95% PI , -0.32% to 0.84% ) increase in respiratory disease admissions when adjusted for PM2.5 .
+The unadjusted associations of PM2.5 with cardiovascular and respiratory disease admissions were 0.71% ( 95% PI , 0.45%-0.96% ) for same-day exposure and 0.44% ( 95% PI , 0.06% to 0.82% ) for exposure 2 days before hospital admission .
+CONCLUSION After adjustment for PM2.5 , there were no statistically significant associations between coarse particulates and hospital admissions for cardiovascular and respiratory diseases .

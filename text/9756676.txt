@@ -1,0 +1,8 @@
+This paper estimates the health costs at Superfund sites for conditions associated with volatile organic compounds ( VOCs ) in drinking water .
+Health conditions were identified from published literature and registry information as occurring at excess rates in VOC-exposed populations .
+These health conditions were : ( 1 ) some categories of birth defects , ( 2 ) urinary tract disorders , ( 3 ) diabetes , ( 4 ) eczema and skin conditions , ( 5 ) anemia , ( 6 ) speech and hearing impairments in children under 10 years of age , and ( 7 ) stroke .
+Excess rates were used to estimate the excess number of cases occurring among the total population living within one-half mile of 258 Superfund sites .
+These sites had evidence of completed human exposure pathways for VOCs in drinking water .
+For each type of medical condition , an individual's expected medical costs , long-term care costs , and lost work time due to illness or premature mortality were estimated .
+Costs were calculated to be approximately $330 million per year , in the absence of any remediation or public health intervention programs .
+The results indicate the general magnitude of the economic burden associated with a limited number of contaminants at a portion of all Superfund sites , thus suggesting that the burden would be greater than that estimated in this study if all contaminants at all Superfund sites could be taken into account .

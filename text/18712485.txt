@@ -1,0 +1,15 @@
+Levels of pollutants including PM2.5 and PM2.5 composition ( black carbon and water soluble ions ) , SO(2) , NO(2) , CO , CO(2) , and BTEX ( benzene , toluene , ethylbenzene , xylene ) were monitored for indoor and outdoor air at a university campus and a shopping center , both located in the Northern suburb of Bangkok .
+Sampling was done during December 2005-February 2006 on both weekdays and weekends .
+At the university , indoor monitoring was done in two different air conditioned classrooms which shows the I/O ratios for all pollutants to be below 0.5-0.8 during the weekends .
+However , on weekdays the ratios for CO(2) and most detected BTEX were above 1.0 .
+The concept of classroom occupancy was defined using a function of the student number in a lecture hour and the number of lecture hours per day .
+Classroom 2 , which had a higher occupancy than classroom 1 , was characterized by higher concentrations of most pollutants .
+PM2.5 was an exception and was higher in classroom 1 ( 37 microg/m(3) , weekdays ) as compared to classroom 2 ( 26 microg/m(3) , weekdays ) which was likely linked to the dust resuspension from the carpeted floor in the former .
+Monitoring was also done in the shopping mall at three different sites .
+Indoor pollutants levels and the I/O ratios at the shopping mall were higher than at the university .
+Levels of all pollutants measured at the car park , except for toluene and CO(2) , were the highest .
+I/O ratios of the pollutants at the mall were above 1.0 , which indicates the relatively higher influence of the indoor sources .
+However , the black carbon content in PM2.5 outdoor is higher than indoor , which suggest the important contribution from outdoor combustion sources such as the traffic .
+Major sources of outdoor air pollution in the areas were briefly discussed .
+Exposure modeling was applied using the time activity and measured pollutant concentrations to assess the exposure of different groups of people in the study areas .
+High exposure to PM2.5 , especially for the people working in the mall , should be of health effect concern .

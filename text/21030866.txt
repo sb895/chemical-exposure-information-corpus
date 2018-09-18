@@ -1,0 +1,10 @@
+BACKGROUND : Otitis media is the leading reason young children receive antibiotics or visit a physician .
+We evaluated the impact of ambient air pollution on outpatient physician visits for otitis media in a population-based birth cohort .
+METHODS : All children born in southwestern British Columbia during 1999-2000 were followed until the age of 2 years .
+Residential air pollution exposures were estimated for the first 24 months of life by inverse-distance weighting of monitor data ( CO , NO , NO2 , O3 , PM2.5 , PM10 , SO2 ) , temporally adjusted land-use regression models ( NO , NO2 , PM2.5 , black carbon , woodsmoke ) , and proximity to roads and point sources .
+We used generalized estimating equations to longitudinally assess the relationship between physician visits for otitis media ( ICD-9 ) and average pollutant exposure in the 2 months prior to the visit , after adjustment for covariates .
+RESULTS : Complete exposure and risk-factor data were available for 45,513 children ( 76% of all births ) .
+A total of 42% of subjects had 1 or more physician visits for otitis media during follow-up .
+Adjusted estimates for NO , PM2.5 , and woodsmoke were consistently elevated ( eg , relative risk of 1.10 [ 95% confidence interval = 1.07-1.12 ] per interquartile range [ IQR ] increase in NO ; 1.32 [ 1.27-1.36 ] per IQR increase in days of woodsmoke exposure ) .
+No increased risks were observed for the remaining pollutants ( eg , 1.00 [ 0.98-1.03 ] per IQR increase in PM10 ; 0.99 [ 0.97-1.01 ] per IQR increase in black carbon ) .
+CONCLUSIONS : Modest but consistent associations were found between some measures of air pollution and otitis media in a large birth cohort exposed to relatively low levels of ambient air pollution .

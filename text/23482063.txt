@@ -1,0 +1,10 @@
+BACKGROUND Serum levels of perfluorooctanoic acid ( PFOA ) have been associated with decreased renal function in cross-sectional analyses , but the direction of the association is unclear .
+OBJECTIVES We examined the association of measured and model-predicted serum PFOA concentrations with estimated glomerular filtration rate ( eGFR ) , a marker of kidney function , in a highly exposed population ( median serum PFOA , 28.3 ng/mL ) .
+METHODS We measured serum creatinine , PFOA , perfluorooctane sulfonate ( PFOS ) , perfluorononanoic acid ( PFNA ) , and perfluorohexane sulfonate ( PFHxS ) and calculated eGFR in 9,660 children 1 to < 18 years of age at study enrollment .
+We predicted concurrent and historical serum PFOA concentrations using a validated environmental , exposure , and pharmacokinetic model based on individual residential histories , and used linear regression to estimate the association between eGFR and measured and predicted serum PFOA concentrations .
+We hypothesized that predicted serum PFOA levels would be less susceptible to reverse causation than measured levels .
+RESULTS An interquartile range increase in measured serum PFOA concentrations [ IQR ln(PFOA) = 1.63 ] was associated with a decrease in eGFR of 0.75 mL/min/1.73 m(2) ( 95% CI : -1.41 , -0.10 ; p = 0.02 ) .
+Measured serum levels of PFOS , PFNA , and PFHxS were also cross-sectionally associated with decreased eGFR .
+In contrast , predicted serum PFOA concentrations at the time of enrollment were not associated with eGFR ( -0.10 ; 95% CI : -0.80 , 0.60 ; p = 0.78 ) .
+Additionally , predicted serum PFOA levels at birth and during the first ten years of life were not related to eGFR .
+CONCLUSIONS Our findings suggest that the cross-sectional association between eGFR and serum PFOA observed in this and prior studies may be a consequence of , rather than a cause of , decreased kidney function .

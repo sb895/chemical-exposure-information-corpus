@@ -1,0 +1,12 @@
+At high concentrations , inorganic arsenic can cause bladder cancer in humans .
+However , it is unclear whether low exposure to inorganic arsenic in drinking water ( <100 microg/liter ) is related to bladder cancer risk .
+No study has been known to use biomarkers to assess the relation between individual arsenic exposure and bladder cancer risk .
+Toenail samples provide an integrated measure of internal arsenic exposure and reflect long-term exposure .
+The authors examined the relation between toenail arsenic levels and bladder cancer risk among participants in the Alpha-Tocopherol , Beta-Carotene Cancer Prevention Study , a cohort of Finnish male smokers aged 50-69 years .
+Data for 280 incident bladder cancer cases , identified between baseline ( 1985-1988 ) and April 1999 , were available for analysis .
+One control was matched to each case on the basis of age , toenail collection date , intervention group , and smoking duration .
+Arsenic levels in toenail samples were determined by using neutron activation analysis .
+Logistic regression analyses were performed to estimate odds ratios .
+Arsenic toenail concentrations in this Finnish study were similar to those reported in US studies ( range : 0.02-17.5 microg/g ) .
+The authors observed no association between inorganic arsenic concentration and bladder cancer risk ( odds ratio = 1.13 , 95% confidence interval : 0.70 , 1.81 for the highest vs. lowest quartile ) .
+These findings suggest that low-level arsenic exposure is unlikely to explain a substantial excess risk of bladder cancer .

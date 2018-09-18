@@ -1,0 +1,8 @@
+OBJECTIVE To evaluate the effects of outdoor air pollution , taking into account indoor air pollution , in Indonesia .
+METHODS The subjects were 15,242 children from 2002 to 2003 Indonesia Demographic and Health Survey .
+The odds ratios and their confidence intervals for adverse health effects were estimated .
+RESULTS Proximity increased the prevalence of acute respiratory infection both in urban and rural areas after adjusting for indoor air pollution .
+In urban areas , the prevalence of acute upper respiratory infection increased by 1.012 ( 95% confidence intervals : 1.005 to 1.019 ) per 2 km proximity to a major road .
+Adjusted odds ratios tended to be higher in the high indoor air pollution group .
+CONCLUSION Exposure to traffic-related outdoor air pollution would increase adverse health effects after adjusting for indoor air pollution .
+Furthermore , indoor air pollution could exacerbate the effects of outdoor air pollution .

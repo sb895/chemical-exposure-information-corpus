@@ -1,0 +1,8 @@
+Total diet study ( TDS ) samples of 14 food groups from 16 locations in Japan , collected in 1999 and 2000 , were analyzed for polychlorinated dibenzo-p-dioxins ( PCDDs ) , dibenzofurans ( PCDFs ) , and dioxin-like polychlorinated biphenyls ( dioxin-like PCBs ) to estimate the update of daily intake of these contaminants from food .
+The mean daily intake of toxic equivalency ( TEQ ) for an adult weighing 50 kg , calculated at non-detected isomer concentrations equal to zero ( ND = 0 ) , was estimated to be 2.25 pg TEQ/kg b.w./day .
+When non-detected isomer concentrations are assumed to be equal to half of the limits of detection ( ND = 1/2 LOD ) , the mean daily intake was estimated to be 3.22 pg TEQ/kg b.w./day .
+These values were below the tolerable daily intake ( TDI ) of 4 pg TEQ/kg b.w. for PCDD/Fs and dioxin-like PCBs set in Japan .
+In both the estimates , the mean daily intakes were highest from fish and shellfish ( 76.9% at ND = 0 and 53.9% at ND = 1/2 LOD of the total TEQs ) , followed by those from meat and eggs ( 15.5% at ND = 0 and 11.7% at ND = 1/2 LOD of the total TEQs ) .
+Congener specific data revealed that these total TEQ levels were dominated by 1,2,3,7,8-PeCDD , 2,3,4,7,8-PeCDF and 3,3',4,4',5-PeCB in each case ( 71.7% at ND = 0 and 63.1% at ND = 1/2 LOD of the total TEQs ) .
+The dioxin-like PCBs ( non-ortho and mono-ortho PCBs ) accounted for about 50% of these total TEQs .
+These data will be very useful in the risk assessment of PCDD/Fs and dioxin-like PCBs from food in Japan .

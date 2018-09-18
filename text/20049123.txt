@@ -1,0 +1,9 @@
+BACKGROUND Little is known about the carcinogenic potential of arsenic in areas with low to moderate concentrations of arsenic ( < 100 microg/L ) in drinking water .
+OBJECTIVES We examined associations between arsenic and lung cancer .
+METHODS A population-based case-control study of primary incident lung cancer was conducted in 10 counties in two U.S. states , New Hampshire and Vermont .
+The study included 223 lung cancer cases and 238 controls , each of whom provided toenail clippings for arsenic exposure measurement by inductively coupled-plasma mass spectrometry .
+We estimated odds ratios ( ORs ) of the association between arsenic exposure and lung cancer using unconditional logistic regression with adjustment for potential confounders ( age , sex , race/ethnicity , smoking pack-years , education , body mass index , fish servings per week , and toenail selenium level ) .
+RESULTS Arsenic exposure was associated with small-cell and squamous-cell carcinoma of the lung [ OR = 2.75 ; 95% confidence interval ( CI ) , 1.00-7.57 ] for toenail arsenic concentration > or = 0.114 microg/g , versus < 0.05 microg/g .
+A history of lung disease ( bronchitis , chronic obstructive pulmonary disease , or fibrosis ) was positively associated with lung cancer ( OR = 2.86 ; 95% CI , 1.39-5.91 ) .
+We also observed an elevated risk of lung cancer among participants with a history of lung disease and toenail arsenic > or = 0.05 microg/g ( OR = 4.78 ; 95% CI , 1.87-12.2 ) than among individuals with low toenail arsenic and no history of lung disease .
+CONCLUSION Although this study supports the possibility of an increased risk of specific lung cancer histologic types at lower levels of arsenic exposure , we recommend large-scale population-based studies .

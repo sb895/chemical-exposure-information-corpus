@@ -1,0 +1,8 @@
+We conducted a population-based case-control study to evaluate the relationship between cases of breast cancer and exposure to tetrachloroethylene ( PCE ) from public drinking water ( n = 258 cases and 686 controls ) .
+Women were exposed to PCE when it leached from the vinyl lining of water distribution pipes .
+The relative delivered dose was estimated using an algorithm that accounted for residential history , water flow , and pipe characteristics .
+Only small increases in breast cancer risk were seen among ever-exposed women either when latency was ignored or when 5 to 15 years of latency was considered .
+No or small increases were seen among highly exposed women either when latency was ignored or when 5 years of latency was considered .
+However , the adjusted odds ratios ( ORs ) were more increased for highly exposed women when 7 and 9 years of latency , respectively , were considered ( OR 1.5 95% CI 0.5-4.7 and OR 2.3 , 95% CI 0.6-8.8 for the 75th percentile , and OR 2.7 , 95% CI 0.4-15.8 and OR 7.6 , 95% CI 0.9-161.3 for the 90th percentile ) .
+The number of highly exposed women was too small for meaningful analysis when more years of latency were considered .
+Because firm conclusions from these data are limited , we recently undertook a new study with a large number of more recently diagnosed cases .

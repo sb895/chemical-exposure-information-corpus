@@ -1,0 +1,10 @@
+There is an increasing body of literature showing associations of organochlorine exposure with risk of diabetes and insulin resistance .
+Some studies suggest that associations differ by gender and that diabetes risk , in turn , may be affected by endogenous steroid hormones .
+This report examines the relationships of serum PCBs and endogenous hormones with history of diabetes in a cohort of persons previously employed at a capacitor manufacturing plant .
+A total of 118 women were post-menopausal with complete data , of whom 93 were not using steroid hormones in 1996 , at the time of examination , which included a survey of exposure and medical history , height , weight and collection of blood and urine for measurements of lipids , liver function , hematologic markers and endogenous hormones .
+This analysis examines relationships of serum polychlorinated biphenyls ( PCBs ) , work exposure and endogenous hormones with self-reported history of diabetes after control for potential confounders .
+All PCB exposure groups were significantly related to history of diabetes , but not to insulin resistance as measured by the homeostatic model assessment of insulin resistance ( HOMA-IR ) in non-diabetics .
+Diabetes was also independently and inversely associated with follicle stimulating hormone ( FSH ) , dehydroepiandrosterone sulfate ( DHEAS ) and triiodothyronine ( T3 ) uptake .
+HOMA-IR was positively associated with body mass index ( BMI ) and C-reactive protein ( CRP ) and inversely associated with sex hormone binding globulin ( SHBG ) and T3 uptake after control for PCB exposure .
+Possible biologic mechanisms are discussed .
+This study confirms previous reports relating PCB exposure to diabetes and suggests possible hormonal pathways deserving further exploration .

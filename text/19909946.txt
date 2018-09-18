@@ -1,0 +1,11 @@
+The main source of human exposure to mercury is the consumption of fish contaminated with methylmercury , which may adversely affect early neurodevelopment .
+This study assessed mercury levels in hair of preschoolers in Spain , where fish consumption is elevated , with the aim of investigating the influence of their fish intake and other factors on mercury exposure , and evaluating their association with cognitive development .
+A population-based birth cohort from Granada ( Spain ) was studied at the age of 4yr .
+Total mercury ( T-Hg ) levels were determined in children's hair , and daily fish intake was assessed by a food frequency questionnaire .
+The McCarthy Scales of Children's Abilities ( MSCA ) were used to assess children's motor and cognitive abilities .
+Complete data were gathered on 72 children , and multivariate analyses were performed to evaluate the influence of mercury exposure and fish intake on MSCA outcomes .
+Mean concentration of T-Hg in hair was 0.96 microg/g ( 95% confidence interval=0.76 ; 1.20 microg/g ) .
+T-Hg levels were associated with higher frequency of oily fish consumption , place of residence , maternal age , and passive smoking .
+After adjustment for fish intake , T-Hg levels > or =1microg/g were associated with decrements in the general cognitive ( -6.6 points ) , memory ( -8.4 points ) , and verbal ( -7.5 points ) MSCA scores .
+Higher mercury exposure in children from this Mediterranean area was associated with cognitive development delay .
+Studies on the putative benefits of fish intake during early development should consider mercury exposure from different fish species .

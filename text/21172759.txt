@@ -1,0 +1,12 @@
+BACKGROUND Past time-series studies of the health effects of fine particulate matter [ aerodynamic diameter \u2264 2.5 µm ( PM2.5) ] have used chemically nonspecific PM2.5 mass .
+However , PM2.5 is known to vary in chemical composition with source , and health impacts may vary accordingly .
+OBJECTIVE We tested the association between source-specific daily PM2.5 mass and hospital admissions in a time-series investigation that considered both single-lag and distributed-lag models .
+METHODS Daily PM2.5 speciation measurements collected in midtown Manhattan were analyzed via positive matrix factorization source apportionment .
+Daily and distributed-lag generalized linear models of Medicare respiratory and cardiovascular hospital admissions during 2001-2002 considered PM2.5 mass and PM2.5 from five sources : transported sulfate , residual oil , traffic , steel metal works , and soil .
+RESULTS Source-related PM2.5 ( specifically steel and traffic ) was significantly associated with hospital admissions but not with total PM2.5 mass .
+Steel metal works-related PM2.5 was associated with respiratory admissions for multiple-lag days , especially during the cleanup efforts at the World Trade Center .
+Traffic-related PM2.5 was consistently associated with same-day cardiovascular admissions across disease-specific subcategories .
+PM2.5 constituents associated with each source ( e.g. , elemental carbon with traffic ) were likewise associated with admissions in a consistent manner .
+Mean effects of distributed-lag models were significantly greater than were maximum single-day effect models for both steel- and traffic-related PM2.5 .
+CONCLUSIONS Past analyses that have considered only PM2.5 mass or only maximum single-day lag effects have likely underestimated PM2.5 health effects by not considering source-specific and distributed-lag effects .
+Differing lag structures and disease specificity observed for steel-related versus traffic-related PM2.5 raise the possibility of distinct mechanistic pathways of health effects for particles of differing chemical composition .

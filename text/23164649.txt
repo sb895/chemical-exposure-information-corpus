@@ -1,0 +1,10 @@
+BACKGROUND Heavy metals , such as lead ( Pb ) , mercury ( Hg ) , and cadmium ( Cd ) , are known toxicants , but their associations with the thyroid axis have not been well quantified at U.S. background levels .
+OBJECTIVES We investigated the relationships between thyroid hormones ( total and free thyroxine [ TT4 and FT4 ] , total and free triiodothyronine [ TT3 and FT3 ] , thyroid-stimulating hormone [ TSH ] , and thyroglobulin [ Tg] ) and levels of Pb , Hg , and Cd in blood and Cd in urine .
+METHODS We separately analyzed a sample of 1,109 adolescents ( 12-19 years of age ) and a sample of 4,409 adults from the U.S. National Health and Nutrition Examination Survey ( NHANES ) 2007-2008 .
+We estimated associations after adjusting for age , sex , race , urinary iodine , body mass index , and serum cotinine .
+RESULTS The geometric mean ( GM ) levels of blood Pb ( BPb ) , total Hg , and Cd were 0.81 µg/dL , 0.47 µg/L , and 0.21 µg/L in adolescents and 1.43 µg/dL , 0.96 µg/L , and 0.38 µg/L in adults , respectively .
+The GMs of urinary Cd were 0.07 and 0.25 µg/g creatinine in adolescents and adults , respectively .
+No consistent pattern of metal and thyroid hormone associations was observed in adolescents .
+In adults , blood Hg was inversely related to TT4 , TT3 , and FT3 and urinary Cd was positively associated with TT4 , TT3 , FT3 , and Tg , but there were no associations with Pb .
+Associations were relatively weak at an individual level , with about 1-4% change in thyroid hormones per interquartile range increase in Hg or Cd .
+CONCLUSIONS Our analysis suggests an inverse association between Hg exposure and thyroid hormones , and a positive association between Cd exposure and thyroid hormones in adults .

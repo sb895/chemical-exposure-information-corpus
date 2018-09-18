@@ -1,0 +1,11 @@
+Despite the dramatic reductions in children's blood lead levels ( BLLs ) , there is considerable evidence that low-level lead exposure is associated with intellectual deficits and behavioral problems , without apparent threshold .
+There are limited data , however , about the contribution of residential sources of lead to contemporary children's blood lead levels .
+The aim of this study is to calculate the contributions of residential sources of lead to assess the potential impact of setting new standards for lead levels in residential dust , soil and water .
+We enrolled 484 French children aged from 6 months to 6 years , and collected data on social , housing and individual characteristics .
+Lead concentrations in blood and environmental samples ( water , soils , and dusts ) were measured using inductively coupled plasma mass spectrometry .
+Data were analyzed using a multivariate generalized additive model accounting for the sampling design and the sampling weights .
+We found that exceedingly low concentrations of lead in dust , soil and water were significant predictors of children's BLLs , after adjustment for potential confounding variables .
+Lead-contaminated floor dust was the main source of lead in blood .
+BLLs ( GM : 14\u03bcg/L ) increased by 65% , 13% , 25% , and 5% when lead content in floor dust , loose soil , hard soil and water increased from their 25th percentile to their 95th percentile , respectively .
+We also observed that the steepest increase in BLLs occurred at the lowest levels of lead-contaminated floor dust , which indicates that lead contamination should be kept as low as possible .
+Impact of different possible standards on children's BLLs was also tabulated and indicated that unless standards are set low , they will only benefit a small proportion of children who have the highest exposures .

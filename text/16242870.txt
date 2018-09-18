@@ -1,0 +1,9 @@
+The classical way to demonstrate the efficiency of remediation is measuring the reduction of toxic compounds in the environment .
+Nevertheless , more important is the risk reduction in human health .
+To determine changing health effects , exposure and bio-effects have to be monitored at time of and during remediation .
+Kindergarten children from a heavily polluted industrial ( n=23 ) and a control area ( n=12 ) were investigated .
+The region-specific outdoor and indoor exposure [ 27 volatile organic compounds ( VOC ) , emphasis on tri- and tetrachloroethylene ( TRI , TETRA) ] , the internal load [ (trichloroacetic acid-TCA-as urine metabolites of TRI and TETRA and S-phenyl- and S-benzylmercapturic acid ( SPMA and SBMA ) as metabolites of benzene and toluene ] , and biological effect assessment ( [ (15)N]methacetin test-a non-invasive stable isotope test to determine the unspecific liver detoxification capacity of an individual ) were measured twice a year during 2 years of remediation ( 1997/1998 ) .
+It could be shown that in- and outdoor levels of TRI and TETRA decreased by 47% in the heavily polluted village , Greppin , while the levels remained much the same in the control village , Roitzsch .
+This trend was reflected in the decreasing elimination of TCA in the urine ( 41% ) by the Greppin children , with no differences in the TCA elimination in Roitzsch probands .
+As the remediation efforts decreased the burden of exposure , the children's liver detoxification capacity improved as well .
+Combining different methods , such as exposure-effect ( external and internal loads ) and bio-effect monitoring , proved to be useful to assess remediation successes including the improvement in human health .

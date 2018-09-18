@@ -1,0 +1,10 @@
+Some studies have recently suggested that mercury ( Hg)-exposed populations face increased risks of cardiovascular diseases , and experimental data indicate that such risks might be due to reductions in nitric oxide bioavailability .
+However , no previous study has examined whether Hg exposure affects plasma nitrite concentrations in humans as an indication of nitric oxide production .
+Here , we investigated whether there is an association between circulating nitrite and Hg concentrations in whole blood , plasma and hair from an exposed methylmercury ( MeHg ) population .
+Hair and blood samples were collected from 238 persons exposed to MeHg from fish consumption .
+Hg concentrations in plasma ( PHg ) , whole blood ( BHg ) and hair Hg ( HHg ) were determined by inductively coupled plasma-mass spectrometry .
+Mean BHg content was 49.8 +/- 35.2 microg/l , mean PHg was 7.8 +/- 6.9 microg/l and HHg 14.6 +/- 10.6 microg/g .
+Mean plasma nitrite concentration was 253.2 +/- 105.5 nM .
+No association was found between plasma nitrite concentration and BHg or HHg concentrations in a univariate model .
+However , multiple regression models adjusted for gender , age and fish consumption showed a significant association between plasma nitrite and plasma Hg concentration ( beta = -0.1 , p < 0.001 ) .
+Our findings constitute preliminary clinical evidence that exposure to MeHg may cause inhibitory effects on the production of endothelial nitric oxide .

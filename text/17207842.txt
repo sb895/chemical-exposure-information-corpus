@@ -1,0 +1,18 @@
+We modified our prior age-dependent half-life model to characterize the range of child ( ages 0-7 ) body burdens associated with dietary and environmental exposure to polychlorodibenzodioxins and furans ( PCDD/Fs ) .
+Several exposure scenarios were evaluated .
+Infants were assumed to be either breast-fed or formula-fed from birth to 6 months of age .
+They then received intakes of PCDD/Fs through age 7 from foods based on weighted means estimates [ JECFA , 2001 .
+Joint FAO/WHO Committee on Food Additives .
+Fifty-seventh meeting , Rome , June 5-14 , 2001 , pp. 24-40 ] , and with or without exposures ( ingestion and dermal ) to urban residential soils at 1ppb TCDD toxic equivalents ( TEQ ) .
+A one-compartment ( adipose volume ) toxicokinetic model for TCDD described by Kreuzer [ Kreuzer , P.F. , Csanady , Gy.A. , et al. , 1997. 2,3,7,8-Tetrachlorodibenzo-p-dioxin ( TCDD ) and congeners in infants .
+A toxicokinetic model of human lifetime body burden by TCDD with special emphasis on its uptake by nutrition .
+Arch .
+Toxicol. 71 , 383-400 ] was expanded to include the key non-TCDD congeners in human breast milk and adipose tissues , and two model parameter refinements were examined : ( 1 ) use of updated and more detailed age-correlated body fat mass data [ CDC , 2000 .
+Centers for Disease Control .
+CDC Growth Charts : United States .
+Advance Data from Vital and Health Statistics of the Centers for Disease Control and Prevention , National Center for Health Statistics , Number 314 , December 2000 ] ; ( 2 ) use of breast milk PCDD/F concentration data from sampling completed in 2000-2003 [ Wittsiepe , J. , Fürst , P. , et al. , 2004 .
+PCDD/F and dioxin-like PCB in human blood and milk from German mothers .
+Organohalogen Compd. 66 , 2865-2872 ] .
+The updated body fat mass data nearly halved the predicted peak body burden for breast-feeding and lowered the time-weighted average ( TWA ) body burdens from ages 0-7 by 30-40% for breast-fed and formula-fed infants .
+Combined use of the updated breast milk PCDD/F concentration and body fat mass data increased the contribution of breast-feeding but reduced TWA body burdens from diet and soil .
+We conclude that further refinements are needed , but reliance on these better data sets for body fat mass and breast milk PCDD/F concentration significantly improves the model's ability to accurately predict body burdens during early childhood .

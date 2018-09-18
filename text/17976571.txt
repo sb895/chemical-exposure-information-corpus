@@ -1,0 +1,10 @@
+BACKGROUND Exposure to endocrine disruptors ( EDs ) , including some phthalates , phytoestrogens and phenols can be quantified using biomarkers of exposure .
+However , reliability in the use of these biomarkers requires an understanding of the timeframe of exposure represented by one measurement .
+Data on the temporal variability of ED biomarkers are sparse , especially among children .
+OBJECTIVE To evaluate intraindividual temporal variability in 19 individual urinary biomarkers ( eight phthalate metabolites from six phthalate diesters , six phytoestrogens ( two lignans and four isoflavones ) and five phenols ) among New York City children .
+METHODS Healthy Hispanic and Black children ( N=35 ; 6-10 years old ) donated several urine samples over 6 months .
+To assess temporal variability we used three statistical methods : intraclass correlation coefficient ( ICC ) , Spearman correlation coefficients ( SCC ) between concentrations measured at different timepoints , and surrogate category analysis to determine how well the tertile categories based on a single measurement represented a 6-month average concentration .
+RESULTS Surrogate category analysis indicated that a single sample provides reliable ranking for all analytes ; at least three of four surrogate samples predicted the 6-month mean concentration .
+Of the 19 analytes , the ICC was >0.2 for 18 analytes and >0.3 for 10 analytes .
+Correlations among sample concentrations throughout the 6-month period were observed for all analytes ; 14 analyte concentrations were correlated at 16 weeks .
+CONCLUSIONS The reasonable degree of temporal reliability and the wide range of concentrations of phthalate metabolites , phytoestrogens and phenols suggest that these biomarkers are appropriate for use in epidemiologic studies of environmental exposures in relation to health outcomes in children .

@@ -1,0 +1,12 @@
+BACKGROUND Exposure to toxic methylmercury ( MeHg ) through fish consumption is a large problem worldwide , and it has led to governmental recommendations of reduced fish consumption and blacklisting of mercury-contaminated fish .
+The elimination kinetics of MeHg varies greatly among individuals .
+Knowledge about the reasons for such variation is of importance for improving the risk assessment for MeHg .
+One possible explanation is hereditary differences in MeHg metabolism .
+MeHg is eliminated from the body as a glutathione ( GSH ) conjugate .
+OBJECTIVES We conducted this study to assess the influence of polymorphisms in GSH-synthesizing [ glutamyl-cysteine ligase modifier subunit ( GCLM-588 ) and glutamyl-cysteine ligase catalytic subunit ( GCLC-129) ] or GSH-conjugating [ glutathione S-transferase pi 1 ( GSTP1-105 and GSTP1-114) ] genes on MeHg retention .
+METHODS Based on information obtained from questionnaires , 292 subjects from northern Sweden had a high consumption of fish ( lean/fat fish two to three times per week or more ) .
+We measured total Hg in erythrocytes ( Ery-Hg ) and long-chain n-3 polyunsaturated fatty acids in plasma ( P-PUFA ; an exposure marker for fish intake ) .
+RESULTS The GSTP1 genotype modified Ery-Hg ; effects were seen for GSTP1-105 and -114 separately , and combining them resulted in stronger effects .
+We found evidence of effect modification : individuals with zero or one variant allele demonstrated a steeper regression slope for Ery-Hg ( p=0.038 ) compared with individuals with two or more variant alleles .
+The GCLM-588 genotype also influenced Ery-Hg ( p=0.035 ) : Individuals with the GCLM-588 TT genotype demonstrated the highest Ery-Hg , but we saw no evidence of effect modification with increasing P-PUFA .
+CONCLUSIONS These results suggest a role of GSH-related polymorphisms in MeHg metabolism .

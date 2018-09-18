@@ -1,0 +1,14 @@
+BACKGROUND There is emerging evidence that background exposure to persistent organic pollutants ( POPs ) are important in the development of conditions predisposing to diabetes as well as of type 2 diabetes itself .
+We recently reported that low dose POPs predicted incident type 2 diabetes in a nested case-control study .
+The current study examined if low dose POPs predicted future adiposity , dyslipidemia , and insulin resistance among controls without diabetes in that study .
+METHODOLOGY/PRINCIPAL FINDINGS The 90 controls were diabetes-free during 20 years follow-up .
+They were a stratified random sample , enriched with overweight and obese persons .
+POPs measured in 1987-88 ( year 2 ) sera included 8 organochlorine ( OC ) pesticides , 22 polychlorinated biphenyls ( PCBs ) , and 1 polybrominated biphenyl ( PBB ) .
+Body mass index ( BMI ) , triglycerides , HDL-cholesterol , LDL-cholesterol , and homeostasis model assessment value for insulin resistance ( HOMA-IR ) were study outcomes at 2005-06 ( year 20 ) .
+The evolution of study outcomes during 18 years by categories of serum concentrations of POPs at year 2 was evaluated by adjusting for the baseline values of outcomes plus potential confounders .
+Parallel to prediction of type 2 diabetes , many statistically significant associations of POPs with dysmetabolic conditions appeared at low dose , forming inverted U-shaped dose-response relations .
+Among OC pesticides , p,p'-DDE most consistently predicted higher BMI , triglycerides , and HOMA-IR and lower HDL-cholesterol at year 20 after adjusting for baseline values .
+Oxychlordane , trans-nonachlor , and hexachlorobenzene also significantly predicted higher triglycerides .
+Persistent PCBs with \u22657 chlorides predicted higher BMI , triglycerides , and HOMA-IR and lower HDL-cholesterol at year 20 with similar dose-response curves .
+CONCLUSIONS/SIGNIFICANCE Simultaneous exposure to various POPs in the general population may contribute to development of obesity , dyslipidemia , and insulin resistance , common precursors of type 2 diabetes and cardiovascular diseases .
+Although obesity is a primary cause of these metabolic abnormalities , POPs exposure may contribute to excess adiposity and other features of dysmetabolism .

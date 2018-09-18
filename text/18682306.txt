@@ -1,0 +1,9 @@
+Seventeen polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) were quantified in adipose tissue samples of non-occupationally exposed women living in Southern Spain .
+Geometric mean levels of sum of congeners and WHO(PCDD/F)-TEQ(2005) were 410 and 17.9pgg(-1) fat , respectively .
+Among PCDDs , octachlorodibenzo-p-dioxin ( OCDD ) showed the highest concentration with a mean value of 265pgg(-1) fat , followed by 1,2,3,6,7,8-HxCDD ( 49.3pgg(-1) fat ) and 1,2,3,4,6,7,8-HpCDD ( 45.2pgg(-1) fat ) .
+These three congeners were responsible for around 90% of the sum of all PCDD/F congeners in adipose tissue .
+The geometric mean 2,3,7,8-TCDD value was 1.87pgg(-1) fat. 2,3,4,7,8-PeCDF ( 8.43pgg(-1) fat ) showed the highest concentration among the PCDFs , followed by 1,2,3,4,7,8-HxCDF ( 4.17pgg(-1) fat ) and 1,2,3,6,7,8-HxCDF ( 3.28pgg(-1) fat ) , and these three congeners were responsible for 4% of the sum of all studied PCDD/F congeners in adipose tissue and 76% of the sum of ten PCDFs. 1,2,3,7,8,9-HxCDF was the only congener not quantified in any sample , while 1,2,3,4,7,8,9-HpCDF , 1,2,3,7,8-PeCDF , OCDF and 2,3,7,8-TCDF were found in 5 , 16 , 16 and 19 samples , respectively .
+All other congeners were quantifiable in all 20 samples .
+Congeners contributing most to the WHO(PCDD/F)-TEQ(2005) were 1,2,3,7,8-PeCDD ( 31.6% ) , 1,2,3,6,7,8-HxCDD ( 28.3% ) and 2,3,4,7,8-PeCDF ( 14.6% ) .
+The body burden of log-transformed WHO(PCDD/F)-TEQ(2005) levels increased with age ( B=0.02 ; 95% CI=0.01 , 0.03 ; p=0.02 ) .
+Although these adipose tissue PCDD/F levels are similar to previously published findings in Spain and other European countries , further research is needed to determine trends in the exposure of women to these chemical residues .

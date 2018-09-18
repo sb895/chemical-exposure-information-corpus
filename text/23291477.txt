@@ -1,0 +1,7 @@
+The present study evaluated 168 childcare facilities from 6 cities in South Korea to assess exposure to organophosphorus pesticides ( OPs ) in children through 4 major pathways ( indoor air , indoor dust , surface wipe of indoor objects , and hand wash water of children ) .
+The Excess Cancer Risk ( ECR ) was calculated based on the Cancer Potency Factor ( CPF ) and Age Dependent Adjustment Factor ( ADAF ) in adults .
+Dichlorvos residues were detected in the indoor air , indoor dust , surface wipes of indoor objects , and the hand wash water of children at frequencies of 47.4 , 90 , 100 , and 100% , respectively .
+After revision based on the ADAF , total cancer risk in the 50th percentile was 3.99×10(-3) for inhalation , oral intake , and dermal contact in children ages 3 to 4 and 4.63×10(-4) in kindergarteners ages 5 to 6 .
+Inhalation was the primary pathway of pesticide exposure in children in childcare facilities .
+Children ages 3 to 4 in daycare centers had a Hazard Quotient ( HQ ) of 0.5 for dichlorvos , which was 50% lower than the risk criterion level of 1 but was higher than the 95% percentile with a HQ of 1.9 .
+This study postulates that children in childcare facilities may be exposed to specific OPs .

@@ -1,0 +1,8 @@
+Fourteen tri-deca polybrominated diphenyl ethers ( PBDEs ) were investigated in 35 human milk samples from Birmingham , UK .
+While none of the hepta-nona BDEs ( the main components of the octaBDE technical mixture ) was above the limit of quantitation ( LOQ ) ; BDE-47 ( average concentration=3.3ngg(-1) lipid weight ( lw) ) was quantified in all samples contributing 34-74% to \u03a3tri-hexa BDEs ( the principal constituents of the pentaBDE commercial formulation ) .
+BDE-209 ( the main congener in the decaBDE formulation ) was present above the LOQ in 69% of samples ( average concentration=0.31ngg(-1) lw ) .
+Concentrations of \u03a3tri-hexa BDEs ranged from 0.2 to 26ngg(-1) lw with concentrations of BDE-47>BDE-153>BDE-99 .
+While concentrations of \u03a3tri-hexa BDEs in this study ( average=5.95ngg(-1) lw ) were at the high end of those reported from other European countries , concentrations of BDE-209 were lower than those reported in human milk from other countries .
+The average exposure of a UK nursing infant to \u03a3tri-hexa BDEs ( 35ng ( kg bw)(-1)day(-1) ) via breast milk exceeded the upper-bound dietary intakes of both UK adults and toddlers .
+Using a simple one compartment pharmacokinetic model , PBDE intakes of UK adults via inhalation , diet and dust ingestion were converted to predicted body burdens .
+Predictions compared well with those observed for \u03a3tri-hexa BDEs and BDE-209 in breast milk .

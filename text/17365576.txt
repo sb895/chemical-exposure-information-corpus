@@ -1,0 +1,9 @@
+Toenails were used recently in epidemiological and environmental health studies as a means of assessing exposure to arsenic from drinking water .
+While positive correlations between toenail and drinking-water arsenic concentrations were reported in the literature , a significant percentage of the variation in toenail arsenic concentration remains unexplained by drinking-water concentration alone .
+Here , the influence of water consumption at home and work , food intake , and drinking-water concentration on toenail arsenic concentration was investigated using data from a case-control study being conducted in 11 counties of Michigan .
+The results from 440 controls are presented .
+Log-transformed drinking-water arsenic concentration at home was a significant predictor ( p < .05 ) of toenail arsenic concentration ( R2 = .32 ) .
+When arsenic intake from consumption of tap water and beverages made from tap water ( microg/L arsenic x L/d = microg/d ) was used as a predictor variable , the correlation was markedly increased for individuals with >1 microg/L arsenic ( R2 = .48 ) .
+Increased intake of seafood and intake of arsenic from water at work were independently and significantly associated with increased toenail arsenic concentration .
+However , when added to intake at home , work drinking-water exposure and food intake had little influence on the overall correlation .
+These results suggest that arsenic exposure from drinking-water consumption is an important determinant of toenail arsenic concentration , and therefore should be considered when validating and applying toenails as a biomarker of arsenic exposure .

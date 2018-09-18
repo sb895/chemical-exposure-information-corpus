@@ -1,0 +1,7 @@
+Thirty-three polychlorinated biphenyls and 20 dioxin-like congeners were determined by GC-MS in blood and adipose tissue samples from two general population groups , one in Spain ( n = 35 ) and one in Sweden ( n = 28 ) .
+The results were evaluated by multivariate projection ( Simca ) , after normalisation to the most abundant and stable congener in each data set , in order to reveal differences in the " national " congener profiles .
+The mean values of each population group did not differ significantly .
+The sum of PCBs in the Spanish was 1450 ng/g and in the Swedish 1310 ng/g .
+The sum of the dioxin-like compounds in Spain was 1180 pg/g and in Sweden 804 pg/g .
+The congener profiles differed between the countries .
+Mainly the higher chlorinated congeners for both the dioxin-like compounds and the PCBs are more dominant in the Spanish group compared to the Swedish .

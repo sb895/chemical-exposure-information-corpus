@@ -1,0 +1,5 @@
+The dose-response relationship between total cadmium intake and beta 2-microglobulinuria was investigated using logistic regression analysis in order to consider the effect of age on this association .
+The target population consisted of 1850 inhabitants of the cadmium-polluted Kakehashi River basin in Ishikawa prefecture , Japan .
+They were divided into 58 subgroups ( 27 in the men and 31 in the women ) by four factors of sex , age , rice cadmium concentration and length of residence in cadmium-polluted areas .
+Logistic regression analysis was performed for this dose-response relationship , and both age and total cadmium intake were significantly associated with beta 2-microglobulinuria .
+It was confirmed that total cadmium intake had a significant association with beta 2-microglobulinuria , independent of the aging effect .

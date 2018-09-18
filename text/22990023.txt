@@ -1,0 +1,12 @@
+This study analyzed the concentrations of perfluorooctane sulfonate ( PFOS ) , perfluorooctanoic acid ( PFOA ) and perfluorohexane sulfonate ( PFHxS ) in maternal and umbilical cord sera at delivery from the general population in Korea .
+Seventy samples were analyzed with ion-pairing and LC/MS/MS .
+PFOS , PFOA and PFHxS were detected in both maternal and umbilical cord sera .
+There was a high correlation of PFC concentrations between maternal and cord serum samples , implying transplacental transport .
+Ranking of transplacental transfer efficiency was PFOA>PFHxS>PFOS .
+Student's t-tests revealed that concentrations of maternal PFOA were related with decreases in birth weight , birth length and ponderal index , suggesting a possible impact on fetal growth .
+With multiple logistic regression models , maternal PFOS concentration showed a significant inverse association with ponderal index ( OR=0.22 ; 95% CI , 0.05-0.90 ) .
+Umbilical cord PFHxS concentration showed a significant inverse association with birth weight ( OR=0.26 ; 95% CI , 0.08-0.85 ) or a marginally significant inverse association with birth length ( OR=0.33 ; 95% CI , 0.09-1.17 ) .
+This is the first report demonstrating an inverse association of birth outcomes with PFHxS exposure .
+Concentrations of maternal PFOA were decreased with parity , implying that delivery is one of the major routes for PFOA elimination in women .
+This study demonstrated prenatal exposure of PFCs through placental transfer which could result in possible developmental effects in the population sampled .
+Our results may provide data basis to conduct a larger scale investigation into developmental effects of PFCs in the future and contribute to understanding levels of PFC contaminations from a variety of populations in the globe .

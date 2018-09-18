@@ -1,0 +1,13 @@
+BACKGROUND Chronic exposure to arsenic in drinking water is associated with increased risk of type 2 diabetes mellitus ( T2DM ) but the underlying molecular mechanism remains unclear .
+OBJECTIVES This study evaluated the interaction between single nucleotide polymorphisms ( SNPs ) in genes associated with diabetes and arsenic exposure in drinking water on the risk of developing T2DM .
+METHODS In 2009-2011 , we conducted a follow up study of 957 Bangladeshi adults who participated in a case-control study of arsenic-induced skin lesions in 2001-2003 .
+Logistic regression models were used to evaluate the association between 38 SNPs in 18 genes and risk of T2DM measured at follow up .
+T2DM was defined as having a blood hemoglobin A1C level greater than or equal to 6.5% at follow-up .
+Arsenic exposure was characterized by drinking water samples collected from participants ' tubewells .
+False discovery rates were applied in the analysis to control for multiple comparisons .
+RESULTS Median arsenic levels in 2001-2003 were higher among diabetic participants compared with non-diabetic ones ( 71.6 µg/L vs. 12.5 µg/L , p-value <0.001 ) .
+Three SNPs in ADAMTS9 were nominally associated with increased risk of T2DM ( rs17070905 , Odds Ratio ( OR ) \u200a=\u200a2.30 , 95% confidence interval ( CI ) 1.17-4.50 ; rs17070967 , OR\u200a=\u200a2.02 , 95%CI 1.00-4.06 ; rs6766801 , OR\u200a=\u200a2.33 , 95%CI 1.18-4.60 ) , but these associations did not reach the statistical significance after adjusting for multiple comparisons .
+A significant interaction between arsenic and NOTCH2 ( rs699780 ) was observed which significantly increased the risk of T2DM ( p for interaction\u200a=\u200a0.003 ; q-value\u200a=\u200a0.021 ) .
+Further restricted analysis among participants exposed to water arsenic of less than 148 µg/L showed consistent results for interaction between the NOTCH2 variant and arsenic exposure on T2DM ( p for interaction \u200a=\u200a0.048 ; q-value\u200a=\u200a0.004 ) .
+CONCLUSIONS These findings suggest that genetic variation in NOTCH2 increased susceptibility to T2DM among people exposed to inorganic arsenic .
+Additionally , genetic variants in ADAMTS9 may increase the risk of T2DM .

@@ -1,0 +1,10 @@
+To investigate the validity of outdoor particulate matter with a 50% cutoff diameter of 10-microm ( PM10 ) concentrations as a measure of exposure in time series studies , the association between personal and outdoor concentrations , within subjects , over time was investigated .
+Repeated measurements of personal , indoor , and outdoor PM10 were conducted among 37 nonsmoking , 50- to 70-year-old adults , living in Amsterdam , Netherlands , 1994 .
+Regression analyses were conducted for each subject separately , and the distribution of the individual regression and correlation coefficients was investigated .
+Furthermore , the extent to which differences among personal , indoor , and outdoor concentrations could be explained was studied .
+The median Pearson's R between personal and outdoor concentrations was 0.50 .
+Excluding days with exposure to environmental tobacco smoke ( ETS ) improved the correlation to a median R of 0.71 .
+The estimated cross-sectional correlations were lower , 0.34 and 0.50 , respectively .
+Outdoor concentrations ( mean , 42 microg/m3 ) exceeded indoor concentrations ( mean , 35 microg/m3 ) but underestimated personal exposures ( mean , 62 microg/m3 ) .
+The major part of the difference between personal and outdoor concentrations could be attributed to exposure to ETS , living along a busy road , and time spent in a vehicle .
+The results show a reasonably high correlation between personal and outdoor PM10 within individuals , providing support for the use of ambient PM10 concentrations as a measure of exposure in epidemiologic studies linking the day-to-day variation in particulate matter air pollution to the day-to-day variation in health endpoints such as mortality , hospital admissions , respiratory symptoms , and lung function .

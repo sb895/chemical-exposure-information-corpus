@@ -1,0 +1,1 @@
+<Biomonitoring--exposure biomarker--hair nail--workers AND  Biomonitoring--exposure biomarker--urine--workers<Biomonitoring--exposure biomarker--hair nail-- AND Biomonitoring--exposure biomarker--urine-- AND exposure routes--inhalation--other--workers< < < < <  Biomonitoring--effect marker--physiological parameter<  Biomonitoring--effect marker--biomarker--molecule--protein< 

@@ -1,0 +1,7 @@
+OBJECTIVES Arsenic contamination of groundwater is a severe public health crisis in Bangladesh , where the population is exposed to arsenic in drinking water through tube wells used for groundwater collection .
+In this study , we explored the association between socioeconomic status and arsenic toxicity .
+METHODS We used baseline data from 11438 men and women who were recruited into the Health Effects of Arsenic Longitudinal Study ( HEALS ) , a prospective cohort study on the health effects of arsenic exposure in Bangladesh .
+We conducted analyses with logistic regression and generalized estimating equations .
+RESULTS We found a strong dose-response association with all measures of arsenic exposure and skin lesions .
+We also found that the effect of arsenic was modified by land ownership on a multiplicative scale , with an increased risk among non-land owners associated with well water arsenic ( P=.04 ) and urinary total arsenic concentrations ( P=.03 ) .
+CONCLUSIONS Our study provides insight into potentially modifiable host characteristics and identifies factors that may effectively target susceptible population subgroups for appropriate interventions .

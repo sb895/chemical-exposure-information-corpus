@@ -1,0 +1,11 @@
+p-Hydroxybenzoic acid esters ( parabens ) and bisphenol A diglycidyl ether ( BADGE ) are widely present in personal care products , food packages , and material coatings .
+Nevertheless , little is known about the occurrence of these compounds in indoor dust .
+In this study , we collected 158 indoor dust samples from the U.S. , China , Korea , and Japan and determined the concentrations of 11 target chemicals , viz. , six parabens and their common hydrolysis product , 4-hydroxybenzoic acid ( 4-HB ) , as well as BADGE and its three hydrolysis products ( BADGE·H(2)O , BADGE·2H(2)O , and BADGE·HCl·H(2)O ) .
+All of the target compounds were found in dust samples from four countries .
+Concentrations of sum of six parabens in dust were on the order of several hundred to several thousands of nanogram per gram .
+Geometric mean concentrations of BADGEs in dust ranged from 1300 to 2890 ng/g among four countries .
+Methyl paraben ( MeP ) , propyl paraben ( PrP ) , BADGE·2H(2)O , and BADGE·HCl·H(2)O were the predominant compounds found in dust samples .
+This is the first report of BADGE and its hydrolysis products ( BADGEs ) in indoor dust samples and of parabens in indoor dust from Asian countries .
+On the basis of the measured concentrations of target chemicals , we estimated the daily intake ( EDI ) via dust ingestion .
+The EDIs of parabens via dust ingestion were 5-10 times higher in children than in adults .
+Among the four countries studied , the EDIs of parabens ( 5.4 ng/kg-bw/day ) and BADGEs ( 6.5 ng/kg-bw/day ) through dust ingestion were the highest for children in Korea and Japan .

@@ -1,0 +1,9 @@
+There are no previous reports from South China on chemically determined polychlorinated dibenzo-para-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and dioxin-like polychlorinated biphenyls ( PCBs ) in human breast milk expressed as World Health Organization ( WHO ) toxic equivalents ( TEQs ) .
+In a 2002-2003 WHO exposure study , 13 pools of breast milk comprising samples from 316 primiparous women in Hong Kong in 2002 were analyzed by gas chromatography/mass spectrometry for 29 PCDD/F and dioxin-like PCB congeners .
+Total WHO-TEQs ranged from 8.97 to 16.7 pg/g fat ( weighted mean , 12.9 pg ; weighted median , 13.4 pg ) .
+Variations in TEQs included positive associations with age ( R2 = 0.73 , p < 0.0005 ) , higher consumption of dairy products and seafood , and lower TEQs in overseas mothers and ever-smokers .
+Congener profiles indicated geographic specificity of exposure in Hong Kong , mainland China , and overseas Asian countries , including higher proportions of PCB-TEQs ( overseas ) and PCDF-TEQs ( mainland China ) .
+The median TEQs of PCDD/Fs ( 8.69 pg/g fat ) and PCBs ( 4.73 pg/g fat ) in Hong Kong were highest among the five Asian Pacific countries but lower than the levels for at least half of the European countries that participated in the WHO study .
+However , future international studies should incorporate mother's age in the design of the pooling strategy to allow standardization by other exposure factors and valid comparisons among different countries .
+The findings allow support for the WHO breast-feeding advisory .
+Trends in human dioxin levels in the region cannot yet be determined , and rigorous controls are needed to reduce emissions of dioxins and human exposure in mainland China .

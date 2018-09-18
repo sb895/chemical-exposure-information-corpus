@@ -1,0 +1,13 @@
+PURPOSE This study examined the effects of a widely used ( Delton Pit & Fissure Sealant - Light Cure Opaque , DENTSPLY Professional , York , PA ) pit and fissure sealant material on bisphenol A ( BPA ) levels in blood and saliva , among both low and high-dose groups over time .
+METHODS A convenience sample of 30 adults from the Old Dominion University population were randomly and evenly divided into 2 independent variable groups : a low-dose group ( 1 occlusal sealant application ) and high-dose group ( 4 occlusal sealant applications ) .
+A 2 group , time series design was used to examine the presence and concentration of BPA in serum and saliva after sealant placement .
+Differences comparing low-dose and high-dose groups were examined 1 hour prior ( baseline ) , 1 hour post , 3 hours post and 24 hours after sealant placement , as measured by a direct-competitive BPA Enzyme Linked ImmunoSorbent Assay ( ELISA ) .
+Hypothesized outcomes were evaluated by applying a parametric , 2 way ANOVA for repeated measures technique to data on the 30 participants ranging in age from 18 to 40 years , and were of mixed gender and ethnicity .
+RESULTS BPA was detected in the saliva of all participants prior to sealant placement and ranged from 0.07 to 6.00 ng/ml at baseline .
+Salivary BPA concentration levels peaked over a 3 hour period following sealant placement and returned to baseline levels within 24 hours .
+BPA was significantly elevated at all post-sealant placement time periods for both the low-dose ( 1 occlusal sealant application ) and high-dose ( 4 occlusal sealant applications ) groups with peak levels of 3.98 ng/ml and 9.08 ng/ml , respectively .
+The blood serum did not contain BPA at any point in this investigation .
+CONCLUSIONS Exposure to BPA from sources other than dental resins contributes to salivary baseline concentration levels and indicates environmental exposure and use of products containing BPA .
+Use of specific molecular formulations of dental sealant material determines the release of BPA , therefore , dental sealant materials should be reviewed independently when questioning the release of BPA from dental sealants .
+In addition , dosage amounts of the dental sealant material used in this study do not influence the serum concentration levels of BPA .
+Further research is needed to examine the cumulative estrogenic effects of BPA from dental sealants .

@@ -1,0 +1,8 @@
+Association of urinary arsenic concentration with incident diabetes was examined in American Indians from Arizona who have a high prevalence of type 2 diabetes and were screened for diabetes between 1982 and 2007 .
+The population resides where drinking water contains arsenic at concentrations above federally recommended limits .
+A total of 150 nondiabetic subjects aged \u226525 years who subsequently developed type 2 diabetes were matched by year of examination and sex to 150 controls who remained nondiabetic for \u226510 years .
+Total urinary arsenic concentration , adjusted for urinary creatinine level , ranged from 6.6 µg/L to 123.1 µg/L , and inorganic arsenic concentration ranged from 0.1 µg/L to 36.0 µg/L .
+In logistic regression models adjusted for age , sex , body mass index , and urinary creatinine level , the odds ratios for incident diabetes were 1.11 ( 95% confidence interval ( CI ) : 0.79 , 1.57 ) and 1.16 ( 95% CI : 0.89 , 1.53 ) for a 2-fold increase in total arsenic and inorganic arsenic , respectively .
+Categorical analyses suggested a positive relationship between quartiles of inorganic arsenic and incident diabetes ( P = 0.056 ) ; post-hoc comparison of quartiles 2-4 with quartile 1 revealed 2-fold higher odds of diabetes in the upper quartiles ( OR = 2.14 , 95% CI : 1.19 , 3.85 ) .
+Modestly elevated exposure to inorganic arsenic may predict type 2 diabetes in American Indians .
+Larger studies that include measures of speciated arsenic are required for confirmation .

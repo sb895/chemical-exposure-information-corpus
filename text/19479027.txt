@@ -1,0 +1,11 @@
+BACKGROUND We conducted a population-based human exposure study in response to concerns among the population of Midland and Saginaw counties , Michigan , that discharges by the Dow Chemical Company of dioxin-like compounds into the nearby river and air had led to an increase in residents ' body burdens of polychlorinated dibenzofurans ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and dioxin-like polychlorinated biphenyls ( PCBs ) , here collectively referred to as " dioxins. "
+OBJECTIVES We sought to identify factors that explained variation in serum dioxin concentrations among the residents of Midland and Saginaw counties .
+Exposures to dioxins in soil , river sediments , household dust , historic emissions , and contaminated fish and game were of primary interest .
+METHODS We studied 946 people in four populations in the contaminated area and in a referent population , by interview and by collection of serum , household dust , and residential soil .
+Linear regression was used to identify factors associated with serum dioxins .
+RESULTS Demographic factors explained a large proportion of variation in serum dioxin concentrations .
+Historic exposures before 1980 , including living in the Midland/Saginaw area , hunting and fishing in the contaminated areas , and working at Dow , contributed to serum dioxin levels .
+Exposures since 1980 in Midland and Saginaw counties contributed little to serum dioxins .
+CONCLUSIONS This study provides valuable insights into the relationships between serum dioxins and environmental factors , age , sex , body mass index , smoking , and breast-feeding .
+These factors together explain a substantial proportion of the variation in serum dioxin concentrations in the general population .
+Historic exposures to environmental contamination appeared to be of greater importance than recent exposures for dioxins .

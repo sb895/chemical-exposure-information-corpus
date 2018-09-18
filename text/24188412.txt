@@ -1,0 +1,13 @@
+BACKGROUND The exposure to air pollution has negative effects on human health , increasing the risk of respiratory diseases , such as asthma .
+Few data are yet available on the epidemiology of childhood asthma in some areas of Italy .
+The aim of the study was to estimate asthma prevalence and related risk factors in children and adolescents residents around the industrial area of Termoli , Molise region , Central-South Italy .
+METHODS Prevalence was assessed through the administration of modified ISAAC questionnaires filled out by parents of 89 children and adolescents for the identification of confirmed and probable cases , and by analyzing pediatricians ' databases on drug prescriptions for symptoms control and treatment of assisted population in the study area ( n = 1,004 ) , compared to a control area ( n = 920 ) with lower industrialization .
+The association of asthma with risk factors was evaluated by univariate ( Chi-square or Fisher's Exact test ) and regression logistic analysis .
+RESULTS A total of 22 ( 24.7% ) asthmatics were identified , including both confirmed ( n = 7 ; 7.9% ) and probable cases ( n = 15 ; 16.8% ) , most of them ( n = 17 ; 77.3% ) resident of Termoli town .
+All asthma cases were georeferenced based on the residence , however clusters were not found .
+Using drug prescriptions analysis , a higher prevalence ( n = 138 ; 13.7% ) of diagnosed cases was found .
+Lifetime history of both atopic dermatitis and bronchitis were significantly relateds to asthma cases , as well as an elevated body mass index , whose association is consistent with prevalence data of overweight/obese children living in the study area .
+Moreover , being resident of the town of Termoli was associated to the occurrence of cases .
+CONCLUSIONS Although our data indicated a prevalence concordance with previous national studies in pediatric population , a definitive correlation with environmental industrial factors present in the study area was not established .
+However , asthma outcome was significantly associated to individuals living in the town of Termoli that , despite the industrial/manufacturing activities , is also subjected to a higher environmental pressure due to the presence of toll road , state highway , railroad , and seaport which may cause air pollution from motor vehicle traffic and increase asthma induction .
+This study provides hitherto unavailable data on asthma in childhood population living in an industrialized area which was never investigated before , could be part of a systematic review or meta-analysis procedure , might suggest significant findings for larger observational studies , and contribute to complete the frame of disease epidemiology in Italy .

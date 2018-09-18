@@ -1,0 +1,16 @@
+Fish consumption from the Great Lakes and the St. Lawrence River has been decreasing over the last years due to advisories and increased awareness of the presence of several contaminants .
+Methylmercury ( MeHg ) , a well-established neurotoxicant even at low levels of exposure , bioaccumulates to differing degrees in various fish species and can have serious adverse effects on the development and functioning of the human central nervous system , especially during prenatal exposure .
+Most studies on MeHg exposure have focussed on high-level consumers from local fish sources , although mercury ( Hg ) is also present in fresh , frozen , and canned market fish .
+Moreover , little information exists on the temporal variation of blood and hair Hg in pregnant women , particularly in populations with low levels of Hg .
+The aim of the present study was to characterize the temporal variation of Hg during pregnancy and to investigate the relation between fish consumption from various sources prior to and during pregnancy and maternal cord blood and mother's hair Hg levels .
+We recruited 159 pregnant women from Southwest Quebec through two prenatal clinics of the Quebec Public Health System .
+All women completed two detailed questionnaires concerning their fish consumption ( species and frequency ) prior to and during pregnancy .
+The women also provided blood samples for all three trimesters of pregnancy and hair samples after delivery of up to 9 cm in length .
+Blood and hair Hg levels were analyzed by cold-vapor atomic-absorption and -fluorescence spectrometry methods , respectively .
+Results showed that maternal blood and hair Hg levels decreased significantly between the second and third trimesters of pregnancy .
+However , cord blood Hg was significantly higher than maternal blood at birth .
+Maternal hair was correlated with Hg blood concentration and was highly predictive of the organic fraction in cord blood .
+A strong dose relation was observed between the frequency of fish consumption before and during pregnancy and Hg exposure in mothers and newborns .
+Fish consumption prior to and during pregnancy explained 26% and 20% of cord blood Hg variance , respectively .
+For this population , detailed multivariate analyses showed that during pregnancy market fish ( fresh , canned , and frozen ) were more important sources of Hg exposure than were fish from the St. Lawrence River .
+These results should be taken into account for future advisories and intervention strategies , which should consider Hg levels in different species from all sources in order to maximize the nutritional input from fish and minimize the toxic risk .

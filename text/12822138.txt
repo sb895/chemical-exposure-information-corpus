@@ -1,0 +1,15 @@
+BACKGROUND This pilot study was conducted to investigate biochemical effects of exposure to diesel engine exhaust at two mines .
+For this purpose , heme biosynthesis , and PP association with DNA ( PP/DNA ) in lymphocytes of miners exposed to diesel exhaust were determined .
+METHODS The pilot study was carried out at a black coal mine in Czech Republic , and at an oil-shale mine in Estonia .
+The subjects were ten drivers from each mine , who were exposed to diesel exhaust ( underground workers ) .
+Control groups consisted of ten maintenance workers from each mine ( surface workers ) .
+The content of 1-nitropyrene ( NP ) in respirable dust was measured using GC-MS .
+The levels of PP , PP/DNA , heme , and activity of ferrochelatase ( FC ) were determined by spectrophotometry .
+RESULTS The exposure to diesel exhaust evaluated as the level of NP associated to particulate matter in air .
+NP level was significantly higher in oil-shale mine compared with coal mine .
+The values of PP and PP/DNA in lymphocytes appeared to be significantly increased only in miners in the oil-shale mine .
+There was no difference in the levels of PP and PP/DNA and FC activity between surface workers and miners at the coal mine .
+The level of heme in lymphocytes of coal mine miners was significantly higher than in miners of the oil-shale mine .
+The activity of FC was significantly lower in underground workers compared to surface workers at this mine .
+High level of NP was accompanied by an increase of alterations in cells porphyrin metabolism in lymphocytes of miners .
+CONCLUSIONS Alterations of porphyrin and heme metabolism in peripheral lymphocytes may serve as biomarker in assessment of exposure to diesel exhaust effects .

@@ -1,0 +1,9 @@
+In this paper , we present national maps of relative rates of mortality associated with short-term exposure to particulate matter < 10 micro m in aerodynamic diameter ( PM(10) ) .
+We report results for 88 of the largest metropolitan areas in the United States from 1987 to 1994 for all-cause mortality , combined cardiovascular and respiratory deaths , and other causes of mortality .
+Maximum likelihood estimates of the relative rate of mortality associated with PM(10)and the degree of statistical uncertainty were obtained for each of the 88 cities by fitting a separate log-linear regression of the daily mortality rate on air pollution level and potential confounders .
+We obtained Bayesian estimates of the relative rates by fitting a hierarchical model that takes into account spatial correlation among the true city-specific relative rates .
+We found that daily variations of PM(10) are positively associated with daily variations of mortality .
+In particular , the relative rate estimates of cardiovascular and respiratory mortality associated with PM(10) are larger on average than the relative rate estimates of all-cause and other-cause mortality .
+The estimated increase in the relative rate of death from cardiovascular and respiratory mortality , all-cause mortality , and other-cause mortality were 0.31% ( 95% posterior interval , 0.15-0.5 ) , 0.22% ( 95% posterior interval , 0.1-0.38 ) , and 0.13% ( 95% posterior interval , -0.05 to 0.29 ) , respectively .
+Bayesian estimates of the city-specific relative rates ranged from 0.23% to 0.35% for cardiovascular and respiratory mortality , from 0.18% to 0.27% for all causes , and from 0.10% to 0.20% for other causes of mortality .
+The spatial characterization of effects across cities offers the potential to identify factors that could influence the effect of PM(10) on health , including particle characteristics , offering insights into mechanisms by which PM(10) causes adverse health effects .

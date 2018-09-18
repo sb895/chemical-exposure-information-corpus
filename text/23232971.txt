@@ -1,0 +1,9 @@
+The objective of this study was to evaluate the relationship between environmental arsenic exposure and serum matrix metalloproteinase ( MMP)-9 , a biomarker associated with cardiovascular disease and cancer .
+In a cross-sectional study of residents of Arizona , USA ( n=215 ) and Sonora , Mexico ( n=163 ) , drinking water was assayed for total arsenic , and daily drinking water arsenic intake was estimated .
+Urine was speciated for arsenic , and concentrations were adjusted for specific gravity .
+Serum was analyzed for MMP-9 using ELISA .
+Mixed model linear regression was used to assess the relation among drinking water arsenic concentration , drinking water arsenic intake , urinary arsenic sum of species ( the sum of arsenite , arsenate , monomethylarsonic acid and dimethylarsinic acid ) , and MMP-9 , controlling for autocorrelation within households .
+Drinking water arsenic concentration and intake were positively associated with MMP-9 , both in crude analysis and after adjustment for gender , country/ethnicity , age , body mass index , current smoking , and diabetes .
+Urinary arsenic sum of species was positively associated with MMP-9 in multivariable analysis only .
+Using Akaike's Information Criterion , arsenic concentration in drinking water provided a better fitting model of MMP-9 than either urinary arsenic or drinking water arsenic intake .
+In conclusion , arsenic exposure evaluated using all three exposure metrics was positively associated with MMP-9 .

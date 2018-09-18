@@ -1,0 +1,10 @@
+A screening-level risk assessment was conducted for styrene-acrylonitrile ( SAN ) Trimer detected at the Reich Farm Superfund site in Toms River , NJ .
+Consistent with a screening-level approach , on-site and off-site exposure scenarios were evaluated using assumptions that are expected to overestimate actual exposures and hazards at the site .
+Environmental sampling data collected for soil and groundwater were used to estimate exposure point concentrations .
+Several exposure scenarios were evaluated to assess potential on-site and off-site exposures , using parameter values for exposures to soil ( oral , inhalation of particulates , and dermal contact ) and groundwater ( oral , dermal contact ) to reflect central tendency exposure ( CTE ) and reasonable maximum exposure ( RME ) conditions .
+Three reference dose ( RfD ) values were derived for SAN Trimer for short-term , subchronic , and chronic exposures , based upon its effects on the liver in exposed rats .
+Benchmark ( BMD ) methods were used to assess the relationship between exposure and response , and to characterize appropriate points of departure ( POD ) for each RfD .
+An uncertainty factor of 300 was applied to each POD to yield RfD values of 0.1 , 0.04 , and 0.03 mg/kg-d for short-term , subchronic , and chronic exposures , respectively .
+Because a chronic cancer bioassay for SAN Trimer in rats ( NTP 2011a ) does not provide evidence of carcinogenicity , a cancer risk assessment is not appropriate for this chemical .
+Potential health hazards to human health were assessed using a hazard index ( HI ) approach , which considers the ratio of exposure dose ( i.e. , average daily dose , mg/kg-d ) to toxicity dose ( RfD , mg/kg-d ) for each scenario .
+All CTE and RME HI values are well below 1 ( where the average daily dose is equivalent to the RfD ) , indicating that there is no concern for potential noncancer effects in exposed populations even under the conservative assumptions of this screening-level assessment .

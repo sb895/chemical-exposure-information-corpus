@@ -1,0 +1,12 @@
+BACKGROUND Evidence on human semen quality as it relates to exposure to various metals , both essential ( e.g. , zinc , copper ) and nonessential ( e.g. , cadmium , lead ) , is inconsistent .
+Most studies to date used small sample sizes and were unable to account for important covariates .
+OBJECTIVES Our goal in this study was to assess relationships between exposure to multiple metals at environmental levels and human semen-quality parameters .
+METHODS We measured semen quality and metals in blood ( arsenic , Cd , chromium , Cu , Pb , manganese , mercury , molybdenum , selenium , and Zn ) among 219 men recruited through two infertility clinics .
+We used multiple statistical approaches to assess relationships between metals and semen quality while accounting for important covariates and various metals .
+RESULTS Among a number of notable findings , the associations involving Mo were the most consistent over the various statistical approaches .
+We found dose-dependent trends between Mo and declined sperm concentration and normal morphology , even when considering potential confounders and other metals .
+For example , adjusted odds ratios ( ORs ) for below-reference semen-quality parameters in the low , medium , and high Mo groups were 1.0 ( reference ) , 1.4 [ 95% confidence interval ( CI ) , 0.5-3.7 ] , and 3.5 ( 95% CI , 1.1-11 ) for sperm concentration and 1.0 ( reference ) , 0.8 ( 95% CI , 0.3-1.9 ) , and 2.6 ( 95% CI , 1.0-7.0 ) for morphology .
+We also found preliminary evidence for interactions between Mo and low Cu or Zn .
+In stratified analyses , the adjusted ORs in the high Mo/low Cu group were 14.4 ( 1.6 , 132 ) and 13.7 ( 1.6 , 114 ) for below-reference sperm concentration and morphology , respectively .
+CONCLUSIONS Our findings represent the first human evidence for an inverse association between Mo and semen quality .
+These relationships are consistent with animal data , but additional human and mechanistic studies are needed .

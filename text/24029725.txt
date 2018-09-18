@@ -1,0 +1,11 @@
+DINCH ( diisononylcyclohexane-1,2-dicarboxylate ) was introduced into the world market in 2002 as a non-aromatic plasticizer and phthalate substitute .
+We analyzed 300 urine samples ( 24h voids ) of the German Environmental Specimen Bank ( ESB for Human tissues , ESB Hum ) for specific DINCH metabolites by on-line HPLC-MS/MS with isotope dilution quantification .
+Urine samples of the ESB Hum were from the years 1999 , 2003 , 2006 , 2009 and 2012 , chosen to investigate the appearance and a possible trend of DINCH exposure since its market introduction .
+No DINCH metabolites were detected in the 1999 and 2003 samples .
+From 2006 on , the percentage of samples with DINCH metabolites above the LOQ increased significantly over the years ( 7% in 2006 , 43% in 2009 and 98% in 2012 ) .
+The cyclohexane-1,2-dicarboxylic acid-mono(hydroxy-isononyl) ester ( OH-MINCH ) was the predominant metabolite .
+Median ( and 95th percentile ) concentrations ( in \u03bcg/l ) increased from <LOQ ( 0.09 ) in 2006 , to <LOQ ( 1.02 ) in 2009 to 0.39 ( 2.09 ) in 2012 .
+All oxidized DINCH metabolites ( OH-MINCH , cx-MINCH , oxo-MINCH ) correlated strongly among each other ( \u03c1>0.75 , p<0.001 ) .
+The median ( 95th percentile ) DINCH intake in 2012 was calculated to be 0.14 ( 1.07)\u03bcg/kg body weight/day which is considerably below daily intakes currently deemed tolerable .
+DINCH is regarded to have a preferred toxicological profile over certain anti-androgenic phthalates .
+The continuation of DINCH measurements in the ESB Hum and other human biomonitoring studies like the German Environmental Survey ( GerES ) allows tracking the development of DINCH body burdens , the distribution of exposure levels and daily intakes , providing basic data for future toxicological assessment and further epidemiological studies .

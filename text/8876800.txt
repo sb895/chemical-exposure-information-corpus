@@ -1,0 +1,10 @@
+To study genotoxic effects of exposure to low levels of benzene , single-strand breaks ( SSB ) in DNA of leukocytes and urinary levels of the oxidative DNA adduct 8-hydroxydeoxyguanosine ( 8OHdG ) were determined in 33 men occupationally exposed to benzene from gasoline and in 33 controls .
+The average exposure to benzene over a shift was determined by personal air sampling in the breathing zone .
+The 8-hr time-weighted average exposure to benzene was 0.13 ppm ( mean value , range 0.003-0.6 ppm ) .
+Exposed workers had a significant increase of SSB ( p = 0.04 ) over the shift compared with controls .
+Storage time of the samples seemed to affect the results .
+An analysis of samples with the same storage time showed a nonsignificant increase among the workers compared with controls .
+Urinary 8OHdG increased over the shift among the exposed workers but not among the controls .
+The highest values among the exposed workers were seen in late evening , with a slight decrease the next morning .
+Multiple linear analysis adjusting for smoking habits showed a significant association between the exposure level of benzene during the shift and the increase of 8OHdG in the urine over the shift among exposed workers ( p = 0.02 ) .
+These findings indicate a genotoxic effect in humans of benzene at relatively low exposure levels , that is , about 0.1 ppm ( 0.3 mg/m3 ) .

@@ -1,0 +1,10 @@
+Assessment of indoor exposure to polybrominated diphenyl ethers ( PBDEs ) requires a critical examination of methods that may influence exposure estimates and comparisons between studies .
+We measured PBDEs in residential dust collected from 20 homes in Boston , MA , to examine 5 key questions : 1 ) Does the choice of dust exposure metric-e.g. , concentration ( ng/g ) or dust loading ( ng/m2)-affect analysis and results ? 2 ) To what degree do dust concentrations change over time ? 3 ) Do dust concentrations vary between rooms ? 4 ) Is the home vacuum bag an acceptable surrogate for researcher-collected dust ? 5 ) Are air and dust concentrations correlated for the same room ?
+We used linear mixed-effects models to analyze the data while accounting for within-home and within-room correlations .
+We found that PBDE dust concentration and surface loading were highly correlated ( r=0.86-0.95 , p<0.001 ) .
+Average dust concentrations did not significantly differ over an 8-month period , possibly because home furnishings changed little over this time .
+We observed significant differences between rooms in the same home : PBDE concentrations in the main living area were 97% higher than the bedroom for decaBDE ( p=0.02 ) and 72% higher for pentaBDE ( p=0.05 ) .
+Home vacuum bag dust concentrations were significantly lower than researcher-collected dust and not strongly correlated .
+Air ( vapor and particulate phase ) and dust concentrations were correlated for pentaBDE ( p=0.62 , p<0.01 ) , but not for decaBDE ( p=0.25 ) .
+In addition , potential markers of BDE 209 debromination ( BDE 202 and the BDE197:BDE201 ratio ) were also observed in household dust samples .
+One vacuum bag sample contained the highest concentrations of BDE 209 ( 527,000 ng/g ) and total PBDEs ( 544,000 ng/g ) that have been reported in house dust .

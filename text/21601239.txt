@@ -1,0 +1,16 @@
+The risks and benefits of using mercury ( Hg ) in dental amalgam have long been debated .
+This study was designed to estimate Hg body burden and its association with dental amalgam fillings in 182 children ( ages : 5-15 years ) living in Taif City .
+Hg was measured in urine ( UHg ) , hair ( HHg ) and toenails ( NHg ) by the Atomic Absorption Spectrophotometer with Vapor Generator Accessory system .
+Urinary Hg levels were calculated as both micrograms per gram creatinine ( \u03bcg/g creatinine ) and micrograms per liter ( \u03bcg/L ) .
+We found that children with amalgam fillings ( N=106 ) had significantly higher UHg-C levels than children without ( N=76 ) , with means of 3.763 \u03bcg/g creatinine versus 3.457 \u03bcg/g creatinine , respectively ( P=0.019 ) .
+The results were similar for UHg ( P=0.01 ) .
+A similar pattern was also seen for HHg , with means of 0.614 \u03bcg/g ( N=97 ) for children with amalgam versus 0.242 \u03bcg/g ( N=74 ) for those without amalgam fillings ( P=0 ) .
+Although the mean NHg was higher in children without amalgam ( 0.222 \u03bcg/g , N=61 ) versus those with ( 0.163 \u03bcg/g , N=101 ) , the relationship was not significant ( P=0.069 ) .
+After adjusting for many confounders , the multiple logistic regression model revealed that the levels of UHg-C and HHg were 2.047 and 5.396 times higher , respectively , in children with dental amalgam compared to those without ( P<0.01 ) .
+In contrast , a significant inverse relationship was seen between NHg levels and dental amalgam fillings ( P=0.003 ) .
+Despite the controversy surrounding the health impact of dental amalgam , this study showed some evidence that amalgam-associated Hg exposure might be related with symptoms of oral health , such as aphthous ulcer , white patches , and a burning-mouth sensation .
+Further studies are needed to reproduce these findings .
+The present study showed that significant numbers of children with or without amalgam had Hg levels exceeding the acceptable reference limits .
+The detrimental neurobehavioral and/or nephrotoxic effects of such an increased Hg on children should be a cause of concern , and further investigation is warranted .
+Our results are alarming and indicate an urgent need for biomonitoring and assessment of exposure .
+Changes in dental practices involving amalgam , especially for children , are highly recommended in order to avoid unnecessary exposure to Hg .

@@ -1,0 +1,14 @@
+Polybrominated diphenyl ethers ( PBDEs ) , a major class of flame retardants , are ubiquitous environmental contaminants with particularly high concentrations in humans from the United States .
+This study is a first attempt to report and compare PBDE concentrations in blood drawn from a family .
+Serum samples from family members collected at two sampling occasions 90 days apart were analyzed for PBDE congeners .
+Concentrations of the lower-brominated PBDEs were similar at the two sampling times for each family member , with children's levels 2- to 5-fold higher than those of their parents .
+Concentrations of , for example , 2,2',4,4'-tetrabromodiphenyl ether ( BDE-47 ) varied from 32 ng/g lipid weight ( lw ) in the father to 60 , 137 , and 245 ng/g lw in the mother , child , and toddler , respectively .
+Decabromodiphenyl ether ( BDE-209 ) concentrations differed significantly between the two samplings .
+September concentrations in the father , mother , child , and toddler were 23 , 14 , 143 , and 233 ng/g lw , respectively .
+December concentrations ( duplicate results from the laboratory ) were 2 and 3 , 4 and 4 , 9 and 12 , and 19 and 26 ng/g lw , respectively .
+Parents ' summation operatorPBDE concentrations approached U.S. median concentrations , with children's concentrations near the maximum ( top 5% ) found in U.S. adults .
+The youngest child had the highest concentrations of all PBDE congeners , suggesting that younger children are more exposed to PBDEs than are adults .
+Our estimates indicate that house dust contributes to children's higher PBDE levels .
+BDE-209 levels for all family members were 10-fold lower at the second sampling .
+The short half-life of BDE-209 ( 15 days ) indicates that BDE-209 levels can decrease rapidly in response to decreased exposures .
+This case study suggests that children are at higher risk for PBDE exposures and , accordingly , face higher risks of PBDE-related health effects than adults .

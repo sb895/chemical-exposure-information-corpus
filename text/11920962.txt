@@ -1,0 +1,10 @@
+BACKGROUND Lead exposure was investigated among 73 Mexican radiator repair workers ( RRWs ) , 12 members of their family ( 4 children and 8 wives ) , and 36 working controls .
+RRWs were employed at 4 radiator repair shops in Mexico City and 27 shops in Cuernavaca and surrounding areas .
+METHODS Exposure was assessed directly through the use of personal air sampling and hand wipe samples .
+In addition , industrial hygiene inspections were performed and detailed questionnaires were administered .
+Blood lead levels were measured by graphite furnace atomic absorption spectroscopy ( AAS ) .
+RESULTS The mean ( SD ) values for blood lead of the RRWs , 35.5 ( 13.5 ) microg/dl , was significantly greater than the same values for the working controls , 13.6 ( 8.7 ) microg/dl ; P < 001 .
+After excluding a single outlier ( 247 microg/m(3) ) , air lead levels ranged from 0 to 99 microg/m(3) with a mean ( SD ) value of 19 ( 23 ) microg/m(3) ( median = 7.9 microg/m(3) ) .
+In a final multivariate regression model of elevated blood lead levels , the strongest predictors were smoking ( vs. non-smoking ) , the number of radiators repaired per day on average , and the use ( vs. non-use ) of a uniform while at work , which were associated with blood lead elevations of 11.4 microg/dl , 1.95 microg/dl/radiator/day , and 16.4 microg/dl , respectively ( all P <.05 ) .
+Uniform use was probably a risk factor because they were not laundered regularly and consequently served as reservoir of contamination on which RRWs frequently wiped their hands .
+CONCLUSIONS Lead exposure is a significant problem of radiator repair work , a small industry that is abundant in Mexico and other developing countries .

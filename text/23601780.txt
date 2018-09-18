@@ -1,0 +1,17 @@
+Contribution of diet and selected risk factors to the levels of four polyfluorinated compounds was evaluated .
+Data from National Health and Nutrition Examination Survey for the years 2003-2008 were used .
+Dietary factors accounted for 10.4% to 21.2% of the explained variation .
+Amount of milk consumed was found to be positively associated ( p<0.01 ) with perfluorononanoic acid ( PFNA ) but negatively associated with perfluorooctanoate ( PFOA ) and perfluorooctane sulfonate ( PFOS ) ( p<0.01 ) .
+Amount of meat and fish consumed was positively associated ( p<0.01 ) with PFNA and PFOS .
+Amount of non-alcoholic beverages consumed was positively associated ( p<0.01 ) with PFNA and PFOA .
+Levels of PFOS increased ( p<0.01 ) with increase in the amount of alcoholic beverages consumed .
+Total amount of alcohol consumed was positively associated ( p<0.01 ) with PFNA .
+Levels of both PFOA and PFOS decreased with increase in total amount of caffeine consumed .
+Total amount of fat consumed was negatively associated with PFNA and positively associated with PFOS .
+Total calories consumed were negatively associated with perfluorohexane sulfonate ( PFHxS ) and PFOS but positively associated with PFNA .
+New to this study , positive correlations ( p<0.01 ) between serum cholesterol and PFNA , PFOA , and PFOS were found .
+Serum albumin levels were negatively correlated with PFHxS but positively correlated with PFOA and PFOS .
+Males had statistically significantly higher levels of all four PFCs as compared to females and Mexican Americans had the lowest levels of all four PFCs than other race/ethnic groups .
+Levels of all four PFCs increased with increase in family income .
+Body mass index was negatively correlated with PFNA but positively associated with PFOA .
+There was a statistically significant decrease in the levels of PFOS over survey years 2003-2008 .

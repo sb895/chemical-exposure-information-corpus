@@ -1,0 +1,11 @@
+Dental amalgam is a mercury-based filling containing approximately 50% of metallic mercury ( Hg(0) ) .
+Human placenta does not represent a real barrier to the transport of Hg(0) ; hence , fetal exposure occurs as a result of maternal exposure to Hg , with possible subsequent neurodevelopmental disabilities in infants .
+This study represents a substudy of the international NIH-funded project " Early Childhood Development and polychlorinated biphenyls Exposure in Slovakia " .
+The main aim of this analysis was to assess the relationship between maternal dental amalgam fillings and exposure of the developing fetus to Hg .
+The study subjects were mother-child pairs ( N=99 ) .
+Questionnaires were administered after delivery , and chemical analyses of Hg were performed in the samples of maternal and cord blood using atomic absorption spectrometry with amalgamation technique .
+The median values of Hg concentrations were 0.63 microg/l ( range 0.14-2.9 microg/l ) and 0.80 microg/l ( range 0.15-2.54 microg/l ) for maternal and cord blood , respectively .
+None of the cord blood Hg concentrations reached the level considered to be hazardous for neurodevelopmental effects in children exposed to Hg in utero ( EPA reference dose for Hg of 5.8 microg/l in cord blood ) .
+A strong positive correlation between maternal and cord blood Hg levels was found ( rho=0.79 ; P<0.001 ) .
+Levels of Hg in the cord blood were significantly associated with the number of maternal amalgam fillings ( rho=0.46 , P<0.001 ) and with the number of years since the last filling ( rho=-0.37 , P<0.001 ) ; these associations remained significant after adjustment for maternal age and education .
+Dental amalgam fillings in girls and women of reproductive age should be used with caution , to avoid increased prenatal Hg exposure .

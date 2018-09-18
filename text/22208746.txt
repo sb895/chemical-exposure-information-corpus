@@ -1,0 +1,7 @@
+This study investigated the status of contamination of organohalogen compounds ( OCs ) such as polychlorinated biphenyls ( PCBs ) and brominated flame retardant ( BFRs ) , including polybrominated diphenyl ethers ( PBDEs ) and hexabromocyclododecanes ( HBCDs ) in human milk samples from several locations in India .
+The levels of OCs were significantly higher in the milk of mothers living in and near municipal dumping site than other locations indicating that the open dumping sites for municipal wastes act as potential sources of these contaminants in India .
+The PCB concentrations observed in this study tended to decrease compared to those in the matched locations reported previously , probably due to the restriction of technical PCB usage in India .
+PBDE levels in human milk were two to three folds lower than those of PCBs in all the sampling locations investigated .
+Congener profiles of PCBs and PBDEs were different between samples from the dumping site mothers and general populations in other areas suggesting the presence of region-specific sources and pathways .
+HBCDs were detected in human milk from only two sites , with much lower concentrations and detection frequencies compared to PCBs and PBDEs .
+When hazard quotients ( HQs ) of PCBs and PBDEs were estimated for infant health risk , the HQs in some milk samples from the dumping site exceeded the threshold value ( HQ>1 ) of PCBs , indicating the potential risk for infants in the specific site .

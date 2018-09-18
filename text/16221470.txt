@@ -1,0 +1,8 @@
+The influence of cadmium ( Cd ) body burden on mortality remains controversial .
+Excess mortality and the dose-response relationship between mortality and urinary cadmium excretion were investigated in this study among environmentally exposed subjects .
+A 15-year follow-up study was carried out on 3119 inhabitants ( 1403 men and 1716 women ) of the Cd-polluted Kakehashi River basin , whose urinary Cd concentration was examined in a 1981-1982 health impact survey .
+The mortality risk of high urinary Cd ( > or = 10 microg/g Cr ) subjects after adjustment for age using Cox's proportional hazard model was higher than that of moderate urinary Cd ( < 10 microg/g Cr ) subjects in both sexes .
+When the subjects were divided into five groups according to the amount of urinary Cd ( <3 , 3-5 , 5-10 , 10-20 , > or = 20 microg/g Cr ) , the mortality risk was significantly increased among the subjects with urinary Cd > or = 3 microg/g Cr in proportion to the increases in the amount of urinary Cd concentration after adjustment for age , especially in women .
+Furthermore , special causes of death among high and moderate urinary Cd were investigated , and mortality risk ratio for heart failure , which is a cause of death often diagnosed in cases with a gradual deterioration culminating in death , was significantly increased in both sexes , compared with the moderate urinary Cd subjects .
+Also , in women the mortality risk for renal diseases in the high urinary Cd subjects was significantly higher than that in the moderate urinary Cd subjects .
+These results suggest that a causal association between Cd body burden and mortality exists among inhabitants environmentally exposed to Cd but that no special disease may be induced except renal diseases .

@@ -1,0 +1,8 @@
+In order to evaluate blood levels of some perfluorinated chemicals ( PFCs ) and compare them to current levels of classical persistent organic pollutants ( POPs ) whole blood samples from Sweden were analyzed with respect to 12 PFCs , 37 polychlorinated biphenyls ( PCBs ) , p,p'-dichlorodiphenyl-dichloroethylene ( DDE ) , hexachlorobenzene ( HCB ) , six chlordanes and three polybrominated diphenyl ethers ( PBDEs ) .
+The median concentration , on whole blood basis , of the sum of PFCs was 20-50 times higher compared to the sum of PCBs and p,p'-DDE , 300-450 times higher than HCB , sum of chlordanes and sum of PBDEs .
+Estimations of the total body amount of PFCs and lipophilic POPs point at similar body burdens .
+While levels of for example PCBs and PBDEs are normalized to the lipid content of blood , there is no such general procedure for PFCs in blood .
+The distributions of a number of perfluorinated compounds between whole blood and plasma were therefore studied .
+Plasma concentrations were higher than whole blood concentrations for four perfluoroalkylated acids with plasma/whole blood ratios between 1.1 and 1.4 , whereas the ratio for perflurooctanesulfonamide ( PFOSA ) was considerably lower ( 0.2 ) .
+This suggests that the comparison of levels of PFCs determined in plasma with levels determined in whole blood should be made with caution .
+We also conclude that Swedish residents are exposed to a large number of PFCs to the same extent as in USA , Japan , Colombia and the few other countries from which data is available today .

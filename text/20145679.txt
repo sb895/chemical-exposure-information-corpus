@@ -1,0 +1,9 @@
+To better understand human exposure to perfluorinated compounds ( PFCs ) , a model that assesses exposure to perfluorooctane sulfonate ( PFOS ) and its precursors from both an intake and a body burden perspective and combines the two with a simple pharmacokinetic ( PK ) model is demonstrated .
+Exposure pathways were modeled under " typical " and " contaminated " scenarios , for young children and adults .
+A range of intakes was also estimated from serum concentrations of PFOS reported in the National Health and Nutrition Examination Survey ( NHANES ) using a first-order 1-compartment PK model .
+Total PFOS intakes ( medians summed over all pathways ) were estimated as : 160 and 2200\u2009ng/day for adults and 50 and 640\u2009ng/day for children under typical and contaminated scenarios , respectively .
+Food ingestion appears to be the primary route of exposure in the general population .
+For children , the contribution from dust ingestion is nearly as great as from food ingestion .
+Pathway-specific contributions span several orders of magnitude and exhibit considerable overlap .
+PK modeling suggests central tendency PFOS intakes for adults range between 1.6 and 24.2\u2009ng/kg-bw/day , and the forward-based intake estimates are within this range .
+The favorable comparison reported between the forward-modeled and the back-calculated range of intake predictions lends validity to the proposed framework .

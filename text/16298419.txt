@@ -1,0 +1,10 @@
+Concentrations of 38 organic air pollutants including aromatic hydrocarbons ( AHCs ) , carbonyl compounds ( CCs ) , volatile organic halogenated compounds ( VOHCs ) , and organophosphorus compounds ( OPCs ) were measured in indoor and outdoor air in an industrial city , Shimizu , Shizuoka Prefecture , Japan .
+Levels of pollutants tended to be higher indoors than outdoors in both summer and winter except for benzene , carbon tetrachloride , trichloroethylene , tetrachloroethylene , and dichlorvos ( DDVP ) .
+This trend was especially pronounced for CCs such as formaldehyde and acetaldehyde .
+For the organic air pollutants , the concentrations of AHCs and VOHCs substantially increased in winter , but not those of CCs and OPCs ; the trends were similar for both indoors and outdoors .
+We investigated possible indoor sources of pollutants statistically .
+Multiple regression analysis of corresponding indoor and outdoor concentrations and the responses to our questionnaire showed that indoor concentrations of certain AHCs were significantly affected by their outdoor concentrations and cigarette smoking .
+For formaldehyde , indoor concentrations were significantly affected by house age and the presence of carpet or pets .
+For p-dichlorobenzene ( pDCB ) , the concentrations in bedroom trended to be higher than those in other indoors and outdoors , suggested that mothballs for clothes present in bedrooms are the principal indoor source of pDCB .
+We compared indoor and outdoor pollutant concentrations to acceptable risk limits for 11 organic air pollutants .
+In indoors without smoking samples , the geometric mean concentrations of benzene , formaldehyde , acetaldehyde , carbon tetrachloride , pDCB , and DDVP exceeded the equivalent concentration representing the upper bound of one-in-one-hundred-thousand ( 1x10(-5) ) excess risk over a lifetime of exposure .

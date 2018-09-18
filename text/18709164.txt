@@ -1,0 +1,10 @@
+BACKGROUND An estimated 25-40 million of the 127 million people of Bangladesh have been exposed to high levels of naturally occurring arsenic from drinking groundwater .
+The mitigating effects of diet on arsenic-related premalignant skin lesions are largely unknown .
+OBJECTIVES The purpose of this study was to clarify the effects of the vitamin B group ( thiamin , riboflavin , niacin , pyridoxine , and cobalamin ) and antioxidants ( vitamins A , C , and E ) on arsenic-related skin lesions .
+METHODS We performed a cross-sectional study using baseline data from the Health Effects of Arsenic Longitudinal Study ( HEALS ) , 2000-2002 , with individual-level , time-weighted measures of arsenic exposure from drinking water .
+A total of 14,828 individuals meeting a set of eligibility criteria were identified among 65,876 users of all 5,996 tube wells in the 25-km(2) area of Araihazar , Bangladesh ; 11,746 were recruited into the study .
+This analysis is based on 10,628 subjects ( 90.5% ) with nonmissing dietary data .
+Skin lesions were identified according to a structured clinical protocol during screening and confirmed with further clinical review .
+RESULTS Riboflavin , pyridoxine , folic acid , and vitamins A , C , and E significantly modified risk of arsenic-related skin lesions .
+The deleterious effect of ingested arsenic , at a given exposure level , was significantly reduced ( ranging from 46% reduction for pyridoxine to 68% for vitamin C ) for persons in the highest quintiles of vitamin intake .
+CONCLUSIONS Intakes of B-vitamins and antioxidants , at doses greater than the current recommended daily amounts for the country , may reduce the risk of arsenic-related skin lesions in Bangladesh .

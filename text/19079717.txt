@@ -1,0 +1,7 @@
+BACKGROUND Inhalation of high levels of airborne inorganic arsenic is a recognized cause of respiratory cancer .
+Although multiple epidemiologic studies have demonstrated this association , there have been few analyses of the mathematical relationship between cumulative arsenic exposure and risk of respiratory cancer , and no assessment as to whether and how arsenic concentration may modify this association .
+OBJECTIVES The objective is an evaluation of the shape of the relationship between respiratory cancer mortality and cumulative inhaled arsenic exposure among copper smelter workers , and the modification of that relationship by arsenic concentration .
+METHODS We used Poisson regression methods to analyze data from a cohort of arsenic-exposed copper smelter workers under a linear-exponential model for the excess relative risk .
+RESULTS Within categories of arsenic concentration , the association between respiratory cancer and cumulative arsenic exposure was consistent with linearity .
+The slope of the linear relationship with cumulative exposure increased with increasing arsenic concentration category .
+CONCLUSIONS Our results suggested a direct concentration effect from inhaled inorganic arsenic , whereby the excess relative risk for a fixed cumulative exposure was greater when delivered at a higher concentration and shorter duration than when delivered at a lower concentration and longer duration .

@@ -1,0 +1,16 @@
+BACKGROUND Biomass fuel is the primary source of domestic fuel in much of rural China .
+Previous studies have not characterized particle exposure through time-activity diaries or personal monitoring in mainland China .
+OBJECTIVES In this study we characterized indoor and personal particle exposure in six households in northeastern China ( three urban , three rural ) and explored differences by location , cooking status , activity , and fuel type .
+Rural homes used biomass .
+Urban homes used a combination of electricity and natural gas .
+METHODS Stationary monitors measured hourly indoor particulate matter ( PM ) with an aerodynamic diameter < or = 10 microm ( PM10 ) for rural and urban kitchens , urban sitting rooms , and outdoors .
+Personal monitors for PM with an aerodynamic diameter < or = 2.5 microm ( PM2.5 ) were employed for 10 participants .
+Time-activity patterns in 30-min intervals were recorded by researchers for each participant .
+RESULTS Stationary monitoring results indicate that rural kitchen PM10 levels are three times higher than those in urban kitchens during cooking .
+PM10 was 6.1 times higher during cooking periods than during noncooking periods for rural kitchens .
+Personal PM2.5 levels for rural cooks were 2.8-3.6 times higher than for all other participant categories .
+The highest PM2.5 exposures occurred during cooking periods for urban and rural cooks .
+However , rural cooks had 5.4 times higher PM2.5 levels during cooking than did urban cooks .
+Rural cooks spent 2.5 times more hours per day cooking than did their urban counterparts .
+CONCLUSIONS These findings indicate that biomass burning for cooking contributes substantially to indoor particulate levels and that this exposure is particularly elevated for cooks .
+Second-by-second personal PM2.5 exposures revealed differences in exposures by population group and strong temporal heterogeneity that would be obscured by aggregate metrics .

@@ -1,0 +1,11 @@
+BACKGROUND There is interest in using residential dust to estimate human exposure to environmental contaminants .
+OBJECTIVES We aimed to characterize the sources of variability for polycyclic aromatic hydrocarbons ( PAHs ) in residential dust and provide guidance for investigators who plan to use residential dust to assess exposure to PAHs .
+METHODS We collected repeat dust samples from 293 households in the Northern California Childhood Leukemia Study during two sampling rounds ( from 2001 through 2007 and during 2010 ) using household vacuum cleaners , and measured 12 PAHs using gas chromatography-mass spectrometry .
+We used a random- and a mixed-effects model for each PAH to apportion observed variance into four components and to identify sources of variability .
+RESULTS Median concentrations for individual PAHs ranged from 10 to 190 ng/g of dust .
+For each PAH , total variance was apportioned into regional variability ( 1-9% ) , intraregional between-household variability ( 24-48% ) , within-household variability over time ( 41-57% ) , and within-sample analytical variability ( 2-33% ) .
+Regional differences in PAH dust levels were associated with estimated ambient air concentrations of PAH .
+Intraregional differences between households were associated with the residential construction date and the smoking habits of residents .
+For some PAHs , a decreasing time trend explained a modest fraction of the within-household variability ; however , most of the within-household variability was unaccounted for by our mixed-effects models .
+Within-household differences between sampling rounds were largest when the interval between dust sample collections was at least 6 years in duration .
+CONCLUSIONS Our findings indicate that it may be feasible to use residential dust for retrospective assessment of PAH exposures in studies of health effects .

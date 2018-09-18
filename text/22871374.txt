@@ -1,0 +1,9 @@
+Polyurethanes ( PU ) are polymers made from diisocyanates and polyols for a variety of consumer products .
+It has been suggested that PU foam may contain trace amounts of residual toluene diisocyanate ( TDI ) monomers and present a health risk .
+To address this concern , the exposure scenario and health risks posed by sleeping on a PU foam mattress were evaluated .
+Toxicity benchmarks for key non-cancer endpoints ( i.e. , irritation , sensitization , respiratory tract effects ) were determined by dividing points of departure by uncertainty factors .
+The cancer benchmark was derived using the USEPA Benchmark Dose Software .
+Results of previous migration and emission data of TDI from PU foam were combined with conservative exposure factors to calculate upper-bound dermal and inhalation exposures to TDI as well as a lifetime average daily dose to TDI from dermal exposure .
+For each non-cancer endpoint , the toxicity benchmark was divided by the calculated exposure to determine the margin of safety ( MOS ) , which ranged from 200 ( respiratory tract ) to 3×10(6) ( irritation ) .
+Although available data indicate TDI is not carcinogenic , a theoretical excess cancer risk ( 1×10(-7) ) was calculated .
+We conclude from this assessment that sleeping on a PU foam mattress does not pose TDI-related health risks to consumers .

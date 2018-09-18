@@ -1,0 +1,6 @@
+Sieved vacuum bag dust from the homes of 143 children in Detroit was analyzed by mold specific quantitative PCR ( MSQPCR ) and the Environmental Relative Moldiness Index ( ERMIsm ) was calculated for each home .
+Children living in these homes were grouped as non-asthmatic ( n=83 ) , moderately asthmatic ( n=28 ) and severely asthmatic ( n=32 ) based on prescription medication usage for their asthma management ( none , occasional and daily , respectively ) .
+The mean ERMI for each group of homes was 6.2 for non-asthmatic , 6.3 for moderately asthmatic and 8.2 for severely asthmatic children .
+The ERMI values in the homes of severely asthmatic children were significantly greater compared to the non-asthmatics ( p=0.04 in Wilcoxon Rank-sum test ) .
+Aspergillus niger and Aspergillus unguis were the primary mold species that distinguished severely asthmatic children's homes and non-asthmatic children's homes ( p<0.05 ; Wilcoxon Rank-sum test ) .
+The determination of the home's ERMI values may aid in prioritizing home remediation efforts , particularly in those children who are at increased risk for asthma exacerbation .

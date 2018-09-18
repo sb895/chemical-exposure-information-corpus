@@ -1,0 +1,10 @@
+Commercially used per- and polyfluorinated compounds ( PFCs ) have been widely detected in humans , but the sources of human exposure are not fully characterized .
+The objectives of this study were to assess the relative importance of different exposure pathways of PFCs in a group of Norwegians and compare estimated intakes with internal doses obtained through biomonitoring .
+Individual PFC intakes from multiple exposure sources for a study group of 41 Norwegian women were estimated using measured PFC concentrations in indoor air and house dust as well as information from food frequency questionnaires and PFC concentrations in Norwegian food .
+Food was generally the major exposure source , representing 67-84% of the median total intake for PFOA and 88-99% for PFOS using different dust ingestion rates and biotransformation factors of ' precursor ' compounds .
+However , on an individual basis , the indoor environment accounted for up to around 50% of the total intake for several women .
+Significant positive associations between concentrations of PFCs in house dust and the corresponding serum concentrations underline the importance of indoor environment as an exposure pathway for PFCs .
+For breast-fed infants , breast milk was calculated to be the single most important source to PFCs by far .
+The estimated intakes were confirmed by comparing serum concentrations of PFOA and PFOS calculated using PK models , with the corresponding concentrations measured in serum .
+Even though food in general is the major source of exposure for PFCs , the indoor environment may be an important contributor to human exposure .
+This study provides valuable knowledge for risk assessment of PFCs and control strategies .

@@ -1,0 +1,8 @@
+Primitive electronic waste ( e-waste ) recycling has become a growing environmental concern , and toxic heavy metals released from e-waste activities may continue to threaten the health of local people .
+To study the impact of heavy metals in people around e-waste sites , 349 people from e-waste recycling sites ( exposure group ) and 118 people from a green plantation ( control group ) were surveyed , and their urinary levels of lead ( UPb ) , cadmium ( UCd ) , manganese ( UMn ) , copper ( UCu ) , and Zinc ( UZn ) were assayed .
+Questionnaire surveys for risk factors were also performed and analyzed by using the Pearson correlation analysis .
+Results indicated that the levels of urinary Cd in both occupational dismantling people { GM(GSD) 0.72(0.71) ug/L } and non-occupational dismantling people { GM(GSD) 0.50(0.79) ug/L } were higher than the control group { GM(GSD) 0.27(0.85) ug/L } .
+Further analyses of correlations between urinary heavy metal levels and exposure factors in the exposed group revealed positive relationship between the duration of dismantling and the level of UPb ( p < 0.05 ) .
+Meanwhile , rice sources from local village have a positive correlation with the level of UPb and UCd ( p < 0.01 ) .
+Other factors , however , may also have influences on heavy metal burden , and not all urinary heavy metal levels can be contributed to e-waste dismantling exposure levels .
+Primitive e-waste recycling activities may contribute to the changes of urinary heavy metal levels and increase the health risk for those chronically working on e-waste dismantling .

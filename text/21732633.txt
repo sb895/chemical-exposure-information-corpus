@@ -1,0 +1,13 @@
+Bisphenol A ( BPA ) is an industrial chemical used in the manufacture of polycarbonate plastics and epoxy resins .
+Due to the potential of this compound to disrupt normal endocrinal functions , concerns over human exposure to BPA have been raised .
+Although several studies have reported human exposure to BPA in Western nations , little is known about exposure in Asian countries .
+In this study , we determined total urinary BPA concentrations ( free plus conjugated ) in 296 urine samples ( male/female : 153/143 ) collected from the general population in seven Asian countries , China , India , Japan , Korea , Kuwait , Malaysia , and Vietnam , using high-performance liquid chromatography ( HPLC ) tandem mass spectrometry ( MS/MS ) .
+On the basis of urinary BPA concentrations , we estimated the total daily intake .
+The results indicated that BPA was detected in 94.3% of the samples analyzed , at concentrations ranging from <0.1 to 30.1 ng/mL .
+The geometric mean concentration of BPA for the entire sample set from seven countries was 1.20 ng/mL .
+The highest concentration of BPA was found in samples from Kuwait ( median : 3.05 ng/mL , 2.45 \u03bcg/g creatinine ) , followed by Korea ( 2.17 ng/mL , 2.40 \u03bcg/g ) , India ( 1.71 ng/mL , 2.09 \u03bcg/g ) , Vietnam ( 1.18 ng/mL , 1.15 \u03bcg/g ) , China ( 1.10 ng/mL , 1.38 \u03bcg/g ) , Malaysia ( 1.06 ng/mL , 2.31 \u03bcg/g ) , and Japan ( 0.95 ng/mL , 0.58 \u03bcg/g ) .
+Among the five age groups studied ( \u2264 19 , 20-29 , 30-39 , 40-49 , and \u2265 50 years ) , the highest median concentration of BPA was found in urine samples from the age group of \u2264 19 years .
+There was no significant difference in BPA concentrations between genders ( male and female ) or domicile of residence ( rural and urban ) .
+The estimated median daily intakes of BPA for the populations in Kuwait , Korea , India , China , Vietnam , Malaysia , and Japan were 5.19 , 3.69 , 2.90 , 2.13 , 2.01 , 1.80 , and 1.61 \u03bcg/day , respectively .
+The estimated daily intake of BPA in the seven Asian countries was significantly lower than the tolerable daily intake recommended by the U.S. Environmental Protection Agency .
+This is the first study to document the occurrence of and human exposure to BPA in several Asian countries .

@@ -1,0 +1,16 @@
+The Rudnaya River valley in the Russian Far East contains a rich reserve of lead , zinc and boron and has been mined for nearly 100 years .
+Environmental contamination related to the area's mines and lead smelter was studied for over 30 years during the Soviet era , by members of the Pacific Geographic Institute ( PGI ) .
+Due to government restrictions , much of the sampling focused on contamination of the river , the air , forests , vegetation , agricultural products and soil .
+Source-specific samples , such as stack emissions from the smelter , and blood lead levels from the residents and smelter workers could not be obtained or were classified as State secrets .
+However , the data do describe the extent and severity of the environmental contamination and related public health concerns .
+Water discharged from the smelter averages 2900 m(3)/day ( containing 100 kg of lead ( Pb ) and 20 kg of arsenic ( As) ) and leachate from area mine dumps and other industrial processes contaminates the Rudnaya River .
+Annual air emissions include 85 tonnes of particulates ( containing 50 tonnes of Pb and 0.5 tonnes of As ) and 250000 m(3) of gases high in sulfur dioxide ( SO(2) ) , carbon monoxide ( CO ) and carbon dioxide ( CO(2) ) .
+Vegetative stress is severe and much of this area is denuded .
+Pb and other metals in agricultural products suggest local produce may be dangerous for human consumption , although it is a major food source for the community .
+Public and occupational health indicators of basophilic stippling , respiratory disease and hair lead levels further suggest the severity of the problem .
+Although , descriptions of complete methodologies and procedures are often lacking , these data describe how sampling was conducted during the Soviet era and document a site with severe heavy metals contamination , especially lead , and the likelihood of related public health problems .
+They are relevant today as investigators employ state-of-the-art-sampling techniques and explore cleanup options under a new governmental system and challenging economic times .
+In the post-Soviet era , a Russian/US team sampled area soils and dusts and confirmed the severity of the environmental problems using commonly employed sampling and analysis techniques .
+Lead concentrations in residential gardens ( 476-4310 mg/kg , Gx=1626 mg/kg ) and in roadside soils ( 2020-22900 mg/kg , Gx=4420 mg/kg ) exceed USEPA guidance for remediation .
+Preliminary biokinetic estimates of mean blood levels ( average 13-27 microg/dl ) suggest pre-school children are at significant risk of lead poisoning from soil/dust ingestion .
+Today , the PGI , in cooperation with the industrial owners and the local health and environmental authorities , is attempting to establish long-term monitoring and pollution abatement within the constraints of their difficult economic situation .

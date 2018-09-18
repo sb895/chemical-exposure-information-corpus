@@ -1,0 +1,10 @@
+BACKGROUND Although it has been hypothesized that fetal exposure to endocrine-disrupting chemicals may increase obesity risk , empirical data are limited , and it is uncertain how early in life any effects may begin .
+OBJECTIVES We explored whether prenatal exposure to several organochlorine compounds ( OCs ) is associated with rapid growth in the first 6 months of life and body mass index ( BMI ) later in infancy .
+METHODS Data come from the INMA ( Infancia y Medio-Ambiente ) Child and Environment birth cohort in Spain , which recruited 657 women in early pregnancy .
+Rapid growth during the first 6 months was defined as a change in weight-for-age z-scores > 0.67 , and elevated BMI at 14 months , as a z-score \u2265 the 85th percentile .
+Generalized linear models were used to estimate the risk of rapid growth or elevated BMI associated with 2,2-bis(p-chlorophenyl)-1,1-dichloroethylene ( DDE ) , hexachlorobenzene , \u03b2-hexachlorohexane , and polychlorinated biphenyls in first-trimester maternal serum .
+RESULTS After multivariable adjustment including other OCs , DDE exposure above the first quartile was associated with doubling of the risk of rapid growth among children of normal-weight ( BMI < 25 kg/m2 ) , but not overweight , mothers .
+DDE was also associated with elevated BMI at 14 months ( relative risk per unit increase in log DDE = 1.50 ; 95% confidence interval , 1.11-2.03 ) .
+Other OCs were not associated with rapid growth or elevated BMI after adjustment .
+CONCLUSIONS In this study we found prenatal DDE exposure to be associated with rapid weight gain in the first 6 months and elevated BMI later in infancy , among infants of normal-weight mothers .
+More research exploring the potential role of chemical exposures in early-onset obesity is needed .

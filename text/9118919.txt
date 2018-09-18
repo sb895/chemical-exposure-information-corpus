@@ -1,0 +1,5 @@
+A large cohort of 74,828 benzene-exposed and 35,805 nonexposed workers employed between 1972 and 1987 in 12 cities in China was followed to determine mortality from all causes .
+Benzene-exposed study subjects were employed in a variety of occupations including coating applications , and rubber , chemical , and shoe production .
+Mortality was slightly increased among workers with greater cumulative exposure to benzene ( ptrend < 0.05 ) , but this excess was largely due to cancer deaths ( ptrend < 0.01 ) .
+Deaths due to lymphatic and hematopoietic malignancies ( ptrend = 0.01 ) and lung cancer ( ptrend = 0.01 ) increased with increasing cumulative exposure to benzene .
+Investigations continue to relate benzene exposure to specific lymphatic and hematopoietic malignancies and other causes of death .

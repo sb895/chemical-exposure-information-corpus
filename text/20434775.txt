@@ -1,0 +1,10 @@
+Lifetime exposure to trihalomethanes ( THMs ) through ingestion , inhalation and dermal contacts may pose risks to human health .
+Current approaches may under predict THMs exposure by using THMs in cold water during showering and bathing .
+Warming of chlorinated water during showering may increase THMs formation through reactions between organics and residual chlorine , which can increase human health risks .
+In this study , THMs concentrations in shower water were estimated using THMs rate increase model .
+Using cold water THMs , exposure through ingestion was estimated , while THMs exposure during showering was estimated using THMs in warm water .
+Human health cancer risks and additional expenses for 20 most populated Canadian cities from exposure to THMs were estimated .
+Inhalation and dermal contact during showering contributed 30% to 50% of total cancer risks , while risks from inhalation and dermal contacts were comparable for all cities .
+Overall cancer risks were estimated between 7.2 x 10(-6) and 6.4 x 10(-5) for these cities .
+Cancer incidents were estimated highest for Montreal ( 94/year ) followed by Toronto ( 53/year ) , which may require additional medical expenses of 18.8 and 10.7 million dollars/year for Montreal and Toronto respectively .
+Cancer risks from exposure to THMs can be controlled by reducing THMs in water supply and varying shower stall volume , shower duration and air exchange rate in shower stall .

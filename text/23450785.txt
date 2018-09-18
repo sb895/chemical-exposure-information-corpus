@@ -1,0 +1,8 @@
+BACKGROUND Respiratory tract-related occupational disability is common among adults of working age .
+We examined occupational vapors , gas , dust , or fume ( VGDF ) exposure as a predictor of disability , based on respiratory sickness absence among the actively employed , at an early point at which prevention may be most relevant .
+METHODS Currently employed European Community Respiratory Health Survey II participants ( n = 6,988 ) were classified into three mutually exclusive , condition/symptom-based categories : physician-diagnosed asthma , self-reported rhinitis , and wheeze/breathlessness ( n = 4,772 ) .
+Logistic regression analysis estimated the odds of respiratory sickness absence ( past 12 months ) by VGDF exposure .
+RESULTS In the condition/symptom groups , 327 ( 6.9% ) reported respiratory sickness absence .
+Exposure to VGDF was associated with increased odds of respiratory sickness absence : asthma odds ratio [ OR ] 2.0 ( 95% confidence interval [ CI ] 1.1-3.6 ) , wheeze/breathlessness OR 2.2 ( 95% CI 1.01-4.8 ) ; rhinitis OR 1.9 ( 95% CI 1.02-3.4 ) .
+CONCLUSION One in 15 currently employed with asthma , breathlessness , or rhinitis reported respiratory sickness absence .
+VGDF exposure doubled the odds of respiratory sickness absence , suggesting a focus for disability prevention .

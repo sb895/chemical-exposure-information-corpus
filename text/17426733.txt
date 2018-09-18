@@ -1,0 +1,14 @@
+Polybrominated diphenyl ethers , PBDEs , are a class of brominated flame retardants that , like other persistent organic pollutants ( POPs ) , have been found in humans , wildlife , and biota worldwide .
+Unlike other POPs , however , the key routes of human exposure are not thought to be food and fish , but rather are from their use in household consumer products , and to the high levels of PBDEs found in house dust .
+The exposure of Americans to PBDEs was systematically evaluated in this study .
+First , exposure media data on PBDE congeners were compiled .
+Then , an adult intake dose was derived using exposure factors in combination with these data .
+The exposure pathways evaluated included food and water ingestion , inhalation , and ingestion and dermal contact to house dust .
+These intakes were converted to a body burden using a simple pharmacokinetic ( PK ) model .
+The predicted body burdens were compared with representative profiles of PBDEs in blood and milk .
+The adult intake dose of total PBDEs was estimated to be 7.7 ng/kg body weight/day , and children's estimated intakes were higher at 49.3 ng/kg/day for ages 1-5 , 14.4 ng/kg/day for 6-11 , and 9.1 ng/kg/day for 12-19 .
+The much higher dose for the child age 1-5 was due to the doubling of dust ingestion from 50 to 100 mg/day .
+The predicted adult body burden of total PBDEs was 33.8 ng/kg lipid weight ( lwt ) , compared to representative measurements in blood and milk at 64.0 and 93.7 ng/g lwt , respectively Most of this apparent underprediction in total concentration was due to an underprediction of the key congener , BDE 47 .
+The value for BDE 47 half-life in the body was identified as the variable most likely in error in this exercise .
+Other congener predictions compared well with measurements , suggesting general validity with the approach .
+An important finding from this assessment is that the food intake estimate of about 1.3 ng/kg/day ( of the 7.7 ng/kg/day total ) cannot explain current US body burdens ; exposures to PBDEs in house dust accounted for 82% of the overall estimated intakes .

@@ -1,0 +1,14 @@
+We studied the exposure to methyl mercury ( MeHg ) in 127 Swedish women of childbearing age with high consumption of various types of fish , using total mercury ( T-Hg ) in hair and MeHg in blood as biomarkers .
+Fish consumption was assessed using a food frequency questionnaire ( FFQ ) , including detailed information about consumption of different fish species , reflecting average intake during 1 year .
+We also determined inorganic mercury ( I-Hg ) in blood , and selenium ( Se ) in serum .
+The average total fish consumption , as reported in the food frequency questionnaire , was approximately 4 times/week ( range 1.6-19 times/week ) .
+Fish species potentially high in MeHg , included in the Swedish dietary advisories , was consumed by 79% of the women .
+About 10% consumed such species more than once a week , i.e. , more than what is recommended .
+Other fish species potentially high in MeHg , not included in the Swedish dietary advisories , was consumed by 54% of the women .
+Eleven percent never consumed fish species potentially high in MeHg .
+T-Hg in hair ( median 0.70 mg/kg ; range 0.08-6.6 mg/kg ) was associated with MeHg in blood ( median 1.7 microg/L ; range 0.30-14 microg/L ; rs = 0.78 ; p < 0.001 ) .
+Hair T-Hg , blood MeHg and serum Se ( median 70 microg/L ; range 46-154 microg/L ) increased with increasing total fish consumption ( rs = 0.32 ; p < 0.001 , rs = 0.37 ; p < 0.001 and rs = 0.35 ; p = 0.002 , respectively ) .
+I-Hg in blood ( median 0.24 microg/L ; range 0.01-1.6 microg/L ) increased with increasing number of dental amalgam fillings .
+We found no statistical significant associations between the various mercury species measured and the Se concentration in serum .
+Hair mercury levels exceeded the levels corresponding to the EPA reference dose ( RfD ) of 0.1 microg MeHg/kg b.w. per day in 20% of the women .
+Thus , there seems to be no margin of safety for neurodevelopmental effects in fetus , for women with high fish consumption unless they decrease their intake of certain fish species .

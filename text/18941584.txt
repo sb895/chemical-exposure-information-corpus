@@ -1,0 +1,13 @@
+BACKGROUND Coal burning provides 70% of the energy for China's industry and power , but releases large quantities of polycyclic aromatic hydrocarbons ( PAHs ) and other pollutants .
+PAHs are reproductive and developmental toxicants , mutagens , and carcinogens .
+OBJECTIVE We evaluated the benefit to neurobehavioral development from the closure of a coal-fired power plant that was the major local source of ambient PAHs .
+METHODS The research was conducted in Tongliang , Chongqing , China , where a coal-fired power plant operated seasonally before it was shut down in May 2004 .
+Two identical prospective cohort studies enrolled nonsmoking women and their newborns in 2002 ( before shutdown ) and 2005 ( after shutdown ) .
+Prenatal PAH exposure was measured by PAH-DNA adducts ( benzo[a]pyrene-DNA ) in umbilical cord blood .
+Child development was assessed by the Gesell Developmental Schedules at 2 years of age .
+Prenatal exposure to other neurotoxicants and potential confounders ( including lead , mercury , and environmental tobacco smoke ) was measured .
+We compared the cohorts regarding the association between PAH-DNA adduct levels and neurodevelopmental outcomes .
+RESULTS Significant associations previously seen in 2002 between elevated adducts and decreased motor area developmental quotient ( DQ ) ( p = 0.043 ) and average DQ ( p = 0.047 ) were not observed in the 2005 cohort ( p = 0.546 and p = 0.146 ) .
+However , the direction of the relationship did not change .
+CONCLUSION The findings indicate that neurobehavioral development in Tongliang children benefited by elimination of PAH exposure from the coal-burning plant , consistent with the significant reduction in PAH-DNA adducts in cord blood of children in the 2005 cohort .
+The results have implications for children's environmental health in China and elsewhere .

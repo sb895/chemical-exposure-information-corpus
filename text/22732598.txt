@@ -1,0 +1,12 @@
+BACKGROUND Recent cross-sectional studies suggest a link between butylbenzyl phthalate ( BBzP ) in house dust and childhood eczema .
+OBJECTIVES We aimed to evaluate whether concentrations of monobenzyl phthalate ( MBzP ) , the main BBzP metabolite in urine , during pregnancy are associated prospectively with eczema in young children , and whether this association varies by the child's sensitization to indoor allergens or serological evidence of any allergies .
+METHODS MBzP was measured in spot urine samples during the third trimester of pregnancy from 407 African-American and Dominican women residing in New York City in 1999-2006 .
+Repeated questionnaires asked mothers whether their doctor ever said their child had eczema .
+Child blood samples at 24 , 36 , and 60 months of age were analyzed for total , anti-cockroach , dust mite , and mouse IgE .
+Relative risks ( RR ) were estimated with multivariable modified Poisson regression .
+Analyses included a multinomial logistic regression model for early- and late-onset eczema versus no eczema through 60 months of age .
+RESULTS MBzP was detected in > 99% of samples ( geometric mean = 13.6 ; interquartile range : 5.7-31.1 ng/mL ) .
+By 24 months , 30% of children developed eczema , with the proportion higher among African Americans ( 48% ) than among Dominicans ( 21% ) ( p < 0.001 ) .
+An interquartile range increase in log MBzP concentration was associated positively with early-onset eczema ( RR = 1.52 for eczema by 24 months ; 95% confidence interval : 1.21 , 1.91 , p = 0.0003 , n = 113 reporting eczema/376 total sample ) , adjusting for urine specific gravity , sex , and race/ethnicity .
+MBzP was not associated with allergic sensitization , nor did seroatopy modify consistently the MBzP and eczema association .
+CONCLUSIONS Prenatal exposure to BBzP may influence the risk of developing eczema in early childhood .

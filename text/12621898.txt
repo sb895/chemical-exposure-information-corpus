@@ -1,0 +1,9 @@
+Since the formation of acrylamide ( AA ) in the heating process of starch-containing food could be demonstrated and high contents of this substance were found in commercial food products , there is a great discussion about the possible human health risks connected with this dietary exposure .
+In order to determine the body burden of the general population in Germany caused by this uptake , we investigated the internal exposure to acrylamide and acrylonitrile in a group of 72 persons using haemoglobin adducts as parameters of biochemical effects .
+The collective was subdivided into non-smokers and smokers basing on the results of the smoking-specific acrylonitrile adduct ( N-cyanoethylvaline , CEV ) .
+The median value for the adduct of AA ( N-2-carbamoylethylvaline , AAV ) in 25 non-smokers was 21 pmol/g globin ( approximately 0.6 microgram/l blood ) with a 95 percentile of 46 pmol/g globin ( approximately 1.3 micrograms/l ) ( LOD : 12 pmol/g globin ) .
+The median level for AAV in smokers ( n = 47 ) was found to be 85 pmol/g globin ( approximately 2.3 micrograms/l blood ) with a 95 percentile of 159 pmol/g globin ( approximately 4.3 micrograms/l blood ) .
+Based on these results about 60 micrograms AA/d are taken up by adult non-smoking persons .
+According to calculations of WHO and US EPA this background exposure would lead to a cancer risk between 6 x 10(-4) and 3.6 x 10(-3) .
+Our results confirm a body burden to AA even in persons from the non-smoking general population in Germany that is most probably caused by dietary uptake .
+Smoking habits considerably contribute to the level of this adduct .

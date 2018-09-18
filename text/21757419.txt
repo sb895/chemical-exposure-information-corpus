@@ -1,0 +1,10 @@
+BACKGROUND Perfluorochemicals ( PFCs ) are detectable in the general population and in the human environment , including house dust .
+Sources are not well characterized , but isomer patterns should enable differentiation of historical and contemporary manufacturing sources .
+Isomer-specific maternal-fetal transfer of PFCs has not been examined despite known developmental toxicity of perfluorooctane sulfonate ( PFOS ) and perfluorooctanoate ( PFOA ) in rodents .
+OBJECTIVES We elucidated relative contributions of electrochemical ( phased out in 2001 ) and telomer ( contemporary ) PFCs in dust and measured how transplacental transfer efficiency ( TTE ; based on a comparison of maternal and cord sera concentrations ) is affected by perfluorinated chain length and isomer branching pattern .
+METHODS We analyzed matching samples of house dust ( n = 18 ) , maternal sera ( n = 20 ) , and umbilical cord sera ( n = 20 ) by isomer-specific high-performance liquid chromatography tandem mass spectrometry .
+RESULTS PFOA isomer signatures revealed that telomer sources accounted for 0-95% of total PFOA in house dust ( median , 31% ) .
+This may partly explain why serum PFOA concentrations are not declining in some countries despite the phase-out of electrochemical PFOA .
+TTE data indicate that total branched isomers crossed the placenta more efficiently than did linear isomers for both PFOS ( p < 0.01 ) and PFOA ( p = 0.02 ) and that placental transfer of branched isomers of PFOS increased as the branching point moved closer to the sulfonate ( SO3- ) end of the molecule .
+CONCLUSIONS Results suggest that humans are exposed to telomer PFOA , but larger studies that also account for dietary sources should be conducted .
+The exposure profile of PFOS and PFOA isomers can differ between the mother and fetus-an important consideration for perinatal epidemiology studies of PFCs .

@@ -1,0 +1,10 @@
+Several human studies have shown that low-level exposure to environmental contaminants , such as polychlorinated biphenyls ( PCBs ) and organochlorine pesticides , negatively influences birth outcomes .
+However , the effects of low-level exposure to polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and dioxin-like PCBs ( DL-PCBs ) on birth outcomes have not been clarified in human studies .
+A prospective cohort study was established to investigate the possible adverse effects of PCDDs/PCDFs and DL-PCBs on fetal growth and neurodevelopment .
+We recruited 514 pregnant women between July 2002 and October 2005 in Sapporo , Japan .
+We measured 29 congener levels of PCDDs/PCDFs and DL-PCBs in maternal blood .
+Using multiple liner regression analysis of the association between birth weight and the levels of PCDDs/PCDFs and DL-PCBs with full adjustments for potential confounders , a significant adverse effect was observed regarding total PCDDs toxic equivalents ( TEQ ) levels ( adjusted beta=-231.5g , 95% CI : -417.4 to -45.6 ) and total PCDFs TEQ levels ( adjusted beta=-258.8g , 95% CI : -445.7 to -71.8 ) .
+Among male infants , significant adverse associations with birth weight were found for total PCDDs TEQ level , total PCDDs/PCDFs TEQ level , and total TEQ level .
+However , among female infants , these significant adverse associations were not found .
+With regard to individual congeners of PCDDs/PCDFs and DL-PCBs , we found significantly negative association with the levels of 2,3,4,7,8-PeCDF ( adjusted beta=-24.5g , 95% CI : -387.4 to -61.5 ) .
+Our findings suggest that prenatal low-level exposure to PCDDs and PCDFs , especially 2,3,4,7,8-PeCDF , may accumulate in the placenta and retard important placental functions , which result in lower birth weight .

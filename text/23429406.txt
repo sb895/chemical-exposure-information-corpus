@@ -1,0 +1,13 @@
+BACKGROUND Breastfeeding and air pollution are both important factors for respiratory symptoms and asthma in children .
+Few studies have examined possible interaction between them on respiratory outcomes .
+METHODS We studied 31,049 Chinese children , ages 2-14 years old , from 25 elementary schools and 50 kindergartens in the Seven Northeastern Cities during 2008-2009 .
+Parents or guardians completed questionnaires about the children's histories of respiratory conditions , risk factors , and feeding methods .
+Three-year average concentrations of particles with an aerodynamic diameter \u2264 10 µm , sulfur dioxide , nitrogen dioxides , and ozone were calculated from monitoring stations in 25 study districts .
+We used two-level logistic regressions to examine the effects of exposure , controlling for covariates .
+RESULTS Association of air pollution with childhood respiratory conditions was modified by breastfeeding .
+Compared with children who had been breastfed , those who were not exhibited consistently stronger effects of air pollution .
+Among non-breastfed children , odds ratios ( ORs ) per 10 µg/m increase in nitrogen dioxide were 1.40 ( 95% confidence interval = 1.19-1.64 ) for cough , 1.41 ( 1.16-1.71 ) for phlegm , 1.17 ( 1.00-1.36 ) for current wheeze , and 1.25 ( 1.07-1.46 ) for doctor-diagnosed asthma .
+For breastfed children , the ORs were 1.25 ( 1.09-1.43 ) for cough , 1.15 ( 0.99-1.34 ) for phlegm , 0.97 ( 0.87-1.08 ) for current wheeze , and 1.17 ( 1.05-1.32 ) for doctor-diagnosed asthma .
+Breastfeeding was more protective among younger children .
+Breastfeeding was also associated with reduced effects of passive smoke exposure in children .
+CONCLUSION Breastfeeding is associated with smaller associations between air pollution and respiratory conditions in children , suggesting that breastfeeding reduces susceptibility to the respiratory effects of pollutants .

@@ -1,0 +1,12 @@
+BACKGROUND Errors in address geocodes may affect estimates of the effects of air pollution on health .
+OBJECTIVE We investigated the impact of four geocoding techniques on the association between urban air pollution estimated with a fine-scale ( 10 m × 10 m ) dispersion model and lung function in adults .
+METHODS We measured forced expiratory volume in 1 sec ( FEV1 ) and forced vital capacity ( FVC ) in 354 adult residents of Grenoble , France , who were participants in two well-characterized studies , the Epidemiological Study on the Genetics and Environment on Asthma ( EGEA ) and the European Community Respiratory Health Survey ( ECRHS ) .
+Home addresses were geocoded using individual building matching as the reference approach and three spatial interpolation approaches .
+We used a dispersion model to estimate mean PM10 and nitrogen dioxide concentrations at each participant's address during the 12 months preceding their lung function measurements .
+Associations between exposures and lung function parameters were adjusted for individual confounders and same-day exposure to air pollutants .
+The geocoding techniques were compared with regard to geographical distances between coordinates , exposure estimates , and associations between the estimated exposures and health effects .
+RESULTS Median distances between coordinates estimated using the building matching and the three interpolation techniques were 26.4 , 27.9 , and 35.6 m .
+Compared with exposure estimates based on building matching , PM10 concentrations based on the three interpolation techniques tended to be overestimated .
+When building matching was used to estimate exposures , a one-interquartile range increase in PM10 ( 3.0 \u03bcg/m3 ) was associated with a 3.72-point decrease in FVC% predicted ( 95% CI : -0.56 , -6.88 ) and a 3.86-point decrease in FEV1% predicted ( 95% CI : -0.14 , -3.24 ) .
+The magnitude of associations decreased when other geocoding approaches were used [ e.g. , for FVC% predicted -2.81 ( 95% CI : -0.26 , -5.35 ) using NavTEQ , or 2.08 ( 95% CI -4.63 , 0.47 , p = 0.11 ) using Google Maps ] .
+CONCLUSIONS Our findings suggest that the choice of geocoding technique may influence estimated health effects when air pollution exposures are estimated using a fine-scale exposure model .

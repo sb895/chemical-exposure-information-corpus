@@ -1,0 +1,10 @@
+p,p'-Dichlorodiphenyldichloroethylene ( p,p'-DDE ) is the main metabolite of pesticide dichlorodiphenyltrichloroethane and a marker of past exposure to this organochlorine pesticide. p,p'-DDE is considered a persistent organic pollutant with potential adverse effects on human health .
+The aims of the present study were to assess p,p'-DDE levels in serum and adipose tissue from a cohort of adults in southern Spain and to explore the predictors of exposure from a gender perspective .
+Chemical analyses were performed using gas chromatography-coupled mass spectrometry in tandem mode .
+The study population ( n=387 ) was intraoperatively recruited in two areas of Granada Province ( southern Spain ) , and data on potential predictors of these concentrations were gathered by questionnaire .
+The statistical analysis was performed by means of multivariable linear regression models .
+All participants showed detectable concentrations of p,p'-DDE in both serum and adipose tissue , with median concentrations of 175.7 and 93.0 ng/g lipid , respectively ( p<0.001 ) , and the two measurements showed positive correlations .
+Women showed higher concentrations than men ( 115.8 and 66.2 ng/g lipid , respectively , p<0.001 ) .
+Concentrations in both matrices were positively associated with fatty food consumption , as well as with age and BMI , the latter only in adipose tissue .
+The multivariate model showed that , among women , adipose tissue concentrations were approximately 40% higher in those residing in the semi-rural area and 2-fold higher in those whose mothers had participated in agricultural activities during the pregnancy .
+In this study population , gender and place of residence play a key role in human exposure to p,p'-DDE and can be used to identify subjects at special risk of long-term exposure .

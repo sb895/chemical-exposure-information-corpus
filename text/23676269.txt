@@ -1,0 +1,15 @@
+BACKGROUND Numerous studies have identified short-term effects of air pollution on morbidity in North America and Europe .
+The effects of air pollution may differ by region of the world .
+Evidence on air pollution and morbidity in Asia is limited .
+METHODS We investigated associations between ambient air pollution and hospital admissions in eight Korean cities for 2003-2008 .
+We applied a two-stage Bayesian hierarchical model to estimate city-specific effects and the overall effects across the cities .
+We considered lagged effects of pollutants by cause ( allergic disease , asthma , selected respiratory disease , and cardiovascular disease ) , sex , and age ( 0-14 , 15-64 , 65-74 , and \u2265 75 years ) .
+RESULTS We found evidence of associations between hospital admissions and short-term exposure to air pollution .
+An interquartile range ( IQR ) increase in PM10 ( 30.7 µg/m ) was associated with an overall increase of 2.2% ( 95% posterior interval = 0.5%-3.9% ) , 2.8% ( 1.3%-4.4% ) , 1.7% ( 0.9%-2.6% ) , and 0.7% ( 0.0%-1.4% ) in allergic , asthma , selected respiratory , and cardiovascular admissions , respectively .
+For NO2 ( IQR 12.2 ppb ) , the corresponding figures were 2.3% ( 0.6%-4.0% ) , 2.2% ( 0.3%-4.1% ) , 2.2% ( 0.6%-3.7% ) , and 2.2% ( 1.1%-3.4% ) .
+For O3 , we found positive associations for all the studied diagnoses except cardiovascular disease .
+SO2 was associated with hospital admissions for selected respiratory or cardiovascular causes , whereas O3 was negatively associated with cardiovascular admissions .
+We found suggestive evidence for stronger associations in younger and older age groups .
+Associations were similar for men and women .
+CONCLUSIONS Ambient air pollution was associated with increased risk of hospital admissions in Korea .
+Results suggest increased susceptibility among the young or the elderly for pollution effects on specific diseases .

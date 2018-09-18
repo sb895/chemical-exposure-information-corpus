@@ -1,0 +1,12 @@
+Arsenic concentrations in well water often vary even within limited geographic areas .
+This makes it difficult to obtain valid estimates of the actual exposure , as people may take their drinking water from different wells .
+We evaluated a spatial model for estimation of the influence of multiple neighbourhood water sources on the actual exposure , as assessed by concentrations in urine in a population in rural Bangladesh .
+In total 1307 individuals ( one per bari , group of families ) were randomly selected .
+Arsenic concentrations of urine and water were analysed .
+Simple average and inverse distance weighted average of arsenic concentrations in the five nearest water sources were calculated for each individual .
+Spatial autocorrelation was evaluated using Moran's I statistics , and spatial regression models were employed to account for spatial autocorrelation .
+The average distance from a household to the nearest tube-well was 32 metres ( Inter-Quartile Range 1-49 metres ) .
+Water arsenic concentrations of the reported main water sources were significantly correlated with concentrations in urine ( R(2) = 0.41 , rho < 0.0001 , R(2) for women = 0.45 and for men = 0.36 ) .
+General model fit improved only slightly after spatial adjustment for neighbouring water sources ( pseudo-R(2) = 0.53 , spatial lag model ) , compared to covariate adjusted regression coefficient ( R(2) = 0.46 ) .
+Arsenic concentration in urine was higher than arsenic in main water source with an intercept of 57 microg L(-1) , indicating exposure from food .
+A suitable way of estimating an individual's past exposure to arsenic in this rural setting , where influence of neighbouring water sources was minimal , was to consider the reported main source of drinking water .

@@ -1,0 +1,10 @@
+This study examines the relationship between air pollution , social deprivation and health in the city of Leeds , UK under a baseline and three distance-based road user charging ( RUC ) scenarios set at 2 pence , 10 pence and 20 pence/km .
+Through application of a series of linked models of traffic , emission and pollutant dispersion , air quality was modelled in response to RUC scenarios .
+The pollutant modelled were NO(2) , PM(10) , CO , benzene and 1,3-butadiene , though results of NO(2) are used in this study .
+The RUC scenarios were compared with the ' base ' scenario , all set for the year 2005 .
+The RUC initiatives result in the differences in ambient concentrations of NO(2) .
+The study correlates NO(2) concentrations with derived indices of social deprivation and health .
+The study concludes that positive but weak relationship exists between air quality and social deprivation , and indicates that deprived population groups are disproportionately exposed to higher NO(2) levels .
+The relationship between air quality and health status of the population is weak .
+There is a strong relationship between social deprivation and health status of the population .
+The study concludes that RUC scenarios result in reducing disparity between affluent and deprived populations .

@@ -1,0 +1,11 @@
+BACKGROUND Although research has shown that low socioeconomic status ( SES ) and minority communities have higher exposure to air pollution , few studies have simultaneously investigated the associations of individual and neighborhood SES with pollutants across multiple sites .
+OBJECTIVES We characterized the distribution of ambient air pollution by both individual and neighborhood SES using spatial regression methods .
+METHODS The study population comprised 6,140 participants from the Multi-Ethnic Study of Atherosclerosis ( MESA ) .
+Year 2000 annual average ambient PM2.5 and NOx concentrations were calculated for each study participant's home address at baseline examination .
+We investigated individual and neighborhood ( 2000 U.S. Census tract level ) SES measures corresponding to the domains of income , wealth , education , and occupation .
+We used a spatial intrinsic conditional autoregressive model for multivariable analysis and examined pooled and metropolitan area-specific models .
+RESULTS A 1-unit increase in the z-score for family income was associated with 0.03-\u03bcg/m3 lower PM2.5 ( 95% CI : -0.05 , -0.01 ) and 0.93% lower NOx ( 95% CI : -1.33 , -0.53 ) after adjustment for covariates .
+A 1-SD-unit increase in the neighborhood's percentage of persons with at least a high school degree was associated with 0.47-\u03bcg/m3 lower mean PM2.5 ( 95% CI : -0.55 , -0.40 ) and 9.61% lower NOx ( 95% CI : -10.85 , -8.37 ) .
+Metropolitan area-specific results exhibited considerable heterogeneity .
+For example , in New York , high-SES neighborhoods were associated with higher concentrations of pollution .
+CONCLUSIONS We found statistically significant associations of SES measures with predicted air pollutant concentrations , demonstrating the importance of accounting for neighborhood- and individual-level SES in air pollution health effects research .

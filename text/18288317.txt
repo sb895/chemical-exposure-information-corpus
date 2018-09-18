@@ -1,0 +1,10 @@
+BACKGROUND Arsenic from drinking water has been associated with malignant and nonmalignant respiratory illnesses .
+The association with nonmalignant respiratory illnesses has not been well established because the assessments of respiratory symptoms may be influenced by recall bias or interviewer bias because participants had visible skin lesions .
+OBJECTIVES We examined the relationship of the serum level of Clara cell protein CC16--a novel biomarker for respiratory illnesses--with well As , total urinary As , and urinary As methylation indices .
+METHODS We conducted a cross-sectional study in nonsmoking individuals ( n = 241 ) selected from a large cohort with a wide range of As exposure ( 0.1-761 microg/L ) from drinking water in Bangladesh .
+Total urinary As , urinary As metabolites , and serum CC16 were measured in urine and serum samples collected at baseline of the parent cohort study .
+RESULTS We observed an inverse association between urinary As and serum CC16 among persons with skin lesions ( beta = -0.13 , p = 0.01 ) .
+We also observed a positive association between secondary methylation index in urinary As and CC16 levels ( beta = 0.12 , p = 0.05 ) in the overall study population ; the association was stronger among people without skin lesions ( beta = 0.18 , p = 0.04 ) , indicating that increased methylation capability may be protective against As-induced respiratory damage .
+In a subsample of study participants undergoing spirometric measures ( n = 31 ) , we observed inverse associations between urinary As and predictive FEV(1) ( forced expiratory volume measured in 1 sec ) ( r = -0.37 ; FEV(1)/forced vital capacity ratio and primary methylation index ( r = -0.42 , p = 0.01 ) .
+CONCLUSIONS The findings suggest that serum CC16 may be a useful biomarker of epithelial lung damage in individuals with arsenical skin lesions .
+Also , we observed the deleterious respiratory effects of As exposure at concentrations lower than reported in earlier studies .

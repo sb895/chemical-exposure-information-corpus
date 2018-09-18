@@ -1,0 +1,8 @@
+The main objective of this study was to determine the average concentrations for the metabolites of the four more common phthalates , industrial chemicals widely used in commercial products and potential endocrine disruptors , in the urine of a control population living in Central Italy .
+The study population consisted of 157 healthy subjects , not occupationally exposed to phthalates ( 74 males and 83 females ) .
+Urinary levels of the analytes were determined by liquid chromatography tandem mass spectrometry ( LC-MS/MS ) with isotopic dilution .
+The reference values ( geometric mean ) for males and females were estimated for each metabolite : .
+Females : for MEP was 72.94\u03bcg/g creatinine ( CI 95% 3.63-149.51 ) , for MEHP was 3.37\u03bcg/g creatinine ( CI 95% 1.85-4.89 ) , for MEHHP was 12.74\u03bcg/g creatinine ( CI 95% 9.45-22.19 ) , for MnBP was 20.26\u03bcg/g creatinine ( CI 95% 8.17-28.43 ) and for MBzP was 14.74 ( CI 95% 2.94-17.68 ) .
+Males : for MEP was 56.35\u03bcg/g creatinine ( CI 95% 2.32-110.39 ) , for MEHP was 2.80\u03bcg/g creatinine ( CI 95% 1.08-4.52 ) , for MEHHP was 10.77\u03bcg/g creatinine ( CI 95% 6.18-16.95 ) , for MnBP was 17.59\u03bcg/g creatinine ( CI 95% 5.72-29.45 ) and for MBzP was 16.44 ( CI 95% 7.90-29.45 ) .
+To obtain reference values for these chemicals is without doubt an important topic for evaluate the exposure of population and their possible health effects .
+Information from different geographical areas are important to understand the real different background concentrations .

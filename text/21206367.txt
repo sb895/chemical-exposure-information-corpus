@@ -1,0 +1,11 @@
+BACKGROUND High chronic exposure to inorganic arsenic may contribute to the development of hypertension .
+Limited information is available , however , on the association of low to moderate exposure to inorganic arsenic with blood pressure levels and hypertension .
+We investigated the association of exposure to inorganic arsenic ( as measured in urine ) with systolic and diastolic blood pressure levels and the prevalence of hypertension in US adults .
+METHODS We studied 4167 adults 20 years of age or older who participated in the National Health and Nutrition Examination Survey ( NHANES ) from 2003 through 2008 and for whom total arsenic , dimethylarsinate ( DMA ) , and arsenobetaine had been assessed in urine .
+RESULTS The median ( interquartile range ) urine concentrations were 8.3 \u03bcg/L ( 4.2-17.1 ) for total arsenic , 3.6 \u03bcg/L ( 2.0-6.0 ) for DMA , and 1.4 \u03bcg/L ( 0.3-6.3 ) for arsenobetaine .
+The weighted prevalence of hypertension in the study population was 36% .
+After multivariable adjustment , a 2-fold increase in total arsenic was associated with a hypertension odds ratio of 0.98 ( 95% confidence interval = 0.86-1.11 ) .
+A doubling of total arsenic minus arsenobetaine was associated with a hypertension OR of 1.03 ( 0.94-1.14 ) and a doubling of DMA concentrations was associated with a hypertension OR of 1.11 ( 0.99-1.24 ) .
+Total arsenic , total arsenic minus arsenobetaine , or DMA levels were not associated with systolic or diastolic blood pressure .
+CONCLUSIONS At the low to moderate levels , typical of the US population , total arsenic , total arsenic minus arsenobetaine , and DMA concentrations in urine were not associated with the prevalence of hypertension or with systolic or diastolic blood pressure levels .
+A weak association of DMA with hypertension could not be ruled out .

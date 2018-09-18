@@ -1,0 +1,14 @@
+Monitoring the nutritional status of essential elements and assessing exposure of individuals to toxic elements is of great importance for human health .
+Thus , the appropriate selection and measurement of biomarkers of internal dose is of critical importance .
+Due to their many advantages , hair samples have been widely used to assess human exposure to different contaminants .
+However , the validity of this biomarker in evaluating the level of trace elements in the human body is debatable .
+In the present study , we evaluated the relationship between levels of trace elements in hair and whole blood or plasma in a Brazilian population .
+Hair , blood and plasma were collected from 280 adult volunteers for metal determination .
+An ICP-MS was used for sample analysis .
+Manganese , copper , lead and strontium levels in blood varied from 5.1 to 14.7 , from 494.8 to 2383.8 , from 5.9 to 330.1 and from 11.6 to 87.3 microg/L , respectively .
+Corresponding levels in hair varied from 0.05 to 6.71 , from 0.02 to 37.59 , from 0.02 to 30.63 and from 0.9 to 12.6 microg/g .
+Trace element levels in plasma varied from 0.07 to 8.62 , from 118.2 to 1577.7 and from 2.31 to 34.2 microg/L for Mn , Cu and Sr , respectively .
+There was a weak correlation ( r=0.22 , p<0.001 ) between lead levels in hair and blood .
+Moreover , copper and strontium levels in blood correlate with those levels in plasma ( r=0.64 , p<0.001 for Cu ) and ( r=0.22 , p<0.05 for Sr ) .
+However , for Cu , Mn and Sr there was no correlation between levels in hair and blood .
+Our findings suggest that while the idea of measuring trace elements in hair is attractive , hair is not an appropriate biomarker for evaluating Cu , Mn and Sr deficiency or Pb exposure .

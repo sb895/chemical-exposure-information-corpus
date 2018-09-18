@@ -1,0 +1,9 @@
+Visual field losses associated with mercury ( Hg ) exposure have only been assessed in patients exposed to methylmercury .
+Here we evaluate the automated visual field in 35 ex-workers ( 30 males ; 44.20+/-5.92 years ) occupationaly exposed to mercury vapor and 34 controls ( 21 males ; 43.29+/-8.33 years ) .
+Visual fields were analyzed with the Humphrey Field Analyzer II ( model 750i ) using two tests : the standard automated perimetry ( SAP , white-on-white ) and the short wavelength automated perimetry ( SWAP , blue-on-yellow ) at 76 locations within a 27 degrees central visual field .
+Results were analyzed as the mean of the sensitivities measured at the fovea , and at five successive concentric rings , of increasing eccentricity , within the central field .
+Compared to controls , visual field sensitivities of the experimental group measured using SAP were lower for the fovea as well as for all five eccentricity rings ( p<0.05 ) .
+Sensitivities were significantly lower in the SWAP test ( p<0.05 ) for four of the five extra-foveal eccentricity rings ; they were not significant for the fovea ( p=0.584 ) or for the 15 degrees eccentricity ring ( p=0.965 ) .
+These results suggest a widespread reduction of sensitivity in both visual field tests .
+Previous reports in the literature describe moderate to severe concentric constriction of the visual field in subjects with methylmercury intoxication measured manually with the Goldman perimeter .
+The present results amplify concerns regarding potential medical risks of exposure to environmental mercury sources by demonstrating significant and widespread reductions of visual sensitivity using the more reliable automated perimetry .

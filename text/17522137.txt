@@ -1,0 +1,13 @@
+OBJECTIVES To determine the effectiveness of protective suits and gloves by biomonitoring .
+METHODS Fifteen male spray painters at a ship coating factory were studied for two weeks .
+Workers wore no protective clothing during the first week and wore protective suits and gloves during the second week .
+Sampling was conducted on four consecutive working days each week .
+Ethyl benzene and xylene in the air were collected by using 3M 3500 organic vapour monitors .
+Urine was collected before and after each work shift .
+RESULTS Urinary mandelic acid ( MA ) and methyl hippuric acid ( MHA ) levels were divided by the personal exposure concentrations of ethyl benzene and xylene , respectively .
+Mean ( SE ) corrected MA and MHA concentrations in the first week were 1.07 ( 0.18 ) and 2.66 ( 0.68 ) ( mg/g creatinine)/(mg/m3 ) , and concentrations in the second week were 0.50 ( 0.12 ) and 1.76 ( 0.35 ) ( mg/g creatinine)/(mg/m3 ) in the second week , respectively .
+Both MA and MHA concentrations in the second week ( when spray painters wore protective suits and gloves ) were lower than in the first week , respectively ( p<0.001 , p = 0.011 ) .
+Mean decrease in MA and MHA biomarkers were 69% and 49% , respectively .
+CONCLUSION This study successfully evaluated the effectiveness of chemical protective suits and gloves by using biomarkers as urinary MA and MHA .
+This method is feasible for determining the performance of workers wearing personal protective equipment .
+Moreover , the experimental results suggest that dermal exposure may be the major contributor to total body burden of solvents in spray painters without protective suits and gloves .

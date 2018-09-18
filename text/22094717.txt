@@ -1,0 +1,11 @@
+BACKGROUND Indoor air pollutants ( IAPs ) cause multiple health impacts .
+Prioritizing mitigation options that differentially affect individual pollutants and comparing IAPs with other environmental health hazards require a common metric of harm .
+OBJECTIVES Our objective was to demonstrate a methodology to quantify and compare health impacts from IAPs .
+The methodology is needed to assess population health impacts of large-scale initiatives-including energy efficiency upgrades and ventilation standards-that affect indoor air quality ( IAQ ) .
+METHODS Available disease incidence and disease impact models for specific pollutant-disease combinations were synthesized with data on measured concentrations to estimate the chronic heath impact , in disability-adjusted life-years ( DALYs ) lost , due to inhalation of a subset of IAPs in U.S. residences .
+Model results were compared with independent estimates of DALYs lost due to disease .
+RESULTS Particulate matter \u2264 2.5 \u03bcm in aerodynamic diameter ( PM2.5 ) , acrolein , and formaldehyde accounted for the vast majority of DALY losses caused by IAPs considered in this analysis , with impacts on par or greater than estimates for secondhand tobacco smoke and radon .
+Confidence intervals of DALYs lost derived from epidemiology-based response functions are tighter than those derived from toxicology-based , interspecies extrapolations .
+Statistics on disease incidence in the United States indicate that the upper-bound confidence interval for aggregate IAP harm is implausibly high .
+CONCLUSIONS The approach demonstrated in this study may be used to assess regional and national initiatives that affect IAQ at the population level .
+Cumulative health impacts from inhalation in U.S. residences of the IAPs assessed in this study are estimated at 400-1,100 DALYs lost annually per 100,000 persons .

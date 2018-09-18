@@ -1,0 +1,9 @@
+Epidemiologic studies have shown that ambient particulate matter ( PM ) has adverse effects on cardiovascular health .
+Effective mitigation of the health effects requires identification of the most harmful PM sources .
+The objective of our study was to evaluate relative effects of fine PM [ aerodynamic diameter<or=2.5 microm ( PM2.5) ] from different sources on exercise-induced ischemia .
+We collected daily outdoor PM2.5 samples between autumn 1998 and spring 1999 in Helsinki , Finland .
+The mass of PM2.5 was apportioned between five sources .
+Forty-five elderly nonsmoking persons with stable coronary heart disease visited a clinic biweekly for submaximal exercise testing , during which the occurrence of ST segment depressions was recorded .
+Levels of PM2.5 originating from local traffic and long-range transport were associated with ST segment depressions>0.1 mV , with odds ratios at 2-day lag of 1.53 [ 95% confidence interval ( CI ) , 1.19-1.97 ] and 1.11 ( 95% CI , 1.02-1.20 ) per 1 microg/m3 , respectively .
+In multipollutant models , where we used indicator elements for sources instead of source-specific PM2.5 , only absorbance ( elemental carbon ) , an indicator of local traffic and other combustion , was associated with ST segment depressions .
+Our results suggest that the PM fraction originating from combustion processes , notably traffic , exacerbates ischemic heart diseases associated with PM mass .

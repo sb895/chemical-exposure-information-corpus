@@ -1,0 +1,14 @@
+Chlorination of pool water leads to the formation of numerous disinfection by-products ( DBPs ) , chloroform usually being most abundant .
+Bathers and pool guardians take up various amounts of DBPs by different pathways .
+Identification of different uptake paths is important in order to develop a technical strategy for swimming pool water treatment and to develop focussed technical solutions to minimize THM uptake .
+Basically , trihalomethanes ( THMs ) can be taken up by inhalation , by dermal absorption , or orally ( swallowing of water ) .
+In our experimental study involving up to 17 participants we quantified the body burden resulting from exposure to three different concentrations of chloroform in water and air of an indoor swimming pool , during a 60 min exercising period .
+Chloroform concentration of the water was 20.7 , 7.1 , and 24.8 microg/l and was not influenced artificially .
+Corresponding air CHCl3 concentrations were measured at two different levels ( 20 cm and 150 cm ) and ranged from to 85 to 235 microg/m3 .
+To dissociate the dermal exposure route from that of inhalation , THM concentrations were measured in the blood of subjects practicing in an indoor pool with and without scuba tanks , as well as in the blood of subjects walking around the pool without swimming .
+Chloroform concentrations were measured in blood samples before and after each exercise period .
+Blood chloroform concentration of participants with scuba tanks was 0.32 +/- 0.26 microg/l , without scuba tanks 0.99 +/- 0.47 micro/l , and for persons walking around the pool 0.31 +/- 0.25 microg/l .
+Our results indicate that THMs are mainly taken up over the respiratory pathway .
+Only about one third of the total burden is taken up over the skin .
+We examined the relationship between blood concentration and environmental chloroform concentrations by using linear regression models .
+Blood concentrations are correlated to air chloroform concentrations ; correlation to water concentrations is less obvious .

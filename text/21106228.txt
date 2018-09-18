@@ -1,0 +1,6 @@
+The rate of birth defects in Shanxi Province is among the highest worldwide .
+In order to identify the impacts of geochemical and environmental factors on birth defect risk , samples of soil , water and food were collected from an area with an unusually high rate of birth defects ( study area ) and an area with a low rate of birth defects ( control area ) in Shanxi Province , China .
+Element contents were determined by ICP-OES , and the results were analyzed using a non-parametric test and stepwise regression .
+Differences in the level and distribution of 14 geochemical elements , namely arsenic ( As ) , selenium ( Se ) , molybdenum ( Mo ) , zinc ( Zn ) , strontium ( Sr ) , iron ( Fe ) , tin ( Sn ) , magnesium ( Mg ) , vanadium ( V ) , calcium ( Ca ) , copper ( Cu ) , aluminum ( Al ) , potassium ( K ) and sulfur ( S ) were thus compared between the study and control areas .
+The results reveal that the geochemical element contents in soil , water and food show a significant difference between the study area and control area , and suggest that the study area was characterized by higher S and lower Sr and Al contents .
+These findings , based on statistical analysis , may be useful in directing further epidemiological investigations identifying the leading causes of birth defects .

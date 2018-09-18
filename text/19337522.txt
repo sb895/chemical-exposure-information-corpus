@@ -1,0 +1,10 @@
+BACKGROUND Urinary arsenic metabolites ( UAs ) are used as biomarkers of exposure and metabolism .
+OBJECTIVES To characterize inter- and intraindividual variability in UAs in healthy individuals .
+METHODS In a longitudinal study conducted in Bangladesh , we collected water and spot urine samples from 196 participants every 3 months for 2 years .
+Water arsenic ( As ) was measured by inductively coupled plasma-mass spectrometry and urinary As [ arsenite , arsenate , monomethylarsonic acid ( MMA ) , and dimethylarsinic acid ( DMA) ] were detected using high-performance liquid chromatography-hydride-generated atomic absorption spectrometry .
+We used linear mixed-effects models to compute variance components and evaluate the association between UAs and selected factors .
+RESULTS The concentrations of UAs were fairly reproducible within individuals , with intraclass correlation coefficients ( ICCs ) of 0.41 , 0.35 , 0.47 , and 0.49 for inorganic As ( InAs ) , MMA , DMA , and total urinary As ( TUA ) .
+However , when expressed as a ratio , the percent InAs ( %InAs ) , %MMA , and %DMA were poorly reproducible within individuals , with ICCs of 0.16 , 0.16 , and 0.17 , respectively .
+Arsenic metabolism was significantly associated with sex , exposure , age , smoking , chewing betel nut , urinary creatinine , and season .
+Specificity and sensitivity analyses showed that a single urine sample adequately classified a participant's urinary As profile as high or low , but TUA had only moderate specificity for correctly classifying drinking water exposures .
+CONCLUSIONS Epidemiologic studies should use both urinary As concentrations and the relative proportion of UAs to minimize measurement error and to facilitate interpretation of factors that influence As metabolism .

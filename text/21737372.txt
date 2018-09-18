@@ -1,0 +1,9 @@
+BACKGROUND There are increasing concerns over adverse effects of prenatal phthalate exposure on the neurodevelopment of infants .
+OBJECTIVES Our goal was to explore the association between prenatal di(2-ethylhexyl) phthalate and dibutyl phthalate exposure and the Mental and Psychomotor Developmental Indices ( MDI and PDI , respectively ) of the Bayley Scales of Infant Development at 6 months , as part of the Mothers and Children's Environmental Health Study .
+METHODS Between 2006 and 2009 , 460 mother-infant pairs from Seoul , Cheonan , and Ulsan , Korea , participated .
+Prenatal mono(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , mono(2-ethyl-5-oxohexyl) phthalate ( MEOHP ) , and mono-n-butyl phthalate ( MBP ) were measured in one urine sample acquired from each mother during the third trimester of pregnancy .
+Associations with log-transformed creatinine-corrected phthalate concentrations were estimated using linear regression models adjusted for potential confounders .
+RESULTS MDI was inversely associated with the natural log concentrations ( micrograms per gram creatinine ) of MEHHP [ \u03b2 = -0.97 ; confidence interval ( CI ) , -1.85 to -0.08 ] and MEOHP ( \u03b2 = -0.95 ; CI , -1.87 to -0.03 ) , and PDI was inversely associated with MEHHP ( \u03b2 = -1.20 ; CI , -2.33 to -0.08 ) .
+In males , MDI was inversely associated with MEHHP ( \u03b2 = -1.46 ; CI , -2.70 to -0.22 ) , MEOHP ( \u03b2 = -1.57 ; CI , -2.87 to -0.28 ) , and MBP ( \u03b2 = -0.93 ; CI , -1.82 to -0.05 ) ; PDI was inversely associated with MEHHP ( \u03b2 = -2.36 ; CI , -3.94 to -0.79 ) , MEOHP ( \u03b2 = -2.05 ; CI , -3.71 to -0.39 ) , and MBP ( \u03b2 = -1.25 ; CI , -2.40 to -0.11 ) .
+No significant linear associations were observed for females .
+CONCLUSIONS The results suggest that prenatal exposure to phthalates may be inversely associated with the MDI and PDI of infants , particularly males , at 6 months .

@@ -1,0 +1,13 @@
+Early studies on manganese ( Mn ) exposure have shown that this transition metal affects dopamine neurotransmission .
+Dopamine serves as a tonic inhibitor of prolactin release in the anterior hypophysis , thus the serum prolactin levels in occupationally Mn exposed workers has been found increased .
+However , little is known about environmental Mn exposure effect on this hormone .
+In the present study we assessed serum prolactin in environmentally ( mainly through air ) exposed children living in the proximity of a rich Mn zone in Mexico and a control group with similar socioeconomic and ethnic characteristics .
+We also determined Mn levels in blood and hair , hemoglobin and anthropometric variables .
+Children between 7 and 11 years old were included ( 77 from Mn exposed and 93 from control communities ) .
+Blood Mn was higher in exposed children ( median 9.5 \u03bcg/L , rank [ 5.5 , 18] ) as compared to the control group ( median 8 \u03bcg/L , rank [ 5 , 14] ) ( p<0.05 , Mann-Whitney ) .
+Hair Mn was also increased in the exposed group ( median 13.2 \u03bcg/g , rank [ 4.2 , 48] ) in comparison to the control group ( median 0.6 \u03bcg/g rank [ 0.06 , 3.6] ) .
+Prolactin was found increased in the exposed children ( median 12.35 ng/ml , rank [ 2.90 , 33.70] ) versus controls ( median 7.77 ng/ml , rank [ 2.7 , 23.6] ) .
+Positive correlations were found between prolactin and both blood Mn and hair Mn ( Rho=0.217 and 0.250 , respectively , p<0.05 ) .
+A linear regression , with prolactin as the dependent variable , showed hair Mn as the determinant variable after adjusting by age , hemoglobin and sex .
+After a stratification of hair and blood Mn into low , medium and high content , significant associations were also found , confirming the relationship between prolactin and hair Mn .
+Results suggest that children from these Mn environmentally exposed communities could be at risk of endocrine alterations .

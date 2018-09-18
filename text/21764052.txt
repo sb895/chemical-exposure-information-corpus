@@ -1,0 +1,9 @@
+Air quality is one of the major environmental issues related to human health , and people and authorities are increasingly aware and concerned about it , asking to be involved in decisions whose fallout can have consequences on their health .
+The objectives of the present study were to provide quantitative data on the impact of air pollution on the health of people living in two small municipalities in a highly industrialized , densely populated area of Northern Italy .
+We applied the approach proposed by the World Health Organization ( WHO ) using the AirQ 2.2.3 software developed by the WHO European Centre for Environment and Health , Bilthoven Division .
+Daily concentrations of ozone , nitrogen dioxide , and particulate matter of aerodynamic diameter\u226410 \u03bcm ( PM10 ) and \u22642.5 \u03bcm ( PM2.5 ) were used to assess human exposure and health effects in terms of attributable proportion of the health outcome , annual number of excess cases of mortality for all causes , and cardiovascular and respiratory diseases .
+Long-term effects were estimated for PM2.5 as years of life lost .
+Considering short-term effects , PM2.5 had the highest health impact on the 24,000 inhabitants of the two small towns , causing an excess of total mortality of 8 out of 177 in a year .
+Ozone and nitrogen dioxide each caused about three excess cases of total mortality .
+Results on long-term effects showed , respectively , 433 , 180 , and 72 years of life lost for mortality for all causes , cardiopulmonary diseases and lung cancer , in a year .
+These results are consistent with other reports of the impact of air quality on human health and the AirQ software seems an effective and easy tool , helpful in decision-making .

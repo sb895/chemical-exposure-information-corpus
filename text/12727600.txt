@@ -1,0 +1,11 @@
+There is widespread concern regarding the safety of silver-mercury amalgam dental restorations , yet little evidence to support their harm or safety .
+We examined whether mercury dental amalgams are adversely associated with cognitive functioning in a cross-sectional sample of healthy working adults .
+We studied 550 adults , 30-49 years of age , who were not occupationally exposed to mercury .
+Participants were representative of employees at a major urban medical center .
+Each participant underwent a neuropsychologic test battery , a structured questionnaire , a modified dental examination , and collection of blood and urine samples .
+Mercury exposure was assessed using a ) urinary mercury concentration ( UHg ) ; b ) the total number of amalgam surfaces ; and c ) the number of occlusal amalgam surfaces .
+Linear regression analysis was used to estimate associations between each marker of mercury exposure and each neuropsychologic test , adjusting for potential confounding variables .
+Exposure levels were relatively low .
+The mean UHg was 1.7 micro g/g creatinine ( range , 0.09-17.8 ) ; the mean total number of amalgam surfaces was 10.6 ( range , 0-46 ) and the mean number of occlusal amalgam surfaces was 6.1 ( range , 0-19 ) .
+No measure of exposure was significantly associated with the scores on any neuropsychologic test in analyses that adjusted for the sampling design and other covariates .
+In a sample of healthy working adults , mercury exposure derived from dental amalgam restorations was not associated with any detectable deficits in cognitive or fine motor functioning .

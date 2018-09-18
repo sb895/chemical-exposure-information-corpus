@@ -1,0 +1,11 @@
+BACKGROUND Very high levels of prenatal maternal mercury have adverse effects on the developing fetal brain .
+It has been suggested that all possible sources of mercury should be avoided .
+However , although seafood is a known source of mercury , little is known about other dietary components that contribute to the overall levels of blood mercury .
+OBJECTIVE Our goal was to quantify the contribution of components of maternal diet to prenatal blood mercury level .
+METHODS Whole blood samples and information on diet and sociodemographic factors were collected from pregnant women ( n = 4,484 ) enrolled in the Avon Longitudinal Study of Parents and Children ( ALSPAC ) .
+The blood samples were assayed for total mercury using inductively coupled plasma dynamic reaction cell mass spectrometry .
+Linear regression was used to estimate the relative contributions of 103 dietary variables and 6 sociodemographic characteristics to whole blood total mercury levels ( TBM ; untransformed and log-transformed ) based on R2 values .
+RESULTS We estimated that maternal diet accounted for 19.8% of the total variation in ln-TBM , with 44% of diet-associated variability ( 8.75% of the total variation ) associated with seafood consumption ( white fish , oily fish , and shellfish ) .
+Other dietary components positively associated with TBM included wine and herbal teas , and components with significant negative associations included white bread , meat pies or pasties , and french fries .
+CONCLUSIONS Although seafood is a source of dietary mercury , seafood appeared to explain a relatively small proportion of the variation in TBM in our UK study population .
+Our findings require confirmation , but suggest that limiting seafood intake during pregnancy may have a limited impact on prenatal blood mercury levels .

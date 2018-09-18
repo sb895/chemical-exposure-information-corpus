@@ -1,0 +1,9 @@
+Chronic arsenic exposure has been associated with a range of neurologic , vascular , dermatologic , and carcinogenic effects .
+However , limited research has been directed at the association of arsenic exposure and human reproductive health outcomes .
+The principal aim of this study was to investigate the trends in infant mortality between two geographic locations in Chile : Antofagasta , which has a well-documented history of arsenic exposure from naturally contaminated water , and Valparaíso , a comparable low-exposure city .
+The arsenic concentration in Antofagasta's public drinking water supply rose substantially in 1958 with the introduction of a new water source , and remained elevated until 1970 .
+We used a retrospective study design to examine time and location patterns in infant mortality between 1950 and 1996 , using univariate statistics , graphical techniques , and Poisson regression analysis .
+Results of the study document the general declines in late fetal and infant mortality over the study period in both locations .
+The data also indicate an elevation of the late fetal , neonatal , and postneonatal mortality rates for Antofagasta , relative to Valparaíso , for specific time periods , which generally coincide with the period of highest arsenic concentration in the drinking water of Antofagasta .
+Poisson regression analysis yielded an elevated and significant association between arsenic exposure and late fetal mortality [ rate ratio ( RR ) = 1.7 ; 95% confidence interval ( CI ) , 1.5-1.9 ] , neonatal mortality ( RR = 1.53 ; CI , 1.4-1.7 ) , and postneonatal mortality ( RR = 1.26 ; CI , 1.2-1.3 ) after adjustment for location and calendar time .
+The findings from this investigation may support a role for arsenic exposure in increasing the risk of late fetal and infant mortality .

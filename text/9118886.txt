@@ -1,0 +1,14 @@
+Phenol is not reliable as a biomarker for exposure to benzene at concentrations below 5 ppm ( 8-hr time-weighted average [ TWA] ) .
+S-Phenylmercapturic acid ( S-PMA ) and trans-trans-muconic acid ( tt-MA ) , two minor urinary metabolites of benzene , have been proposed as biomarkers for low-level exposures .
+The aim of this study was to compare their suitability as biomarkers .
+S-PMA and tt-MA were determined in 434 urine samples collected from 188 workers in various settings in the petrochemical industry and from 52 control workers with no occupational exposure to benzene .
+Benzene concentrations in the breathing zone of the potentially exposed workers were assessed by personal air monitoring .
+Strong correlations were found between S-PMA and tt-MA concentrations in end-of-shift samples and between either of these parameters and airborne benzene concentrations .
+Exposure to 1 ppm benzene ( 8-hr TWA ) leads to an average concentration in end-of-shift samples of 21 mol S-PMA and 1.5 mmol tt-MA per mol creatinine .
+Of an inhaled dose of benzene , on average 0.11% ( range 0.05-0.26% ) was excreted as S-PMA with an apparent elimination half-life of 9.1 ( standard error [ SE ] 0.7 ) hr and 3.9% ( range 1.9-7.3% ) as tt-MA with a half-life of 5.0 ( SE 0.5 ) hr .
+Due to its longer elimination half-life , S-PMA proved a more reliable biomarker than tt-MA for benzene exposures during 12-hr shifts .
+Specificity of S-PMA , but not tt-MA , was sufficient to discriminate between the 14 moderate smokers and the 38 nonsmokers from the control group .
+The mean urinary S-PMA was 1.71 ( SE 0.27 ) in smokers and 0.94 ( SE 0.15 ) mol/mol creatinine in nonsmokers ( p = 0.013 ) .
+The mean urinary tt-MA was 0.046 ( SE 0.010 ) in smokers and 0.029 ( SE 0.013 ) mmol/mol creatinine in nonsmokers ( p = 0.436 ) .
+The inferior specificity of tt-MA was due to relatively high background values of up to 0.56 mmol/mol creatinine , which may be found in nonexposed individuals and limits the use of tt-MA to concentrations of benzene over 1 ppm ( 8-hr TWA ) .
+We conclude that S-PMA is superior to tt-MA as a biomarker for low-level benzene exposures because it is more specific , enabling reliable determination of benzene exposures down to 0.3 ppm ( 8-hr TWA ) , and because its longer half-life makes it more suited for biological monitoring of operators working in shifts longer than 8 hr .

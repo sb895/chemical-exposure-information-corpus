@@ -1,0 +1,13 @@
+BACKGROUND Lead-contaminated house dust is a major source of lead exposure for children in the United States .
+In 1999-2004 , the National Health and Nutrition Examination Survey ( NHANES ) collected dust lead ( PbD ) loading samples from the homes of children 12-60 months of age .
+OBJECTIVES In this study we aimed to compare national PbD levels with existing health-based standards and to identify housing and demographic factors associated with floor and windowsill PbD .
+METHODS We used NHANES PbD data ( n=2,065 from floors and n=1,618 from windowsills ) and covariates to construct linear and logistic regression models .
+RESULTS The population-weighted geometric mean floor and windowsill PbD were 0.5 microg/ft2 [ geometric standard error ( GSE)=1.0 ] and 7.6 microg/ft2 ( GSE=1.0 ) , respectively .
+Only 0.16% of the floors and 4.0% of the sills had PbD at or above current federal standards of 40 and 250 microg/ft2 , respectively .
+Income , race/ethnicity , floor surface/condition , windowsill PbD , year of construction , recent renovation , smoking , and survey year were significant predictors of floor PbD [ the proportion of variability in the dependent variable accounted for by the model ( R2)=35% ] .
+A similar set of predictors plus the presence of large areas of exterior deteriorated paint in pre-1950 homes and the presence of interior deteriorated paint explained 20% of the variability in sill PbD .
+A companion article [ Dixon et al .
+Environ Health Perspect 117:468-474 ( 2009) ] describes the relationship between children's blood lead and PbD .
+CONCLUSION Most houses with children have PbD levels that comply with federal standards but may put children at risk .
+Factors associated with PbD in our population-based models are primarily the same as factors identified in smaller at-risk cohorts .
+PbD on floors and windowsills should be kept as low as possible to protect children .

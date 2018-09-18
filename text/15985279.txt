@@ -1,0 +1,12 @@
+Dioxins can be transferred from mother to fetus via the placenta , or to nursing infants via breast milk , potentially causing developmental health problems in children .
+To assess pediatric health risks from dioxins , exposure of mothers and children to dioxins must be clarified .
+Methods of reducing maternal transfer of dioxins should also be investigated .
+Concentrations of 28 dioxin ( polychlorinated dibenzo-p-dioxins , polychlorinated dibenzofurans , and co-planar polychlorinated biphenyls ) congeners in blood , adipose tissue , breast milk , cord blood and placenta collected from 44 pregnant Japanese women were measured .
+In addition , to investigate potential reductions in maternal transfer of dioxins , 23 pregnant women were instructed to take Chlorella pyrenoidosa supplements during pregnancy .
+Correlations were observed between dioxin total toxic equivalents ( total TEQ ) in blood and total TEQ in adipose tissue ( r=0.913 , P<0.0001 ) , breast milk ( r=0.695 , P=0.0007 ) , and cord blood ( r=0.759 , P<0.0001 ) .
+Dioxin levels transferred to fetuses and nursing infants reflect cumulative maternal concentrations of dioxins .
+A linear regression equation was introduced to predict total TEQ in breast milk and cord blood from dioxin levels in maternal blood , which should prove useful in evaluating fetal and infant risk of dioxin exposure .
+Total TEQ in cord blood were approximately 26% lower than in maternal blood ( P<0.0001 ) .
+The results of this study suggest that transplacental transfer differs depending on the dioxin congener .
+Total TEQ in breast milk were approximately 30% lower in the Chlorella group than in controls ( P=0.0113 ) .
+This finding suggests that maternal transfer of dioxins can be reduced using dietary measures such as Chlorella supplements .

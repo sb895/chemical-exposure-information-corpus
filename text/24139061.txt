@@ -1,0 +1,9 @@
+Little is known about the etiology of neuroblastoma , the most common cancer in infancy .
+In this study , we examined maternal exposure to ambient air toxics in pregnancy in relation to neuroblastoma in the child .
+We ascertained all cases of neuroblastoma listed in the California Cancer Registry 1990-2007 that could be linked to a California birth certificate , and controls were selected at random from California birth records .
+Average air toxics exposures during pregnancy were determined based upon measures from community-based air pollution monitors .
+The study included 75 cases and 14,602 controls who lived with 5 km of an air pollution monitor , and we additionally examined results for those living within a smaller radius around the monitor ( 2.5 km ) .
+Logistic regression was used to determine the risk of neuroblastoma with one interquartile range increase in air toxic exposure .
+Neuroblastoma risk was increased with higher maternal exposure to carbon tetrachloride ( OR=2.65 , 95%CI 1.07 , 6.53 ) and polycyclic aromatic hydrocarbons ( OR=1.39 , 95%CI 1.05 , 1.84 ) , particularly indeno(1,2,3-cd)pyrene and dibenz(a,h)anthracene .
+Hexavalent chromium was associated with neuroblastoma at the 5 km distance ( OR=1.32 , 95%CI 1.00 , 1.74 ) but not at the 2.5 km distance .
+This is one of the first studies to report associations between neuroblastoma and these air toxics .

@@ -1,0 +1,7 @@
+Saliva is a biological fluid that has not been used extensively as a biomonitoring tool in epidemiological studies .
+This study presents the arsenic ( As ) concentrations in saliva and urine samples collected from populations of West Bengal , India who had been previously exposed to high As levels in their drinking water .
+We found a significant ( p < 0.05 ) association between the Log transformed Daily Ingestion of As ( \u03bcg day(-1) ) and the As concentration in saliva ( r = 0.68 ) .
+Additionally , As concentration of saliva and urine also had a significant positive correlation ( r = 0.60 , p < 0.05 ) .
+Male participants , smokers , and cases of skin lesion were independently and significantly associated with an increase in salivary As .
+Thus our findings show that saliva is a useful biomarker of As exposure in the study population .
+The study also advocates that measurement of the forms of As in saliva may additionally provide insight into the internal dose and any individual differences in susceptibility to As exposure .

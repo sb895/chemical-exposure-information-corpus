@@ -1,0 +1,8 @@
+Hydride generator atomic absorption spectrophotometry ( HG-AAS ) is employed for the determination of arsenic in air , duplicate diet and body fluids .
+The detection limit for arsenic is 0.02 ppb .
+The reliability of the analysis is assessed through analysis of Standard Reference Materials ( SRMs ) of soil and fish tissue obtained from IAEA .
+The concentration of arsenic in atmospheric air particulates collected from different suburbs showed geometric means in the range of 1.9-5.6 ng/m3 .
+The total intake of arsenic through air and duplicate diet is approximately 10 micrograms/day for the adult population of Bombay ( Mumbai ) City .
+The dietary intake through food is the major contributor to the total intake .
+The turnover time of arsenic in blood is estimated to be approximately 33 days based on the observed mean concentration of arsenic in blood of 1 microgram/dl .
+The daily intake of arsenic by the adult population of Bombay is much lower than the WHO recommended value of 140 micrograms .

@@ -1,0 +1,6 @@
+This first study of trihalomethanes ( THMs ) in swimming pools using bromine agents for water disinfection under real conditions shows that the mixtures of these compounds are largely dominated by bromoform in a similar process as chloroform becomes the dominant THM in pools disinfected with chlorine agents .
+Bromoform largely predominates in air and water of the pool installations whose concentration changes are linearly correlated .
+However , the air concentrations of bromoform account for about 6-11% of the expected concentrations according to theoretical partitioning defined by the Henry law .
+Bromoform in exhaled air of swimmers is correlated with the air concentrations of this disinfectant by-product in the pool building .
+Comparison of the THM exhaled air concentrations between swimmers and volunteers bathing in the water without swimming or standing in the building outside the water suggest that physical activity enhance exposure to these disinfectant by-products .
+They also indicate that in swimming pools , besides inhalation , dermal absorption is a relevant route for the incorporation of THMs , particularly those with lower degree of bromination .

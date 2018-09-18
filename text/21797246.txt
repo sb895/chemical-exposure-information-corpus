@@ -1,0 +1,7 @@
+Concerns have been raised about whether the Deepwater Horizon oil spill cleanup workers experienced adverse health effects from exposure to airborne benzene , toluene , ethylbenzene , and xylene ( BTEX ) which volatilized from surfaced oil .
+Thus , we analyzed the nearly 20 000 BTEX measurements of breathing zone air samples of offshore cleanup workers taken during the six months following the incident ( made publicly available by British Petroleum ) .
+The measurements indicate that 99% of the measurements taken prior to capping the well were 32- , 510- , 360- , and 77-fold lower than the U.S. Occupational Safety and Health Administration's Permissible Exposure Limits ( PELs ) for BTEX , respectively .
+BTEX measurements did not decrease appreciably during the three months after the well was capped .
+Moreover , the magnitudes of these data were similar to measurements from ships not involved in oil slick remediation , suggesting that the BTEX measurements were primarily due to engine exhaust rather than the oil slick .
+To supplement the data analysis , two modeling approaches were employed to estimate airborne BTEX concentrations under a variety of conditions ( e.g. , oil slick thickness , wind velocity ) .
+The modeling results corroborated that BTEX concentrations from the oil were well below PELs and that the oil was not the primary contributor to the measured BTEX .

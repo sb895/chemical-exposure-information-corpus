@@ -1,0 +1,8 @@
+Inappropriate parameterization of an exposure metric for the study of occupational and environmental hazards may lead to significant misclassification and biased results .
+A model for identification of an optimal expression for cumulative exposure that includes exponentiated terms for concentration and time was developed .
+When the values of the exponents are allowed to vary , an optimal expression for cumulative exposure may be identified .
+The approach has advantages for the study of chronic hazards , in that it is flexible , limits the number of assumptions , and incorporates many of the models generally suggested in the literature .
+In addition , the model results may be interpreted to suggest particular pathophysiologic mechanisms .
+The model was implemented with data from a previously studied cohort of underground coal miners , and the associations between the exposure metric and measures of obstructive lung disease were identified .
+The results demonstrated that the exposure metric can improve the association of dust exposure histories with various outcomes over the usual measure of cumulative exposure .
+However , in the particular data set used , the overall predictive power of alternative models was similar and the interpretability of the results was limited .

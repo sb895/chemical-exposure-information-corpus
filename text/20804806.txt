@@ -1,0 +1,7 @@
+Methylmercury ( MeHg ) is a bioaccumulative environmental toxin that exerts its effect on fetal and infant neurodevelopment .
+Mercury concentration in hair is a good biomarker of MeHg accumulation in the body , with seafood being the main source of MeHg in humans .
+Therefore , modeling the link between food intake and mercury concentration in hair is a key step in assessing the risk of MeHg exposure .
+Using repeated measurements of diet and mercury concentration in hair , we studied 125 French pregnant women who consumed seafood ( e.g. , fish , mollusks and crustaceans ) and compared their individual estimated dietary MeHg intakes with their hair mercury concentrations .
+We used a one-compartment toxicokinetic model for these comparisons .
+We integrated and estimated the between-person variability in MeHg half-life into the model .
+In a second model , we took into account an intra-individual MeHg intake variability to improve the performance of the toxicokinetic model .

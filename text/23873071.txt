@@ -1,0 +1,13 @@
+BACKGROUND There continues to be public concern that mercury exposure and autism spectrum disorder ( ASD ) may be associated .
+The primary source of exposure to organic mercury in humans is to methylmercury from fish consumption .
+We evaluated the association between prenatal methylmercury exposure and ASD phenotype in children and adolescents in the Republic of Seychelles , where fish consumption is high .
+METHODS We administered the Social Communication Questionnaire to parents of a cohort of 1784 children , adolescents , and young adults .
+The Social Responsiveness Scale was administered to teachers of 537 cohort subjects at about 10 years of age .
+Prenatal exposure to methylmercury was measured in maternal hair samples collected at or near the time of birth .
+Multivariable regression models evaluated the relationship between prenatal methylmercury exposure and ASD phenotypic scores , adjusting for relevant covariates .
+RESULTS The mean prenatal methylmercury exposure for subjects in the analysis was 8.4 ppm ( standard deviation [ SD ] = 5.7 ) .
+The mean Social Communication Questionnaire score was 8.0 ( SD = 4.4 ) .
+The mean prenatal methylmercury exposure for subjects with Social Responsiveness Scale scores was 6.7 ppm ( SD = 4.4 ) and the mean Social Responsiveness Scale score was 57.6 ( SD = 26.8 ) .
+No consistent association between prenatal methylmercury exposure and ASD screening instrument was found , using linear and nonlinear regression analyses .
+CONCLUSIONS Prenatal exposure to methylmercury was not associated with ASD phenotypic behaviors in our cohort of high fish consumers .
+Our findings contribute to the growing literature suggesting that exposure to methylmercury does not play an important role in the development of ASD phenotypic behavior .

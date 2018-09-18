@@ -1,0 +1,11 @@
+Arsenic ( As ) is found naturally in the geological strata within the Ba Men Region of Inner Mongolia , China .
+A study was conducted to compare the total As measurements from two analytical techniques : instrumental neutron activation analysis ( INAA ) and atomic fluorescence spectrometry ( AFS ) , and to verify nails as an exposure biomarker in this population .
+In 1999 , nail and water samples were collected in a pilot study .
+Fingernails and toenails were pooled from 32 participants and analysed for total As by both INAA and AFS .
+Mean nail As values were 14.8+/-2.4 and 19.4+/-2.8 microg g-1 ( +/-SEM ) for INAA and AFS , respectively .
+Results from these two methods were significantly correlated ( r=0.93 , p<0.0001 ) .
+In 2000 , a second study was conducted and INAA was used to measure total As in toenails from 314 Ba Men residents .
+Well water samples were collected from 121 households and analysed by AFS .
+A significant correlation was observed between toenail and well water As ( r=0.84 , p<0.0001 ) .
+Based on the results , INAA was significantly correlated with AFS and proved to be a reliable measure of nail As levels .
+In this population , toenail samples are a useful internal As exposure biomarker from drinking water sources .

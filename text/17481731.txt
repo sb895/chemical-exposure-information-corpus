@@ -1,0 +1,11 @@
+Past arsenic exposure was found associated with increased incidence of type 2 diabetes .
+However , the mechanisms remain unclear .
+Metabolic syndrome has been shown as a strong predictor for diabetes occurrence .
+We aimed at examining the association of inorganic arsenic exposure and the prevalence of metabolic syndrome .
+The authors recruited 660 age and gender stratified random population of residents in central Taiwan during 2002-2003 .
+They received home interviews and health examinations at local health care units , where blood and hair specimens were collected .
+Hair arsenic ( H-As ) concentrations were determined by inductively coupled plasma-mass spectrometry .
+Metabolic syndrome was defined as the presence of three or more of the following risk factors : elevated levels of blood pressure , plasma glucose , and triglycerides , also the body mass index , and reduced high-density lipoprotein .
+Prevalence of metabolic syndrome increased from the 2nd tertile ( 0.034 ug/g ) of H-As levels ( odds ratio=2.54 , 95% confidence interval : 1.20-5.39 , p=0.015 ) after the adjustment for age , gender , occupation and life styles including cigarette smoking .
+We further found linear relation between H-As concentrations and increased levels of plasma glucose and lipids , and blood pressures .
+This first report may help identify modifiable factors associated with diabetogenesis and cardiovascular disease progression and thus be worth following for community health .

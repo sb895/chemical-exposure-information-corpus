@@ -1,0 +1,10 @@
+BACKGROUND We previously demonstrated that carriers of the " slower metabolizer " MM genotype of paraoxonase ( PON1 ) who were also exposed to ambient organophosphate ( OP ) pesticides at their residences were at increased risk of developing Parkinson's disease ( PD ) .
+Here , with a larger sample size , we extend our previous investigation to consider additional sources of ambient exposure and examined two additional functional PON1 variants .
+METHODS From 2001 to 2011 , we enrolled incident cases of idiopathic PD and population controls living in central California .
+We genotyped three well-known functional PON1 SNPs : two exonic polymorphisms ( PON1L55M and PON1Q192R ) and the promoter region variant ( PON1C-108T ) .
+Ambient exposures to diazinon , chlorpyrifos , and parathion at residential and workplace addresses were assessed using a validated geographic information system-based model incorporating records of agricultural pesticide applications in California .
+RESULTS The odds ratio ( OR ) for Caucasians exposed to OPs at either residential or workplace addresses varied by PON1 genotype ; for exposed carriers of the " faster " metabolizer genotypes , ML or LL , we estimated lower odds ratios ( range , 1.20-1.39 ) than for exposed carriers of the " slower " metabolizer genotype MM ( range , 1.78-2.45 ) relative to unexposed carriers of the faster genotypes .
+We observed similarly increased ORs for exposure across PON1Q192R genotypes , but no differences across PON1C-108T genotypes .
+The largest ORs were estimated for exposed carriers of both PON1192QQ and PON155MM ( OR range , 2.84-3.57 ) .
+CONCLUSIONS Several functional PON1 variants may act together to modify PD risk for ambient OP exposures .
+While either PON1L55M or PON1Q192R may be sufficient to identify increased susceptibility , carriers of both slow metabolizer variants seem most susceptible to OP exposures .

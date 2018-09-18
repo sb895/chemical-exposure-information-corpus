@@ -1,0 +1,13 @@
+Previous studies suggest adverse effects of arsenic exposure on children's cognitive function .
+In this study , we examined the potential association between arsenic exposure and children's behavior .
+Five hundred and twenty-six children , 6-7 years old , living near a metal foundry in Torreón , Mexico , participated in the study .
+Arsenic exposure was measured as total urinary arsenic ( UAs ) and arsenic metabolites-monomethylarsonic acid ( MMA ) and dimethylarsinic acid ( DMA ) concentrations .
+Children's behavior was assessed by Conners Behavior Rating Scales for parents and teachers .
+The median ( interquartile range ) concentrations of UAs , MMA and DMA were 55.2 ( 39.7 ) , 6.7 ( 5.9 ) and 39.3 ( 28.5 ) \u03bcg/L , respectively .
+The mean behavior scores from parent and teacher ratings were within the clinically normal range ( T<65 ) .
+The relationship between behavior and urinary arsenic was modeled in linear and logistic regression models , with UAs , MMA and DMA tested in separate models and entered as quartiles .
+No significant association was found between any measure of urinary arsenic and parent ratings of behavior .
+However , higher UAs was modestly associated with higher scores on the Oppositional , Cognitive Problems and ADHD sub-scales of the teacher ratings ; a dose-response relationship was not established between UAs quartiles and behavior .
+Higher urinary DMA was associated with higher ratings on the Oppositional , Cognitive Problems and ADHD Index by teachers .
+The associations between UAs and behavior became statistically non-significant after adjustment for the Peabody Picture Vocabulary Test scores , suggesting that the harmful effects of arsenic on behavior may be secondary to arsenic-induced cognitive deficits .
+These data suggest a potential adverse association between arsenic and children's behavior and indicate a need to further study the effects of arsenic and arsenic metabolites on neurobehavioral outcomes in children .

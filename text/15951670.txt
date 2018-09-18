@@ -1,0 +1,13 @@
+BACKGROUND The incidence of non-Hodgkin lymphoma ( NHL ) has risen over the past several decades .
+Reasons for this increase are largely unexplained .
+METHODS In this population-based case-control study , we examined NHL risk and exposure to organochlorine compounds using concentrations in carpet dust as an exposure indicator .
+We identified NHL cases , uninfected with HIV , diagnosed between 1998 and 2000 among women and men ages 20-74 years in Iowa , Los Angeles County , and the Detroit and Seattle metropolitan areas .
+Controls were selected using random-digit-dialing or Medicare files .
+Organochlorine concentrations were measured in vacuum bag dust from 603 white cases and 443 white controls who had owned most of their carpets for at least 5 years .
+RESULTS NHL risk was elevated if any of the polychlorinated biphenyl ( PCB ) congeners ( PCBs 105 , 138 , 153 , 170 , or 180 ) was detected ( odds ratio = 1.5 ; 95% confidence interval = 1.2-2.0 ) .
+Risk was elevated in the top tertile of PCB 180 ( 1.7 ; 1.1-2.6 ) and in the top 2 tertiles of total PCBs ( middle tertile , 1.6 [ 1.1-2.4 ] ; top tertile 1.5 [ 1.0-2.2] ) .
+There was a positive trend in risk with increasing PCB 180 levels ( P trend = 0.03 ) .
+NHL risk was elevated if dichlorodiphenyldichloroethylene ( DDE ) was detected ( 1.3 ; 1.0-1.7 ) , but only among men .
+A positive , but not monotonic , dose-response relationship was observed for DDE ( P trend = 0.02 ) .
+CONCLUSIONS Our findings suggest an increased risk of NHL associated with exposure to PCBs , with evidence of greater effects for PCB 180 .
+There is also some evidence of an association with DDE .

@@ -1,0 +1,12 @@
+BACKGROUND Toluene diisocyanate ( TDI ) is used in industry in the production of flexible polyurethane foam , commonly a mixture of the 2,4- and 2,6- isomers .
+The production process may lead to exposure to diisocyanates which are associated with respiratory disease .
+A method has been available for the determination of TDI biomarkers in urine for some years .
+AIMS To explore the usefulness of urinary toluenediamine ( uTDA ) in assessing whether dermal absorption of diisocyanates makes a significant contribution to a worker's total exposure .
+METHODS Twenty-six workers took part in the study .
+Thirteen workers whose duties brought them into physical contact with uncured polyurethane foam during their shift ( handlers ) were compared to a control group of 13 workers in the same block plant environment had no physical contact with uncured foam on the day that sampling took place ( non-handlers ) .
+Creatinine-adjusted uTDA levels in the two groups were compared across a work shift .
+RESULTS Both groups of workers were exposed to similar levels of airborne TDI .
+Ten handlers were found to have TDA in post-shift urine samples above detection limits compared with two non-handlers ( P < 0.05 ) .
+No clear relationship was found between the level of airborne TDI exposure and post-shift uTDA .
+CONCLUSIONS uTDA provides a useful indication of the contribution which skin absorption makes to total TDI exposure .
+The results suggest that skin protection when handling uncured polyurethane foam may not receive sufficient consideration .

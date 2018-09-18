@@ -1,0 +1,9 @@
+Brominated flame retardants ( BFRs ) , including polybrominated diphenyl ethers ( PBDEs ) , 1,2-bis(2,4,6-tribromophenoxy)ethane ( BTBPE ) , decabromodiphenyl ethane ( DBDPE ) , and polybrominated biphenyls ( PBBs ) were found in children's toys purchased from South China .
+The median BFR concentrations in the hard plastic toys were 53,000 , 5540 ng/g , 101.1 ng/g , and 27.9 ng/g , fortotal PBDEs , DBDPE , BTBPE , and PBBs , respectively,which were notably higher than values in other toys .
+The PBDE concentrations were below the threshold limit ( 1000 ppm ) required bythe European Commission's Restriction of Hazardous Substances ( RoHS ) and Waste Electrical and Electronic Equipment ( WEEE ) directives in all of the toys , except for one hard plastic toy with a total PBDE concentration of 5,344,000 ng/g .
+The BFR profiles in the toys were consistent with the patterns of their current production and consumption in China , where PBDEs , specifically decaBDE product , were the dominant BFR , followed by the emerging DBDPE .
+The relatively high concentrations of octa- and nonaBDEs in the foam toys and the results of principal component analysis ( PCA ) may suggest the decomposition of highly brominated BDEs during the manufacturing processes of the toys .
+Daily total PBDE exposures associated with toys via inhalation , mouthing , dermal contact , and oral ingestion ranged from 82.6 to 8992 pg/kg bw-day for children of 3 months to 14 years of age .
+Higher exposures , predominantly contributed through the mouthing pathway , were observed for infants and toddlers than for the other subgroups .
+In most cases , children's BFR exposure via the toys likely accounts for a small proportion of their daily BFR exposure , and the hazard quotients for noncancer risk evaluation were far below 1 .
+To the author's knowledge , this is the first study to examine the concentrations of BFRs in toys , and the potential exposures to children .

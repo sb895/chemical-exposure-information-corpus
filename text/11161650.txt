@@ -1,0 +1,12 @@
+Within a cross-sectional study , the neurotoxic effects of occupational exposure to manganese were examined .
+From a group of 90 ( 58 male and 32 female ) workers , 11 men with long-term and high exposure to manganese dioxide ( MnO2 ) dust were defined as exposed workers .
+Eleven age-matched workers of similar socioeconomic status were used as a reference group .
+Ambient air and biological monitoring ( blood , urine , hair ) , clinical ( Webster Rating Scale , WRS ) , neurophysiological ( visual evoked potentials ( VEP ) , nerve conduction velocity ( NCV ) , electroencephalography ( EEG) ) , and motor performance ( Wiener Testsystem ) examinations were performed .
+The pallidal index ( PI ) , the ratio of globus pallidus to subcortical frontal white-matter signal intensity in T1-weighted magnetic resonance imaging ( MRI ) planes multiplied by 100 , was used .
+For the individual body burden , manganese in blood was the most reliable biomarker .
+A " job-exposure matrix " for the cumulative Mn-exposure index ( CEI ) was calculated for each worker .
+The results of WRS , VEP , NCV , EEG , and motor performance tests showed no significant group differences .
+However , the pallidal index was increased in Mn-exposed persons .
+Furthermore , a statistically significant positive correlation was found between CEI and pallidal index .
+The results of other studies are discussed .
+The meaning of MRI findings for health status as well as gender-specific differences should be examined in further follow-up studies .

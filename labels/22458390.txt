@@ -1,0 +1,1 @@
+< <  Biomonitoring--exposure biomarker--hair nail--<  Biomonitoring--exposure biomarker--hair nail--< <  Biomonitoring--effect marker--physiological parameter<biomonitoring--effect marker--biomarker--molecule--other molecule< < <  Biomonitoring--effect marker--biomarker--molecule--protein< < < <  Biomonitoring--exposure biomarker--hair nail--< < < 

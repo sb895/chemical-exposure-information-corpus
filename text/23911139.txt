@@ -1,0 +1,16 @@
+BACKGROUND Iron and steel industry is an important source of air pollution emissions .
+Few studies have investigated cardiovascular effects of air pollutants emitted from steel plants .
+OBJECTIVE We examined the influence of outdoor air pollution in the vicinity of a steel plant on cardiovascular physiology in Sault Ste .
+Marie , Canada .
+METHODS Sixty-one healthy , non-smoking subjects ( females/males=33/28 , median age 22 years ) spent 5 consecutive 8-hour days outdoors in a residential area neighbouring a steel plant , or on a college campus approximately 5 kilometres away from the plant , and then crossed over to the other site with a 9-day washout .
+Mid day , subjects underwent daily 30-minute moderate intensity exercise .
+Blood pressure ( BP ) and pulse rate were determined daily and post exercise at both sites .
+Flow-mediated vasodilation ( FMD ) was determined at the site near the plant .
+Air pollution was monitored at both sites .
+Mixed-effects regressions were run for statistical associations , adjusting for weather variables .
+RESULTS Concentrations of ultrafine particles , sulphur dioxide ( SO2 ) , nitrogen dioxide ( NO2 ) and carbon monoxide ( CO ) were 50-100% higher at the site near the plant than at the college site , with minor differences in temperature , humidity , and concentrations of particulate matter \u22642.5\u03bcm in size ( PM2.5 ) and ozone ( O3 ) .
+Resting pulse rate [ mean ( 95% confidence interval) ] was moderately higher near the steel plant [ +1.53bpm ( 0.31 , 2.78) ] than at the college site , male subjects having the highest pulse rate elevation [ +2.77bpm ( 0.78 , 4.76) ] .
+Resting systolic and diastolic BP and pulse pressure , and post-exercise BP and pulse rate were not significantly different between two sites .
+Interquartile range concentrations of SO2 ( 2.9ppb ) , NO2 ( 5.0ppb ) and CO ( 0.2ppm ) were associated with increased pulse rate [ 0.19bpm ( -0.00 , 0.38 ) , 0.86bpm ( 0.03 , 1.68 ) , and 0.11bpm ( 0.00 , 0.22 ) , respectively ] , ultrafine particles ( 10,256count/cm(3) ) associated with increased pulse pressure [ 0.85mmHg ( 0.23 , 1.48) ] , and NO2 and CO inversely associated with FMD [ -0.14% ( -0.31 , 0.02 ) , -0.02% ( -0.03 , -0.00 ) , respectively ] .
+SO2 during exercise was associated with increased pulse rate [ 0.26bpm ( 0.01 , 0.51) ] .
+CONCLUSION Air quality in residential areas near steel plants may influence cardiovascular physiology .

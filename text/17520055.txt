@@ -1,0 +1,12 @@
+BACKGROUND In 2003 , residents of the District of Columbia ( DC ) experienced an abrupt rise in lead levels in drinking water , which followed a change in water-disinfection treatment in 2001 and which was attributed to consequent changes in water chemistry and corrosivity .
+OBJECTIVES To evaluate the public health implications of the exceedance , the DC Department of Health expanded the scope of its monitoring programs for blood lead levels in children .
+METHODS From 3 February 2004 to 31 July 2004 , 6,834 DC residents were screened to determine their blood lead levels .
+RESULTS Children from 6 months to 6 years of age constituted 2,342 of those tested ; 65 had blood lead levels > 10 microg/dL ( the " level of concern " defined by the Centers for Disease Control and Prevention ) , the highest with a level of 68 microg/dL .
+Investigation of their homes identified environmental sources of lead exposure other than tap water as the source , when the source was identified .
+Most of the children with elevated blood lead levels ( n = 46 ; 70.8% ) lived in homes without lead drinking-water service lines , which is the principal source of lead in drinking water in older cities .
+Although residents of houses with lead service lines had higher blood lead levels on average than those in houses that did not , this relationship is confounded .
+Older houses that retain lead service lines usually have not been rehabilitated and are more likely to be associated with other sources of exposure , particularly lead paint .
+None of 96 pregnant women tested showed blood lead levels > 10 microg/dL , but two nursing mothers had blood lead levels > 10 microg/dL .
+Among two data sets of 107 and 71 children for whom paired blood and water lead levels could be obtained , there was no correlation ( r(2) = -0.03142 for the 107 ) .
+CONCLUSIONS The expanded screening program developed in response to increased lead levels in water uncovered the true dimensions of a continuing problem with sources of lead in homes , specifically lead paint .
+This study cannot be used to correlate lead in drinking water with blood lead levels directly because it is based on an ecologic rather than individualized exposure assessment ; the protocol for measuring lead was based on regulatory requirements rather than estimating individual intake ; numerous interventions were introduced to mitigate the effect ; exposure from drinking water is confounded with other sources of lead in older houses ; and the period of potential exposure was limited and variable .

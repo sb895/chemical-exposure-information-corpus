@@ -1,0 +1,10 @@
+BACKGROUND In 1979 , approximately 2,000 people in central Taiwan were accidentally exposed to polychlorinated biphenyls and dibenzofurans due to ingestion of contaminated cooking oil .
+This event was called Yucheng , " oil-syndrome " in Chinese .
+We followed the exposed persons and compared their cause-specific mortality with that of neighborhood referents 30 years after the accident .
+METHODS We obtained age- and gender-matched referents from the 1979 neighborhoods of the exposed people .
+Cause-specific mortality was compared between exposed subjects ( N=1803 ) and their neighborhood referents ( N=5170 ) using standardized mortality ratios ( SMR ) .
+Total person-years for the Yucheng subjects and neighborhood referents were 48,751 and 141,774 , respectively .
+RESULTS The SMR for all causes ( SMR=1.2 , 95% CI : 1.1-1.3 ) , diseases of the circulatory system ( SMR=1.3 , 95% CI : 1.0-1.6 ) , and diseases of the musculoskeletal system and connective tissue ( SMR=6.4 , 95% CI : 2.8-12.7 ) were elevated in Yucheng subjects .
+Among Yucheng males , the SMRs for diseases of the digestive system ( SMR=1.9 , 95% CI : 1.2-2.8 ) , malignant neoplasm of stomach ( SMR=3.5 , 95% CI : 1.5-7.0 ) , and malignant neoplasm of lymphatic and hematopoietic tissue ( SMR=3.0 , 95% CI : 1.1-6.6 ) were increased .
+The SMR for total neoplasms was increased ( SMR=1.3 , 95% CI : 0.9-1.7 ) .
+CONCLUSION We conclude that exposure to PCBs/PCDFs at levels that produced symptoms in many affects mortality patterns 3 decades after exposure .

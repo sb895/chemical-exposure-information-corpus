@@ -1,0 +1,11 @@
+There is increasing evidence that environmental factors play an important role in the development of type 2 diabetes .
+Several persistent organic pollutants are suspected to contribute to the increasing prevalence and risk of type 2 diabetes .
+The aim of this study was to investigate the association of the body burden of three organochlorine pesticides and three polychlorinated biphenyls and the overall estrogenic activity with the risk of type 2 diabetes in a sample of adults from Southern Spain .
+Samples of adipose tissue and serum were obtained from 386 subjects undergoing non-cancer-related surgery and were extracted using validated methodologies .
+Residues of persistent organic pollutants were analyzed by means of high-resolution gas chromatography with a mass spectrometry detector in tandem mode .
+The overall estrogenicity of the adipose tissue extracts was measured by using the total effective xenoestrogen burden ( TEXB ) biomarker .
+Data on lifestyle , dietary habits , and health status were gathered from face-to-face interviews and clinical records .
+Statistical analyses were performed with unconditional logistic regression and different adjustment levels .
+In the models adjusted for adipose tissue origin , sex , age , and body mass index , the 2nd and 3rd tertiles of adipose tissue concentrations of p,p'-dichlorodiphenyldichloroethylene ( p,p'-DDE ) were positively associated with the risk of diabetes [ odds ratios ( 95% confidence interval)=3.6 ( 0.8-17.3 ) and 4.4 ( 1.0-21.0 ) , respectively ] .
+A positive association with \u03b2-hexachlorocyclohexane was also found when body mass index and adipose tissue origin were removed from the models , with odds ratios ( 95% confidence interval ) of 3.3 ( 1.0-10.4 ) and 5.5 ( 1.7-17.3 ) , for the 2nd and 3rd tertiles of exposure , respectively .
+In addition , a statistically significant interaction was observed between p,p'-DDE and body mass index , such that the risk of diabetes increased with tertiles of exposure in a linear manner in non-obese subjects but not in the obese , in whom an inverted U-shape pattern was observed .

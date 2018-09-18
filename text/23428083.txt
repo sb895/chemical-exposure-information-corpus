@@ -1,0 +1,8 @@
+This study evaluates atmospheric concentrations of soil and Pb aerosols , and blood lead levels ( BLLs ) in 367839 children ( ages 0-10 ) in Detroit , Michigan from 2001 to 2009 to test a hypothesized soil \u2192 air dust \u2192 child pathway of contemporary Pb risk .
+Atmospheric soil and Pb show near-identical seasonal properties that match seasonal variation in children's BLLs .
+Resuspended soil appears to be a significant underlying source of atmospheric Pb .
+A 1% increase in the amount of resuspended soil results in a 0.39% increase in the concentration of Pb in the atmosphere ( 95% CI , 0.28 to 0.50% ) .
+In turn , atmospheric Pb significantly explains age-dependent variation in child BLLs .
+Other things held equal , a change of 0.0069 \u03bcg/m(3) in atmospheric Pb increases BLL of a child 1 year of age by 10% , while approximately 3 times the concentration of Pb in air ( 0.023 \u03bcg/m(3) ) is required to induce the same increase in BLL of a child 7 years of age .
+Similarly , a 0.0069 \u03bcg/m(3) change in air Pb increases the odds of a child <1 year of age having a BLL \u2265 5 \u03bcg/dL by a multiplicative factor of 1.32 ( 95% CI , 1.26 to 1.37 ) .
+Overall , the resuspension of Pb contaminated soil explains observed seasonal variation in child BLLs .

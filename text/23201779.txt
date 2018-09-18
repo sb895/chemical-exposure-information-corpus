@@ -1,0 +1,14 @@
+Urban environments are the major sites for human habitation and this study evaluates soil lead ( Pb ) and blood Pb at the community scale of a U.S. city .
+There is no safe level of Pb exposure for humans and novel primary Pb prevention strategies are requisite to mitigate children's Pb exposure and health disparities observed in major cities .
+We produced a rich source of environmental and Pb exposure data for metropolitan New Orleans by combining a large soil Pb database ( n=5467 ) with blood Pb databases ( n=55,551 pre-Katrina and 7384 post-Katrina ) from the Louisiana Childhood Lead Poisoning Prevention Program ( LACLPPP ) .
+Reanalysis of pre- and post-Hurricane Katrina soil samples indicates relatively unchanged soil Pb .
+The objective was to evaluate the New Orleans soil Pb and blood Pb database for basic information about conditions that may merit innovative ways to pursue primary Pb exposure prevention .
+The city was divided into high ( median census tract soil\u2265100 mg/kg ) and low Pb areas ( median census tract soil<100mg/kg ) .
+Soil and blood Pb concentrations within the high and low Pb areas of New Orleans were analyzed by permutation statistical methods .
+The high Pb areas are toward the interior of the city where median soil Pb was 367 , 313 , 1228 , and 103 mg/kg , respectively for samples collected at busy streets , residential streets , house sides , and open space locations ; the low Pb areas are in outlying neighborhoods of the city where median soil Pb was 64 , 46 , 32 , and 28 mg/kg , respectively for busy streets , residential streets , house sides , and open spaces ( P-values<10(-16) ) .
+Pre-Katrina children's blood Pb prevalence of \u22655 \u03bcg/dL was 58.5% and 24.8% for the high and low Pb areas , respectively compared to post-Katrina prevalence of 29.6% and 7.5% , for high and low Pb areas , respectively .
+Elevated soil Pb permeates interior areas of the city and children living there generally lack Pb safe areas for outdoor play .
+Soil Pb medians in outlying areas were safer by factors ranging from 3 to 38 depending on specific location .
+Patterns of Pb deposition from many decades of accumulation have not been transformed by hastily conducted renovations during the seven year interval since Hurricane Katrina .
+Low Pb soils available outside of cities can remedy soil Pb contamination within city interiors .
+Mapping soil Pb provides an overview of deposition characteristics and assists with planning and conducting primary Pb exposure prevention .

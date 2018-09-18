@@ -1,0 +1,12 @@
+BACKGROUND Arsenic is a potent human carcinogen and toxicant .
+Elevated concentration of arsenic in drinking water is a major public-health problem worldwide .
+We evaluated risks of adult mortality ( due to cancer and cardiovascular and infectious diseases ) in relation to arsenic exposure through drinking water .
+METHODS A cohort analysis was applied to survival data prospectively collected during 1991-2000 in a health and demographic surveillance system in Matlab , Bangladesh , where tubewells were installed beginning in the early 1970s .
+A total of 115,903 persons aged 15 or more years on 1 January 1991 were available for analysis .
+In this period , 9015 people died and 22,488 were lost to follow-up .
+Arsenic exposure data were derived from a survey in 2002-2003 of past and current water use and arsenic concentrations in all tubewells .
+We estimated risk of excess mortality in relation to arsenic exposure , using proportional hazards models .
+RESULTS Even at low levels ( 10-49 mug/L ) of arsenic in drinking water , we observed increased risk of death due to all nonaccidental causes ( hazard ratio = 1.16 [ 95% confidence interval = 1.06-1.26] ) .
+Increased risks at exposure of 50-149 microg/L were observed for death due to cancers ( 1.44 [ 1.06-1.95] ) , cardiovascular disease ( 1.16 [ 0.96-1.40] ) , and infectious diseases ( 1.30 [ 1.13-1.49] ) .
+We observed clear dose-response relationships for each of these causes .
+CONCLUSIONS Arsenic exposure through drinking water has generated excess adult mortality after 20-30 years of exposure .

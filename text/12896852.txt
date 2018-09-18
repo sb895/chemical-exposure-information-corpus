@@ -1,0 +1,9 @@
+Daily measures of maximum temperature , particulate matter less than or equal to 10 micro m in aerodynamic diameter ( PM10 ) , and gaseous pollution ( ozone , nitrogen dioxide , sulfur dioxide , and carbon monoxide ) were collected in Denver , Colorado , in July and August between 1993 and 1997 .
+We then compared these exposures with concurrent data on the number of daily hospital admissions for cardiovascular diseases in men and women > 65 years of age .
+Generalized linear models , assuming a Poisson error structure for the selected cardiovascular disease hospital admissions , were constructed to evaluate the associations with air pollution and temperature .
+After adjusting the admission data for yearly trends , day-of-week effects , ambient maximum temperature , and dew point temperature , we studied the associations of the pollutants in single-pollutant models with lag times of 0-4 days .
+The results suggest that O3 is associated with an increase in the risk of hospitalization for acute myocardial infarction , coronary atherosclerosis , and pulmonary heart disease .
+SO2 appears to be related to increased hospital stays for cardiac dysrhythmias , and CO is significantly associated with congestive heart failure .
+No association was found between particulate matter or NO2 and any of the health outcomes .
+Males tend to have higher numbers of hospital admissions than do females for all of the selected cardiovascular diseases , except for congestive heart failure .
+Higher temperatures appear to be an important factor in increasing the frequency of hospitalization for acute myocardial infarction and congestive heart failure , and are associated with a decrease in the frequency of visits for coronary atherosclerosis and pulmonary heart disease .

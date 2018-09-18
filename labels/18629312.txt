@@ -1,0 +1,1 @@
+< <exposure routes--inhalation--< <  Biomonitoring--effect marker--biomarker--molecule--protein<Biomonitoring--effect marker--biomarker--molecule--protein AND  Biomonitoring--effect marker--biomarker--other<exposure routes--inhalation--other--< <exposure routes--inhalation--other--< < < < < < 

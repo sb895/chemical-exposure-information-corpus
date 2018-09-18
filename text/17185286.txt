@@ -1,0 +1,11 @@
+BACKGROUND Animal studies have shown that exposure to common , low-level environmental contaminants [ e.g. , polychlorinated biphenyls ( PCBs ) , lead ] causes excessive and inappropriate responding on intermittent reinforcement schedules .
+The Differential Reinforcement of Low Rates task ( DRL ) has been shown to be especially sensitive to low-level PCB exposure in monkeys .
+OBJECTIVES We investigated the relationships between prenatal PCB and postnatal Pb exposure performance on a DRL schedule in children .
+We predicted that a ) prenatal PCB exposure would reduce interresponse times ( IRTs ) and reinforcements earned , and b ) postnatal Pb exposure would reduce IRTs and reinforcements earned .
+METHODS We tested 167 children on a DRL20 ( 20 sec ) reinforcement schedule , and recorded IRTs and the number of reinforced responses across the session .
+We measured prenatal PCB exposure ( cord blood ) , methylmercury ( MeHg ) ( maternal hair ) , and postnatal Pb exposure ( venous blood ) , and > 50 potentially confounding variables .
+RESULTS Results indicated impaired performance in children exposed to PCBs , MeHg , and Pb .
+Children prenatally exposed to PCBs responded excessively , with significantly lower IRTs and fewer reinforcers earned across the session .
+In addition , exposure to either MeHg or Pb predicted statistically significant impairments of a similar magnitude to those for PCBs , and the associated impairments of all three contaminants ( PCB , MeHg , and Pb ) were statistically independent of one another .
+CONCLUSIONS These results , taken with animal literature , argue the high sensitivity of DRL performance to low-level PCB , MeHg , and Pb exposure .
+Future research should employ behavioral tasks in children , such as DRL , that have been demonstrably sensitive to low-level PCB , MeHg , and Pb exposure in animals .

@@ -1,0 +1,13 @@
+Enshi prefecture of Hubei Province is well known for human selenium ( Se ) poisoning in the early 1960s in China .
+Sporadic cases of Se poisoning in livestocks are still being found .
+In this study , Se levels in water , cropland soils and various crops from high-Se areas of Enshi were measured to investigate the distribution and bioavailability of Se in the environments , as well as probable daily intake ( PDI ) of Se for local residents .
+The total Se in surface water ranged from 2.0 to 519.3\u03bcg/L with a geometric mean of 46.0±127.8 \u03bcg/L ( n=48 ) , 70.5-99.5% of which was present in the form of Se(VI) .
+The soil Se concentration varied from 2.89 to 87.3 \u03bcg/g with a geometric mean of 9.36±18.6 \u03bcg/g ( n=45 ) , and most of Se was associated with organic matter ( OM-Se ) .
+The total Se in rice , corn , and vegetable samples were 2.11±2.87 \u03bcg/g ( n=21 ) , 3.76±11.6 \u03bcg/g ( n=16 ) , and 2.09±3.38 \u03bcg/g ( n=25 ) , respectively .
+Stream water Se is likely leached from carbonaceous shale and mine wastes , leading to Se accumulation in paddy soils .
+OM-Se may play an important role in Se uptake by rice plant in high-Se area of Enshi .
+The PDI of Se is approximately 2144 \u03bcg/day , and Se concentration in blood is estimated at about 3248 \u03bcg/L , posing a potential chronic Se poisoning risk to local residents .
+Cereal consumption ( 48.5% ) makes a great contribution to human daily Se intake , followed by vegetables ( 36.6% ) , meats ( 8.5% ) , and drinking water ( 6.4% ) .
+However , when assessing health risk on human in high-Se areas , the contribution of drinking water to daily Se intake cannot be ignored due to high Se content and dominant Se(VI) species .
+Local inhabitants should be advised not to grow crops in high-Se lands or irrigate using high-Se water .
+If possible , they should drink pipe water and consume foods mixed with those from outside the high-Se areas .

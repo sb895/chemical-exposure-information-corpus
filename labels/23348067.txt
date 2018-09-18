@@ -1,0 +1,1 @@
+< < < <Biomonitoring--exposure biomarker--blood-- AND exposure routes--oral intake--food--<Biomonitoring--effect marker--physiological parameter AND exposure routes--oral intake--food--pregnant women<  Biomonitoring--exposure biomarker--blood--cord blood<biomonitoring--exposure biomarker--hair nail--pregnant women< <exposure routes--oral intake--food--< < < < < 

@@ -1,0 +1,12 @@
+Organochlorine pesticides and polychlorinated biphenyls ( PCBs ) are consistently found in human tissues .
+Serum levels of organochlorine compounds ( OC ) in pregnant women in particular have raised concern about possible harm to humans in the early phases of physical and behavioural development .
+The objective of the present study was to evaluate the association between concentration of OCs in serum of two cohorts of pregnant women from Gipuzkoa and Sabadell in Spain and socioeconomic , reproductive and dietary variables .
+Concentration of polychlorinated biphenyls ( PCBs : 28 , 52 , 101 , 118 , 138 , 153 and 180 ) , hexachlorobenzene ( HCB ) , beta and gamma-hexachlorocyclohexane ( \u03b2-HCH and \u03b3-HCH ) , heptachlor epoxide , dichlorodiphenyl dichloroethylene ( p,p'-DDE ) and dichlorodiphenyl trichloroethane ( p,p'-DDT ) were measured in the serum of 1259 pregnant women .
+Associations between OCs and potential predictor variables were assessed using linear regression models adjusted for potential confounders .
+The compounds most commonly found in the serum were p,p'-DDE ( 99% of the samples ) and PCB-153 ( 95% of the samples ) .
+Geometric means of serum concentrations ( ng g⁻¹ lipid ) of organochlorine pesticides were 110.0 , 19.1 , and 33.5 for p,p'-DDE , \u03b2-HCH , and HCB respectively , while the geometric means of PCBs were 21.8 , 38.9 and 26.9 for PCB 138 , 153 , and 180 respectively .
+The levels of all OCs increased with age .
+BMI was positively associated with the concentration of organochlorine pesticides but inversely related to PCB concentrations .
+The serum levels of OCs fell only after a cumulative period of breastfeeding of over a year .
+Levels of PCBs were related to fish intake , but in general dietary factors did not improve the explained variability of the concentrations of OCs .
+Overall , the levels of OCs found in the study are at the lower end of the range reported in Spain and other countries .

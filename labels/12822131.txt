@@ -1,0 +1,1 @@
+<  Biomonitoring--effect marker--physiological parameter< <exposure routes--inhalation--other--workers<Biomonitoring--exposure biomarker--urine-- AND Biomonitoring--exposure biomarker--urine--workers AND exposure routes--inhalation--personal measurement--workers< < < <  Biomonitoring--exposure biomarker--urine--workers< 

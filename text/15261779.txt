@@ -1,0 +1,13 @@
+DDT [ 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane ] compounds , used in many developing countries , including South Africa , for the control of malaria vectors , have been shown to be endocrine disruptors in vitro and in vivo .
+The study hypothesis was that male malaria vector-control workers highly exposed to DDT in the past should demonstrate clinically significant exposure-related anti-androgenic and/or estrogenic effects that should be reflected in abnormalities in reproductive hormone levels .
+A cross-sectional study of 50 workers from three camps situated near the Malaria Control Center ( MCC ) in Tzaneen was performed .
+Tests included blood sampling before and after a gonadotropin-releasing hormone ( GnRH ) challenge ( 100 microg ) .
+Serum o'p ' and p'p ' isomers of DDE , DDT , and DDD and basal and post-GnRH challenge hormone levels , including luteinizing hormone , follicle-stimulating hormone , testosterone , sex hormone-binding globulin , estradiol ( E2 ) , and inhibin , were measured .
+The mean number of years worked at the MCC was 15.8+/-7.8 years and the mean serum DDT was 94.3+/-57.1 microg/g of lipid .
+Mean baseline E2 levels ( 62.4+/-29.9 pg/mL ) exceeded the laboratory reference range .
+Associations between DDT exposure measures ( years worked at the MCC and DDT compounds ) and hormonal outcomes were weak and inconsistent .
+The most important finding was a positive relationship of baseline E2 and baseline testosterone with DDT compounds , especially with p'p'-DDT and -DDD .
+The strongest association found , adjusted for age and SHBG , was between baseline estradiol and p'p'-DDT ( beta=1.14+/-0.33 pg/mL/microg/ g lipid , P=0.001 , R2=0.31 , n=46 ) .
+An overall anti-androgenic mechanism best explains the results , but with a number of inconsistencies .
+Associations might be due to chance , as multiple comparisons were made .
+The results therefore do not suggest an overt anti-androgenic or estrogenic effect of long-term DDT exposure on hormone levels , but correlations do exist in a manner that is not understood .

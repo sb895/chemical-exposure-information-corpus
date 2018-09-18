@@ -1,0 +1,13 @@
+The aim of this paper is to estimate the levels of arsenic ( As ) ingestion through cooked foods consumed in an arsenic endemic area and the assessment of their dietary intake of As .
+The study was conducted in two villages : a population chronically exposed to a high concentration of As via drinking water ( 410+/-35 microg/l ) and to a low-exposure group ( 12+/-4 microg/l ) .
+A 24-h dietary recall questionnaire was applied to about 25 adult participants in each community .
+Samples of cooked food , ready for intake , were collected separately from each family's participants .
+To obtain the As estimate for each food item consumed , the mean quantity of food ingested in grams ( wet weight ) was calculated and the concentrations of total arsenic ( TAs ) in each cooked food were determined .
+The estimations of TAs intake were based on the sum over mean of As ingested from each food item consumed during the 24-h period for each participant .
+For the estimation of total daily As intake , we summed the mean obtained from food , plain water and hot beverage intakes .
+The TAs average intakes calculated for low-As-exposure group were 0.94 and 0.76 microg/kg body weight/day , for both summer and winter exposure scenarios , respectively .
+These values are 44.7 and 36% of the provisional tolerable daily intake ( PTDI ) for inorganic arsenic ( 2.14 microg/kg body weight/day ) , established by the World Health Organization ( WHO ) in 1989 .
+The WHO reference value was obtained on a weekly basis intake estimation assuming an average body weight of 68 kg in adults .
+In contrast , for the high-exposure group the TAs average intakes were 16.6 and 12.3 microg/kg body weight/day for summer and winter , respectively .
+Ingestion via cooked food represented 32.5 and 43.9% of the total daily As intake in the high-exposure group ; for summer and winter , respectively .
+None the less , the bioavailability of As through food can be different than via drinking water .

@@ -1,0 +1,8 @@
+BACKGROUND While there is a general consensus about the ability of benzene to induce acute myeloid leukemia ( AML ) , its effects on chronic lymphoid leukemia and multiple myeloma ( MM ) are still under debate .
+We conducted a population-based case-control study to evaluate the association between exposure to organic solvents and risk of myeloid and lymphoid leukemia and MM. METHODS Five hundred eighty-six cases of leukemia ( and 1,278 population controls ) , 263 cases of MM ( and 1,100 population controls ) were collected .
+Experts assessed exposure at individual level to a range of chemicals .
+RESULTS We found no association between exposure to any solvent and AML .
+There were elevated point estimates for the associations between medium/high benzene exposure and chronic lymphatic leukemia ( OR = 1.8 , 95% CI = 0.9-3.9 ) and MM ( OR = 1.9 , 95% CI = 0.9-3.9 ) .
+Risks of chronic lymphatic leukemia were somewhat elevated , albeit with wide confidence intervals , from medium/high exposure to xylene and toluene as well .
+CONCLUSIONS We did not confirm the known association between benzene and AML , though this is likely explained by the strict regulation of benzene in Italy nearly three decades prior to study initiation .
+Our results support the association between benzene , xylene , and toluene and chronic lymphatic leukemia and between benzene and MM with longer latencies than have been observed for AML in other studies .

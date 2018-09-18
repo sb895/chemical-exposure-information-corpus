@@ -1,0 +1,12 @@
+Although the production and use of some persistent organic pollutants ( POPs ) have been banned or highly restricted , human exposure remains a subject of investigation due to their environmental persistence .
+Physiological changes during pregnancy may affect the disposition of POPs in the mother's body , and thus fetal exposure .
+Changes in serum concentrations of organochlorine pesticides ( OCPs ) and polychlorinated biphenyls ( PCBs ) across pregnancy trimesters , and trans-placental transfer to the fetus were investigated .
+Seventy-nine pregnant women in Trujillo , Peru were recruited in the first trimester of pregnancy , and provided blood samples for the analysis of 35 PCB congeners , 9 OCPs , and 11 polybrominated biphenyl diethers ( PBDEs ) .
+Subsequently , maternal blood samples were collected in the second ( n=64 ) and third trimesters ( n=59 ) , and cord blood samples ( n=50 ) were collected at delivery .
+There were statistically significant changes across trimesters ( p<0.05 ) for both fresh weight ( increase ) and lipid adjusted concentrations ( decrease ) of hexachlorobenzene ( HCB ) , 2,2-Bis(4-chlorophenyl)-1,1-dichloroethene ( p,p'-DDE ) , PCB-74 , 118 , 138-158 , 153 , 170 , 180 and 194 .
+Fresh weight concentrations of these POPs increased from first to third trimester by 10-28% .
+On the other hand lipid adjusted concentrations decreased from first to third trimester by 16-28% .
+Serum lipids increased from first to third trimester by 53% indicating the dilution of the POPs in the lipids .
+Concentrations of 2,2-Bis(4-chlorophenyl)-1,1,1-trichloroethane ( p,p'-DDT ) , its metabolite p,p'-DDE , PCB-118 , 138-158 , 153 , 170 and 180 above their limits of detection were measured in >60% of cord serum samples .
+Intra-individual correlations in maternal serum concentrations were high for most of the POPs ( \u03c1=0.62-0.99 ; p<0.05 ) while correlations between maternal and cord serum concentrations were also high ( \u03c1=0.68-0.99 ; p<0.05 ) .
+Results indicate that the disposition in the body and blood concentrations of POPs may change during pregnancy , and show trans-placental transfer of DDT , DDE and PCBs .

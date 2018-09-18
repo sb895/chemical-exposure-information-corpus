@@ -1,0 +1,12 @@
+Ethylene oxide is a gas used in some dental offices to sterilize equipment .
+In pregnant laboratory animals , ethylene oxide increases malformations and feral loss .
+Increased gestation length has also been reported .
+In humans , two studies have reported increased spontaneous abortions among ethylene oxide-exposed women , but few other data exist .
+We sent questionnaires to 7,000 dental assistants , age 18-39 years , registered in California in 1987 ; 4,856 responded ( 69% ) .
+We based our analysis on 1,320 women whose most recent pregnancy was conceived while working full-time .
+Thirty-two women reported exposure to ethylene oxide ; unexposed dental assistants comprised the comparison group .
+We estimated relative risks of spontaneous abortion and preterm birth using a person-week model .
+We estimated relative risks of postterm birth ( > or = 42 weeks ) and a combined adverse outcomes model using logistic regression .
+Among exposed women , the age-adjusted relative risk of spontaneous abortion was 2.5 [ 95% confidence interval ( CI ) = 1.0-6.3 ] , for preterm birth 2.7 ( 95% CI = 0.8-8.8 ) , and for postterm birth 2.1 ( 95% CI = 0.7-5.9 ) .
+The estimated relative risk of any of these adverse outcomes among exposed women was 2.5 ( 95% CI = 1.0-6.1 ) after adjusting for age , nitrous oxide , and number of mercury amalgams prepared .
+These data further implicate ethylene oxide as a possible reproductive toxicant in humans .

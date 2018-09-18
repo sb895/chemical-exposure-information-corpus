@@ -1,0 +1,13 @@
+BACKGROUND Endocrine dysfunction related to the hypothalamic-pituitary-thyroid ( HPT ) and/or the hypothalamic-pituitary-gonadal axis ( HPG ) is being discussed as underlying developmental adversity of polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) and polychlorinated biphenyls ( PCBs ) .
+This study was done to evaluate effects related to the HPG axis .
+METHODS A birth-cohort study was initiated in the year 2000 .
+Healthy mother-infant pairs were recruited in the industrialized city of Duisburg , Germany .
+Dioxins , dioxin-like PCBs and six indicator PCBs were measured in maternal blood during pregnancy and in maternal milk .
+Testosterone and estradiol levels were measured in maternal and cord serum of 104 mother-infant pairs representing a subsample with a complete data set of the total basic sample of 232 participants .
+Linear regression analysis was used to describe the association of PCDD/Fs or PCB in maternal blood or milk with sex steroid concentrations after adjustment for confounding .
+RESULTS Median concentrations for PCDD/Fs in maternal blood fat and milk fat in terms of WHO-TEq were 15.3 and 13.1pg WHO-TEq/g , respectively , and for the sum of the indicator PCBs ( #28 , #52 , #101 , #138 , #153 , #180 ) 149 and 177ng/g .
+The adjusted ratio of geometric means when doubling the concentration of PCDD/Fs in maternal blood fat was 0.86 , 95% confidence interval ( 95% CI ) : 0.72-1.03 for testosterone and 0.73 ( 0.61-0.87 ) for estradiol in cord serum .
+Typically , testosterone reduction was more pronounced in cord serum of female and estradiol reduction in that of male babies .
+Reduction of hormone levels was generally more pronounced for dioxins than for indicator PCBs .
+CONCLUSIONS The hypothalamic-pituitary-gonadal axis of newborn babies is influenced by prenatal exposure to PCDD/Fs and PCBs in a manner suggestive of AhR-mediation .
+The clinical relevance of this finding remains to be established , however .

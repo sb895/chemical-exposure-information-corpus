@@ -1,0 +1,10 @@
+BACKGROUND Most empirical estimates of human elimination kinetics for persistent chemicals reflect apparent elimination half-lives that represent the aggregated effect of intrinsic elimination , ongoing exposure , and changes in body weight .
+However , estimates of intrinsic elimination at background levels are required for risk assessments for the general population .
+OBJECTIVE To estimate intrinsic human elimination half-lives at background levels for nine polychlorinated biphenyl ( PCB ) congeners , we used a novel approach based on population data .
+METHODS We used a population pharmacokinetic model to interpret two sets of congener-specific cross-sectional age-concentration biomonitoring data of PCB concentrations measured in lipid and blood samples that were collected from 229 individuals in 1990 and 2003 .
+Our method is novel because it exploits information about changes in concentration in the human population along two dimensions : age and calendar time .
+RESULTS Our approach extracted information about both elimination kinetics and exposure trends from biomonitoring data .
+The longest intrinsic human elimination half-lives estimated in this study are 15.5 years for PCB-170 , 14.4 years for PCB-153 , and 11.5 years for PCB-180 .
+CONCLUSIONS Our results are further evidence that a maximum intrinsic elimination half-life for persistent chemicals such as PCBs exists and is approximately 10-15 years .
+A clear conceptual distinction between apparent and intrinsic half-lives is required to reduce the uncertainty in elimination half-lives of persistent chemicals .
+The method presented here estimates intrinsic elimination half-lives and the exposure trends of persistent pollutants using cross-sectional data available from a large and growing number of biomonitoring programs .

@@ -1,0 +1,9 @@
+CONTEXT Although there are ample data on the respiratory effects of exposure to fire extinguisher gas , the potential hematologic effects have not been fully documented .
+We conducted this study to determine the possible etiologic agent(s) for a decrease in red blood cells among community residents in Taipei , Taiwan , after they were exposed to leakage of mixed fire extinguishants containing bromotrifluoromethane ( CF3Br , Halon 1301 ) , bromochlorodifluoromethane ( CF2BrCl , Halon 1211 ) , and dichlorodifluoromethane ( CCl2F2 , CFC-12 ) .
+CASE PRESENTATION We studied 117 exposed residents who came into one hospital for physical examinations .
+We also selected age- and sex-matched referents for comparison from residents who came to the same hospital for health examinations .
+Nine months after the exposure to mixed fire extinguishants , 91 of the exposed residents came back for a second physical examination .
+In the first examination of the exposed residents , we found a significant reduction in red blood cell count and hemoglobin and a relationship between dose and response .
+DISCUSSION After excluding iron-deficiency anemia , thalassemia , and other possible agents , we suspected that the hematologic effects might have resulted from pyrolytic products of CFC-12 and Halon 1211 , which may contain phosgene , among other products .
+RELEVANCE TO CLINICAL PRACTICE The acute transient hematologic effects observed in the exposed residents were associated with the incident of leakage of mixed fire-extinguisher gases and were most likely caused by a small amount of pyrolytic products , probably phosgene .
+Nine months after the exposure , we found a significant improvement in the abnormalities without any specific treatment .

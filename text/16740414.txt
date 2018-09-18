@@ -1,0 +1,22 @@
+The Human Biological Monitoring ( HBM ) project was launched in the Czech Republic in 1994 as a part of the nation-wide Environmental Health Monitoring System to assess the exposure of the Czech general population to a broad spectrum of environmental contaminants .
+Over the years 2001-2003 , the concentrations of lead ( Pb ) , cadmium ( Cd ) , and mercury ( Hg ) were determined in whole blood of 1188 adults ( blood donors ) and 333 children and in urine of 657 adults and 619 children .
+In adults , the median blood lead ( B-Pb ) level was 33microg/l .
+Men had higher B-Pb levels than women ( medians 37microg/l vs. 25microg/l ) .
+Significantly higher B-Pb levels were observed in smokers compared to non-smokers ( 36microg/l vs. 31microg/l ) .
+In children , no sex-dependent differences were observed ( median 31microg/l ) .
+In total , the median blood Cd level ( B-Cd ) in adults was 0.5microg/l .
+Smokers showed a median B-Cd level about 3 times as high as non-smokers ( 1.3microg/l vs. 0.40microg/l ) .
+Neither sex- nor age-related differences were observed in B-Cd levels .
+In 65% of children , B-Cd levels were below the limit of detection ( LOD ) .
+The overall median urinary cadmium level ( U-Cd ) in adults was 0.31microg/g creatinine .
+Significantly higher U-Cd levels were found in women ( median 0.39microg/g creatinine ) compared to men ( 0.29microg/g creatinine ) .
+No significant differences were found between smokers and non-smokers .
+In more than 50% of children , the U-Cd level was below the LOD ( =0.2microg/l ) .
+The median blood mercury ( B-Hg ) level in adults was 0.89microg/l .
+Significant differences were found between smokers ( 0.80microg/l ) and non-smokers ( 0.92microg/l ) , and between men and women ( 0.86microg/l vs. 0.94microg/l ) .
+The median B-Hg level in children was 0.42microg/l and no sex-related differences were observed .
+The median urinary mercury ( U-Hg ) levels were 0.63microg/g creatinine in adults and 0.37microg/g creatinine in children .
+Significantly higher U-Hg levels were obtained in women and non-smokers compared to men and smokers , respectively .
+The B-Pb , B-Hg , U-Cd , and U-Hg levels significantly correlated with age .
+The following reference values were recommended for the period 2001-2003 : 80 , 65 and 55microg/l for B-Pb and 3.1 , 4.0 and 1.5microg/l for B-Hg in men , women and children , respectively ; 1.1microg/l and 1.2microg/g creatinine for B-Cd and U-Cd , respectively , in adult non-smokers ; 5.4 and 12.0microg/g creatinine for U-Hg in men and women , respectively , and 3.7 and 5.5microg/g creatinine for U-Hg in boys and girls , respectively .
+The previous reference values for B-Pb and B-Cd needed revision and were reduced .

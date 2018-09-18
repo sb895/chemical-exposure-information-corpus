@@ -1,0 +1,9 @@
+OBJECTIVE This study was designed to determine whether prenatal mercury exposure , including potential releases from the World Trade Center ( WTC ) disaster , adversely affects fetal growth and child development .
+METHODS We determined maternal and umbilical cord blood total mercury of nonsmoking women who delivered at term in lower Manhattan after 11 September 2001 , and measured birth outcomes and child development .
+RESULTS Levels of total mercury in cord and maternal blood were not significantly higher for women who resided or worked within 1 or 2 miles of the WTC in the month after 11 September , compared with women who lived and worked farther away .
+Average cord mercury levels were more than twice maternal levels , and both were elevated in women who reported eating fish/seafood during pregnancy .
+Regression analyses showed no significant association between ( ln ) cord or maternal blood total mercury and birth outcomes .
+Log cord mercury was inversely associated with the Bayley Scales of Infant Development psychomotor score [ Psychomotor Development Index ( PDI) ] at 36 months ( b = -4.2 , p = 0.007 ) and with Performance ( b = -3.4 , p = 0.023 ) , Verbal ( b = -2.9 , p = 0.023 ) , and Full IQ scores ( b = -3.8 , p = 0.002 ) on the Wechsler Preschool and Primary Scale of Intelligence , Revised ( WPPSI-R ) , at 48 months , after controlling for fish/seafood consumption and other confounders .
+Fish/seafood consumption during pregnancy was significantly associated with a 5.6- to 9.9-point increase in 36-month PDI , and 48-month Verbal and Full IQ scores .
+CONCLUSIONS Blood mercury was not significantly raised in women living or working close to the WTC site in the weeks after 11 September 2001 .
+Higher cord blood mercury was associated with reductions in developmental scores at 36 and 48 months , after adjusting for the positive effects of fish/seafood consumption during pregnancy .

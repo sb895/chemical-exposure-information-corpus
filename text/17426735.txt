@@ -1,0 +1,12 @@
+Arsenic concentration in toenail clippings is used as a biomarker of exposure in epidemiological studies , often under the assumption that a single measurement represents long-term exposure .
+For this assumption to hold , the measured arsenic concentrations must be stable over time , yet temporal variability has not been adequately assessed .
+This study aims to evaluate temporal variability in multiple toenail samples collected from a population exposed to drinking water arsenic levels <100 microg/l .
+Our objectives are to investigate factors responsible for biomarker variability and to assess the suitability of single versus multiple measurements for determining exposure in epidemiological studies .
+Multiple toenail and drinking water samples were collected from 254 participants enrolled in a case-control study of arsenic exposure and bladder cancer in Michigan , USA ; participants also answered questions on water consumption .
+Toenail samples collected an average of 14 months apart were positively correlated , although a substantial amount of variability was detected ( r=0.43 , P<0.0001 , n=236 ) .
+Arsenic concentration in drinking water was stable and small changes in drinking water arsenic concentration did not explain variability in toenail arsenic concentration .
+Change in drinking water consumption , however , was significant in predicting differences in toenail arsenic concentration .
+Stronger correlations between drinking water arsenic concentration and intake and toenail arsenic concentration were observed when two toenail samples were averaged , suggesting that multiple measurements may more accurately reflect exposure .
+When exposure was categorized into tertiles and other pre-determined categories , 25-40% of exposures were differentially classified .
+Only a small percentage ( <4% ) , however , were classified as having low exposure using a single measurement and high exposure when an average of two measurements was used .
+These results suggest that the use of multiple measurements is unlikely to affect exposure classification of individuals into high- or low-exposure groups ; however , collection of multiple samples may be advantageous for more refined exposure classification .

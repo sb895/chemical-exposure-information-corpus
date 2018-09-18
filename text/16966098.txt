@@ -1,0 +1,9 @@
+BACKGROUND Otitis media is one of the most common infections in young children .
+Although exposure to environmental tobacco smoke is a known risk factor associated with otitis media , little information is available regarding the potential association with air pollution .
+OBJECTIVE We set out to study the relationship between exposure to traffic-related air pollution and otitis media in two birth cohorts .
+METHODS Individual estimates of outdoor concentrations of traffic-related air pollutants-nitrogen dioxide , fine particles [ particulate matter with aerodynamic diameters </= 2.5 microm ( PM2.5) ] , and elemental carbon-were calculated for home addresses of approximately 3,700 and 650 infants from birth cohort studies in the Netherlands and Germany , respectively .
+Air pollution exposure was analyzed in relation to physician diagnosis of otitis media in the first 2 years of life .
+RESULTS Odds ratios ( adjusted for known major risk factors ) for otitis media indicated positive associations with traffic-related air pollutants .
+An increase in 3 microg/m3 PM2.5 , 0.5 microg/m3 elemental carbon , and 10 microg/m3 NO2 was associated with odds ratios of 1.13 ( 95% confidence interval , 1.00-1.27 ) , 1.10 ( 1.00-1.22 ) , and 1.14 ( 1.03-1.27 ) in the Netherlands and 1.24 ( 0.84-1.83 ) , 1.10 ( 0.86-1.41 ) , and 1.14 ( 0.87-1.49 ) in Germany , respectively .
+CONCLUSIONS These findings indicate an association between exposure to traffic-related air pollutants and the incidence of otitis media .
+Given the ubiquitous nature of air pollution exposure and the importance of otitis media to children's health , these findings have significant public health implications .

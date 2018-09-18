@@ -1,0 +1,11 @@
+In 1992 , we published four retrospective studies , conducted primarily within a single California county , which found higher spontaneous abortion rates among women who drank more tapwater than bottled water in early pregnancy .
+The current prospective study extends that investigation to other water systems .
+Pregnant women from three regions in California were interviewed during their first trimester .
+Multivariate analyses modeled the amount and type of water consumed at 8 weeks ' gestation in each region in relation to spontaneous abortion rate .
+In Region I , which was within the previous study area , the adjusted odds ratio ( OR ) comparing high ( > or = 6 glasses per day ) consumption of cold tapwater with none was 2.17 [ 95% confidence interval ( CI ) = 1.22-3.87 ] .
+Furthermore , when women with high cold tapwater and no bottled water consumption were compared with those with high bottled water and no cold tapwater consumption , the adjusted odds ratio was 4.58 ( 95% CI = 1.97-10.64 ) .
+Conversely , women with high bottled water consumption and no tapwater had a reduced rate of spontaneous abortion compared with those drinking tapwater and no bottled water ( adjusted OR = 0.22 ; 95% CI = 0.09-0.51 ) .
+Neither tap nor bottled water consumption altered the risk of spontaneous abortion in Regions II and III .
+Although controlling for age , prior spontaneous abortion , race , gestational age at interview , and weight somewhat strengthened the association in Region I , the distribution of these confounders did not vary appreciably across regions .
+This study confirms the association between cold tapwater and spontaneous abortion first seen in this county in 1980 .
+If causal , the agent(s) is not ubiquitous but is likely to have been present in Region I for some time .

@@ -1,0 +1,5 @@
+The German Environmental Survey ( GerES ) is a cross-sectional probability study to determine the exposure of the general population to environmental contaminants .
+The study was repeated for the third time in 1998 ( GerES III ) .
+Again , a stratified random procedure was used to select the study population taking into account the parameters gender , age , community size and place of residence ( West- or East-Germany ) .
+A total of 4822 persons between 18 and 69 years of age from 120 localities participated in GerES III .
+Human biomonitoring comprised the determination of arsenic , cadmium , mercury , metabolites of polycyclic aromatic hydrocarbons ( PAH ) , pentachlorophenol ( PCP ) , other chlorophenols , precious metals ( gold , platinum , iridium ) , nicotine , and cotinine in urine .

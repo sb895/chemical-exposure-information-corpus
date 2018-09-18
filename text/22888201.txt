@@ -1,0 +1,8 @@
+BACKGROUND Large-scale poisonings caused by methyl mercury ( MeHg ) have occurred in Japan ( Minamata in the 1950s and Niigata in the 1960s ) and Iraq ( in the 1970s ) .
+The current WHO neurological risk standard for adult exposure ( hair level : 50 \u03bcg/g ) was based partly on evidence from Niigata which did not consider any cases who were diagnosed later and/or exposed to low level of MeHg ( hair mercury level less than 50 \u03bcg/g ) .
+METHODS Early in the Niigata epidemic in June 1965 there were two extensive surveys .
+From these two surveys , we examined 103 adults with hair mercury measurement who consulted two medical institutions .
+We compared the prevalence and the distribution of neurological signs related to MeHg poisoning between exposure categories .
+RESULT We found 48 subjects with neurological signs related to MeHg poisoning who had hair mercury concentration less than 50 \u03bcg/g .
+Among the neurological signs , sensory disturbance of the bilateral distal extremities was observed more frequently , followed by disequilibrium , hearing impairment , and ataxia , in groups with hair MeHg concentration both below 50 \u03bcg/g and over 50 \u03bcg/g .
+CONCLUSION The present study suggests the possibility that exposure to MeHg at levels below the current WHO limits could cause neurologic signs , in particular , sensory disturbance .

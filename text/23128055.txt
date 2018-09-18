@@ -1,0 +1,13 @@
+BACKGROUND Associations between cadmium ( Cd ) and kidney function have been reported even at low levels of exposure in the general population .
+Recently , the causality of these associations has been questioned .
+OBJECTIVES We examined associations between urinary Cd ( U-Cd ; a biomarker of exposure ) and urinary proteins that are used as biomarkers of kidney effects , based on repeated short-term sampling in healthy subjects .
+METHODS Twenty-four hour urine samples were collected on 2 separate days at six fixed times from 30 healthy nonsmoking men and women ( median age 39 years ) .
+We analyzed the samples ( N = 354 ) for Cd ( i.e. , U-Cd ) and two proteins used as kidney function biomarkers : urinary albumin ( U-Alb ) and alpha-1-microglobulin ( U-A1M ) .
+Concentrations were adjusted for creatinine concentration or for specific gravity , and excretion rates ( mass per hour ) were calculated .
+Possible associations were assessed within each individual participant , and mean correlations and regressions were evaluated .
+RESULTS We found clear positive mean associations within individuals between the excretion of U-Cd [ mean , 0.11 µg/g creatinine ( range , 0.01-0.52 µg/g creatinine) ] and both U-Alb and U-A1M .
+The associations were stronger for excretion rates and concentrations adjusted for specific gravity than for concentrations adjusted for creatinine .
+We also found significant positive associations of urinary flow with excretion of U-Cd , U-Alb , and U-A1M .
+CONCLUSIONS Associations between short-term changes in U-Cd and markers of kidney function within individual nonsmoking study participants are unlikely to reflect effects of Cd toxicity .
+A more likely explanation is that these associations result from normal variation in renal function , including changes in urinary flow , that influence the urinary excretion of both Cd and proteins in the same direction .
+These effects of normal variability may result in overestimation of the adverse effects of Cd on kidney function at low-level Cd exposure .

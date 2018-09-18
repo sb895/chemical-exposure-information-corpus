@@ -1,0 +1,19 @@
+BACKGROUND Hormonally active environmental exposures are suspected to alter onset of puberty in girls , but research on this question has been very limited .
+OBJECTIVE We investigated pubertal status in relation to hormonally active environmental exposures among a multiethnic group of 192 healthy 9-year-old girls residing in New York City .
+METHODS Information was collected on breast and pubic hair stages , weight and height .
+Phytoestrogen intake was estimated from a food-frequency questionnaire .
+Three phytoestrogens and bis-phenolA ( BPA ) were measured in urine .
+In a subset , 1,1'-dichloro-2,2'-bis(4-chlorophenyl)ethylene ( DDE ) , polychlorinated biphenyls ( PCBs ) were measured in blood plasma and lead ( Pb ) in blood .
+Associations of exposures with pubertal stages ( present=stage 2+ vs absent=stage 1 ) were examined using t-tests and Poisson multivariate regression to derive prevalence ratios ( PR , 95%-confidence limits [ CI] ) .
+RESULTS Breast development was present in 53% of girls .
+DDE , Pb , and dietary intakes of phytoestrogens were not significantly associated with breast stage .
+Urinary phytoestrogen biomarker concentrations were lower among girls with breast development compared with no development .
+In multivariate models , main effects were strongest for two urinary isoflavones , daidzein ( PR 0.89 [ 0.83-0.96 ] per ln microg/g creatinine ) and genistein ( 0.94 [ 0.88-1.01] ) .
+Body mass index ( BMI ) is a hormonally relevant , strong risk factor for breast development .
+Therefore , BMI-modification of exposure effects was examined , and associations became stronger .
+Delayed breast development was observed among girls with below-median BMI and third tertile ( high exposure ) of urinary daidzein ( PR 0.46 [ 0.26-0.78] ) ; a similar effect was seen with genistein , comparing to girls >or= median BMI and lowest two tertiles ( combined ) of these isoflavones .
+With urinary enterolactone a phytoestrogen effect was seen only among girls with high BMI , where breast development was delayed among those with high urinary enterolactone ( PR 0.55 [ 0.32-0.96 ] for the upper tertile vs lower two combined ) .
+There was no main effect of PCBs on breast stage , but girls with below-median BMI and >or= median PCB levels had reduced risk for breast development ( any vs none ) compared with other BMI-PCB groups .
+No biomarkers were associated with hair development , which was present in 31% of girls .
+CONCLUSIONS Phytoestrogens and PCBs are environmental exposures that may delay breast development , especially in conjunction with BMI , which governs the endogenous hormonal milieu .
+Further research to confirm these findings may improve our understanding of the role of early life development in breast cancer risk and other chronic diseases related to obesity .

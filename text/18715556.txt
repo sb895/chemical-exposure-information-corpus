@@ -1,0 +1,11 @@
+BACKGROUND Phthalates are synthetic chemicals that are ubiquitous in our society and may have adverse health effects in humans .
+Detectable concentrations of phthalate metabolites have been found in adults and children , but no studies have examined the relationship between maternal and infant phthalate metabolite concentrations .
+OBJECTIVE We investigated the relationship between maternal and infant urinary phthalate metabolite concentrations .
+METHODS We measured nine phthalate metabolites in urine samples from 210 mother/infant pairs collected on the same study visit day ( 1999-2005 ) and obtained demographic history from questionnaires .
+Using multivariate linear regression analyses , we examined the degree to which maternal urine phthalate metabolite concentration predicted infant phthalate metabolite concentration .
+All analyses were adjusted for infant age , creatinine concentration , and race .
+RESULTS Correlation coefficients between phthalate metabolite concentrations in the urine of mothers and their infants were generally low but increased with decreasing age of infant .
+In multivariate analyses , mother's phthalate metabolite concentrations were significantly associated with infants ' concentrations for six phthalate metabolites : monobenzyl phthalate , monoethyl phthalate , monoisobutyl phthalate , and three metabolites of di(2-ethylhexyl) phthalate : mono(2-ethylhexyl) phthalate , mono(2-ethyl-5-hydroxy-hexyl) phthalate , and mono(2-ethyl-5-oxo-hexyl) phthalate ( p-values for all coefficients <0.05 ) .
+DISCUSSION Mother's urine phthalate metabolite concentration is significantly associated with infant urine phthalate metabolite concentration for six phthalate metabolites .
+It is plausible that shared exposures to phthalates in the immediate surrounding environment accounted for these relationships , but other unidentified sources may also contribute to infants ' phthalate exposures .
+This study indicates the importance of further identifying infant phthalate exposures that may be distinct from maternal exposures in order to decrease overall infant phthalate exposures .

@@ -1,0 +1,12 @@
+BACKGROUND Urinary metabolites of several nonpersistent insecticides have been measured in a high percentage of men in the general population , suggesting widespread environmental exposures to these compounds .
+The present study explored the association of urinary concentrations of 3,5,6-trichloro-2-pyridinol ( TCPY ) , a metabolite of chlorpyrifos and chlorpyrifos-methyl , and 1-naphthol ( 1N ) , a metabolite of carbaryl and naphthalene , with serum reproductive hormone levels in adult men .
+METHODS Subjects ( n = 268 ) were the male partners in couples presenting to a Massachusetts infertility clinic in years 2000 through 2003 .
+TCPY and 1N were measured in a spot urine sample from each subject and adjusted for dilution using specific gravity .
+Reproductive hormones ( follicle-stimulating hormone , leuteinizing hormone , inhibin B , testosterone , and sex hormone-binding globulin ) were measured in serum collected from subjects during the same clinic visit .
+RESULTS Multiple linear regression models showed an inverse association between TCPY and testosterone concentration .
+An interquartile range ( IQR ) increase in TCPY was associated with a decline of 25 ng/dL ( 95% confidence interval = -40 to -10 ) in testosterone concentration .
+The association appeared to be dose-dependent when exposure was divided into quintiles .
+The highest TCPY quintile was associated with a testosterone decline of 83 ng/dL ( -128 to -39 ) compared with the lowest TCPY quintile .
+We also found inverse associations between TCPY and free androgen index and between 1N and testosterone , and suggestive inverse associations between TCPY and leuteinizing hormone and between 1N and free androgen index .
+CONCLUSION In adult men , TCPY and 1N were associated with reduced testosterone levels .
+On a population level , these reductions are of potential public health importance because of widespread exposure to these nonpersistent insecticides .

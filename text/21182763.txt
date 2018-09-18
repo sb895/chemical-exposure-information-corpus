@@ -1,0 +1,12 @@
+BACKGROUND Geophagy or earth-eating is common amongst some Bangladeshi women , especially those who are pregnant , both in Bangladesh and in the United Kingdom .
+A large proportion of the population in Bangladesh is already exposed to high concentrations of arsenic ( As ) and other toxic elements from drinking contaminated groundwater .
+Additional exposure to As and other toxic elements from non-food sources has not been adequately addressed and here we present the first study to monitor As levels in baked clay ( known as sikor ) .
+METHODS Sikor samples originating from Bangladesh were digested using a microwave digester and analysed for their As , Pb , Cd , Mn , Fe and Zn levels using ICP-MS .
+Detailed As speciation analysis was performed using HPLC-ICP-MS .
+RESULTS Of particular concern were the levels of As ( 3.8-13.1 mg kg(-1) ) , Cd ( 0.09-0.4 mg kg(-1) ) and Pb ( 21-26.7 mg kg(-1) ) present in the sikor samples and their possible impact on human health .
+Speciation analysis revealed that sikor samples contained mainly inorganic As .
+Modest consumption of 50 g of sikor is equivalent to ingesting 370 \u03bcg of As and 1235 \u03bcg of Pb per day , based on median concentration values .
+This level of sikor consumption exceeds the permitted maximum tolerable daily intake ( PMTDI ) of inorganic As by almost 2-fold .
+CONCLUSION We conclude that sikor can be a significant source of As , Cd and Pb exposure for the Bangladeshi population consuming large quantities of this material .
+Of particular concern in this regard is geophagy practiced by pregnant women concurrently exposed to As contaminated drinking water .
+Future studies needs to evaluate the bioavailability of As and other elements from sikor and their impact on human health .

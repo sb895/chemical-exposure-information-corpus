@@ -1,0 +1,12 @@
+Three brominated flame retardants ( BFRs ) , tetrabromobisphenol A ( TBBPA ) , hexabromocyclododecane ( HBCD ) and polybrominated diphenyl ethers ( PBDEs ) , were measured in 103 human milk samples collected from Beijing in 2011 .
+The donors ' personal information , such as dietary habit and socioeconomic and lifestyle factors , was obtained by questionnaires .
+Ultra-performance liquid chromatography-mass spectrometry ( UPLC-MS/MS ) analysis indicated that the levels of TBBPA ranged from <LOD to 12.46 ng g(-1) lipid weight ( lw ) , with a median value of 0.10 ng g(-1) lw .
+Three HBCD diastereoisomers ( \u03b1- , \u03b2- and \u03b3-HBCD ) were also measured using UPLC-MS/MS .
+The levels of \u03a3HBCDs ranged from <LOD to 78.28 ng g(-1) lw , with a median value of 2.40 ng g(-1) lw. \u03b1-HBCD was generally the most abundant of the three isomers .
+Eight PBDE congeners , BDE-28 , 47 , 99 , 100 , 153 , 154 , 183 and 209 , were measured using gas chromatography coupled with a mass spectrometry ( GC/MS ) .
+The concentrations of \u03a3PBDEs ranged from 0.22 to 135.41 ng g(-1) lw , with a median value of 3.24 ng g(-1) lw .
+BDE-209 dominated the PBDE profile in the majority of the human milk samples .
+The mean estimated daily intakes ( EDIs ) of TBBPA , \u03a3HBCDs and \u03a3PBDEs by breast-fed infants were 2.34 , 24.89 and 71.27 ng kg(-1) bw day(-1) , respectively .
+No significant correlation was found between the BFR levels in milk and the mother's diet , place of residence , smoking habit , nursing duration or computer use habit .
+In contrast , the mother's age , body mass index ( BMI ) , education level and number of computers in the home were related to the levels of some types of BFRs .
+More research is needed to further investigate the major source(s) of exposure , the effect of each potential factor and the possible toxicological impact of high daily BFR intake on infants .

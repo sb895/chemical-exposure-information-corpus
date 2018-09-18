@@ -1,0 +1,11 @@
+Exposure to biocontaminants is associated with behavioural problems and poorer cognitive function .
+Our study assesses the associations between early life exposure to home dampness , pets and farm animal contact and cognitive function and social competences in 4-year old children , and the associations between these indoor factors and microbial compounds ( bacterial endotoxin and fungal extracellular polysaccharides ) .
+A Spanish population-based birth-cohort enrolled 482 children , and 424 of them underwent psychometric testing at 4 years of age , including the McCarthy Scales of Child Abilities ( MSCA ) and the California Preschool Social Competence Scale ( CPSCS ) .
+Information on pet ownership , farm animal contact and home dampness was periodically reported by the parents through questionnaires .
+Microbial compounds were measured in living room sofa dust collected at the age of 3 months .
+Persistent home dampness during early life significantly decreased the general score of MSCA by 4.9 points ( 95% CI : -8.9 ; -0.8 ) , and it decreased the CPSCS by 6.5 points ( 95% CI : -12.2 ; -0.9 ) in the child's bedroom .
+Cat or dog ownership were not associated with the outcomes , but occasional farm animal contact increased the general cognitive score of MSCA by 5.6 points ( 95% CI : 1.8 ; 9.3 ) .
+Cat and dog ownership were associated with higher levels of endotoxins in home dust .
+None of the measured microbial compounds were related with the psychometric tests scores .
+In conclusion , damp housing in early life may have adverse effects on neuropsychological development at 4 years old .
+More research is needed to explore the possible involvement of mycotoxins in the observed results .

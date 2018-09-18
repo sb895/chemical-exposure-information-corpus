@@ -1,0 +1,4 @@
+This paper presents a model for car exhaust exposure calculations , which improves the air pollution exposure estimates necessary to study relationships between health and air pollution .
+The model enables calculation of hour-by-hour air pollution concentrations at receptor points in an area .
+Combined with a diary method , in which participants in the study give data on their movement in the area , the model enables personal air pollution exposure values to be calculated .
+The paper shows examples of comparison between measured and calculated exposure .

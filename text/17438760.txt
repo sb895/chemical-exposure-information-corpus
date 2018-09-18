@@ -1,0 +1,10 @@
+We report the largest market basket survey of arsenic ( As ) in U.S. rice to date .
+Our findings show differences in transitional-metal levels between polished and unpolished rice and geographical variation in As and selenium ( Se ) between rice processed in California and the South Central U.S. The mean and median As grain levels for the South Central U.S. were 0.30 and 0.27 mimcrog As g(-1) , respectively , for 107 samples .
+Levels for California were 41% lower than the South Central U.S. , with a mean of 0.17 microg As g(-1) and a median of 0.16 microg As g(-1) for 27 samples .
+The mean and median Se grain levels for the South Central U.S. were 0.19 microg Se g(-1) .
+Californian rice levels were lower , averaging only 0.08 and 0.06 microg Se g(-1) for mean and median values , respectively .
+The difference between the two regions was found to be significant for As and Se ( General Linear Model ( GLM ) : As p < 0.001 ; Se p < 0.001 ) .
+No statistically significant differences were observed in As or Se levels between polished and unpolished rice ( GLM : As p= 0.213 ; Se p= 0.113 ) .
+No significant differences in grain levels of manganese ( Mn ) , cobalt ( Co ) , copper ( Cu ) , or zinc ( Zn ) were observed between California and the South Central U.S. Modeling arsenic intake for the U.S. population based on this survey shows that for certain groups ( namely Hispanics , Asians , sufferers of Celiac disease , and infants ) dietary exposure to inorganic As from elevated levels in rice potentially exceeds the maximum intake of As from drinking water ( based on consumption of 1 L of 0.01 mg L(-1) In .
+As ) and Californian state exposure limits .
+Further studies on the transformation of As in soil , grain As bioavailability in the human gastrointestinal tract , and grain elemental speciation trends are critical .

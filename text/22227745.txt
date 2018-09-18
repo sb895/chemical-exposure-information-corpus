@@ -1,0 +1,11 @@
+Perfluorinated compounds ( PFCs ) are ubiquitous contaminants of humans and animals worldwide .
+PFCs are bioaccumulated because of their affinity for proteins .
+It has been shown they could have a variety of toxicological effects and cause damage to human health , emphasizing the need for sensitive and robust analytical methods to assess their bioaccumulation in humans .
+In this paper we report the development and validation of an analytical method for analysis of PFCs in the non-invasive human matrices hair and urine .
+The method is based on rapid and simple sample pre-treatment followed by online turbulent flow liquid chromatography and tandem mass spectrometry ( TFC-LC-MS-MS ) for analysis of 21 PFCs .
+The method was validated for both matrices .
+Percentage recovery was between 60 and 105 for most compounds in both matrices .
+Limits of quantification ranged from 0.1 to 9 ng mL(-1) in urine and from 0.04 to 13.4 in hair .
+The good performance of the method was proved by investigating the presence of selected PFCs in 24 hair and 30 urine samples from different donors living in Barcelona ( NE Spain ) .
+The results were indicative of bioaccumulation of these compounds in both types of sample .
+PFOS and PFOA were most frequently detected in hair and PFBA in urine .

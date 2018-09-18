@@ -1,0 +1,12 @@
+BACKGROUND Persistent organic pollutants ( POPs ) can influence the immune system , possibly increasing the risk of rheumatoid arthritis ( RA ) .
+In addition , as metabolic change due to obesity has been proposed as one mechanism of osteoarthritis ( OA ) , POPs stored in adipose tissue may be also associated with OA .
+OBJECTIVE Our goal in this study was to examine associations of background exposure to POPs with arthritis among the general population .
+DESIGN We investigated cross-sectional associations of serum POPs concentrations with the prevalence of self-reported arthritis in 1,721 adults >/= 20 years of age in the National Health and Nutrition Examination Survey 1999-2002 .
+RESULTS Among several POPs , dioxin-like polychlorinated biphenyls ( PCBs ) or nondioxin-like PCBs were positively associated with arthritis in women .
+After adjusting for possible confounders , odds ratios ( ORs ) were 1.0 , 2.1 , 3.5 , and 2.9 across quartiles of dioxin-like PCBs ( p for trend = 0.02 ) .
+Corresponding figures for nondioxin-like PCBs were 1.0 , 1.6 , 2.6 , and 2.5 ( p for trend = 0.02 ) .
+Organochlorine ( OC ) pesticides were also weakly associated with arthritis in women .
+For subtypes of arthritis , respectively , RA was more strongly associated with PCBs than was OA .
+The adjusted ORs for RA were 1.0 , 7.6 , 6.1 , and 8.5 for dioxin-like PCBs ( p for trend = 0.05 ) , 1.0 , 2.2 , 4.4 , and 5.4 for nondioxin-like PCBs ( p for trend < 0.01 ) , and 1.0 , 2.8 , 2.7 , and 3.5 for OC pesticides ( p for trend = 0.15 ) .
+POPs in men did not show any clear relation with arthritis .
+CONCLUSIONS The possibility that background exposure to PCBs may be involved in pathogenesis of arthritis , especially RA , in women should be investigated in prospective studies .

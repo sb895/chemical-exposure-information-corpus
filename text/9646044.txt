@@ -1,0 +1,12 @@
+Industrialized regions in Poland are characterized by high ambient pollution , including polycyclic aromatic hydrocarbons ( PAHs ) from coal burning for industry and home heating .
+In experimental bioassays , certain PAHs are transplacental carcinogens and developmental toxicants .
+Biologic markers can facilitate evaluation of effects of environmental PAHs on the developing infant .
+We measured the amount of PAHs bound to DNA ( PAH-DNA adducts ) in maternal and umbilical white blood cells .
+The cohort consisted of 70 mothers and newborns from Krakow , Poland , an industrialized city with elevated air pollution .
+Modulation of adduct levels by genotypes previously linked to risk of lung cancer , specifically glutathione S-transferase MI ( GSTM1 ) and cytochrome P4501A1 ( CYP1A1 ) Msp restriction fragment length polymorphism ( RFLP ) , was also investigated .
+There was a dose-related increase in maternal and newborn adduct levels with ambient pollution at the women's place of residence among subjects who were not employed away from home ( p < or = 0.05 ) .
+Maternal smoking ( active and passive ) significantly increased maternal ( p < or = 0.01 ) but not newborn adduct levels .
+Neither CYP1A1 Msp nor GSTM1 polymorphisms was associated with maternal adducts .
+However , adducts were significantly higher in newborns heterozygous or homozygous for the CYP1A1 Msp RFLP compared to newborns without the RFLP ( p = 0.04 ) .
+Results indicate that PAH-induced DNA damage in mothers and newborns is increased by ambient air pollution .
+In the fetus , this damage appears to be enhanced by the CYP1A1 Mspl polymorphism .

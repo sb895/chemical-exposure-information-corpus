@@ -1,0 +1,11 @@
+Since fuel oil ash contains vanadium ( V ) , the measurement of urinary levels of V may provide a biological marker in workers exposed to fuel oil ash .
+The usefulness of urine V samples as a biological monitoring tool ultimately depends on determining the appropriate time of sampling relative to when exposure occurs .
+Twenty boilermakers were studied during the overhaul of a large oil-fired boiler .
+A total of 117 urine samples were collected , 65 start-of-shift ( S-O-S ) and 52 end-of-shift ( E-O-S ) samples .
+Air V exposures were estimated with personal sampling devices and work history diaries .
+Air V concentrations ranged from 0.36 to 32.19 micrograms V/m3 , with a mean +/- SD of 19.1 +/- 10.7 , and a median of 18.5 .
+On the first day of work on the overhaul , the V urine levels at the E-O-S ( mean +/- SD were 1.53 +/- 0.53 , median was 1.52 mg V/g creatinine ) were significantly higher than those at the S-O-S ( 0.87 +/- 0.32 , median was 0.83 ) , P = 0.004 .
+However , the V concentrations of the S-O-S urine samples on the last Monday of the study were not significantly different from the S-O-S urine levels on the previous Saturday , a time interval of about 38 hr between the end of exposure and sample collection .
+The Spearman correlation coefficient ( r ) between the S-O-S urine V and the workplace concentration of V dust during the previous day was r = 0.35 .
+In summary , the results suggest a rapid initial clearance of V ( elevating the E-O-S V concentration on the first day of work relative to the S-O-S concentration ) , followed by a slow clearance that is not complete 38 hr after the end of exposure , as evidenced by the Monday morning urine V concentrations .
+The Spearman correlations suggest that the S-O-S urine is preferred to the E-O-S urine for across-shift biological monitoring of V exposure .

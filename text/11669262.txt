@@ -1,0 +1,11 @@
+This study was established to assess workers ' health-risks posed by PAHs exposures via both routes of inhalation and dermal contact .
+Personal inhalation exposure sampling was conducted on eight wet pelletizing workers and 22 packaging workers , by using a sampling train comprising an IOM personal inhalable aerosol sampler followed by an XAD-2 sorbent tube .
+Two workers were randomly selected from both exposure groups , and dermal exposures assessed by using soft polypropylene pads attached to the skin for nine different body surface areas for each selected worker .
+All personal inhalation and dermal samples were analyzed for 21 polycyclic aromatic hydrocarbon ( PAH ) species , and then converted to benzo[a]pyrene equivalent ( BaPeq ) concentrations by using the list of toxic equivalent factors ( TEFs ) suggested by Nisbet and LaGoy [ Regul Toxicol Pharmocol 16 ( 1992 ) 290 ] .
+The resultant inhalation and dermal BaPeq exposure levels were used to estimate lifetime risks for lung cancer and skin cancer by using the BaP unit risks of 7.0 x 10(-2) ( microg/m3)(-1 ) and 37.47(mg/kg bodyweight/day)(-1 ) , respectively .
+Results show the personal inhalation BaPeq exposure levels for pelletizing and packaging workers were 622 and 774 ng/m3 , respectively .
+The corresponding lifetime lung cancer risks estimated for both exposure groups were 4.35 x 10(-2) and 5.42 x 10(-2) respectively .
+For dermal exposures , results show personal dermal BaPeq exposure levels for both exposure groups were 0.664 and 0.847 microg/kg per day , respectively .
+The corresponding estimated lifetime skin cancer risks were 1.13 x 10(-3) and 1.56 x 10(-3) , respectively .
+Although the estimated skin cancer risks were lower than the corresponding lung cancer risks for both exposure groups , however , both were higher than the designated significant risk level ( = 10(-3) ) which was defined by the US Supreme Court in 1980 .
+Considering the bioavailability of particle-bound PAHs still remains unknown , the health risks obtained from this study could be overestimated and thus require further investigation .

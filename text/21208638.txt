@@ -1,0 +1,9 @@
+We studied pregnancy-related changes in serum concentrations of five polychlorinated biphenyls ( PCBs , CB 118 , CB 138 , CB 153 , CB 156 , CB 180 ) , three hydroxylated PCB metabolites ( 4-OH-CB107 , 4-OH-CB146 , 4-OH-CB187 ) , and pentachlorophenol ( PCP ) .
+Median serum lipid content increased 2-fold between early ( weeks 9-13 ) and late pregnancy ( weeks 35-36 ) ( N=10 ) , whereas median PCB levels in serum lipids decreased 20-46% , suggesting a dilution of PCB concentrations in serum lipids .
+Nevertheless , strong positive intra-individual correlations ( Spearman's r=0.61-0.99 ) were seen for PCBs during the whole study period .
+Thus , if samples have been collected within the same relative narrow time window during pregnancy , PCB results from one single sampling occasion can be used in assessment of relative differences in body burdens during the whole pregnancy period .
+Concentrations of OH-PCBs in blood serum tended to decline as pregnancy progressed , although among some women the concentrations increased at the end of pregnancy .
+Positive intra-individual correlations ( r=0.66-0.99 ) between OH-PCB concentrations were observed during the first and second trimester , whereas correlations with third trimester concentrations were more diverging ( r=-0.70-0.85 ) .
+No decline in PCP concentrations was observed during pregnancy and no significant correlations were found between concentrations at different sampling periods .
+Our results suggest that for both OH-PCBs and PCP , sampling has to be more specifically timed depending on the time period during pregnancy that is of interest .
+The differences in patterns of intra- and inter-individual variability of the studied compounds may be due to a combination of factors , including lipid solubility , persistence of the compounds , distribution in blood , metabolic formation , and pregnancy-related changes in body composition and physiological processes .

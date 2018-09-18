@@ -1,0 +1,10 @@
+BACKGROUND Air pollutants may induce airway inflammation and sensitization due to generation of reactive oxygen species .
+The genetic background to these mechanisms could be important effect modifiers .
+OBJECTIVE Our goal was to assess interactions between exposure to air pollution and single nucleotide polymorphisms ( SNPs ) in the beta2-adrenergic receptor ( ADRB2 ) , glutathione S-transferase P1 ( GSTP1 ) , and tumor necrosis factor ( TNF ) genes for development of childhood allergic disease .
+METHODS In a birth cohort originally of 4,089 children , we assessed air pollution from local traffic using nitrogen oxides ( traffic NO(x) ) as an indicator based on emission databases and dispersion modeling and estimated individual exposure through geocoding of home addresses .
+We measured peak expiratory flow rates and specific IgE for inhalant and food allergens at 4 years of age , and selected children with asthma symptoms up to 4 years of age ( n = 542 ) and controls ( n = 542 ) for genotyping .
+RESULTS Interaction effects on allergic sensitization were indicated between several GSTP1 SNPs and traffic NO(x) exposure during the first year of life ( p(nominal) < 0.001-0.06 ) .
+Children with Ile105Val/Val105Val genotypes were at increased risk of sensitization to any allergen when exposed to elevated levels of traffic NO(x) ( for a difference between the 5th and 95th percentile of exposure : odds ratio = 2.4 ; 95% confidence interval , 1.0-5.3 ) .
+In children with TNF-308 GA/AA genotypes , the GSTP1-NO(x) interaction effect was even more pronounced .
+We observed no conclusive interaction effects for ADRB2 .
+CONCLUSION The effect of air pollution from traffic on childhood allergy appears to be modified by GSTP1 and TNF variants , supporting a role of genes controlling the antioxidative system and inflammatory response in allergy .

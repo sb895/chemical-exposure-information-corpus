@@ -1,0 +1,9 @@
+BACKGROUND There is evidence for adverse effects of outdoor air pollution on lung function of children .
+Quantitative summaries of the effects of air pollution on lung function , however , are lacking due to large differences among studies .
+OBJECTIVES We aimed to study the association between residential exposure to air pollution and lung function in five European birth cohorts with a standardized exposure assessment following a common protocol .
+METHODS As part of the European Study of Cohorts for Air Pollution Effects ( ESCAPE ) we analyzed data from birth cohort studies situated in Germany , Sweden , the Netherlands , and the United Kingdom that measured lung function at 6-8 years of age ( n = 5,921 ) .
+Annual average exposure to air pollution [ nitrogen oxides ( NO2 , NOx ) , mass concentrations of particulate matter with diameters < 2.5 , < 10 , and 2.5-10 \u03bcm ( PM2.5 , PM10 , and PMcoarse ) , and PM2.5 absorbance ] at the birth address and current address was estimated by land-use regression models .
+Associations of lung function with estimated air pollution levels and traffic indicators were estimated for each cohort using linear regression analysis , and then combined by random effects meta-analysis .
+RESULTS Estimated levels of NO2 , NOx , PM2.5 absorbance , and PM2.5 at the current address , but not at the birth address , were associated with small decreases in lung function .
+For example , changes in forced expiratory volume in 1 sec ( FEV1 ) ranged from -0.86% ( 95% CI : -1.48 , -0.24% ) for a 20-\u03bcg/m3 increase in NOx to -1.77% ( 95% CI : -3.34 , -0.18% ) for a 5-\u03bcg/m3 increase in PM2.5 .
+CONCLUSIONS Exposure to air pollution may result in reduced lung function in schoolchildren .

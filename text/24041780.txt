@@ -1,0 +1,10 @@
+BACKGROUND Di-2-ethylhexylphthalate ( DEHP ) is an ester of phthalic acid commonly found in processed foods .
+DEHP may contribute to obesity and insulin resistance in children and adolescents , yet dietary exposures have been not been studied in this vulnerable subpopulation .
+OBJECTIVE To assess diet and its relation to urinary phthalates in a nationally representative sample of US children and adolescents .
+DESIGN Cross-sectional analysis of 24-h dietary recall and urinary phthalate metabolites from 2743 6-19 year olds participating in the 2003-8 National Health and Nutrition Examination Surveys .
+Regression analyses examined relationships of food consumption with log-transformed metabolite concentrations , examined as low-molecular weight , high molecular weight and di-2-ethylhexylphthalate categories , controlling for urinary creatinine , age group , body mass index category , race/ethnicity , caloric intake and gender .
+RESULTS We identified a -0.04% ( 95% CI : -0.08 , -0.01 ) increment in di-2-ethylhexylphthalate metabolite concentration/additional gram fruit consumption , a +0.01% increment/additional calorie dietary intake ( 95% CI : +0.003 , +0.02 ) , and a +0.09% ( 95% CI : +0.02 , +0.17 ) increment/additional gram meat/poultry/fish consumption .
+Soy consumption ( -0.40% increment/additional gram consumed , 95% CI : -0.66 , -0.14 ) was inversely associated with di-2-ethylhexylphthalate , while poultry ( +0.23% increment/additional gram consumed , 95% CI : +0.12 , +0.35 ) was positively associated .
+Findings were robust to examination of metabolite concentrations per unit body mass index and weight , and inclusion of fasting time .
+CONCLUSIONS Diet contributes to urinary phthalate concentrations in children and adolescents .
+Further study is needed to examine the implications of di-2-ethylhexylphthalate exposure , especially earlier in life , when more permanent metabolic changes may occur .

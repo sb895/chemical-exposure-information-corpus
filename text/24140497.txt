@@ -1,0 +1,9 @@
+Smoking cigarette increases levels of certain ethylated DNA adducts in certain tissues and urine .
+Cigarette smoking is a major risk factor of various cancers and DNA ethylation is involved in smoking-related carcinogenesis .
+Among the ethylated DNA adducts , O(2)-ethylthymidine ( O(2)-edT ) and the promutagenic O(4)-ethylthymidine ( O(4)-edT ) are poorly repaired and they can accumulate in vivo .
+Using an accurate , highly sensitive , and quantitative assay based on stable isotope dilution nanoflow liquid chromatography-nanospray ionization tandem mass spectrometry ( nanoLC-NSI/MS/MS ) , O(2)-edT , N(3)-edT ( N(3)-ethylthymidine ) , and O(4)-edT adducts in human salivary DNA were simultaneous detected and quantified .
+Saliva is easily accessible and available and it can be a potential target in searching for noninvasive biomarkers .
+Under the highly selected reaction monitoring ( H-SRM ) mode , salivary samples from 20 smokers and 13 nonsmokers were analyzed .
+Starting with 50 \u03bcg of DNA isolated from about 3.5 mL of saliva , levels of O(2)-edT , N(3)-edT , and O(4)-edT in 20 smokers ' salivary DNA samples were 5.3±6.2 , 4.5±5.7 , 4.2±8.0 in 10(8) normal nucleotides , respectively , while those in 13 nonsmokers were non-detectable .
+In addition , statistically significant correlations ( p<0.0001 ) were observed between levels of O(2)-edT and N(3)-edT ( \u03b3=0.7388 ) , between levels of O(2)-edT and O(4)-edT ( \u03b3=0.8839 ) , and between levels of N(3)-edT , and O(4)-edT ( \u03b3=0.7835 ) .
+To the best of our knowledge , this is the first report of detection and quantification of these three ethylthymidine adducts in human salivary DNA , which might be potential biomarkers for exposure to ethylating agents and possibly for cancer risk assessment .

@@ -1,0 +1,8 @@
+For estimating reliable exposure-response relations it is necessary that random variation in both the response and the exposure variables be sufficiently small .
+Variability in cumulative exposures can arise from uncertainties in self-reported work histories from interviews .
+In most epidemiologic surveys , the information gathered from questionnaires is used without knowing the validity or reproducibility of these data .
+This paper investigates the reliability of occupational histories reported by the same individuals on two occasions separated by 9 years in the US National Study of Coal Workers ' Pneumoconiosis and its implications on the exposure-response relation for simple coal workers ' pneumoconiosis .
+For 480 coal miners , from whom occupational histories were obtained twice ( in 1969-1971 and 1977-1981 ) , the reliability ( intraclass correlation coefficient ) of the cumulative exposures generated from each work history was 87% .
+Logistic model fitting of simple coal workers ' pneumoconiosis prevalence to the cumulative coal dust exposure produced almost identical results .
+After accounting for intersurvey variability in the occupational histories , the authors found that the exposure-response coefficients estimated from information reported at the surveys were attenuated by 12% .
+In epidemiologic studies , knowledge of the reproducibility of self-reported occupational history information is important to ascertain whether the true exposure effect is underestimated .

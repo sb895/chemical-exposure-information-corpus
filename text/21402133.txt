@@ -1,0 +1,12 @@
+This study elucidates the association of acrylamide metabolites , N-acetyl-S-(2-carbamoylethyl)-cysteine ( AAMA ) , N-acetyl-S-(1-carbamoyl-2-hydroxyethyl)-cysteine ( GAMA2 ) , and N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-cysteine ( GAMA3 ) in urine with genetic polymorphisms of the metabolic enzymes cytochrome P450 2E1 ( CYP2E1 ) , microsomal epoxide hydrolase ( mEH ) in exon 3 and exon 4 , glutathione transferase theta ( GSTT1 ) and mu ( GSTM1 ) , involved in the activation and detoxification of acrylamide ( AA ) in humans .
+Eighty-five workers were recruited , including 51 AA-exposed workers and 34 administrative staffs serve as controls .
+Personal air sampling was performed for the exposed workers .
+Each subject provided pre- and post-shift urine samples and blood samples .
+Urinary AAMA , GAMA2 and GAMA3 levels were simultaneously quantified using liquid chromatography-electronspray ionization/tandem mass spectrometry ( LC-ESI-MS/MS ) .
+CYP2E1 , mEH ( in exon 3 and exon 4 ) , GSTT1 , and GSTM1 were analyzed using polymerase chain reaction ( PCR ) .
+Our results reveal that AA personal exposures ranged from 4.37 × 10⁻³ to 113.61 μg/m³ with a mean at 15.36 μg/m³ .
+The AAMA , GAMA2 , and GAMA3 levels in the exposed group significantly exceeded those in controls .
+The GAMAs ( the sum of GAMA2 and GAMA3)/AAMA ratios , potentially reflecting the proportion of AA metabolized to glycidamide ( GA ) , varied from 0.003 to 0.456 , and indicate high inter-individual variability in the metabolism of AA to GA in this study population .
+Multivariate regression analysis demonstrates that GSTM1 genotypes significantly modify the excretion of urinary AAMA and the GAMAs/AAMA ratio , exon 4 of mEH was significantly associated with the urinary GAMAs levels after adjustment for AA exposures .
+These results suggest that mEH and/or GSTM1 may be associated with the formation of urinary AAMA and GAMAs .
+Further study may be needed to shed light on the role of both enzymes in AA metabolism .

@@ -1,0 +1,11 @@
+Brominated flame retardants ( BFRs ) are used in a wide variety of products such as electronic devices , upholstery and carpets and in insulation boards .
+The study presented here aimed to quantify the amounts of BFRs in house dust in Germany .
+For this purpose 20 residences ' dust samples were collected from vacuum cleaner bags and analysed with LC-MS/MS and simultaneously with GC/MS .
+Using GC/MS , the median ( 95th percentile ) concentrations of PBDEs ( sum of tetra- to hepta-congeners ) , BDE 209 , \u03a3-HBCD ( sum of three congeners ) , and decabromodiphenylethane ( DBDPE ) were 42ng/g ( 230ng/g ) , 950ng/g ( 3426ng/g ) , 335ng/g ( 1545ng/g ) , and 146ng/g ( 1059ng/g ) , respectively .
+Using LC-MS/MS some " novel " flame retardants were found in median concentrations of 343ng/g ( bis(2-ethyl-1-hexyl)tetrabromophthalate , TBPH ) , and 28ng/g ( tetrabromobisphenol A , TBBPA ) .
+Whilst 1,2-bis-(2,4,6-tribromophenoxy)ethane ( BTBPE ) and 2-ethyl-1-hexyl-2,3,4,5-tetrabromobenzoate ( EH-TBB ) could not be detected .
+Based on these measurements an exposure assessment for the sum of tetra- to heptabrominated congeners , BDE 209 , and \u03a3-HBCD resulted in a " high " daily intake for toddlers ( based on 95th percentiles ) of 1.2ng/kg b.w. , 0.69ng/kg b.w. , and 8.9ng/kg b.w. , respectively .
+For TBPH the " high " intake was calculated at 4.1ng/kg b.w. and for DBDPE at 5.3ng/kg b.w .
+A clear tendency was observed to apply " novel " BFRs in Germany .
+Moreover , the results suggest that the recent exposure to PBDEs and HBCD via house dust in Germany is well below the levels that are associated with health effects .
+For the " novel " brominated flame retardants such an assessment is not possible due to limited toxicological information .

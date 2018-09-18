@@ -1,0 +1,10 @@
+BACKGROUND Different PCB congeners and different mixtures of congeners have been demonstrated to have different biological actions .
+More complete characterization of congener profiles in exposure sources may assist in predicting health outcomes .
+METHODS Thirty-six ( 36 ) polychlorinated biphenyl ( PCB ) congeners were measured by gas chromatography isotope-dilution mass spectrometry ( IDMS ) in 314 serum samples from Native Americans in Wisconsin , Michigan and Minnesota .
+Five dietary groups were established based on the quantity and species of fish consumed and the waters from which the fish were caught .
+Multivariate statistical methods were able to resolve gender and dietary differences in PCB homologue and PCB congener patterns .
+RESULTS Females had higher proportions of lower chlorinated homologues , including a consistently higher proportion of pentaCB 118 .
+The relative presence of the very labile and volatile PCB 18 , above 1% of the total PCB in females from the minimal fish consumption and " other " groups , suggests possible exposure to PCBs in the atmosphere .
+The dietary group consuming predatory fishes from Lakes Michigan and Superior had the highest serum concentrations of total PCB ( mean of 3.1 ng/ml ) and the most distinct congener profile .
+The two dietary groups least dependent on fishing or fishing mostly from inland lakes ( non-Great Lakes ) had the lowest total PCB concentrations , both with means of 1.4 ng/ml .
+CONCLUSIONS These serum PCB concentrations were less than those found in earlier studies of fish consumers in the Great Lakes region and may reflect the decrease in PCBs in these lakes .

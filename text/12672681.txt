@@ -1,0 +1,9 @@
+The ULTRA Study , a study investigating the association between fine and ultrafine particulate air pollution and cardiorespiratory health , was conducted during the winter of 1998-1999 in Amsterdam , the Netherlands ; Erfurt , Germany ; and Helsinki , Finland .
+At each study center , a panel of elderly subjects with coronary heart disease recorded cardiac and respiratory symptoms in a diary .
+Exposure to ambient air pollution was characterized by measuring daily mass concentrations of particles smaller than 10 micro m ( PM(10) ) and 2.5 micro m ( PM(2.5) ) , number concentrations of ultrafine particles ( NC(0.01-0.1) ) , and gases .
+Odds ratios for the relation of symptoms to air pollution , adjusted for time trend , respiratory infections , and meteorologic variables , were mostly homogeneous across the centers .
+No association was found between air pollution and chest pain .
+A 10- micro g/m(3) increase in PM(2.5) was positively associated with the incidence of shortness of breath ( odds ratio ( OR ) = 1.12 , 95% confidence interval ( CI ) : 1.02 , 1.24 ) and with avoidance of activities ( OR = 1.09 , 95% CI : 0.97 , 1.22 ) .
+NC(0.01-0.1) was only associated with the prevalence of avoidance of activities ( OR = 1.10 , 95% CI : 1.01 , 1.19 ) .
+In conclusion , PM(2.5) was associated with some cardiac symptoms in three panels of elderly subjects .
+PM(2.5 )was more strongly related to cardiorespiratory symptoms than ultrafine particles were .

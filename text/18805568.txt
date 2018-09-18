@@ -1,0 +1,8 @@
+Seasonal variation in concentrations of two different disinfection by-product groups , trihalomethanes ( THMs ) and haloacetonitriles ( HANs ) , was investigated in tap water samples collected from five sampling points ( one groundwater and four surface water sources ) in Izmir , Turkey .
+Estimates of previously published carcinogenic and non-carcinogenic risks through oral exposure to THMs were re-evaluated using a probabilistic approach that took the seasonal concentration variation into account .
+Chloroform , bromoform , dibromochloromethane and dichloroacetonitrile were the most frequently detected compounds .
+Among these , chloroform was detected with the highest concentrations ranging from 0.03 to 98.4 microg/L .
+In tap water , at the groundwater supplied sampling point , brominated species , bromoform and dibromoacetonitrile , were detected at the highest levels most probably due to bromide ion intrusion from seawater .
+The highest total THM and total HAN concentrations were detected in spring while the lowest in summer and fall .
+The annual average total THM concentration measured at one of the surface water supplied sampling points exceeded the USEPA's limit of 80 microg/L .
+While all non-carcinogenic risks due to exposure to THMs in Izmir drinking water were negligible , carcinogenic risk levels associated with bromodichloromethane and dibromochloromethane were higher than one in million .

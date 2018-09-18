@@ -1,0 +1,9 @@
+BACKGROUND Previous research suggests perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) may be associated with adverse pregnancy outcomes .
+OBJECTIVE We conducted a population-based study of PFOA and PFOS and birth outcomes from 2005 through 2010 in a Mid-Ohio Valley community exposed to high levels of PFOA through drinking-water contamination .
+METHODS Women provided serum for PFOA and PFOS measurement in 2005-2006 and reported reproductive histories in subsequent follow-up interviews .
+Reported singleton live births among 1,330 women after 1 January 2005 were linked to birth records ( n = 1,630 ) to identify the outcomes of preterm birth ( < 37 weeks gestation ) , pregnancy-induced hypertension , low birth weight ( < 2,500 g ) , and birth weight ( grams ) among full-term infants .
+RESULTS We observed little or no evidence of association between maternal serum PFOA or PFOS and preterm birth ( n = 158 ) or low birth weight ( n = 88 ) .
+Serum PFOA and PFOS were both positively associated with pregnancy-induced hypertension ( n = 106 ) , with adjusted odds ratios ( ORs ) per log unit increase in PFOA and PFOS of 1.27 ( 95% CI : 1.05 , 1.55 ) and 1.47 ( 95% CI : 1.06 , 2.04 ) , respectively , but associations did not increase monotonically when categorized by quintiles .
+Results of subanalyses restricted to pregnancies conceived after blood collection were consistent with the main analyses .
+There was suggestion of a modest negative association between PFOS and birth weight in full-term infants ( -29 g per log unit increase ; 95% CI : -66 , 7 ) , which became stronger when restricted to births conceived after the blood sample collection ( -49 g per log unit increase ; 95% CI : -90 , -8 ) .
+CONCLUSION Results provide some evidence of positive associations between measured serum perfluorinated compounds and pregnancy-induced hypertension and a negative association between PFOS and birth weight among full-term infants .

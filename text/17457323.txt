@@ -1,0 +1,16 @@
+This study presents and evaluates an expert group's assessment of exposure to carcinogens for defined job categories in Norway's offshore petroleum industry , 1970-2005 , to provide exposure information for a planned cohort study on cancer .
+Three university and five industry experts in occupational hygiene individually assessed the likelihood of exposure to 1836 combinations of carcinogens ( n=17 ) , job categories ( n=27 ) and time periods ( n=4 ) .
+In subsequent plenary discussions , the experts agreed on exposed combinations .
+Agreement between the individual and the panel assessments was calculated by Cohen's kappa index .
+Using the panel assessment as reference , sensitivity and specificity were estimated .
+The eight experts assessed 63% of the 1836 combinations in plenary , resulting in 265 ( 14% ) convened exposed combinations .
+Chlorinated hydrocarbons , benzene and inhalation of mineral oils had the highest number of exposed job categories ( n=14 , 9 and 10 , respectively ) .
+The job categories classified as exposed to the highest numbers of carcinogens were the mechanics ( n=10 ) , derrick workers ( n=6 ) and process technicians ( n=5 ) .
+The agreement between the experts ' individual assessments and the panel assessment was kappa=0.53-0.74 .
+The sensitivity was 0.55-0.86 and specificity 0.91-0.97 .
+For these parameters , there were no apparent differences between the university experts and the industry experts .
+The resulting 265 of 1836 possible exposure combinations convened as " exposed " by expert assessment is presented in this study .
+The experts ' individual ratings highly agreed with the succeeding panel assessment .
+Correlation was found between years of experience of the raters and agreement with the panel .
+The university experts and the industry experts ' assessments had no apparent differences .
+Further validation of the exposure assessment is suggested , such as by new sampling data or observational studies .

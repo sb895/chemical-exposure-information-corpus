@@ -1,0 +1,10 @@
+Alveolar breath sampling was used to assess trihalomethane ( THM ) exposures encountered by collegiate swimmers during a typical 2-hr training period in an indoor natatorium .
+The breath samples were collected at regular intervals before , during , and for 3 hr after a moderately intense training workout .
+Integrated and grab whole-air samples were collected during the training period to help determine inhalation exposures , and pool water samples were collected to help assess dermal exposures .
+Resulting breath samples collected during the workout demonstrated a rapid uptake of two THMs ( chloroform and bromodichloromethane ) , with chloroform concentrations exceeding the natatorium air levels within 8 min after the exposure began .
+Chloroform levels continued to rise steeply until they were more than two times the indoor levels , providing evidence that the dermal route of exposure was relatively rapid and ultimately more important than the inhalation route in this training scenario .
+Chloroform elimination after the exposure period was fitted to a three compartment model that allowed estimation of compartmental half-lives , resulting minimum bloodborne dose , and an approximation of the duration of elevated body burdens .
+We estimated the dermal exposure route to account for 80% of the blood chloroform concentration and the transdermal diffusion efficiency from the water to the blood to in excess of 2% .
+Bromodichloromethane elimination was fitted to a two compartment model which provided evidence of a small , but measurable , body burden of this THM resulting from vigorous swim training .
+These results suggest that trihalomethane exposures for competitive swimmers under prolonged , high-effort training are common and possibly higher than was previously thought and that the dermal exposure route is dominant .
+The exposures and potential risks associated with this common recreational activity should be more thoroughly investigated .

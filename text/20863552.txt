@@ -1,0 +1,12 @@
+A cross sectional study using environmental and biological samples was implemented to assess the association between arsenic ( As ) concentrations in the environment and urinary As levels of residents living in an area where the soil is naturally As rich .
+As was measured in drinking water , atmospheric particulate matter , and soil and a geographic information system was used to assign environmental concentrations closest to the participants ' dwellings and the sum of inorganic As and metabolites in urine samples .
+The only potential source of As environmental contamination was from soil with a range of 13-131 mg As/kg of dry matter .
+As(V) was the only species present among As extracted from the analyzed soil samples .
+The chemical extraction showed a poor mobility of As soil .
+There was no difference between child and teenager , and adult urinary As concentrations , though men had higher urinary As concentrations than women ( p<0.001 ) .
+Given the important differences in lifestyle between 7-18 year olds , men , and women , these groups were analyzed separately .
+Whilst we were unable to find a stable model for the 7-18 year old group , for the adult men group we found that seafood consumption in the 3 days prior to the investigation ( p=0.02 ) , and beer ( p=0.03 ) and wine consumption in the 4 days before the study , were associated with As urinary levels ( \u03bcg/L ) .
+In adult women , creatinine was the only variable significantly associated with As urinary concentration ( \u03bcg/L ) .
+The concentrations we measured in soils were variable and although high , only moderately so and no link between As concentrations in the soil and urinary As concentrations could be found for either men or women .
+Some individual factors explained half of the variability of adult men urinary As levels .
+The unexplained part of the variability should be searched notably in As mobility in soil and uncharacterized human behavior .

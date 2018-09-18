@@ -1,0 +1,9 @@
+Fluorescence in situ hybridization ( FISH ) is a powerful new technique that allows numerical chromosome aberrations ( aneuploidy ) to be detected in interphase cells .
+In previous studies , FISH has been used to demonstrate that the benzene metabolites hydroquinone and 1,2,4-benzenetriol induce aneuploidy of chromosomes 7 and 9 in cultures of human cells .
+In the present study , we used an interphase FISH procedure to perform cytogenetic analyses on the blood cells of 43 workers exposed to benzene ( median = 31 ppm , 8-hr time-weighted average ) and 44 matched controls from Shanghai , China .
+High benzene exposure ( > 31 ppm , n = 22 ) increased the hyperdiploid frequency of chromosome 9 ( p < 0.01 ) , but lower exposure ( < or = 31 ppm , n = 21 ) did not .
+Trisomy 9 was the major form of benzene-induced hyperdiploidy .
+The level of hyperploidy in exposed workers correlated with their urinary phenol level ( r = 0.58 , p < 0.0001 ) , a measure of internal benzene dose .
+A significant correlation was also found between hyperdiploidy and decreased absolute lymphocyte count , an indicator of benzene hematotoxicity , in the exposed group ( r = -0.44 , p = 0.003 ) but not in controls ( r = -0.09 , p = 0.58 ) .
+These results show that high benzene exposure induces aneuploidy of chromosome 9 in nondiseased individuals , with trisomy being the most prevalent form .
+They further highlight the usefulness of interphase cytogenetics and FISH for the rapid and sensitive detection of aneuploidy in exposed human populations .

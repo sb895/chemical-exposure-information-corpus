@@ -1,0 +1,11 @@
+BACKGROUND Welding-associated air pollutants negatively affect the health of exposed workers ; however , their molecular mechanisms in causing disease remain largely unclear .
+Few studies have systematically investigated the systemic toxic effects of welding fumes on humans .
+OBJECTIVES To explore the effects of welding fumes on the plasma metabolome , and to identify biomarkers for risk assessment of welding fume exposure .
+METHODS The two-stage , self-controlled exploratory study included 11 boilermakers from a 2011 discovery panel and 8 boilermakers from a 2012 validation panel .
+Plasma samples were collected pre- and post-welding fume exposure and analyzed by chromatography/mass spectrometry .
+RESULTS Eicosapentaenoic or docosapentaenoic acid metabolic changes post-welding were significantly associated with particulate ( PM2.5 ) exposure ( p<0.05 ) .
+The combined analysis by linear mixed-effects model showed that exposure was associated with a statistically significant decline in metabolite change of eicosapentaenoic acid [ \u03b2(95% CI ) = -0.013(-0.022 \u2248 -0.004 ) ; p = 0.005 ] , docosapentaenoic acid n3 [ \u03b2(95% CI ) = -0.010(-0.018 \u2248 -0.002 ) ; p = 0.017 ] , and docosapentaenoic acid n6 [ \u03b2(95% CI ) = -0.007(-0.013 \u2248 -0.001 ) ; p = 0.021 ] .
+Pathway analysis identified an association of the unsaturated fatty acid pathway with exposure ( p Study-2011 = 0.025 ; p Study-2012 = 0.021 ; p Combined = 0.009 ) .
+The functional network built by these fatty acids and their interactive genes contained significant enrichment of genes associated with various diseases , including neoplasms , cardiovascular diseases , and lipid metabolism disorders .
+CONCLUSIONS High-dose exposure of metal welding fumes decreases unsaturated fatty acids with an exposure-response relationship .
+This alteration in fatty acids is a potential biological mediator and biomarker for exposure-related health disorders .

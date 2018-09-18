@@ -1,0 +1,12 @@
+BACKGROUND AND OBJECTIVE Adiponectin is an adipose tissue-derived specific protein that has a role in energy homeostasis , that has a protective role against the development of insulin resistance and atherosclerosis and that exhibits anti-inflammatory properties .
+We investigated serum adiponectin as a biomarker of systemic inflammatory response and its relation with leptin , C-reactive protein ( CRP ) , erythrocyte sedimentation rate ( ESR ) and nitric oxide ( NO ) in chronic obstructive pulmonary disease ( COPD ) patients .
+MATERIAL AND METHODS We studied 36 male patients with COPD ( 15 stable and 21 exacerbated ) and 17 age and sex-matched healthy subjects .
+The adiponectin and leptin levels were measured by enzyme-linked immunosorbent assay .
+Serum CRP levels were measured using the nephelometric method .
+ESR was determined using the Westergren method and NO by the cadmium reduction method .
+RESULTS Adiponectin levels in COPD patients were significantly higher than those in control subjects ( p<0.001 ) , whereas there were no differences in leptin or NO levels .
+Serum levels of CRP , ESR and adiponectin were significantly higher in the exacerbated COPD patients compared to the stable group ( p<0.001 , p = 0.033 and p = 0.024 , respectively ) , whereas the differences in leptin and NO levels were not significant .
+Serum levels of adiponectin were not correlated with FEV(1) , FEV(1)/FVC , dyspnoea score , BMI or other inflammatory parameters in the stable COPD group .
+CRP and ESR correlated negatively with FEV(1) in the stable COPD group .
+CONCLUSIONS Adiponectin may be a marker of low-grade systemic inflammatory response in COPD .
+A further rise in serum adiponectin in the exacerbation period denotes that this may also be a biomarker of the exacerbation phase as well as CRP and ESR .

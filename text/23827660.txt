@@ -1,0 +1,12 @@
+Cadmium exposure is associated with increased urinary calcium excretion .
+Hypercalciuria is recognised as a major risk factor for kidney stone formation .
+Increased prevalence of kidney stones among those occupationally exposed to cadmium has previously been suggested .
+Food is the main source of cadmium exposure in the general population with tobacco representing an important additional source among smokers .
+We aimed to assess the association between dietary cadmium exposure and kidney stone incidence in two large population-based , prospective cohorts of men ( Cohort of Swedish Men ; COSM ) and women ( The Swedish Mammography Cohort ; SMC ) .
+Those with a history of kidney stones were excluded .
+At baseline 1997 , men ( 45-79yrs ) and women ( 48 to 83yrs ) , completed a self-administered questionnaire on diet and lifestyle .
+During 12years of follow-up , we ascertained 707 cases of kidney stones in men and 290 in women through linkage of the cohorts to the national inpatient and outpatient registers .
+Individual dietary cadmium exposure was estimated using dietary data and concentrations of cadmium in food .
+Hazard ratios ( HR ) were calculated using the Cox proportional hazards regression models with adjustment for other risk factors .
+Estimated dietary cadmium exposure was not associated with increased kidney stone incidence among men HR 0.97 ( 95% confidence interval ( CI ) : 0.77-1.23 ) or women HR 0.99 ( 95% CI : 0.89-1.43 ) , comparing the highest tertile with the lowest .
+In conclusion , our results do not support a strong association between dietary cadmium and kidney stone risk at the exposure levels seen in the general population .

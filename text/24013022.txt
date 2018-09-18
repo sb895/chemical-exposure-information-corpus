@@ -1,0 +1,9 @@
+Perfluoroalkyl acids ( PFAAs ) are persistent organic pollutants that are used in a wide range of consumer products .
+Recent epidemiological studies have shown that prenatal exposure to toxic levels of PFAAs in the environment may adversely affect fetal growth and humoral immune response in infants and children .
+Here we have characterized levels of prenatal exposure to PFAA between 2003 and 2011 in Hokkaido , Japan , by measuring PFAA concentrations in plasma samples from pregnant women .
+The study population comprised 150 women who enrolled in a prospective birth cohort study conducted in Hokkaido .
+Eleven PFAAs were measured in maternal plasma samples using simultaneous analysis by ultra-performance liquid chromatography coupled to triple quadrupole tandem mass spectrometry .
+At the end of the study , in 2011 , age- and parity-adjusted mean concentrations of perfluorooctanoic acid ( PFOA ) , perfluorononanoic acid ( PFNA ) , perfluorodecanoic acid ( PFDA ) , perfluoroundecanoic acid ( PFUnDA ) , perfluorododecanoic acid ( PFDoDA ) , perfluorotridecanoic acid ( PFTrDA ) , perfluorohexane sulfonate ( PFHxS ) , and perfluorooctane sulfonate ( PFOS ) were 1.35ng/mL , 1.26ng/mL , 0.66ng/mL , 1.29ng/mL , 0.25ng/mL , 0.33ng/mL , 0.28ng/mL , and 3.86ng/mL , respectively .
+Whereas PFOS and PFOA concentrations declined 8.4%/y and 3.1%/y , respectively , PFNA and PFDA levels increased 4.7%/y and 2.4%/y , respectively , between 2003 and 2011 .
+PFUnDA , PFDoDA , and PFTrDA were detected in the vast majority of maternal samples , but no significant temporal trend was apparent .
+Future studies must involve a larger population of pregnant women and their children to determine the effects of prenatal exposure to PFAA on health outcomes in infants and children .

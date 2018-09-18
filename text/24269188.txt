@@ -1,0 +1,10 @@
+The purpose of this study was to investigate possible associations between concentrations of hydroxylated PCBs ( OH-PCBs ) and PCBs in the serum of women in the first trimester of pregnancy and thyroid hormone levels and body size of newborn infants in 79 mother-neonate pairs .
+We measured 16 OH-PCB isomers and 29 PCB isomers in the serum of Japanese women sampled at 11.1±1.9 weeks of gestation .
+The concentrations of free thyroxine ( fT4 ) and thyroid stimulating hormone ( TSH ) were measured in whole blood spots on filter papers sampled from the neonates .
+Dietary and lifestyle information of the mothers were obtained by self-administered questionnaires .
+Geometric mean ( GM ) concentrations of the sum of 16 OH-PCB isomers and of 29 PCB isomers were 1.2×10(2)pg/g wet wt. and 69ng/g lipid wt. , respectively , in maternal serum .
+The GM concentrations of neonatal fT4 and TSH were 2.21ng/dL and 1.37\u03bcIU/mL , respectively .
+Multiple regression analysis was performed using measures of neonatal thyroid hormones as dependent variable and serum levels of OH-PCBs/PCBs and other potential covariates ( age , pre-pregnancy weight , smoking status , etc. ) as independent variables .
+The results demonstrated a significant positive association between the concentrations of some OH-PCB isomers and that of neonatal TSH .
+There were no significant associations between levels of PCBs and neonatal fT4 , or between OH-PCBs/PCBs and body size of neonates .
+We conclude that exposure to/body burden of OH-PCBs , but not PCBs , at environmental levels during the first trimester of pregnancy can affect neonatal thyroid hormone status .

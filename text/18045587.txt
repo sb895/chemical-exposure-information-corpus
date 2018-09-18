@@ -1,0 +1,10 @@
+Contrast sensitivity ( CS ) was evaluated in 41 former workers from a lamp manufacturing plant who were on disability retirement due to exposure to mercury and 14 age-matched controls .
+The CS was measured monocularly using the sweep visual evoked potential ( sVEP ) paradigm at 6 spatial frequencies ( 0.2 , 0.8 , 2.0 , 4.0 , 15.0 , and 30 cpd ) .
+Statistical difference ( p<0.05 ) was found between the controls and the patient right and left eyes for 2.0 and 4.0 cpd .
+According the results in those spatial frequencies the eyes were classified in best and worst .
+Statistical differences were found between the controls and the best eyes for 2.0 and 4.0 cpd and for 0.8 , 2.0 , and 4.0 cpd for their worst eyes .
+No correlation was found between CS results and the time of exposure ( mean=8.9 yr+/-4.1 ) , time away from the mercury source ( mean=6.0 yr+/-3.9 ) , urinary mercury level at the time of work ( mean=40.6 microg/g+/-36.3 ) or with the mercury level at the CS measurement time ( mean=1.6 microg/g+/-1.1 ) .
+We show the first evidence of a permanent impairment in CS measured objectively with the sVEP .
+Our data complement the previous psychophysical works reporting a diffuse impairment in the CS function showing a CS reduction in the low to middle spatial frequencies .
+In conclusion , non-reversible CS impairment was found in occupational exposure to mercury vapor .
+We suggest that CS measurement should be included in studies of the mercury effects of occupational exposure .

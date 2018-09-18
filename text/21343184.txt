@@ -1,0 +1,8 @@
+BACKGROUND Proteinuria has been recognized as a marker for an increased risk of chronic renal disease .
+It is unclear whether arsenic ( As ) exposure from drinking water is associated with proteinuria .
+METHODS We evaluated the association between As exposure from drinking water and proteinuria in 11,122 participants in the Health Effects of Arsenic Longitudinal Study ( HEALS ) .
+Proteinuria was detected by urinary dipstick tests at baseline and at 2-year intervals .
+As exposure variables included baseline well As and changes in urinary As during follow-up modelled as time-dependent variables in the analyses .
+RESULTS At baseline , well As was positively related to prevalence of proteinuria ; prevalence odds ratios ( PORs ) for proteinuria in increasing quintiles of well As ( \u2264 7 , 8-39 , 40-91 , 92-179 and 180-864 µg/l ) were 1.00 ( ref ) , POR 0.99 [ 95% confidence interval ( CI ) 0.77-1.27 ] , POR 1.23 ( 95% CI 0.97-1.57 ) , POR 1.50 ( 95% CI 1.18-1.89 ) and POR 1.59 ( 95% CI 1.26-2.00 ) ( P for trend <0.01 ) .
+Hazard ratios for incidence of proteinuria were POR 0.83 ( 95% CI 0.67-1.03 ) and POR 0.91 ( 95% CI 0.74-1.12 ) for participants with a decreasing level of >70 and 17-70 µg/l in urinary As over time , respectively , and were POR 1.17 ( 95% CI 0.97-1.42 ) and POR 1.42 ( 95% CI 1.16-1.73 ) for participants with an increasing level of 16-68 and >68 µg/l in urinary As over time , respectively , compared with the group with relatively little changes in urinary As as the reference group ( urinary As -16 to 15 µg/l ) .
+CONCLUSION The findings suggest that there are adverse effects of As exposure on the risk of proteinuria and the effects are modifiable by recent changes in As exposure .

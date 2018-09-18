@@ -1,0 +1,11 @@
+BACKGROUND Nitrate is a widespread contaminant of drinking water , but its potential health effects are unclear .
+In the body , nitrate is reduced to nitrite , which can react with amines and amides by nitrosation to form N-nitroso compounds , known animal carcinogens .
+N-nitroso compound formation is inhibited by certain nutrients , such as vitamin C , and increased by meat intake .
+METHODS We investigated the association of nitrate in public water supplies with incident colon and rectum cancers in a case-control study conducted in Iowa from 1986 to 1989 .
+Nitrate levels in Iowa towns were linked to the participants ' water source histories .
+We focused our analyses on the period from 1960 onward , during which nitrate measurements were more frequent , and we restricted analyses to those persons with public water supplies that had nitrate data ( actual or imputed ) for greater than 70% of this time period ( 376 colon cancer cases , 338 rectum cancer cases , and 1244 controls ) .
+RESULTS There were negligible overall associations of colon or rectum cancers with measures of nitrate in public water supplies , including average nitrate and the number of years with elevated average nitrate levels .
+For more than 10 years with average nitrate greater than 5 mg/L , the odds ratio ( OR ) for colon cancer was 1.2 ( 95% confidence interval [ CI ] = 0.9-1.6 ) and for rectum the OR was 1.1 ( CI = 0.7-1.5 ) .
+However , nitrate exposure ( >10 years with average nitrate >5 mg/L ) was associated with increased colon cancer risk among subgroups with low vitamin C intake ( OR = 2.0 ; CI = 1.2-3.3 ) and high meat intake ( OR = 2.2 ; CI = 1.4-3.6 ) .
+These patterns were not observed for rectum cancer .
+CONCLUSIONS Our analyses suggest that any increased risk of colon cancer associated with nitrate in public water supplies might occur only among susceptible subpopulations .

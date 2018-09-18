@@ -1,0 +1,15 @@
+Color vision was examined by the Lanthony-D-15 desaturated test in two groups of workers occupationally exposed to toluene and in a control group .
+Biological parameters of toluene exposure were analyzed : toluene in air and in venous blood , orthocresol , and hippuric acid in urine after workshift .
+The first exposed group , Group E1 , comprised 41 workers ( toluene exposure ranged from 11.30 to 49.30 ppm ) , and the second exposed group , Group E2 , comprised 32 workers ( toluene exposure ranged from 66.00 to 250.00 ppm ) .
+The nonexposed group , Group NE , comprised 83 subjects .
+Each group was divided into two subgroups ; alcohol consumers and nonconsumers .
+Color vision loss was expressed as a color confusion index ( CCI ) and as age and alcohol intake-adjusted color confusion index ( AACCI ) .
+Significantly higher values of CCI and AACCI ( both P < 0.0001 ) in Group E2 in comparison to Group NE , and significantly higher CCI ( P < 0.0001 ) and AACCI ( P < 0.05 ) values in Group E2 in comparison to Group E1 were established .
+The significant difference in CCI value between alcohol consumers and nonconsumers was established only in Group NE ( P < 0.05 ) .
+In Group NE significant correlation was found between CCI value as a dependent and age and alcohol intake as independent cofactors ( R2 = 0.45 ; P = 0.0000 ) .
+In Group E2 significant correlation was established between CCI as a dependent factor and age , toluene in air , and alcohol intake ( R2 = 0.72 ; P = 0.0001 ) , or between CCI as dependent and age , toluene in blood and alcohol intake as independent cofactors ( R2 = 0.68 ; P = 0.0002 ) .
+In Group E1 significant correlation was established only between CCI and age ( P <0.005 ) .
+In Group E2 , AACCI value significantly correlated with toluene in air ( P < 0.0001 ) , toluene in blood ( r < 0.0005 ) , orthocresol ( P < 0.005 ) and hippuric acid ( P < 0.005 ) in urine after workshift .
+There were no differences between smokers and nonsmokers in CCI values in the examined groups .
+Results of this study indicate that toluene in exposed workers can impair color vision .
+The role of alcohol intake and age influence on color vision loss cannot be ignored in such workers .

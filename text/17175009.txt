@@ -1,0 +1,5 @@
+A role of cadmium exposure in prostate cancer etiology has been suggested by epidemiologic and laboratory studies , but conclusive evidence on this topic is still lacking .
+We investigated the relation between cadmium exposure , estimated by determining toenails cadmium levels , and prostate cancer risk in forty patients newly diagnosed with prostate cancer and fifty-eight hospital controls recruited in two provinces from southern and northern Italy .
+We found an excess cancer risk in subjects in the third and fourth ( highest ) quartiles of toenail cadmium concentration ( odds ratio 1.3 and 4.7 , respectively ) compared with subjects in the bottom quartile .
+Results were basically unchanged when limiting the analysis to each province or entering toenail cadmium concentrations as continuous values in the regression model ( P=0.004 ) .
+Despite the limited statistical stability of the point estimates , these findings appear to support the hypothesis that cadmium exposure increases prostate cancer risk .

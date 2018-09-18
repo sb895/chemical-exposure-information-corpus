@@ -1,0 +1,8 @@
+A pilot dietary experiment was conducted over 10 days to evaluate whether a simple yet often underutilized approach of constructing mass balance of arsenic metabolites can be used to assess in vivo bioaccessibility of arsenic in cooked rice .
+Two volunteers were involved in this study .
+The quantity of drinking water , food and urine samples , together with arsenic concentration and speciation of these samples was monitored to construct a mass balance of arsenic intake and excretion .
+In the first five days , the two volunteers on a wheat diet had an average arsenic daily intake of 15.4+/-2.6microg and 9.6+/-0.7microg , respectively .
+In the next five days , these volunteers switched to a rice diet , increasing the average arsenic daily intake to 36.4+/-2.8microg and 34.1+/-7.7microg , respectively .
+Daily excretion of urinary arsenic , mostly as dimethylarsenic acid ( DMA ) , doubled from 9.8+/-0.3microg to 21.0+/-3.0microg , and from 6.5+/-0.8microg to 11.6+/-4.5microg , respectively .
+The percentage of ingested arsenic excreted in urine remained constant at approximately 58% for one volunteer before and after the rice diet , and was approximately 69% for another .
+Mass balance established during a controlled dietary experiment over 10 days is shown to be a useful approach to evaluate in vivo bioaccessibility and metabolism of arsenic uptake from diet and is applicable to study with more subjects .

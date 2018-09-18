@@ -1,0 +1,10 @@
+++Epidemiologic studies have focused attention on the health effects of fine particulate air pollutants <2.5 microm in diameter ( PM2.5 ) .
+To further characterize the potential effects of fine particles , we investigated the relationship of air pollution to mortality in Mexico City during 1993-1995 .
+The concentration of PM2.5 was measured on a 24-hr integrated basis ; concentrations of NO2 and ozone were measured hourly and reduced to 24-hr means .
+Daily mortality was determined from death registration records , and Poisson regression was used to model daily death counts as a function of air pollutant levels on the same and previous days , while controlling for temperature and periodic cycles .
+Without taking other air pollutants into account , a 10 microg/m3 increase in the level of PM2.5 was associated with a 1.4% increase in total mortality , both on the current day and 4 days after exposure [ 95% confidence interval ( CI ) , 0.2-2.5 ] .
+An equivalent increase in PM2.5 was also associated with somewhat larger excesses of deaths among people over 65 years of age and from cardiovascular and respiratory causes , which occurred after a lag of 4 days .
+The mean concentration of ozone over a 2-day period was associated with a 1.8% increase in mortality from cardiovascular diseases .
+NO2 was not consistently related to mortality .
+Fine particles had an independent effect on mortality when modeled simultaneously with other pollutants , and the association of ozone with cardiovascular mortality was strengthened after adjusting for NO2 and PM2.5 .
+These results support previous findings that urban air pollution at current levels leads to excess mortality and suggest that fine particles may play a causal role in producing that excess .

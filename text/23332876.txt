@@ -1,0 +1,7 @@
+Brescia ( North Italy ) is located in a highly industrialized area with diffuse environmental pollution by polychlorinated biphenyls ( PCBs ) and with a high incidence of hepatocellular carcinoma ( HCC ) .
+We aimed to investigate the concentration of PCBs congeners in serum , liver and adipose tissue of patients with HCC living in this area .
+We enrolled prospectively 101 HCC incident cases .
+Lipid-adjusted PCBs concentration of single congeners and total PCBs concentration , computed as the sum of 24 PCBs congeners , were measured in the serum of all subjects and in the liver and abdominal fat of 59 HCC cases undergoing surgery .
+A high correlation was found between PCBs serum and liver ( Spearman r=0.79 ) , serum and fat ( r=0.91 ) , and liver and fat ( r=0.75 ) concentrations .
+Serum PCBs concentration in HCC patients did not vary according to demographical , clinical or epidemiological variables , apart from age , as PCBs concentration increased linearly with the subject's age .
+This study confirms that serum lipid-adjusted PCBs concentration is a valid measure of PCBs body storage and is highly correlated with PCBs concentration detected in other biological samples .

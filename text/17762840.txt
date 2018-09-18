@@ -1,0 +1,13 @@
+The presence of mercury in the environment is widespread and persistent , but the extent of exposure of Pakistanis to mercury is virtually unknown .
+We collected toenail and scalp hair samples from 158 subjects ( 83 males and 75 females ) residing in Lahore and its suburbs .
+We also conducted a questionnaire survey and personal interviews to obtain information on demographic factors , lifestyles , and socioeconomic factors , among others .
+Mercury concentration in hair samples was measured by cold vapor atomic absorption spectrometry ( CVAAS ) .
+In addition , the concentration of selenium in the toenail and hair samples was determined by inductively coupled plasma mass spectrometry ( ICP-MS ) .
+The mean hair mercury concentration was 0.45 ppm ( 95% CI = 0.34-0.60 ) and did not show correlation with fish consumption , age , area of origin , or present residence .
+Mercury concentration was higher ( p = 0.021 ) in females than in males , and was also higher in subjects with 11 or more years of education ( p for trend = 0.013 ) .
+There were 13 subjects with mercury concentration higher than 10 ppm .
+Most of them were young females and a few were middle-aged males .
+When the analysis was confined to subjects with mercury concentrations lower than 0.6 ppm , the amount of fish consumed showed correlation with hair mercury concentration with a marginal statistical significance ( p = 0.065 ) .
+The geometric means of selenium in hair and toenails were 0.87 and 1.01 ppm , respectively .
+Mercury and selenium concentrations in hair showed no correlation ( correlation coefficient = 0.057 , p = 0.478 ) .
+This study shows that mercury exposure levels among residents in Lahore and its suburban areas are relatively low , except among outliers , wherein mercury exposure might be brought about by the use of mercury-containing soaps .

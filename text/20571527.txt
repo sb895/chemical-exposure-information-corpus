@@ -1,0 +1,12 @@
+Human biomonitoring data show that exposure to perchlorate is widespread in the United States .
+The predominant source of intake is food , whereas drinking water is a less frequent and far smaller contributor .
+We used spot urine samples for over 2700 subjects and estimated 24 h intake using new creatinine adjustment equations .
+Merging data from surveys of national health ( NHANES ) with drinking water monitoring ( UCMR ) , we categorized survey participants according to their potential exposure through drinking water or food .
+By subtracting daily food doses of perchlorate from the oral reference dose ( RfD ) , we derive an allowances for perchlorate in tap water for several populations .
+The calculated mean food perchlorate dose in the United States was 0.081\u2009\u03bcg/kg/day compared to 0.101\u2009\u03bcg/kg/day for those who also had a potential drinking water component .
+The calculated 95th percentile doses , typically falling between 0.2 and 0.4\u2009\u03bcg/kg/day , were well below the RfD ( 0.7\u2009\u03bcg/kg/day ) in all populations analyzed .
+Children aged 6-11 years had the highest mean perchlorate doses in food ( 0.147\u2009\u03bcg/kg/day ) , with an additional water contribution of only 0.003\u2009\u03bcg/kg/day representing just 2% of exposure .
+Pregnant women had a mean food dose of 0.093 vs 0.071\u2009\u03bcg/kg/day for all women of reproductive age .
+At the 95th percentile intake for both the total population and women of child-bearing age ( 15-44 ) , the perchlorate contribution from food was 86% and from drinking water 14% ( respectively , 30% and 5% of the RfD ) .
+At the mean for the same groups , the food to water contribution ratio is approximately 80:20 .
+We calculate that an average 66\u2009kg pregnant woman consuming a 90th percentile food dose ( 0.198\u2009\u03bcg/kg/day ) could also drink the 90th percentile of community water for pregnant women ( 0.033\u2009l/kg/day ) containing 15\u2009\u03bcg/l perchlorate without exceeding the 0.7\u2009\u03bcg/kg/day reference dose .

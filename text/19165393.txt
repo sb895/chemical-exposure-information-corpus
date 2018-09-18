@@ -1,0 +1,9 @@
+BACKGROUND A previous study from our laboratory showed that polybrominated diphenyl ethers ( PBDEs ) were metabolized to hydroxylated PBDEs ( HO-PBDEs ) in mice and that para-HO-PBDEs were the most abundant and , potentially , the most toxic metabolites .
+OBJECTIVE The goal of this study was to determine the concentrations of HO-PBDEs in blood from pregnant women , who had not been intentionally or occupationally exposed to these flame retardants , and from their newborn babies .
+METHODS Twenty human blood samples were obtained from a hospital in Indianapolis , Indiana , and analyzed for both PBDEs and HO-PBDEs using electron-capture negative-ionization gas chromatographic mass spectrometry .
+RESULTS The metabolite pattern of HO-PBDEs in human blood was quite different from that found in mice ; 5-HO-BDE-47 and 6-HO-BDE-47 were the most abundant metabolites of BDE-47 , and 5'-HO-BDE-99 and 6'-HO-BDE-99 were the most abundant metabolites of BDE-99 .
+The relative concentrations between precursor and corresponding metabolites indicated that BDE-99 was more likely to be metabolized than BDE-47 and BDE-100 .
+In addition , three bromophenols were also detected as products of the cleavage of the diphenyl ether bond .
+The ratio of total hydroxylated metabolites relative to their PBDE precursors ranged from 0.10 to 2.8 , indicating that hydroxylated metabolites of PBDEs were accumulated in human blood .
+CONCLUSIONS The quite different PBDE metabolite pattern observed in humans versus mice indicates that different enzymes might be involved in the metabolic process .
+Although the levels of HO-PBDE metabolites found in human blood were low , these metabolites seemed to be accumulating .

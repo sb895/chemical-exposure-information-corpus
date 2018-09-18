@@ -1,0 +1,12 @@
+Polychlorinated biphenyls ( PCBs ) and organochlorine pesticides ( OCPs ) were measured in human tissue samples including muscle , liver , brain , and kidney .
+The samples were obtained at autopsy in 2000-2001 from three women and eight men from Belgium , aged between 5 and 76 years .
+The measured PCBs included 23 ortho-substituted congeners and 3 non-ortho-substituted congeners ( PCB 77 , PCB 126 , and PCB 169 ) .
+The mean concentrations of SigmaPCBs were 29.4 , 35.3 , 10.6 , and 11.8 ng/g wet wt in liver , muscle , kidney , and brain , respectively .
+HCB , gamma-HCH , beta-HCH , p,p'-DDE , and p,p'-DDD were found in all samples , while p,p'-DDT could only be found in one liver sample .
+The most abundant pesticide was p,p'-DDE .
+PCB 153 and PCB 180 were the main ortho-substituted congeners found in all the samples , while the concentration of the congeners with less than three chlorine atoms was below the limit of determination .
+In 10 of 18 tissues , the concentrations of PCB 169 were higher than the concentration of PCB 126 .
+These results are consistent with the order of half-life of these congeners in humans and indicate that a steady state had been reached in these subjects .
+The enantiomeric compositions of alpha-HCH and chiral PCBs , including PCB 95 , PCB 132 , and PCB 149 , were also measured. alpha-HCH was found to be racemic in three liver samples , while chiral PCB 95 , PCB 149 , and 132 showed racemic or nearly racemic compositions in muscle , kidney , and brain .
+Higher enatiomeric ratios ( ERs ) for the three chiral PCBs were found in liver samples .
+The mean ( range ) ERs in liver were 1.69 ( 1.04-2.97 ) , 1.16 ( 0.99-1.41 ) , and 0.74 ( 0.48-0.97 ) for PCB 95 , PCB 149 , and PCB 132 , respectively .

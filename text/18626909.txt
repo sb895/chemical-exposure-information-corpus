@@ -1,0 +1,7 @@
+OBJECTIVE A case-cohort study was conducted to investigate associations between occupational exposures and endometrial cancer nested within a large cohort of textile workers in Shanghai , China .
+METHODS The study included 176 incident endometrial cancer cases diagnosed from 1989 to 1998 and a randomly-selected age-stratified reference subcohort ( n = 3,061 ) .
+Study subjects ' complete work histories were linked to a job-exposure matrix developed specifically for the textile industry to assess occupational exposures .
+Hazard ratios ( HR ) and 95% confidence intervals were calculated using Cox proportional hazards modeling adapted for the case-cohort design , adjusting for age at menarche and a composite variable of gravidity and parity .
+RESULTS An increased risk of endometrial cancer was detected among women who had worked for > or =10 years in silk production ( HR = 3.8 , 95% CI 1.2-11.8 ) and had exposure to silk dust ( HR = 1.7 , 95% CI 0.9-3.4 ) .
+Albeit with few exposed women ( two cases and eight subcohort women ) , there was a 7.4-fold increased risk associated with > or =10 years of silica dust exposure ( 95% CI 1.4-39.7 ) .
+CONCLUSIONS The findings suggest that some textile industry exposures might play a role in endometrial carcinoma and should be further replicated in other occupational settings .

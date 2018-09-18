@@ -1,0 +1,11 @@
+Chemicals identified as endocrine-disrupting compounds ( EDCs ) have widespread consumer uses , yet little is known about indoor exposure .
+We sampled indoor air and dust in 120 homes , analyzing for 89 organic chemicals identified as EDCs .
+Fifty-two compounds were detected in air and 66 were detected in dust .
+These are the first reported measures in residential environments for over 30 of the compounds , including several detected at the highest concentrations .
+The number of compounds detected per home ranged from 13 to 28 in air and from 6 to 42 in dust .
+The most abundant compounds in air included phthalates ( plasticizers , emulsifiers ) , o-phenylphenol ( disinfectant ) , 4-nonylphenol ( detergent metabolite ) , and 4-tert-butylphenol ( adhesive ) with typical concentrations in the range of 50-1500 ng/m3 .
+The penta- and tetrabrominated diphenyl ethers ( flame retardants ) were frequently detected in dust , and 2,3-dibromo-1-propanol , the carcinogenic intermediate of a flame retardant banned in 1977 , was detected in air and dust .
+Twenty-three pesticides were detected in air and 27 were detected in dust , the most abundant being permethrins and the synergist piperonyl butoxide .
+The banned pesticides heptachlor , chlordane , methoxychlor , and DDT were also frequently detected , suggesting limited indoor degradation .
+Detected concentrations exceeded government health-based guidelines for 15 compounds , but no guidelines are available for 28 compounds , and existing guidelines do not consider endocrine effects .
+This study provides a basis for prioritizing toxicology and exposure research for individual EDCs and mixtures and provides new tools for exposure assessment in health studies .

@@ -1,0 +1,12 @@
+BACKGROUND Arsenic is an epigenetic toxicant and could influence fetal developmental programming .
+OBJECTIVES We evaluated the association between arsenic exposure and DNA methylation in maternal and umbilical cord leukocytes .
+METHODS Drinking-water and urine samples were collected when women were at \u2264 28 weeks gestation ; the samples were analyzed for arsenic using inductively coupled plasma mass spectrometry .
+DNA methylation at CpG sites in p16 ( n = 7 ) and p53 ( n = 4 ) , and in LINE-1 and Alu repetitive elements ( 3 CpG sites in each ) , was quantified using pyrosequencing in 113 pairs of maternal and umbilical blood samples .
+We used general linear models to evaluate the relationship between DNA methylation and tertiles of arsenic exposure .
+RESULTS Mean ( ± SD ) drinking-water arsenic concentration was 14.8 ± 36.2 \u03bcg/L ( range : < 1-230 \u03bcg/L ) .
+Methylation in LINE-1 increased by 1.36% [ 95% confidence interval ( CI ) : 0.52 , 2.21% ] and 1.08% ( 95% CI : 0.07 , 2.10% ) in umbilical cord and maternal leukocytes , respectively , in association with the highest versus lowest tertile of total urinary arsenic per gram creatinine .
+Arsenic exposure was also associated with higher methylation of some of the tested CpG sites in the promoter region of p16 in umbilical cord and maternal leukocytes .
+No associations were observed for Alu or p53 methylation .
+CONCLUSIONS Exposure to higher levels of arsenic was positively associated with DNA methylation in LINE-1 repeated elements , and to a lesser degree at CpG sites within the promoter region of the tumor suppressor gene p16 .
+Associations were observed in both maternal and fetal leukocytes .
+Future research is needed to confirm these results and determine if these small increases in methylation are associated with any health effects .

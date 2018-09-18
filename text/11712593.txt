@@ -1,0 +1,5 @@
+Air samples , representing indoor environments of a kitchen in which a kerosene stove was used were collected and analysed for volatile organic compounds ( VOCs ) viz. , n-hexane , benzene , heptane , toluene , p- and o-xylene and n-decane using a cryogenic preconcentration system and a gas chromatograph with a flame-ionisation detector .
+Simultaneous outdoor samples were also collected to determine indoor to outdoor ( I/O ) ratios for each compound .
+Reversed phase high performance liquid chromatography ( HPLC ) with ultra violet absorption detection was optimised for separation and quantification of polycyclic aromatic hydrocarbons ( PAHs ) in air particulate matter .
+Concentration of total suspended particulate matter ( TSPM ) , benzene soluble organics and the PAHs in air samples collected in indoor environment of some tenements at Trombay , Mumbai where kerosene is used as cooking fuel are discussed in relation to the concentration of the same in outdoor environment in vicinity of the tenement .
+VOCs and PAHs results from samples collected in kitchens in Trombay are discussed in relation to indoor air pollution .

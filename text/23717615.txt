@@ -1,0 +1,11 @@
+BACKGROUND Mitochondria are the main source of reactive oxygen species ( ROS ) .
+Human mitochondrial haplogroups are linked to differences in ROS production and oxidative-stress induced inflammation that may influence disease pathogenesis , including coronary artery disease ( CAD ) .
+We previously showed that traffic-related air pollutants were associated with biomarkers of systemic inflammation in a cohort panel of subjects with CAD in the Los Angeles air basin .
+OBJECTIVE We tested whether air pollutant exposure-associated inflammation was stronger in mitochondrial haplogroup H than U ( high versus low ROS production ) in this panel ( 38 subjects and 417 observations ) .
+METHODS Inflammation biomarkers were measured weekly in each subject ( \u2264 12 weeks ) , including interleukin-6 ( IL-6 ) , tumor necrosis factor-\u03b1 ( TNF-\u03b1 ) , C-reactive protein , interleukin-6 soluble receptor and tumor necrosis factor-soluble receptor II .
+We determined haplogroup by restriction fragment length polymorphism analysis .
+Air pollutants included nitrogen oxides ( NOx ) , carbon monoxide ( CO ) , organic carbon , elemental and black carbon ( EC , BC ) ; and particulate matter mass , three size fractions ( <0.25 µm , 0.25-2.5 µm , and 2.5-10 µm in aerodynamic diameter ) .
+Particulate matter extracts were analyzed for organic compounds , including polycyclic aromatic hydrocarbons ( PAH ) , and in vitro oxidative potential of aqueous extracts .
+Associations between exposures and biomarkers , stratified by haplogroup , were analyzed by mixed-effects models .
+RESULTS IL-6 and TNF-\u03b1 were associated with traffic-related air pollutants ( BC , CO , NOx and PAH ) , and with mass and oxidative potential of quasi-ultrafine particles <0.25 µm .
+These associations were stronger for haplogroup H than haplogroup U. CONCLUSIONS Results suggest that mitochondrial haplogroup U is a novel protective factor for air pollution-related systemic inflammation in this small group of subjects .

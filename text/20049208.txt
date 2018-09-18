@@ -1,0 +1,11 @@
+BACKGROUND Human exposure to polybrominated diphenyl ethers ( PBDEs ) is virtually universal in the United States .
+Although the uses of these chemicals as flame retardants in fabrics , foams , and plastics are well defined , human exposure pathways are not well understood .
+OBJECTIVES This study was designed to assess current PBDE body burdens and identify residential sources of exposure among 29 men and 15 women in 38 households .
+METHODS Portable X-ray fluorescence ( XRF ) analyzers were used to measure bromine levels in upholstered furnishings , bedding , vehicle interiors , and electronic devices .
+Vacuum cleaner contents , indoor air samples , and blood sera were analyzed for PBDE congeners using conventional gas chromatograph methods .
+RESULTS Bromine levels varied widely within similar household items .
+The greatest range for upholstered items was found among vehicle seat cushions ( 7-30,600 ppm ) .
+For electronic devices , television sets ranged from 4 ppm to 128,300 ppm .
+Based on mixed effects modeling , adjusting for couple households , the bromine content in the participants ' sleeping pillows and primary vehicle seat cushions were the strongest predictors of log lipid-adjusted blood serum PBDE concentrations ( p-values = 0.005 and 0.03 , respectively ) .
+The total pentaBDE congener levels found in dust samples and in passive air samples were not significant predictors of blood sera levels .
+CONCLUSIONS This study demonstrates the usefulness of the portable XRF analyzer in identifying household items that may contribute to human exposure to PBDEs .

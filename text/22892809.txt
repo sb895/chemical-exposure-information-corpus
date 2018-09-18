@@ -1,0 +1,9 @@
+Exposure assessment is a critical point for epidemiological studies on pesticide health effects .
+PESTEXPO study provides data on levels of exposure and their determinants in real conditions of pesticide use .
+We described levels of exposure in vineyards during treatment tasks ( mixing , spraying and cleaning ) and we analysed their determinants .
+Sixty-seven operators using dithiocarbamates or folpet were observed .
+Detailed information on the tasks ( general conditions , operator , farm and equipment characteristics ) were collected and dermal contamination was measured , using patches placed onto the skin on eleven body parts , and washing the hands at the end of each phase .
+The spraying phase represented roughly half of the contamination , whereas mixing and equipment cleaning accounted for 30% and 20% of the contamination , respectively .
+The main determinants of exposure were the number of phases , the characteristics of the equipment , the educational level of the operator and his status ( farm -worker or -owner ) and the general characteristics of the vines .
+Algorithms were built to estimate daily external contamination , according to these characteristics during mixing , spraying or equipment cleaning .
+With additional information of frequency and duration of use , they will enable to develop exposure indices usable in epidemiological studies on farmers ' health .

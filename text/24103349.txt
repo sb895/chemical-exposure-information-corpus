@@ -1,0 +1,13 @@
+INTRODUCTION Although the prevalence of preterm births ranges from 5 to 13% and represents the leading cause of perinatal mortality and morbidity in developed countries , the etiology of preterm birth remains uncertain .
+We aimed to evaluate the effect of short-term exposure to high and low temperatures and air pollution on preterm delivery and to identify socio-demographic and clinical maternal risk factors enhancing individual susceptibility .
+METHODS We analyzed all singleton live births by natural delivery that occurred in Rome in 2001-2010 .
+A time-series approach was used to estimate the effect of exposure to minimum temperature , maximum apparent temperature , heat waves , particulate matter with an aerodynamic diameter of 10\u03bcm or less ( PM10 ) , ozone , and nitrogen dioxide in the month preceding delivery ; the analysis was conducted separately for cold and warm seasons .
+Socio-demographic and clinical risk factors were included as interaction terms .
+RESULTS Preterm births comprised nearly 6% of our cohort .
+An increase of 1.9% ( 95% confidence interval ( CI ) 0.86-2.87 ) in daily preterm births per 1°C increase in maximum apparent temperature in the 2days preceding delivery was estimated for the warm season .
+Older women , women with higher education levels , and women with obstetric or chronic pathologies reported during delivery had a lower effect of temperature on the risk of preterm birth , while women with a chronic disease in the two years before delivery and mothers<20years showed a higher effect .
+A +19% ( 95% CI 7.91-31.69 ) increase in preterm births was observed during heat waves .
+Temperature had no effect during the cold season .
+We detected a significant effect of PM10 on preterm-birth risk at a lag period of 12-22days during the warm season ( +0.69% ; 95% CI 0.23-1.15 , for 1\u03bcg/m(3) increase of pollutant ) ; women with obstetric pathologies and with a higher education level showed a higher risk .
+CONCLUSIONS Our results suggest a possible short-term effect of heat and a more delayed and prolonged effect of PM10 exposure on preterm-birth risk , as well as the existence of more susceptible subgroups of women .
+Our observations support the few reported investigations , and may help to increase awareness among public-health stakeholders and clinicians regarding the role of these environmental exposures as risk factors for premature birth and health consequences for children later in life .

@@ -1,0 +1,20 @@
+The relative effects of prenatal and postnatal low-level mercury exposure and fish intake on child neurodevelopment are still controversial .
+Limited evidence is available from Mediterranean populations .
+In this prospective study , we measured the Verbal and Performance IQ in Italian children at school-age who were resident in an area declared as a National contaminated site because of mercury pollution , taking into account the possible beneficial effect of fish consumption and potential confounders .
+A mother-child cohort made up of 242 children was established at birth in Northeastern Italy in 2001 .
+Their mothers were interviewed approximately 2 months after delivery to determine type , quantity , and origin of fish consumed during pregnancy and about a number of mother , child and family characteristics .
+Total mercury ( THg ) and methyl mercury ( MeHg ) were assessed in maternal hair and breast milk and in the child's hair .
+When children reached 7-9 years of age , 154 ( 63.6% ) parents gave consent to participate in a follow-up evaluation .
+On that occasion , a child's hair sample was collected to determine the current concentration of THg , mothers were asked to complete a self-administered questionnaire , and children underwent neuropsychological testing .
+Verbal IQ , performance IQ and full scale IQ were measured by the Wechsler Intelligence Scale for Children ( WISC III ) administered by psychologists at school or local health centers .
+Demographic , socioeconomic and lifestyle information , medical information of the child's family and the child's dietary habits were collected using a questionnaire filled in by mothers .
+Multivariable linear regression models were used to evaluate the association between prenatal THg exposure through fish consumption of mothers in pregnancy and children's IQ after adjustment for possible confounders such as fish consumption of mothers in pregnancy , child's fish consumption at follow-up , child's birthweight , maternal cigarette smoking during pregnancy , house size and property place of residence during pregnancy and gender .
+THg in the child's hair at 7 years of age was fairly correlated with THg in maternal hair at delivery ( rs=0.35 ; p<0.0001 ) and was strongly correlated with child's seafood consumption ( rs=0.50 , p<0.0001 ) .
+No differences in maternal THg levels were found when comparing children with low or extremely low or high or extremely high scores vs others , considering separately full scale , verbal , and performance IQs .
+Children born from mothers with hair THg levels greater than or equal to 2000ng/g had full scale , verbal and performance IQs which were 4-5 points lower than children born from women with lower THg levels , but these differences were not statistically significant .
+Fresh fish intake of mothers in pregnancy was slightly positively associated with full scale and performance but not so with verbal IQs .
+Canned fish showed to be negatively associated with all the outcome variables .
+Unexpectedly , children born to mothers from one town showed IQ scores significantly lower than the other children ; however , none of the many variables considered in these analyses could explain this result .
+The relatively low Hg levels found in the biological samples did not provide evidence of high and extensive Hg exposure in this population .
+Although THg levels in maternal and child's biological samples are correlated with fish consumption , the effects of THg and fish on neurological outcomes go in opposite directions .
+These results do not allow to develop recommendations regarding fish consumption in pregnancy but suggest that keeping THg hair levels<2000ng/g might be desirable .

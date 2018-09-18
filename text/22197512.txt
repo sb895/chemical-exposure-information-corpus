@@ -1,0 +1,14 @@
+Perfluorooctane sulfonic acid ( PFOS ) and perfluorooctanoic acid ( PFOA ) have been used as surfactants in various industry and consumer products .
+PFOS/PFOA are very persistent in the environment and bioaccumulate in humans .
+They are potential reproductive and developmental toxicants and are considered to be emerging endocrine disrupters ( EDs ) .
+The Italian project PREVIENI , funded by the Italian Environment Ministry , aims to link environment and human health through the investigation of selected endocrine disrupters ( EDs ) exposure and associated biomarkers related to human infertility conditions .
+In the early PREVIENI phase , PFOS and PFOA were determined in 53 couples affected by an infertility status , enrolled in a metropolitan area , according to established inclusion criteria and informed consensus .
+Nuclear receptors related to chemical compounds interactions were selected as biomarkers of effect and their gene expression modulations were analyzed in human peripheral blood mononuclear cell ( PBMC ) .
+Among couples , subjects not presenting infertility factors ( IF-- ) were separated from affected subjects ( IF++ ) .
+Most IF-- serum samples showed PFOS and PFOA concentrations overlapping the limit of detection ( LOD ) of 0.5 ng/g wet weight ( ww ) .
+A substantial percentage of IF++ serum samples showed PFOS concentrations >20-fold the LOD , i.e. from 3 to 50 ng/g ww .
+In male ( 50% , n=26 ) and from 3 to 144 ng/g ww in female ( 37% , n=30 ) samples .
+PFOA values were below the LOD levels in 90% of the total samples .
+Peroxisome proliferator-activated receptor-gamma ( PPAR\u03b3 ) and aryl hydrocarbon receptor ( AhR ) showed a low level of expression in PBMC of both IF++ and IF-- groups .
+Whereas alpha and beta estrogen receptors ( ER\u03b1 and ER\u03b2 ) , androgen receptor ( AR ) , and pregnane X receptor ( PXR ) were all upregulated in IF++ of both sexes with respect to IF-- group .
+Our preliminary results related to the metropolitan area indicate that subjects affected by infertility factors tend to have both higher PFOS levels and higher gene expression of specific nuclear receptors .

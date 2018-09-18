@@ -1,0 +1,10 @@
+In West Bengal , India , more than 6 million people in nine districts are exposed to arsenic through drinking water .
+It is regarded as the greatest arsenic calamity in the world .
+Arsenic is a well-documented human carcinogen , which does not induce cancer in any other animal model .
+Interestingly , at lower concentrations , arsenic is known to induce apoptosis in various cancer cell lines in vitro .
+We have studied apoptosis in human peripheral blood mononuclear cells ( PBMC ) of 30 arsenic exposed skin lesion individuals by annexin V-FITC staining and compared with 28 unexposed individuals .
+The percentage of apoptotic cells in individuals with skin lesions was significantly higher ( p<0.001 ) in comparison to unexposed individuals .
+In the exposed individuals with skin lesions , there were elevated levels of intracellular reactive oxygen species ( ROS ) , mitochondrial membrane permeability and increased cytochrome c release , leading to increased downstream caspase activity .
+Arsenic-induced DNA damage was confirmed by DNA ladder formation and confocal microscopy .
+We also observed that chronic arsenic exposure reduced Bcl-2/Bax ratio and also resulted in cell cycle arrest of PBMC in G0/G1 phase .
+All these observations indicate that mitochondria-mediated pathway may be responsible for arsenic-induced apoptosis .

@@ -1,0 +1,9 @@
+Personal activity patterns have often been suggested as a source of unexplained variability when comparing personal particulate matter ( PM2.5 ) exposure to modeled data using central site or microenvironmental data .
+To characterize the effect of personal activity patterns on asthmatic children's personal PM2.5 exposure , data from the Windsor , Ontario Exposure Assessment Study were analyzed .
+The children spent on an average 67.1±12.7% ( winter ) and 72.3±22.6% ( summer ) of their time indoors at home where they received 51.7±14.8% and 66.3±19.0% of their PM2.5 exposure , respectively .
+In winter , 17.7±5.9% of their time was spent at school where they received 38.6±11.7% of their PM2.5 exposure .
+In summer , they spent 10.3±11.8% ' indoors away from home ' , which represented 23.4±18.3% of their PM2.5 exposure .
+Personal activity codes adapted from those of the National Human Activity Pattern Survey and the Canadian Human Activity Pattern Survey were assigned to the children's activities .
+Of the over 100 available activity codes , 19 activities collectively encompassed nearly 95% of their time .
+Generalized estimating equation ( GEE ) models found that , while indoors at home , relative to daytime periods when sedentary activities were conducted , several personal activities were associated with significantly elevated personal PM2.5 exposures .
+Indoor playing represented a mean increase in PM2.5 of 10.1\u2009\u03bcg/m(3) ( 95% CI 6.3-13.8 ) and 11.6\u2009\u03bcg/m(3) ( 95% CI 8.1-15.1 ) in winter and summer , respectively , as estimated by a personal nephelometer.Journal of Exposure Science and Environmental Epidemiology advance online publication , 1 May 2013 ; doi:10.1038/jes.2013.20 .

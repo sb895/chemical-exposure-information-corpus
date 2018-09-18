@@ -1,0 +1,6 @@
+OBJECTIVE In this retrospective cohort ( 1998 to 2007 ) , 145,445 singleton live births in Hillsborough , Florida , were analyzed to elucidate the relationship between fetal morbidity and prenatal exposure to six criteria air pollutants .
+METHODS This study was based on three linked databases : Florida Hospital Discharge , vital statistics records , and air pollution meteorological data from the Environmental Protection Agency .
+The primary outcomes of interest were low birth weight , preterm births , and small for gestational age .
+This study used structural equation modeling and trimester groupings to evaluate the relationship between air pollution and birth outcomes of pregnant residents .
+RESULTS The latent variables of structural equation modeling yielded a significant B value of 0.35 , indicating that exposure to the criteria pollutants in pregnancy may have a significant relationship to fetal morbidity .
+CONCLUSION Exposure to criteria air pollutants in pregnancy is associated with fetal morbidity outcomes .

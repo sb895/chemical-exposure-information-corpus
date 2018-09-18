@@ -1,0 +1,8 @@
+The environmental and biological monitoring of benzene exposure is crucial to prevent the toxic effects of this solvent in workers .
+The degree of correlation , however , between the two and of different biomarkers among them varies , particularly at low levels of exposure , depending on various factors , including variability in metabolizing enzymes and smoking habits .
+To investigate these further , a cohort of 28 petrochemical workers ( 6 smokers and 22 non smokers ) was monitored throughout ten consecutive days , on two occasions , two years apart , by collecting in total 173 environmental and biological samples .
+The airborne benzene levels , the urinary t,t-muconic acid ( t,t-MA ) and S-phenylmercapturic acid ( S-PMA ) concentrations , and the glutathione S-transferases ( GST ) M1 and T1 genotypes were measured .
+S-PMA was the only metabolite statistically correlated with airborne benzene levels ( r=0.447 , P<0.0001 ) , particularly in non smokers ( r=0.667 , P<0.0001 ) , the smoking habit being the only variable influencing metabolite excretion .
+Finally , a reduced S-PMA excretion was found to be associated with the GSTT1 , but not the GSTM1 , null genotype .
+In conclusion , the results show that S-PMA , but not t,t-MA , is able to monitor exposure to low benzene concentrations and confirm that the GSTT1 null genotype has a significant influence on metabolite excretion .
+The influence of the GSTT1 null genotype , however , was low , even when studying each subject with several urine samples .

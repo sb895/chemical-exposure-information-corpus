@@ -1,0 +1,17 @@
+Methylmercury ( MeHg ) is a ubiquitous environmental contaminant with known neurodevelopmental effects .
+In humans , prenatal exposures primarily occur through maternal consumption of contaminated fish .
+In this study , we evaluated the association between prenatal exposure to MeHg and titers of total immunoglobulins ( Ig ) and specific autoantibodies in both mothers and fetuses by analyzing maternal and cord blood serum samples .
+We examined multiple immunoglobulin isotypes to determine if these biomarkers could inform as to fetal or maternal responses since IgG but not IgM can cross the placenta .
+Finally , we evaluated serum cytokine levels to further characterize the immune response to mercury exposure .
+The study was conducted using a subset of serum samples ( N=61 pairs ) collected from individuals enrolled in a population surveillance of MeHg exposures in the Brazilian Amazon during 2000/2001 .
+Serum titers of antinuclear and antinucleolar autoantibodies were measured by indirect immunofluorescence .
+Serum immunoglobulins were measured by enzyme-linked immunosorbent assay ( ELISA ) and BioPlex multiplex assay .
+Serum cytokines were measured by BioPlex multiplex assay .
+In this population , the geometric mean mercury level was within the 95th percentile for US populations of women of childbearing age but the upper level of the range was significantly higher .
+Fetal blood mercury levels were higher ( 1.35 times ) than those in their mothers , but highly correlated ( correlation coefficient [ r]=0.71 ; 95% CI : 0.54 , 0.89 ) .
+Total IgG ( r=0.40 ; 95% CI : 0.19 , 0.62 ) and antinuclear autoantibody ( odds ratio [ OR]=1.05 ; 95% CI : 1.02 , 1.08 ) levels in paired maternal and fetal samples were also associated ; in contrast , other immunoglobulin ( IgM , IgE , and IgA ) levels were not associated between pairs .
+Total IgG levels were significantly correlated with both maternal ( r=0.60 ; 95% CI : 0.25 , 0.96 ) and cord blood mercury levels ( r=0.61 ; 95% CI : 0.25 , 0.97 ) , but individual isotypes were not .
+Serum cytokines , interleukin-1\u03b2 ( r=0.37 ; 95% CI : 0.01 , 0.73 ) , interleukin-6 ( r=0.34 ; 95% CI : 0.03 , 0.65 ) , and tumor necrosis factor-\u03b1 ( r=0.24 ; 95% CI : 0.015 , 0.47 ) , were positively correlated between maternal and fetal samples .
+Antinuclear and antinucleolar autoantibody titer and serum cytokine levels , in either maternal or cord blood , were not significantly associated with either maternal or cord blood mercury levels .
+These data provide further evidence that there are likely IgG biomarkers of mercury-induced immunotoxicity in this population since IgG levels were elevated with increased , and associated with , mercury exposure .
+However , unlike previous data from adult males and non-pregnant females , we found no evidence that antinuclear and antinucleolar autoantibody titer is a reliable biomarker of mercury immunotoxicity in this population .

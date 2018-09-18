@@ -1,0 +1,11 @@
+The Y-12 plant at Oak Ridge , Tennessee , produced nuclear materials for the U.S. government's nuclear weapons program beginning in 1943 .
+Workers at Y-12 were exposed to low dose , internal , alpha radiation and external , penetrating radiation , as well as to beryllium , mercury , solvents , and other industrial agents .
+This paper presents updated results from a long-term mortality study of workers at Y-12 between 1947 and 1974 , with follow-up of white men through 1990 and data reported for the first time for women and men of other races .
+Vital status was determined through searches of the National Death Index and other records , and the workers ' mortality was compared to the national population's using standardized mortality ratios ( SMRs ) .
+Total mortality was low for all Y-12 workers and total cancer mortality was as expected .
+Among the 6,591 white men , there were 20% more lung cancer deaths than expected ( 95% confidence interval [ CI ] 1.04-1.38 ) .
+Death rates from brain cancer and several lymphopoietic system cancers were also elevated among white men , with SMRs of 1.28 and 1.46 .
+Mortality from cancer of the pancreas , prostate , and kidney was similarly elevated .
+There was evidence of excess breast cancer among the 1,073 female workers ( SMR 1.21 , 95% CI 0.60-2.17 ) .
+Lung cancer mortality among these workers warrants continued surveillance because of the link between internal alpha radiation exposure and this disease , but other agents , notably beryllium , also merit considerations as potential causes of lung cancer .
+Other cancers and agents should also be investigated as part of a comprehensive study of the health consequences of the production of nuclear weapons .

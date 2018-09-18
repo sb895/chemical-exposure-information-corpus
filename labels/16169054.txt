@@ -1,0 +1,1 @@
+< < <Biomonitoring--exposure biomarker--blood-- AND  Biomonitoring--exposure biomarker--blood--cord blood<  Biomonitoring--exposure biomarker--blood--< <exposure routes--oral intake--food--<exposure routes--oral intake--food--< <  Biomonitoring--exposure biomarker--blood--children

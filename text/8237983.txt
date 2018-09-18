@@ -1,0 +1,6 @@
+The study population comprises 690 Norwegian male lighthouse keepers whose water supply came from cisterns that received rain water off asbestos-cement-tiled roofs .
+The asbestos-cement tiles were installed in the late 1950s , and two decades later the fiber content in the tap water was analyzed .
+The fiber content ranged from 1,760 to 71,350 million fibers per liter , which is significantly higher than measured in any other Norwegian public water supply .
+During the follow-up period , 1960-1991 , no statistically significant excess risk was found for any type of cancer in the group with a latency period of 20 years or more , except for stomach cancer ( 11 observed cases vs. 4.57 expected , standardized incidence ratio = 241 , 95% confidence interval 120-431 ) .
+No cases of malignant mesothelioma were found .
+The study is limited by lack of knowledge as to when the tiles began to deteriorate and , thus , the magnitude of total exposure as well as by the inability to control for such potential confounding factors as diet .

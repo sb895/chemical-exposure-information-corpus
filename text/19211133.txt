@@ -1,0 +1,8 @@
+Despite documented widespread human exposure to polybrominated diphenyl ethers ( PBDEs ) through dietary intake and contact with or inhalation of indoor dust , along with growing laboratory evidence for altered endocrine function following exposure , human studies of PBDE exposure and endocrine effects remain limited .
+We conducted a preliminary study within an ongoing study on the impact of environmental exposures on male reproductive health .
+We measured serum hormone levels and PBDE concentrations ( BDE 47 , 99 and 100 ) in house dust from 24 men recruited through a US infertility clinic .
+BDE 47 and 99 were detected in 100% of dust samples , and BDE 100 was detected in 67% of dust samples , at concentrations similar to those reported in previous US studies .
+In multivariable regression models adjusted for age and BMI , there was a statistically significant inverse relationship between dust PBDE concentrations and free androgen index .
+Dust PBDE concentrations were also strongly and inversely associated with luteinizing hormone ( LH ) and follicle stimulating hormone ( FSH ) , and positively associated with inhibin B and sex hormone binding globulin ( SHBG ) .
+Finally , consistent with limited recent human studies of adults , PBDEs were positively associated with free T4 .
+In conclusion , the present study provides compelling evidence of altered hormone levels in relation to PBDE exposures estimated as concentrations in house dust , and that house dust is an important source of human PBDE exposure , but more research is urgently needed .

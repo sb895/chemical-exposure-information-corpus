@@ -1,0 +1,10 @@
+BACKGROUND Despite extensive evidence that air pollution affects childhood asthma , state-level and national-level tracking of asthma outcomes in relation to air pollution is limited .
+OBJECTIVES Our goals were to evaluate the feasibility of linking the 2001 California Health Interview Survey ( CHIS ) , air monitoring , and traffic data ; estimate associations between traffic density ( TD ) or outdoor air pollutant concentrations and childhood asthma morbidity ; and evaluate the usefulness of such databases , linkages , and analyses to Environmental Public Health Tracking ( EPHT ) .
+METHODS We estimated TD within 500 feet of residential cross-streets of respondents and annual average pollutant concentrations based on monitoring station measurements .
+We used logistic regression to examine associations with reported asthma symptoms and emergency department ( ED ) visits/hospitalizations .
+RESULTS Assignment of TD and air pollution exposures for cross-streets was successful for 82% of children with asthma in Los Angeles and San Diego , California , Counties .
+Children with asthma living in high ozone areas and areas with high concentrations of particulate matter < 10 microm in aerodynamic diameter experienced symptoms more frequently , and those living close to heavy traffic reported more ED visits/hospitalizations .
+The advantages of the CHIS for asthma EPHT include a large and representative sample , biennial data collection , and ascertainment of important socio-demographic and residential address information .
+Disadvantages are its cross-sectional design , reliance on parental reports of diagnoses and symptoms , and lack of information on some potential confounders .
+CONCLUSIONS Despite limitations , the CHIS provides a useful framework for examining air pollution and childhood asthma morbidity in support of EPHT , especially because later surveys address some noted gaps .
+We plan to employ CHIS 2003 and 2005 data and novel exposure assessment methods to re-examine the questions raised here .

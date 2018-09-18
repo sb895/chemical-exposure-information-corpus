@@ -1,0 +1,11 @@
+Particulate air pollution has been associated with adverse respiratory health effects .
+This study assessed the utility of expired nitric oxide to detect acute airway responses to metal-containing fine particulates .
+Using a repeated-measures study design , we investigated the association between the fractional concentration of expired nitric oxide ( F(E)NO ) and exposure to particulate matter with an aerodynamic mass median diameter of less than or equal to 2.5 micro m ( PM(2.5) ) in boilermakers exposed to residual oil fly ash and metal fumes .
+Subjects were monitored for 5 days during boiler repair overhauls in 1999 ( n = 20 ) or 2000 ( n = 14 ) .
+The Wilcoxon median baseline F(E)NO was 10.6 ppb [ 95% confidence interval ( CI ) : 9.1 , 12.7 ] in 1999 and 7.4 ppb ( 95% CI : 6.7 , 8.0 ) in 2000 .
+The Wilcoxon median PM(2.5) 8-hr time-weighted average was 0.56 mg/m(3) ( 95% CI : 0.37 , 0.93 ) in 1999 and 0.86 mg/m(3) ( 95% CI : 0.65 , 1.07 ) in 2000 .
+F(E)NO levels during the work week were significantly lower than baseline F(E)NO in 1999 ( p < 0.001 ) .
+A significant inverse exposure-response relationship between log-transformed F(E)NO and the previous workday's PM(2.5) concentration was found in 1999 , after adjusting for smoking status , age , and sampling year .
+With each 1 mg/m(3) incremental increase in PM(2.5) exposure , log F(E)NO decreased by 0.24 ( 95% CI : -0.38 , -0.10 ) in 1999 .
+The lack of an exposure-response relationship between PM(2.5) exposure and F(E)NO in 2000 could be attributable to exposure misclassification resulting from the use of respirators .
+In conclusion , occupational exposure to metal-containing fine particulates was associated with significant decreases in F(E)NO in a survey of workers with limited respirator usage .

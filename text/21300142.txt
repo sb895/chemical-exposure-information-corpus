@@ -1,0 +1,8 @@
+The identification of reliable biomarkers is critical for the assessment of occupational exposure of benzene : S-phenylmercapturic acid ( SPMA ) and trans,trans-muconic acid ( t,t-MA ) are the most currently used. t,t-MA is an open-ring metabolite , but it is also a metabolite of the food preservative sorbic acid , while SPMA is formed by conjugation with glutathione , and several studies suggested that the genetic polymorphism of glutathione S-transferases modulates its production .
+This study compared the ability of these metabolites to assess the benzene exposure in a big group of petrochemical workers .
+Furthermore , investigated how genetic polymorphism of glutathione S-transferase theta 1 ( GSTT1 ) , glutathione S-transferase mu 1 ( GSTM1 ) , glutathione S-transferase pi 1 ( GSTP1 ) and smoking habits , may influence their excretion .
+Results showed that occupational exposure to benzene was negligible compared to that from smoking and confirmed the modulating effect of the genetic polymorphism of GSTT1 on the urinary excretion of SPMA , but not of t , t-MA , even at very low levels of benzene exposure .
+The same effect was found for GSTM1 , but only for smokers .
+The t,t-MA/SPMA ratio was not a constant value and resulted to be higher than the corresponding Biological Exposure Index ( BEI ) ratio , which is currently equal to 20 .
+Higher values of metabolite have been associated with the GSTT1 or GSTM1 null genotype and these are responsible for increase health risk .
+We suggest that this ratio could be used as a marker of individual susceptibility for subjects with benzene exposure .

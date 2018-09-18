@@ -1,0 +1,12 @@
+BACKGROUND Persistent organic pollutants ( POPs ) may influence epigenetic mechanisms ; therefore , they could affect chromosomal stability and gene expression .
+DNA methylation , an epigenetic mechanism , has been associated with cancer initiation and progression .
+Greenlandic Inuit have some of the highest reported POP levels worldwide .
+OBJECTIVE Our aim in this study was to evaluate the relationship between plasma POPs concentrations and global DNA methylation ( percent 5-methylcytosine ) in DNA extracted from blood samples from 70 Greenlandic Inuit .
+Blood samples were collected under the Arctic Monitoring and Assessment Program and previously analyzed for a battery of POPs .
+METHODS We used pyrosequencing to estimate global DNA methylation via Alu and LINE-1 assays of bisulfite-treated DNA .
+We investigated correlations between plasma POP concentrations and global DNA methylation via correlation coefficients and linear regression analyses .
+RESULTS We found inverse correlations between percents methylcytosine and many of the POP concentrations measured .
+Linear regressions , adjusting for age and cigarette smoking , showed statistically significant inverse linear relationships mainly for the Alu assay for p,p'-DDT ( 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane ; beta = -0.26 ) , p,p'-DDE [ 1,1-dichloro-2,2-bis(p-chlorophenyl) ethylene ; beta = -0.38 ] , beta-hexachlorocyclohexane ( beta = -0.48 ) , oxychlordane ( beta = -0.32 ) , alpha-chlordane ( beta = -0.75 ) , mirex ( beta = -0.27 ) , sum of polychlorinated biphenyls ( beta = -0.56 ) , and sum of all POPs ( beta = -0.48 ) .
+Linear regressions for the LINE-1 assay showed beta estimates of similar magnitudes to those using the Alu assay , however , none was statistically significant .
+CONCLUSIONS This is the first study to investigate environmental exposure to POPs and DNA methylation levels in a human population .
+Global methylation levels were inversely associated with blood plasma levels for several POPs and merit further investigation .

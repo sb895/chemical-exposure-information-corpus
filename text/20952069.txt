@@ -1,0 +1,15 @@
+BACKGROUND Pesticides have been shown to disrupt neurodevelopment in laboratory animals and in human populations .
+To date , there have been no studies on exposure to pesticides in pregnant women in Israel , despite reports of widespread exposure in other populations of pregnant women and the importance of evaluating exposure in this susceptible sub-population .
+METHODS We measured urinary concentrations of organophosphorus ( OP ) insecticide metabolites and plasma concentrations of OP and other pesticides in 20 pregnant women , recruited in Jerusalem , Israel in 2006 , and collected questionnaire data on demographic factors and consumer habits from these women .
+We compared geometric mean concentrations in subgroups using the Mann-Whitney U-test for independent samples .
+We compared creatinine-adjusted OP pesticide metabolite concentrations , as well as plasma pesticide concentrations , with other populations of pregnant women .
+RESULTS Creatinine-adjusted total dimethyl ( DM ) metabolite concentrations were between 4 and 6 times higher in this population compared to other populations of pregnant women in the United States while total diethyl ( DE ) metabolite concentrations were lower .
+Dimethylphosphate ( DMP ) was detected in 74% of the urine samples whereas dimethylthiophosphate ( DMTP ) was detected in 90% of the urine samples .
+The carbamate bendiocarb was detected in 89% of the plasma samples , while the OP insecticide chlorpyrifos was detected in 42% of the samples .
+Mean plasma concentrations of bendiocarb and chlorpyrifos in our sample were 4.4 and 3.9 times higher , respectively , than that of an urban minority cohort from New York City .
+Twelve women ( 63% ) reported using some form of household pest control during their pregnancy and five ( 26% ) reported using household pest control during the past month .
+Women with a graduate degree had significantly higher geometric mean concentrations of total urinary DM metabolite concentrations compared to other women ( P=0.006 ) .
+Finally , one woman in the study had exceptionally high concentrations of DMP , DMTP , DMDTP compared to the other women in the study , despite reporting no current occupational exposure to OP pesticides and no other significant exposure sources .
+CONCLUSIONS Pregnant women in the Jerusalem area are exposed to OP pesticides and to the carbamate pesticide bendiocarb .
+It is unclear why total DM metabolites concentrations were much higher in this population compared to other populations of pregnant women in the United States and Netherlands .
+Finally , the finding of very high DM metabolite concentrations in one woman who reported being moved from her regular laboratory work to administrative work upon becoming pregnant , raises questions about the adequacy of measures to protect pregnant women from pesticide exposures during pregnancy .

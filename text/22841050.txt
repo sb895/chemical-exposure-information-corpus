@@ -1,0 +1,3 @@
+For the identification of human exposure to one of the most toxic compounds , which is methyl mercury ( MeHg(+) ) , fingernail clippings were selected as the matrix of interest .
+Within this pilot study , six samples from different origins and from people with different food consumption patterns were chosen .
+Species-analysis of MeHg(+) was performed according to the following procedure : dissolution of the sample material in tetramethylammonium hydroxide ( TMAH ) , derivatisation of MeHg(+) with sodium tetraethylborate ( NaBEt(4) ) , extraction into iso-octane and measurement with gas chromatography hyphenated to inductively coupled plasma mass spectrometry ( GC-ICPMS ) for the quantification MeHg(+) .

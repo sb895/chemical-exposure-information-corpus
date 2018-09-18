@@ -1,0 +1,14 @@
+OBJECTIVE Air pollution is associated with an increased risk for cardiovascular events .
+Many of the biological pathways involved could also promote diabetes mellitus ( DM ) .
+We therefore investigated the association between DM prevalence and exposure to traffic-related air pollution ( nitrogen dioxide [ NO 2] ) .
+METHODS Study participants were patients who attended two respiratory clinics in Hamilton ( n = 5228 ) and Toronto ( n = 2406 ) .
+The diagnosis of DM was ascertained by linkage to administrative databases of the Ontario universal Health Insurance Plan for patients aged 40 years and above .
+Geographic Information systems methodology was used to assign individual estimates of NO2 based on a network of samplers in each city .
+Logistic regression was used to estimate the relations between NO2 exposures and the odds of DM diagnosis .
+RESULTS After adjusting for age , body mass index , and neighborhood income there were positive effects in women on the odds ratio for DM for each 1 ppb NO2 exposure in Toronto ( OR 1.055 , 95% CI : 0.99 to 1.11 ) and Hamilton ( OR 1.029 , 95% CI : 0.98 to 1.08 ) .
+In a meta-analytic model including both cities , there was a significant effect in women ( OR = 1.04 ; 95% CI : 1.00 to 1.08 ) .
+Across the inter-quartile range ( approximately 4 ppb NO2 ) there was nearly a 17% increase in the odds of DM for women .
+There were no positive associations among men .
+CONCLUSIONS Exposure to NO2 , a marker of traffic-related air pollutants , was associated with DM prevalence among women .
+Exposure estimate errors in men may explain the apparent gender difference .
+These results suggest that common air pollutants are associated with DM and warrant more investigation to determine if this is a cause-and-effect relationship .

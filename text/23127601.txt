@@ -1,0 +1,9 @@
+Some evidence suggests that various diet components and nutrients , including vegetables , fruit and food-derived antioxidants , could mitigate contaminant exposure and/or adverse health effects of contaminants .
+To examine the effect of the consumption of tomato products on blood mercury levels in Inuit preschool children , 155 Inuit children ( 25.0±9.1months ) were recruited from 2006-2008 in Nunavik childcare centers ( northern Québec , Canada ) .
+Food frequency questionnaires were completed at home and at the childcare center , and total blood mercury concentration was measured by inductively coupled plasma-mass spectrometry .
+Multivariate regression analysis was performed after multiple imputation .
+The median blood concentration of mercury was 9.5nmol/L .
+Age , duration of breastfeeding , annual consumption frequency of seal meat , and monthly consumption frequency of tomato products were significant predictors of blood mercury levels , whereas annual consumption frequencies of beluga muktuk , walrus , Arctic char , and caribou meat were not .
+Each time a participant consumed tomato products during the month before the interview was associated with a 4.6% lower blood mercury level ( p=0.0005 ) .
+All other significant predictors in the model were positively associated with blood mercury levels .
+Further studies should explore interactions between consumption of healthy store-bought foods available in Arctic regions and contaminant exposure .

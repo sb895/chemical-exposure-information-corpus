@@ -1,0 +1,5 @@
+OBJECTIVE To determine longitudinal estimates of pulmonary function decline in Canadian grain elevator workers before and after dust control by analyzing data collected from five regions of Canada over 15 years .
+METHODS Declines in forced expired volume in one second and forced vital capacity before and after dust control were estimated by using a generalized estimating equations approach .
+RESULTS For grain workers who were in the grain industry for 20 or more years both before and after dust control : the mean annual loss of forced expired volume in one second was greatest among current smoking grain workers followed by ex-smokers and nonsmokers , respectively .
+Similar results were obtained for forced vital capacity .
+CONCLUSIONS Grain dust control was effective in reducing decline in the lung function measurements among grain workers in all smoking and exposure categories .

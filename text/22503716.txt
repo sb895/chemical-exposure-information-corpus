@@ -1,0 +1,11 @@
+Human biomonitoring of nickel has gained interest in environmental medicine due to its wide distribution in the environment and its allergenic potential .
+There are indications that the prevalence of nickel sensitization in children is increased by nickel exposure and that oral uptake of nickel can exacerbate nickel dermatitis in nickel-sensitive individuals .
+Urinary nickel measurement is a good indicator of exposure .
+However , data on nickel levels in urine of children are rare .
+For the first time , the German Environmental Survey on children ( GerES IV ) 2003-2006 provided representative data to describe the internal nickel exposure of children aged 3-14 years in Germany .
+Nickel was measured after enrichment in the organic phase of urine by graphite furnace atomic absorption spectrometry with Zeeman background correction .
+Nickel levels ( n=1576 ) ranged from <0.5 to 15 \u03bcg/l .
+Geometric mean was 1.26 \u03bcg/l .
+Multivariate regression analysis showed that gender , age , socio-economic status , being overweighted , consumption of hazelnut spread , nuts , cereals , chocolate and urinary creatinine were significant predictors for urinary nickel excretion of children who do not smoke. 20.2% of the variance could be explained by these variables .
+With a contribution of 13.8% the urinary creatinine concentration was the most important predictor .
+No influence of nickel intake via drinking water and second hand smoke exposure was observed .

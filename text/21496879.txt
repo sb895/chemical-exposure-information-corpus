@@ -1,0 +1,11 @@
+The objectives of this study were ( 1 ) to evaluate levels of lead ( Pb ) and cadmium ( Cd ) in the breast milk at 2 months postpartum , ( 2 ) to investigate the relationship between Pb and Cd levels in breast milk and some sociodemographic parameters and ( 3 ) to detect whether these levels have any influence on the infant's physical status or on postpartum depression in the mothers .
+Pb and Cd levels in breast milk were determined by Inductively Coupled Plasma Mass Spectroscopy ( ICP-MS ) .
+The median breast milk concentrations of Pb and Cd were 20.59 and 0.67 \u03bcg/l , respectively .
+In 125 ( 87% ) of 144 samples , Pb levels were higher than the limit in breast milk reported by the World Health Organization ( WHO ) ( > 5 \u03bcg/l ) .
+Breast milk Cd levels were > 1 \u03bcg/l in 52 ( 36% ) mothers .
+The mothers with a history of anemia at any time had higher breast milk Pb levels than those without a history of anemia ( 21.1 versus 17.9 \u03bcg/l ; p=0.0052 ) .
+The median breast milk Cd levels in active and passive smokers during pregnancy were significantly higher than in non-smokers ( 0.89 , 0.00 \u03bcg/l , respectively ; p=0.023 ) .
+The breast milk Cd levels of the mothers who did not use iron and vitamin supplements for 2 months postpartum were found to be higher than in those who did use the supplements ( iron : 0.73 , 0.00 \u03bcg/l , p=0.023 ; vitamin : 0.78 , 0.00 \u03bcg/l , p=0.004 , respectively ) .
+Breast milk Cd levels at the 2nd month were correlated negatively with the z scores of head circumference and the weight for age at birth ( r=-0.257 , p=0.041 and r=-0.251 , p=0.026 , respectively ) in girls .
+We found no correlation between the breast milk Pb and Cd levels and the Edinburgh Postpartum Depression Scale scores .
+Breast milk monitoring programs should be conducted that have tested considerable numbers of women over time in view of the high levels of Pb in breast milk in this study .

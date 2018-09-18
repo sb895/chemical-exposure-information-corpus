@@ -1,0 +1,11 @@
+BACKGROUND In 1979 approximately 2,000 people were exposed to polychlorinated biphenyls ( PCBs ) and polychlorinated dibenzofurans ( PCDFs ) due to ingestion of contaminated cooking oil in Taiwan .
+Although a previous study has shown delayed developmental milestones and poorer neurocognitive functioning in children born to exposed mothers , it is unclear whether neurocognitive functioning was impaired in people who were directly exposed to the PCBs and PDCFs .
+OBJECTIVE The objective of this study was to compare neurocognitive functioning in people exposed to PCBs and PCDFs with that of unexposed sex- and age-matched neighbors .
+METHODS We conducted a retrospective cohort study among exposed and unexposed subjects > or =60 years of age using prospective outcome measurements .
+We evaluated neurocognitive tests including cognition , memory modalities , learning , motor and sensory function , mood , and daily activity .
+RESULTS In total , 162 ( 59% ) exposed and 151 ( 55% ) reference subjects completed this study .
+In exposed men , all test results were similar to the reference group ; however , exposed women had reduced functioning in attention and digit span ( ADS ) , visual memory span ( VMS ) , and verbal memory recalls ( VMR ) , especially learning ability .
+We also found a borderline reduction in the Mini-Mental State Examination .
+The digit symbol , motor , sensory , depression ( determined by the Geriatric Depression Scale-Short Form ) , and activity of daily life were not different between the exposed and reference groups .
+A significant dose-response relationship was found for VMR , ADS , and VMS .
+CONCLUSION Our study showed dose-dependent neurocognitive deficits in certain aspects of attention , visual memory , and learning ability in women previously exposed to PCBs and PCDFs , but not in exposed men .

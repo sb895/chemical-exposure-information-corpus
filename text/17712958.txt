@@ -1,0 +1,11 @@
+OBJECTIVE To study the effect of high concentration arsenic in drinking water on children's intelligence .
+METHODS Pupils in Hangjinhou Qi were selected as subjects .
+Arsenic in drinking water and urine was determined .
+These subjects were divided into control( < 0.05mg/L , group A ) , mild exposure ( 0.05 - 0.1mg/L , group B ) and heavy exposure group(> or = 0.1 mg/L , group C ) , according to arsenic concentration in drinking water .
+The Chinese combined Raven ' s test was applied to evaluate the intelligence of children .
+In addition , the questionnaire survey was conducted to find out information , such as general information of households , source of drinking water , health of subjects and their parents , education of parents , etc .
+RESULTS The boys ' average intelligence quotients ( IQ ) were 99.4 ( group A ) , 96.5 ( group B ) , 94.9 ( group C ) .
+On the other hand , average IQs of girls were 101.3 ( group A ) , 98.3 ( group B ) and 94.2 ( group C ) in the sequence from high to low .
+When other factors were adjusted , the average intelligence quotient of girls who exposured to arsenic higher than 0.1 mg/L were significantly decreased , compared with control groups , while boys ' IQ did not show so .
+CONCLUSION Children's ingested the dring water contaminating arsenic ( > 1.0mg/L ) for the long run probably could have adverse effect on their intelligence development in some degree .
+Girls ' IQ seemed more susceptible to arsenic .

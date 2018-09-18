@@ -1,0 +1,11 @@
+BACKGROUND Developing infants may be especially sensitive to hormone disruption from chemicals including polychlorinated biphenyls ( PCBs ) and polybrominated diphenyl ethers ( PBDEs ) .
+OBJECTIVE We investigated relationships between cord serum levels of PCBs and PBDEs and thyroid hormones measured in cord blood serum and neonatal blood spots .
+METHODS We measured PCBs and PBDEs , thyrotropin ( TSH ) , thyroxine ( T4 ) and free T4 ( FT4 ) in cord blood serum from 297 infants who were delivered at the Johns Hopkins Hospital in 2004-2005 .
+We abstracted results of total T4 ( TT4 ) measured in blood spots collected in the hospital and at neonatal visits .
+We used delivery mode ( augmented vaginal deliveries and nonelective cesarean deliveries ) as a surrogate for intrapartum stress , which is known to alter cord blood thyroid hormones .
+RESULTS In the full study population , no compounds were associated with a change in average TSH , FT4 , or TT4 .
+BDE-100 was associated with increased odds of low cord TT4 , BDE-153 with increased odds of low cord TT4 and FT4 , and no compounds were associated with increased odds of high TSH .
+For infants born by spontaneous , vaginal , unassisted deliveries , PCBs were associated with lower cord TT4 and FT4 and lower TT4 measured in neonatal blood spots .
+PBDEs showed consistent but mainly nonsignificant negative associations with TT4 and FT4 measurements .
+CONCLUSIONS Prenatal PCB and PBDE exposures were associated with reduced TT4 and FT4 levels among infants born by spontaneous , unassisted vaginal delivery .
+Intrapartum stress associated with delivery mode may mask hormonal effects of PCBs and PBDEs .

@@ -1,0 +1,14 @@
+Workers in the petroleum industry are potentially exposed to a variety of petrochemicals , including benzene or benzene-containing liquids .
+Although a large number of studies of petroleum workers have been conducted to examine leukemia and other cancer risks , few existing studies have investigated cell-type-specific leukemias .
+One of the major reasons for the lack of cell-type-specific analysis was the small number of deaths by cell type in individual studies .
+In the present investigation , all cohort studies of petroleum workers in the United States and the United Kingdom were combined into a single database for cell-type-specific leukemia analysis .
+The majority of these workers were petroleum refinery employees , but production , pipeline , and distribution workers in the petroleum industry were also included .
+The combined cohort consisted of more than 208,000 petroleum workers , who contributed more than 4.6 million person-years of observation .
+Based on a meta-analysis of the combined data , cell-type-specific leukemia risks were expressed in terms of standardized mortality ratios ( meta-SMRs ) .
+The meta-SMR for acute myeloid leukemia was 0.96 .
+The lack of an increase of acute myeloid leukemia was attributed to the low levels of benzene exposure in the petroleum industry , particularly in comparison to benzene exposure levels in some previous studies of workers in other industries , who had been found to experience an increased risk of acute myeloid leukemia .
+Similarly , no increase in chronic myeloid , acute lymphocytic , or chronic lymphocytic leukemias was found in petroleum workers ( meta-SMRs of 0.89 , 1.16 , and 0.84 , respectively ) .
+Stratified meta-analyses restricted to refinery studies or to studies with at least 15 years of follow-up yielded similar results .
+The findings of the present investigation are consistent with those from several recent case-control studies of cell-type-specific leukemia .
+Patterns and levels of benzene exposure in the petroleum industry are reviewed .
+The results of the present epidemiologic investigation are discussed in conjunction with recent advances in leukemogenesis from other scientific disciplines .

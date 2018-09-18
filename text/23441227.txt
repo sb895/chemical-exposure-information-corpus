@@ -1,0 +1,10 @@
+Perfluorooctanoate ( PFOA ) and perfluorooctane sulfonate ( PFOS ) are used in a variety of consumer products and have been detected worldwide in human blood .
+Recent studies mainly of highly exposed populations have indicated that PFOA and PFOS may affect serum cholesterol levels , but the magnitude of the effect may be inconsistent across exposure levels .
+The aim of the present cross-sectional study was to investigate the association between plasma PFOA and PFOS and total cholesterol in a general , middle-aged Danish population .
+The study population comprised 753 individuals ( 663 men and 90 women ) , 50-65 years of age , nested within a Danish cohort of 57,053 participants .
+Blood samples were taken from all cohort members at enrolment ( 1993-1997 ) and stored in a biobank at -150°C .
+Plasma levels of PFOA and PFOS and serum levels of total cholesterol were measured .
+The associations between plasma PFOA and PFOS levels and total cholesterol levels were analysed by generalized linear models , both crude and adjusted for potential confounders .
+We observed statistically significant positive associations between both perfluorinated compounds and total cholesterol , e.g. a 4.4 [ 95% CI \u200a=\u200a 1.1-7.8 ] higher concentration of total cholesterol ( mg/dL ) per interquartile range of PFOA plasma level .
+Sex and prevalent diabetes appeared to modify the association between PFOA and PFOS , respectively , and cholesterol .
+In conclusion , this study indicated positive associations between plasma PFOA and PFOS levels and total cholesterol in a middle-aged Danish population , although whether the observed pattern of results reflects a causal association is unclear .

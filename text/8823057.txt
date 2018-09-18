@@ -1,0 +1,11 @@
+Chronic low-dose exposure to solvents has been associated in epidemiologic studies with chronic neurotoxicity , but the evidence is not consistent .
+Styrene causes acute disturbances in the central and peripheral nervous systems .
+To determine if exposure to styrene may contribute to chronic diseases of the central nervous system , the authors examined mortality from nervous system diseases , mental disorders , and suicide in relation to styrene exposure in an international historical cohort study .
+The cohort involved 35,443 workers employed during 1945-1991 in the reinforced plastics industry , where high exposures to styrene occur .
+Indicators of exposure were reconstructed through job histories and environmental and biologic monitoring data .
+Poisson regression was used for internal comparisons .
+Mortality from diseases of the central nervous system ( 27 deaths ) increased with time since first exposure , duration of exposure , average level of exposure , and cumulative exposure to styrene .
+A quadratic model described best the dose-response shape for cumulative exposure and duration of exposure with the highest risks at around 300 ppm-years and 5 years , respectively , and a subsequent decrease in risk in the highest exposure categories .
+Mortality from epilepsy increased monotonically with all styrene exposure indicators , while associations for degenerative diseases of the central nervous system were generally weaker .
+Mortality from mental disorders and suicide decreased with increasing duration of exposure and cumulative exposure , while there was no trend with time since first exposure and average exposure to styrene .
+These findings suggest that , in addition to the known acute effects , exposure to styrene may contribute to chronic diseases of the central nervous system .

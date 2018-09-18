@@ -1,0 +1,5 @@
+This study was designed to evaluate the association between lead , mercury , and arsenic in the soil near maternal residences during pregnancy and mental retardation or developmental disability ( MR/DD ) in children .
+The study was conducted using 6,048 mothers who did not move throughout their pregnancies and lived within six strips of land in South Carolina and were insured by Medicaid between January 1 , 1997 and December 31 , 2002 .
+The mother child pairs were then followed until June 1 , 2008 , through their Medicaid reimbursement files , to identify children diagnosed with MR/DD .
+The soil was sampled for mercury ( Hg ) , lead ( Pb ) , and As based on a uniform grid , and the soil concentrations were Kriged to estimate chemical concentration at individual locations .
+We identified a significant relationship between MR/DD and As , and the form of the relationship was nonlinear , after controlling for other known risk factors .

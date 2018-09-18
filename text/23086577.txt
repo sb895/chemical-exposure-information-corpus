@@ -1,0 +1,9 @@
+BACKGROUND Elevated blood pressure ( BP ) has been associated with particulate matter ( PM ) air pollution , but associations with PM chemical constituents are still uncertain .
+OBJECTIVES We investigated associations of BP with various chemical constituents of fine PM ( PM2.5 ) during 460 repeated visits among a panel of 39 university students .
+METHODS Resting BP was measured using standardized methods before and after the university students relocated from a suburban campus to an urban campus with different air pollution contents in Beijing , China .
+Air pollution data were obtained from central monitors close to student residences .
+We used mixed-effects models to estimate associations of various PM2.5 constituents with systolic BP ( SBP ) , diastolic BP ( DBP ) , and pulse pressure .
+RESULTS An interquartile range increase of 51.2 \u03bcg/m3 in PM2.5 was associated with a 1.08-mmHg ( 95% CI : 0.17 , 1.99 ) increase in SBP and a 0.96-mmHg ( 95% CI : 0.31 , 1.61 ) increase in DBP on the following day .
+A subset of PM2.5 constituents , including carbonaceous fractions ( organic carbon and elemental carbon ) , ions ( chloride and fluoride ) , and metals/metalloid elements ( nickel , zinc , magnesium , lead , and arsenic ) , were found to have robust positive associations with different BP variables , though robust negative associations of manganese , chromium , and molybdenum with SBP or DBP also were observed .
+CONCLUSIONS Our results support relationships between specific PM2.5 constituents and BP .
+These findings have potential implications for the development of pollution abatement strategies that maximize public health benefits .

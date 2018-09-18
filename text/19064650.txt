@@ -1,0 +1,9 @@
+The authors examined associations between exposure to aluminum or silica from drinking water and risk of cognitive decline , dementia , and Alzheimer's disease among elderly subjects followed for 15 years ( 1988-2003 ) .
+They actively searched for incident cases of dementia among persons aged 65 years or over living in 91 civil drinking-water areas in southern France .
+Two measures of exposure to aluminum were assessed : geographic exposure and individual exposure , taking into account daily consumption of tap water and bottled water .
+A total of 1,925 subjects who were free of dementia at baseline and had reliable water assessment data were analyzed .
+Using random-effects models , the authors found that cognitive decline with time was greater in subjects with a higher daily intake of aluminum from drinking water ( >or=0.1 mg/day , P=0.005 ) or higher geographic exposure to aluminum .
+Using a Cox model , a high daily intake of aluminum was significantly associated with increased risk of dementia .
+Conversely , an increase of 10 mg/day in silica intake was associated with a reduced risk of dementia ( adjusted relative risk =0.89 , P=0.036 ) .
+However , geographic exposure to aluminum or silica from tap water was not associated with dementia .
+High consumption of aluminum from drinking water may be a risk factor for Alzheimer's disease .

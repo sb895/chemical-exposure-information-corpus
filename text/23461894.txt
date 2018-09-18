@@ -1,0 +1,11 @@
+BACKGROUND Phthalates have been found in many personal care and industrial products , but have not previously been reported in food purchased in the United States .
+Phthalates are ubiquitous synthetic compounds and therefore difficult to measure in foods containing trace levels .
+Phthalates have been associated with endocrine disruption and developmental alteration .
+OBJECTIVES Our goals were to report concentrations of phthalates in U.S. food for the first time , specifically , nine phthalates in 72 individual food samples purchased in Albany , New York , and to compare these findings with other countries and estimate dietary phthalate intake .
+METHODS A convenience sample of commonly consumed foods was purchased from New York supermarkets .
+Methods were developed to analyze these foods using gas chromatography-mass spectroscopy .
+Dietary intakes of phthalates were estimated as the product of the food consumption rate and concentration of phthalates in that food.Results : The range of detection frequency of individual phthalates varied from 6% for dicyclohexyl phthalate ( DCHP ) to 74% for di-2-ethylhexyl phthalate ( DEHP ) .
+DEHP concentrations were the highest of the phthalates measured in all foods except beef [ where di-n-octyl phthalate ( DnOP ) was the highest phthalate found ] , with pork having the highest estimated mean concentration of any food group ( mean 300 ng/g ; maximum , 1,158 ng/g ) .
+Estimated mean adult intakes ranged from 0.004 \u03bcg/kg/day for dimethyl phthalate ( DMP ) to 0.673 \u03bcg/kg/day for DEHP .
+CONCLUSIONS Phthalates are widely present in U.S. foods .
+While estimated intakes for individual phthalates in this study were more than an order of magnitude lower than U.S. Environmental Protection Agency reference doses , cumulative exposure to phthalates is of concern and a more representative survey of U.S. foods is indicated .

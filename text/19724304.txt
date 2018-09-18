@@ -1,0 +1,13 @@
+The impact of the US EPA-required phase-outs starting in 2000-2001 of residential uses of the organophosphate ( OP ) pesticides chlorpyrifos ( CPF ) and diazinon ( DZN ) on preschool children's pesticide exposures was investigated over 2003-2005 , in the Raleigh-Durham-Chapel Hill area of North Carolina .
+Data were collected from 50 homes , each with a child initially of age 3 years ( OCh ) and a younger child ( YCh ) .
+Environmental samples ( indoor and outdoor air , dust , soil ) and child-specific samples ( hand surface residue , urine , diet ) were collected annually over 24-h periods at each home .
+Child time-activity diaries and household pesticide use information were also collected .
+Analytes included CPF and DZN ; pentachlorophenol ( PCP ) ; 2,4-dichlorophenoxyacetic acid ( 2,4-D ) ; the CPF metabolite 3,5,6-trichloro-2-pyridinol ( TCP ) ; and the DZN metabolite 2-isopropyl-6-methyl-4-pyrimidinol ( IMP ) .
+Exposures ( ng/day ) through the inhalation , dietary ingestion , and indirect ingestion were calculated .
+Aggregate potential doses in ng/kg body weight per day ( ng/kg/day ) were obtained by summing the potential doses through the three routes of exposure .
+Geometric mean aggregate potential doses decreased from 2003 to 2005 for both OCh and YCh , with the exception of 2,4-D .
+Child-specific longitudinal modeling indicated significant declines across time of the potential doses of CPF , DZN , and PCP for both children ; declines of IMP for both children , significant only for OCh ; a decline of TCP for OCh but an increase of TCP for YCh ; and no significant change of 2,4-D for either child .
+Age-adjusted modeling indicated significant effects of the child's age for all except CPF , and of time for all except PCP and 2,4-D .
+Within-home variability was small compared with that between homes ; variability was smallest for 2,4-D , both within and between homes .
+The aggregate potential doses of CPF and DZN were well below published reference dose values .
+These findings show the success of the US EPA restrictions in reducing young children's pesticide exposures .

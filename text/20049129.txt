@@ -1,0 +1,12 @@
+BACKGROUND Estimates of exposure to toxicants are predominantly obtained from single time-point data .
+Fish consumption guidance based on these data may be incomplete , as recommendations are unlikely to consider impact from factors such as intraindividual variability , seasonal differences in consumption behavior , and species consumed .
+OBJECTIVES/METHODS We studied populations of Korean ( n = 108 ) and Japanese ( n = 106 ) women living in the Puget Sound area in Washington State to estimate mercury exposure based on fish intake and hair Hg levels at two and three time points , respectively .
+Our goals were to examine changes in hair Hg levels , fish intake behavior , and Hg body burden over time ; and to determine if data from multiple time points could improve guidance .
+RESULTS/CONCLUSION More than 50 fish species were consumed , with eight species representing approximately three-fourths of fish consumed by the Japanese and 10 species representing approximately four-fifths of fish intake by the Koreans .
+Fish species responsible for most Hg intake did not change over time ; < 10 species accounted for most of the Hg body burden in each population .
+Longitudinal variability of hair Hg levels changed slowly across the study period .
+Japanese with hair Hg levels > 1.2 ppm ( mean , 2.2 ppm ) consumed approximately 150% more fish than those with levels < or = 1.2 ppm ( mean , 0.7 ppm ) .
+However , because many participants consumed substantial amounts of fish while having hair-Hg levels < or = 1.2 ppm , the nutritional benefits offered from fish consumption should be obtainable without exceeding the RfD .
+We observed a 100% difference in fish intake between open-ended and 2-week recall fish consumption surveys .
+Open-ended survey data better represent Hg intake as determined from hair Hg levels .
+Single time-point fish intake data appear to be adequate for deriving guidance , but caution is warranted , as study is required to determine the significance of the different outcomes observed using the two survey time frames .

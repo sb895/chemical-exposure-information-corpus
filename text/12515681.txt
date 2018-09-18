@@ -1,0 +1,10 @@
+In this study I examined the effect of cooking smoke on the reported prevalence of asthma among elderly men and women greater than or equal to 60 years old ) .
+The analysis is based on 38,595 elderly persons included in India's second National Family Health Survey conducted in 1998-1999 .
+Effects of exposure to cooking smoke , ascertained by type of fuel used for cooking ( biomass fuels , cleaner fuels , or a mix of biomass and cleaner fuels ) , on the reported prevalence of asthma were estimated using logistic regression .
+Because the effects of cooking smoke are likely to be confounded with effects of age , tobacco smoking , education , living standard , and other such factors , the analysis was carried out after statistically controlling for such factors .
+Results indicate that elderly men and women living in households using biomass fuels have a significantly higher prevalence of asthma than do those living in households using cleaner fuels [ odds ratio ( OR ) = 1.59 ; 95% confidence interval ( 95% CI ) , 1.30-1.94 ] , even after controlling for the effects of a number of potentially confounding factors .
+Active tobacco smoking was also associated with higher asthma prevalence in the elderly , but not environmental tobacco smoke .
+Availability of a separate kitchen in the house and a higher living standard of the household were associated with lower asthma prevalence .
+The adjusted effect of cooking smoke on asthma was greater among women ( OR = 1.83 ; 95% CI , 1.32-2.53 ) than among men ( OR = 1.46 ; 95% CI , 1.14-1.88 ) .
+The findings have important program and policy implications for countries such as India , where large proportions of the population rely on polluting biomass fuels for cooking and space heating .
+More epidemiologic research with better measures of smoke exposure and clinical measures of asthma is needed to validate the findings .

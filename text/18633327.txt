@@ -1,0 +1,9 @@
+BACKGROUND People with less education in Europe , Asia , and the United States are at higher risk of mortality associated with daily and longer-term air pollution exposure .
+We examined whether educational level modified associations between mortality and ambient particulate pollution ( PM10 ) in Latin America , using several timescales .
+METHODS The study population included people who died during 1998-2002 in Mexico City , Mexico ; Santiago , Chile ; and São Paulo , Brazil .
+We fit city-specific robust Poisson regressions to daily deaths for nonexternal-cause mortality , and then stratified by age , sex , and educational attainment among adults older than age 21 years ( none , some primary , some secondary , and high school degree or more ) .
+Predictor variables included a natural spline for temporal trend , linear PM10 and apparent temperature at matching lags , and day-of-week indicators .
+We evaluated PM10 for lags 0 and 1 day , and fit an unconstrained distributed lag model for cumulative 6-day effects .
+RESULTS The effects of a 10-microg/m increment in lag 1 PM10 on all nonexternal-cause adult mortality were for Mexico City 0.39% ( 95% confidence interval = 0.13%-0.65% ) ; São Paulo 1.04% ( 0.71%-1.38% ) ; and for Santiago 0.61% ( 0.40%-0.83% ) .
+We found cumulative 6-day effects for adult mortality in Santiago ( 0.86% [ 0.48%-1.23%] ) and São Paulo ( 1.38% [ 0.85%-1.91%] ) , but no consistent gradients by educational status .
+CONCLUSIONS PM10 had important short- and intermediate-term effects on mortality in these Latin American cities , but associations did not differ consistently by educational level .

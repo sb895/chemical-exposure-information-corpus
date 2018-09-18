@@ -1,0 +1,7 @@
+Prevalence of skin lesions was investigated among 752 participants in eight villages in Kurdistan province in Iran with emphasis on total lifetime intake of arsenic from drinking water ( TLIA ) .
+The participants were selected from eight villages with different exposure levels using a cluster-sampling technique .
+TLIA was calculated for each individual taking into account the type of water supply and their mean annual arsenic concentration .
+The study showed that 49 persons ( 6.5% ) were suffering from hyperkeratosis and 20 persons ( 2.7% ) from hyperpigmentation .
+The correlation between hyperkeratosis and hyperpigmentation was significant ( R=0.325 , p<0.01 ) .
+Using the logistic regression model it was found that the relationship between TLIA and hyperkeratosis ( OR=1.14 , 95% CI=1.039-1.249 ) , and hyperpigmentation ( OR=1.254 , 95% CI=1.112-1.416 ) was also significant .
+In conclusion , TLIA can be applied as a reliable indicator for the assessment of exposure .

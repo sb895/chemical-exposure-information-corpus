@@ -1,0 +1,8 @@
+BACKGROUND Animal studies indicate that some phthalate metabolites may harm female reproductive function .
+OBJECTIVES We assessed the associations between exposure to phthalate metabolites and pregnancy loss .
+METHODS Using a previously established cohort of couples planning their first pregnancy , we analyzed four primary and two oxidized secondary phthalate metabolites in urine samples collected on day 10 after the first day of the last menstrual period before conception occurred ( n = 128 ) and during the previous cycle ( if any , n = 111 ) .
+Subclinical embryonal loss was identified by repeated measurement of urinary human chorionic gonadotropin , and information on clinical spontaneous abortions was obtained by telephone interview with the mother .
+RESULTS Pregnancy loss ( n = 48 ) was increased among women with urinary concentration of monoethylhexyl phthalate ( MEHP ) in the upper tertile in the conception sample compared with women in the lowest tertile [ adjusted odds ratio ( OR ) = 2.9 ; 95% confidence interval ( CI ) : 1.1 , 7.6 ] .
+The corresponding OR for subclinical embryonal loss ( n = 32 ) was 40.7 ( 95% CI : 4.5 , 369.5 ) .
+CONCLUSIONS The phthalate metabolite MEHP was associated with higher occurrence of pregnancy loss .
+Because this is the first human study to show this association and the sample size is small , the findings need to be corroborated in independent studies .

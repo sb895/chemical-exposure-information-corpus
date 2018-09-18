@@ -1,0 +1,9 @@
+The present study reports the association between prenatal exposure to polychlorinated biphenyls ( PCBs ) , the corpus callosum , and response inhibition in children who are 4.5 years old .
+Children ( n = 189 ) enrolled in the Oswego study were tested using a continuous performance test .
+We measured ( square millimeters ) the splenium of the corpus callosum , a pathway implicated in the regulation of response inhibition , using magnetic resonance imaging .
+Results indicated a dose-dependent association between cord blood PCBs and errors of commission .
+Splenium size but not other brain areas predicted errors of commission ( r(2) = 0.20 ) , with smaller size associated with more errors of commission .
+There was an interaction between splenium size and PCB exposure .
+The smaller the splenium , the larger the association between PCBs and errors of commission .
+If the association between PCBs and response inhibition is indeed causal , then children with suboptimal development of the splenium are particularly vulnerable to these effects .
+These data await replication .

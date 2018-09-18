@@ -1,0 +1,11 @@
+OBJECTIVES We examined the risk of mortality and cancer incidence with quantitative exposure to benzene-soluble fraction ( BSF ) , benzo(a)pyrene ( BaP ) , fluoride , and inhalable dust in two Australian prebake smelters .
+METHODS A total of 4,316 male smelter workers were linked to mortality and cancer incidence registries and followed from 1983 through 2002 ( mean follow-up : 15.9 years , maximum : 20 years ) .
+Internal comparisons using Poisson regression were undertaken based on quantitative exposure levels .
+RESULTS Smoking-adjusted , monotonic relationships were observed between respiratory cancer and cumulative inhalable dust exposure ( trend p = 0.1 ) , cumulative fluoride exposure ( p = 0.1 ) , and cumulative BaP exposure ( p = 0.2 ) .
+The exposure-response trends were stronger when examined across the exposed categories ( BaP p = 0.1 ; inhalable dust p = 0.04 ) .
+A monotonic , but not statistically significant trend was observed between cumulative BaP exposure and stomach cancer ( n = 14 ) .
+Bladder cancer was not associated with BaP or BSF exposure .
+No other cancer and no mortality outcomes were associated with these smelter exposures .
+CONCLUSIONS The carcinogenicity of Söderberg smelter exposures is well established ; in these prebake smelters we observed an association between smelter exposures and respiratory cancer , but not bladder cancer .
+The exploratory finding for stomach cancer needs confirmation .
+These results are preliminary due to the young cohort and short follow-up time .

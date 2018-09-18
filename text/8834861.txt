@@ -1,0 +1,7 @@
+Individuals are exposed to volatile compounds present in tap water by ingestion , inhalation , and dermal absorption .
+Traditional risk assessments for water often only consider ingestion exposure to toxic chemicals , even though showering has been shown to increase the body burden of certain chemicals due to inhalation exposure and dermal absorption .
+We collected and analyzed time-series samples of expired alveolar breath to evaluate changes in concentrations of volatile organic compounds being expired , which reflects the rate of change in the bloodstream due to expiration , metabolism , and absorption into tissues .
+Analysis of chloroform and trichloethene in expired breath , compounds regulated in water , was also used to determine uptake from tap water by each route ( inhalation , ingestion , or absorption ) .
+Each route of exposure contributed to the total exposure of these compounds from daily water use .
+Further , the ingestion dose was completely metabolized before entering the bloodstream , whereas the dose from the other routes was dispersed throughout the body .
+Thus , differences in potential biologically effective doses depend on route , target organ , and whether the contaminant or metabolite is the biologically active agent .

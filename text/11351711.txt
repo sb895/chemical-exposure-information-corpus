@@ -1,0 +1,9 @@
+Polychlorinated biphenyls ( PCBs ) remain public health concerns because of their persistence in the environment and their potential health impact .
+We linked data from three mixed cross-sectional/longitudinal surveys of Michigan anglers conducted by the Michigan Department of Public Health in 1973-1974 , 1979-1982 , and 1989-1993 to examine the association between sport-caught fish consumption and serum PCBs .
+The reported weight of fish consumed declined over the three surveys ( median 40 , 38 , and 31 lb/yr ) .
+Serum Aroclor 1260 levels were 2-3 times higher in fish-eaters than in nonfish-eaters in all three surveys in both men and women .
+In nonfish-eaters , serum PCB levels rose between 1973-1974 and 1979-1982 [ adjusted change = 0.30 log(ppb) , p = 0.01 ] and then declined between 1979-1982 and 1989-1993 [ adjusted change = -0.16 log(ppb) , p = 0.002 ] .
+Among fish-eaters , serum PCB levels also rose between 1973-1974 and 1979-1982 [ adjusted change = 0.45 log(ppb) , p < 0.001 ] but were unchanged between 1979-1982 and 1989-1993 [ adjusted change = -0.09 log(ppb) , p = 0.14 ] .
+Predictors of serum PCB levels included annual fish consumption , gender , and age .
+We conclude that background human serum levels of Aroclor 1260 had declined by 1989-1993 from earlier peak levels .
+Among consumers of sport-caught Great Lake fish , serum PCB levels did not significantly decrease , probably due to continued exposure and the long half-life of PCB .

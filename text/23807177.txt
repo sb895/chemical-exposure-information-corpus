@@ -1,0 +1,15 @@
+Exhaled nitric oxide ( eNO ) is increasingly used as a non-invasive measure of airway inflammation .
+Despite this , little information exists regarding the potential effects of indoor microbial components on eNO .
+We determined the influence of microbial contaminants in house dust and other indoor environmental characteristics on eNO levels in seven-year-olds with and without a physician-diagnosis of asthma .
+The study included 158 children recruited from a birth cohort study , and 32 were physician-diagnosed as asthmatic .
+The relationship between eNO levels and exposures to home dust streptomycetes , endotoxin , and molds was investigated .
+Streptomycetes and endotoxin were analyzed both as loads and concentrations in separate models .
+Dog , cat , and dust mite allergens also were evaluated .
+In the multivariate exposure models , high streptomycetes loads and concentrations were significantly associated with a decrease in eNO levels in asthmatic ( p<0.001 ) but not in healthy children .
+The presence of dog allergen , however , was associated with increased levels of eNO ( p=0.001 ) .
+Dust endotoxin was not significant .
+The relationship between eNO and indoor exposure to common outdoor molds was u-shaped .
+In non-asthmatic children , none of the exposure variables was significantly associated with eNO levels .
+To our knowledge , this is the first study demonstrating a significant association between microbial components in the indoor environment and eNO levels in asthmatic children .
+This study demonstrates the importance of simultaneously assessing multiple home exposures of asthmatic children to better understand opposing effects .
+Common components of the indoor Streptomyces community may beneficially influence airway inflammation .

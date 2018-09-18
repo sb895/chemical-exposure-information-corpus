@@ -1,0 +1,7 @@
+INTRODUCTION We present data from the Korean National Health and Nutrition Examination Survey 2008-2009 on the distribution of blood cadmium levels and their association with iron deficiency in a representative sample of the adult Korean population .
+METHODS Serum ferritin was categorized into three levels : low ( serum ferritin <15.0 \u03bcg/L ) , low normal ( 15.0-30.0 \u03bcg/L for women and 15.0-50.0 for men ) , and normal ( \u226530.0 \u03bcg/L for women and \u226550.0 for men ) , and its association with blood cadmium level was assessed after adjustment for various demographic and lifestyle factors .
+RESULTS Geometric means of blood cadmium in the low serum ferritin group in women , men , and all participants were significantly higher than in the normal group .
+Additionally , multiple regression analysis after adjusting for various covariates showed that blood cadmium was significantly higher in the low-ferritin group in women , men , and all participants compared with the normal group .
+We also found an association between serum ferritin and blood cadmium among never-smoking participants .
+DISCUSSION We found , similar to other recent population-based studies , an association between iron deficiency and increased blood cadmium in men and women , independent of smoking status .
+The results of the present study show that iron deficiency is associated with increased levels of blood cadmium in the general population .

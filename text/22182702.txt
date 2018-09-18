@@ -1,0 +1,8 @@
+BACKGROUND For > 50 years , polyfluoroalkyl compounds ( PFCs ) have been used worldwide , mainly as surfactants and emulsifiers , and human exposure to some PFCs is widespread .
+OBJECTIVES Our goal was to report PFC serum concentrations from a convenience sample of Dallas , Texas , children from birth to < 13 years of age , and to examine age and sex differences in PFC concentrations .
+METHODS We analyzed 300 serum samples collected in 2009 for eight PFCs by online solid phase extraction-high performance liquid chromatography-isotope dilution-tandem mass spectrometry .
+RESULTS Perfluorohexane sulfonic acid ( PFHxS ) , perfluorooctane sulfonic acid ( PFOS ) , perfluorooctanoic acid ( PFOA ) , and perfluorononanoic acid ( PFNA ) were detected in > 92% of participants ; the other PFCs measured were detected less frequently .
+Overall median concentrations of PFOS ( 4.1 ng/mL ) were higher than those for PFOA ( 2.85 ng/mL ) , PFNA ( 1.2 ng/mL ) , and PFHxS ( 1.2 ng/mL ) .
+For PFOS , PFOA , PFNA , and PFHxS , we found no significant differences ( p < 0.05 ) by sex , significantly increasing concentrations for all four chemicals by age , and significantly positive correlations between all four compounds .
+CONCLUSIONS We found no significant differences in the serum concentrations of PFOS , PFOA , PFNA , and PFHxS by sex , but increasing concentrations with age .
+Our results suggest that these 300 Texas children from birth through 12 years of age continued to be exposed to several PFCs in late 2009 , years after changes in production of some PFCs in the United States .

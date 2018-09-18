@@ -1,0 +1,12 @@
+Ingestion has been a primary route of PCB exposure for people , especially those not working directly in industrial settings .
+During 2002-2004 , women were recruited at delivery from two districts in eastern Slovakia : Michalovce with high PCB contamination from a chemical manufacturing plant , and Svidnik located 70 km to the northwest , having lower environmental levels of PCBs .
+Concentrations of 15 PCB congeners were measured in maternal serum using high-resolution gas chromatography with electron capture detection .
+A food frequency questionnaire was developed and validated at the Research Institute of Nutrition and School of Medicine in Bratislava , Slovakia .
+The questionnaire was comprised of 88 food items representative of the national dietary habits and designed to ascertain ( 1 ) the source of food items as reported by the women ( locally produced or purchased from a retail outlet ) and ( 2 ) quantities consumed of high-fat food categories representative of the national dietary habits .
+Our primary goal was to identify specific food sources , either locally produced or purchased from retail stores , that might predict serum concentrations of PCBs .
+We used multiple linear regression to examine the relationship of dietary fats to lipid-adjusted serum PCB levels in 948 adult women ( Michalovce N=662 , Svidnik N=284 ) who had recently given birth .
+We adjusted for residential district , age , body mass index , education and duration of previous lactation .
+Consumption of fat from locally produced foods was significantly associated with higher levels of lipid-adjusted serum PCB ( beta=0.06 , P=0.007 ) .
+Fat from foods purchased in retail outlets showed no significant association ( beta=-0.02 , P=0.36 ) .
+There was no interaction between district and diet in predicting serum PCB levels .
+Comparing women in Michalovce consuming 20 g of fat per day from local sources with those consuming 1 g of fat per day from local sources , lipid-adjusted serum concentrations were predicted to be higher by 81 ng/g lipid or 14.8% 630 ng/g lipid versus 549 ng/g lipid .

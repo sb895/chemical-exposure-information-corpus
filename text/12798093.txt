@@ -1,0 +1,12 @@
+Benzene has been implicated as an environmental risk factor in leukaemia and other haematological diseases .
+Relationships between urban benzene exposure , oxidative DNA damage and polymorphisms in metabolism enzymes were examined in 40 volunteers living and working in Copenhagen .
+Personal exposures to benzene , toluene and methyl tert-butyl ether ( MTBE ) were monitored during a 5-day period .
+DNA damage was measured by 7-hydro-8-oxo-2'-deoxyguanosine ( 8-oxodG ) in lymphocyte DNA and urine and by comet assay with use of fapyguanine glycosylase ( FPG ) and endonuclease III ( ENDO ) .
+Excretion of the benzene metabolites trans,trans-muconic acid ( ttMA ) and S-phenylmercapturic acid ( S-PMA ) were measured in urine .
+Polymorphisms in glutathione-S-transferases T1 ( GSTT1 ) , M1 ( GSTM1 ) and P1 ( GSTP1 ) and NAD(P)H:quinone oxidoreductase ( NQO ) were determined .
+Median exposures to benzene , toluene and MTBE were 2.5 , 18.7 and 0.86 microg/m(3) .
+No significant correlations between external benzene exposure and any of the biomarkers were found .
+However , a significant correlation between S-PMA excretion and 8-oxodG in lymphocytes was found ( R(s)=0.39 ) .
+Men were found to excrete significantly more ttMA than the women did and ttMA excretion in men was found to be significantly associated with external benzene exposure ( R=0.53 , P=0.025 ) .
+In addition , ttMA and S-PMA excretion was significantly higher in subjects with the NQO+/-genotype compared with subjects with the wild type ( P=0.004 and P=0.011 , respectively ) .
+Even though there are some limitations in this study due to the low range of benzene exposure and biomarker concentrations as well as a small number of subjects , these results could suggest that even at ambient concentrations exposure to benzene could have genotoxic effects in susceptible individuals .

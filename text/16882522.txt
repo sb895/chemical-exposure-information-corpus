@@ -1,0 +1,11 @@
+Blood and/or breast milk have been used to assess human exposure to various environmental contaminants .
+Few studies have been available to compare the concentrations in one matrix with those in another .
+The goals of this study were to determine the current levels of polybrominated diphenyl ethers ( PBDEs ) and polychlorinated biphenyls ( PCBs ) in Japanese women , with analysis of the effects of lifestyle and dietary habits on these levels , and to develop a quantitative structure-activity relationship ( QSAR ) with which to predict the ratio of serum concentration to breast milk concentration .
+We measured PBDEs and PCBs in 89 paired samples of serum and breast milk collected in four regions of Japan in 2005 .
+The geometric means of the total concentrations of PBDE ( 13 congeners ) in milk and serum were 1.56 and 2.89 ng/g lipid , respectively , whereas those of total PCBs ( 15 congeners ) were 63.9 and 37.5 ng/g lipid , respectively .
+The major determinant of total PBDE concentration in serum and milk was the geographic area within Japan , whereas nursing duration was the major determinant of PCB concentration .
+BDE-209 was the most predominant PBDE congener in serum but not in milk .
+The excretion of BDE 209 in milk was lower than that of BDE 47 and BDE 153 .
+QSAR analysis revealed that two parameters , calculated octanol/water partition and number of hydrogen-bond acceptors , were significant descriptors .
+During the first weeks of lactation , the predicted partitioning of PBDE and PCB congeners from serum to milk agreed with the observed values .
+However , the prediction became weaker after 10 weeks of nursing .

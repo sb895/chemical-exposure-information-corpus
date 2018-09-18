@@ -1,0 +1,16 @@
+Polycyclic aromatic hydrocarbons ( PAHs ) are widespread environmental pollutants that are formed in combustion processes .
+At the cellular level , exposure to PAHs causes oxidative stress and/or some of it congeners bind to DNA , which may interact with mitochondrial function .
+However , the influence of these pollutants on mitochondrial DNA ( mtDNA ) content remains largely unknown .
+We determined whether indoor exposure to PAHs is associated with mitochondrial damage as represented by blood mtDNA content .
+Blood mtDNA content ( ratio mitochondrial/nuclear DNA copy number ) was determined by real-time qPCR in 46 persons , both in winter and summer .
+Indoor PAH exposure was estimated by measuring PAHs in sedimented house dust , including 6 volatile PAHs and 8 non-volatile PAHs .
+Biomarkers of oxidative stress at the level of DNA and lipid peroxidation were measured .
+In addition to the epidemiologic enquiry , we exposed human TK6 cells during 24 h at various concentrations ( range : 0 to 500 µM ) of benzo(a)pyrene and determined mtDNA content .
+Mean blood mtDNA content averaged ( ± SD ) 0.95 ± 0.185 .
+The median PAH content amounted 554.1 ng/g dust ( 25(th)-75(th) percentile : 390.7-767.3 ) and 1385 ng/g dust ( 25(th)-75(th) percentile : 1000-1980 ) in winter for volatile and non-volatile PAHs respectively .
+Independent for gender , age , BMI and the consumption of grilled meat or fish , blood mtDNA content decreased by 9.85% ( 95% CI : -15.16 to -4.2 ; p = 0.002 ) for each doubling of non-volatile PAH content in the house dust in winter .
+The corresponding estimate for volatile PAHs was -7.3% ( 95% CI : -13.71 to -0.42 ; p = 0.04 ) .
+Measurements of oxidative stress were not correlated with PAH exposure .
+During summer months no association was found between mtDNA content and PAH concentration .
+The ability of benzo(a)pyrene ( range 0 µM to 500 µM ) to lower mtDNA content was confirmed in vitro in human TK6 cells .
+Based on these findings , mtDNA content can be a target of PAH toxicity in humans .

@@ -1,0 +1,9 @@
+CONTEXT Evidence on the health risks associated with short-term exposure to fine particles ( particulate matter < or =2.5 microm in aerodynamic diameter [ PM2.5] ) is limited .
+Results from the new national monitoring network for PM2.5 make possible systematic research on health risks at national and regional scales .
+OBJECTIVES To estimate risks of cardiovascular and respiratory hospital admissions associated with short-term exposure to PM2.5 for Medicare enrollees and to explore heterogeneity of the variation of risks across regions .
+DESIGN , SETTING , AND PARTICIPANTS A national database comprising daily time-series data daily for 1999 through 2002 on hospital admission rates ( constructed from the Medicare National Claims History Files ) for cardiovascular and respiratory outcomes and injuries , ambient PM2.5 levels , and temperature and dew-point temperature for 204 US urban counties ( population >200,000 ) with 11.5 million Medicare enrollees ( aged >65 years ) living an average of 5.9 miles from a PM2.5 monitor .
+MAIN OUTCOME MEASURES Daily counts of county-wide hospital admissions for primary diagnosis of cerebrovascular , peripheral , and ischemic heart diseases , heart rhythm , heart failure , chronic obstructive pulmonary disease , and respiratory infection , and injuries as a control outcome .
+RESULTS There was a short-term increase in hospital admission rates associated with PM2.5 for all of the health outcomes except injuries .
+The largest association was for heart failure , which had a 1.28% ( 95% confidence interval , 0.78%-1.78% ) increase in risk per 10-microg/m3 increase in same-day PM2.5 .
+Cardiovascular risks tended to be higher in counties located in the Eastern region of the United States , which included the Northeast , the Southeast , the Midwest , and the South .
+CONCLUSION Short-term exposure to PM2.5 increases the risk for hospital admission for cardiovascular and respiratory diseases .

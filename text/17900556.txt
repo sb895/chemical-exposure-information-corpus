@@ -1,0 +1,6 @@
+This study aims at evaluating the suitability of adjusting urinary concentrations of arsenic , or any other urinary biomarker , for variations in urine dilution by creatinine and specific gravity in a malnourished population .
+We measured the concentrations of metabolites of inorganic arsenic , creatinine and specific gravity in spot urine samples collected from 1466 individuals , 5-88 years of age , in Matlab , rural Bangladesh , where arsenic-contaminated drinking water and malnutrition are prevalent ( about 30% of the adults had body mass index ( BMI ) below 18.5 kg/m(2) ) .
+The urinary concentrations of creatinine were low ; on average 0.55 g/L in the adolescents and adults and about 0.35 g/L in the 5-12 years old children .
+Therefore , adjustment by creatinine gave much higher numerical values for the urinary arsenic concentrations than did the corresponding data expressed as microg/L , adjusted by specific gravity .
+As evaluated by multiple regression analyses , urinary creatinine , adjusted by specific gravity , was more affected by body size , age , gender and season than was specific gravity .
+Furthermore , urinary creatinine was found to be significantly associated with urinary arsenic , which further disqualifies the creatinine adjustment .

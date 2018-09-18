@@ -1,0 +1,11 @@
+We studied determinants of cadmium status and kidney function in nonsmoking men and women living on farms in southern Sweden .
+Median blood Cd ( BCd ) was 1.8 nmol/L ( range , 0.38-18 ) and median urinary Cd ( UCd ) was 0.23 nmol/mmol creatinine ( range , 0.065-0.99 ) .
+The intake of Cd per kilogram body weight did not significantly differ between sexes and did not correlate with BCd or UCd , which may be explained by a low and varying bioavailibility of Cd from food items .
+However , when a subgroup of the study population , couples of never-smoking men and women , were compared , a lower intake per kilogram body weight was found in the women , but the women had a 1.8 times higher BCd and a 1.4 times higher UCd .
+The higher female BCd and UCd may be explained by higher absorption due to low iron status .
+BCd and UCd both increased with age and were higher in the ex-smokers , who had stopped smoking more than 5 years before the study , compared to never-smokers .
+The contribution of locally produced food to the total Cd intake was relatively low and varied .
+Males living in areas with low soil Cd had lower UCd than the others .
+However , Cd levels in kidneys from pigs , fed locally produced cereals , did not predict BCd or UCd in humans at the same farms .
+The kidney function parameter ss2-microglobulin-creatinine clearance was related to UCd , whereas urinary protein-HC , N-acetyl-ss-glucoseaminidase or albumin-creatinine clearance was not when age was accounted for .
+Hence , even at the low exposure levels in this study population , there was an indication of effect on biochemical markers of renal function .

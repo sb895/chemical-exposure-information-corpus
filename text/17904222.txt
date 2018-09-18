@@ -1,0 +1,9 @@
+Mercury levels in hair of a general population , 237 adults aged between 35-45 , in Naples , Italy , were assessed .
+The subjects were asked to fill in a questionnaire about age , gender , body weight , height , body mass index ( BMI ) , fish consumption , number , surface and area of dental amalgam fillings .
+Total mercury ( THg ) concentrations in human hair ranged from 0.221 to 3.402 microg/g and the mean value for the subjects under study was 0.638 microg/g .
+Study participants were divided into three groups in accordance with fish consumption and dental amalgam : ANF ( amalgam and no fish ) ; NAF ( no amalgam but with fish ) and AAF ( amalgam and fish ) .
+Significant differences in THg were found in the three groups ( p<0.05 ) .
+A multiple linear regression analysis showed a weak but significant correlation of THg content in hair with respect to gender and age , but almost no association was found between THg and dental fillings .
+Conversely , a strong correlation was obtained between THg and fish consumption regardless of the group evaluated .
+Finally , mercury levels in hair exceeded the levels corresponding to the EPA reference dose ( RfD ) of 0.1 microg Hg/kg body weight per day ( 1 microg Hg/g hair ) in 6% of the population ( 4% men and 2% women ) .
+However , the THg limits in our subjects were not exceeded according to the WHO guidelines , which use a benchmark dose of 0.23 microg Hg/kg bw/day ( 14 microg Hg/g maternal hair ) .

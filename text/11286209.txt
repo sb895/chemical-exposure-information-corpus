@@ -1,0 +1,12 @@
+The objective of this paper is to devise a way to facilitate the use of fixed air monitors data in order to assess population exposure .
+A weighting scheme that uses the data from different monitoring sites and takes into account the time-activity patterns of the study population is proposed .
+PM2.5 personal monitoring data were obtained within the European EXPOLIS study , in Grenoble , France ( 40 adult non-smoking volunteers , winter 1997 ) .
+Volunteers carried PM2.5 personal monitors during 48 h and filled in time-activity diaries .
+Workplaces and places of residence were classified into two categories using a Geographic Information System ( GIS ) : some volunteers ' life environments are seen as best represented by PM10 ambient air monitors located in urban background sites ; others by monitors situated close to high traffic density sites ( proximity sites ) .
+Measurements from the Grenoble fixed monitoring network using a TEOM PM10 sampler were available across the same period for these two types of sites ( PM10block and PM10prox ) .
+These data were used to compute a translator parameter deltai that forces the measured PM2.5 personal exposures ( PM2.5persoi ) to equate the average PM10 urban ambient air concentrations ( [ PM10back + PM10prox]/2 ) measured the same days .
+Average deltai was 4.2 microg/m3 ( CI95%[-3.4 ; 11.9] ) , with true average PM2.5 personal exposure being 36.2 microg/m3 ( 28.2 ; 44.1 ) .
+PM10 ambient levels at the proximity site and at the background site were respectively PM10prox = 43.8 microg/m3 ( 37.1 ; 50.6 ) and PM10back = 37.0 microg/m3 ( 31.8 ; 42.3 ) .
+In order to assess the consistency of this approach , six scenarios of ' proximity ' and ' background ' environments were accommodated , according to traffic intensity and road distance .
+Deltai was estimated for the entire EXPOLIS population and for subgroups , using terciles based on the percentage of time spent in proximity by each subject .
+Other similar studies need to be conducted in different urban settings , and with other pollutants , in order to assess the generalizability of this simple approach to estimate population exposures from air quality surveillance data .

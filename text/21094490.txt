@@ -1,0 +1,9 @@
+BACKGROUND Several in vivo and in vitro studies have shown that metal-rich particles may enhance allergic responses to house dust mites and induce an increased release of allergy-related cytokines .
+OBJECTIVES The main goal of this analysis is to define the possible association of intrauterine exposure to lead and mercury with the occurrence of skin sensitization to common aeroallergens in early childhood .
+MATERIAL AND METHODS The present study refers to a sample of 224 women in the second trimester of pregnancy recruited from Krakow inner city area who had full term pregnancies and whose children underwent skin prick testing ( SPT ) at the age of 5 .
+Lead and mercury levels were assessed in cord blood and retested in children at age of 5 years .
+Aeroallergen concentrations in house dust were measured at the age of 3 years .
+The main health outcome ( atopic status ) was defined as the positive SPT to at least one common aeroallergen ( Der f1 , Der p1 , Can f1 and Fel d1 ) at the age of 5 years .
+In the statistical analysis of the association between atopic status of children and exposure to metals , the study considered a set of covariates such as maternal characteristics ( age , education , atopy ) , child's gender , number of older siblings , prenatal ( measured via cord blood cotinine ) and postnatal environmental tobacco smoke together with exposure to polycyclic aromatic hydrocarbons ( PAH ) as measured by PAH-DNA adducts .
+RESULTS AND CONCLUSION In the binary regression analysis , which controlled for the confounders , the risk ratio ( RR ) estimate for atopic sensitization was significantly associated with the lead exposure ( RR=2.25 , 95%CI : 1.21-4.19 ) .
+In conclusion , the data suggest that even very low-level of prenatal lead exposure may be implicated in enhancing sensitization to common aeroallergens in early childhood .

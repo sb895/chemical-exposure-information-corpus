@@ -1,0 +1,15 @@
+This cross-sectional study was conducted to assess the association between exposure to heavy metals ( lead , cadmium and mercury ) during pregnancy and birth outcomes in 1578 women aged 16-50 years who delivered in Al-Kharj hospital , Saudi Arabia , in 2005 and 2006 .
+The levels of lead , cadmium and mercury were measured in umbilical cord blood , maternal blood and the placenta .
+Outcome variables were anthropometric measures taken at birth , along with the risk of being small-for-gestational age ( SGA ) .
+We selected the 10th percentile as the cutoff for dichotomizing measures of birth outcome .
+Cadmium , despite its partial passage through the placenta had the most prominent effect on several measures of birth outcome .
+After adjustment for potential confounders , logistic regression models revealed that crown-heel length ( p=0.034 ) , the Apgar 5-minute score ( p=0.004 ) , birth weight ( p=0.015 ) and SGA ( p=0.049 ) were influenced by cadmium in the umbilical cord blood .
+Significant decreases in crown-heel length ( p=0.007 ) and placental thickness ( p=0.022 ) were seen with higher levels of cadmium in maternal blood .
+As placental cadmium increased , cord length increased ( p=0.012 ) and placental thickness decreased ( p=0.032 ) .
+Only lead levels in maternal blood influenced placental thickness ( p=0.011 ) .
+Mercury in both umbilical cord and maternal blood was marginally associated with placental thickness and placental weight , respectively .
+Conversely , placental mercury levels significantly influenced head circumference ( p=0.017 ) , the Apgar 5-minute score ( p=0.01 ) and cord length ( p=0.026 ) .
+The predictions of these models were further assessed with the area under the curve ( AUC ) of the receiver operating curves ( ROCs ) , which were modest ( larger than 0.5 and smaller than 0.7 ) .
+The independence of gestational age or preterm births on the observed effect of metals on some measures of birth outcome , suggested detrimental effects of exposure on fetal development .
+The magnitude of the estimated effects might not necessarily be of clinical significance for infants but may have a considerable public-health relevance given the high prevalence of exposure to heavy metals .
+Further research should be conducted to confirm these findings and to evaluate their long-term risks , if any .

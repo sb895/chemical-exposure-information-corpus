@@ -1,0 +1,12 @@
+Applications of perfluorinated compounds ( PFCs ) have led to a PFC exposure of the general population worldwide .
+Most PFC human biomonitoring data are available from developed countries .
+Here we report for the first time PFC levels in serum from children and adults living in the low developed country of Afghanistan .
+Among a health cooperation project we had the chance to collect blood samples from 12 children ( age 2.5-9 years ) and 43 adults ( age 20-65 years). 25 participants were from Kabul and 30 lived in a rural area .
+Drinking water samples were collected from 10 tap water and 16 well water sources .
+PFC levels were determined by HPLC and MS/MS detection after offline protein precipitation with acetonitrile .
+PFOS could be quantified in all blood samples ( limit of quantification , LOQ : 0.1 microg/l ) .
+Median ( range ) was 1.2 microg/l ( 0.21-11.8 microg/l ) .
+Most PFOA ( n=43 ) and PFHxS levels ( n=42 ) were below LOQ of 0.5 microg/l .
+Maximum levels were 1.5 ( PFOA ) and 3.0 microg/l ( PFHxS ) .
+All PFOS and PFOA concentrations in drinking water were below LOQ ( PFOA 0.03 microg/l and PFOS 0.015 microg/l ) .
+It is concluded that exposure to PFCs also occurs in Afghanistan but on a very low level .

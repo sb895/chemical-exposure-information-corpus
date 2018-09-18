@@ -1,0 +1,9 @@
+This study investigated whether low blood-lead levels ( \u226410 \u03bcg/dL ) were associated with blood pressure ( BP ) outcomes .
+The authors analyzed data from National Health and Nutrition Examination Survey 1999-2006 and participants aged 20 years or older .
+Outcome variables were systolic and diastolic BP measurements , pulse pressure , and hypertension status .
+Multivariable linear and logistic regressions stratified by race/ethnicity and gender were performed .
+Blood lead levels ( BLL ) were significantly correlated with higher systolic BP among black men and women , but not white or Mexican-American participants .
+BLLs were significantly associated with higher diastolic BPs among white men and women and black men , whereas , a negative association was observed in Mexican-American men that had , also , a wider pulse pressure .
+Black men in the 90th percentile of blood lead distribution ( BLL\u22653.50 \u03bcg/dL ) compared to black men in the 10th percentile of blood lead distribution ( BLL\u22640.7 \u03bcg/dL ) had a significant increase of risk of having hypertension ( adjusted POR=2.69 ; 95% CI : 1.08-6.72 ) .
+In addition , blood cadmium was significantly associated with hypertension and systolic and diastolic blood .
+This study found that , despite the continuous decline in blood lead in the U.S. population , lead exposure disparities among race and gender still exist .

@@ -1,0 +1,7 @@
+Perfluorinated compounds ( PFCs ) are man-made chemicals for which endocrine disrupting properties and related possible side effects on human health have been reported , particularly in the case of an exposure during the early stages of development , ( notably the perinatal period ) .
+Existing analytical methods dedicated to PFCs monitoring in food and/or human fluids are currently based on liquid chromatography coupled to tandem mass spectrometry , and were recently demonstrated to present some limitations in terms of sensitivity and/or specificity .
+An alternative strategy dedicated to the analysis of fourteen PFCs in human breast milk was proposed , based on an effective sample preparation followed by a liquid chromatography coupled to high resolution mass spectrometry measurement ( LC-HRMS ) .
+This methodology confirmed the high interest for HRMS after negative ionization for such halogenated substances , and finally permitted to reach detection limits around the pg mL(-1) range with an outstanding signal specificity compared to LC-MS/MS .
+The proposed method was applied to a first set of 30 breast milk samples from French women .
+The main PFCs detected in all these samples were PFOS and PFOA with respective median values of 74 ( range from 24 to 171 ) and 57 ( range from 18 to 102 ) pg mL(-1) , respectively .
+These exposure data appeared in the same range as other reported values for European countries .

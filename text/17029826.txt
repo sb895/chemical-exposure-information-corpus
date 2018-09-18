@@ -1,0 +1,11 @@
+Exposure to arsenic through domestic burning arsenic-containing coal causes various tumors in a population of Guizhou , China .
+The glycophorin A ( GPA ) assay is a human mutation assay detecting somatic variation in erythrocytes expressing the MN blood type , and was used to assess genotoxicity of arsenic-exposed patients .
+Peripheral blood was collected from 18 adult healthy subjects and 40 arsenic-exposed patients in heparin-treated tubes .
+Erythrocytes were isolated , fixed in formalin and immuno-labeled with fluorescent antibodies against GPA , followed by flow cytometry analysis .
+Arsenic exposure increased the variant frequency ( expressed as the number of variant red cells per 10(6) erythrocytes ) : NN , 3.7 in healthy subjects versus 21.2 in arsenic-exposed patients ; N phi , 12.6 versus 33.1 ; MM , 13.1 versus 110 ; and M phi , 5.2 versus 20.3 .
+The total GPA variant frequency was increased about five-fold ( 34.7 in healthy subjects versus 185 in arsenosis patients ) .
+Furthermore , the variant frequency was significantly higher in skin tumor-bearing patients : NN , 19.4 in arsenic-exposed non-tumor patients versus 31.5 in tumor-bearing patients ; N phi , 29.5 versus 54.5 ; MM , 102 versus 159 ; M phi , 15.9 versus 45.1 .
+Total GPA variant frequency in arsenic-exposed patients bearing skin tumors was significantly increased compared to patients without skin tumors ( 167 versus 290 ) .
+The relationship between arsenic exposure history and GPA variant frequency was less evident .
+These data demonstrate that arsenic exposure is associated with mutations at the GPA locus , an effect exaggerated in patients bearing arsenic-induced skin tumors .
+The variant frequency of GPA could be a useful biomarker for arsenic exposure and arsenic carcinogenesis .

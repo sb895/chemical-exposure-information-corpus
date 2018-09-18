@@ -1,0 +1,1 @@
+< <biomonitoring--exposure biomarker--hair nail--pregnant women AND  Biomonitoring--exposure biomarker--hair nail--children< < <exposure routes--oral intake--food--pregnant women AND exposure routes--oral intake--food--children< < <biomonitoring--exposure biomarker--hair nail--pregnant women AND  Biomonitoring--exposure biomarker--hair nail--children< < 

@@ -1,0 +1,17 @@
+Lead ( Pb ) is a toxic heavy metal that is widely distributed throughout the environment .
+Pb is an important neurotoxic metal and children are more susceptible to its effect due to their higher absorption rate and greater susceptibility of the developing nervous system .
+In this work , we evaluated the lead exposure levels in children living near a metallurgical plant and identified risk factors associated with its internal dose .
+All children , aged 1-10 years and 11 months , living near a metallurgical plant in the great Salvador area , Brazil were evaluated in this cross-sectional study and compared with children from a non exposed area .
+Occipital hair and blood were used to assess exposure .
+Air lead levels in the respirable fraction ( PM(2.5) ) were also measured in both areas .
+Blood lead levels ( BLL ) , hair lead levels ( PbH ) and air lead were determined by graphite furnace atomic absorption spectrometry .
+Spearman correlations analysis was used to evaluate correlations between BLL , PbH and descriptors .
+Significant risk factors were modeled using multivariate linear regression analysis .
+Air lead levels were approximately ten-folds lower than EPA reference concentration ( 0.15 \u03bcg/m(3) ) .
+Median BLL and PbH were 1.65 ± 1.45 \u03bcg/dL and 1.26 ± 3.70 \u03bcg/g , respectively , in exposed children .
+In the referents , medians were BLL 1.20 ± 1.20 \u03bcg/dL ; PbH 2.09 ± 2.06 \u03bcg/g .
+No significant difference was observed in biomarkers levels between boys and girls .
+It was observed a positive weak correlation ( Spearman rho = 0.197 , p\u2009= 0.033 ) between BLL and PbH .
+Our data show that children's lead body burden measured as BLL or PbH are low when compared with the recommended reference values .
+Despite that , we were able to identify four risk factors associated with increased biological lead levels : age , living near industrial site , environmental tobacco smoking and , above all , domestic waste burning .
+In order to prevent such avoidable exposure , environmental education and proper waste management should be implemented , especially in developing countries .

@@ -1,0 +1,7 @@
+As the concentration of methylmercury ( MeHg ) in the environment is insignificant , hair can be used as a suitable matrix to estimate endogenous MeHg exposure .
+Avalidated analytical method with AMA 254 spectrometer was used for the determination of inorganic mercury and methylmercury species in the hair of dentists , workers in fish industry and professionally non-exposed adults .
+ANOVA and QC Expert software was used for statistical evaluation .
+The number of amalgam fillings in oral cavity , consumption of fish , gender , smoking habits and age of the subjects were taken into account .
+A significantly higher level of inorganic bound mercury ( Hg(in) ) was found in the hair of dentists .
+The number of amalgam fillings had a slightly significant effect on Hg(in) ; fish consumption had a significant influence on MeHg and slightly also on Hg(in) .
+Other parameters were not significant .

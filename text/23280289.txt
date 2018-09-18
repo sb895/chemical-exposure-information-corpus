@@ -1,0 +1,10 @@
+OBJECTIVE Prior research on the physical health of children exposed to the World Trade Center ( WTC ) attacks has largely relied on parental report via questionnaire .
+We examined the impact of clinically-reported exposures on the physical health of children who lived and/or attended school in downtown Manhattan on September 11 , 2001 .
+STUDY DESIGN We performed a cross-sectional study of 148 patients who presented to the WTC Environmental Health Center/Survivors Health Program , and were \u2264 18 years old on September 11 , 2001 .
+RESULTS 38.5% were caught in the dust cloud from the collapsing buildings on September 11 ; over 80% spent \u2265 1 day in their home between September 11 and 18 , 2001 ; and 25.7% reported home dust exposure .
+New-onset nasal/sinus congestion was reported in 52.7% , while nearly one-third reported new gastroesophageal reflux ( GERD ) symptoms .
+Prehypertension or hypertension was identified in 45.5% .
+Multivariable regression with exposure variables , body mass index category , and age as covariates identified strongest associations of dust cloud with spirometry ( 17.1% decrease in maximum midexpiratory flow ) .
+Younger children experienced increased peripheral eosinophils ( +0.098% per year , p=0.023 ) , while older children experienced more new-onset GERD ( OR 1.17 , p=0.004 ) , headaches ( OR 1.10 , p=0.011 ) , and prehypertension ( OR 1.09 , p=0.024 ) .
+Home dust exposure was associated with reduced high-density lipoprotein ( -10.3mg/dL , p=0.027 ) and elevated triglycerides ( +36.3mg/dL , p=0.033 ) .
+CONCLUSIONS While these findings cannot be assumed to generalize to all children exposed to the WTC attacks , they strongly suggest the need for more extensive study of respiratory , metabolic , and cardiovascular consequences .

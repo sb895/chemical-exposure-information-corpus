@@ -1,0 +1,9 @@
+Jet propulsion fuel 8 ( JP-8 ) is the major jet fuel used worldwide and has been recognized as a major source of chemical exposure , both inhalation and dermal , for fuel-cell maintenance workers .
+We investigated the contributions of dermal and inhalation exposure to JP-8 to the total body dose of U.S. Air Force fuel-cell maintenance workers using naphthalene as a surrogate for JP-8 exposure .
+Dermal , breathing zone , and exhaled breath measurements of naphthalene were obtained using tape-strip sampling , passive monitoring , and glass bulbs , respectively .
+Levels of urinary 1- and 2-naphthols were determined in urine samples and used as biomarkers of JP-8 exposure .
+Multiple linear regression analyses were conducted to investigate the relative contributions of dermal and inhalation exposure to JP-8 , and demographic and work-related covariates , to the levels of urinary naphthols .
+Our results show that both inhalation exposure and smoking significantly contributed to urinary 1-naphthol levels .
+The contribution of dermal exposure was significantly associated with levels of urinary 2-naphthol but not with urinary 1-naphthol among fuel-cell maintenance workers who wore supplied-air respirators .
+We conclude that dermal exposure to JP-8 significantly contributes to the systemic dose and affects the levels of urinary naphthalene metabolites .
+Future work on dermal xenobiotic metabolism and toxicokinetic studies are warranted in order to gain additional knowledge on naphthalene metabolism in the skin and the contribution to systemic exposure .

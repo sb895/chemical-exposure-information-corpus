@@ -1,0 +1,9 @@
+BACKGROUND Arsenic exposure impairs development and can lead to cancer , cardiovascular disease , and diabetes .
+The mechanism underlying these effects remains unknown .
+Primarily because of geologic sources of contamination , drinking-water arsenic levels are above the current recommended maximum contaminant level of 10 microg/L in the northeastern , western , and north central regions of the United States .
+OBJECTIVES We investigated the effects of arsenic exposure , defined by internal biomarkers at levels relevant to the United States and similarly exposed populations , on gene expression .
+METHODS We conducted separate Affymetrix microarray-based genomewide analyses of expression patterns .
+Peripheral blood lymphocyte samples from 21 controls interviewed ( 1999-2002 ) as part of a case-control study in New Hampshire were selected based on high- versus low-level arsenic exposure levels .
+RESULTS The biologic functions of the transcripts that showed statistically significant abundance differences between high- and low-arsenic exposure groups included an overrepresentation of genes involved in defense response , immune function , cell growth , apoptosis , regulation of cell cycle , T-cell receptor signaling pathway , and diabetes .
+Notably , the high-arsenic exposure group exhibited higher levels of several killer cell immunoglobulin-like receptors that inhibit natural killer cell activity .
+CONCLUSIONS These findings define biologic changes that occur with chronic arsenic exposure in humans and provide leads and potential targets for understanding and monitoring the pathogenesis of arsenic-induced diseases .

@@ -1,0 +1,34 @@
+The region of Diwalwal , dominated by Mt .
+Diwata , is a gold rush area on Mindanao ( Philippines ) where approximately 15000 people live .
+The fertile plain of Monkayo is situated downstream , where people grow crops such as rice and bananas ; locally caught fish is eaten frequently .
+The ore is dug in small-scale mines and ground to a powder by ball-mills while still in Diwalwal .
+The gold is then extracted by adding liquid mercury ( Hg ) , forming gold-amalgam .
+To separate the gold from the Hg , in most cases the amalgam is simply heated in the open by blow-torches .
+A high external Hg burden of the local population must be assumed .
+To evaluate the internal Hg burden of the population and the extent of possible negative health effects , 323 volunteers from Mt .
+Diwalwal , Monkayo and a control group from Davao were examined by a questionnaire , neurological examination and neuro-psychological testing .
+Blood , urine and hair samples were taken from each participant and analyzed for total Hg .
+A statistical evaluation was possible for 102 workers ( occupationally Hg burdened ball-millers and amalgam-smelters ) , 63 other inhabitants from Mt .
+Diwata ( 'only ' exposed from the environment ) , 100 persons , living downstream in Monkayo , and 42 inhabitants of Davao ( serving as controls ) .
+The large volume of data was reduced to yes/no decisions .
+Alcohol as a possible bias factor was excluded ( level of alcohol consumption and type , see Section 4.4 ) .
+Each factor with a statistically significant difference of at least one exposed group to the control group was included in a medical score ( 0-21 points ) .
+In each of the exposed groups this score was significantly worse than in the control group ( median control , 3 ; downstream , 9 ; Mt .
+Diwata , non-occupational exposed , 6 ; Hg workers , 10 ) .
+In comparison to the surprisingly high Hg concentration in blood ( median , 9.0 microg/l ; max , 31.3 ) and in hair ( 2.65 microg/g ; max , 34.7 ) of the control group , only the workers show elevated levels : Hg-blood median 11.4 , max 107.6 ; Hg-hair median 3.62 , max 37.8 .
+The Hg urine concentrations of the occupational exposed and non-exposed population on Mt .
+Diwata was significantly higher than in the control group : control median 1.7 microg/l , max 7.6 ; non-occupational burdened median 4.1 , max 76.4 ; and workers median 11.0 , max 294.2 .
+The participants , living downstream on the plain of Monkayo show no statistically significant difference in Hg-blood , Hg-urine or Hg-hair in comparison with the control group .
+The German Human-Biological-Monitoring value II ( HBM II ) was exceeded in 19.5% ( control ) , 26.0% ( downstream ) , 19.4% ( Mt .
+Diwata , non-occupational ) and 55.4% ( workers ) of the cases , the German occupational threshold limit in 19.6% of the workers .
+Only some of the clinical data , characteristic for Hg intoxication ( e.g. tremor , loss of memory , bluish discoloration of the gingiva , etc. ) , correlate with Hg in blood or urine , but not with Hg in hair .
+The medical score sum correlates only with Hg in urine .
+The poor correlation between the Hg concentration in the biomonitors to classic clinical signs of chronic Hg intoxication may be explained by several factors : Hg in blood , urine and hair do not adequately monitor the Hg burden of the target tissues , especially the brain .
+Inter-individual differences in the sensitiveness to Hg are extremely large .
+In this area a mixed burden of Hg species must be assumed ( Hg vapor , inorganic Hg , methyl-Hg ) .
+Chronic Hg burden may have established damage months or even years before the actual determination of the Hg concentrations in the bio-monitors under quite different burden was performed ( Drasch G. Mercury .
+In : Seiler HG , Sigel A , Sigel H , editors .
+Handbook on metals in clinical and analytical chemistry .
+New York : Marcel Dekker , 1994:479-494 ) .
+Therefore , a ' Hg intoxication ' , that should be treated , was not diagnosed by the Hg concentration in the bio-monitors alone , but by a balanced combination of these Hg values and the medical score sum .
+In principle , this means the higher the Hg concentration in the bio-monitors , the lower the number of characteri

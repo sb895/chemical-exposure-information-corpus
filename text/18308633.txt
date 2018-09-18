@@ -1,0 +1,11 @@
+Polycyclic aromatic hydrocarbons ( PAHs ) are ubiquitous environmental contaminants formed from combustion products of fossil fuels , cigarette smoking and in grilled/smoked foods .
+They are reported to alter trophoblast proliferation in placenta , in addition to disturbing its endocrine functions , which may be able to increase the risk of preterm delivery in pregnant women .
+The present study was planned to assess possible involvement of PAHs exposure of pregnant women ( measured as placental PAHs concentrations ) with preterm delivery cases among women of Lucknow city ( India ) .
+We performed a case-control study and a total of 60 mothers ( n=31 full term and n=29 preterm deliveries ) were recruited at a local nursing home of Lucknow , for the period of August 2005-February 2006 .
+Subsequent to parturition , placental tissues from each participant were immediately collected and kept at -20 degrees C until PAHs analyses .
+Placental tissue PAHs concentrations were determined by HPLC , using a fluorescence detector .
+Mean+/-SD placental level ( 61.91+/-12.43ppb ) of benzo(b)fluoranthene , a carcinogenic PAH , was found significantly elevated ( p<0.05 ) among women with preterm delivery when compared with the level ( 23.84+/-7.01 ) in women having full-term deliveries .
+In the same way , non-carcinogenic fluoranthene level ( 325.91+/-45.14ppb ) was also detected to be higher in the preterm delivery group compared to 208.6+/-21.93ppb level from the full-term delivery group of women .
+Additionally naphthalene , acenaphthylene , phenanthrene , anthracene , benzo(a)pyrene and dibenzo(a,h)anthracene levels in placental tissue were also found to be higher in the preterm delivery group of women but the difference did not reach statistically significant levels .
+This foremost study from India with modest samples size and limited statistical power does not show a substantial involvement of PAHs with preterm delivery , but higher concentrations of placental PAHs detected among preterm delivery group of women could show some possible association with these environmental toxicants .
+Further study with large sample size , controlled for confounders and great statistical power , is reasonable to elucidate the association of PAHs exposure with preterm delivery of women in India .

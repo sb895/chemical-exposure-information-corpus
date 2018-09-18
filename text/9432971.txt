@@ -1,0 +1,11 @@
+Polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) , and polychlorinated biphenyls ( PCBs ) were analyzed in 167 random human milk samples from urban and rural areas in Finland .
+Dietary habits and background information on each mother and child were gathered by questionnaire .
+Body mass indexes ( BMI ) before pregnancy and delivery in the rural area were 5-10% higher than in the urban area , but fat content of mother's milk was about 10% higher in the urban area .
+The mean weights of children ( +/- standard deviation ) were similar in the rural and urban areas among primiparae , 3,500 +/- 597 g and 3,505 +/- 454 g , respectively , although dioxin international toxic equivalents ( I-TEQs ) were significantly higher in the urban area .
+The mother's level of education did not affect the weight of the child , but concentrations of PCDDs/PCDFs ( I-TEQ , 2,3,4,7,8-Cl5 dibenzofuran,1,2 , 3,7,8-Cl5 dibenzodioxin ) and PCBs [ sum of PCBs ( sumPCB ) , PCB-TEQ , and most PCB congeners ] increased with advanced education .
+This is considered to be due to differences in the mother's consumption of fish .
+The birth weight , especially of boys , slightly decreased with increasing concentrations of I-TEQ , 2,3,4,7,8-Cl5 dibenzofuran , 1,2,3 , 7,8-Cl5 dibenzodioxin , and 2,3,7,8-Cl4 dibenzodioxin ; however , when the analysis was restricted to primiparae , there was no statistically significant correlation between birth weight and the concentrations of PCDDs/PCDFs .
+No correlation was found between the weight of the child and PCBs , PCB-TEQs , or individual PCB congeners in the whole material or among primiparae , or among boys or girls .
+The concentrations of PCDDs/PCDFs and PCBs inhuman milk were modeled for primiparae by weighing fish consumption , age of mother , milk fat content , and BMI before pregnancy .
+The linear regression resulted in values of R = 0.67 and 0.30 for the modeled dioxin I-TEQs in the urban and rural areas , respectively , and the corresponding values for sumPCBs of R = 0.60 and 0.11 .
+The increase of PCDD/PCDF body burden was calculated to be on average 0.58 pg I-TEQ/g milk fat/year in the urban area and 0.39 pg I-TEQ/g milk fat/year in the rural area .

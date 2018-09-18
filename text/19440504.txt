@@ -1,0 +1,12 @@
+BACKGROUND Determining arsenic exposure in groups based on geographic location , dietary behaviors , or lifestyles is important , as even moderate exposures may lead to health concerns .
+OBJECTIVES/METHODS The Korean community in Washington State , represents a group warranting investigation , as they consume foods ( e.g. , shellfish , rice , finfish , and seaweed ) known to contain arsenic .
+As part of the Arsenic Mercury Intake Biometric Study , we examined the arsenic levels in hair and urine along with the diets of 108 women of childbearing age from within this community .
+Arsenic levels in indoor air and drinking water were also investigated , and shellfish commonly consumed were collected and analyzed for total and speciated arsenic .
+RESULTS The six shellfish species analyzed ( n = 667 ) contain total arsenic ( range , 1-5 microg/g ) but are a small source of inorganic arsenic ( range , 0.01-0.12 microg/g ) .
+Six percent of the individuals may have elevated urinary inorganic arsenic levels ( > 10 microg/L ) due to diet .
+Seaweed , rice , shellfish , and finfish are principal sources for total arsenic intake/excretion based on mass balance estimates .
+Rice consumption ( 163 g/person/day ) may be a significant source of inorganic arsenic .
+Air and water are not significant sources of exposure .
+Hair is a poor biometric for examining arsenic levels at low to moderate exposures .
+CONCLUSIONS We conclude that a portion of this community may have dietary inorganic arsenic exposure resulting in urine levels exceeding 10 microg/L .
+Although their exposure is below that associated with populations exposed to high levels of arsenic from drinking water ( > 100 microg/L ) , their exposure may be among the highest in the United States .

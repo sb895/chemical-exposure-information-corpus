@@ -1,0 +1,11 @@
+BACKGROUND Prior studies of prenatal exposure to tetrachloroethylene ( PCE ) have shown mixed results regarding its effect on birth weight and gestational age .
+OBJECTIVES In this retrospective cohort study we examined whether PCE contamination of public drinking-water supplies in Massachusetts influenced the birth weight and gestational duration of children whose mothers were exposed before the child's delivery .
+METHODS The study included 1,353 children whose mothers were exposed to PCE-contaminated drinking water and a comparable group of 772 children of unexposed mothers .
+Birth records were used to identify subjects and provide information on the outcomes .
+Mothers completed a questionnaire to gather information on residential histories and confounding variables .
+PCE exposure was estimated using EPANET water distribution system modeling software that incorporated a fate and transport model .
+RESULTS We found no meaningful associations between PCE exposure and birth weight or gestational duration .
+Compared with children whose mothers were unexposed during the year of the last menstrual period ( LMP ) , adjusted mean differences in birth weight were 20.9 , 6.2 , 30.1 , and 15.2 g for children whose mothers ' average monthly exposure during the LMP year ranged from the lowest to highest quartile .
+Similarly , compared with unexposed children , adjusted mean differences in gestational age were -0.2 , 0.1 , -0.1 , and -0.2 weeks for children whose mothers ' average monthly exposure ranged from the lowest to highest quartile .
+Similar results were observed for two other measures of prenatal exposure .
+CONCLUSIONS These results suggest that prenatal PCE exposure does not have an adverse effect on these birth outcomes at the exposure levels experienced by this population .

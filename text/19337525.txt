@@ -1,0 +1,11 @@
+BACKGROUND Epidemiologic studies have demonstrated an association between acute exposure to ambient fine particles and both mortality and morbidity .
+Less is known about the relative impacts of the specific chemical constituents of particulate matter<2.5 microm in aerodynamic diameter ( PM2.5 ) on hospital admissions .
+OBJECTIVE This study was designed to estimate the risks of exposure to PM2.5 and several species on hospital admissions for respiratory diseases among children .
+DATA AND METHODS We obtained data on daily counts of hospitalizations for children<19 and <5 years of age for total respiratory diseases and several subcategories including pneumonia , acute bronchitis , and asthma for six California counties from 2000 through 2003 , as well as ambient concentrations of PM2.5 and its constituents , including elemental carbon ( EC ) , organic carbon ( OC ) , and nitrates ( NO3 ) .
+We used Poisson regression to estimate risks while controlling for important covariates .
+RESULTS We observed associations between several components of PM2.5 and hospitalization for all of the respiratory outcomes examined .
+For example , for total respiratory admissions for children<19 years of age , the interquartile range for a 3-day lag of PM2.5 , EC , OC , NO3 , and sulfates was associated with an excess risk of 4.1% [ 95% confidence interval ( CI ) , 1.8-6.4 ] , 5.4% ( 95% CI , 0.8-10.3 ) , 3.4% ( 95% CI , 1.1-5.7 ) , 3.3% ( 95% CI , 1.1-5.5 ) , and 3.0% ( 95% CI , 0.4-5.7 ) , respectively .
+We also observed associations for several metals .
+Additional associations with several of the species , including potassium , were observed in the cool season .
+CONCLUSION Components of PM2.5 were associated with hospitalization for several childhood respiratory diseases including pneumonia , bronchitis , and asthma .
+Because exposure to components ( e.g. , EC , OC , NO3 , and K ) and their related sources , including diesel and gasoline exhaust , wood smoke , and other combustion sources , are ubiquitous in the urban environment , it likely represents an identifiable and preventable risk factor for hospitalization for children .

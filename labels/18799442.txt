@@ -1,0 +1,1 @@
+< < < < <  Biomonitoring--exposure biomarker--urine--< < <Biomonitoring--effect marker--biomarker--molecule--lipid AND biomonitoring--effect marker--biomarker--molecule--other molecule< < <  Biomonitoring--effect marker--biomarker--molecule--protein<  Biomonitoring--exposure biomarker--urine--

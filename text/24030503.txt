@@ -1,0 +1,9 @@
+BACKGROUND The toxic metal cadmium is suggested to increase the risk of cardiovascular disease , but only one incidence study has explored this association .
+We evaluated the association between quartiles of food frequency questionnaire-based estimates of cadmium exposure from food ( the predominant source of exposure to the metal ) and incident cardiovascular disease and its subtypes .
+METHODS From the population-based Swedish Mammography cohort , 33,333 women were followed prospectively from baseline ( 1997 ) through 2010 .
+We estimated relative risks ( RRs ) with 95% confidence intervals ( CIs ) using Cox proportional hazard models .
+RESULTS During 12 years of follow-up , we identified 3155 incident cases of total cardiovascular disease ( 1322 cases of myocardial infarction and 1833 cases of total stroke [ 1485 ischemic and 208 hemorrhagic stroke] ) .
+Dietary cadmium exposure was not associated with risk of total cardiovascular disease , myocardial infarction , or total stroke or its subtypes .
+For total cardiovascular disease , the multivariable-adjusted RR comparing the highest quartile of cadmium exposure with the lowest was 0.96 ( 95% CI = 0.85-1.09 ) .
+The corresponding RRs were 1.07 ( 0.88-1.29 ) for myocardial infarction , 0.90 ( 0.76-1.05 ) for total stroke , 0.89 ( 0.74-1.06 ) for ischemic stroke , and 1.11 ( 0.68-1.80 ) for hemorrhagic stroke .
+CONCLUSIONS Our study lends no support to an overall association between low-level exposure to cadmium via food and incident cardiovascular disease .

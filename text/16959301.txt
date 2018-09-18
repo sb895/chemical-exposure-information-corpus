@@ -1,0 +1,13 @@
+The potential exists for human exposure to polychlorinated biphenyls ( PCBs ) and other contaminants originating from abandoned Mid-Canada Radar Line ( MCRL ) sites in sub-arctic Canada .
+We examined patterns of differences with respect to body burden of organochlorines ( lipid-adjusted ) between residents of the Ontario First Nations of Fort Albany ( the site of MCRL Site 050 ) and Kashechewan ( no radar base ) and Hamilton ( an industrial , southern Ontario community ) to assess whether the presence of Site 050 influenced organochlorine body burden with respect to the people of Fort Albany .
+PCBs ( Aroclor 1260 and summation operator14 PCBs congeners [ CBs] ) and DDE in the plasma of Fort Albany and Kashechewan subjects were elevated relative to Hamilton participants .
+PCB and DDE-plasma levels in First Nation women were of comparable magnitude to those reported for Inuit women living in the west/central Northwest Territories .
+Significantly lower DDE/DDT ratios observed for Fort Albany indicates exposure to higher levels of DDT compared to Kashechewan .
+The probable source of DDT exposure for Fort Albany people is the DDT-contaminated soil surrounding buildings of Site 050 .
+The results of the correspondence analysis ( CA ) indicated that people from Hamilton had relatively higher pesticides and lower CB body burdens , while people from Fort Albany and Kashechewan exhibited relatively higher CBs and lower pesticide levels ( CA-1 ) .
+The separation of Fort Albany and Kashechewan from Hamilton was also clear using questionnaire data ( i.e. , plotting dietary principal component [ PC]-1 scores against PC-2 ) ; PC-1 was correlated with the consumption of a traditional diet .
+Separation of Kashechewan and Albany residents occurred because the people of Kashechewan ate more traditional meats and consumed shorebirds .
+Only one significant relationship was found between PC analysis and contaminant loadings ; PC-1 versus CA-3 for Kashechewan .
+The presence of Site 050 on Anderson Island appears to have influenced organochlorine body burden of the people of Fort Albany .
+ANCOVA results revealed that it was not activity on Anderson Island that was important , but activity on Site 050 was the influential variable .
+When these results are considered with the DDE/DDT ratio data and the CB 187 results ( Fort Albany and Kashechewan residents differed significantly ) , the findings are suggestive that Site 050 did influence organochlorine body burden of people from Fort Albany .

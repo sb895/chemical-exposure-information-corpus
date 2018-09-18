@@ -1,0 +1,9 @@
+Dioxins are metabolized by cytochrome P450 , family 1 ( CYP1 ) via the aromatic hydrocarbon receptor ( AHR ) .
+We determined whether different blood dioxin concentrations are associated with polymorphisms in AHR ( dbSNP ID : rs2066853 ) , AHR repressor ( AHRR ; rs2292596 ) , CYP1 subfamily A polypeptide 1 ( CYP1A1 ; rs4646903 and rs1048963 ) , CYP1 subfamily A polypeptide 2 ( CYP1A2 ; rs762551 ) , and CYP1 subfamily B polypeptide 1 ( CYP1B1 ; rs1056836 ) in pregnant Japanese women .
+These six polymorphisms were detected in 421 healthy pregnant Japanese women .
+Differences in dioxin exposure concentrations in maternal blood among the genotypes were investigated .
+Comparisons among the GG , GA , and AA genotypes of AHR showed a significant difference ( genotype model : P=0.016 for the mono-ortho polychlorinated biphenyl concentrations and toxicity equivalence quantities [ TEQs] ) .
+Second , we found a significant association with the dominant genotype model ( [ TT+TC ] vs. CC : P=0.048 for the polychlorinated dibenzo-p-dioxin TEQs ; P=0.035 for polychlorinated dibenzofuran TEQs ) of CYP1A1 ( rs4646903 ) .
+No significant differences were found among blood dioxin concentrations and polymorphisms in AHRR , CYP1A1 ( rs1048963 ) , CYP1A2 , and CYP1B1 .
+Thus , polymorphisms in AHR and CYP1A1 ( rs4646903 ) were associated with maternal dioxin concentrations .
+However , differences in blood dioxin concentrations were relatively low .

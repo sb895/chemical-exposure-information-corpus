@@ -1,0 +1,9 @@
+Animal studies have shown that paraoxonase 1 ( PON1 ) genotype can influence susceptibility to the organophosphorus pesticide chlorpyrifos ( CPF ) .
+However , Monte Carlo analysis suggests that PON1 genotype may not affect CPF-related toxicity at low exposure conditions in humans .
+The current study sought to determine the influence of PON1 genotype on the activity of blood cholinesterase as well as the effect of CPF exposure on serum PON1 in workers occupationally exposed to CPF .
+Saliva , blood and urine were collected from agricultural workers ( n=120 ) from Egypt's Menoufia Governorate to determine PON1 genotype , blood cholinesterase activity , serum PON1 activity towards chlorpyrifos-oxon ( CPOase ) and paraoxon ( POase ) , and urinary levels of the CPF metabolite 3,5,6-trichloro-2-pyridinol ( TCPy ) .
+The PON1 55 ( P\u22640.05 ) but not the PON1 192 genotype had a significant effect on CPOase activity .
+However , both the PON1 55 ( P\u22640.05 ) and PON1 192 ( P\u22640.001 ) genotypes had a significant effect on POase activity .
+Workers had significantly inhibited AChE and BuChE after CPF application ; however , neither CPOase activity nor POase activity was associated with ChE depression when adjusted for CPF exposure ( as determined by urinary TCPy levels ) and stratified by PON1 genotype .
+CPOase and POase activity were also generally unaffected by CPF exposure although there were alterations in activity within specific genotype groups .
+Together , these results suggest that workers retained the capacity to detoxify chlorpyrifos-oxon under the exposure conditions experienced by this study population regardless of PON1 genotype and activity and that effects of CPF exposure on PON1 activity are minimal .

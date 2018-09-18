@@ -1,0 +1,9 @@
+Residential concentrations of formaldehyde have been associated with poor respiratory health in children , where formaldehyde has been measured using stationary monitors inside homes .
+Although children spend most of their time indoors at home , there are few studies of children's personal exposure to formaldehyde .
+The aim of this study was to investigate the relationship between personal exposure formaldehyde concentrations , microenvironmental concentrations and time weighted exposure estimates in children .
+Forty-one primary school children ( aged between 9 and 12 years ) wore a personal passive sampler over two 24h periods in two seasons and completed 24h daily activity diaries and a questionnaire about lifestyle and behaviour .
+Samplers were co located indoors at home , outdoors at centralised locations and indoors at school for the corresponding period .
+Personal exposure formaldehyde concentrations in this group of children were generally low with a geometric mean concentration of 9.1 ppb ( range <detection limit to 27.3 ppb ) .
+There were strong correlations between personal exposure concentrations and both domestic indoor ( r(s)=.779 , p<0.001 ) and time weighted estimated ( r(s)=.802 , p<0.001 ) concentrations .
+The time weighted model did not improve the estimate of personal exposure compared with stationary indoor concentrations .
+Indoor air concentration measured with a single stationary monitor was a suitable surrogate for personal exposure .

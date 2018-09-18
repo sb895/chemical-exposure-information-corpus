@@ -1,0 +1,8 @@
+BACKGROUND The U.S. Centers for Disease Control and Prevention collected health , housing , and environmental data in a single integrated national survey for the first time in the United States in 1999-2004 .
+OBJECTIVES We aimed to determine how floor dust lead ( PbD ) loadings and other housing factors influence childhood blood lead ( PbB ) levels and lead poisoning .
+METHODS We analyzed data from the 1999-2004 National Health and Nutrition Examination Survey ( NHANES ) , including 2,155 children 12-60 months of age with PbB and PbD measurements .
+We used linear and logistic regression models to predict log-transformed PbB and the odds that PbB was >or=5 and >or=10 microg/dL at a range of floor PbD .
+RESULTS The population-weighted geometric mean ( GM ) PbB was 2.0 microg/dL ( geometric standard error=1.0 ) .
+Age of child , race/ethnicity , serum cotinine concentration , poverty-to-income ratio , country of birth , year of building construction , floor PbD by floor surface and condition , windowsill PbD , presence of deteriorated paint , home-apartment type , smoking in the home , and recent renovation were significant predictors in either the linear model [ the proportion of variability in the dependent variable accounted for by the model ( R2)=40% ] or logistic model for 10 microg/dL ( R2=5% ) .
+At floor PbD=12 microg/ft2 , the models predict that 4.6% of children living in homes constructed before 1978 have PbB>or=10 microg/dL , 27% have PbB>or=5 microg/dL , and the GM PbB is 3.9 microg/dL .
+CONCLUSIONS Lowering the floor PbD standard below the current standard of 40 microg/ft2 would protect more children from elevated PbB .

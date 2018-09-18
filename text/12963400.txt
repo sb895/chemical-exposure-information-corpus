@@ -1,0 +1,8 @@
+Toxicologic studies have shown that soluble transition metals in residual oil fly ash ( ROFA ) can induce pulmonary injury .
+In this study , we investigated the association between the fractional concentration of expired nitric oxide ( FENO ) and exposure to metal constituents of particulate matter with an aerodynamic mass median diameter < or =2.5 microm ( PM2.5 ) in boilermakers exposed to ROFA and metal fume .
+Metals investigated included vanadium , chromium , manganese , nickel , copper , and lead .
+Subjects were monitored for 5 consecutive days during boiler repair overhauls in 1999 ( n=20 ) and 2000 ( n=14 ) .
+In 1999 , we found a significant inverse association between log-transformed FENO and PM2.5 metal concentrations .
+LogFENO changed by -0.03 ( 95% CI : -0.04 , -0.01 ) , -0.56 ( 95% CI : -0.88 , -0.24 ) , -0.09 ( 95% CI : -0.16 , -0.02 ) , and -0.04 ( 95% CI : -0.07 , -0.02 ) per microg/m3 of PM2.5 vanadium , chromium , manganese , and nickel , respectively .
+In 2000 , no significant associations were observed , most likely due to exposure misclassification resulting from the use of respirators .
+The inverse association between PM2.5 metal exposure and FENO in subjects with limited respirator usage suggests that soluble transition metals might be partially responsible for the adverse pulmonary responses seen in workers exposed to ROFA .

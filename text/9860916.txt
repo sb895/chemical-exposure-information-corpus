@@ -1,0 +1,8 @@
+Here we explore the appropriateness of various parameter values for the Bowers et al. model [ Risk Anal 14:183-189 , 1994 ] in the context of predicting the influence of site-related exposure to lead in soil on the blood lead ( PbB ) levels of women of childbearing age .
+We outline the parameters prescribed by Bowers et al. as well as those prescribed by the U.S. Environmental Protection Agency ( U.S .
+EPA ) .
+Comparison of the PbB levels predicted by the Bowers et al. model to those predicted by the validated O'Flaherty pharmacokinetic model indicates that the Bowers et al. model performs favorably when parameter values prescribed here are used .
+Use of the U.S. EPA-prescribed parameters yields predicted PbB levels that substantially exceed the validated O'Flaherty model predictions .
+Finally , both the U.S. EPA-prescribed parameter values and the parameter values recommended herein are used to predict PbB levels among adults living in four Superfund communities .
+Comparison of predicted PbB levels for these communities indicates that the U.S. EPA parameters overstate the incremental influence of lead in soil on PbB levels .
+Differences between the parameter values prescribed here and the U.S. EPA-prescribed parameters yield substantially different cleanup criteria for lead in soil , although conservative parameter values may still be appropriate for screening purposes .

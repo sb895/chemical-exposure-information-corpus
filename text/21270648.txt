@@ -1,0 +1,8 @@
+OBJECTIVE To investigate whether occupational exposure to polycyclic aromatic hydrocarbons and certain plastic monomers increased renal cell carcinoma ( RCC ) risk .
+METHODS Unconditional logistic regression was used to calculate RCC risk in relation to exposure .
+RESULTS No association between RCC risk and having ever been occupationally exposed to any polycyclic aromatic hydrocarbons or plastics was observed .
+Duration of exposure and average exposure also showed no association with risk .
+Suggestive positive associations between RCC risk and cumulative exposure to styrene ( P-trend = 0.02 ) and acrylonitrile ( P-trend = 0.06 ) were found .
+Cumulative exposure to petroleum/gasoline engine emissions was inversely associated with risk ( P-trend = 0.02 ) .
+CONCLUSIONS Results indicate a possible association between occupational styrene and acrylonitrile exposure and RCC risk .
+Additional studies are needed to replicate findings , as this is the first time these associations have been reported and they may be due to chance .

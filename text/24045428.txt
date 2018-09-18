@@ -1,0 +1,13 @@
+A hybrid approach is proposed to estimate exposure to fine particulate matter ( PM(2.5) ) at a given location and time .
+This approach builds on satellite-based aerosol optical depth ( AOD ) , air pollution data from sparsely distributed Environmental Protection Agency ( EPA ) sites and local time-space Kriging , an optimal interpolation technique .
+Given the daily global coverage of AOD data , we can develop daily estimate of air quality at any given location and time .
+This can assure unprecedented spatial coverage , needed for air quality surveillance and management and epidemiological studies .
+In this paper , we developed an empirical relationship between the 2\u2009km AOD and PM(2.5) data from EPA sites .
+Extrapolating this relationship to the study domain resulted in 2.3 million predictions of PM(2.5) between 2000 and 2009 in Cleveland Metropolitan Statistical Area ( MSA ) .
+We have developed local time-space Kriging to compute exposure at a given location and time using the predicted PM(2.5) .
+Daily estimates of PM(2.5) were developed for Cleveland MSA between 2000 and 2009 at 2.5\u2009km spatial resolution ; 1.7\u2009million ( \u223c79.8% ) of 2.13\u2009million predictions required for multiyear and geographic domain were robust .
+In the epidemiological application of the hybrid approach , admissions for an acute exacerbation of chronic obstructive pulmonary disease ( AECOPD ) was examined with respect to time-space lagged PM(2.5) exposure .
+Our analysis suggests that the risk of AECOPD increases 2.3% with a unit increase in PM(2.5) exposure within 9 days and 0.05° ( \u223c5\u2009km ) distance lags .
+In the aggregated analysis , the exposed groups ( who experienced exposure to PM(2.5) >15.4\u2009\u03bcg/m(3) ) were 54% more likely to be admitted for AECOPD than the reference group .
+The hybrid approach offers greater spatiotemporal coverage and reliable characterization of ambient concentration than conventional in situ monitoring-based approaches .
+Thus , this approach can potentially reduce exposure misclassification errors in the conventional air pollution epidemiology studies .

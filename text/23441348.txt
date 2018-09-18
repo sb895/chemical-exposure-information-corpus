@@ -1,0 +1,12 @@
+OBJECTIVE It has been recently reported that Bisphenol A ( BPA ) may leach out into food , beverages and water samples from the plastic ware in which it is stored .
+Serious health hazards have been reported from BPA .
+The purpose of this study is to assess the BPA contents in blood and to assess the risk of cancer .
+METHOD A total of 100 individuals were selected for study according to the following five age groups : 5-10 , 11-20 , 21-30 , 31-40 and 41-50 years .
+They were then further divided into normal and diseased .
+Age , gender , education , source of drinking water , type of food , smoking habit , any exposure to chemicals and history of cancer were elicited during interview .
+Blood samples were collected and processed for analysis using reversed phase-high performance liquid chromatography ( rp-HPLC ) in isocratic mode .
+The mobile phase consisted of acetonitrile and water ( 1:1 ) at a flow-rate of 1 ml min-1 .
+RESULTS Bisphenol A contents found in blood samples of all age groups ranged from 1.53-3.98 ( mean = 2.94 , SD = 0.9 ) .
+P-values , for the exposed people and those having a history of cancer , were < 0.05 showing a significant relationship between BPA and cancer The United States Environmental Protection Agency ( US EPA ) has established a reference dose of 50 microg/L .
+Odd ratios and relative risk for smoking habit were < 1 while for all others they were > 1 .
+CONCLUSION It was concluded from the study that people using bottled water , packaged food , having a history of cancer and who had been exposed to any type of chemicals are at higher risk of disease .

@@ -1,0 +1,12 @@
+BACKGROUND Air pollution effects on children's neurodevelopment have recently been suggested to occur most likely through the oxidative stress pathway .
+OBJECTIVE We aimed to assess whether prenatal exposure to residential air pollution is associated with impaired infant mental development , and whether antioxidant/detoxification factors modulate this association .
+METHODS In the Spanish INfancia y Medio Ambiente ( INMA ; Environment and Childhood ) Project , 2,644 pregnant women were recruited during their first trimester .
+Nitrogen dioxide ( NO2 ) and benzene were measured with passive samplers covering the study areas .
+Land use regression models were developed for each pollutant to predict average outdoor air pollution levels for the entire pregnancy at each residential address .
+Maternal diet was obtained at first trimester through a validated food frequency questionnaire .
+Around 14 months , infant mental development was assessed using Bayley Scales of Infant Development .
+RESULTS Among the 1,889 children included in the analysis , mean exposure during pregnancy was 29.0 \u03bcg/m3 for NO2 and 1.5 \u03bcg/m3 for benzene .
+Exposure to NO2 and benzene showed an inverse association with mental development , although not statistically significant , after adjusting for potential confounders [ \u03b2 ( 95% confidence interval ) = -0.95 ( -3.90 , 1.89 ) and -1.57 ( -3.69 , 0.56 ) , respectively , for a doubling of each compound ] .
+Stronger inverse associations were estimated for both pollutants among infants whose mothers reported low intakes of fruits/vegetables during pregnancy [ -4.13 ( -7.06 , -1.21 ) and -4.37 ( -6.89 , -1.86 ) for NO2 and benzene , respectively ] , with little evidence of associations in the high-intake group ( interaction p-values of 0.073 and 0.047 ) .
+Inverse associations were also stronger in non-breast-fed infants and infants with low maternal vitamin D , but effect estimates and interactions were not significant .
+CONCLUSIONS Our findings suggest that prenatal exposure to residential air pollutants may adversely affect infant mental development , but potential effects may be limited to infants whose mothers report low antioxidant intakes .

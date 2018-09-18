@@ -1,0 +1,8 @@
+Using data from the Third National Health and Nutrition Examination Survey , we assessed measures of puberty in U.S. girls in relation to blood lead levels to determine whether sexual maturation may be affected by current environmental lead exposure .
+The study sample included 1,706 girls 8-16 years old with pubic hair and breast development information ; 1,235 girls 10-16 years old supplied information on menarche .
+Blood lead concentrations ( range = 0.7-21.7 micro g/dL ) were categorized into three levels : 0.7-2.0 , 2.1-4.9 , and 5.0-21.7 micro g/dL .
+Sexual maturation markers included self-reported attainment of menarche and physician determined Tanner stage 2 pubic hair and breast development .
+Girls who had not reached menarche or stage 2 pubic hair had higher blood lead levels than did girls who had .
+For example , among girls in the three levels of blood lead described above , the unweighted percentages of 10-year-olds who had attained Tanner stage 2 pubic hair were 60.0 , 51.2 , and 44.4% , respectively , and for girls 12 years old who reported reaching menarche , the values were 68.0 , 44.3 , and 38.5% , respectively .
+The negative relation of blood lead levels with attainment of menarche or stage 2 pubic hair remained significant in logistic regression even after adjustment for race/ethnicity , age , family size , residence in metropolitan area , poverty income ratio , and body mass index .
+In conclusion , higher blood lead levels were significantly associated with delayed attainment of menarche and pubic hair among U.S. girls , but not with breast development .

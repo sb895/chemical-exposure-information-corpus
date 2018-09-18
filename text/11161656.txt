@@ -1,0 +1,10 @@
+This cross-sectional study examined the effects of chronic exposure to lead ( Pb ) , arsenic ( AS ) and undernutrition on the neuropsychological development of children .
+Two populations chronically exposed to either high ( 41 children ) or low ( 39 children ) levels of As and Pb were analyzed using the Wechsler Intelligence Scale for Children , Revised Version , for México ( WISC-RM ) .
+Geometric means of urinary arsenic ( AsU ) and lead in blood ( PbB ) were 62.9+/-0.03 ( microgAs/g creatinine ) and 8.9+/-0.03 ( microg/dl ) for the exposed group and 40.2+/-0.03 ( microgAs/g creatinine ) and 9.7+/-0.02 ( microg/dl ) for the reference group .
+The height for age index ( HAI ) was used as an indicator of chronic malnutrition and sociodemographic information was obtained with a questionnaire .
+Lead and arsenic were measured by atomic absorption spectrophotometry .
+Data on full , verbal , and performance intelligence quotients ( IQ ) scores , long-term memory , linguistic abstraction , attention span , and visuospatial organization were obtained through the WISC-RM .
+After controlling for significant potential confounders verbal IQ ( P<0.01 ) decreased with increasing concentrations of AsU .
+The HAI correlated positively with full-scale and performance IQ ( P<0.01 ) .
+Higher levels of AsU were significantly related to poorer performance on WISC-RM factors examining long-term memory and linguistic abstraction , while lower scores in WISC-RM factors measuring attention were obtained at increasing values of PbB .
+Our results suggest that exposure to As and chronic malnutrition could have an influence on verbal abilities and long-term memory , while Pb exposure could affect the attention process even at low levels .

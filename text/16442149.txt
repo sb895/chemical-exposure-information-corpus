@@ -1,0 +1,7 @@
+The aim of this study was to assess the total concentration and health risk to infants of breast milk mercury in urban mothers and mothers married to fishermen in relation to fish intake in Taiwan .
+A total of sixty-eight healthy mothers were recruited for the study .
+The breast milk mercury geometric mean concentration was 2.02 microgl(-1) ( n=56 , range : 0.24-9.45 microgl(-1) ) for the city group and 2.04 microgl(-1) ( n=12 , range : 0.26-8.62 microgl(-1) ) for the fishermen's group .
+Of the three sources of mercury exposure ( i.e. , ingestion ( breast milk ) , inhalation ( ambient air ) , and dermal exposure ( shower) ) , breast-feeding was found to be the largest ( 96.3-99.6% of the total ) .
+From a Monte Carlo simulation , in which methyl mercury accounted for about 50% of total mercury , the hazard quotient ( exposure estimate/oral minimal risk level or target organ toxicity dose ) exceeded 1.0 for 12.9% of urban babies and 18.8% of fishermen's babies ( chronic oral minimal risk level and target organ toxicity dose : 3 x 10(-4)mgkg(-1)d(-1) ) .
+The calculated mercury exposure was 3.02 x 10(-1) microgkg(-1)d(-1) for a 3.49 kg urban baby boy and 3.06 x 10(-1) microgkg(-1)d(-1) for a 3.44 kg urban baby girl .
+These results suggest the life style of mothers ( eating raw fish and shellfish such as used in " Sashimi " and " Sushi, " and vitamin supplementation ) may influence the mercury concentration in breast milk .

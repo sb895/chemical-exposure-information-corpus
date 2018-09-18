@@ -1,0 +1,9 @@
+The authors examined the hypothesized association between the body burden of polychlorinated biphenyls ( PCB ) in women and the risk of low birth weight for their infants .
+In Sweden , a main exposure route for PCBs and other persistent organochlorine compounds is through the consumption of fatty fish from the Baltic Sea ( on the Swedish east coast ) .
+A previous comparison between a cohort of consumers of large quantities of fish from the Swedish east coast and a reference population , together with a following analysis based on questionnaire data from a case-control study within the east coast cohort , supported the hypothesized association .
+In 1995 , blood samples were collected from the wives and ex-wives of fishermen from the Swedish east coast ( n = 192 ) who had given birth during the period 1973-1991 .
+Cases ( n = 57 ) , i.e. , infants with low birth weight ( 1,500-2,750 g ) , were matched with controls ( n = 135 ; birth weight , 3,250-4,500 g ) on gender , parity , and calendar year of birth .
+The concentration of 2,2',4,4',5,5'-hexachlorobiphenyl ( CB-153 ) in plasma was analyzed ; it has been suggested that CB-153 is a relevant biomarker of exposure to PCBs .
+The concentration of CB-153 in the plasma of mothers during the year of childbirth was " estimated " using some alternative plausible kinetic models .
+For two alternative estimated exposure datasets , which were focused on separately , an increase in the risk of a low birth weight was observed at a CB-153 concentration of 300 and 400 ng/g lipid weight , respectively ( adjusted odds ratios of 2.1 ( 95% confidence interval ( CI ) 1.0-4.7 ) and 2.3 ( 95% CI 0.9-5.9) ) .
+The present results strengthen the findings reported previously for this study population .

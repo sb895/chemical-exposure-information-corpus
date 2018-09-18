@@ -1,0 +1,14 @@
+Human cancer risks from benzene have been estimated from epidemiological data , with supporting evidence from animal bioassay data .
+This article reexamines the animal-based risk assessments using physiologically based pharmacokinetic ( PBPK ) models of benzene metabolism in animals and humans .
+Internal doses ( total benzene metabolites ) from oral gavage experiments in mice are well predicted by the PBPK model .
+Both the data and the PBPK model outputs are also well described by a simple nonlinear ( Michaelis-Menten ) regression model , as previously used by Bailer and Hoel [ Metabolite-based internal doses used in risk assessment of benzene .
+Environ Health Perspect 82:177-184 ( 1989) ] .
+Refitting the multistage model family to internal doses changes the maximum-likelihood estimate ( MLE ) dose-response curve for mice from linear-quadratic to purely cubic , so that low-dose risk estimates are smaller than in previous risk assessments .
+In contrast to Bailer and Hoel's findings using interspecies dose conversion , the use of internal dose estimates for humans from a PBPK model reduces estimated human risks at low doses .
+Sensitivity analyses suggest that the finding of a nonlinear MLE dose-response curve at low doses is robust to changes in internal dose definitions and more consistent with epidemiological data than earlier risk models .
+A Monte-Carlo uncertainty analysis based on maximum-entropy probabilities and Bayesian conditioning is used to develop an entire probability distribution for the true but unknown dose-response function .
+This allows the probability of a positive low-dose slope to be quantified : It is about 10% .
+An upper 95% confidence limit on the low-dose slope of excess risk is also obtained directly from the posterior distribution and is similar to previous q1* values .
+This approach suggests that the excess risk due to benzene exposure may be nonexistent ( or even negative ) at sufficiently low doses .
+Two types of biological information about benzene effects--pharmacokinetic and hematotoxic--are examined to test the plausibility of this finding .
+A framework for incorporating causally relevant biological information into benzene risk assessment is introduced , and it is shown that both pharmacokinetic and hematotoxic models appear to be consistent with the hypothesis that sufficiently low concentrations of inhaled benzene do not create and excess risk .

@@ -1,0 +1,11 @@
+Toxicological studies showed that trihalomethanes ( THMs ) , the most abundant classes of disinfection by-products ( DBPs ) in drinking water , impaired male reproductive health , but epidemiological evidence is limited and inconsistent .
+This study aimed to examine the associations of baseline blood THMs with semen parameters and serum total testosterone in a Chinese population .
+We recruited 401 men seeking semen examination from the Reproductive Center of Tongji Hospital in Wuhan , China between April 2011 and May 2012 .
+Baseline blood concentrations of THMs , including chloroform ( TCM ) , bromodichloromethane ( BDCM ) , dibromochloromethane ( DBCM ) , and bromoform ( TBM ) were measured using SPME-GC/ECD method .
+Semen quality and serum total testosterone were analyzed .
+Multivariable linear regressions were used to assess the associations of baseline blood THM concentrations with semen parameters and serum total testosterone levels .
+We found that baseline blood THM concentrations were not associated with decrements in sperm motility , sperm straight-line and curvilinear velocity .
+However , moderate levels of BDCM ( \u03b2=-0.13 million ; 95% CI : -0.22 , -0.03 ) and DBCM ( \u03b2=-4.74% ; 95% CI : -8.07 , -1.42 ) were associated with decreased sperm count and declined sperm linearity compared with low levels , respectively .
+Suggestive dose-response relationships were also observed between elevated blood TCM or \u2211 THMs ( sum of TCM , BDCM , DBCM and TBM ) concentration and decreased sperm concentration ( both p for trend=0.07 ) , and between elevated blood DBCM concentration and decreased serum total testosterone ( p for trend=0.07 ) .
+Our results indicate that elevated THM exposure may lead to decreased sperm concentration and serum total testosterone .
+However , the effects of THM exposure on male reproductive health still warrant further studies in humans .

@@ -1,0 +1,12 @@
+A chemical factory which produced polychlorinated biphenyls ( PCBs ) operated in Brescia , North Italy , ( about 200000 inhabitants ) from the 1930s to the 1980s .
+High levels of PCBs were recently found in soil , food and people living in an area close to the factory .
+We performed a survey among the general population living in non-polluted areas of the town in order to define the reference values ( RVs ) of the non-exposed population .
+A random sample of subjects aged 20-79 years ( 50% males ) was selected .
+Participants underwent PCB determination and were interviewed on their residential and occupational history and current diet .
+For RV determination , subjects who had resided in the polluted area or consumed any food produced in the area in their lifetime were excluded .
+Eight hundred and ninety-two subjects were contacted , 579 ( 65% ) of whom agreed to participate ; 311 of them were considered for RV determination ( 53% male , mean age=48.7 years ) .
+Total PCB serum levels , computed as the sum of the 24 congeners determined , were : mean=5.15ng/ml ( SD=8.83 ) , median=4.11ng/ml , range=0.4-34.12ng/ml , 95th centile=14.38ng/ml .
+Lipid-adjusted mean and median were 897 and 705ng/g lipid , respectively .
+PCB values showed positive correlations with age ( Spearman's r=0.76 ) and with serum concentration of total cholesterol ( r=0.40 ) and triglycerides ( r=0.36 ) .
+No association was found with gender , cigarette smoking , alcohol or diet .
+Seven PCB congeners , ( PCB 180 , 153 , 138 , 170 , 194 , 118 , and 156 ) , including those at higher chlorination , were present in more than 30% of the subjects and contributed 99% of the total PCB levels , with a modest role of dioxin-like congeners .

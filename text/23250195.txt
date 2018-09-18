@@ -1,0 +1,8 @@
+Multi-city population-based epidemiological studies have observed significant heterogeneity in both the magnitude and direction of city-specific risk estimates , but tended to focus on regional differences in PM2.5 mortality risk estimates .
+Interpreting differences in risk estimates is complicated by city-to-city heterogeneity observed within regions due to city-to-city variations in the PM2.5 composition and the concentration of gaseous pollutants .
+We evaluate whether variations in PM2.5 composition and gaseous pollutant concentrations have a role in explaining the heterogeneity in PM2.5 mortality risk estimates observed in 27 US cities from 1997 to 2002 .
+Within each region , we select the two cities with the largest and smallest mortality risk estimate .
+We compare for each region the within- and between-city concentrations and correlations of PM2.5 constituents and gaseous pollutants .
+We also attempt to identify source factors through principal component analysis ( PCA ) for each city .
+The results of this analysis indicate that identifying a PM constituent(s) that explains the differences in the PM2.5 mortality risk estimates is not straightforward .
+The difference in risk estimates between cities in the same region may be attributed to a group of pollutants , possibly those related to local sources such as traffic .

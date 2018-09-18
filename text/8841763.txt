@@ -1,0 +1,9 @@
+A multicomponent method used for analysis of organochlorine pesticides , polychlorinated biphenyls ( PCBs ) , naphthalenes , dibenzo-p-dioxins , and dibenzofurans was adapted for the analysis of methylsulfonyl metabolites of chlorinated biphenyls ( MeSO2-CBs ) and of p,p'-DDE ( MeSO2-DDE ) in human milk .
+The extraction and initial purification was made by liquid-gel partitioning .
+Additional purification and separation steps were achieved by adsorption and gel permeation chromatography .
+The mean recoveries of 23 MeSO2-CBs and MeSO2-DDE standards , added to the milk before extraction , were 80-97% .
+Human milk sampled in Stockholm during 1972 , 1976 , 1980 , 1984/85 , 1990 , 1991 , and 1992 was analyzed by GC-MS .
+During the time course studied , the concentrations of MeSO2-CBs decreased from approximately 9 to 2 ng/g lipids and of MeSO2-DDE from 5 to 0.4 ng/g lipids .
+The concentrations of MeSO2-CBs and MeSO2-DDE correlated to the levels of total PCB and p,p'-DDE , respectively. 3-MeSO2-DDE was the major isomer of the aryl methyl sulfones studied in the milk .
+PCB methyl sulfones with five and six chlorine atoms in the molecule were predominant among the PCB methyl sulfones Generally , the concentrations of 4-MeSO2-CBs were higher than the corresponding 3-MeSO2-CB compound .
+The major MeSO2-CBs in the milk were 4-MeSO2-2,5,2',3',4'-pentaCB ( 4-87 ) and 4-MeSO2-2,3,6,2',4',5'-hexaCB ( 4-149 ) .

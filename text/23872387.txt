@@ -1,0 +1,14 @@
+BACKGROUND Recent evidence suggests that exposure to persistent organic pollutants ( POPs ) increases the risk of hypertension in environmentally exposed populations .
+High POP levels have been detected in Arctic populations and the exposure is related to high consumption of fish and marine mammals , which represent the traditional diet of these populations .
+OBJECTIVE We examined the associations between polychlorinated biphenyls ( PCBs ) , organochlorine ( OC ) pesticides and hypertension among Inuit from Nunavik ( Quebec , Canada ) .
+METHODS A complete set of data was obtained for 315 Inuit\u226518years who participated in the " Santé Québec " health survey that was conducted in the 14 villages of Nunavik in 1992 .
+Fourteen polychlorinated biphenyls ( PCBs ) and 8 OC pesticides or their metabolites were measured in plasma samples using gas chromatography with electron capture detection .
+Blood pressure ( BP ) was measured using a standardized protocol and information regarding anti-hypertensive medication was obtained through questionnaires .
+The associations between log-transformed POPs and hypertension ( systolic BP\u2265140mmHg , diastolic BP\u226590mmHg or anti-hypertensive medication ) were analyzed using multiple logistic regressions .
+RESULTS Total PCBs as well as the sum of non-dioxin-like PCBs were significantly associated with higher risk of hypertension .
+Furthermore , the risk of hypertension increased with higher plasma concentrations of congeners 101 , 105 , 138 and 187 .
+Models adjusted for BP risk factors became significant after including n-3 polyunsaturated fatty acids ( PUFAs ) and further adjustment for lead and mercury did not change the results .
+Regarding OC pesticides , p,p'-dichlorodiphenyldichloroethylene ( p,p'-DDE ) was associated with increased risk of hypertension while inverse associations were observed with p,p'-dichlorodiphenyltrichloroethane ( p,p'-DDT ) , \u03b2-hexachlorocyclohexane ( HCH ) and oxychlordane .
+CONCLUSIONS Some PCB congeners were associated with higher risk of hypertension in this highly exposed population .
+Most associations became significant after including n-3 PUFAs in the models .
+However , the analyses of OC pesticides revealed divergent results , which need to be confirmed in further cohort and experimental studies .

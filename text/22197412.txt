@@ -1,0 +1,12 @@
+The long term effects of usage of triclosan-containing toothpaste on thyroid function are currently unknown .
+Triclosan is structurally similar to thyroid hormones and reductions in serum thyroid hormone levels have been observed in animal studies following oral administration of triclosan .
+Therefore , an assessment of thyroid function over 4 years was undertaken in a subset of individuals in a randomised , placebo controlled clinical trial comparing the effects of 0.3% triclosan toothpaste with placebo toothpaste in subjects with coronary heart disease .
+Thyroid stimulating hormone ( TSH ) , free thyroxine ( fT4 ) , free triiodothyronine ( fT3 ) , antithyroglobulin antibody ( anti-TGab ) and antithyroid peroxidase antibody ( TPOab ) were measured .
+Paired serum samples at year 1 and year 5 from 132 subjects ( 64 triclosan group , 68 placebo group ) were analysed .
+At year 1 there were no significant differences in thyroid function between the groups : mean ( SD ) TSH 1.4 ( 0.8 ) and 1.6 ( 0.9 ) mU/L , triclosan and placebo groups respectively , fT4 15.8 ( 2.2 ) and 15.2 ( 2.1 ) pmol/L ; fT3 4.8 ( 0.5 ) and 4.8 ( 0.5 ) pmol/L .
+Similarly , for antithyroid antibodies there were no group differences at year 1 .
+Median ( 25th , 75th percentile ) for anti-TGab , 38 ( 34 , 42 ) and 37 ( 30 , 42 ) U/mL triclosan and placebo groups respectively ; anti-TPOab , 15 ( 10 , 22 ) and 18 ( 10 , 24 ) U/mL .
+At year 5 , fT4 was the only measure to show a significant difference between groups ( mean and 95% Confidence Interval ) 15.6 ( 15.1 , 16.1 ) and 14.7 ( 14.2 , 15.1 ) pmol/L triclosan and placebo respectively ( p=0.01 ) .
+This reflects reduced levels in the placebo group but no change in the triclosan group .
+In conclusion , over 4 years triclosan toothpaste had no detectable effect on thyroid function .
+The data support the view that 0.3% triclosan in toothpaste is safe and free of significant thyroid adverse effects .

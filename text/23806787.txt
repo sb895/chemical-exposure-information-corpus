@@ -1,0 +1,8 @@
+PURPOSE Research on the effect of co-exposure to Cd and Pb on the kidney is scarce .
+The objective of the present study was to assess the effect of co-exposure to these metals on biomarkers of early renal effect .
+METHODS Cd in blood ( Cd-B ) , Cd in urine ( Cd-U ) , Pb in blood ( Pb-B ) and urinary renal biomarkers , i.e. , microalbumin ( \u03bc-Alb ) , beta-2-microglobulin ( \u03b2\u2082-MG ) , retinol binding protein ( RBP ) , N-acetyl-\u03b2-d-glucosaminidase ( NAG ) , intestinal alkaline phosphatase ( IAP ) were measured in 122 metallurgic refinery workers examined in a cross-sectional survey .
+RESULTS AND CONCLUSIONS The median Cd-B , Cd-U , Pb-B were : 0.8 \u03bcg/l ( IQR = 0.5 , 1.2 ) , 0.5 \u03bcg/g creatinine ( IQR = 0.3 , 0.8 ) and 158.5 \u03bcg/l ( IQR = 111.0 , 219.3 ) , respectively .
+The impact of Cd-B on the urinary excretion of NAG and IAP was only evident among workers with Pb-B concentrations \u2265 75th percentile .
+The association between Cd-U and the renal markers NAG and RBP was also evidenced when Pb-B \u2265 75th percentile .
+No statistically significant interaction terms were observed for the associations between Cd-B or Cd-U and the other renal markers under study ( i.e. , \u03bc-Alb and \u03b22-MG ) .
+Our findings indicate that Pb increases the impact of Cd exposure on early renal biomarkers .

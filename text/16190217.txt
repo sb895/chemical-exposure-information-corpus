@@ -1,0 +1,12 @@
+Perfluorinated alkyl sulfonamides ( PFASs ) which are used in a variety of consumer products for surface protection were investigated through a comprehensive survey of indoor air , house dust , and outdoor air in the city of Ottawa , Canada .
+This study revealed new information regarding the occurrence and indoor air source strength of several PFASs including N-methylperfluorooctane sulfonamidoethanol ( MeFOSE ) , N-ethylperfluorooctane sulfonamidoethanol ( EtFOSE ) , N-ethylperfluorooctane sulfonamide ( EtFOSA ) , and N-methylperfluorooctane sulfonamidethylacrylate ( MeFOSEA ) .
+Passive air samplers consisting of polyurethane foam disks were calibrated and used to conduct the indoor and outdoor survey .
+Indoor air concentrations for MeFOSE and EtFOSE ( 1490 and 740 pg m(-3) , respectively ) were about 10-20 times greater than outdoor concentrations , establishing indoor air as an important source to the outside environment .
+EtFOSA and MeFOSEA concentrations were lower in indoor air ( 40 and 29 pg m(-3) respectively ) and below detection in outdoor air samples .
+For indoor dust , highest concentrations were recorded for MeFOSE and EtFOSE with geometric mean concentrations of 110 and 120 ng g(-1) , while concentrations for EtFOSA and MeFOSEA were below detection and 7.9 ng g(-1) respectively .
+MeFOSE and EtFOSE concentrations in house dust followed levels in indoor air .
+However , resolution of the coupled air and dust data ( for the same homes ) was not successful using existing KoA-based models for surface-air exchange .
+The partitioning to house dust was greatly underpredicted .
+The difficulties with existing models may be due to the high activity coefficient of PFASs in octanol and/or a situation where the dust is greatly oversaturated with respect to the air due to components of the dust being contaminated with PFASs .
+A human exposure assessment based on median air and dust concentrations revealed that human exposure through inhalation ( 100% absorption assumed ) and dust ingestion were approximately 40 and approximately 20 ng d(-1) , respectively .
+However , for children the dust ingestion pathway was dominant and accounted for approximately 44 ng d(-1) .

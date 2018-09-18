@@ -1,0 +1,15 @@
+Mapping spatial distributions of disease occurrence can serve as a useful tool for identifying exposures of public health concern .
+Infant mortality is an important indicator of the health status of a population .
+Recent literature suggests that neighborhood deprivation status can modify the effect of air pollution on preterm delivery , a known risk factor for infant mortality .
+We investigated the effect of neighborhood social deprivation on the association between exposure to ambient air NO2 and infant mortality in the Lille and Lyon metropolitan areas , north and center of France , respectively , between 2002 and 2009 .
+We conducted an ecological study using a neighborhood deprivation index estimated at the French census block from the 2006 census data .
+Infant mortality data were collected from local councils and geocoded using the address of residence .
+We generated maps using generalized additive models , smoothing on longitude and latitude while adjusting for covariates .
+We used permutation tests to examine the overall importance of location in the model and identify areas of increased and decreased risk .
+The average death rate was 4.2\u2030 and 4.6\u2030 live births for the Lille and Lyon metropolitan areas during the period .
+We found evidence of statistically significant precise clusters of elevated infant mortality for Lille and an east-west gradient of infant mortality risk for Lyon .
+Exposure to NO2 did not explain the spatial relationship .
+The Lille MA , socioeconomic deprivation index explained the spatial variation observed .
+These techniques provide evidence of clusters of significantly elevated infant mortality risk in relation with the neighborhood socioeconomic status .
+This method could be used for public policy management to determine priority areas for interventions .
+Moreover , taking into account the relationship between social and environmental exposure may help identify areas with cumulative inequalities .

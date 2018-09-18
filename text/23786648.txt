@@ -1,0 +1,12 @@
+Engineered nanoparticles ( ENP ) are increasingly used to functionalize textiles taking advantage , e.g. , of the antimicrobial activity of silver ( Ag)-ENP or the UV-absorption of titania ( TiO2)-ENP .
+Mobilization and migration of ENPs from the textile into human sweat can result in dermal exposure to these nanoobjects and their aggregates and agglomerates ( NOAA ) .
+In this study we assessed exposure to NOAA migrating from commercially available textiles to artificial sweat by an experimental setup that simulates wear-and-tear during physical activity .
+By combining physical stress with incubation in alkaline and acidic artificial sweat solutions we experimentally realized a worst case scenario for wearing functionalized textiles during sports activities .
+This experimental approach is not limited to NOAA , but can be used for any other textile additive .
+Out of four investigated textiles , one T-shirt and one pair of trousers with claimed antimicrobial properties were found to release Ag <450 nm in detectable amounts ( 23-74 \u03bcg/g/L ) .
+Textiles containing TiO2 for UV protection did not release significant amounts of TiO2 <450 nm , but the antimicrobial T-shirt released both TiO2 and Ag <450 nm .
+The silver was present in dissolved and particulate form , whereas TiO2 was mainly found as particulate .
+On the basis of our experimental results we calculated external dermal exposure to Ag and TiO2 for male and female adults per use .
+For silver , maximal amounts of 17.1 and 8.2 \u03bcg/kg body weight were calculated for total and particulate Ag <450 nm , respectively .
+For TiO2 , the exposure levels amount to maximal 11.6 \u03bcg/kg body weight for total ( mainly particulate ) TiO2 .
+In comparison with other human exposure pathways , dermal exposure to NOAA from textiles can be considered comparably minor for TiO2-NOAA , but not for Ag-NOAA .

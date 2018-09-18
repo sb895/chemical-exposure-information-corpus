@@ -1,0 +1,10 @@
+The Agency for Toxic Substances and Disease Registry ( ATSDR ) and the United States ( US ) Environmental Protection Agency ( EPA ) Office of Solid Waste and Emergency Response ( OSWER ) list arsenic as a major concern for Superfund sites and the environment at large .
+Arsenic is clearly linked to skin , bladder , and lung cancer occurrence in populations highly exposed to arsenic occupationally , medicinally , or through contaminated drinking water ( Agency for Toxic Substances and Disease Registry , 1999 ; IARC , 1987 ) .
+While these studies have identified important adverse health effects , they cannot provide risk information at lower levels of exposure such as those commonly found in the US .
+Additionally , precise measurement of exposure is critical to assessing risk in populations consuming relatively trace amounts of arsenic .
+In New Hampshire , domestic wells serve roughly 40% of the population , and about 10% of these contain arsenic concentrations in the controversial range of 10 to 50 micrograms/l .
+New Hampshire , along with other states in New England , has among the highest bladder cancer mortality rates in the country .
+Therefore , we are conducting a population-based epidemiologic study in New Hampshire ( 1 ) to assess the risk of skin and bladder cancer associated with arsenic exposure in a US population , ( 2 ) to evaluate methods of quantifying individual exposure to arsenic at low to moderate levels , and ( 3 ) to explore alternative models of determining the dose-response relationship at the lower end of exposure .
+Our findings to date indicate that toenail arsenic concentrations are a reliable , long-term biomarker of total arsenic exposure and reflect arsenic intake by drinking water containing 1 microgram/l or more .
+We found that urinary arsenic cannot be detected consistently in a population for which drinking water arsenic is primarily below 50 micrograms/l .
+Lastly , our data suggest that use of a biologic marker along with alternative statistical approaches may aid detection of the levels at which arsenic may affect cancer occurrence in the US .

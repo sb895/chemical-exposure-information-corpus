@@ -1,0 +1,10 @@
+In this study , the authors ' objective was to determine whether serum concentrations of polychlorinated biphenyls ( PCBs ) , hexachlorobenzene , p,p'-dichlorodiphenyl trichloroethane ( DDT ) , o,p'-DDT , and p,p'-dichlorodiphenyl dichloroethylene ( DDE ) are associated with thyroid function during pregnancy .
+These compounds , as well as thyroid-stimulating hormone , total thyroxine , and free thyroxine , were measured in serum samples collected between October 1999 and October 2000 from 334 pregnant women living in the Salinas Valley , California .
+Data were analyzed by multivariate linear regression .
+After adjustment for covariates , seven of the 19 PCB congeners detected in more than 75% of participants and the sum of those congeners were negatively associated with free thyroxine concentrations .
+PCBs 44 , 52 , and 183 remained significant after the exclusion of two outliers .
+Hexachlorobenzene concentrations were negatively associated with both free thyroxine and total thyroxine .
+PCB and hexachlorobenzene concentrations were strongly correlated , which hampered the authors ' ability to identify their independent associations with thyroid function .
+None of the exposures under study were associated with thyroid-stimulating hormone .
+Results suggest that exposure to PCBs and/or hexachlorobenzene at background levels may affect thyroid function during pregnancy .
+These findings are of particular significance , since thyroid hormones of maternal origin may play an essential role in fetal neurodevelopment .

@@ -1,0 +1,10 @@
+Polybrominated diphenyl ethers ( PBDEs ) were measured in 2004 in 105 breast milk samples collected from 13 regions of Japan ( Hokkaido , Akita , Miyagi , Tokyo , Gifu , Fukui , Kyoto , Hyogo , Wakayama , Shimane , Yamaguchi , Kochi and Okinawa ) .
+Six congeners ( BDE-28 , BDE-47 , BDE-99 , BDE-100 , BDE-153 and BDE-154 ) were determined by gas chromatography /mass spectrometry ( GC/MS ) .
+Total PBDE levels ranged from 0.01 to 23.0 ng/g lipid ( geometric mean ( GM ) , 1.34 ng/g lipid ) .
+BDE-47 ( GM , 0.66 ng/g lipid , 59% of sigmaPBDE ) was the most abundant congener present in breast milk and was detected in 99% of the samples .
+Total PBDE levels were higher in northern Japan than in other regions .
+We analyzed the effects of occupation , age , smoking status , alcohol consumption and number of deliveries on total PBDE levels .
+None of these factors were significantly associated with the level of PBDEs .
+The present study revealed that the current level of exposure to PBDEs in Japan is lower than that in the USA or Sweden .
+GMs ( ng/g lipid ) ( GSD , geometric standard deviation ) and medians ( ng/g lipid ) of PBDE levels in each district are as follows : Hokkaido 2.70 ( 1.70 ) , 2.74 ; Akita 4.49 ( 2.19 ) , 5.44 ; Miyagi 1.77 ( 4.37 ) , 1.11 ; Tokyo 1.39 ( 2.09 ) , 1.63 , Gifu 2.83 ( 4.79 ) , 2.23 ; Fukui 1.05 ( 2.34 ) , 1.18 ; Kyoto 1.31 ( 2.95 ) , 1.33 ; Hyogo 1.02 ( 2.69 ) , 0.88 ; Wakayama 1.33 ( 3.80 ) , 1.70 ; Shimane 0.83 ( 2.51 ) , 0.66 ; Yamaguchi 1.74 ( 2.82 ) , 1.76 ; Kochi 0.50 ( 2.69 ) , 0.74 and Okinawa 1.91 ( 2.75 ) , 1.22 .
+This is the first large-scale study of current PBDE levels in breast milk in Japan .

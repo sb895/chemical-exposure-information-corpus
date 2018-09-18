@@ -1,0 +1,11 @@
+It is well known that fire fighters are potentially exposed to various carcinogenic agents at a fire scene .
+An almost unheeded issue , however , is fire fighters ' exposure to carcinogenic agents in smoke diving simulators .
+Biomonitoring ( urinary muconic acid , 1-naphthol and 1-pyrenol ) , dermal ( polycyclic aromatic hydrocarbons ) and occupational hygiene measurements ( cyanides , hydrogen cyanide , polycyclic aromatic hydrocarbons , volatile organic compounds and formaldehyde ) were used to determine how the burning material , the type of simulator and protective clothing used affect fire fighting trainers ' exposure .
+The highest excretion of 1-pyrenol ( sampled 6h after end of exposure , in average 4.3-9.2nmol/L ) and emissions of benzene ( 1.0-2.5mg/m(3) ) and hydrogen cyanide ( 0.2-0.9mg/m(3) ) were measured during the burning of conifer plywood and chipboard , and the lowest when pure pine and spruce wood ( 1.5nmol/L , 0.6mg/m(3) , and 0.05mg/m(3) ) was burned .
+However the safest burning material seemed to be propane ( 1.0nmol/L , 0.2mg/m(3) , and not measured ) .
+The type of simulator used affected trainers ' exposure very clearly .
+The highest dermal whole body exposures to polycyclic aromatic hydrocarbons were measured in the fire house simulator ( in average 1200ng/cm(2) ) .
+Clearly lower exposure levels were measured in container training sessions ( 760ng/cm(2) ) , where the average dermal exposure level was 35% lower than in the fire house .
+The exposure levels ( 30ng/cm(2) ) in the gas simulator in turn , were only 4% of the levels in container training sessions .
+The amount of polycyclic aromatic hydrocarbons decreased by 80% on trainers ' hands when they used under gloves ( in average 8.7ng/cm(2) ) compared to those ( 48.4ng/cm(2) ) who did not .
+There was not difference in protection efficiency against polycyclic aromatic hydrocarbons between tested fire suits ( Brage and Bristol ) .

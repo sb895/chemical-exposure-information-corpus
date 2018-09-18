@@ -1,0 +1,12 @@
+Genetic polymorphisms in arsenic-metabolizing enzymes may be involved in the biotransformation of inorganic arsenic and may increase the risk of developing urothelial carcinoma ( UC ) .
+The present study evaluated the roles of glutathione S-transferase omega 1 ( GSTO1 ) and GSTO2 polymorphisms in UC carcinogenesis .
+A hospital-based case-control study was conducted .
+Questionnaire information and biological specimens were collected from 149 UC cases and 251 healthy controls in a non-obvious inorganic arsenic exposure area in Taipei , Taiwan .
+The urinary arsenic profile was determined using high-performance liquid chromatography and hydride generator-atomic absorption spectrometry .
+Genotyping for GSTO1 Ala140Asp and GSTO2 Asn142Asp was conducted using polymerase chain reaction-restriction fragment length polymerase .
+GSTO1 Glu208Lys genotyping was performed using high-throughput matrix-assisted laser desorption and ionization time-of-flight mass spectrometry .
+A significant positive association was found between total arsenic , inorganic arsenic percentage and monomethylarsonic acid percentage and UC , while dimethylarsinic acid percentage was significantly inversely associated with UC .
+The minor allele frequency of GSTO1 Ala140Asp , GSTO1 Glu208Lys and GSTO2 Asn142Asp was 18% , 1% and 26% , respectively .
+A significantly higher MMA% was found in people who carried the wild type of GSTO1 140 Ala/Ala compared to those who carried the GSTO1 140 Ala/Asp and Asp/Asp genotype ( p=0.02 ) .
+The homogenous variant genotype of GSTO2 142 Asp/Asp was inversely associated with UC risk ( OR=0.17 ; 95% CI , 0.03 - 0.88 ; p=0.03 ) .
+Large-scale studies will be required to verify the association between the single nucleotide polymorphisms of arsenic-metabolism-related enzymes and UC risk .

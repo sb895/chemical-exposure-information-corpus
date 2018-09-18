@@ -1,0 +1,9 @@
+Dermal exposure data for mycotoxins are very scarce and fragmentary , despite their widespread skin contact and hazard toxicity .
+In this study , the transdermal kinetics of aflatoxin B1 ( AFB1 ) , ochratoxin A ( OTA ) , fumonisin B1 ( FB1 ) , citrinin ( CIT ) , zearalenone ( ZEA ) and T-2 toxin ( T-2 ) were quantitatively evaluated , using human skin in an in vitro Franz diffusion cell set-up .
+All mycotoxins penetrated through the skin , except for FB1 , which showed concentrations in the receptor fluid below the LoD , resulting in a K(p)<3.24×10(-6)cm/h .
+OTA showed the highest permeation ( K(p)=8.20×10(-4)cm/h ) , followed by CIT ( K(p)=4.67×10(-4)cm/h ) .
+AFB1 and ZEA showed lower permeability rates ( K(p)=2.11 and 2.33×10(-4)cm/h , respectively ) .
+T-2 was found to have the lowest permeability ( K(p)=6.07×10(-5)cm/h ) .
+From literature-based mycotoxin-concentrations , dermal contact surface , exposure time and apparent K(p)'s obtained in this study , the daily dermal exposure ( DDE ) in two industrial and one residential scenario was estimated .
+Dermal exposure to the DNA-reactive genotoxic carcinogenic AFB1 can lead to a health risk for agricultural workers which are exposed to a mycotoxin contaminated solution in a worst case situation .
+For all the other investigated mycotoxins , no significant health risk is calculated after dermal contact in neither agricultural nor residential environments .

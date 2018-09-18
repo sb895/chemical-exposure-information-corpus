@@ -1,0 +1,13 @@
+There are evidences for exposure to vehicular emissions and adverse cardiopulmonary health effects .
+This study attempted to further explore these effects on elderly .
+This study monitored personal PM(2.5) concentrations and ambulatory electrocardiograms continuously for 24 h on 1 working day in 3 separate weeks for 11 school crossing guards .
+Spirometry was also performed before and after the morning shift .
+The traffic at each work location was video recorded during one of the three morning shifts .
+The increases in the average personal PM(2.5) concentrations ( baseline PM(2.5) was subtracted ) of 1.2-87 and 1.1-98 microg/m(3) were observed during the 1-h morning ( DeltaPM(2.5-ave-m) ) and afternoon shift ( DeltaPM(2.5-ave-a) ) , respectively .
+Traffic count was not a significant predictor of the DeltaPM(2.5-ave-m) ( P=0.78 ) .
+Mean heart rate variability ( HRV ) , measured as 5-min standard deviation of normal-to-normal ( SDNN ) beats during the 10-min rest periods , decreased 18-26% ( P<0.02 ) 15 min , 2 and 4 h after the morning shift , but changes in SDNN ( DeltaSDNN ) were insignificant post-afternoon exposure ( -0.3 to -7% with P>0.53 ) .
+DeltaSDNN were negatively associated with DeltaPM(2.5-ave-m) , with the strongest association at 2 h after the morning shift ( P<0.01 ) but insignificant 4 h after the morning exposure .
+The peak PM(2.5) concentration ( DeltaPM(2.5-peak) , baseline PM(2.5) was subtracted ) was not a significant predictor for DeltaSDNN , and no clear effect of PM(2.5) exposure on heart rate was observed .
+There was no effect of PM exposure on lung function ( P>0.16 ) , either .
+In conclusion , acute exposure to the PM(2.5) resulting from mobile sources can cause acute decline in HRV in healthy older adults , suggesting one of the biological mechanisms for the adverse cardiovascular health effects associated with traffic-related air pollution .
+Traffic count may not be an appropriate surrogate measure of acute personal exposure to vehicular emission in traffic congested areas .

@@ -1,0 +1,11 @@
+BACKGROUND Fish and seafood provide important nutrients but may also contain toxic contaminants , such as methylmercury .
+Advisories against pollutants may therefore conflict with dietary recommendations .
+In resolving this conundrum , most epidemiologic studies provide little guidance because they address either nutrient benefits or mercury toxicity , not both .
+OBJECTIVES Impact on the same health outcomes by two exposures originating from the same food source provides a classical example of confounding .
+To explore the extent of this bias , we applied structural equation modeling to data from a prospective study of developmental methylmercury neurotoxicity in the Faroe Islands .
+RESULTS Adjustment for the benefits conferred by maternal fish intake during pregnancy resulted in an increased effect of the prenatal methylmercury exposure , as compared with the unadjusted results .
+The dietary questionnaire response is likely to be an imprecise proxy for the transfer of seafood nutrients to the fetus , and this imprecision may bias the confounder-adjusted mercury effect estimate .
+We explored the magnitude of this bias in sensitivity analysis assuming a range of error variances .
+At realistic imprecision levels , mercury-associated deficits increased by up to 2-fold when compared with the unadjusted effects .
+CONCLUSIONS These results suggest that uncontrolled confounding from a beneficial parameter , and imprecision of this confounder , may cause substantial underestimation of the effects of a toxic exposure .
+The adverse effects of methylmercury exposure from fish and seafood are therefore likely to be underestimated by unadjusted results from observational studies , and the extent of this bias will be study dependent .

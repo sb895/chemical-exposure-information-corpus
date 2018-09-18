@@ -1,0 +1,10 @@
+BACKGROUND Environmental pollutants such as polycyclic aromatic hydrocarbons ( PAHs ) , lead , and mercury are released by combustion of coal and other fossil fuels .
+OBJECTIVES In the present study we evaluated the association between prenatal exposure to these pollutants and child development measured by the Gesell Developmental Schedules at 2 years of age .
+METHODS The study was conducted in Tongliang , Chongqing , China , where a seasonally operated coal-fired power plant was the major source of ambient PAHs and also contributed lead and mercury to the air .
+In a cohort of nonsmoking women and their newborns enrolled between March 2002 and June 2002 , we measured levels of PAH-DNA adducts , lead , and mercury in umbilical cord blood .
+PAH-DNA adducts ( specifically benzo[a]pyrene adducts ) provided a biologically relevant measure of PAH exposure .
+We also obtained developmental quotients ( DQs ) in motor , adaptive , language , and social areas .
+RESULTS Decrements in one or more DQs were significantly associated with cord blood levels of PAH-DNA adducts and lead , but not mercury .
+Increased adduct levels were associated with decreased motor area DQ ( p = 0.043 ) , language area DQ ( p = 0.059 ) , and average DQ ( p = 0.047 ) after adjusting for cord lead level , environmental tobacco smoke , sex , gestational age , and maternal education .
+In the same model , high cord blood lead level was significantly associated with decreased social area DQ ( p = 0.009 ) and average DQ ( p = 0.038 ) .
+CONCLUSION The findings indicate that exposure to pollutants from the power plant adversely affected the development of children living in Tongliang ; these findings have implications for environmental health policy .

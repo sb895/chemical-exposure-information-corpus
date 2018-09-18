@@ -1,0 +1,9 @@
+BACKGROUND Current air quality standards for particulate matter ( PM ) use the PM mass concentration [ PM with aerodynamic diameters \u2264 10 \u03bcm ( PM(10) ) or \u2264 2.5 \u03bcm ( PM(2.5)) ] as a metric .
+It has been suggested that particles from combustion sources are more relevant to human health than are particles from other sources , but the impact of policies directed at reducing PM from combustion processes is usually relatively small when effects are estimated for a reduction in the total mass concentration .
+OBJECTIVES We evaluated the value of black carbon particles ( BCP ) as an additional indicator in air quality management .
+METHODS We performed a systematic review and meta-analysis of health effects of BCP compared with PM mass based on data from time-series studies and cohort studies that measured both exposures .
+We compared the potential health benefits of a hypothetical traffic abatement measure , using near-roadway concentration increments of BCP and PM(2.5) based on data from prior studies .
+RESULTS Estimated health effects of a 1-\u03bcg/m3 increase in exposure were greater for BCP than for PM(10) or PM(2.5) , but estimated effects of an interquartile range increase were similar .
+Two-pollutant models in time-series studies suggested that the effect of BCP was more robust than the effect of PM mass .
+The estimated increase in life expectancy associated with a hypothetical traffic abatement measure was four to nine times higher when expressed in BCP compared with an equivalent change in PM(2.5) mass .
+CONCLUSION BCP is a valuable additional air quality indicator to evaluate the health risks of air quality dominated by primary combustion particles .

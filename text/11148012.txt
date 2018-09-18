@@ -1,0 +1,8 @@
+BACKGROUND The aim of the study was to evaluate whether cadmium concentrations in kidney ( K-Cd ) , blood ( B-Cd ) or urine ( U-Cd ) could reveal previous occupational cadmium exposure at a metal smelter .
+METHODS The study included 90 smelters and 35 controls ( B-Cd and U-Cd determination ) .
+In a subgroup ( N = 33 ) , K-Cd was also determined .
+RESULTS B-Cd ( median 4.6 ; range 0.5-53 nmol/L ) , U-Cd ( 0. 29 ; 0.04-1.9 micromol/mol creatinine ) and K-Cd ( 14 ; 3-61 microg/g wet weight ) were similar to reported concentrations in the general Swedish population .
+In the subgroup , significant associations ( P<0. 001 ) were obtained between B-Cd and K-Cd ( r = 0.70 ) , U-Cd and K-Cd ( r = 0.60 ) and between U-Cd and B-Cd ( r = 0.62 ) .
+Multiple regression analyses revealed smoking as the major predictor of K-Cd , B-Cd , and U-Cd .
+B-Cd and U-Cd were both associated with the duration of employment at the smelter .
+CONCLUSIONS There was no statistically significant evidence of previous occupational exposure at the smelter from measurement of K-Cd .

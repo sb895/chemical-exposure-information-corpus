@@ -1,0 +1,9 @@
+We assessed the association between blood methylmercury ( MeHg ) and cognitive function in 240 adult residents living near a deserted chloralkali plant .
+Total mercury ( T-Hg ) in the blood , MeHg , and health and dietary related questionnaire were examined for all participants .
+The Cognitive Abilities Screening Instrument ( CASI C-2.0 ) and Mini-Mental State Examination ( MMSE ) were used to assess the participants ' cognitive functions .
+We found a significantly high correlation ( r=0.979 ; p<0.001 ) between blood T-Hg ( 17.3+/-10.9 microg/L ) and MeHg ( 15.3+/-9.2 microg/L ) .
+We also found significantly higher blood MeHg levels in participants with high local fish and seafood consumption , which revealed that dietary intake was the major exposure route of MeHg .
+All the participants were assigned to the high-MeHg ( H-MeHg , 27.0+/-10.4 microg/L ) or low-MeHg ( L-MeHg , 11.6+/-4.7 microg/L ) groups based on the 75th percentile of their blood MeHg ( 19.2 microg/L ) , and then matched for cognitive function confounders : age , gender , and education levels .
+Higher abnormality rates for remote memory ( p=0.036 ) , mental manipulation ( p=0.013 ) , and orientation ( p=0.005 ) were found in the H-MeHg group than in the L-MeHg group .
+Long-term consumption of MeHg-contaminated fish and seafood by residents living near this contaminated area may have persistent effects on their cognitive function .
+We suggest a follow-up study to monitor the long-term health effects on the residents living near this deserted plant .

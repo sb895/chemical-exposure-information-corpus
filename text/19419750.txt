@@ -1,0 +1,13 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) are anthropogenic , organic compounds .
+Although banned in the 1970s , PCBs are poorly biodegradable and hence ubiquitous in the environment .
+They accumulate in adipose tissue and are implicated various malignancies , including breast and pancreatic cancer .
+The hepatobiliary system is the main excretory route for such xenobiotic toxins .
+Incidence rates of intrahepatic biliary tract cancer are increasing worldwide .
+Measurement and comparison of PCB levels in bile from human patients with benign and malignant bile duct disease has not previously been done .
+OBJECTIVES To compare PCB concentrations in bile from patients with malignant ( n=8 ) and non-malignant ( n=7 ) biliary disease .
+METHODS AND RESULTS Fifteen human bile samples , collected endoscopically , were analysed using gas chromatography mass spectrometry for seven target PCB congeners ( 28 , 52 , 101 , 118 , 153 , 138 , and 180 ) , known to occur in the environment and food .
+Amongst males , total PCB concentrations in bile ranged from 6 ng mL(-1) ( aged 73 years ) to 49 ng mL(-1) ( aged 90 years ) ; and in females between 8 ng mL(-1) ( aged 33 years ) to 43 ng mL(-1) ( aged 67 years ) bile .
+Although there was no overall difference in mean PCB levels between non-cancer and cancer patients , levels of congener 28 were significantly higher in patients with biliary tract cancer ( p<0.05 ) .
+CONCLUSIONS Despite the banning of PCBs over 30 years ago , these xenobiotics are present in the bile of patients with biliary disease .
+PCB levels tend to increase with age , suggesting chronic bioaccumulation .
+Further research is necessary to investigate the relevance of increased levels of congener 28 in bile in biliary tract cancer .

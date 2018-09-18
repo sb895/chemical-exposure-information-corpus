@@ -1,0 +1,13 @@
+BACKGROUND Prospective syndromic surveillance of emergency department visits has been used for near-real time tracking of communicable diseases to detect outbreaks or other unexpected disease clusters .
+The utility of syndromic surveillance for tracking cardiovascular events , which may be influenced by environmental factors and influenza , has not been evaluated .
+We developed and evaluated a method for tracking cardiovascular events using emergency department free-text chief complaints .
+METHODOLOGY/PRINCIPAL FINDINGS There were three phases to our analysis .
+First we applied text processing algorithms based on sensitivity , specificity , and positive predictive value to chief complaint data reported by 11 New York City emergency departments for which ICD-9 discharge diagnosis codes were available .
+Second , the same algorithms were applied to data reported by a larger sample of 50 New York City emergency departments for which discharge diagnosis was unavailable .
+From this more complete data , we evaluated the consistency of temporal variation of cardiovascular syndromic events and hospitalizations from 76 New York City hospitals .
+Finally , we examined associations between particulate matter \u22642.5 µm ( PM(2.5) ) , syndromic events , and hospitalizations .
+Sensitivity and positive predictive value were low for syndromic events , while specificity was high .
+Utilizing the larger sample of emergency departments , a strong day of week pattern and weak seasonal trend were observed for syndromic events and hospitalizations .
+These time-series were highly correlated after removing the day-of-week , holiday , and seasonal trends .
+The estimated percent excess risks in the cold season ( October to March ) were 1.9% ( 95% confidence interval ( CI ) : 0.6 , 3.2 ) , 2.1% ( 95% CI : 0.9 , 3.3 ) , and 1.8% ( 95%CI : 0.5 , 3.0 ) per same-day 10 µg/m(3) increase in PM(2.5) for cardiac-only syndromic data , cardiovascular syndromic data , and hospitalizations , respectively .
+CONCLUSIONS/SIGNIFICANCE Near real-time emergency department chief complaint data may be useful for timely surveillance of cardiovascular morbidity related to ambient air pollution and other environmental events .

@@ -1,0 +1,8 @@
+This study presents the methods and results of part of the HAPiNZ ( Health and Air Pollution in New Zealand ) study .
+A part of this project was to produce accurate measures of pollution exposure for the entire population of New Zealand living in urban areas .
+Suitable data are limited in most parts of New Zealand with some areas having no monitoring at all .
+As a result , this project has developed an empirical model to estimate annual exposure values for the whole country down to the census area unit level .
+This uses surrogate emission indicators and meteorological variables .
+Data sources used include census data on domestic heating , industrial emissions estimates , vehicle kilometres travelled and meteorological measurements .
+These were used to calculate annual exposure estimates and were then compared to monitored data for the areas where monitoring data were available .
+Results show a good association between the model estimates and the monitored data , enabling advanced health effects assessments for the country's entire urban population .

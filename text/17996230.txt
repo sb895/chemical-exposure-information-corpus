@@ -1,0 +1,12 @@
+Despite many claims of broad benefits , especially for in utero development , derived from the consumption of fish as a source of omega-3 fatty acids , individual species of fish and shellfish provide substantially varied levels of these fatty acids .
+Likewise , mean methylmercury ( MeHg ) concentrations for fish and shellfish species differ by greater than an order of magnitude .
+Consideration of within-species variability would increase this variation farther .
+Exposures to both MeHg and to the omega-3 fatty acids reflect dietary choices including species consumed , frequency of consumption , and portion size .
+In view of these sources of variability , data on dietary patterns and blood mercury ( microg/L ) among women of child-bearing age ( e.g. , 16-49 years ) provided an indication of exposures in the United States .
+Utilizing data from the National Health and Nutrition Examination Survey ( NHANES ) for survey years 1999--2002 , calculated consumption of MeHg and omega-3 fatty acids from fish and shellfish have been estimated based on results from 3614 women who provided 30-day dietary recall and 24-hours records .
+Statistics from NHANES when appropriately weighted are representative of the US population .
+The association between dietary MeHg from fish and shellfish and dietary fish intake yielded a Pearson correlation of 0.68 .
+The Pearson correlation between estimated 30-day intake from fish/shellfish consumption for omega-3 fatty acids and MeHg was 0.66 .
+Evaluation of the most commonly consumed fish and shellfish species as sources of MeHg and omega-3 fatty acids indicated that salmon followed by shrimp are principal sources of omega-3 fatty acids and are lesser sources of MeHg , in contrast with tuna which provides omega-3 fatty acids , but considerably higher levels of MeHg .
+These data can be used to guide selection of individual fish and shellfish species that are higher in omega-3 content and low in MeHg concentrations .
+This more refined dietary approach contrasts with generic recommendations that simply advise increasing fish consumption as a path toward improving cardiovascular health and providing benefits for in utero development or avoiding fish altogether .

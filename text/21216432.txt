@@ -1,0 +1,9 @@
+The daytime and nighttime air samples were collected from an e-waste recycling site in Guiyu ( GY ) and its upwind and downwind direction sites in Chendian ( CD ) and Gurao ( GR ) , respectively , during September and December 2005 to determine the phase partitioning , seasonal and diurnal variation of polybrominated diphenyl ethers ( PBDEs ) .
+The three sites showed similar congener compositions with BDEs-28 , -47 , -99 , -207 and -209 as the dominant congeners .
+The gas phase contribution ranged from 42.1% ± 17.1% of the total PBDEs in summer to 9.0% ± 8.6% in winter .
+Partitioning of PBDEs between gas and particulate phases was well correlated with the subcooled liquid vapor pressure ( P(L)(0) ) for all samples .
+Both Junge-Pankow adsorption model and K(OA)-based absorption model fitted well the PBDEs data in winter but overestimated the sorption of PBDEs in summer .
+The mean atmospheric concentrations of BDEs-47 ( 2748 pg m(-3) in summer and 6146 pg m(-3) in winter ) and -99 ( 1656 pg m(-3) in summer and 4911 pg m(-3) in winter ) in GY were much higher than those from other places around the world .
+Additionally , the time series of PBDEs in GY demonstrated a pronounced diurnal variation pattern , but not CD and GR , where PBDEs appeared partly associated with regional accumulation .
+Source characterization from local emissions may be the major factor controlling the diurnal variation of PBDEs in GY air .
+The risk assessment showed that the total daily intakes of BDE-99 in GY was 9.0-34.9 ng kg(-1)-bwd(-1) , which is higher than the maximal allowed intake level ( 0.26 ng kg(-1)-bwd(-1) ) with factors of 35-135 , indicating possible health risk for GY residents with exposure to PBDEs .

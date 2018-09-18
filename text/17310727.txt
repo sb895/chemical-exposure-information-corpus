@@ -1,0 +1,16 @@
+Although it has been established that mercury ( Hg ) can be detected in single hair strands using laser ablation-inductively coupled plasma-mass spectrometry ( LA-ICP-MS ) , calibration remains a challenge due to the lack of well-characterized matrix-matched standards .
+We concurrently evaluated two strategies for quantifying Hg signals in single hair strands using LA-ICP-MS .
+The main objective was to obtain time-resolved Hg concentrations in single hair strands of fish-eaters that would correspond to the changes of their body burden over time .
+Experiments were conducted using hair samples collected from 10 individuals .
+The first experiment involved the construction of a calibration curve with four powdered hair standard reference materials ( SRMs ) with a range of Hg concentrations ( 0.573-23.2 mg/kg ) .
+An internal standard , sulfur , as 34S , was applied to correct for ablation efficiency for both the hair strands and the SRMs .
+Results showed a linear relationship ( R2 = 0.899 ) between the ratio of 202Hg to 34S obtained by LA-ICP-MS and the certified total Hg concentration in the SRMs .
+Using this calibration curve , average Hg concentrations of 10 shots within a 1-cm segment of a hair strand were calculated and then compared to the total Hg concentrations in the matched 1-cm segment as measured by cold vapor atomic absorption spectrometry ( CV-AAS ) .
+A significant difference ( p < 0.05 ) was observed .
+The difference could be attributed to the highly variable ablation/sampling process caused by the use of the laser on the hair powder SRM pellets and the difference in the physical properties of the SRMs .
+An alternative approach was adopted to quantify consecutive 202Hg to 34S ratios by calibrating the signals against the average Hg concentration of the matched hair segment as measured by CV-AAS .
+Consecutive daily Hg deposition in single hairs of fish eaters was determined .
+Results showed that apparent daily changes in Hg concentrations within a hair segment that corresponds to 1 month of hair growth .
+In addition , a significant decreasing or increasing time-trend was observed .
+The difference between the minimum and maximum Hg concentration within each individual corresponded to a change of 26-40% .
+Our results showed that LA-ICP-MS can be used to reconstruct time-resolved Hg exposure in micrometer segments of a single hair strand .

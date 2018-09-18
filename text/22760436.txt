@@ -1,0 +1,11 @@
+Human phthalate exposure is ubiquitous , but little is known regarding predictors of urinary phthalate levels .
+To explore this , 50 pregnant women aged 18-38 years completed two questionnaires on potential phthalate exposures and provided a first morning void .
+Urine samples were analyzed for 12 phthalate metabolites .
+Associations with questionnaire items were evaluated via Wilcoxon tests and t-tests , and r-squared values were calculated in multiple linear regression models .
+Few measured factors were statistically significantly associated with phthalate levels .
+Individuals who used nail polish had higher levels of mono-butyl phthalate ( P=0.048 ) than non-users .
+Mono-benzyl phthalate levels were higher among women who used eye makeup ( P=0.034 ) or used makeup on a regular basis ( P=0.004 ) .
+Women who used cologne or perfume had higher levels of di-(2-ethylhexyl) phthalate metabolites .
+Household products , home flooring or paneling , and other personal care products were also associated with urinary phthalates .
+The proportion of variance in metabolite concentrations explained by questionnaire items ranged between 0.31 for mono-ethyl phthalate and 0.42 for mono-n-methyl phthalate .
+Although personal care product use may be an important predictor of urinary phthalate levels , most of the variability in phthalate exposure was not captured by our relatively comprehensive set of questionnaire items .

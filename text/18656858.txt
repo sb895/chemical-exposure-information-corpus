@@ -1,0 +1,10 @@
+BACKGROUND AND OBJECTIVE Respiratory diseases constitute one of the leading causes of ill health among children in New York State ( NYS ) .
+The current project , a component of the NYS Environmental Public Health Tracking Program , investigated a potential association between ambient ozone ( O(3) ) concentration and childhood respiratory hospital admissions over 11 years in NYS .
+METHODS We used a two-stage Bayesian hierarchical model to assess the exposure-disease associations within 11 geographic regions and statewide .
+The data included total daily hospital admissions due to respiratory diseases for children 0-17 years old from 1991 to 2001 in NYS ( N=134,099 ) and daily ambient O(3) level with different single-day lags .
+These analyses adjusted for particulate matter 10 microm in size ( PM(10) ) , meteorological conditions , day of the week , seasonality , long-term trends , and demographic characteristics .
+RESULTS In 5 of the 11 regions , including the Upper and Lower Adirondacks , Upper Hudson Valley , Staten Island , and New York City , positive associations were found between respiratory hospital admissions and ambient O(3) level 2 days prior to the admission .
+Applying different statistical methods and sensitivity analysis of PM(10) did not alter these findings .
+When region-specific results were combined , no statewide association was apparent .
+CONCLUSIONS Geographic differences were found in the associations between O(3) levels and respiratory hospital admissions among children .
+In addition , we found that the two-stage model may be an appropriate approach for tracking the health effects of air pollution over time in different geographic areas when heterogeneity of risk factors across regions is present .

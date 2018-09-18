@@ -1,0 +1,12 @@
+BACKGROUND Per\ufb02uorinated compounds ( PFCs ) are ubiquitous pollutants .
+Experimental data suggest that they may be associated with adverse health outcomes , including asthma .
+However , there is little supporting epidemiological evidence .
+METHODS A total of 231 asthmatic children and 225 nonasthmatic controls , all from northern Taiwan , were recruited in the Genetic and Biomarkers study for Childhood Asthma .
+Structure questionnaires were administered by face-to-face interview .
+Serum concentrations of 11 PFCs and levels of immunological markers were also measured .
+Associations of PFC quartiles with concentrations of immunological markers and asthma outcomes were estimated using multivariable regression models .
+RESULTS Nine PFCs were detectable in most children ( \u2265 84.4% ) , of which perfluorooctane sulfonate ( PFOS ) was the most abundant ( median serum concentrations of 33.9 ng/mL in asthmatics and 28.9 ng/mL in controls ) .
+Adjusted odds ratios for asthma among those with the highest versus lowest quartile of PFC exposure ranged from 1.81 ( 95% CI : 1.02 , 3.23 ) for the perfluorododecanoic acid ( PFDoA ) to 4.05 ( 95% CI : 2.21 , 7.42 ) for perfluorooctanic acid ( PFOA ) .
+PFOS , PFOA , and subsets of the other PFCs were positively associated with serum IgE concentrations , absolute eosinophil counts ( AEC ) , eosinophilic cationic protein ( ECP ) concentrations , and asthma severity scores among asthmatics .
+CONCLUSIONS This study suggests an association between PFC exposure and juvenile asthma .
+Because of widespread exposure to these chemicals , these findings may be of potential public health concern .

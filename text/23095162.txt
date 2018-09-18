@@ -1,0 +1,10 @@
+The arsenic ( As ) and fluoride ( F\u207b ) concentration in groundwater and potential adverse human health risk was investigated in the Central-West Region of the Chaco Province , northern Argentina .
+The mean concentration of As in shallow groundwater was 95 \u03bcg/L , where 76% of samples exceeded the World Health Organization ( WHO ) guideline value of 10 \u03bcg/L , while in deep groundwater it was 90 \u03bcg/L , where 63% samples exceeded 10 \u03bcg/L .
+For As health risk assessment , the average daily dose , hazard quotient ( HQ ) , and cancer risk were calculated .
+The values of HQ were found to be >1 in 77% of samples .
+This level of contamination is considered to constitute a high chronic risk compared with U.S. Environmental Protection Agency ( EPA ) guidelines .
+Further , a significant portion of the population has lifetime carcinogenic risk >10\u207b\u2074 and may suffer from cancer .
+A positive correlation was observed between As and F\u207b in groundwater .
+The Código Alimentario Argentino ( CAA ) suggested a limit of F\u207b in drinking water as low as 0.8 mg/L under tropical environmental conditions ; however , in shallow ( 39% ) and deep groundwater ( 32% ) , samples exceeded these values .
+Exposure to F\u207b was calculated and compared with the adequate intake of minimal safe level exposure dose of 0.05 mg/kg/d and it was noted that 42% of population may be at high risk of fluorosis .
+Chronic exposure to high As and F\u207b levels in this population represents a concern due to possible adverse health effects attributed to these elements .

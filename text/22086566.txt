@@ -1,0 +1,11 @@
+BACKGROUND Benzene is an industrial chemical that causes blood disorders , including acute myeloid leukemia .
+We previously reported that occupational exposures near the U.S. Occupational Safety and Health Administration permissible exposure limit ( 8 hr ) of 1 ppm was associated with sperm aneuploidy .
+OBJECTIVE We investigated whether occupational exposures near 1 ppm increase the incidence of sperm carrying structural chromosomal aberrations .
+METHODS We applied a sperm fluorescence in situ hybridization assay to measure frequencies of sperm carrying partial chromosomal duplications or deletions of 1cen or 1p36.3 or breaks within 1cen-1q12 among 30 benzene-exposed and 11 unexposed workers in Tianjin , China , as part of the China Benzene and Sperm Study ( C-BASS ) .
+Exposed workers were categorized into low- , moderate- , and high-exposure groups based on urinary benzene ( medians : 2.9 , 11.0 , and 110.6 µg/L , respectively ) .
+Median air benzene concentrations in the three exposure groups were 1.2 , 3.7 , and 8.4 ppm , respectively .
+RESULTS Adjusted incidence rate ratios ( IRRs ) and 95% confidence intervals ( CIs ) for all structural aberrations combined were 1.42 ( 95% CI : 1.10 , 1.83 ) , 1.44 ( 95% CI : 1.12 , 1.85 ) , and 1.75 ( 95% CI : 1.36 , 2.24 ) and for deletion of 1p36.3 alone were 4.31 ( 95% CI : 1.18 , 15.78 ) , 6.02 ( 95% CI : 1.69 , 21.39 ) , and 7.88 ( 95% CI : 2.21 , 28.05 ) for men with low , moderate , and high exposure , respectively , compared with unexposed men .
+Chromosome breaks were significantly increased in the high-exposure group [ IRR 1.49 ( 95% CI : 1.10 , 2.02) ] .
+CONCLUSIONS Occupational exposures to benzene were associated with increased incidence of chromosomally defective sperm , raising concerns for worker infertility and spontaneous abortions as well as mental retardation and inherited defects in their children .
+Our sperm findings point to benzene as a possible risk factor for de novo 1p36 deletion syndrome .
+Because chromosomal aberrations in sperm can arise from defective stem cells/spermatogonia , our findings raise concerns that occupational exposure to benzene may have persistent reproductive effects in formerly exposed workers .

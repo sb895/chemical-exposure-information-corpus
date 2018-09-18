@@ -1,0 +1,10 @@
+Imidacloprid ( IMI ) is a relatively new neuro-active neonicotinoid insecticide and nowadays one of the largest selling insecticides worldwide .
+In the present study a LC\u2013APCI\u2013MS based method was developed and validated for the quantification of imidacloprid and its main metabolite 6-chloronicotinic acid ( 6- CINA ) in urine and hair specimens .
+The method was tested in biomonitoring of intentionally exposed animals and subsequently applied for biomonitoring of Cretan urban and rural population .
+The developed analytical method comprises two main steps of analytes isolation from specimen ( solid\u2013 liquid extraction with methanol for hair , liquid\u2013liquid extraction with methanol for urine ) and subsequent instrumental analysis by LC\u2013APCI\u2013MS .
+The developed method was applied for the monitoring of IMI and 6-ClNA in hair and urine of laboratory animals ( rabbits ) intentionally fed with insecticide at low or high doses ( 40 and 80 mg kg(-1) weight d(-1) respectively ) for 24 weeks .
+The analytes were detected in the regularly acquired hair and urine specimens and their found levels were proportional to the feeding dose and time of exposure with the exception of slight decline of IMI levels in high dose fed rabbits after 24 weeks of feeding .
+This decline can be explained by the induction of IMI metabolizing enzymes by the substrate .
+After testing on animal models the method was applied for pilot biomonitoring of Crete urban ( n = 26 ) and rural ( n = 32 ) population .
+Rural but not urban population is exposed to IMI with 21 positive samples ( 65.6% ) and found median concentration 0.03 ng mg(-1) .
+Maximum concentration detected was 27 ng mg(-1)

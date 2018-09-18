@@ -1,0 +1,10 @@
+Mercury ( Hg ) is a potent neurotoxicant .
+We hypothesized that single nucleotide polymorphisms ( SNPs ) in genes coding glutathione-related proteins , selenoproteins and metallothioneins may modify the relationship of mercury biomarkers with changes in peripheral nerve function .
+Dental professionals ( n=515 ) were recruited in 2009 and 2010 .
+Sensory nerve function ( onset latency , peak latency and amplitude ) of the median , ulnar and sural nerves was recorded .
+Samples of urine , hair and DNA were collected .
+Covariates related to demographics , nerve function and elemental and methyl-mercury exposure were also collected .
+Subjects included 244 dentists ( 47.4% ) and 269 non-dentists ( 52.2% ; mostly dental hygienists and dental assistants ) .
+The mean mercury levels in urine ( 1.06 \u03bcg/L ) and hair ( 0.51 \u03bcg/g ) were not significantly different from the US general population ( 0.95 \u03bcg/L and 0.47 \u03bcg/g , respectively ) .
+In multivariate linear models predicting nerve function adjusting for covariates , only 3 out of a total of 504 models showed stable and statistically significant interaction of SNPs with mercury biomarkers .
+Overall , given the possibility of false positives , the results suggested little evidence of effect modification of the SNPs on the relationship between mercury biomarkers with peripheral nerve function at exposure levels that are relevant to the general US population .

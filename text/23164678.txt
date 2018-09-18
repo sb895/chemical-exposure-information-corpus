@@ -1,0 +1,10 @@
+BACKGROUND High-molecular-weight phthalates in indoor dust have been associated with asthma in children , but few studies have evaluated phthalate biomarkers in association with respiratory outcomes .
+OBJECTIVES We explored the association between urinary concentrations of phthalate metabolites and current asthma .
+METHODS In a cross-sectional analysis , 11 metabolites of 8 phthalates [ including four metabolites of di(2-ethylhexyl) phthalate ] were measured in one first morning void collected from 2001 through 2004 from 623 10-year-old Norwegian children .
+Logistic regression models controlling for urine specific gravity , sex , parental asthma , and income were used to estimate associations between current asthma and phthalate metabolite concentrations by quartiles or as log10-transformed variables .
+RESULTS Current asthma was associated with both mono(carboxyoctyl) phthalate ( MCOP ) and mono(carboxynonyl) phthalate ( MCNP ) , although the association was limited to those in the highest quartile of these chemicals .
+The adjusted odds ratio ( aOR ) for current asthma was 1.9 ( 95% CI : 1.0 , 3.3 ) for the highest MCOP quartile compared with the lowest quartile , and 1.3 ( 95% CI : 0.98 , 1.7 ) for an interquartile-range increase .
+The aOR for current asthma was 2.2 ( 95% CI : 1.2 , 4.0 ) for the highest MCNP quartile and 1.3 ( 95% CI : 1.0 , 1.7 ) for an interquartile-range increase .
+The other phthalate metabolites were not associated with current asthma .
+CONCLUSIONS Current asthma was associated with the highest quartiles of MCOP and MCNP , metabolites of two high molecular weight phthalates , diisononyl phthalate and diisodecyl phthalate , respectively .
+Given the short biological half-life of the phthalates and the cross-sectional design , our findings should be interpreted cautiously .

@@ -1,0 +1,12 @@
+Low level chronic exposure to toxicants is associated with a range of adverse health effects .
+Understanding the various factors that influence the chemical burden of an individual is of critical importance to public health strategies .
+We investigated the relationships between socioeconomic status ( SES ) and bio-monitored chemical concentration in five cross-sectional waves of the U.S. National Health and Nutrition Examination Survey ( NHANES ) .
+We utilised adjusted linear regression models to investigate the association between 179 toxicants and the poverty income ratio ( PIR ) for five NHANES waves .
+We then selected a subset of chemicals associated with PIR in 3 or more NHANES waves and investigated potential mediating factors using structural equation modelling .
+PIR was associated with 18 chemicals in 3 or more NHANES waves .
+Higher SES individuals had higher burdens of serum and urinary mercury , arsenic , caesium , thallium , perfluorooctanoic acid , perfluorononanoic acid , mono(carboxyoctyl) phthalate and benzophenone-3 .
+Inverse associations were noted between PIR and serum and urinary lead and cadmium , antimony , bisphenol A and three phthalates ( mono-benzyl , mono-isobutyl , mono-n-butyl ) .
+Key mediators included fish and shellfish consumption for the PIR , mercury , arsenic , thallium and perfluorononanoic acid associations .
+Sunscreen use was an important mediator in the benzophenone-3/PIR relationship .
+The association between PIR and cadmium or lead was partially mediated by smoking , occupation and diet .
+These results provide a comprehensive analysis of exposure patterns as a function of socioeconomic status in US adults , providing important information to guide future public health remediation measures to decrease toxicant and disease burdens within society .

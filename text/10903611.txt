@@ -1,0 +1,10 @@
+Tris(4-chlorophenyl)methane ( TCPMe ) and tris(4-chlorophenyl)methanol ( TCPMOH ) are among the most recently identified environmental contaminants .
+Despite their widespread contamination in the marine environment , human exposure to these compounds remains relatively unknown .
+We determined the concentrations of TCPMe , TCPMOH , and other persistent organochlorines such as polychlorinated biphenyls ( PCBs ) , DDT and its metabolites , hexachlorocyclohexane isomers , hexachlorobenzene , and chlordane compounds ( CHLs ) in human adipose tissue from Japan .
+TCPMe and TCPMOH were detected in all of the adipose samples analyzed ; the concentrations ranged from 2.5-21 and 1.1-18 ng/g lipid weight , respectively .
+Concentrations of TCPMe and TCPMOH in humans were less than those reported in marine mammals , suggesting the possibility of metabolism and elimination of these compounds by humans .
+Significant correlation between TCPMe and TCPMOH with concentrations of DDT and its metabolites in human adipose tissues suggested that exposure to DDT is the source of TCPMe and TCPMOH in humans .
+The age- and sex-dependent accumulation of TCPMe and TCPMOH as well as other organochlorines was less pronounced .
+Results for other organochlorines indicated that recent contamination status of PCBs in human samples from Japan was higher than that in developing countries , whereas DDT contamination is lower .
+Greater concentrations of CHLs in human adipose tissue from Japan than in those from other countries suggest that continuous monitoring of CHLs in humans in Japan is necessary .
+To our knowledge , this is the first study on the accumulation of TCPMe and TCPMOH in human adipose tissue .

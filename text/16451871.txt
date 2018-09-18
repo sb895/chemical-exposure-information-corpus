@@ -1,0 +1,14 @@
+Many studies have found that mercury ( Hg ) exposure is associated with selenium ( Se ) accumulation in vivo .
+However , human studies are limited .
+To study the interaction between Se and Hg , we investigated the total Se and Hg concentrations in body fluids and serum Se-containing proteins in individuals exposed to high concentrations of Hg .
+Our objective was to elucidate the possible roles of serum Se and selenoproteins in transporting and binding Hg in human populations .
+We collected data from 72 subjects : 35 had very low Hg exposure as evidenced by mean Hg concentrations of 0.91 and 1.25 ng/mL measured in serum and urine , respectively ; 37 had high exposure ( mean Hg concentrations of 38.5 and 86.8 ng/mL measured in serum and urine , respectively ) .
+An association between Se and Hg was found in urine ( r = 0.625 ; p < 0.001 ) but not in serum .
+Hg exposure may affect Se concentrations and selenoprotein distribution in human serum .
+Expression of both selenoprotein P and glutathione peroxidase ( GSH-Px ) was greatly increased in Hg miners .
+These increases were accompanied by elevated Se concentrations in serum .
+In addition , selenoprotein P bound more Hg at higher Hg exposure concentrations .
+Biochemical observations revealed that both GSH-Px activity and malondialdehyde concentrations increased in serum of the Hg-exposed group .
+This study aids in the understanding of the interaction between Se and Hg .
+Selenoproteins play two important roles in protecting against Hg toxicity .
+First , they may bind more Hg through their highly reactive selenol group , and second , their antioxidative properties help eliminate the reactive oxygen species induced by Hg in vivo .

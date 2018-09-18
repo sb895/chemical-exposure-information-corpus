@@ -1,0 +1,11 @@
+BACKGROUND Mercury is a known neurotoxicant ; however , the relationship between childhood exposures and neurodevelopmental outcomes is uncertain , and may be modified by nutrition-related susceptibilities .
+In vitro studies found that mercury inhibited methionine synthase , an enzyme that interacts with vitamin B-12 and folate to regenerate the amino acid methionine from homocysteine , and inhibition of methionine synthase diverted homocysteine to cysteine and glutathione synthesis .
+The relationships between mercury , homocysteine , B-12 , and folate have not been examined in children .
+OBJECTIVE This study aimed to evaluate associations between Hg and homocysteine in male and female children differentiated by higher and lower methylmalonic acid ( MMA , an indicator of vitamin B-12 deficiency ) and folate status .
+DESIGN Cross-sectional data on total blood mercury ( Hg ) , plasma homocysteine , MMA , and serum folate were obtained from the 1999-2004 National Health and Nutrition Examination Surveys for children aged 3-5 years ( n=1005 ) .
+We used multiple linear regression to evaluate relationships between homocysteine and Hg quartiles , stratified by sex , MMA \u2265 and folate < sample medians , adjusted for demographic , anthropometric , and environmental factors .
+RESULTS In boys with higher MMA and lower folate ( n=135 ) , but not in other children , we observed inverse associations between homocysteine and Hg .
+Children with Hg >3.49 \u03bcmol/L showed 1.14 \u03bcmol/L lower homocysteine ( p<0.001 ) relative to the lowest quartile ( \u2264 0.70 \u03bcmol/L ) { p-value for trend<0.001 } .
+Compared to other subsamples , this subsample had significantly higher homocysteine levels .
+CONCLUSION Hg was inversely correlated with plasma homocysteine in young boys , but not girls , with higher MMA and lower folate .
+Additional studies are merited to evaluate Hg and amino acid metabolism in susceptible children .

@@ -1,0 +1,12 @@
+Assessment of human health risks of environmental agents has often been limited to consideration of the potential for the agent to cause cancer or general systemic toxicity after long-term exposure .
+The U.S. Environmental Protection Agency ( U.S .
+EPA ) is increasingly moving toward the development of integrated assessments , which consider all potential health end points including developmental toxicity , neurotoxicity , immunotoxicity , reproductive effects , and germ cell mutagenicity .
+The U.S. EPA has a responsibility to assess risks to nonhuman species or ecosystems when appropriate data are available .
+An example of a recent integrated human health and ecological risk assessment can be found in the U.S. EPA Mercury Study Report to Congress .
+This report covers the following topics in separate volumes : an inventory of anthropogenic mercury emissions in the United States ; an exposure assessment using measured and predicted values and including indirect dietary exposure ; an evaluation of human health risks ; an assessment of ecologic risk wherein water criteria are presented for several wildlife species ; an overall integrated characterization of human and nonhuman risk ; and a discussion of risk management considerations .
+In the evaluation of human health risk , genetic toxicology data were considered for three forms of mercury : elemental , inorganic ( divalent ) , and methylmercury .
+These data were used in judgments of two types of potential health effects ( carcinogenicity and germ cell mutagenicity ) .
+In assessment of potential carcinogenicity of inorganic and methylmercury , genetic toxicity data were key .
+Data for clastogenicity in the absence of mutagenicity supported the characterization of inorganic and methylmercury as materials that produce carcinogenic effects only at high , toxic doses .
+The evidence for clastogenicity , coupled with information on metabolism and distribution , resulted in a judgment of a moderate degree of concern ( or weight of evidence ) that inorganic mercury can act as a human germ cell mutagen .
+For methylmercury , the degree of concern for germ cell mutagenicity is high .

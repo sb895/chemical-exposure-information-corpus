@@ -1,0 +1,9 @@
+Assessment of potential health risks to flight attendants from exposure to pyrethroid insecticides , used for aircraft disinsection , is limited because of ( a ) lack of information on exposures to these insecticides , and ( b ) lack of tools for linking these exposures to biomarker data .
+We developed and evaluated a physiologically based pharmacokinetic ( PBPK ) model to assess the exposure of flight attendants to the pyrethroid insecticide permethrin attributable to aircraft disinsection .
+The permethrin PBPK model was developed by adapting previous models for pyrethroids , and was parameterized using currently available metabolic parameters for permethrin .
+The human permethrin model was first evaluated with data from published human studies .
+Then , it was used to estimate urinary metabolite concentrations of permethrin in flight attendants who worked in aircrafts , which underwent residual and pre-flight spray treatments .
+The human model was also applied to analyze the toxicokinetics following permethrin exposures attributable to other aircraft disinsection scenarios .
+Predicted levels of urinary 3-phenoxybenzoic acid ( 3-PBA ) , a metabolite of permethrin , following residual disinsection treatment were comparable to the measurements made for flight attendants .
+Simulations showed that the median contributions of the dermal , oral and inhalation routes to permethrin exposure in flight attendants were 83.5% , 16.1% and 0.4% under residual treatment scenario , respectively , and were 5.3% , 5.0% and 89.7% under pre-flight spray scenario , respectively .
+The PBPK model provides the capability to simulate the toxicokinetic profiles of permethrin , and can be used in the studies on human exposure to permethrin .

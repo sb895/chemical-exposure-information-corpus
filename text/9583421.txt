@@ -1,0 +1,8 @@
+Although adverse reproductive outcomes have been associated with arsenic exposure , the extent and severity of the effects of chronic inhalation of low levels of arsenic on reproduction are not known .
+We conducted a hospital-based case-control study of stillbirths in a central Texas community that included a facility with more than a 60-year history of producing primarily arsenic-based agricultural products .
+We collected data on 119 cases and 267 controls randomly selected from healthy live-births at the same hospital and matched for year of birth .
+We abstracted medical and demographic data for the period January 1 , 1983 , to December 31 , 1993 , from hospital records and estimated socioeconomic status by median income from the 1990 Population and Housing Census data .
+We estimated arsenic exposure levels from airborne emission estimates and an atmospheric dispersion model and linked the results to a geographical information system ( GIS ) database .
+Exposure was linked by GIS to residential address at time of delivery .
+A conditional logistic regression model was fitted including maternal age , race/ethnicity , parity , income group , exposure as a categorical variable , and exposure-race/ethnicity interaction .
+The prevalence odds ratio observed for Hispanics in the high-exposure group ( >100 ng per m3 arsenic ) was 8.4 , with a 95% confidence interval of 1.4-50.1 .

@@ -1,0 +1,10 @@
+Inorganic arsenic ( In-As ) is an established human carcinogen .
+Methylation to monomethylarsonate ( MMA ) and dimethylarsinate ( DMA ) is believed to be the detoxification mechanism for In-As .
+Urinary measurement of In-As , MMA , and DMA is considered a good biological marker of internal dose to In-As , since it excludes other ingested forms of arsenic which are much less toxic , and because urinary excretion is the main form of elimination of In-As .
+A methylation threshold hypothesis for In-As has been proposed , stating that after exposure to In-As reaches a certain level or threshold , methylation capacity begins to decline , thus increasing the toxic effects of In-As .
+We investigated the validity of this hypothesis by analyzing the data from studies which measured urinary In-As , MMA , and DMA in different populations , ranging from background to high occupational and environmental exposure groups .
+We also present data from our study of a highly exposed population in California .
+Our analysis focused on the proportion of urinary In-As remaining in the unmethylated form [ In-As/(In-As + MMA + DMA) ] .
+The results indicate that epidemiological and experimental human data do not support the methylation threshold hypothesis .
+On average , 20-25% In-As remains unmethylated regardless of the exposure level .
+The wide range of interindividual variability in methylation capacity found in some studies warrants further investigation .

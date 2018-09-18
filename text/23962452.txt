@@ -1,0 +1,15 @@
+BACKGROUND The Ministry of Health Biomonitoring Study estimated exposure of individuals in the Israeli population to bisphenol A ( BPA ) , organophosphate ( OP ) pesticides , phthalates , cotinine , polycyclic aromatic hydrocarbons ( PAHs ) , and the phytoestrogenic compounds genistein and daidzein .
+METHODS In 2011 , 250 individuals ( ages 20-74 ) were recruited from five different regions in Israel .
+Urine samples were collected and questionnaire data were obtained , including detailed dietary data ( food frequency questionnaire and 24hour recall ) .
+Urinary samples were analyzed for BPA , OP metabolites ( dialkyl phosphates ) , phthalate metabolites , cotinine , PAH metabolites , genistein , and daidzein .
+RESULTS AND DISCUSSION BPA urinary concentrations were above the limit of quantification ( LOQ ) in 89% of the samples whereas urinary concentrations of phthalate metabolites were above the LOQ in 92-100% of the samples .
+PAH metabolites were above the LOQ in 63-99% of the samples whereas OP metabolites were above the LOQ in 44-100% of the samples .
+All non-smoking participants had detectable levels of cotinine in their urine ; 63% had levels above the LOQ , and the rate of quantification was high compared to the general non-smoking population in Canada .
+Median creatinine adjusted concentrations of several OP metabolites ( dimethyl phosphate , dimethyl thiophosphate ) were high in our study population compared to the general US and Canadian populations .
+Median creatinine adjusted urinary BPA concentrations in the study population were comparable to those in Belgium and Korea ; higher than those reported for the general US , German , and Canadian populations ; and very low compared to health-based threshold values .
+Phthalate concentrations were higher in our study population compared to the general US population but values were very low compared to health-based threshold values .
+Median creatinine adjusted PAH concentrations were generally comparable to those reported for the general US population ; median creatinine adjusted daidzein concentrations were high in our population compared to the general US population whereas genistein concentrations were comparable .
+CONCLUSIONS We interpreted observed urinary contaminant levels observed in our study by comparing values with health-based threshold values and/or values from international human biomonitoring studies .
+Using this data interpretation scheme , we identified two contaminants as being of potential public health concern and high priority for public health policy intervention : environmental tobacco smoke ( ETS ) and OP pesticides .
+We used the data collected in this study to support public health policy interventions .
+We plan to conduct a follow-up biomonitoring study in 2015 to measure ETS and OP exposure in the general population in Israel , to evaluate the effectiveness of relevant policy interventions .

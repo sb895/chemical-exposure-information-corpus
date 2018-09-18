@@ -1,0 +1,10 @@
+Air pollution and particulate matter in urban areas have been associated with increased mortality from cardiovascular and respiratory diseases and increased cancer risk .
+Carcinogenic effects of particulate matter have been related to the contents of specific compounds , such as polycyclic aromatic hydrocarbons .
+The latter may form bulky DNA adducts , that may be considered as candidate markers of cancer risk .
+We have recently shown that traffic-exposed workers and the general population in Florence have divergent levels of DNA adducts , possibly related to different levels of exposure to genotoxic agents from vehicle emissions .
+In the current study , in a series of 214 Florence City healthy adults enrolled in a prospective study in the period 1993-1998 ( 152 residents / 62 traffic-exposed workers ) , we investigated the correlation between individual levels of DNA bulky adducts and PM(10) exposure scores based on daily environmental measures provided by the local Environmental Protection Agency for the whole study period , by two types of urban monitoring stations ( high- and low-traffic ) .
+We found that PM(10) cumulative scores from high-traffic stations over the last 1-2 weeks prior to blood drawing significantly correlated ( r=0.58 , p=0.02 ) with DNA adduct levels among non-smoking traffic-exposed workers ( but not among residents with no occupational exposure to vehicle emissions ) .
+A multivariate regression analysis adjusted for possible confounders confirmed these findings .
+PM(10) scores from low-traffic stations did not show any correlation .
+These results show that DNA adduct levels in non-smoking workers reflect the average levels of exposure to PM(10) in high-traffic urban areas experienced over a time period of 1-2 weeks .
+Since DNA adduct levels have been found predictive of lung cancer risk , our findings provide clues relevant to the reduction of genotoxic damage and possibly cancer risk among traffic-exposed urban workers .

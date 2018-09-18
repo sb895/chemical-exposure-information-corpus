@@ -1,0 +1,11 @@
+Perfluoroalkyl substances ( PFASs ) are ubiquitous in the environment world-wide .
+Our overall objective was to assess the exposure to PFASs experienced by delivering women and their new-borns in the industrial city of Norilsk ( arctic Russia ) and the rural Aral Sea region of Uzbekistan , with the secondary objective of evaluating the distribution of PFASs between blood cell and plasma fractions .
+Six PFASs were detected in every sample from Norilsk city with the plasma concentration sequence of : PFOS\u226bPFOA>PFNA>FOSA>PFHxS>PFUnDA .
+In the Uzbekistani samples , only PFOS was reported above the MDL ( 0.08 ng/mL ) .
+The median plasma concentrations of PFOS of 11.0 ng/mL for the Norilsk mothers was comparable to that reported for western countries , while that for Uzbekistan was considerably lower ( 0.23 ng/mL ) .
+Apparent increases in the maternal-cord concentration ratios for both whole blood and plasma were evident with the length of the carbon chain for both the carboxylate and the sulfonate PFASs .
+The median value of this ratio for FOSA in plasma was the lowest , while that for whole blood was the highest .
+Other than for FOSA , the observed plasma-whole blood concentration ratios for maternal and umbilical cord blood were consistent with a priori calculations using appropriate packed cell and plasma volumes for neonates and pregnant women at term .
+Clearly FOSA favored whole blood , and acid-base equilibrium calculations suggested that the resonance-stabilized sulfonamidate ion resides in the blood cell fraction .
+Thus for PFASs and related compounds with pK values with magnitudes comparable to physiological pH , it is pertinent to measure the cell-associated fraction ( separately or as whole blood ) .
+Our study illustrates that consideration of both the physico-chemical properties of the contaminants and the physiological attributes of blood matrices were helpful in the interpretation of our findings .

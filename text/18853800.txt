@@ -1,0 +1,8 @@
+Hexabromocyclododecanes ( alpha- , beta- , and gamma-HBCDs ) and tetrabromobisphenol-A ( TBBP-A ) were determined in indoor air from homes ( n=33 ; median concentrations sigma HBCDs = 180 pg m(-3) ; TBBP-A = 15 pg m(-3) ) , offices ( n=25 ; 170 ; 11 ) , public microenvironments ( n=4 ; 900 ; 27 ) and outdoor air ( n=5 ; 37 ; 1 ) .
+HBCDs and TBBP-A were also determined in dust from homes ( n=45 ; median concentrations sigma HBCDs = 1300 ng g(-1) ; TBBP-A = 62 ng g(-1) ) , offices ( n=28 ; 760 ; 36 ) , cars ( n=20 ; 13,000 ; 2 ) , and public microenvironments ( n=4 ; 2700 ; 230 ) .
+While sigma HBCDs in car dust significantly exceeded ( p < 0.05 ) those in homes and offices , TBBP-A in car dust was significantly lower ( p < 0.05 ) than that in homes and offices .
+No significant differences were observed between sigma HBCDs and TBBP-A in air or dust from homes and offices .
+Compared to dietary and inhalation exposures , dust ingestion constitutes an important pathway of exposure to HBCDs and TBBP-A for the UK population .
+Specifically , using average dust ingestion rates and concentrations in dust , dust ingestion constitutes for adults 34% ( TBBP-A ) and 24% ( HBCDs ) of overall exposure , and for toddlers 90% ( TBBP-A ) and 63% ( HBCDs ) .
+Inhalation appears a minor exposure pathway to both HBCDs and TBBP-A .
+On average , dust is 33% alpha- , 11% beta- , and 56% gamma-HBCD , while air is 22% alpha- , 11% beta- , and 65% gamma-HBCD .

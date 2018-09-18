@@ -1,0 +1,9 @@
+This is the first report on polychlorinated dibenzo-p-dioxin/furan ( PCDD/F ) and polychlorinated biphenyl ( PCB ) contamination of human adipose tissue from China .
+A total of 24 human adipose tissue samples from a general population in Zhejiang Province were analyzed for PCDD/F and PCB by high-resolution gas chromatography-high-resolution mass spectrometry .
+Total PCDD/F concentrations in human adipose tissue ranged from 33.9 to 504 pg g(-1)lipid ( mean 108 pg g(-1)lipid ) .
+Corresponding values for dioxin-like PCBs ranged from 4.1 to 125 ng g(-1)lipid ( mean 32.8 ng g(-1)lipid ) .
+Mean total WHO toxicity equivalent ( TEQ ) values for PCDD/Fs and PCBs in human adipose tissue were 9.22 and 16.2 pg g(-1)lipid , respectively .
+OCDD was the dominant PCDD/F congener , and 2,3,4,7,8-PeCDF and 1,2,3,7,8-PeCDD accounted for more than 70% of the WHO PCDD/F TEQ .
+In all samples , PCB-118 , PCB-156 and PCB-105 were the main PCB congeners .
+PCB-153 concentrations were the highest of all indicator PCBs ( mean 52.5 ng g(-1)lipid ) .
+The contamination levels and profiles are compared with those reported for European and Asian countries .

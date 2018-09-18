@@ -1,0 +1,7 @@
+Mexico city has a very high pollution index .
+Based on the view ' that salivary monitoring can be extended to environmental pollutants ' , we performed this study in order to determine not only the concentrations of lead and cadmium in human saliva , but also to establish their possible association with some socio-demographic factors .
+One hundred dental students from the National Autonomous University of Mexico living in Mexico city participated in the study .
+Stimulated human whole saliva samples were analyzed by atomic absorption spectroscopy .
+The results show that Pb ( x = 3.10 microg/dl(-1) ; maximum x = 16.8 microg/dl(-1) and minimum x = 0.04 microg/dl[-1] ) and Cd ( x = 0.25 microg/dl(-1) ; maximum x = 2.04 microg/dl(-1) and minimum x = 0.004 microg/dl[-1] ) concentrations were higher than those reported elsewhere , and that there was no association between several variables studied ( age , gender , geographic area and consumption of canned food ) and salivary Pb .
+However , an inverse association was found between Cd and age ( chi2 = 5.9012 ; P < or = 0.05 ; gamma = -0.5224 , P < or = 0.05 ) .
+From this study it can be concluded that saliva has potential as a technique for monitoring ambient pollutants recent exposure , since circulating levels of certain polluting chemicals can be transported into salivary glands and secretions .

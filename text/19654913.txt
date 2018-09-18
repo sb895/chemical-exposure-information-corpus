@@ -1,0 +1,8 @@
+BACKGROUND Accumulating evidence has shown an increased risk of type 2 diabetes in general populations exposed to arsenic , but little is known about exposures during pregnancy and the association with gestational diabetes ( GD ) .
+OBJECTIVES We studied 532 women living proximate to the Tar Creek Superfund Site to investigate whether arsenic exposure is associated with impaired glucose tolerance during pregnancy .
+METHODS Blood glucose was measured between 24 and 28 weeks gestation after a 1-hr oral glucose tolerance test ( GTT ) as part of routine prenatal care .
+Blood and hair were collected at delivery and analyzed for arsenic using inductively coupled plasma mass spectrometry with dynamic reaction cell .
+RESULTS Arsenic concentrations ranged from 0.2 to 24.1 microg/L ( ppb ) ( mean +/- SD , 1.7 +/-1.5 ) and 1.1 to 724.4 ng/g ( ppb ) ( mean +/- SD , 27.4 +/- 61.6 ) in blood and hair , respectively .
+One-hour glucose levels ranged from 40 to 284 mg/dL ( mean +/- SD , 108.7 +/- 29.5 ) ; impaired glucose tolerance was observed in 11.9% of women when using standard screening criterion ( > 140 mg/dL ) .
+Adjusting for age , Native-American race , prepregnancy body mass index , Medicaid use , and marital status , women in the highest quartile of blood arsenic exposure had 2.8 higher odds of impaired GTT than women in the lowest quartile of exposure ( 95% confidence interval , 1.1-6.9 ) ( p-trend = 0.008 ) .
+CONCLUSIONS Among this population of pregnant women , arsenic exposure was associated with increased risk of impaired GTT at 24-28 weeks gestation and therefore may be associated with increased risk of GD .

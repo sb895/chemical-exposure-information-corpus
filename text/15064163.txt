@@ -1,0 +1,9 @@
+Exposure to phthalates is widespread because of their use in plastics , cosmetics , and other consumer products .
+Phthalate exposure has been associated with adverse respiratory outcomes in children .
+With urinary phthalate measures , we assessed the association between phthalate exposure and four pulmonary function parameters [ forced vital capacity ( FVC ) , forced expiratory volume at 1 sec ( FEV1 ) , peak expiratory flow ( PEF ) , and maximum mid-expiratory flow ] among the 240 adult Third National Health and Nutrition Examination Survey ( NHANES III ) participants with urinary phthalate data .
+Linear regression models controlled for race , age , age squared , standing height , body mass index , cumulative smoking , and current smoking .
+Monobutyl phthalate ( MBP ) was significantly associated with decrements in three measures of pulmonary function ( FVC , FEV1 , PEF ) in males but not in females .
+For a change from the 25th to the 75th percentile in MBP level among men , FEV1 decreased 112 mL ( SE = 51 , p = 0.03 ) .
+Monoethyl phthalate ( MEP ) was associated with lower FVC and FEV1 values in men .
+Monoethylhexyl phthalate ( MEHP ) , the metabolite of the plasticizer commonly used in medical tubing , was not adversely associated with any of the pulmonary function parameters evaluated .
+Our results suggest that MBP and MEP , but not MEHP , may influence pulmonary function among adult males .

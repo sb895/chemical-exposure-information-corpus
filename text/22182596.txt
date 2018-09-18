@@ -1,0 +1,11 @@
+BACKGROUND Although serious health effects associated with particulate matter ( PM ) with aerodynamic diameter \u2264 10 \u03bcm ( PM\u2081\u2080 ) and \u2264 2.5 \u03bcm ( PM(2.5) ; fine fraction ) are documented in many studies , the effects of coarse PM ( PM(2.5-10) ) are still under debate .
+OBJECTIVE In this study , we estimated the effects of short-term exposure of PM(2.5-10) on daily mortality in Stockholm , Sweden .
+METHOD We collected data on daily mortality for the years 2000 through 2008 .
+Concentrations of PM\u2081\u2080 , PM(2.5) , ozone , and carbon monoxide were measured simultaneously in central Stockholm .
+We used additive Poisson regression models to examine the association between daily mortality and PM2.5-10 on the day of death and the day before .
+Effect estimates were adjusted for other pollutants ( two-pollutant models ) during different seasons .
+RESULTS We estimated a 1.68% increase [ 95% confidence interval ( CI ) : 0.20% , 3.15% ] in daily mortality per 10-μg/m³ increase in PM(2.5-10) ( single-pollutant model ) .
+The association with PM(2.5-10) was stronger for November through May , when road dust is most important ( 1.69% increase ; 95% CI : 0.21% , 3.17% ) , compared with the rest of the year ( 1.31% increase ; 95% CI : -2.08% , 4.70% ) , although the difference was not statistically significant .
+When adjusted for other pollutants , particularly PM(2.5) , the effect estimates per 10 μg/m³ for PM(2.5-10) decreased slightly but were still higher than corresponding effect estimates for PM(2.5) .
+CONCLUSIONS Our analysis shows an increase in daily mortality associated with elevated urban background levels of PM(2.5-10) .
+Regulation of PM(2.5-10) should be considered , along with actions to specifically reduce PM(2.5-10) emissions , especially road dust suspension , in cities .

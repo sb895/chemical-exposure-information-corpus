@@ -1,0 +1,15 @@
+This study investigated commuter exposure to aromatic volatile organic compounds ( VOCs ) in different commuting microenvironments .
+In Hong Kong , more than 90% of the local citizens rely on public transport facilities in their daily commutes .
+During five winter months in late 2001 and early 2002 , in-vehicle monitoring was performed in nine popular public transportation modes : tram , public light bus , air-conditioned bus , non-air-conditioned bus , taxi , ferry and three railway systems ( Mass Transit Railway-MTR , Kowloon-Canton Railway-KCR and Light Rail Transit-LRT ) .
+These transports were grouped into three categories : railway transport , roadway transport and marine transport .
+Air samples of benzene , toluene , ethylbenzene and m/p/o-xylene were collected by canisters and analysed by gas chromatography and mass selective detector technique .
+Results indicated that the in-vehicle VOC exposure levels were greatly influenced by the mode of transport .
+For benzene , mean concentration ranged from 4.8 to 6.1 microg x m(-3) in roadway transports , 3.0-3.8 microg x m(-3) in railway transports and it was 2.1 microg x m(-3) in ferry .
+Regardless of the results in MTR and air-conditioned buses , the VOC levels in roadway transport were the highest and was followed by railway transport .
+The exposure levels in marine transport were the lowest .
+The TEX concentrations were found to be substantially higher in air-conditioned buses and MTR trains than in other transports , suggesting the existence of additional solvent-related sources in their vehicle interiors .
+Measurements in non-air-conditioned double deck vehicles indicate that there was slightly higher VOC levels in the lower deck than in the upper deck microenvironment .
+The average upper to lower deck exposure ratio ranged from 0.79 to 0.87 in trams and 0.78-0.83 in non-air-conditioned buses , depending on the compound of concern .
+The VOC exposure levels of public transport commuters in Hong Kong are far lower than those in most oversea cities .
+The experimental concentrations obtained in this study are within the relevant health-protecting limits as stated in the Hong Kong Indoor Air Quality Objective .
+Influences of recent VOC pollution control measures and local traffic characteristics on in-vehicle level are discussed .

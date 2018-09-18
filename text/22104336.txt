@@ -1,0 +1,10 @@
+To study the effect of eating foods with a high arsenic ( As ) content on the intra and inter-individual variability of urinary concentrations of the As species , daily urine samples were collected for 10 consecutive days from 12 healthy male subjects .
+A daily food diary was kept throughout the study period .
+Personal exposure to airborne As was measured once during the study .
+As(3) , As(5) , monomethylarsonic acid ( MMA ) , dimethylarsinic acid ( DMA ) and arsenobetaine were determined in all urine samples by inductive coupled plasma mass spectrometry , and the sum of As(3)+As(5)+MMA+DMA ( iAs ) by hydride generation-atomic absorption spectrophotometry .
+Exposure to airborne As was below the limit of detection in all samplings .
+As(3) was found in only 19.2% and As(5) in only 3.3% of the urine samples , whereas high urinary concentrations of arsenobetaine were observed .
+With the exception of arsenobetaine , expressed as a percentage , a significant inter-individual variability was observed for all species of As , for iAs and for the MMA/DMA ratio ( p<0.001 ) .
+Instead , the intra-individual variability was significant only for the MMA/DMA ratio ( p<0.001 ) .
+Among foods with a high As content , only a heavy consumption of seafood was shown to influence inter-individual variability of DMA% , arsenobetaine expressed as \u03bcg g(-1) creatinine and iAs .
+In conclusion , even in populations with a high intake of organic As through foods , the finding of a significant inter-individual but no significant intra-individual variability of urinary species confirms the usefulness of urinary As speciation for biological monitoring of exposure to As .

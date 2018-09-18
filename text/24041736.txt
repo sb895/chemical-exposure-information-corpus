@@ -1,0 +1,11 @@
+We aimed to characterize levels of polyfluorinated compounds ( PFCs ) in indoor dust from offices , homes , and vehicles ; to investigate factors that may affect PFC levels in dust ; and to examine the associations between PFCs in dust and office workers ' serum .
+Dust samples were collected in 2009 from offices , homes , and vehicles of 31 individuals in Boston , MA and analyzed for nineteen PFCs , including perfluorooctanoate ( PFOA ) , perfluorooctane sulfonate ( PFOS ) , fluorotelomer alcohols ( FTOHs ) , and sulfonamidoethanols ( FOSEs ) .
+Serum was collected from each participant and analyzed for eight PFCs including PFOA and PFOS .
+Perfluorononanoate , PFOA , perfluoroheptanoate , perfluorohexanoate , PFOS and 8:2 FTOH had detection frequencies >50% in dust from all three microenvironments .
+The highest geometric mean concentration in office dust was for 8:2 FTOH ( 309ng/g ) , while PFOS was highest in homes ( 26.9ng/g ) and vehicles ( 15.8ng/g ) .
+Overall , offices had the highest PFC concentrations , particularly for longer-chain carboxylic acids and FTOHs .
+Perfluorobutyrate was prevalent in homes and vehicles , but not offices .
+PFOA serum concentrations were not associated with PFC dust levels after adjusting for PFC concentrations in office air .
+Dust concentrations of most PFCs are higher in offices than in homes and vehicles .
+However , indoor dust may not be a significant source of exposure to PFCs for office workers .
+This finding suggests that our previously published observation of an association between FTOH concentrations in office air and PFOA concentrations in office workers was not due to confounding by PFCs in dust .

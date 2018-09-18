@@ -1,0 +1,12 @@
+BACKGROUND Bisphenol A ( BPA ) and other related chemical compounds may be components used in the manufacturing process of resin-based composite dental restorative material .
+The purpose of the authors ' study was to assess salivary and urinary concentrations of BPA and other compounds before and after placement of resin-based composite dental restorations .
+METHODS The authors collected saliva and urine from 172 participants receiving composite restorations before and as long as 30 hours after placement of composite restorations .
+The authors analyzed saliva specimens from 151 participants and urine specimens from 171 participants for concentrations of BPA and five related compounds by using liquid chromatography/mass spectrometry ( LC/MS ) .
+RESULTS Salivary concentrations of BPA and some related compounds increased immediately ( within one hour ) after composite placement .
+Salivary concentrations of BPA and most study compounds returned to prerestoration levels within eight hours after composite placement .
+With the exception of a 43 percent increase in BPA , concentrations of the study compounds in urine returned to prerestoration levels nine to 30 hours after restoration placement .
+Concentrations in saliva were lower when a rubber dam was used ; however , rubber dam use appeared to have no effect on urinary concentrations of the measured compounds during the study period .
+The authors observed similar changes in study compound levels in both saliva and urine between participants who received anterior restorations and those who received posterior restorations .
+CONCLUSIONS Placement of resin-based composite restorations was associated with detectable increases in saliva of BPA and other study compounds within one hour after restoration placement and an increased concentration of BPA in urine nine to 30 hours after restoration placement .
+Rubber dam use did not reduce the absorption of BPA ( measured as BPA level in urine ) during the study .
+CLINICAL IMPLICATIONS Additional studies are needed to address how long BPA levels in urine associated with composite placement remain elevated to aid in better understanding of the clearance rates of BPA and other study compounds .

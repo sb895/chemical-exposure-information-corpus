@@ -1,0 +1,7 @@
+An improved extraction ( ion pairing ) and cleanup ( ENVI-carb and solid phase extraction ) method was developed for analysis of perfluorinated compounds ( PFCs ) in human whole blood samples from China .
+Ten PFCs including PFOS , PFHxS , PFOSA , PFDoDA , PFUnDA , PFDA , PFNA , PFOA , PFHpA , and PFHxA were detected in the blood samples ( n=30 ) from five cities ( Jintan , Nanjing , Guiyang , Beijing , and Shenyang ) .
+PFOS was found to be the dominant PFC ranging from 0.446-83.1 ng/mL .
+Total fluorine ( TF ) and extractable organic fluorine ( EOF ) also were measured in the blood samples using combustion ion chromatography for fluorine .
+Analysis of known PFCs and extractable organic fluorine showed that known PFCs could account for >70% of EOF in samples from Beijing , Shenyang , and Guiyang , whereas known PFCs could only account for approximately 30% of EOF in samples from Jintan .
+Results of the present study indicated the presence of substantial amounts of unidentified organic fluorine in human blood samples from Jintan .
+Characterization and identification of these unidentified fluorinated compounds will be instructive .

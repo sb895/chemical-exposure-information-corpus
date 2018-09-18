@@ -1,0 +1,14 @@
+OBJECTIVE Personal exposure to airborne benzene is influenced by various outdoor and indoor sources .
+The first aim of this study was to assess the benzene exposure of a sample of urban inhabitants living in an inner-city neighborhood of Florence , Italy , excluding exposure from active smoking .
+The secondary objective was to differentiate the personal exposures according to personal usage patterns of the vehicles .
+METHODS A sample of 67 healthy non-smokers was monitored by passive samplers during two 4-weekday campaigns in winter and late spring .
+Simultaneously , benzene measurements were also taken for a subset of participants , inside and outside their houses .
+A 4-day time microenvironment activity diary was completed by each subject during each sampling period .
+Other relevant exposure data were collected by a questionnaire before the sampling .
+Additional data on urban ambient air benzene levels were also available from the public air quality network .
+The passive samplers , after automated thermal desorption , were analyzed by GC-FID .
+RESULTS Benzene personal exposure levels averaged 6.9 ( SD=2.1 ) and 2.3 ( SD=0.7 ) microg/m(3) in winter and spring , respectively .
+Outdoor and indoor levels showed high correlation in winter and poor in spring .
+In winter the highest benzene personal exposure levels were for people traveling by more public transport , followed by users of only car and by users of only bus respectively .
+CONCLUSIONS The time spent in-transport for work or leisure makes a major contribution to benzene exposure among Florentine non-smoking citizens .
+Indoor pollution and transportation means contribute significantly to individual exposure levels especially in winter season .

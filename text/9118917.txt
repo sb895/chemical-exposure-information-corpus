@@ -1,0 +1,5 @@
+An expanded cohort study of 74,828 benzene-exposed and 35,805 unexposed workers were followed during 1972 to 1987 , based on a previous study in 12 cities in China .
+A small increase was observed in total cancer mortality among benzene-exposed compared with unexposed workers ( relative risk [ RR ] = 1.2 ) .
+Statistically significant excesses were noted for leukemia ( RR = 2.3 ) , malignant lymphoma ( RR = 4.5 ) , and lung cancer ( RR = 1.4 ) .
+When risks were evaluated by leukemia subtype , only acute myelogenous leukemia was significantly elevated ( RR = 3.1 ) , although nonsignificant excesses were also noted for chronic myelogenous leukemia ( RR = 2.6 ) and acute lymphocytic leukemia ( RR = 2.3 ) .
+A significant excess was also found for aplastic anemia .

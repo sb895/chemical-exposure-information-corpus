@@ -1,0 +1,9 @@
+Blood lead measurements were obtained on 13,642 persons aged 1 year and older who participated in Phase 2 of the Third National Health and Nutrition Examination Survey ( NHANES III ) from 1991 through 1994 .
+NHANES III is a national representative survey of the civilian , noninstitutionalized U.S. population .
+The overall mean blood lead level for the U.S. population aged 1 year and older was 2.3 microgram/dl , with 2.2% of the population having levels >=10 microgram/dl , the level of health concern for children .
+Among U.S. children aged 1-5 years , the mean blood lead level was 2.7 microgram/dl , and 890,000 of these children ( 4.4% ) had elevated blood lead levels .
+Sociodemographic factors associated with higher blood lead levels in children were non-Hispanic black race/ethnicity , low income , and residence in older housing .
+The prevalence of elevated blood lead levels was 21.9% among non-Hispanic black children living in homes built before 1946 and 16.4% among children in low-income families who lived in homes built before 1946 .
+Blood lead levels continue to decline in the U.S. population , but 890,000 children still have elevated levels .
+Public health efforts have been successful in removing lead from population-wide sources such as gasoline and lead-soldered food and drink cans , but new efforts must address the difficult problem of leaded paint , especially in older houses , as well as lead in dust and soil .
+Lead poisoning prevention programs should target high-risk persons , such as children who live in old homes , children of minority groups , and children living in families with low income .

@@ -1,0 +1,10 @@
+Mercury exposure is of particular concern since mercury is a neurotoxin and the developing fetus is most sensitive to its adverse effect .
+Human blood is routinely used as an indicator for the evaluation of human exposure to Hg .
+To investigate Hg species in human plasma for Hong Kong residents and the relationship between fish consumption and Hg species in plasma , 151 plasma samples were analyzed for Hg species .
+The mean values of total Hg ( THg ) and methyl-mercury ( MeHg ) concentration in plasma were 0.62 and 0.28 \u03bcg/L , respectively .
+No significant differences were observed between females and males as well as among age groups .
+Fish consumption rate was significantly positively correlated with MeHg concentrations in plasma , which demonstrated that plasma could be a biomarker for human MeHg exposure .
+Two methods were used to estimate human MeHg exposure .
+One was based on fish MeHg content and fish consumption rate ( EDI(Fish) ) , another was employed by converting MeHg concentration in blood to MeHg exposure amount ( EDI(Blood) ) .
+A significant positive correlation was observed between EDI(Blood) and EDI(Fish) , and no significant difference was found between EDI(Blood) and EDI(Fish) .
+These results demonstrated that fish consumption was the major source of MeHg for humans .

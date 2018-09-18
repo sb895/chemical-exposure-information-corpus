@@ -1,0 +1,5 @@
+This study was designed to analyze when , during pregnancy and early childhood , the association between soil metal concentrations of arsenic ( As ) , lead ( Pb ) and mercury ( Hg ) and the outcome of intellectual disability ( ID ) is statistically significant .
+Using cluster analysis , we identified ten areas of land that contained a cluster of ID and areas of average risk for ID .
+We analyzed soil for As , Pb , and Hg and estimated the soil metal concentration at the residential sites where the woman and children lived during pregnancy and early childhood using a Bayesian Kriging model .
+Arsenic concentrations were associated with ID during the first trimester of pregnancy and Hg was associated with ID early in pregnancy and the first two years of childhood .
+The covariates that remained in the final models were also temporally associated with ID .

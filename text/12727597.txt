@@ -1,0 +1,9 @@
+Consumption of sport-caught fish from the Great Lakes is a recognized source of human exposure to polychlorinated biphenyls ( PCBs ) .
+Understanding temporal changes in PCB body burden is crucial for evaluating exposure levels and augmenting validity of studies investigating their relationship to adverse health effects .
+Using data collected from 1980 to 1995 , we evaluated longitudinal changes in serum PCB levels among 179 fisheaters and non-fisheaters of the Michigan Fisheater Cohort .
+Participants identified as fisheaters in 1980 ate 26 lb or more of sport-caught fish per year , whereas non-fisheaters ate less than 6 lb per year .
+We found a monotonic decline in serum PCB levels among all participants from a mean value of 24 ppb in 1980 to 12 ppb in 1994 .
+This was paralleled by an 83% decrease in mean fish consumption among all participants over the same period .
+We combined demographic , lifestyle , and fish consumption information with PCB data and evaluated the data using regression models to identify predictors of PCB body burden over a 16-year period .
+Results of the mixed-effects linear regression model suggest that consumption of Lake Michigan fish before 1980 , amount of sport-caught fish eaten in the past year , age , and year of data collection were significant determinants of current PCB body burden over the 16-year study period .
+PCB levels were particularly elevated for males who were classified as fisheaters in 1980 , which may reflect higher levels of sport-caught fish consumption compared with female fisheaters .

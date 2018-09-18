@@ -1,0 +1,15 @@
+Phthalates have been used for decades in large quantities , leading to the ubiquitous exposure of the population .
+In an investigation of 63 German daycare centers , indoor air and dust samples were analyzed for the presence of 10 phthalate diesters .
+Moreover , 10 primary and secondary phthalate metabolites were quantified in urine samples from 663 children attending these facilities .
+In addition , the urine specimens of 150 children were collected after the weekend and before they went to daycare centers .
+Di-isobutyl phthalate ( DiBP ) , dibutyl phthalate ( DnBP ) , and di-2-ethylhexyl phthalate ( DEHP ) were found in the indoor air , with median values of 468 , 227 , and 194ng/m(3) , respectively .
+In the dust , median values of 888mg/kg for DEHP and 302mg/kg for di-isononyl phthalate ( DiNP ) were observed .
+DnBP and DiBP were together responsible for 55% of the total phthalate concentration in the indoor air , whereas DEHP and DiNP were responsible for 70% and 24% of the total phthalate concentration in the dust .
+Median concentrations in the urine specimens were 44.7\u03bcg/l for the DiBP monoester , 32.4\u03bcg/l for the DnBP monoester , and 16.5\u03bcg/l and 17.9\u03bcg/l for the two secondary DEHP metabolites .
+For some phthalates , we observed significant correlations between their concentrations in the indoor air and dust and their corresponding metabolites in the urine specimens using bivariate analyses .
+In multivariate analyses , the concentrations in dust were not associated with urinary metabolite excretion after controlling for the concentrations in the indoor air .
+The total daily " high " intake levels based on the 95th percentiles calculated from the biomonitoring data were 14.1\u03bcg/kg b.w. for DiNP and 11.9\u03bcg/kg b.w. for DEHP .
+Compared with tolerable daily intake ( TDI ) values , our " high " intake was 62% of the TDI value for DiBP , 49% for DnBP , 24% for DEHP , and 9% for DiNP .
+For DiBP , the total daily intake exceeded the TDI value for 2.4% of the individuals .
+Using a cumulative risk-assessment approach for the sum of DEHP , DnBP , and DiBP , 20% of the children had concentrations exceeding the hazard index of one .
+Therefore , a further reduction of the phthalate exposure of children is needed .

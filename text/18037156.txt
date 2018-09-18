@@ -1,0 +1,9 @@
+Concentrations of tetrabromobisphenol A ( TBBPA ) and alpha- , beta- , and gamma-isomers of hexabromocyclododecanes ( HBCDs ) were determined by liquid chromatography-tandem mass spectrometry ( LC-ESI-MS/MS ) in human adipose tissue obtained in New York City , and in three marine top-level predators--bottlenose dolphin , bull shark , and Atlantic sharpnose shark--collected from coastal waters of Florida , USA .
+The overall mean concentrations ( mean+/-SD ) of TBBPA and HBCDs were 0.048+/-0.102 and 0.333+/-0.571 ng/g lipid wt in human adipose tissue samples , 1.2+/-3 and 7.38+/-18 ng/g lipid wt in bottlenose dolphin blubber , 9.5+/-12 and 77.7+/-128 ng/g lipid wt in bull shark muscle , and 0.872+/-0.5 and 54.5+/-88 ng/g lipid wt in Atlantic sharpnose shark muscle .
+Overall mean concentrations of HBCDs were 5-10-fold higher than mean TBBPA concentrations , in all of the samples analyzed .
+The highest concentrations of TBBPA and HBCDs were detected in the bull shark muscle at concentrations of 35.6 and 413 ng/g , lipid wt , respectively .
+Concentrations of TBBPA and HBCDs , after log-transformation , were significantly correlated with each other in human adipose tissue and bottlenose dolphin blubber , but not in bull shark muscle samples .
+In the human adipose tissue samples , the concentrations of HBCDs were 3-4 orders of magnitude lower than the concentrations of polybrominated diphenyl ethers ( PBDEs ) previously reported for the same set of tissue samples .
+Concentrations of HBCDs in human samples from the United States were 1-5-fold lower than the concentrations reported from several European countries .
+HBCD concentrations in bottlenose dolphins from the United States were 1-2 orders of magnitude lower than the concentrations reported for other cetacean species from Europe .
+The present report is the first to determine levels of TBBPA and HBCDs in humans , bottlenose dolphins , and sharks from the United States .

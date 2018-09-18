@@ -1,0 +1,10 @@
+BACKGROUND Triclosan is a synthetic chemical with broad antimicrobial activity that has been used extensively in consumer products , including personal care products , textiles , and plastic kitchenware .
+OBJECTIVES This study was designed to assess exposure to triclosan in a representative sample > or = 6 years of age of the U.S. general population from the 2003-2004 National Health and Nutrition Examination Survey ( NHANES ) .
+METHODS We analyzed 2,517 urine samples using automated solid-phase extraction coupled to isotope dilution-high-performance liquid chromatography-tandem mass spectrometry .
+RESULTS We detected concentrations of total ( free plus conjugated ) triclosan in 74.6% of samples at concentrations of 2.4-3,790 microg/L .
+The geometric mean and 95th percentile concentrations were 13.0 microg/L ( 12.7 microg/g creatinine ) and 459.0 microg/L ( 363.8 mug/g creatinine ) , respectively .
+We observed a curvilinear relation between age and adjusted least square geometric mean ( LSGM ) concentrations of triclosan .
+LSGM concentrations of triclosan were higher in people in the high household income than in people in low ( p < 0.01 ) and medium ( p = 0.04 ) income categories .
+CONCLUSIONS In about three-quarters of urine samples analyzed as part of NHANES 2003-2004 , we detected concentrations of triclosan .
+Concentrations differed by age and socioeconomic status but not by race/ethnicity and sex .
+Specifically , the concentrations of triclosan appeared to be highest during the third decade of life and among people with the highest household incomes .

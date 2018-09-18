@@ -1,0 +1,9 @@
+The concentrations of persistent chlorinated organic pollutants were determined in hair samples ( n=40 ) collected from inhabitants of Northern Poland in 1968 , 1989 and 2009 using gas chromatography ion-trap tandem mass spectrometry ( GC-MS/MS ) .
+Among the analytes were \u03b2- and \u03b3-isomers of hexachlorocyclohexane ( \u03b2- and \u03b3-HCH ) , dichlorodiphenyltrichloroethane ( p,p'-DDT ) and its metabolites ( p,p'-DDE , o,p'-DDD , o,p'-DDT and p,p'-DDD ) and 6 polychlorinated biphenyl ( PCB ) congeners ( IUPAC Nos. 28 , 52 , 101 , 138 , 153 and 180 ) .
+The following : p,p'-DDE , o,p'-DDT , p,p'-DDT and PCB congeners : 28 , 52 and 101 could be quantified in all samples .
+Overall total organochlorines level was found to decrease in that order : 1968>1989>2009 .
+The most significant time-dependent decrease was noticed for sum of mean values , \u2211DDTs ( 1658 , 143.9 and 36.5 ng g(-1) ) and \u2211PCBs ( 42.2 , 29.4 and 14.9 ng g(-1) ) while \u2211HCHs ( \u03b2-HCH and \u03b3-HCH ) were present at comparable levels ( 22.2 , 9.8 and 12.6 ng g(-1) ) in 1968 , 1989 and 2009 respectively .
+The highest concentrations of DDTs were found in samples from 1968 .
+Despite the long storage time of samples , metabolites either parent compound p,p'-DDT are still present in those samples at very high concentrations. p,p'-DDE as the predominant and stable metabolite of DDT was detected in every sample in the highest concentration .
+A significant , continuous decrease of total concentration of all studied PCB congeners was observed over the studied period of time .
+Current results confirm previous reports of other authors upon the utility of hair as an alternative matrix for evaluation of human exposure to persistent organic pollutants .

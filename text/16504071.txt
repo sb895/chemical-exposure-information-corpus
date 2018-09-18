@@ -1,0 +1,12 @@
+BACKGROUND The UK government proposed introducing partial smokefree legislation for England with exemptions for pubs and bars that do not prepare and serve food .
+We set out to test the hypothesis that pubs from more deprived areas and non food-serving pubs have higher levels of particulate air pollution .
+METHODS We conducted a cross sectional study in four mainly urban areas of the North West of England .
+We recruited a stratified random sample of 64 pubs divided into four groups based on whether their local population was affluent or deprived ( using a UK area based deprivation measure ) , and whether or not they served food .
+The timing of air quality monitoring stratified to ensure similar distribution of monitoring by day of the week and time of evening between groups .
+We used a portable air quality monitor to collect fine particle ( PM2.5 ) levels over a minimum of 30 minutes in areas where smoking was allowed, , and calculated mean time-time weighted average PM2.5 levels .
+RESULTS Mean PM2.5 was 285.5 microg/m3 ( 95% CI 212.7 to 358.3 ) .
+Mean levels in the four groups were : affluent food-serving pubs ( n = 16 ) 188.1 microg/m3 ( 95%CI 128.1 to 248.1 ) ; affluent non food-serving ( n = 16 ) 186.8 microg/m3 ( 95%CI 118.9 to 254.3 ) ; deprived food-serving ( n = 17 ) 399.4 microg/m3 ( 95%CI 177.7 to 621.2 ) ; and deprived non food-serving ( n = 15 ) 365.7 microg/m3 ( 195.6 to 535.7 ) .
+Levels were higher in pubs in deprived communities : mean 383.6 microg/m3 ( 95% CI 249.2 to 518.0 ) vs 187.4 microg/m3 ( 144.8 to 229.9 ) ; geometric mean 245.2 microg/m3 vs 151.2 microg/m3 ( p = 0.03 ) .
+There was little difference in particulate levels between food and non food-serving pubs .
+CONCLUSION This study adds to the evidence that the UK government's proposals for partial smokefree legislation in England would offer the least protection to the most heavily exposed group--bar workers and customers in non food-serving pubs in deprived areas .
+The results suggest these proposals would work against the UK government's stated aim to reduce health inequalities .

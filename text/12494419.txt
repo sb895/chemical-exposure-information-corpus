@@ -1,0 +1,11 @@
+BACKGROUND An increased risk of lung cancers among asphalt workers has been suggested in epidemiological studies based on large scale statistical analyses .
+METHODS In a multi-country study of 29,820 male workers employed in road paving , asphalt mixing and roofing , 32,245 ground and building construction workers and 17,757 other workers from Denmark , Finland , France , Germany , Israel , the Netherlands , Norway , and Sweden , with mortality that was documented from 1953-2000 .
+Exposures to bitumen fume , coal tar , 4-6 ring polycyclic aromatic hydrocarbons , organic vapor , diesel exhaust , asbestos , and silica dust were assessed via a job-exposure matrix .
+Standardized mortality ratios ( SMRs ) and 95% confidence intervals ( CIs ) based on national mortality rates , as well as relative risks ( RRs ) based on Poisson regression models were calculated .
+RESULTS The SMR of lung cancer among workers exposed to bitumen fume ( 1.08 , 95% CI 0.99-1.18 ) was comparable to that of non-exposed workers ( SMR 1.05 , 95% CI 0.92-1.19 ) .
+In a sub-cohort of bitumen-exposed workers without exposure to coal tar , the SMR of lung cancer was 1.23 ( 95% CI 1.02-1.48 ) .
+The analysis based on the semi-quantitative , matrix-based exposures in the whole cohort did not suggest an increased lung cancer risk following exposure to bitumen fume .
+However , in an analysis restricted to road pavers , based on quantitative estimate of bitumen fume exposure , a dose-response was suggested for average level of exposure , applying a 15-year lag , which was marginally reduced after adjustment for co-exposure to coal tar .
+The results for cancer of the head and neck were similar to those of lung cancer , although they were based on a smaller number of deaths .
+There was no clear suggestion of an association with bitumen fume for any other neoplasm .
+CONCLUSIONS The results of the analysis by bitumen fume exposure do not allow us to conclude on the presence or absence of a causal link between exposure to bitumen fume and risk of cancer of the lung and the head and neck .

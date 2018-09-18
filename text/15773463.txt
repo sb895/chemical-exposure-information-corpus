@@ -1,0 +1,11 @@
+Few studies have measured the flame retardants polybrominated diphenyl ethers ( PBDEs ) in the indoor environment .
+Here , we report measurements of PBDEs in house dust samples collected from the Washington , D.C. metropolitan area in the United States .
+Dust samples were analyzed for 22 individual PBDE congeners and our results found PBDEs present in every sample .
+Concentrations of total PBDEs ranged from 780 ng/g dry mass to 30 100 ng/g dry mass .
+The dominant congeners observed in the dust samples were congeners associated with the pentaBDE and decaBDE commercial mixtures .
+Ancillary data were collected on the homes and examined for any correlations with total PBDE concentrations .
+No correlations were observed with year of house construction , type of flooring ( i.e. , hardwood vs carpet ) or the number of television sets or personal computers in the home .
+However , a significant inverse correlation ( p < 0.05 ) was observed between the area of the home and the contribution of BDE 209 to the total PBDE concentration in dust .
+Using estimates of inadvertent dust ingestion ( 0.02-0.2 g/day ) by young children ( ages 1-4 ) , we estimate ingestion of total PBDEs to range from 120 to 6000 ng/day .
+Clothes dryer lint was also sampled and analyzed for PBDEs from five of the homes and were present in all five samples ranging from 480 to 3080 ng/g dry mass .
+This study demonstrates that PBDEs are prevalent at relatively high concentrations within homes where people , and particularly young children , may be susceptible to exposure .

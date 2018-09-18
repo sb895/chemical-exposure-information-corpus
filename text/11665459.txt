@@ -1,0 +1,11 @@
+Urinary beta 2-microglobulin and N-acetyl-beta-D-glucosaminidase have been recommended as sensitive indicators of renal dysfunction induced by cadmium .
+However , an increase in urinary calcium in early renal damage induced by cadmium has been reported both in humans and in animal experiments .
+To investigate the feasibility of using urinary calcium as a biomarker of renal dysfunction induced by cadmium , two areas were selected in this study , namely , a polluted area with a 3.71 mg/kg cadmium concentration in rice and a control area with a 0.07 mg/kg cadmium concentration .
+The total number of participants was 499 , made up of 252 in the control group and 247 from the cadmium-polluted area .
+Urinary cadmium , urinary calcium , and zinc concentrations were measured by atomic absorption spectrometry , and beta 2-microglobulin and N-acetyl-beta-D-glucosaminidase in urine were analyzed .
+The levels of urinary cadmium and urinary calcium in persons from the exposed area were significantly higher ( P < 0.05 ) than those in the control area for both men and women , but there was no significant difference regarding urinary zinc between the two areas .
+A significant dose-response relationship between the prevalence of hypercalciuria and the excretion of urinary cadmium was observed , and a significantly increased prevalence of calciuria was found when excretion of urinary cadmium exceeded 2 micrograms/g creatinine .
+The findings were similar to those for excess urinary secretion of beta 2-microglobulin and N-acetyl-beta-D-glucosaminidase .
+Because cadmium can affect Ca2+ uptake by tubular cells , with decreased renal Ca2+ reabsorption , calciuria may reflect tubular cell damage caused by cadmium .
+It was concluded that cadmium exposure can result in increased excretion of urinary calcium in a general population and that there is a significant dose-response relationship .
+Urinary calcium can therefore be used as a biomarker of renal dysfunction induced by cadmium .

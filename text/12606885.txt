@@ -1,0 +1,12 @@
+BACKGROUND Concerns about potential health effects of trihalomethanes ( THMs ) have prompted investigations on whether infants whose mothers were periconceptionally exposed to drinking water containing THMs are at greater risk of congenital malformations .
+METHODS We used two large case-control maternal interview studies that were conducted among California deliveries from 1987 through 1991 .
+One study comprised 538 infants/fetuses with neural tube defects ( NTDs ) and 539 nonmalformed control infants .
+The second study included an additional 265 infants with NTDs , 207 infants with conotruncal heart defects , 409 infants with orofacial clefts , and 481 control infants .
+Expert personnel from municipal water companies estimated THM levels for a particular residence and specific periconceptional time period using quarterly monitoring measurements .
+Estimates were also made for four individual THM levels and for the total THM level .
+RESULTS NTD risk in the first study was inversely associated with total THM exposure .
+Although the second study did not show the same inverse relationship for NTDs , there were no positive associations of NTDs or the other malformations with total THM as estimated from continuous models .
+Elevated risks were observed for the lowest category of exposure ( 1-24 ppb ) , but risks were either not substantially elevated or were imprecise for higher exposure levels .
+Thus no evidence was observed for an exposure-response relation .
+CONCLUSIONS Our results do not provide a clear pattern of association between THM exposure and risks of specific congenital malformations .
+Imprecise exposure measures coupled with a lack of information about other possible sources of THM exposure may have caused associations to be underestimated .

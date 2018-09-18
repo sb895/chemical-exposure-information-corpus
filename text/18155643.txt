@@ -1,0 +1,11 @@
+Homelessness is a growing problem in the Czech Republic where homeless people represent a specific minority group beset by many problems linked to their divergent lifestyle .
+It was therefore expected that the homeless population would be at greater risk of exposure to environmental pollutants than the general population .
+The aim of our study was to compare blood lead ( B-Pb ) and blood cadmium ( B-Cd ) levels in the homeless population ( HP ) with those obtained from the Human Biomonitoring Project ( CZ-HBM ) , which used blood donors considered representative of the general population ( GP ) .
+We present data obtained between 2004 and 2006 for B-Pb and B-Cd in 257 Prague homeless adults and compare them to B-Pb and B-Cd levels in 104 Prague adult blood donors from the CZ-HBM project in 2005 .
+The mean ( geometric ) B-Pb levels in men were 36.5 ( HP ) and 35.4microg/l ( GP ) , which is not significantly different .
+However , statistically significant differences were observed between men and women in the GP ( P<0.001 ) , but not in HP ; B-Pb levels in women ( 34.8microg/l ) did not differ from those of HP men ( 36.5microg/l ) , but were significantly ( P<0.001 ) higher than those of GP women ( 25.8microg/l ) .
+B-Pb levels were not influenced by smoking .
+B-Cd levels in the homeless nonsmokers ( geometric means 1.06 and 1.18microg/l in men and women , respectively ) were more than 2.5 times higher than in the nonsmoking GP ( 0.36 and 0.38microg/l for men and women , respectively ) .
+B-Cd levels were significantly ( P<0.001 ) influenced by smoking in both groups , but , surprisingly , the values in GP smokers ( men=0.96microg/l , women=0.93microg/l ) were lower than those in HP nonsmokers ( men=1.06microg/l , women=1.18microg/l ) .
+A positive correlation was found between cadmium and lead in both men ( P<0.05 ) and women ( P<0.01 ) .
+Our results indicate that the homeless population under study might be exposed to lead and cadmium more extensively than the general population of Prague and that homeless women represent a particularly vulnerable population group .

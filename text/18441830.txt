@@ -1,0 +1,8 @@
+Settled house dust ( SHD ) may be a significant source of children's indoor exposure to hazardous substances including polycyclic aromatic hydrocarbons ( PAHs ) .
+In this study , organic extracts of sieved vacuum cleaner dust from 51 homes were examined for the presence of 13 PAHs via GC/MS .
+PAHs were found in all samples with levels of total PAHs ranging between 1.5 and 325 microg g(-1) .
+The PAH concentrations in the SHD were correlated with information contained in corresponding household questionnaires .
+Analyses showed levels of PAHs to be negatively associated with noncombustion activities such as vacuum cleaning frequency .
+A risk assessment was conducted to evaluate the excess lifetime cancer risks posed to preschool aged children who ingested PAHs in SHD .
+The assessment revealed that exposure to PAHs at levels found in 90% of the homes ( < 40 microg g(-1) ) would result in excess cancer risks that are considered acceptable ( i.e. , 1-100 x 10(-6) ) .
+However , exposure to higher levels of PAHs found in five homes yielded risks that could be higher than 1 x 10(-4) .

@@ -1,0 +1,10 @@
+Manganese ( Mn ) is an essential nutrient , but overexposure can be neurotoxic .
+Over 800\u2009000 kg of Mn-containing fungicides are applied each year in California .
+Manganese levels in teeth are a promising biomarker of perinatal exposure .
+Participants in our analysis included 207 children enrolled in the Center for the Health Assessment of Mothers and Children of Salinas ( CHAMACOS ) , a longitudinal birth cohort study in an agricultural area of California .
+Mn was measured in teeth using laser-ablation-inductively coupled plasma-mass spectrometry .
+Our purpose was to determine environmental and lifestyle factors related to prenatal Mn levels in shed teeth .
+We found that storage of farmworkers ' shoes in the home , maternal farm work , agricultural use of Mn-containing fungicides within 3 km of the residence , residence built on Antioch Loam soil and Mn dust loading ( \u03bcg/m(2) of floor area ) during pregnancy were associated with higher Mn levels in prenatal dentin ( p < 0.05 ) .
+Maternal smoking during pregnancy was inversely related to Mn levels in prenatal dentin ( p < 0.01 ) .
+Multivariable regression models explained 22-29% of the variability of Mn in prenatal dentin .
+Our results suggest that Mn measured in prenatal dentin provides retrospective and time specific levels of fetal exposure resulting from environmental and occupational sources .

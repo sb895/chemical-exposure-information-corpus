@@ -1,0 +1,13 @@
+An association between in utero polychlorinated biphenyl ( PCB ) exposure and impaired childhood intellectual functioning has been reported , but the potential impact of PCB exposure during adulthood on intellectual functioning has received little attention .
+We assessed the impact of PCBs and other fish-borne contaminants on intellectual functioning in older adults .
+The subjects were 49- to 86-year-old Michigan residents recruited from an existing cohort .
+Fish eaters ate > 24 lb of sport-caught Lake Michigan fish per year and non-fish eaters ate < 6 lb of Lake Michigan fish per year .
+A battery of cognitive tests including tests of memory and learning , executive function , and visual-spatial function was administered to 180 subjects ( 101 fish eaters and 79 non-fish eaters ) .
+Blood samples were analyzed for PCBs and 10 other contaminants .
+We evaluated cognitive outcomes using multiple regression .
+PCBs and dichlorodiphenyl dichloroethene ( DDE ) were markedly elevated in fish eaters .
+After controlling for potential confounders PCB , but not DDE , exposure was associated with lower scores on several measures of memory and learning .
+These included the Weschler Memory Scale verbal delayed recall ( p = 0.001 ) , the semantic cluster ratio ( p = 0.006 ) , and list A , trial 1 ( p = 0.037 ) , from the California Verbal Learning Test .
+In contrast , executive and visual-spatial function were not impaired by exposure to either PCBs or DDE .
+In conclusion , PCB exposure during adulthood was associated with impairments in memory and learning , whereas executive and visual-spatial function were unaffected .
+These results are consistent with previous research showing an association between in utero PCB exposure and impairments of memory during infancy and childhood .

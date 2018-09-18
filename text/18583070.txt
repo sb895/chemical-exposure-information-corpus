@@ -1,0 +1,14 @@
+This study was initiated to identify a marker of choice to monitor occupational exposure to toluene through quantitative evaluation of changes in correlation coefficients ( CCs ) , taking advantage of a large database .
+Six known or proposed exposure markers in end-of-shift blood ( B ) and urine ( U ) were studied , i.e. , toluene in blood ( Tol-B ) and benzyl alcohol , benzylmercapturic acid , o-cresol , hippuric acid and toluene in urine ( BeOH-U , BMA-U , o-CR-U , HA-U , and Tol-U , respectively ) .
+To construct a database , data on 8-h time-weighted average intensity of occupational exposure to toluene and resulting levels of the six exposure markers in blood or urine were cited for 901 cases from previous four publications of this study group and combined with 146 new cases .
+In practice , 874 cases ( all men ) were available when extremely dilute or dense urine samples were excluded .
+The 874 cases were classified taking the upper limit ( from 120 ppm to 1 ppm ) of the toluene exposure concentration , and the CCs for the six markers with TWA toluene exposure intensity were calculated .
+For further evaluation , the 874 cases were divided into 10 per thousand in terms of TWA toluene exposures , and several 10 per thousand were combined so that sufficient numbers of cases were available for calculation of the CCs at various levels of toluene exposure .
+Perusal was made to know whether or not and which one of the six makers gave significant CC even at low level of toluene exposure .
+The CCs for BMA-U , o-CR-U and HA-U with TWA toluene exposure were well >0.7 when toluene exposure was intense ( e.g. , up to 60-100 ppm as the upper limit of the exposure range ) , but were reduced when the upper limit of toluene exposure was less than 50 ppm , and the CCs were as small as <==0.2 when the upper limit was about 10 ppm or less .
+In contrast , Tol-U and Tol-B were correlated with exposure to toluene down to the <or=3 ppm range .
+The CC for BeOH-U was <0.1 almost throughout the exposure ranges .
+Further analyses showed that the CCs for all markers ( except the CC for BeOH-U ) were >0.4 when the cases in the 60th-100th per thousand were examined .
+The CCs for Tol-U and Tol-B were >0.3 also for cases in the 0th-60th or 30th-70th per thousand , whereas the CCs for other four markers were <0.3 .
+In over-all evaluation , it was concluded that HA and o-CR are among the markers of choice to monitor occupational toluene exposure at high levels , and that only un-metabolized toluene in urine or in blood is recommended when toluene exposure level is low ( e.g. , 10 ppm or less ) .
+Toluene in urine may be preferred rather than that in blood due to practical reasons , such as non-invasiveness .

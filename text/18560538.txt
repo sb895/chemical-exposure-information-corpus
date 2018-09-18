@@ -1,0 +1,14 @@
+BACKGROUND It is well documented that acute exposure to high levels of persistent organic pollutants , such as polychlorinated biphenyls ( PCBs ) , p,p'-dichlorophenyldichloroethylene ( p,p'-DDE ) , and hexachlorobenzene ( HCB ) , can affect human health including thyroid function .
+Chronic exposure to multiple toxicants is common but difficult to analyze , and most prior studies have focused on adults or newborns , creating a gap in our understanding of multitoxicant effects among adolescents .
+OBJECTIVE We investigated whether levels of PCBs , p,p'-DDE , HCB , mirex , lead , and mercury reflecting past chronic exposure are associated with alterations in levels of thyroid-stimulating hormone ( TSH ) , triiodothyronine ( T(3) ) , total thyroxine ( TT(4) ) , and free thyroxine ( FT(4) ) among older children and adolescents .
+METHODS The sample consists of youth from the Akwesasne Mohawk Nation ( n=232 ) who reside in proximity to several industries that have contaminated the local environment .
+We used multiple regression analysis to examine the effect of PCB groupings , p,p'-DDE , HCB , lead , and mercury on thyroid hormones after adjusting for sociodemographic covariates and controlling for all other toxicants .
+RESULTS Exposure to PCBs affects the thyroid hormone profile in adolescents .
+The group of persistent PCBs was positively associated with TSH but inversely related to FT(4) .
+Nonpersistent PCBs were significantly and negatively related to FT(4) only .
+HCB was negatively associated with T(4) , and lead was positively associated with T(3) .
+Breast-fed adolescents had higher levels of persistent PCBs and p,p'-DDE but not of nonpersistent PCBs or any other toxicant when compared with non-breast-fed adolescents .
+Though having lower levels of persistent PCBs and p,p'-DDE , non-breast-fed adolescents exhibited significant relationships between persistent PCBs and TSH and FT(4) , but breast-fed adolescents did not .
+It appears that PCBs from breast milk obscure the relationship between prenatal PCB exposure and thyroid function by adding random variation in PCB levels .
+CONCLUSION Our results demonstrate a reduction in thyroid function in adolescents in relation to their current serum levels of PCBs .
+These observations are consistent with the hypothesis that pre-natal exposure to PCBs alters thyroid function in a long-lasting manner but does not exclude the possibility that postnatal exposure is influential also .

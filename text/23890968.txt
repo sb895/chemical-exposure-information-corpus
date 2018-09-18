@@ -1,0 +1,12 @@
+BACKGROUND Phthalates are ubiquitous environmental chemicals with endocrine disruptive properties .
+The impact of these chemicals on endocrine-related disease in reproductive-age women is not well understood .
+OBJECTIVE To investigate the relationship between urinary phthalate metabolite concentrations and the risk of a hormonally-driven disease , endometriosis , in reproductive-age women .
+METHODS We used data from a population-based case-control study of endometriosis , conducted among female enrollees of a large healthcare system in the U.S. Pacific Northwest .
+We measured urinary phthalate metabolite concentrations on incident , surgically-confirmed cases ( n=92 ) diagnosed between 1996 and 2001 and population-based controls ( n=195 ) .
+Odds ratios ( OR ) , and 95% confidence intervals ( CI ) were estimated using unconditional logistic regression , adjusting for urinary creatinine concentrations , age , and reference year .
+RESULTS The majority of women in our study had detectable concentrations of phthalate metabolites .
+We observed a strong inverse association between urinary mono-(2-ethyl-5-hexyl) phthalate ( MEHP ) concentration and endometriosis risk , particularly when comparing the fourth and first MEHP quartiles ( aOR 0.3 , 95% CI : 0.1-0.7 ) .
+Our data suggested an inverse association between endometriosis and urinary concentrations of other di-2-ethylhexyl phthalate ( DEHP ) metabolites ( mono-(2-ethyl-5-hydroxyhexyl) phthalate ( MEHHP ) , mono-(2-ethyl-5-oxohexyl) phthalate ( MEOHP) ) and \u2211DEHP , however , the confidence intervals include the null .
+Our data also suggested increased endometriosis risk with greater urinary concentrations of mono-benzyl phthalate ( MBzP ) and mono-ethyl phthalate ( MEP ) , although the associations were not statistically significant .
+CONCLUSIONS Exposure to select phthalates is ubiquitous among female enrollees of a large healthcare system in the U.S. Pacific Northwest .
+The findings from our study suggest that phthalates may alter the risk of a hormonally-mediated disease among reproductive-age women .

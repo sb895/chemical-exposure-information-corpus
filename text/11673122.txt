@@ -1,0 +1,10 @@
+We examined human adipose tissue , liver , and bile from humans in Japan to understand the contamination status , specific accumulation , and elimination of two newly identified environmental contaminants , tris(4-chlorophenyl)methane ( TCPMe ) , tris(4-chlorophenyl)methanol ( TCPMOH ) , and other persistent organochlorines such as polychlorinated biphenyls ( PCBs ) , DDT and its metabolites ( DDTs ) , hexachlorocyclohexane isomers ( HCHs ) , hexachlorobenzene ( HCB ) , and chlordane compounds ( CHLs ) .
+TCPMe and TCPMOH concentrations in Japanese human adipose tissue were slightly higher than those reported previously , indicating widespread exposure to these compounds in humans .
+Elevated residues of PCBs and DDTs are found in adipose tissue and liver .
+Concentrations in bile strongly correlated with concentrations in adipose fat and liver , which may suggest an equilibration in adipose fat/bile and liver/bile and possible biliary excretion of persistent organochlorines in humans .
+Composition of the organochlorines accumulated further indicates a metabolic capacity in humans higher than that of marine mammals .
+We observed age-dependent accumulation for TCPMe , TCPMOH , and other organochlorines , but there were no significant gender differences. p,p'-DDE and TCPMe were estimated to have low biliary excretion rate .
+Elimination potential of persistent organochlorines may be related to their octanol-water partition coefficient .
+The relationship between excretion rate and octanol-water partition coefficient may be used to predict the biliary excretion potential of some other lipophilic organochlorines such as dioxins and dibenzofurans in humans .
+The presence of organochlorines in bile suggests that the hepatic excretory system plays a major role in the elimination of xenobiotics in humans .
+To our knowledge , this is the first study of accumulation and elimination of TCPMe and TCPMOH in humans .

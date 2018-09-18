@@ -1,0 +1,7 @@
+We conducted a population-based case-control study to evaluate the relation between exposure to drinking water contaminants ( total and specific trihalomethanes and certain metals and nitrates ) and childhood acute lymphoblastic leukemia .
+We compared 491 cases 0-9 years of age with 491 controls .
+We developed a municipality-exposure matrix based on municipal and provincial historical data , a tapwater survey in 227 homes , and information about residential history .
+We used average level of exposure and cumulative average over the period as exposure indices , and we measured risk for the pregnancy period as well as for the postnatal period .
+We show that risks were generally not increased for the prenatal period nor with average levels of exposure .
+Postnatal cumulative exposure for total trihalomethanes at above the 95th percentile of the distribution for cases and controls was associated with an odds ratio of 1.54 ( 95% confidence interval = 0.78-3.03 ) ; for that same period , risk associated with exposure to chloroform was increased ( odds ratio = 1.63 ; 95% confidence interval = 0.84-3.19 ) as well as that for exposure to zinc ( odds ratio = 2.48 ; 95% confidence interval = 0.99-6.24 ) .
+Risks were also increased for exposure to cadmium and arsenic , but not for other metals nor for nitrates .

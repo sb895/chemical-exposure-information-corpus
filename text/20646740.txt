@@ -1,0 +1,9 @@
+A considerable amount of work has been conducted developing exposure estimate models for quantitative evaluation of mercury ( Hg ) intake and human health risks , but few have assessed the applicability and the validity for evaluating the risks posed by Hg in the environment and have achieved very mixed results .
+The present study focused on verifying estimated daily Hg intake using exposure equations with either the deterministic or probabilistic ( the Monte Carlo ) approaches .
+The simulated daily Hg intake doses were compared with those established from measured Hg concentrations in the hair of 289 participants .
+The results showed that the single-value deterministic method for simulating Hg exposure levels overestimated the level of risk by a factor of 1.5 when compared with the highest concentration of Hg observed in the hair of the study population .
+Contrarily , the average daily Hg intake doses simulated using the probabilistic simulation were similar in distribution to the biomarker data .
+When the reference dose ( RfD ) of 0.1 microg/kg body weight/day was adopted as the acceptable dose for daily intake rate , there were approximately 19 percent estimated to have potential Hg exposure risks based on the Monte Carlo simulation .
+This percentage was favourably similar to the 17 percent determined from Hg concentrations in the hair samples .
+The difference between the probabilistic simulation and the data derived from hair Hg levels was considered mainly due to the uncertainties in unconfirmed questionnaire-based survey data , small sampling sizes and the surrogates used in the exposure models .
+The findings implied that the existing exposure models together with the probabilistic approach were appropriate for research of human exposure to Hg .

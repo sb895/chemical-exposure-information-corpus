@@ -1,0 +1,10 @@
+This study is to assess PCB levels in five frequently consumed fish species in Taiwan , tilapia , milkfish , white pomfret , hairtail , and cod .
+Seventeen congeners were measured in fillet samples purchased from major markets in northern , central , and southern Taiwan .
+All 136 samples had traces of PCBs .
+The median concentrations were 0.18 , 0.46 , 0.62 , 0.69 , and 7.34 ng/g wet wt and 1.01 , 0.28 , 1.14 , 5.06 , and 19.3 pg-WHO-TEQ/g lipid in tilapia , milkfish , white pomfret , hairtail , and cod samples , respectively .
+Cod ( the imported fish ) had the highest wet weight PCB concentrations .
+The fish caught off-shore ( white pomfret and hairtail ) had higher levels than the farmed fish ( tilapia and milkfish ) .
+The congener profiles varied among species .
+PCB 105/153 and 126 accounted for more than 28% and 53% of the 2,3,7,8-tetrachlorodibenzo-p-dioxin equivalents ( WHO-TEQs ) in hairtail and cod , respectively ; while PCB 156 was the major TEQ contributor in the other species .
+The estimated median PCB intake of the general public from consumption of the five species ranged from 0.000023 to 0.048 pg-WHO-TEQ/kg/day .
+It was also found that samples farmed or caught along the southern coast had higher PCB levels than those from other parts of Taiwan , indicating possible elevated PCB contamination around that area .

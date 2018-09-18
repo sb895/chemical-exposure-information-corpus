@@ -1,0 +1,8 @@
+There is considerable evidence that consuming fish has numerous health benefits , including a reduced risk of cardiovascular disease .
+However , fish is also the primary source of human exposure to mercury ( Hg ) .
+In a cross-sectional study of 9-11 year old children ( N=100 ) , we measured fish consumption , blood lipids , total blood Hg , diurnal salivary cortisol ( 4 samples collected throughout the day ) , and performed a proteomic analysis of serum proteins using spectral count shotgun proteomics .
+Children who consumed fish had a significantly more atheroprotective lipid profile but higher levels of blood Hg relative to children that did not consume fish .
+Although the levels of blood Hg were very low in these children ( M=0.77 \u03bcg/L ; all but 1 participant had levels below 3.27 \u03bcg/L ) , increasing blood Hg was significantly associated with blunted diurnal cortisol levels .
+Blood Hg was also significantly associated with acute-phase proteins suggesting systemic inflammation , and several of these proteins were found to significantly reduce the association between Hg and diminished cortisol when included in the model .
+This study of a pediatric population is the first to document an association between blood Hg , systemic inflammation , and endocrine disruption in humans .
+Without a better understanding of the long-term consequences of an atheroprotective lipid profile relative to blunted diurnal cortisol and systemic inflammation , a determination of the risk-benefit ratio for fish consumption by children is not possible .

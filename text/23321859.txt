@@ -1,0 +1,11 @@
+Underlying mechanisms by which air pollutants adversely affect human health remain poorly understood .
+Oxidative stress has been considered as a potential mechanism that may promote lipid peroxidation by reactive oxygen species , leading to the formation of malondialdehyde ( MDA ) that is excreted in biofluids ( e.g. , urine and exhaled breath condensate ( EBC) ) .
+A panel study was conducted to examine whether concentrations of MDA in EBC and urine were associated , respectively , with changes in air pollution levels brought by the Beijing Olympic air pollution control measures .
+EBC and urine samples from 125 healthy adults were collected twice in each of the pre- , during- , and post-Olympic periods .
+Period-specific means of MDA and changes in MDA levels associated with increases in 24-h average pollutant concentrations were estimated using linear mixed-effects models .
+From the pre- to the during-Olympic period , when concentrations of most pollutants decreased , EBC MDA and urinary MDA significantly decreased by 24% ( P<0.0001 ) and 28% ( P=0.0002 ) , respectively .
+From the during-Olympic to the post-Olympic period , when concentrations of most pollutants increased , EBC MDA and urinary MDA increased by 28% ( P=0.094 ) and 55% ( P=0.046 ) , respectively .
+Furthermore , the largest increases in EBC MDA associated with one interquartile range ( IQR ) increases in all pollutants but ozone ranged from 10% ( 95% CI : 2% , 18% ) to 19% ( 95% CI : 14% , 25% ) .
+The largest increases in urinary MDA associated with IQR increases in pollutant concentration ranged from 9% ( 95% : 0.3% , 19% ) to 15% ( 95% CI : 3% , 28% ) .
+These findings support the utility of EBC MDA as a biomarker of oxidative stress in the respiratory tract and urinary MDA as a biomarker of systemic oxidative stress in relation to air pollution exposure in healthy young adults .
+Both EBC and urine samples can be collected noninvasively in the general population .

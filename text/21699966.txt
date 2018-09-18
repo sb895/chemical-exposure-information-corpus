@@ -1,0 +1,10 @@
+The release of PCBs from sealant material in public buildings and the resulting indoor air levels have raised growing concerns about possible human health effects connected with this exposure .
+Ambient monitoring of PCBs in a public building has revealed a contamination with the more volatile lower chlorinated PCB 28 , PCB 52 and PCB 101 .
+This gave reason for a large biological monitoring study in order to examine the internal exposure to PCBs in persons working in that building .
+Blood samples from 209 persons employed in the PCB-contaminated building were drawn. 98 persons matched for age and gender working in non-contaminated buildings served as control group .
+Plasma samples were analysed for the six indicator PCBs ( PCB 28 , 52 , 101 , 138 , 153 , 180 ) and 12 dioxin-like PCBs using GC/MS ( LOD : 0.01 \u03bcg/L ) .
+Significant differences between both collectives were only found for the plasma levels of the lower chlorinated PCB 28 , PCB 52 and PCB 101 and for the dioxin-like congeners PCB 105 and PCB 118 , which are due to inhalative exposure to these congeners via indoor air .
+Median plasma levels of PCB 28 , PCB 52 and PCB 101 in the employees of the contaminated building were 0.087 \u03bcg/L , 0.024 \u03bcg/L and 0.012 \u03bcg/L , respectively .
+The concentrations of the higher chlorinated PCBs and all other dioxin-like congeners investigated were within the normal range of the general population .
+There was no relationship between indoor air measurements and internal exposure of the employees in the corresponding office , but estimated lifetime exposure of the employees turned out to be a significant factor for plasma levels of PCB 28 .
+Our biomonitoring results served as a basis for individual risk communication and successful risk management .

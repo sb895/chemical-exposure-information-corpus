@@ -1,0 +1,8 @@
+Although 1,3-butadiene ( BD ) has been classified as an animal carcinogen , epidemiologic research has reported inconsistent results on the relationship between BD and lymphopoietic and other cancers in humans .
+This study evaluated the mortality experience of 15649 men employed for at least 1 year at any of eight North American styrene-butadiene rubber ( SBR ) plants .
+About 75% of the subjects were exposed to BD ; 83% were exposed to styrene ( STY ) .
+During 1943-1991 , the cohort had a total of 386172 and an average of 25 person-years of follow-up , with 3976 deaths observed compared to 4553 deaths expected based on general population mortality rates ( standardized mortality ratio ( SMR ) = 87 , 95% confidence interval ( CI ) = 85-90 ) .
+More than expected leukemia deaths occurred in the overall cohort ( 48 observed/37 expected , SMR = 131 , CI = 97-174 ) and among ever hourly subjects ( 45/32 , SMR = 143 , CI = 104-191 ) .
+The excess was concentrated among ever hourly subjects with 10+ years worked and 20+ years since hire ( 28/13 , SMR = 224 , CI = 149-323 ) and among subjects in polymerization ( 15/6.0 , SMR = 251 , CI = 140-414 ) , maintenance labor ( 13/4.9 , SMR = 265 , CI = 141-453 ) and laboratories ( 10/2.3 , SMR = 431 , CI = 207-793 ) , three areas with potential for relatively high exposure to BD or STY monomers .
+Some cohort sub-groups had slight increases in deaths from lymphopoietic cancers other than leukemia , but mortality patterns by race , years worked and process group within the SBR industry did not indicate a causal association with occupational exposures .
+These results indicate that exposures in the SBR industry cause leukemia .

@@ -1,0 +1,12 @@
+Attention Deficit Hyperactivity Disorder ( ADHD ) is the most commonly diagnosed and studied cognitive and behavioral disorder in school-age children .
+The etiology of ADHD and ADHD-related behavior is unclear , but genetic and environmental factors , such as pesticides , have been hypothesized .
+The objective of this study was to investigate the relationship between in utero exposure to chlorpyrifos , chlorpyrifos-methyl , and/or 3,5,6-trichloro-2-pyridinol ( TCPY ) and ADHD in school-age Mexican children using TCPY as a biomarker of exposure .
+The temporal reliability of repeated maternal urinary TCPY concentrations across trimesters was also explored ( N=21 ) .
+To explore associations with ADHD-related outcomes in children , third trimester urinary TCPY concentrations in were measured in 187 mother-child pairs from a prospective birth cohort .
+Child neurodevelopment in children 6-11 years of age was assessed using Conners ' Parental Rating Scales-Revised ( CRS-R ) , Conners ' Continuous Performance Test ( CPT ) , and Behavior Assessment System for Children-2 ( BASC-2 ) .
+Multivariable linear regression models were used to test relationships for all children combined and also stratified by sex .
+Intraclass correlation coefficients ( ICC ) calculations were based on a random effects model .
+The ICC was 0.41 for uncorrected TCPY , and ranged from 0.29 to 0.32 for specific gravity-corrected TCPY .
+We did not observe any statistically significant associations between tertiles of maternal TCPY concentrations and ADHD-related outcomes in children .
+However , compared to the lowest tertile we found suggestive evidence for increased ADHD index in the highest TCPY tertile in boys ( \u03b2=5.55 points ; 95% CI ( -0.19 , 11.3 ) ; p=0.06 ) and increased attention problems for the middle tertile in girls ( \u03b2=5.81 points ; 95% CI ( -0.75 , 12.4 ) ; p=0.08 ) .
+Considering the continued widespread agricultural and possible residential use of chlorpyrifos and chlorpyrifos-methyl in Mexico and the educational implications of cognitive and behavior deficits , these relationships deserve further study .

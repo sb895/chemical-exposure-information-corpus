@@ -1,0 +1,9 @@
+Urinary phthalate excretion is used as marker of phthalate exposure in epidemiological studies .
+Here we examine the reliability of urinary phthalate levels in exposure classification by comparing the inter- and intrasubject variation of urinary phthalate metabolite levels .
+Thirty-three young healthy men each collected two spot , three first-morning , and three 24-h urine samples during a 3-month period .
+Samples were analyzed for the content of 12 urinary metabolites of 7 different phthalates .
+Variability was assessed as intraclass correlation coefficients ( ICC ) .
+For the metabolites of diethyl- , dibutyl- , and butylbenzyl-phthalates moderate ICCs were observed in all three sample types , albeit highest in 24-h urine ( 0.51-0.59 ) .
+For the metabolites of di(2-ethylhexyl) phthalate and di-iso-nonyl phthlates lower ICCs ( 0.06-0.29 ) were found .
+These low ICCs indicate a high risk of misclassification of exposures for these two phthalates in population studies and hence an attenuation of the power to detect possible exposure-outcome associations .
+The only slightly higher ICCs for 24-h pools compared to first-morning and spot urine samples does not seem to justify the extra effort needed to collect 24-h pools .

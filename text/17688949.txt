@@ -1,0 +1,10 @@
+Monitoring was carried out of particulate concentrations whilst simultaneously walking and driving 48 routes in London , UK .
+Monitoring was undertaken during May and June 2005 .
+Route lengths ranged from 601 to 1351 m , and most routes were travelled in both directions .
+Individual journey times ranged from 1.5 to 15 min by car ( average 3.7 min ) and 7.3 to 30 min ( average 12.8 min ) whilst walking ; car trips were therefore repeated up to 5 times for each single walking trip and the results averaged for the route .
+Car trips were made with windows closed and the ventilation system on a moderate setting .
+Results show that mean exposures while walking are greatly in excess of those while driving , by a factor 4.7 for the coarse particle mass ( PM10-PM2.5 ) , 2.2 for the fine particle mass ( PM2.5-PM1 ) , 1.9 for the very fine particle mass ( <PM1 ) and 1.4 for ultrafine particle number density .
+The reduced in-car exposures appear to occur largely because the filtration system helps to prevent ingress of particles , so that the vehicle acts as a more-or-less independent micro-environment , insulated against much of air pollution present in the street .
+When account is also taken of the additional travel time involved in walking , these excesses are further increased : to factors of 15.6 , 7.4 , 6.5 and 4.4 , respectively .
+Individuals who change their travel mode from car to walking in response to policies aimed at encouraging a modal shift in travel behavior are thus likely to experience considerably increased journey-time personal exposures to traffic-related air pollution .
+More effort is consequently needed to increase separation between road vehicles and pedestrians if negative effects of these policies are to be avoided .

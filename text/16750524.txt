@@ -1,0 +1,12 @@
+The Children's Total Exposure to Persistent Pesticides and Other Persistent Organic Pollutants ( CTEPP ) study investigated the potential exposures of 257 preschool children , ages 1 1/2-5 yr , and their primary adult caregivers to more than 50 anthropogenic chemicals .
+Field sampling took place in selected counties in North Carolina ( NC ) and Ohio ( OH ) in 2000-2001 .
+Over a 48-h period in each child's daycare center and/or home , food , beverages , indoor air , outdoor air , house dust , soil , participants ' hand surfaces and urine were sampled .
+Additional samples-transferable residues , food preparation surface wipes , and hard floor surface wipes-were collected in the approximately 13% of the homes that had pesticide applications within the 7 days prior to field sampling .
+Three phenols were among the measured chemicals : pentachlorophenol ( PCP ) , bisphenol-A [ 2,2-bis(4-hydroxyphenyl)propane ] , and nonylphenol ( 4-n-nonylphenol ) .
+Nonylphenol ( NP ) was detected in less than 11% of the samples in any medium .
+Among samples that were collected at all participants ' homes and daycare centers , PCP was detected in >50% of indoor air , outdoor air , house dust , and urine samples ; bisphenol-A ( BPA ) was detected in >50% of indoor air , hand wipe , solid food , and liquid food samples .
+The concentrations of the phenols in the sampled media were measured , and the children's potential exposures and potential absorbed doses resulting from intake through the inhalation , dietary ingestion , and indirect ingestion routes of exposure were estimated .
+The children's potential exposures to PCP were predominantly through inhalation : 78% in NC and 90% in OH .
+In contrast , their potential exposures to BPA were predominantly through dietary ingestion : 99% , for children in both states .
+The children's estimated exposures to PCP , calculated from the amounts excreted in their urine , exceeded their estimated maximum potential intake , calculated from the multimedia PCP concentrations , by a factor greater than 10 .
+This inconsistency for PCP highlights the need for further research on the environmental pathways and routes of PCP exposure , investigation of possible exposures to other compounds that could be metabolized to PCP , and on the human absorption , metabolism , and excretion of this phenol over time periods longer than 48 h .

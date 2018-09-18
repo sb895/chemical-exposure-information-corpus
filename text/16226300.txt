@@ -1,0 +1,12 @@
+As part of the European Mercury Emissions from Chlor Alkali Plants ( EMECAP ) project , we tested the hypothesis that contamination of ambient air with mercury around chlor alkali plants using mercury cells would increase the internal dose of mercury in people living close to the plants .
+Mercury in urine ( U-Hg ) was determined in 225 individuals living near a Swedish or an Italian chlor alkali plant , and in 256 age- and sex-matched individuals from two reference areas .
+Other factors possibly affecting mercury exposure were examined .
+Emissions and concentrations of total gaseous mercury ( TGM ) around the plants were measured and modeled .
+No increase in U-Hg could be demonstrated in the populations living close to the plants .
+This was the case also when the comparison was restricted to subjects with no dental amalgam and low fish consumption .
+The emissions of mercury to air doubled the background level , but contributed only about 2 ng/m(3) to long-term averages in the residential areas .
+The median U-Hg levels in subjects with dental amalgam were 1.2 microg/g creatinine ( micro/gC ) in Italy and 0.6 microg/gC in Sweden .
+In individuals without dental amalgam , the medians were 0.9 microg/gC and 0.2 microg/gC , respectively .
+The number of amalgam fillings , as well as chewing , fish consumption , and female sex were associated with higher U-Hg .
+The difference between the countries is probably due to higher fish consumption in Italy , demethylated methyl mercury ( MeHg ) being partly excreted in urine .
+Post hoc power calculations showed that if the background mercury exposure is low it may be possible to demonstrate an increase in U-Hg of as little as about 10 ng/m(3) as a contribution to ambient mercury from a point source .

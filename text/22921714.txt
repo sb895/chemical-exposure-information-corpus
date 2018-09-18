@@ -1,0 +1,9 @@
+Bisphenol A ( BPA ) is a synthetic phenolic compound to which the general public may be exposed via consumer products and environmental contamination .
+We assessed the association between urinary BPA concentration and the prevalence of type 2 diabetes .
+This cross-sectional study included Korean adult participants ( n=1210 ) aged 40-69 years and was based on the 2009 Korean National Human Biomonitoring Survey .
+Demographic characteristics and medical history of type 2 diabetes were collected from the participants by questionnaire , and BPA levels were determined by analysis of urine samples .
+The mean age of the participants was 53.4 years and 41.6% were men ; the prevalence of type 2 diabetes differed according to demographic characteristics .
+The geometric mean urinary BPA levels of participants with and without type 2 diabetes were 2.03 and 2.40ng/mL , respectively .
+Among BPA quartiles , no clear association was found between BPA levels and type 2 diabetes .
+Although the adjusted odds ratio of type 2 diabetes was slightly increased for participants in the upper BPA quartile , the association was not statistically significant .
+These findings suggest that a high body BPA burden may not be associated with an increased prevalence of type 2 diabetes in Korean adults .

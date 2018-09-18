@@ -1,0 +1,9 @@
+To date , personal volatile organic compounds ( VOCs ) exposure and residential indoor and outdoor VOCs levels have not been characterized in Korea .
+In this study , residential indoor and outdoor VOCs concentrations were measured and compared simultaneously with the personal exposure for each of 30 participants in a medium city , Asan , and in a metropolitan city , Seoul .
+Factors that influence personal VOCs exposures were assessed in relation to house characteristics and time activity information .
+All VOC concentrations were measured using passive samplers during a 24-h period and analyzed using GC-MS .
+Ten target VOCs were benzene , trichloroethylene , toluene , o-xylene , p-xylene , ethylbenzene , MIBK , n-octane , styrene , and 1,2-dichlorobenzene .
+Residential indoor and outdoor VOCs concentrations measured in Seoul were significantly higher than those in Asan .
+Indoor/outdoor ( I/O ) ratios for all target compounds ranged from 0.94 to 1.51 and I/O ratios of Asan were a little higher than those of Seoul .
+Results indicate that time activity information can be used to predict personal exposures , although such predictions will result in an over estimation compared to measured exposures .
+Factors which influence the indoor VOCs level and its personal exposure in relation to house characteristics included house age , indoor smoking , and house type .

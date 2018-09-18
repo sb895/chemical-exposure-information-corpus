@@ -1,0 +1,16 @@
+We collected toenail and hair samples from 160 subjects , 83 males and 77 females , residing in Lahore city and its suburban areas in Pakistan , and examined the concentrations of arsenic , cadmium , lead and other metals using inductively coupled plasma mass spectrometry ( ICP-MS ) .
+The mean hair and toenail arsenic levels were 0.31 ppm and 0.70 ppm , respectively .
+The correlation coefficient between log-transformed values of hair and toenail arsenic levels was 0.16 ( p=0.051 ) .
+After excluding a subject with hair and toenail arsenic levels as high as 1.12 ppm and 4.72 ppm , respectively , the correlation coefficient was 0.27 ( p=0.001 ) .
+Arsenic levels observed in the present study were relatively higher than in most developed countries .
+Hair or toenail arsenic concentration was not affected by sex , area of origin , place of residence and education , but toenail arsenic levels increased with age ( p=0.029 ) .
+Fish consumption was inversely related to arsenic levels , suggesting that consumption of beans , which are the main staple of poor people living in the study area who cannot afford to eat fish frequently , may be the source of arsenic exposure among the residents of Lahore and its suburban areas .
+The mean hair and toenail cadmium levels in the present study were 0.08 ppm and 0.05 ppm , respectively .
+The correlation coefficient between log-transformed values of hair and toenail cadmium levels was 0.17 ( p=0.034 ) .
+Cadmium levels were lower compared to those reported from developed countries , including Japan .
+The mean hair and toenail lead levels were 3.53 ppm and 2.11 ppm , respectively .
+The correlation coefficient between log-transformed values of hair and toenail lead levels was 0.15 , which was not statistically significant ( p=0.055 ) .
+When a female subject with toenail lead of 52.4 ppm was excluded , the correlation was 0.17 ( p=0.036 ) .
+Lead levels observed in the present study were similar to those reported from developed countries .
+In the present study , relatively high lead toenail values were observed among children .
+The levels of cadmium and lead in hair but not in toenails were higher among those living in central Lahore than among those living outside Lahore , suggesting that dust containing those heavy metals was attached to hair samples due to a typical urban environment with heavy traffic load , congested population and industrial activities .

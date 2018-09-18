@@ -1,0 +1,21 @@
+UNLABELLED Acrylamide ( AA ) , a substance classified as probably carcinogenic to humans , was detected for the first time in food products in 2002 .
+AA can be primarily found in foods containing carbohydrates and proteins , where it is formed during the heating process .
+Exposure assessment based on food consumption data revealed an average daily intake of AA between 0.3 and 0.8 microg/kg BW/day .
+These data have been confirmed by human biomonitoring using haemoglobin adducts of AA in blood or the specific mercapturic acids in urine .
+However , human biomonitoring data on the internal exposure of children were only sporadically available .
+Especially data about the excretion of both relevant mercapturic acids were missing .
+The mercapturic acids other than the haemoglobin adducts give the recent AA exposure of the last 24h .
+In this study , we quantify the internal exposure of AA and the genotoxic metabolite glycidamide ( GA ) in 110 children with regard to their exposure through diet and/or environmental tobacco smoke .
+MATERIAL AND METHODS Hundred and ten 5-6-year-old children were randomly selected .
+Their dietary habits as well as their exposure to the environmental tobacco smoke were assessed by means of a questionnaire .
+By means of spot urine samples , mercapturic acids of acrylamide ( AAMA ) and mercapturic acids of glycidamide ( GAMA ) were analysed with LC-ESI-MS/MS .
+RESULTS Median ( 95th percentile ) urinary levels were 36.0 ( 152.7 ) microg AAMA/l and 13.4 ( 55.9 ) microg GAMA/l .
+Based on the metabolite levels , the median uptake of acrylamide was calculated to be 0.54 microg/kg BW/d .
+A number of associations with the consumption of French fries , various potato products , as well as fried cereals could be found .
+Significant results were found for French fries .
+No correlations between the exposure to environmental smoke and cotinine levels in urine were found .
+CONCLUSION This is the first study to show the presence of AAMA and GAMA in urine specimens of 110 children , thus providing evidence for a background exposure by nutrition .
+Median ( 95th percentile ) uptake of AA in children was 0.54 ( 1.91 ) microg/kg bodyweight and day , exceeding exposure in adults by 50% .
+These findings support the efforts to minimize AA formation and contamination in food .
+Comparing our findings with that of other human studies , there are hints that children have a higher AA intake than adults and that children more effectively oxidize AA .
+Both findings indicate that children might be the most vulnerable group of the population .

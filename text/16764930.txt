@@ -1,0 +1,13 @@
+Human serum samples ( n=142 ) from Iassy county ( Eastern Romania ) collected in 2005 were analyzed for p,p'-DDT and its metabolites , hexachlorobenzene , hexachlorocyclohexane ( HCH ) isomers , chlordane and metabolites and 14 polychlorinated biphenyl ( PCB ) congeners .
+In all samples , p,p'-DDE ( principal metabolite of p,p'-DDT ) and beta-HCH ( most persistent HCH isomer ) were the most abundant organochlorine pesticides ( OCPs ) with median concentrations of 1975 and 923 ng/g lipid weight ( lw ) , respectively .
+Hexachlorobenzene and p,p'-DDT were also detected in all samples , but at a lower median concentration of 30 and 340 ng/g lw , respectively .
+The large variation of the ratio p,p'-DDT/p,p'-DDE ( range between 0.02 and 0.80 ) suggests various degrees of exposure to DDT , including recent exposure , at least to some subgroups of the population .
+Chlordane and its metabolites were in most cases close to the limit of quantification suggesting a very low use of chlordane formulations in Eastern Romania .
+Unexpectedly , PCBs were present in all samples at sometimes considerable levels ( up to 4970 ng/g lw for sum of 14 PCB congeners ) indicating a higher exposure of the Romanian population than previously reported .
+The PCB profile consisted of persistent congeners such as 138 , 153 , 170 and 180 which contributed for approximately 75% to the sum PCBs .
+Concentrations of most pollutants correlated significantly with age ( r>0.86 , p<0.01 ) .
+Except for p,p'-DDT and gamma-HCH , the mean levels of OCPs in females were statistically higher than in males , while , except for octa-CBs , no gender differences were found for PCBs .
+Levels of p,p'-DDE , penta-CBs , hexa-CBs and hepta-CBs were significantly higher in individuals with a rural main residence .
+In a pooled serum sample , 6 polybrominated diphenyl ether ( PBDE ) congeners were measured at a level of 1.04 ng/g lw .
+Compared to results available from Central and Eastern European countries , human serum samples from Romania contained higher levels of contamination .
+This emphasizes that an extensive and rigorous program for the monitoring of OCPs and PCBs in Romanian population is highly needed in the light of possible adverse health effects acknowledged for these pollutants .

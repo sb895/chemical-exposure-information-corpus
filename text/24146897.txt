@@ -1,0 +1,9 @@
+BACKGROUND Recently , evidence from several studies has revealed that air pollution is associated with the increased morbidity and mortality of breast cancer patients .
+However , to date , the underlying mechanism remains largely unclear .
+Considering the high prevalence of air pollution and breast cancer in China , it is necessary to understand how air pollution may affect breast cancer .
+METHODS We analyzed 1,832 female patients who had resided in the same cities for at least 10 years prior to their diagnosis .
+Variables including demographic data as well as clinical and tumor characteristics , including the patient's age at menarche , family history of breast cancer , tumor histopathological type , tumor size , lymph node metastasis , distant metastasis , histological grade , estrogen receptor ( ER ) status , progesterone receptor ( PR ) status and human epidermal growth factor receptor 2 ( HER-2 ) status at the time of diagnosis were analyzed .
+RESULTS Compared to patients residing in low-pollution areas , patients living in high-pollution areas demonstrated a younger age at menarche ( p<0.001 ) , a greater family history of breast cancer ( p = 0.034 ) and more invasive cancers ( p = 0.028 ) with higher tumor grades ( p = 0.028 ) and estrogen receptor ( ER)-positive status ( p = 0.022 ) .
+Differences in tumor grade were only found in ER-positive cases .
+CONCLUSIONS Our findings and clinical data indicate that long-term air pollution exposure may contribute to the development of breast cancer by playing the role of a xenoestrogen , and also provides new insight into the association between air pollution and the morbidity and mortality of breast cancer patients .
+Furthermore , it is urgently necessary to study the association between air pollution and breast cancer to improve the living quality and health of females , and applicable public health strategies may need to be established or modified as soon as possible .

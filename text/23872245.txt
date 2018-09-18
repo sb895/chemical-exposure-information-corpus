@@ -1,0 +1,12 @@
+Exposure to environmental pollutants has been recognised as a risk factor for cardiovascular events. 1-hydroxypyrene ( 1-OHP ) is a biomarker of exposure to polycyclic aromatic hydrocarbons ( PAHs ) from traffic-related air pollution .
+Experimental studies indicate that PAH exposure could be associated with inflammation and atherogenesis .
+Thus , the purpose of this study was to evaluate whether the biomarker of PAH exposure is associated with biomarkers of inflammation and oxidative stress and if these effects modulate the risk of developing cardiovascular diseases in workers exposed to air pollution .
+This study included 60 subjects , comprising 39 taxi drivers and 21 non-occupationally exposed persons .
+Environmental PM2.5 and benzo[a]pyrene ( BaP ) levels , in addition to biomarkers of exposure and oxidative damage , were determined .
+Inflammatory cytokines ( IL-1\u03b2 , IL-6 , IL-10 , TNF-\u03b1 , IFN-\u03b3 and hs-CRP ) and serum levels of oxidised LDL ( ox-LDL ) , auto-antibodies ( ox-LDL-Ab ) and homocysteine ( Hcy ) were also evaluated .
+PM2.5 and BaP exhibited averages of 12.4±6.9 \u03bcg m(-3) and 1.0±0.6 ng m(-3) , respectively .
+Urinary 1-OHP levels were increased in taxi drivers compared to the non-occupationally exposed subjects ( p<0.05 ) and were positively correlated with pro-inflammatory cytokines and negatively correlated with antioxidants .
+Furthermore , taxi drivers had elevated pro-inflammatory cytokines , biomarkers of oxidative damage , and ox-LDL , ox-LDL-Ab and Hcy levels , although antioxidant enzymes were decreased compared to the non-occupationally exposed subjects ( p<0.05 ) .
+In summary , our findings indicate that taxi drivers showed major exposure to pollutants , such as PAHs , in relation to non-occupationally exposed subjects .
+This finding was associated with higher inflammatory biomarkers and Hcy , which represent important predictors for cardiovascular events .
+These data suggest a contribution of PAHs to cardiovascular diseases upon occupational exposure .

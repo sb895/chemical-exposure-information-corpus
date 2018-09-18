@@ -1,0 +1,13 @@
+BACKGROUND A reduction in the use of polybrominated diphenyl ethers ( PBDEs ) because of human health concerns may result in an increased use of and human exposure to organophosphate flame retardants ( OPFRs ) .
+Human exposure and health studies of OPFRs are lacking .
+OBJECTIVES We sought to define the degree of temporal variability in urinary OPFR metabolites in order to inform epidemiologic study design , and to explore a potential primary source of exposure by examining the relationship between OPFRs in house dust and their metabolites in urine .
+METHODS Nine repeated urine samples were collected from 7 men over the course of 3 months and analyzed for bis(1,3-dichloro-2-propyl) phosphate ( BDCPP ) and diphenyl phosphate ( DPP ) , metabolites of the OPFRs tris(1,3-dichloro-2-propyl) phosphate ( TDCPP ) and triphenyl phosphate ( TPP ) , respectively .
+Intraclass correlation coefficients ( ICCs ) were calculated to characterize temporal reliability .
+Paired house dust and urine samples were collected from 45 men .
+RESULTS BDCPP was detected in 91% of urine samples , and DPP in 96% .
+Urinary BDCPP showed moderate-to-strong temporal reliability ( ICC range , 0.55-0.72 ) .
+ICCs for DPP were lower , but moderately reliable ( range , 0.35-0.51 ) .
+There was a weak [ Spearman r ( r(S) ) = 0.31 ] but significant ( p = 0.03 ) correlation between urinary BDCPP and TDCPP concentrations in house dust that strengthened when nondetects ( r(S) = 0.47 ) were excluded .
+There was no correlation between uncorrected DPP and TPP measured in house dust ( r(S) < 0.1 ) .
+CONCLUSIONS Household dust may be an important source of exposure to TDCPP but not TPP .
+Urinary concentrations of BDCPP and DPP were moderately to highly reliable within individuals over 3 months .

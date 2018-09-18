@@ -1,0 +1,10 @@
+There is increasing interest in potential health effects of airborne exposures to hazardous air pollutants at relatively low levels .
+This study focuses on sources , levels , and exposure pathways of manganese , chromium , and iron among inner-city high school students in New York City ( NYC ) and the contribution of subways .
+Samples of fine particulate matter ( PM2.5 ) were collected during winter and summer over 48 h periods in a variety of settings including inside homes , outdoors , and personal samples ( i.e. , sampling packs carried by subjects ) .
+PM2.5 samples were also collected in the NYC subway system .
+For NYC , personal samples had significantly higher concentrations of iron , manganese , and chromium than did home indoor and ambient samples .
+The ratios and strong correlations between pairs of elements suggested steel dust as the source of these metals for a large subset of the personal samples .
+Time-activity data suggested NYC subways as a likely source of these elevated personal metals .
+In duplicate PM2.5 samples that integrated 8 h of underground subway exposure , iron , manganese , and chromium levels ( >2 orders of magnitude above ambient levels ) and their ratios were consistent with the elevated personal exposures .
+Steel dust in the NYC subway system was the dominant source of airborne exposures to iron , manganese , and chromium for many young people enrolled in this study , with the same results expected for other NYC subway riders who do not have occupational exposures to these metals .
+However , there are currently no known health effects at the exposure levels observed in this study .

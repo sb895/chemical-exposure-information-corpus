@@ -1,0 +1,8 @@
+In this study , the relationships between high water fluoride exposure and essential hypertension as well as plasma ET-1 levels were investigated .
+A total of 487 residents aged 40 to 75 were randomly recruited from eight villages in Zhaozhou County from Heilongjiang Province in China and were divided into 4 groups according to the concentrations of fluoride in their water .
+Consumption levels of drinking water fluoride for normal , mild , moderate , and high exposure groups were 0.84±0.26 mg/L , 1.55±0.22 mg/L , 2.49±0.30 mg/L , and 4.06±1.15 mg/L , respectively .
+The prevalence of hypertension in each group was 20.16% , 24.54% , 32.30% , and 49.23% , respectively .
+There were significant differences between all the groups ; namely , with the increase in water fluoride concentrations , the risk of essential hypertension in adults grows in a concentration-dependent manner .
+Significant differences were observed in the plasma ET-1 levels between the different groups ( P<0.0001 ) .
+In the multivariable logistic regression model , high water fluoride concentrations ( F(-)\u22653.01 mg/L , OR(4/1)=2.84 ) , age ( OR(3/1)=2.63 ) , and BMI ( OR(2/1)=2.40 , OR(3/1)=6.03 ) were closely associated with essential hypertension .
+In other words , the study not only confirmed the relationship between excess fluoride intake and essential hypertension in adults , but it also demonstrated that high levels of fluoride exposure in drinking water could increase plasma ET-1 levels in subjects living in fluoride endemic areas .

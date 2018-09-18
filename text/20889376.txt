@@ -1,0 +1,7 @@
+BACKGROUND AND OBJECTIVES We applied an updated hybrid approach to estimate the benchmark doses ( BMD ) and their 95% lower confidence limits ( BMDL ) for cadmium-induced renal effects as the threshold of urinary cadmium in humans .
+Using this method , the BMD and BMDL were estimated based on continuous exposure and continuous effect marker , thereby avoiding categorization of subjects , an inevitable outcome of previously used approaches .
+METHODS The target subjects were 547 men and 723 women , aged 50 years or older , who lived in a cadmium non-polluted area of Japan .
+We measured urinary cadmium ( U-Cd ) as a marker of long-term exposure , and urinary protein , \u03b22-microglobulin ( \u03b22-MG ) and N-acetyl-\u03b2-D-glucosaminidase ( NAG ) as renal effect markers .
+BMD and BMDL corresponding to an additional risk ( BMR ) of 5% , were calculated with the background risk at zero exposure set at 5% .
+RESULTS AND CONCLUSIONS The BMDL of U-Cd for renal effect markers were 2.1 ( urinary protein ) , 2.6 ( \u03b22-MG ) and 4.1 ( NAG ) \u03bcg/g creatinine in men and 1.5 ( urinary protein ) , 1.4 ( \u03b22-MG ) and 3.1 ( NAG ) \u03bcg/g creatinine in women .
+The BMDLs in the present study may contribute to further discussion on health risk assessment of cadmium exposure , when compared to BMDLs obtained by previously reported methods .

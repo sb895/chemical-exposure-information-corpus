@@ -1,0 +1,6 @@
+A comparison of the Potential Dermal Exposure ( PDE ) of workers to the insecticide deltamethrin was made as a function of crop type , in small agricultural production units in Argentina .
+Seven experiments were done with two different crops ( maize and broccoli , treated area between 600 and 1000 m(2) ) with three different operators under typical field conditions using a lever operated knapsack .
+The methodology is based on the whole body dosimetry technique , presenting separately the data for mixing/loading and application activities .
+These results indicate a higher concentration of pesticide in lower body sections for broccoli and a wider distribution for maize .
+The risk inherent in these agricultural procedures is estimated through Margin of Safety ( MOS ) values and was found to be generally safe .
+Preliminary results of a mass balance distribution of the pesticide between crop , soil and operator are also presented .

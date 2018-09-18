@@ -1,0 +1,10 @@
+Personal exposure monitoring for select polycyclic aromatic hydrocarbons ( PAHs ) was performed as part of the National Human Exposure Assessment Survey ( NHEXAS ) Pilot Study in Baltimore , MD and in four surrounding counties ( NHEXAS-Maryland ) .
+An objective of this effort was to establish environmental exposure estimates for non-scripted subpopulations involved in their normal activities .
+Participants , children , and adults ( ages 13-84 ) were randomly selected from urban , suburban , and rural areas near Baltimore .
+Twenty-four hour PM(10) sample collections ( m(3) ) were performed using personal environmental monitors .
+Monitoring was performed for 47 households and 6 sampling Cycles during 1995-1996 .
+A total of 233 personal air samples were available from the participants with eight PAHs speciated ( e.g. , chrysene , benzo(a)pyrene ) as well as an aggregate grouping ( total carcinogenic PAHs ) .
+Results indicate that of the selected samples had detectable concentrations for 3 to 5 of the individual PAHs depending upon spatial setting .
+Noted differences were observed between exposure concentrations from individuals living in rural areas as compared to urban/suburban environments .
+Mean benzo(a)pyrene concentrations were observed to be 0.10 ng/m(3) across the entire sampling population .
+This represented a value well below the World Health Organization's 1.0 ng/m(3) ambient air guideline for this PAH .

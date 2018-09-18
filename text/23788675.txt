@@ -1,0 +1,8 @@
+We conducted a cross-sectional study to evaluate the interrelationships between past arsenic exposure , biomarkers specific for susceptibility to arsenic exposure , and carotid intima-media thickness ( cIMT ) in 959 subjects from the Health Effects of Arsenic Longitudinal Study in Bangladesh .
+We measured cIMT levels on average 7.2 years after baseline during 2010-2011 .
+Arsenic exposure was measured in well water at baseline and in urine samples collected at baseline and during follow-up .
+Every 1-standard-deviation increase in urinary arsenic ( 357.9 µg/g creatinine ) and well-water arsenic ( 102.0 µg/L ) concentration was related to a 11.7-µm ( 95% confidence interval ( CI ) : 1.8 , 21.6 ) and 5.1-µm ( 95% CI : -0.2 , 10.3 ) increase in cIMT , respectively .
+For every 10% increase in monomethylarsonic acid ( MMA ) percentage , there was an increase of 12.1 µm ( 95% CI : 0.4 , 23.8 ) in cIMT .
+Among participants with a higher urinary MMA percentage , a higher ratio of urinary MMA to inorganic arsenic , and a lower ratio of dimethylarsinic acid to MMA , the association between well-water arsenic and cIMT was stronger .
+The findings indicate an effect of past long-term arsenic exposure on cIMT , which may be potentiated by suboptimal or incomplete arsenic methylation capacity .
+Future prospective studies are needed to confirm the association between arsenic methylation capacity and atherosclerosis-related outcomes .

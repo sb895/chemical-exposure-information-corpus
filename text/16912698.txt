@@ -1,0 +1,6 @@
+New England is one of three areas in the United States with the highest annual deposition of mercury , an established environmental pollutant with a variety of health effects .
+We measured the mercury content in toenails of 27 individuals in New Hampshire who participated as controls in a health study in 1994-95 .
+The mean total toenail mercury concentration was 0.27 mcg/g ( median 0.16 ; SD 0.27 ; range 0.04-1.15 mcg/g ) .
+The best predictor of toenail mercury levels was the mean combined fish and shellfish consumption measured using four simple questions from a validated food frequency questionnaire .
+Toenail total mercury content was significantly correlated with the mean average weekly consumption of finfish and shellfish ( Spearman correlation coefficient 0.48 , P=0.012 ) .
+Multivariate models confirmed that toenail total mercury concentration was best predicted by total finfish and shellfish consumption .

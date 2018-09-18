@@ -1,0 +1,6 @@
+Physiologically based pharmacokinetic ( PBPK ) modeling was used to assess the low-dose exposure of patients to the carcinogen 2 , 4-toluenediamine ( 2,4-TDA ) released from the degradation of the polyester urethane foam ( PU ) used in Meme silicone breast implants .
+The tissues are represented as five compartments : liver , kidney , gastrointestinal tract , slowly perfused tissues ( e.g. , fat ) , and richly perfused tissues ( e.g. , muscle ) .
+The PBPK model was fitted to the plasma and urine concentrations of 2,4-TDA and its metabolite 4-AAT ( 4-N-acetyl-2-amino toluene ) in rats given low doses of 2 , 4-TDA intravenously and subcutaneously .
+The rat model was extrapolated to simulate oral and implant routes in rats .
+After adjusting for human physiological parameters , the model was then used to predict the bioavailability of 2,4-TDA released from a typical 4.87-g polyester urethane foam implant found in a patient who weighed 58 kg with the Meme and had the breast implant for 10 years .
+A quantitative risk assessment for 2,4-TDA was performed and the polyester urethane foam did present an unreasonable risk to health for the patient .

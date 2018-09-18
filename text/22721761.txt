@@ -1,0 +1,12 @@
+BACKGROUND Parabens are suspected endocrine disruptors and ubiquitous preservatives used in personal care products , pharmaceuticals , and foods .
+No studies have assessed the variability of parabens in women , including during pregnancy .
+OBJECTIVE We evaluated predictors and variability of urinary paraben concentrations .
+METHODS We measured urinary concentrations of methyl ( MP ) , propyl ( PP ) , and butyl paraben ( BP ) among couples from a fertility center .
+Mixed-effects regression models were fit to examine demographic predictors of paraben concentrations and to calculate intraclass correlation coefficients ( ICCs ) .
+RESULTS Between 2005 and 2010 , we collected 2,721 spot urine samples from 245 men and 408 women .
+The median concentrations were 112 µg/L ( MP ) , 24.2 µg/L ( PP ) , and 0.70 µg/L ( BP ) .
+Urinary MP and PP concentrations were 4.6 and 7.8 times higher in women than men , respectively , and concentrations of both MP and PP were 3.8 times higher in African Americans than Caucasians .
+MP and PP concentrations were slightly more variable in women ( ICC = 0.42 , 0.43 ) than men ( ICC = 0.54 , 0.51 ) , and were weakly correlated between partners ( r = 0.27-0.32 ) .
+Among 129 pregnant women , urinary paraben concentrations were 25-45% lower during pregnancy than before pregnancy , and MP and PP concentrations were more variable ( ICCs of 0.38 and 0.36 compared with 0.46 and 0.44 , respectively ) .
+CONCLUSIONS Urinary paraben concentrations were more variable in women compared with men , and during pregnancy compared with before pregnancy .
+However , results for this study population suggest that a single urine sample may reasonably represent an individual's exposure over several months , and that a single sample collected during pregnancy may reasonably classify gestational exposure .

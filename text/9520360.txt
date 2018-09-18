@@ -1,0 +1,10 @@
+In 1976 , near Seveso , Italy , an industrial accident caused the release of large quantities of 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) into the atmosphere , resulting in the highest levels of the toxicant ever recorded in humans .
+The contaminated area was divided into three zones ( A , B , R ) corresponding to decreasing TCDD levels in soil , and cohort including all residents was enumerated .
+The population of the surrounding noncontaminated area ( non-ABR ) was chosen as referent population .
+Two decades after the accident. plasma TCDD levels were measured in 62 subjects randomly sampled from the highest exposed zones ( A and B ) and 59 subjects from non-ABR , frequency matched for age , gender , and cigarette smoking status .
+Subjects living in the exposed areas have persistently elevated plasma TCDD levels ( range = 1.2-89.9 ppt ; geometric mean = 53.2 and 11.0 ppt for Zone A and Zone B , respectively ) .
+Levels significantly decrease by distance from the accident site ( p = 0.0001 ) , down to general population values ( 4.9 ppt ) in non-ABR , thus validating the original zone classification based on environmental measurements .
+Women have higher TCDD levels than men in the entire study area ( p = 0.0003 in Zone B ; p = 0.007 in non-ABR ) .
+This gender difference persists after adjustment for location within the zone , consumption of meat derived from locally raised animals , age , body mass index , and smoking .
+There is no evidence for a gender difference in exposure , so variation in metabolism or elimination due to body fat or hormone-related factors may explain this finding .
+Elevated TCDD levels in women may contribute to adverse reproductive , developmental , and cancer outcomes .

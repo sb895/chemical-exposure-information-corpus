@@ -1,0 +1,8 @@
+Exposure to manganese via inhalation has long been known to elicit neurotoxicity in adults , but little is known about possible consequences of exposure via drinking water .
+In this study , we report results of a cross-sectional investigation of intellectual function in 142 10-year-old children in Araihazar , Bangladesh , who had been consuming tube-well water with an average concentration of 793 microg Mn/L and 3 microg arsenic/L .
+Children and mothers came to our field clinic , where children received a medical examination in which weight , height , and head circumference were measured .
+Children's intellectual function was assessed on tests drawn from the Wechsler Intelligence Scale for Children , version III , by summing weighted items across domains to create Verbal , Performance , and Full-Scale raw scores .
+Children provided urine specimens for measuring urinary As and creatinine and were asked to provide blood samples for measuring blood lead , As , Mn , and hemoglobin concentrations .
+After adjustment for sociodemographic covariates , water Mn was associated with reduced Full-Scale , Performance , and Verbal raw scores , in a dose-response fashion ; the low level of As in water had no effect .
+In the United States , roughly 6% of domestic household wells have Mn concentrations that exceed 300 microg Mn/L , the current U.S. Environmental Protection Agency lifetime health advisory level .
+We conclude that in both Bangladesh and the United States , some children are at risk for Mn-induced neurotoxicity .

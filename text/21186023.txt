@@ -1,0 +1,14 @@
+BACKGROUND Polychlorinated biphenyls ( PCBs ) , dibenzofurans ( PCDFs ) , and dibenzo-dioxins ( PCDDs ) may affect the female reproductive system in humans .
+A mass poisoning occurred in Taiwan due to PCBs/PCDFs-contaminated cooking oil , and was called the Yucheng ( oil-disease in Chinese ) .
+We aimed to determine whether Yucheng women were affected in their menstruation .
+METHODS After the event , we followed the exposed individuals and an age-matched neighborhood reference group .
+Menstrual cycle characteristics and age at menarche were obtained by a telephone interview .
+We used multiple linear and logistic regression to examine the association between PCBs/PCDFs and menstrual cycle characteristics , after adjusting for confounding factors .
+RESULTS Totally 445 women responded satisfactorily and were included in the analyses of menstrual characteristics .
+Menstrual cycle irregularity and dysmenorrheal did not differ between Yucheng and referents .
+Yucheng women's menstrual cycles were 0.5 ( 95% CI : 0.0-0.5 ; p=0.03 ) days shorter than those of the referents .
+The Yucheng women with skin lesions caused by PCBs/PCDFs were more prominently affected , with the cycles 1.2 days shorter than the referents .
+Yucheng women exposed to PCBs/PCDFs at the premenacheal period had reduced cycle length ( -0.7 day , 95% CI : -1.4 to 0.0 ; p=0.04 ) and longer days of menstrual flow ( 0.5 day , 95% CI : 0.0-1.0 ; p=0.04 ) .
+Among those women who were exposed at an age of 5-9 years , menarche started slightly earlier with borderline significance .
+CONCLUSIONS Shorter menstrual cycle length and a longer duration of bleeding in each cycle were found among women previously exposed to PCBs/PCDFs .
+These effects were more obviously observed among those exposed at premenarcheal ages .

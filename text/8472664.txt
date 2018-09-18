@@ -1,0 +1,12 @@
+The purpose of this study was to determine the prevalence rates of acute and chronic neurologic symptoms among paint workers and the association of such symptoms with the severity of exposure to mixtures of solvents .
+Two paint manufacturing factories and 25 various kinds of spray painting factories were selected for study .
+Air concentrations of organic solvents were measured by personal samplers and were analyzed by gas chromatography .
+A total of 196 workers were given a screening neurological examination and a questionnaire on acute and chronic neurologic symptoms .
+A detailed personal medical history and a profile on alcohol consumption and medication were also included .
+The results showed that xylenes and toluene were the major solvents found in almost all the air samples with average contents of 50 and 24% on a weight basis of 73 air samples .
+We classified workers according to different exposure patterns and different air concentrations of breathing zones : high ( 8-hr hygienic effect , 0.25-9.86 ; median , 1.66 ) , short-term high ( hygienic effect , 0-3.38 ; median , 0.12 ) , and low ( hygienic effect , 0-0.38 ; median , 0.12 ) .
+All workers showed no overt neurological signs such as ataxic gait , poor coordination , or muscle weakness .
+After excluding those workers who consumed more than 280 g of alcohol per week ( n = 8 ) , took antihypertensive medications ( n = 4 ) , or were treated with antipsychotic agents ( n = 1 ) , we found that the severity of exposure was associated with acute symptoms of headache and chest tightness and chronic symptoms of dizziness , easy fatigability , depressed mood , and palpitation .
+There was no association between peripheral neurological symptoms and the severity of exposure .
+Workers in the high exposure group were 2.7 times more likely to develop two or more acute symptoms and 3.3 times more likely to develop three or more chronic symptoms of the central nervous system than the low exposure group .
+After modeling by multiple logistic regression , we concluded that exposure to a medium level of mixtures of solvents ( hygienic effect exceeding 1.66 ) may produce acute and chronic central neurological symptoms .

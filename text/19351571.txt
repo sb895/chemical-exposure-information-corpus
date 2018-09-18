@@ -1,0 +1,16 @@
+Polybrominated diphenyl ethers ( PBDEs ) are lipophilic , persistent pollutants found worldwide in environmental and human samples .
+Exposure pathways for PBDEs remain unclear but may include food , air and dust .
+The aim of this study was to conduct an integrated assessment of PBDE exposure and human body burden using 10 matched samples of human milk , indoor air and dust collected in 2007-2008 in Brisbane , Australia .
+In addition , temporal analysis was investigated comparing the results of the current study with PBDE concentrations in human milk collected in 2002-2003 from the same region .
+PBDEs were detected in all matrices and the median concentrations of BDEs -47 and -209 in human milk , air and dust were : 4.2 and 0.3 ng/g lipid ; 25 and 7.8 pg/m(3) ; and 56 and 291 ng/g dust , respectively .
+Significant correlations were observed between the concentrations of BDE-99 in air and human milk ( r=0.661 , p=0.038 ) and BDE-153 in dust and BDE-183 in human milk ( r=0.697 , p=0.025 ) .
+These correlations do not suggest causal relationships - there is no hypothesis that can be offered to explain why BDE-153 in dust and BDE-183 in milk are correlated .
+The fact that so few correlations were found in the data could be a function of the small sample size , or because additional factors , such as sources of exposure not considered or measured in the study , might be important in explaining exposure to PBDEs .
+There was a slight decrease in PBDE concentrations from 2002-2003 to 2007-2008 but this may be due to sampling and analytical differences .
+Overall , average PBDE concentrations from these individual samples were similar to results from pooled human milk collected in Brisbane in 2002-2003 indicating that pooling may be an efficient , cost-effective strategy of assessing PBDE concentrations on a population basis .
+The results of this study were used to estimate an infant's daily PBDE intake via inhalation , dust ingestion and human milk consumption .
+Differences in PBDE intake of individual congeners from the different matrices were observed .
+Specifically , as the level of bromination increased , the contribution of PBDE intake decreased via human milk and increased via dust .
+As the impacts of the ban of the lower brominated ( penta- and octa-BDE ) products become evident , an increased use of the higher brominated deca-BDE product may result in dust making a greater contribution to infant exposure than it does currently .
+To better understand human body burden , further research is required into the sources and exposure pathways of PBDEs and metabolic differences influencing an individual's response to exposure .
+In addition , temporal trend analysis is necessary with continued monitoring of PBDEs in the human population as well as in the suggested exposure matrices of food , dust and air .

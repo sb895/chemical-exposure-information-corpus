@@ -1,0 +1,10 @@
+The aim of this study was to evaluate the association between persistent organic pollutants ( POPs ) and thyroid hormones in an aging population .
+Forty-eight women and 66 men , aged 55-74 years and living in upper Hudson River communities completed a questionnaire and provided blood specimens .
+Serum was analyzed for thyrotropin ( thyroid stimulating hormone , TSH ) , free ( fT4 ) and total thyroxine ( T4 ) , total triiodothyronine ( T3 ) , and for POPs .
+POPs included 39 polychlorinated biphenyls ( PCBs ) , dichlorodiphenyltrichloroethane ( DDT ) and dichlorodiphenyldichloroethylene ( DDE ) determined by gas chromatography with electron capture detection ( GC-ECD ) , and nine polybrominated diphenyl ethers ( PBDEs ) determined by high-resolution gas chromatography with high-resolution mass spectrometry detection ( HRGC-HRMS ) .
+Multivariable linear regression analysis was used to evaluate associations between thyroid hormones and sums of POPs , adjusted for covariates and stratified by sex .
+Effects were expressed as differences in thyroid hormone levels associated with a doubling in the level of exposure .
+Among women , DDT+DDE increased T4 by 0.34\u03bcg/dL ( P=0.04 ) and T3 by 2.78ng/dL ( P=0.05 ) .
+Also in women , sums of PCBs in conjunction with PBDEs elicited increases of 24.39-80.85ng/dL T3 ( P<0.05 ) , and sums of PCBs in conjunction with DDT+DDE elicited increases of 0.18-0.31\u03bcg/dL T4 ( P<0.05 ) .
+For men estrogenic PCBs were associated with a 19.82ng/dL T3 decrease ( P=0.003 ) , and the sum of estrogenic PCBs in conjunction with DDT+DDE elicited an 18.02ng/dL T3 decrease ( P=0.04 ) .
+Given age-related declines in physiologic reserve , the influence of POPs on thyroid hormones in aging populations may have clinical implications and merits further investigation .

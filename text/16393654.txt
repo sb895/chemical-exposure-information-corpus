@@ -1,0 +1,11 @@
+Many epidemiologic studies provide evidence of an association between daily counts of mortality and ambient particulate matter<10 microm in diameter ( PM10 ) .
+Relatively few studies , however , have investigated the relationship of mortality with fine particles [ PM<2.5 microm in diameter ( PM2.5) ] , especially in a multicity setting .
+We examined associations between PM2.5 and daily mortality in nine heavily populated California counties using data from 1999 through 2002 .
+We considered daily counts of all-cause mortality and several cause-specific subcategories ( respiratory , cardiovascular , ischemic heart disease , and diabetes ) .
+We also examined these associations among several subpopulations , including the elderly ( >65 years of age ) , males , females , non-high school graduates , whites , and Hispanics .
+We used Poisson multiple regression models incorporating natural or penalized splines to control for covariates that could affect daily counts of mortality , including time , seasonality , temperature , humidity , and day of the week .
+We used meta-analyses using random-effects models to pool the observations in all nine counties .
+The analysis revealed associations of PM2.5 levels with several mortality categories .
+Specifically , a 10-microg/m3 change in 2-day average PM2.5 concentration corresponded to a 0.6% ( 95% confidence interval , 0.2-1.0% ) increase in all-cause mortality , with similar or greater effect estimates for several other subpopulations and mortality subcategories , including respiratory disease , cardiovascular disease , diabetes , age>65 years , females , deaths out of the hospital , and non-high school graduates .
+Results were generally insensitive to model specification and the type of spline model used .
+This analysis adds to the growing body of evidence linking PM2.5 with daily mortality .

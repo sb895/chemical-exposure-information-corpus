@@ -1,0 +1,17 @@
+Maternal and umbilical cord blood levels of mercury ( Hg ) , lead ( Pb ) , cadmium ( Cd ) , and the trace elements copper ( Cu ) , zinc ( Zn ) , and selenium ( Se ) are reported for Inuit , Dene/Métis , Caucasian , and Other nonaboriginal participants from Arctic Canada .
+This is the first human tissue monitoring program covering the entire Northwest Territories and Nunavut for multiple contaminants and establishes a baseline upon which future comparisons can be made .
+Results for chlorinated organic pesticides and PCBs for these participants have been reported elsewhere .
+Between May 1994 and June 1999 , 523 women volunteered to participate by giving their written informed consent , resulting in the collection of 386 maternal blood samples , 407 cord samples , and 351 cord:maternal paired samples .
+Geometric mean ( GM ) maternal total mercury ( THg ) concentrations ranged from 0.87 microg/L ( SD = 1.95 ) in the Caucasian group of participants ( n = 134 ) to 3.51 microg/L ( SD = 8.30 ) in the Inuit group ( n = 146 ) .
+The GM of the Inuit group was 2.6-fold higher than that of the Dene/Métis group ( 1.35 microg/L , SD = 1.60 , n = 92 ) and significantly higher than those of all other groups ( P<0.0001 ) .
+Of Inuit women participants , 3% ( n = 4 ) were within Health Canada's level of concern range ( 20-99 microg/L ) for methylmercury ( MeHg ) exposure .
+Of Inuit and Dene/Métis cord samples , 56% ( n = 95 ) and 5% ( n = 4 ) , respectively , exceeded 5.8 microg/L MeHg , the revised US Environmental Protection Agency lower benchmark dose .
+GM maternal Pb was significantly higher in Dene/Métis ( 30.9 microg/L or 3.1 microg/dL ; SD = 29.1 microg/L ) and Inuit ( 31.6 microg/L , SD = 38.3 ) participants compared with the Caucasian group ( 20.6 microg/L , SD = 17.9 ) ( P < 0.0001 ) .
+Half of all participants were smokers .
+GM blood Cd in moderate smokers ( 1-8 cigarettes/day ) and in heavy smokers ( > 8 cigarettes/day ) was 7.4-fold higher and 12.5-fold higher , respectively , than in nonsmokers .
+The high percentage of smokers among Inuit ( 77% ) and Dene/Métis ( 48% ) participants highlights the need for ongoing public health action directed at tobacco prevention , reduction , and cessation for women of reproductive age .
+Pb and THg were detected in more than 95% of all cord blood samples , with GMs of 21 microg/L and 2.7 microg/L , respectively , and Cd was detected in 26% of all cord samples , with a GM of 0.08 microg/L .
+Cord:maternal ratios from paired samples ranged from 0.44 to 4.5 for THg , from 0.5 to 10.3 for MeHg , and 0.1 to 9.0 for Pb .
+On average , levels of THg , MeHg , and Zn were significantly higher in cord blood than in maternal blood ( P < 0.0001 ) , whereas maternal Cd , Pb , Se , and Cu levels were significantly higher than those in cord blood ( P < 0.0001 ) .
+There was no significant relationship between methylmercury and selenium for the range of MeHg exposures in this study .
+Ongoing monitoring of populations at risk and traditional food species , as well as continued international efforts to reduce anthropogenic sources of mercury , are recommended .

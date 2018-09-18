@@ -1,0 +1,11 @@
+We evaluated exposure to pesticides among secondary school students aged 12-13 years old in Chiang Mai Province , Thailand .
+Pesticide-specific urinary metabolites were used as biomarkers of exposure for a variety of pesticides , including organophosphorus insecticides , synthetic pyrethroid insecticides and selected herbicides .
+We employed a simple solid-phase extraction with analysis using isotope dilution high-performance liquid chromatography tandem mass spectrometry ( HPLC-MS/MS ) .
+A total of 207 urine samples from Thai students were analyzed for 18 specific pesticide metabolites .
+We found 14 metabolites in the urine samples tested ; seven of them were detected with a frequency > or=17% .
+The most frequently detected metabolites were 2-[(dimethoxyphosphorothioyl) sulfanyl ] succinic acid ( malathion dicarboxylic acid ) , para-nitrophenol ( PNP ) , 3,5,6-trichloro-2-pyridinol ( TPCY ; metabolite of chlorpyrifos ) , 2,4-dichlorophenoxyacetic acid ( 2,4-D ) , cis- and trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane-1-carboxylic acids ( c-DCCA and t-DCCA ; metabolite of permethrin ) and 3-phenoxybenzoic acid ( 3-PBA ; metabolite of pyrethroids ) .
+The students were classified into 4 groups according to their parental occupations : farmers ( N=60 ) , merchants and traders ( N=39 ) , government and company employees ( N=52 ) , and laborers ( N=56 ) .
+Children of farmers had significantly higher urinary concentrations of pyrethroid insecticide metabolites than did other children ( p<0.05 ) .
+Similarly , children of agricultural families had significantly higher pyrethroid metabolite concentrations .
+Males had significantly higher values of PNP ( Mann-Whitney test , p=0.009 ) ; however , no other sex-related differences were observed .
+Because parental occupation and agricultural activities seemed to have little influence on pesticide levels , dietary sources were the likely contributors to the metabolite levels observed .

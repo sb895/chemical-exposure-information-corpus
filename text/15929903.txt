@@ -1,0 +1,7 @@
+We report the results of a screen for genetic association with urinary arsenic metabolite levels in three arsenic metabolism candidate genes , PNP , GSTO , and CYT19 , in 135 arsenic-exposed subjects from the Yaqui Valley in Sonora , Mexico , who were exposed to drinking water concentrations ranging from 5.5 to 43.3 ppb .
+We chose 23 polymorphic sites to test in the arsenic-exposed population .
+Initial phenotypes evaluated included the ratio of urinary inorganic arsenic(III) to inorganic arsenic(V) and the ratio of urinary dimethylarsenic(V) to monomethylarsenic(V) ( D:M ) .
+In the initial association screening , three polymorphic sites in the CYT19 gene were significantly associated with D:M ratios in the total population .
+Subsequent analysis of this association revealed that the association signal for the entire population was actually caused by an extremely strong association in only the children ( 7-11 years of age ) between CYT19 genotype and D:M levels .
+With children removed from the analysis , no significant genetic association was observed in adults ( 18-79 years ) .
+The existence of a strong , developmentally regulated genetic association between CYT19 and arsenic metabolism carries import for both arsenic pharmacogenetics and arsenic toxicology , as well as for public health and governmental regulatory officials .

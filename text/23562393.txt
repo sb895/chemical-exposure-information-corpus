@@ -1,0 +1,7 @@
+BACKGROUND AND OBJECTIVE Major risk factors for congestive heart failure ( CHF ) are myocardial infarction , hypertension , diabetes , atrial fibrillation , smoking , left ventricular hypertrophy ( LVH ) and obesity .
+However , since these risk factors only explain part of the risk of CHF , we investigated whether persistent organic pollutants ( POPs ) might also play a role .
+METHODS In the Prospective Investigation of the Vasculature in Uppsala Seniors ( PIVUS ) study , left ventricular ejection fraction , ( EF ) , E/A-ratio and isovolumic relaxation time ( IVRT ) , were determined by echocardiography and serum samples of 21 POPs were analyzed in serum measured by high-resolution chromatography coupled to high-resolution mass spectrometry ( HRGC/HRMS ) in 998 subjects all aged 70 years .
+RESULTS In this cross-sectional analysis , high levels of several of the polychlorinated biphenyls ( PCB congeners 99 , 118 , 105 , 138 , 153 , and 180 ) and octachlorodibenzo-p-dioxin ( OCDD ) were significantly related to a decreased EF .
+Some POPs were also related to a decreased E/A-ratio ( PCBs 206 and 209 ) .
+All the results were adjusted for gender , hypertension , diabetes , smoking , LVH and BMI , and subjects with myocardial infarction or atrial fibrillation were excluded from the analysis .
+CONCLUSIONS Circulating levels of POPs were related to impairments in both left ventricular systolic and diastolic function independently of major congestive heart failure risk factors , suggesting a possible role of POPs in heart failure .

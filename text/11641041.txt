@@ -1,0 +1,7 @@
+To evaluate the significance of cadmium ( Cd ) concentrations in blood ( B-Cd ) and hair ( H-Cd ) as an indicator of dose , a cross-sectional study was performed on 40 residents in a Cd-polluted area , Nagasaki Prefecture , Japan , in 1996 .
+In the study area , soil replacement of Cd-polluted rice fields ended in 1981 .
+B-Cd and H-Cd were significantly higher in the study population than in the control subjects .
+B-Cd was positively correlated with urinary Cd ( U-Cd ) ( Spearman r=0.50 , P=0.06 for males and r=0.72 , P=0.0001 for females ) , while H-Cd was weakly or moderately correlated with U-Cd .
+After adjustment for gender using logistic regression analysis , log(B-Cd) and log(U-Cd) , but not log(H-Cd) , were significantly associated with the prevalence of increased urinary beta2-microglobulin ( P for trend <0.05 ) .
+These findings suggest that B-Cd is a good indicator of cumulative dose many years after the reduction of environmental exposure to Cd .
+H-Cd may be weakly or moderately correlated with body burden .

@@ -1,0 +1,12 @@
+Seafood consumption is associated with both risks and beneficial effects to human health .
+Consequently , an integrated exposure assessment of intake of toxic and nutritious agents in seafood is of importance prior to determination of dietary advisories .
+We have developed a probabilistic model for the estimation of simultaneous intake of methylmercury ( MeHg ) and long-chain n-3 polyunsaturated fatty acids ( LC-n3 PUFAs ) from seafood , to estimate the population proportion at risk for exceeding tolerable MeHg intake and not reaching adequate intake of PUFAs .
+Seafood consumption data was collected among women of childbearing age using a food frequency questionnaire .
+A database of mercury and fatty acids concentration in seafood was constructed .
+A Latin Hypercube simulation was used to calculate the intake of MeHg and LC n-3 PUFAs .
+Eleven percent of the population exceeded the MeHg reference dose of 0.1 \u03bcg/kg bw/day , whereas only 44% reached an adequate PUFA intake .
+A small proportion ( 3.7% ) exceeded the MeHg reference dose while at the same time did not reach an adequate PUFA intake .
+Furthermore , we simulated two scenarios in which seafood is consumed according to a general recommendation of three servings per week , whereof one serving of oily seafood .
+The first scenario included seafood with typically low MeHg concentrations ( mean 0.056 and 0.027 \u03bcg MeHg/g fish in lean and oily species , respectively ) , and the second included seafood typically high in MeHg concentrations ( mean 0.50 and 0.26 \u03bcg MeHg/g fish in lean and oily species , respectively ) .
+In the " high"scenario , almost 100% of the population exceeded the reference dose , whereas the corresponding proportion was only 5% in the " low " scenario .
+Overall , the results stress the importance of communicating species specific seafood consumption advisories for women of childbearing age in general and for pregnant women in particular , while at the same time encourage them to consume more seafood .

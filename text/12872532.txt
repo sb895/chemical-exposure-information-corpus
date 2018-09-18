@@ -1,0 +1,10 @@
+Reference values for environmental pollutants related to the German population are established continuously by the Human Biomonitoring Commission of the German Federal Environmental Agency .
+The revised and new reference values for organochlorine compounds in whole blood are derived from the German Environmental Survey 1998 ( adults aged 18-69 years ) and from a survey performed with children ( age 9-11 years ) in south-west Germany 1998/99 .
+The levels of organochlorine compounds in blood of adults increased with increasing age .
+Therefore the reference values are revised for different age groups ( age groups : 18-19 , 20-29 , 30-39 , 40-49 , 50-59 , 60-69 ) .
+The reference values for PCB 138 in whole blood range from 0.4 to 2.2 micrograms/l , for PCB 153 from 0.6 to 3.3 micrograms/l , for PCB 180 from 0.3 to 2.4 micrograms/l , for beta-HCH from 0.3 to 0.9 microgram/l and for HCB from 0.4 to 5.8 micrograms/l .
+The reference values for DDE among adults in East Germany are higher compared to those in West Germany .
+The reference values of DDE in blood for adults in West Germany increase from 1.5 micrograms/l to 11 micrograms/l for the different age groups .
+The corresponding results for East Germany are 3 and 31 micrograms/l .
+The following reference values in blood of children ( age 9-11 years ) are recommended : 0.3 microgram/l for PCB 138 , 0.4 microgram/l for PCB 153 , 0.3 microgram/l for PCB 180 , 0.9 microgram/l for sum of PCB ( 138 + 153 + 180 ) , 0.3 microgram/l for beta-HCH , 0.3 microgram/l for HCB and 0.7 microgram/l for DDE .
+In comparison with the former evaluation the revised reference values for PCB , beta-HCH and HCB levels in blood were reduced especially for younger adults .

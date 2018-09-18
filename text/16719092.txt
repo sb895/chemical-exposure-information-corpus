@@ -1,0 +1,10 @@
+Recent studies have reported the ubiquitous distribution of perfluorinated compounds ( PFCs ) , especially perfluorooctanesulfonate ( PFOS ) and perfluorooctanoic acid ( PFOA ) , in wildlife and human whole blood or serum .
+In 2003 a solid phase extraction method was developed , which allowed the measurement of PFCs in human breast milk .
+In the present study , PFCs in samples of human breast milk from 19 individuals from Zhoushan , China , were analyzed by modifying a previously established method , based on weak-anion exchange extraction .
+PFOS and PFOA were the two dominant chemicals detected in all the milk samples .
+Concentrations of PFOS and PFOA ranged from 45 to 360 ng/L and 47 to 210 ng/L , respectively .
+The maximum concentrations of other PFCs were 100 ng/L for perfluorohexanesulfonate ( PFHxS ) , 62 ng/L for perfluorononanoate ( PFNA ) , 15 ng/L for perfluorodecanoate ( PFDA ) and 56 ng/L for perfluoroundecanoate ( PFUnDA ) .
+Statistically significant correlations between various PFCs suggested a common exposure source to humans .
+No statistically significant correlation was found between concentrations of either PFOS or PFOA and maternal age , weight , or infant weight .
+Rate of consumption of fish was found to be positively correlated with PFNA , PFDA , and PFUnDA concentrations .
+Daily intake of PFOS for the child via breast milk with greater PFOS concentrations exceeded the predicted conservative reference dose in 1 of 19 samples , indicating that there may be a small potential risk of PFOS for the infants in Zhoushan via the consumption of breast milk .

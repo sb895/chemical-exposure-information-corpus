@@ -1,0 +1,9 @@
+We conducted a cross-sectional analysis of individuals 45-79 years old in the National Health and Nutrition Examination Survey III ( 1988-1994 ) ( NHANES III ) .
+Myocardial infarction was determined by electrocardiogram ( ECG ) .
+Our sample included 4912 participants , which when weighted represented 52,234,055 Americans .
+We performed adjusted logistic regressions with the Framingham risk score , pack-years of smoking , race-ethnicity , and family history of heart attack , and diabetes as covariates .
+Urinary cadmium >or= 0.88 microg/g creatinine had an odds ratio of 1.86 ( 95% CI 1.26-2.75 ) compared to urinary cadmium <0.43 microg/g creatinine .
+This result supports the hypothesis that cadmium is associated with coronary heart disease .
+When logistic regressions were done by gender , women , but not men , showed a significant association of urinary cadmium with myocardial infarction .
+Women with urinary cadmium >or= 0.88 microg/g creatinine had an odds ratio of 1.80 ( 95% CI 1.06-3.04 ) compared to urinary cadmium <0.43 microg/g creatinine .
+When the analysis was restricted to never smokers ( N=2187 ) urinary cadmium >or= 0.88 microg/g creatinine had an odds ratio of 1.85 ( 95% CI 1.10-3.14 ) compared to urinary cadmium <0.43 microg/g creatinine .

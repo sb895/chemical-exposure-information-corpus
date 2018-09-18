@@ -1,0 +1,8 @@
+BACKGROUND There are limited prospective data on long-term exposure to air pollution and effects on childhood respiratory morbidity .
+We investigated the development of asthma and related symptoms longitudinally over the first 12 years of life in relation to air pollution from road traffic .
+METHODS The Swedish birth cohort BAMSE ( Children , Allergy , Milieu , Stockholm , Epidemiological Survey ) includes 4089 children who were followed up with repeated questionnaires and blood samples for up to 12 years of age .
+Residential , daycare , and school addresses , time-activity patterns , emission databases , and dispersion models were used to estimate individual exposure to particulate matter with aerodynamic diameter <10 \u03bcm ( PM10 ) and nitrogen oxides ( NOx ) from traffic .
+RESULTS Overall , the data suggested possible associations between exposure to air pollution during the first year of life and asthma and wheezing in children up to 12 years of age .
+Asthma risks seemed to be particularly increased in children age 8 to 12 years ; the overall odds ratio was 2.0 ( 95% confidence interval = 1.1-3.5 ) , and for nonallergic asthma , the odds ratio was 3.8 ( 0.9-16.2 ) for a 5th to 95th percentile increase in time-weighted average exposure to PM10 ( corresponding to 7.2 µg/m ) .
+Results were similar using exposure to traffic-NOx .
+CONCLUSIONS We found modest positive associations between air pollution exposure from traffic during infancy and asthma in children during the first 12 years of life , with stronger effects suggested for nonallergic asthma .

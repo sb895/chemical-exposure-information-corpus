@@ -1,0 +1,13 @@
+CONTEXT Arsenic has been documented as a lung carcinogen in humans in only a few follow-up studies , which were limited by a small number of cases or the lack of information on cigarette smoking .
+OBJECTIVES To elucidate the dose-response relationship between ingested arsenic and lung cancer and to assess the effect of cigarette smoking on the arsenic-lung cancer association .
+DESIGN , SETTING , AND PARTICIPANTS A total of 2503 residents in southwestern and 8088 in northeastern arseniasis-endemic areas in Taiwan were followed up for an average period of 8 years .
+Information on arsenic exposure , cigarette smoking , and other risk factors was collected at enrollment through standardized questionnaire interview .
+MAIN OUTCOME MEASURES The incidence of lung cancer was ascertained through linkage with national cancer registry profiles in Taiwan ( January 1985-December 2000 ) .
+The joint effect of arsenic and cigarette smoking was estimated by both etiologic fraction and synergy index .
+RESULTS There were 139 newly diagnosed lung cancer cases during a follow-up period of 83,783 person-years .
+After adjustment for cigarette smoking and other risk factors , there was a monotonic trend of lung cancer risk by arsenic level in drinking water of less than 10 to 700 microg/L or more ( P<.001 ) .
+The relative risk was 3.29 ( 95% confidence interval , 1.60-6.78 ) for the highest arsenic level compared with the lowest .
+The etiologic fraction of lung cancer attributable to the joint exposure of ingested arsenic and cigarette smoking ranged from 32% to 55% .
+The synergy indices ranged from 1.62 to 2.52 , indicating a synergistic effect of ingested arsenic and cigarette smoking on lung cancer .
+CONCLUSIONS There was a significant dose-response trend of ingested arsenic on lung cancer risk , which was more prominent among cigarette smokers .
+The risk assessment of lung cancer induced by ingested arsenic should take cigarette smoking into consideration .

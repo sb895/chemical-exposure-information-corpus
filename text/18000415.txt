@@ -1,0 +1,7 @@
+OBJECTIVE To characterize the effects of maternal arsenic exposure on birth weight .
+METHODS Hair , toenail , and drinking water samples were collected from pregnant women ( n = 52 ) at multiple time points during pregnancy and from their newborns after birth .
+Total arsenic was measured using inductively coupled plasma-mass spectrometry .
+The association between arsenic and birth weight was investigated using linear and logistic regression models .
+RESULTS Maternal hair arsenic measured early in pregnancy was associated with decreased birth weight ( beta = -193.5 +/- 90.0 g , P = 0.04 ) .
+Maternal hair and drinking water arsenic levels measured at first prenatal visit were significantly correlated with newborn hair arsenic level ( rho = 0.32 , P = 0.04 and rho = 0.31 , P = 0.04 ) .
+CONCLUSIONS Results suggest that maternal arsenic exposure early in pregnancy negatively affects newborn birth weight and that maternal hair provides the best integrated measure of arsenic exposure .

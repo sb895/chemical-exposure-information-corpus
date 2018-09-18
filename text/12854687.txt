@@ -1,0 +1,10 @@
+Estimating the nature and extent of human cancer risks due to arsenic ( As ) in drinking water is currently of great concern , since millions of persons worldwide are exposed to arsenic , primarily through natural enrichment of drinking water drawn from deep wells .
+Humans metabolize and eliminate As through oxidative methylation and subsequent urinary excretion .
+While there is debate as to the role of methylation in activation/detoxification , variations in arsenic metabolism may affect individual risks of toxicity and carcinogenesis .
+Using data from three populations , from Mexico , China , and Chile , we have analyzed the distribution in urine of total arsenic and arsenic species ( inorganic arsenic ( InAs ) , monomethyl arsenic ( MMA ) , and dimethyl arsenic ( DMA ) .
+Data were analyzed in terms of the concentration of each species and by evaluating MMA:DMA and ( MMA+DMA):InAs ratios .
+In all persons most urinary As was present as DMA .
+Male:female differences were discernible in both high- and low-exposure groups from all three populations , but the gender differences varied by populations .
+The data also indicated bimodal distributions in the ratios of DMA to InAs and to MMA .
+While the gene or genes responsible for arsenic methylation are still unknown , the results of our studies among the ethnic groups in this study are consistent with the presence of functional genetic polymorphisms in arsenic methylation leading to measurable differences in toxicity .
+This analysis highlights the need for continuing research on the health effects of As in humans using molecular epidemiologic methods .

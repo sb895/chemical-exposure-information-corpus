@@ -1,0 +1,12 @@
+CONTEXT Bisphenol A ( BPA ) is widely used in epoxy resins lining food and beverage containers .
+Evidence of effects in animals has generated concern over low-level chronic exposures in humans .
+OBJECTIVE To examine associations between urinary BPA concentrations and adult health status .
+DESIGN , SETTING , AND PARTICIPANTS Cross-sectional analysis of BPA concentrations and health status in the general adult population of the United States , using data from the National Health and Nutrition Examination Survey 2003-2004 .
+Participants were 1455 adults aged 18 through 74 years with measured urinary BPA and urine creatinine concentrations .
+Regression models were adjusted for age , sex , race/ethnicity , education , income , smoking , body mass index , waist circumference , and urinary creatinine concentration .
+The sample provided 80% power to detect unadjusted odds ratios ( ORs ) of 1.4 for diagnoses of 5% prevalence per 1-SD change in BPA concentration , or standardized regression coefficients of 0.075 for liver enzyme concentrations , at a significance level of P < .05 .
+MAIN OUTCOME MEASURES Chronic disease diagnoses plus blood markers of liver function , glucose homeostasis , inflammation , and lipid changes .
+RESULTS Higher urinary BPA concentrations were associated with cardiovascular diagnoses in age- , sex- , and fully adjusted models ( OR per 1-SD increase in BPA concentration , 1.39 ; 95% confidence interval [ CI ] , 1.18-1.63 ; P = .001 with full adjustment ) .
+Higher BPA concentrations were also associated with diabetes ( OR per 1-SD increase in BPA concentration , 1.39 ; 95% confidence interval [ CI ] , 1.21-1.60 ; P < .001 ) but not with other studied common diseases .
+In addition , higher BPA concentrations were associated with clinically abnormal concentrations of the liver enzymes gamma-glutamyltransferase ( OR per 1-SD increase in BPA concentration , 1.29 ; 95% CI , 1.14-1.46 ; P < .001 ) and alkaline phosphatase ( OR per 1-SD increase in BPA concentration , 1.48 ; 95% CI , 1.18-1.85 ; P = .002 ) .
+CONCLUSION Higher BPA exposure , reflected in higher urinary concentrations of BPA , may be associated with avoidable morbidity in the community-dwelling adult population .

@@ -1,0 +1,11 @@
+Toxic heavy metals are released to the environment constantly from unregulated electronic waste ( e-waste ) recycling in Guiyu , China , and thus may contribute to the elevation of lead and other heavy metals levels in placenta .
+We aimed to investigate concentrations of heavy metals , including lead ( Pb ) , cadmium ( Cd ) , chromium ( Cr ) , and nickel ( Ni ) in placenta from Guiyu and compared them with those from a control area where no e-waste processing occurs .
+Two hundred and twenty human placentas were collected from Guiyu ( n=101 ) and the control area ( n=119 ) .
+The placenta concentrations of Pb , Cd , Cr , and Ni ( PCPb , PCCd , PCCr , and PCNi ) were determined by graphite furnace atomic absorption spectrometry ( GFAAS ) .
+Risk factors of high exposure and correlation with adverse pregnancy outcomes were analyzed using Spearman correlation analyses .
+PCPb from Guiyu ranged from 6.51 to 3465.16ng/g with a median of 301.43ng/g , whereas PCPb from the control area ranged from 4.53 to 3176.12ng/g with a median of 165.82ng/g ( P=0.010 ) .
+We also observed that in Guiyu , 41.6% of women ( 42/101 ) had PCPb>500ng/gwt ( wet weight ) , compared with 24.4% of women ( 29/119 ) in the control area ( P=0.006 ) .
+No significant differences of PCCd and PCCr were found between the two groups .
+In contrast , PCNi was higher in samples from the control area ( median 14.30 , range 1.76-593.70ng/g ) than in Guiyu samples ( median 7.64 , range 1.19-1108.99ng/g ) ( P=0.000 ) , and a negative correlation between PCNi and gestational age was found in this study ( P=0.017 ) .
+Spearman correlation analyses showed that there was correlation between PCPb and residence in e-waste recycling area .
+Environmental pollution , resulted from unregulated e-waste recycling activities , may contribute to elevated PCPb in neonates born in Guiyu and threaten their health .

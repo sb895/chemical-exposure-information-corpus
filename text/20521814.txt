@@ -1,0 +1,9 @@
+Polybrominated diphenyl ethers ( PBDEs ) have been measured in the home environment and in humans , but studies linking environmental levels to body burdens are limited .
+This study examines the relationship between PBDE concentrations in house dust and serum from adults residing in these homes .
+We measured PBDE concentrations in house dust from 50 homes and in serum of male-female couples from 12 of the homes .
+Detection rates , dust-serum , and within-matrix correlations varied by PBDE congener .
+There was a strong correlation ( r = 0.65-0.89 , p < 0.05 ) between dust and serum concentrations of several predominant PBDE congeners ( BDE 47 , 99 , and 100 ) .
+Dust and serum levels of BDE 153 were not correlated ( r < 0.01 ) .
+The correlation of dust and serum levels of BDE 209 could not be evaluated due to low detection rates of BDE 209 in serum .
+Serum concentrations of the sum of BDE 47 , 99 , and 100 were also strongly correlated within couples ( r = 0.85 , p = 0.0005 ) .
+This study provides evidence that house dust is a primary exposure pathway of PBDEs and supports the use of dust PBDE concentrations as a marker for exposure to PBDE congeners other than BDE 153 .

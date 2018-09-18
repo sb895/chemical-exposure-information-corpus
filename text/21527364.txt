@@ -1,0 +1,14 @@
+BACKGROUND Animal data demonstrate associations of dioxin , furan , and polychlorinated biphenyl ( PCB ) exposures with altered male gonadal maturation .
+It is unclear whether these associations apply to human populations .
+OBJECTIVES We investigated the association of dioxins , furans , PCBs , and corresponding toxic equivalent ( TEQ ) concentrations with pubertal onset among boys in a dioxin-contaminated region .
+METHODS Between 2003 and 2005 , 499 boys 8-9 years of age were enrolled in a longitudinal study in Chapaevsk , Russia .
+Pubertal onset [ stage 2 or higher for genitalia ( G2+ ) or testicular volume ( TV ) > 3 mL ] was assessed annually between ages 8 and 12 years .
+Serum levels at enrollment were analyzed by the Centers for Disease Control and Prevention , Atlanta , Georgia , USA .
+We used Cox proportional hazards models to assess age at pubertal onset as a function of exposure adjusted for potential confounders .
+We conducted sensitivity analyses excluding boys with pubertal onset at enrollment .
+RESULTS The median ( range ) total serum TEQ concentration was 21 ( 4-175 ) pg/g lipid , approximately three times higher than values in European children .
+At enrollment , boys were generally healthy and normal weight ( mean body mass index , 15.9 kg/m2 ) , with 30% having entered puberty by G2+ and 14% by TV criteria .
+Higher dioxin TEQs were associated with later pubertal onset by TV ( hazard ratio = 0.68 , 95% confidence interval , 0.49-0.95 for the highest compared with the lowest quartile ) .
+Similar associations were observed for 2,3,7,8-tetrachlorodibenzo-p-dioxin and dioxin concentrations for TV but not G2+ .
+Results were robust to sensitivity analyses .
+CONCLUSIONS Findings support an association of higher peripubertal serum dioxin TEQs and concentrations with later male pubertal onset reflected in delayed testicular maturation .

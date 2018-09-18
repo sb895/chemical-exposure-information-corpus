@@ -1,0 +1,8 @@
+Parabens and phthalates are potential endocrine disruptors frequently used in personal care/beauty products , and the developing fetus may be sensitive to these chemicals .
+We measured urinary butyl-paraben ( BP ) , methyl-paraben , propyl-paraben , mono-n-butyl phthalate ( MBP ) , and monoethyl phthalate ( MEP ) concentrations up to three times in 177 pregnant women from a fertility clinic in Boston , MA .
+Using linear mixed models , we examined the relationship between self-reported personal care product use in the previous 24\u2009h and urinary paraben and phthalate metabolite concentrations .
+Lotion , cosmetic , and cologne/perfume use were associated with the greatest increases in the molar sum of phthalate metabolite and paraben concentrations , although the magnitude of individual biomarker increases varied by product used .
+For example , women who used lotion had BP concentrations 111% higher ( 95% confidence interval ( CI ) : 41% , 216% ) than non-users , whereas their MBP concentrations were only 28% higher ( CI : 2% , 62% ) .
+Women using cologne/perfume had MEP concentrations 167% ( CI : 98% , 261% ) higher than non-users , but BP concentrations were similar .
+We observed a monotonic dose-response relationship between the total number of products used and urinary paraben and phthalate metabolite concentrations .
+These results suggest that questionnaire data may be useful for assessing exposure to a mixture of chemicals from personal care products during pregnancy.Journal of Exposure Science and Environmental Epidemiology advance online publication , 23 October 2013 ; doi:10.1038/jes.2013.69 .

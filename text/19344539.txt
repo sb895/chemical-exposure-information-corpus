@@ -1,0 +1,12 @@
+OBJECTIVE To examine whether an FFQ can be used for assessing exposure to methylmercury ( MeHg ) by estimating MeHg intake from seafood consumption using the FFQ and confirming the accuracy of the estimated value .
+DESIGN Seafood consumption of pregnant women was assessed using the FFQ .
+Total mercury ( T-Hg ) concentrations of maternal red blood cells ( RBC ) and hair were measured as exposure indices of MeHg .
+SETTING A prospective birth cohort study , the Tohoku Study of Child Development ( TSCD ) , which has been ongoing since 2001 .
+SUBJECTS The subjects were 609 pregnant Japanese women who were enrolled in the TSCD .
+RESULTS MeHg intake was estimated from seafood consumption determined using the FFQ and the MeHg concentrations in each type of seafood .
+The accuracy of the estimated value was confirmed by comparison with T-Hg in RBC and hair .
+Estimated MeHg intake was 42.3 microg/week , and 43.0 % of that was from large predatory fish .
+Compared with the Japanese tolerable weekly intake , in total 12.5 % of the subjects exceeded it .
+T-Hg concentrations in RBC and hair were significantly correlated with estimated MeHg intake : r = 0.325 ( P < 0.0001 ) for RBC and r = 0.305 ( P < 0.0001 ) for hair .
+CONCLUSIONS Estimated MeHg intake based on the FFQ was significantly associated with T-Hg concentrations in RBC and hair .
+Although the estimated value involves uncertainties , the FFQ appears to be a useful tool for assessment of exposure to MeHg .

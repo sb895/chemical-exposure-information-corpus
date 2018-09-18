@@ -1,0 +1,9 @@
+CONTEXT Most of the U.S. population is exposed to the high-production-volume chemical bisphenol A ( BPA ) , but targetable sources of exposure remain to be determined .
+Animal studies and one human study suggest that BPA is a neurotoxicant .
+CASE PRESENTATION A mother in the Health Outcomes and Measures of the Environment ( HOME ) Study , a prospective birth cohort examining prenatal and postnatal environmental toxicants and childhood health outcomes , had a urinary BPA concentration of 583 µg/g creatinine at 27 weeks of pregnancy , which was the highest concentration observed in this cohort ( median , 2.0 µg/g creatinine ) and the general population .
+We used prenatal questionnaire data and a follow-up interview to identify potential sources of exposure that included daily plastic use and consumption of canned beverages and foods .
+Her male infant had a normal newborn neurobehavioral assessment but presented with abnormalities at the 1-month examination that prompted physician referral .
+Subsequently , the child had normal neurobehavioral testing results at annual evaluations from 1 to 5 years of age .
+DISCUSSION Investigations into sources of high gestational urinary BPA concentrations provide an opportunity to identify potential targets for reduction of BPA exposure .
+This case highlights a potential link between gestational BPA exposure and transient neurobehavioral changes that is hypothesis generating and can serve to alert researchers to potential areas for examination in future studies .
+RELEVANCE TO CLINICAL PRACTICE It is important to educate health care practitioners regarding potential sources of BPA exposure and anticipatory guidance on minimization of exposures during vulnerable periods of development .

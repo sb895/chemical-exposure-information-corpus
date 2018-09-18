@@ -1,0 +1,12 @@
+BACKGROUND Bisphenol A ( BPA ) is widely used in the manufacture of polycarbonate plastic bottles , food and beverage can linings , thermal receipts , and dental sealants .
+Animal and human studies suggest that BPA may disrupt thyroid function .
+Although thyroid hormones play a determinant role in human growth and brain development , no studies have investigated relations between BPA exposure and thyroid function in pregnant women or neonates .
+OBJECTIVE Our goal was to evaluate whether exposure to BPA during pregnancy is related to thyroid hormone levels in pregnant women and neonates .
+METHODS We measured BPA concentration in urine samples collected during the first and second half of pregnancy in 476 women participating in the CHAMACOS ( Center for the Health Assessment of Mothers and Children of Salinas ) study .
+We also measured free thyroxine ( T4 ) , total T4 , and thyroid-stimulating hormone ( TSH ) in women during pregnancy , and TSH in neonates .
+RESULTS Associations between the average of the two BPA measurements and maternal thyroid hormone levels were not statistically significant .
+Of the two BPA measurements , only the one taken closest in time to the TH measurement was significantly associated with a reduction in total T4 ( \u03b2 = -0.13 µg/dL per log2 unit ; 95% CI : -0.25 , 0.00 ) .
+The average of the maternal BPA concentrations was associated with reduced TSH in boys ( -9.9% per log2 unit ; 95% CI : -15.9% , -3.5% ) but not in girls .
+Among boys , the relation was stronger when BPA was measured in the third trimester of pregnancy and decreased with time between BPA and TH measurements .
+CONCLUSION Results suggest that exposure to BPA during pregnancy is related to reduced total T4 in pregnant women and decreased TSH in male neonates .
+Findings may have implications for fetal and neonatal development .

@@ -1,0 +1,12 @@
+Phthalates are a family of multifunctional chemicals widely used in personal care and other consumer products .
+The ubiquitous use of phthalates results in human exposure through multiple sources and routes , including dietary ingestion , dermal absorption , inhalation , and parenteral exposure from medical devices containing phthalates .
+We explored the temporal variability over 3 months in urinary phthalate metabolite levels among 11 men who collected up to nine urine samples each during this time period .
+Eight phthalate metabolites were measured by solid-phase extraction-high-performance liquid chromatography-tandem mass spectrometry .
+Statistical analyses were performed to determine the between- and within-subject variance apportionment , and the sensitivity and specificity of a single urine sample to classify a subject's 3-month average exposure .
+Five of the eight phthalates were frequently detected .
+Monoethyl phthalate ( MEP ) was detected in 100% of samples ; monobutyl phthalate , monobenzyl phthalate , mono-2-ethylhexyl phthalate ( MEHP ) , and monomethyl phthalate were detected in > 90% of samples .
+Although we found both substantial day-to-day and month-to-month variability in each individual's urinary phthalate metabolite levels , a single urine sample was moderately predictive of each subject's exposure over 3 months .
+The sensitivities ranged from 0.56 to 0.74 .
+Both the degree of between- and within-subject variance and the predictive ability of a single urine sample differed among phthalate metabolites .
+In particular , a single urine sample was most predictive for MEP and least predictive for MEHP .
+These results suggest that the most efficient exposure assessment strategy for a particular study may depend on the phthalates of interest .

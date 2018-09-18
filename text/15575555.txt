@@ -1,0 +1,13 @@
+Urine samples from the 2001/2002 pilot study for the German Environmental Survey on children ( GerES IV ) were analysed for concentrations of the primary DEHP metabolite MEHP ( mono(2-ethylhexyl)phthalate ) and two secondary DEHP metabolites SOH-MEHP ( 2-ethyl-5-hydroxy-hexylphthalate ) and 5oxo-MEHP ( 2-ethyl-5-oxo-hexylphthalate ) .
+Urine samples had been taken from 254 children aged 3 to 14 .
+In addition , DEHP was analysed in house dust samples .
+These samples had been collected with vacuum cleaners in the homes of the children .
+The geometric mean ( GM ) was 7.9 microg/l for MEHP in urine , and the GMs for the secondary metabolites 5OH-MEHP and 5oxo-MEHP were 52.1 microg/l and 39.9 microg/l. 5OH-MEHP and 5oxo-MEHP concentrations were highly correlated ( r = 0.98 ) .
+The correlations of 5OH-MEHP and 5oxo-MEHP with MEHP were also high ( r = 0.72 and r = 0.70 ) .
+The concentrations of 5OH-MEHP and 5oxo-MEHP were 8.0-fold and 6.2-fold higher than the concentrations of MEHP .
+The ratios 5OH-MEHP/Soxo-MEHP and 5oxo-MEHP/MEHP decreased with increasing age .
+Boys showed higher concentrations than girls for all three metabolites of DEHP in urine .
+Children aged 13-14 had the lowest mean concentrations of the secondary metabolites in urine .
+The house dust analyses revealed DEHP contamination of all samples .
+The GM was 508 mg/kg dust .
+No correlation could be observed between the levels of any of the urinary DEHP metabolites and those of DEHP in house dust .

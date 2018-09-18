@@ -1,0 +1,7 @@
+In the present study , 21 polycyclic aromatic hydrocarbon ( PAH ) congeners were measured in the exhaust stack of 3 types of restaurants : 9 Chinese , 7 Western , and 4 barbeque ( BBQ ) .
+The total PAH concentration of BBQ restaurants ( 58.81 ± 23.89 \u03bcg m(-3) ) was significantly higher than that of Chinese ( 20.99 ± 13.67 \u03bcg m(-3) ) and Western ( 21.47 ± 11.44 \u03bcg m(-3) ) restaurants .
+The total benzo[a]pyrene potency equivalent ( B[a]P(eq) ) concentrations , however , were highest in Chinese restaurants ( 1.82 ± 2.24 \u03bcg m(-3) ) , followed by Western ( 0.86 ± 1.43 \u03bcg m(-3) , p<0.01 ) and BBQ-type restaurants ( 0.59 ± 0.55 \u03bcg m(-3) , p<0.01 ) .
+We further developed a probabilistic risk model to assess the incremental lifetime cancer risk ( ILCR ) for people exposed to carcinogenic PAHs .
+Because the exhaust stack directly affected the back-door neighbors of these restaurants , we were concerned with the real exposure of groups near the exhaust stack outlets of these restaurants .
+The ILCRs for total exposure of the neighbors ( inhalation+dermal contact+ingestion ) were 2.6-31.3 , 1.5-14.8 , and 1.3-12.2 × 10(-6) in Chinese , Western , and BBQ restaurants , respectively .
+We suggest that the maximum acceptable exposure time to the exhaust stack outlet area for Chinese , Western , and BBQ restaurants ranges between 5-19 , 17-42 , and 18-56 h month(-1) , respectively , based on an ILCR of less than 10(-6) .

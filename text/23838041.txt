@@ -1,0 +1,8 @@
+Human exposure to bioaccessible PCBs via indoor dust is limited around the world .
+In the present study , the workplace dust sample from commercial office , hospital , secondary school , shopping mall , electronic factory and manufacturing plant were collected from Hong Kong for PCBs analyses .
+Total PCBs concentrations ranged from 46.8 to 249 ng g(-1) , with a median of 107 ng g(-1) .
+Manufacturing plant showed the highest concentration among all of sampling sites .
+PCB 77 was found as the dominant congeners .
+The bioaccessibility of PCBs in small intestinal juice ranging from 8.3% to 26.0% was significantly higher than that in gastric condition , ranging from 4.8% to 12.4% .
+In addition , significant negative correlations ( p<0.05 ) were observed between KOW and bioaccessibility for all workplace dust samples .
+Risk assessment indicated that the averaged daily dose of dioxin-like PCBs via non-dietary intake of workplace dust , considering the bioaccessibility of PCBs , were much lower than the TDI of dioxins ( 2.3 pg WHO-TEQ kgbw(-1)d(-1) ) established by Joint FAO/WHO Expert Committee on Food Additives .

@@ -1,0 +1,11 @@
+BACKGROUND The current risk assessment for environmental cadmium ( Cd ) largely relies on the assumption that urinary Cd ( U-Cd ) is a reliable biomarker of the Cd body burden .
+Recent studies have questioned the validity of this assumption .
+OBJECTIVES We studied the lifetime trend of U-Cd as a function of diuresis , gender , smoking status , and protein tubular reabsorption .
+We also analyzed the associations between U-Cd and urinary proteins .
+METHODS Cd , retinol-binding protein , and albumin were measured in the urine of six cohorts of the general population of Belgium , with a mean age ranging from 5.7 to 88.1 years ( n = 1,567 ) .
+Variations of U-Cd with age were modeled using natural cubic splines .
+RESULTS In both genders , U-Cd decreased to a minimum ( 0.20 \u03bcg/L ) at the end of adolescence , then increased until 60-70 years of age ( 0.60 \u03bcg/L in never-smokers ) before leveling off or decreasing .
+When U-Cd was expressed in micrograms per gram of creatinine , these variations were amplified ( minimum , 0.15 µg/g creatinine ; maximum , 0.70 µg/g creatinine ) and much higher U-Cd values were observed in women .
+We observed no difference in U-Cd levels between never-smokers and former smokers , and the difference with current smokers did not increase over time .
+Lifetime curves of U-Cd were higher with increasing urinary retinol-binding protein or albumin , a consequence of the coexcretion of Cd with proteins .
+CONCLUSIONS At low Cd exposure levels , U-Cd and age are associated through nonlinear and nonmonotonic relationships that appear to be driven mainly by recent Cd intake and physiological variations in the excretion of creatinine and proteins .

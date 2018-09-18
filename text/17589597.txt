@@ -1,0 +1,10 @@
+BACKGROUND Dermal and inhalation exposure to jet propulsion fuel 8 ( JP-8 ) have been measured in a few occupational exposure studies .
+However , a quantitative understanding of the relationship between external exposures and end-exhaled air concentrations has not been described for occupational and environmental exposure scenarios .
+OBJECTIVE Our goal was to construct a physiologically based toxicokinetic ( PBTK ) model that quantitatively describes the relative contribution of dermal and inhalation exposures to the end-exhaled air concentrations of naphthalene among U.S. Air Force personnel .
+METHODS The PBTK model comprised five compartments representing the stratum corneum , viable epidermis , blood , fat , and other tissues .
+The parameters were optimized using exclusively human exposure and biological monitoring data .
+RESULTS The optimized values of parameters for naphthalene were a ) permeability coefficient for the stratum corneum 6.8 x 10(-5) cm/hr , b ) permeability coefficient for the viable epidermis 3.0 x 10(-3) cm/hr , c ) fat:blood partition coefficient 25.6 , and d ) other tissue:blood partition coefficient 5.2 .
+The skin permeability coefficient was comparable to the values estimated from in vitro studies .
+Based on simulations of workers ' exposures to JP-8 during aircraft fuel-cell maintenance operations , the median relative contribution of dermal exposure to the end-exhaled breath concentration of naphthalene was 4% ( 10th percentile 1% and 90th percentile 11% ) .
+CONCLUSIONS PBTK modeling allowed contributions of the end-exhaled air concentration of naphthalene to be partitioned between dermal and inhalation routes of exposure .
+Further study of inter- and intraindividual variations in exposure assessment is required to better characterize the toxicokinetic behavior of JP-8 components after occupational and/or environmental exposures .

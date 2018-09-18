@@ -1,0 +1,9 @@
+BACKGROUND In a longitudinal birth cohort study of inner-city mothers and children ( Columbia Center for Children's Environmental Health ) , we have previously reported that prenatal exposure to chlorpyrifos ( CPF ) was associated with neurodevelopmental problems at 3 years of age .
+OBJECTIVE The goal of the study was to estimate the relationship between prenatal CPF exposure and neurodevelopment among cohort children at 7 years of age .
+METHODS In a sample of 265 children , participants in a prospective study of air pollution , we measured prenatal CPF exposure using umbilical cord blood plasma ( picograms/gram plasma ) and 7-year neurodevelopment using the Wechsler Intelligence Scale for Children , 4th edition ( WISC-IV ) .
+Linear regression models were used to estimate associations , with covariate selection based on two alternate approaches .
+RESULTS On average , for each standard deviation increase in CPF exposure ( 4.61 pg/g ) , Full-Scale intelligence quotient ( IQ ) declined by 1.4% and Working Memory declined by 2.8% .
+Final covariates included maternal educational level , maternal IQ , and quality of the home environment .
+We found no significant interactions between CPF and any covariates , including the other chemical exposures measured during the prenatal period ( environmental tobacco smoke and polycyclic aromatic hydrocarbons ) .
+CONCLUSIONS We report evidence of deficits in Working Memory Index and Full-Scale IQ as a function of prenatal CPF exposure at 7 years of age .
+These findings are important in light of continued widespread use of CPF in agricultural settings and possible longer-term educational implications of early cognitive deficits .

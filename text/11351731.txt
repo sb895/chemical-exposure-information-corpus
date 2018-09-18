@@ -1,0 +1,9 @@
+Kitchen-area 22-h gravimetric PM2.5 and passive diffusion stain-tube carbon monoxide ( CO ) concentrations were measured in homes with open fire and improved wood cookstoves in two studies .
+In the first study ( Guat-2 ) , which also studied homes with gas cookstoves , three samples were collected per stove condition from each of three test houses .
+In the second study ( Guat-3 ) , one sample was collected per house from 15 open fire and 25 improved-stove houses .
+CO personal samples were also taken for mother and child in both studies .
+Spearman correlation coefficients ( R ) between kitchen-area CO and PM2.5 levels in homes using open fires or impoved wood cookstoves were high ranging from 0.92 ( Guat-2 ) to 0.94 ( Guat-3 ) , as were those between the personal samples for mother and child ranging from 0.85 ( Guat-3 ) to 0.96 ( Guat-2 ) .
+In general , the correlations were lower for less-polluted conditions .
+The study found that CO is a good proxy for PM2.5 in homes using open fires or planchas ( improved wood cookstove with chimney ) but not under gas stove use conditions .
+It also determined that mother personal CO is a good proxy for child's ( under 2 years of age ) personal CO and that area CO measurements are not strongly representative of personal CO measurements .
+These results generally support the use of Draeger CO passive diffusion tubes as a proxy for PM2.5 in such cases where a single type of emission source is the predominant source for CO and PM2.5 .

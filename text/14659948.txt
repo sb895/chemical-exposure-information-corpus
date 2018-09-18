@@ -1,0 +1,9 @@
+Polychlorinated dibenzo-p-dioxins , dibenzofurans ( PCDD/Fs ) and polychlorinated biphenyls ( PCBs ) are recognized environmental endocrine disruptors , which are environmentally persistent and may bio-accumulate in human bodies .
+Pregnant and nursing women may pass these pollutants to their babies both trans-placentally and lactationally .
+We measured and examined correlations of the levels of PCDD/Fs and PCBs in perinatal venous serum , placenta , umbilical-cord serum ( representing prenatal exposure ) , and breast milk ( postnatal exposure ) .
+Subjects included pregnant women without clinical complication between the ages of 25 and 35 , who delivered their babies during 2000.12.01 and 2001.11.30 in central Taiwan .
+A total of 20 participants were randomly selected from those provided the four biological specimens for analysis of 17 PCDD/Fs , and 12 dioxin-like PCBs and six indicator PCBs using high-resolution gas chromatography/high-resolution mass spectrometry .
+Higher PCDD/F levels were found in placenta ( 10.3 TEq-pg/g lipid ) and venous serum ( 9.1 TEq-pg/g lipid ) compared to those in breast milk ( 7.6 TEq-pg/g lipid ) .
+Pearson and Spearman correlation analyses showed well association of PCDD/F and PCB levels between different specimens .
+The total dioxin/PCB level in milk , venous and cord serum can be well predicted by that in placenta through regression functions .
+This first study of multi-specimen correlation further established rather consistent ratios of these chemical concentrations in various specimens relative to those in venous serum .

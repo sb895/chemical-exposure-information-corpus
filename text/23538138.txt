@@ -1,0 +1,10 @@
+BACKGROUND Some clinical studies have suggested that ingestion of n-3 polyunsaturated fatty acids ( PUFA ) has neuroprotective effects on peripheral nerve function .
+However , few epidemiological studies have examined the effect of dietary n-3 PUFA intake from fish consumption on peripheral nerve function , and none have controlled for co-occurrence of methylmercury exposure from fish consumption .
+OBJECTIVES We evaluated the effect of estimated dietary n-3 PUFA intake on peripheral nerve function after adjusting for biomarkers of methylmercury and elemental mercury in a convenience sample of 515 dental professionals .
+METHODS We measured sensory nerve conduction ( peak latency and amplitude ) of the median , ulnar and sural nerves and total mercury concentrations in hair and urine samples .
+We estimated daily intake ( mg/day ) of the total n-3 PUFA , n-3 docosahexaenoic acid ( DHA ) , and n-3 eicosapentaenoic acid ( EPA ) based on a self-administrated fish consumption frequency questionnaire .
+We also collected information on mercury exposure , demographics and other covariates .
+RESULTS The estimated median intakes of total n-3 PUFA , n-3 EPA , and n-3 DHA were 447 , 105 , and 179 mg/day , respectively .
+The mean mercury concentrations in urine ( 1.05 \u03bcg/L ) and hair ( 0.49 \u03bcg/g ) were not significantly different from the US general population .
+We found no consistent association between n-3 PUFA intake and sensory nerve conduction after adjusting for mercury concentrations in hair and urine although some positive associations were observed with the sural nerve .
+CONCLUSIONS In a convenience sample of dental professionals , we found little evidence suggesting that dietary intake of n-3 PUFAs from fish has any impact on peripheral nerve function after adjustment for methylmercury exposure from fish and elemental mercury exposure from dental amalgam .

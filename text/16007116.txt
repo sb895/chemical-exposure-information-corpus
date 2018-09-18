@@ -1,0 +1,8 @@
+Significant amounts of methylmercury ( MeHg ) can bioaccumulate in fish and sea mammals .
+To monitor MeHg exposure in individuals , organic and inorganic mercury are often measured in blood samples or in hair strands , the latter being by far the best integrator of past exposure .
+With knowledge of the MeHg kinetics in humans , the levels of both biomarkers can be related to MeHg body burden and intakes .
+In the present study , we use the toxicokinetic model of Carrier et al .
+( 2001 ) describing the distribution and excretion of MeHg in humans , to reconstruct the history of MeHg intakes of indigenous women of the Inuvik region in Canada starting from total mercury concentrations in hair segments .
+From these reconstructed MeHg intakes , the corresponding simulated mercury blood concentrations are found to be good predictors of the concentrations actually measured in blood samples .
+An important conclusion of this study is that , for almost all subjects , the reconstructed history of their MeHg intakes provides much lower intake values than intakes estimated from questionnaires on food consumption and estimated MeHg levels in these foods ; the mean value of the reconstructed MeHg intakes is 0.03 microg/kg/day compared with the mean value of 0.20 microg/kg/day obtained from questionnaires .
+The model was also used to back-calculate the MeHg intakes from concentrations in hair strands collected from aboriginals of the Amazon region in Brazil , a population significantly more exposed than the population of the Inuvik region .

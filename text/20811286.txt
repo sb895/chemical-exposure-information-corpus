@@ -1,0 +1,10 @@
+BACKGROUND Exposure to fine particles ( PM2.5 ) during pregnancy has been linked to lower birth weight ; however , the chemical composition of PM2.5 varies widely .
+The health effects of PM2.5 constituents are unknown .
+METHODS We investigated whether PM2.5 mass , constituents , and sources are associated with birth weight for term births .
+PM2.5 filters collected in 3 Connecticut counties and 1 Massachusetts county from August 2000 through February 2004 were analyzed for more than 50 elements .
+Source apportionment was used to estimate daily contributions of PM2.5 sources , including traffic , road dust/crustal , oil combustion , salt , and regional ( sulfur ) sources .
+Gestational and trimester exposure to PM2.5 mass , constituents , and source contributions were examined in relation to birth weight and risk of small-at-term birth ( term birth <2500 g ) for 76,788 infants .
+RESULTS Road dust and related constituents such as silicon and aluminum were associated with lower birth weight , as were the motor-vehicle-related species such as elemental carbon and zinc , and the oil-combustion-associated elements vanadium and nickel .
+An interquartile range increase in exposure was associated with low birthweight for zinc ( 12% increase in risk ) , elemental carbon ( 13% ) , silicon ( 10% ) , aluminum ( 11% ) , vanadium ( 8% ) , and nickel ( 11% ) .
+Analysis by trimester showed effects of third-trimester exposure to elemental carbon , nickel , vanadium , and oil-combustion PM2.5 .
+CONCLUSIONS Exposures of pregnant women to higher levels of certain PM2.5 chemical constituents originating from specific sources are associated with lower birth weight .

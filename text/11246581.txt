@@ -1,0 +1,8 @@
+Significant increases in asthma morbidity and mortality in the United States have occurred since the 1970s , particularly among African-Americans .
+Exposure to various environmental factors , including air pollutants and allergens , has been suggested as a partial explanation of these trends .
+To examine relations between several air pollutants and asthma exacerbation in African-Americans , we recruited a panel of 138 children in central Los Angeles .
+We recorded daily data on respiratory symptoms and medication use for 13 weeks and examined these data in conjunction with data on ozone ( O3 ) nitrogen dioxide ( NO2 ) , particulate matter ( PM10 and PM2.5 ) , meteorological variables , pollens , and molds .
+Using generalized estimating equations , we found associations between respiratory symptom occurrence and several environmental factors .
+For example , new episodes of cough were associated with exposure to PM10 ( OR = 1.25 ; 95% CI = 1.12-1.39 ; interquartile range [ IQR ] = 17 microg/m3 , 24-hour average ) , PM2.5 ( OR = 1.10 ; 95% CI = 1.03-1.18 ; IQR = 30 microg/m3 , 12-hour average ) , NO2 , and the molds Cladosporium and Alternaria , but not with exposure to O3 or pollen .
+The factors PM10 and O3 were associated with the use of extra asthma medication .
+For this population several bioaerosols and air pollutants had effects that may be clinically significant .

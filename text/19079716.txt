@@ -1,0 +1,12 @@
+BACKGROUND The concentration of arsenic in urine has been used as a marker of exposure to inorganic As ( iAs ) .
+Relative proportions of urinary metabolites of iAs have been identified as potential biomarkers of susceptibility to iAs toxicity .
+However , the adverse effects of iAs exposure are ultimately determined by the concentrations of iAs metabolites in target tissues .
+OBJECTIVE In this study we examined the feasibility of analyzing As species in cells that originate in the urinary bladder , a target organ for As-induced cancer in humans .
+METHODS Exfoliated bladder epithelial cells ( BECs ) were collected from urine of 21 residents of Zimapan , Mexico , who were exposed to iAs in drinking water .
+We determined concentrations of iAs , methyl-As ( MAs ) , and dimethyl-As ( DMAs ) in urine using conventional hydride generation-cryotrapping-atomic absorption spectrometry ( HG-CT-AAS ) .
+We used an optimized HG-CT-AAS technique with detection limits of 12-17 pg As for analysis of As species in BECs .
+RESULTS All urine samples and 20 of 21 BEC samples contained detectable concentrations of iAs , MAs , and DMAs .
+Sums of concentrations of these As species in BECs ranged from 0.18 to 11.4 ng As/mg protein and in urine from 4.8 to 1,947 ng As/mL .
+We found no correlations between the concentrations or ratios of As species in BECs and in urine .
+CONCLUSION These results suggest that urinary levels of iAs metabolites do not necessarily reflect levels of these metabolites in the bladder epithelium .
+Thus , analysis of As species in BECs may provide a more effective tool for risk assessment of bladder cancer and other urothelial diseases associated with exposures to iAs .

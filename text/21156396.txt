@@ -1,0 +1,8 @@
+BACKGROUND Reproductive behaviors--such as age of childbearing , parity , and breast-feeding prevalence--have changed over the same historical time period as emissions of polychlorinated biphenyls ( PCB ) and may produce intergenerational differences in human PCB exposure .
+OBJECTIVES Our goal in this study was to estimate prenatal , postnatal , and lifetime PCB exposures for women at different ages according to year of birth , and to evaluate the impact of reproductive characteristics on intergenerational differences in exposure .
+METHODS We used the time-variant mechanistic model CoZMoMAN to calculate human bioaccumulation of PCBs , assuming both hypothetical constant and realistic time-variant emissions .
+RESULTS Although exposure primarily depends on when an individual was born relative to the emission history of PCBs , reproductive behaviors can have a significant impact .
+Our model suggests that a mother's reproductive history has a greater influence on the prenatal and postnatal exposures of her children than it does on her own cumulative lifetime exposure .
+In particular , a child's birth order appears to have a strong influence on their prenatal exposure , whereas postnatal exposure is determined by the type of milk ( formula or breast milk ) fed to the infant .
+CONCLUSIONS Prenatal PCB exposure appears to be delayed relative to the time of PCB emissions , particularly among those born after the PCB production phaseout .
+Consequently , the health repercussions of environmental PCBs can be expected to persist for several decades , despite bans on their production for > 40 years .

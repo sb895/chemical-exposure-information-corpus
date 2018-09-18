@@ -1,0 +1,15 @@
+BACKGROUND Perfluorooctanoic acid ( PFOA ) is a synthetic chemical ubiquitous in the serum of U.S. residents .
+It causes liver , testicular , and pancreatic tumors in rats .
+Human studies are sparse .
+OBJECTIVE We examined cancer incidence in Mid-Ohio Valley residents exposed to PFOA in drinking water due to chemical plant emissions .
+METHODS The cohort consisted of adult community residents who resided in contaminated water districts or worked at a local chemical plant .
+Most participated in a 2005-2006 baseline survey in which serum PFOA was measured .
+We interviewed the cohort in 2008-2011 to obtain further medical history .
+Retrospective yearly PFOA serum concentrations were estimated for each participant from 1952 through 2011 .
+Self-reported cancers were validated through medical records and cancer registry review .
+We estimated the association between cancer and cumulative PFOA serum concentration using proportional hazards models .
+RESULTS Participants ( n = 32,254 ) reported 2,507 validated cancers ( 21 different cancer types ) .
+Estimated cumulative serum PFOA concentrations were positively associated with kidney and testicular cancer [ hazard ratio ( HR ) = 1.10 ; 95% CI : 0.98 , 1.24 and HR = 1.34 ; 95% CI : 1.00 , 1.79 , respectively , for 1-unit increases in ln-transformed serum PFOA ] .
+Categorical analyses also indicated positive trends with increasing exposures for both cancers : for kidney cancer HRs for increasing exposure quartiles were 1.0 , 1.23 , 1.48 , and 1.58 ( linear trend test p = 0.18 ) and for testicular cancer , HRs were 1.0 , 1.04 , 1.91 , 3.17 ( linear trend test p = 0.04 ) .
+CONCLUSIONS PFOA exposure was associated with kidney and testicular cancer in this population .
+Because this is largely a survivor cohort , findings must be interpreted with caution , especially for highly fatal cancers such as pancreatic and lung cancer .

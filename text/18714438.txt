@@ -1,0 +1,10 @@
+BACKGROUND Although the association between exposure to particulate matter ( PM ) mass and mortality is well established , there remains uncertainty about which chemical components of PM are most harmful to human health .
+METHODS A hierarchical approach was used to determine how the association between daily PM2.5 mass and mortality was modified by PM2.5 composition in 25 US communities .
+First , the association between daily PM2.5 and mortality was determined for each community and season using Poisson regression .
+Second , we used meta-regression to examine how the pooled association was modified by community and season-specific particle composition .
+RESULTS There was a 0.74% ( 95% confidence interval = 0.41%-1.07% ) increase in nonaccidental deaths associated with a 10 microg/m3 increase in 2-day averaged PM2.5 mass concentration .
+This association was smaller in the west ( 0.51% [ 0.10%-0.92%] ) than in the east ( 0.92% [ 0.23%-1.36%] ) , and was highest in spring ( 1.88% [ 0.23%-1.36%] ) .
+It was increased when PM2.5 mass contained a higher proportion of aluminum ( interquartile range = 0.58% ) , arsenic ( 0.55% ) , sulfate ( 0.51% ) , silicon ( 0.41% ) , and nickel ( 0.37% ) .
+The combination of aluminum , sulfate , and nickel also modified the effect .
+These species proportions explained residual variability between the community-specific PM2.5 mass effect estimates .
+CONCLUSIONS This study shows that certain chemical species modify the association between PM2.5 and mortality and illustrates that mass alone is not a sufficient metric when evaluating health effects of PM exposure .

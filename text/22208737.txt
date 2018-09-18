@@ -1,0 +1,10 @@
+BACKGROUND We monitored urinary benzene excretion to examine factors affecting benzene uptake in a sample of the general population living near a petrochemical plant .
+METHODS Our study population included 143 subjects : 33 petrochemical plant workers ( W ) with low level occupational benzene exposure ; 30 residents in a small town 2 km from the plant ( 2kmR ) ; 26 residents in a second small town located 2 to 4 km from the plant ( 4kmR ) ; and 54 urban residents 25km from the plant ( 25kmR ) .
+Exposure to benzene was evaluated by personal air sampling during one work-shift for the W group , and from 8.00 to 20:00 for general population subgroups , and by urinary benzene ( BEN-U ) .
+RESULTS Median airborne benzene exposure was 25 , 9 , 7 and 6 \u03bcg/m(3) benzene among the W , 2kmR , 4kmR , and 25kmR subgroups , respectively ; the highest level was found among the workers , while there was no significant difference among the other groups .
+Median BEN-U was 2 to 14-fold higher in smokers compared to non-smokers ; among non-smokers BEN-U was the highest in W ( median 236 ng/L ) , and lower in the 2kmR ( 48 ng/L ) and 4kmR ( 63 ng/L ) subgroups than in the 25kmR ( 120 ng/L ) subgroup .
+A multiple linear regression analysis , explaining up to 73% of BEN-U variability , confirmed that active smoking and airborne benzene most strongly affected BEN-U .
+Among the non-smoking , non-occupationally exposed study subjects , a positive association was found between BEN-U and the distance of residence from the plant .
+This association was explained by increased exposure to urban traffic emissions in the study group residing at a greater distance from the plant .
+Environmental tobacco smoke had a marginally positive role .
+CONCLUSION Among factors affecting benzene uptake in non-occupationally exposed individuals , urban residence contributes to benzene exposure more than residing in close proximity to a petrochemical plant .

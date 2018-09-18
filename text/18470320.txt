@@ -1,0 +1,9 @@
+BACKGROUND Previous literature suggests an association between organochlorines and behavioral measures in childhood , including inattention .
+OBJECTIVE This study was designed to assess whether prenatal organochlorine exposure is associated with measures of attention in early infancy .
+METHODS We investigated an association between cord serum polychlorinated biphenyls ( PCBs ) and p,p'-dichlorodiphenyl dichloroethene ( DDE ) levels and measures of attention from the Neonatal Behavioral Assessment Scale ( NBAS ) in a cohort of 788 infants born 1993-1998 to mothers residing near a PCB-contaminated harbor and Superfund site in New Bedford , Massachusetts .
+RESULTS Medians ( ranges ) for the sum of four prevalent PCB congeners and DDE levels were 0.19 ( 0.01-4.41 ) and 0.30 ( 0-10.29 ) ng/g serum , respectively .
+For the 542 subjects with an NBAS exam at 2 weeks , we observed consistent inverse associations between cord serum PCB and DDE levels and NBAS measures of alertness , quality of alert responsiveness , cost of attention , and other potential attention-associated measures including self-quieting and motor maturity .
+For example , the decrement in quality of alert responsiveness score was -0.51 ( 95% confidence interval , -0.99 to -0.03 ) for the highest quartile of exposure to the sum of four prevalent PCB congeners compared with the lowest quartile .
+We found little evidence for an association with infant orientation , habituation , and regulation of state , assessed as summary cluster measures .
+CONCLUSIONS Our findings provide evidence for an association between low-level prenatal PCB and DDE exposures and poor attention in early infancy .
+Further analyses will focus on whether organochlorine-associated decrements in attention and attention-related skills in infancy persist in later childhood .

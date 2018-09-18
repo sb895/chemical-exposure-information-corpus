@@ -1,0 +1,11 @@
+Human exposure to PCBs is nearly universal in North America .
+While most exposure can be linked to consumption of contaminated fish , detection of PCBs in non-fish eating populations suggests that other routes of exposure including inhalation of PCB-laden particles or volatile congeners , ingestion of contaminated soil or dust , or dermal absorption following direct contact are also important .
+In an effort to assess the role of the residential environment as a source of exposure , vacuum dust was collected from the homes of 26 Wisconsin residents whose serum PCB levels had been measured approximately 2 years earlier .
+More than 60 congeners were detected in dust with all of the samples containing congeners 101 , 110 , 138 and 153 .
+Total PCB levels ranged from 8.8 to 1186 ng g(-1) with levels being highest in vacuum dust from homes built between 1959 and 1970 .
+Total PCB levels ranged from 0.05 to 8.34 \u03bcg L(-1) in serum collected from the adults living in these households , with congeners 138 , 153 and 180 predominating .
+Hexa- and hepta-chlorinated biphenyls comprised 73% of the total residues detected in serum .
+However , most of the residues found in dust were lower chlorinated congeners with tetra- and penta-chlorinated biphenyls being dominant .
+Following log transformation , a positive association was found between serum and house dust PCB levels .
+This association was stronger among infrequent consumers of Great Lake fish , but of borderline statistical significance .
+This exploratory study suggests that house dust may be a significant source of exposure to PCBs and supports the need for further investigations .

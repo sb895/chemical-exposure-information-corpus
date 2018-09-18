@@ -1,0 +1,7 @@
+Inuit inhabitants of Nunavik ( northern Québec , Canada ) consume great quantities of marine food and are therefore exposed to high doses of food chain contaminants .
+In this study , we report the time trends of persistent organic pollutants , mercury , and lead in umbilical cord blood of infants from three communities of the east coast of Hudson Bay in Nunavik .
+We analyzed 251 cord blood samples collected from 1994 through 2001 for polychlorinated biphenyls ( PCBs ) , dichlorodiphenyl trichloroethane ( DDT ) , dichlorodiphenyl dichloroethylene ( DDE ) , hexachlorobenzene ( HCB ) , chlordanes , lead , and mercury .
+Using an exponential model , we found strongly significant decreasing trends for PCBs ( 7.9% per year , p < 0.001 ) , DDE ( 9.1% per year , p < 0.001 ) , DDT ( 8.2% per year , p < 0.001 ) , and HCB ( 6.6% per year , p < 0.01 ) .
+No significant trends were detected for chlordanes .
+A significant reduction of lead and mercury concentrations was found , but there was no clear linear or exponential trend .
+The decreases observed could be explained by a decrease in food contamination , by changes in dietary habits , or , most likely , by a combination of both .

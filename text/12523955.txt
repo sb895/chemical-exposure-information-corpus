@@ -1,0 +1,7 @@
+Through literature survey , paired data on cadmium ( Cd ) and beta(2)-microglobulin ( beta(2)-MG ) levels ( as corrected for creatinine concentration ) in urine ( i.e. , Cd-Ucr and beta(2)-MG-Ucr ) among Japanese populations were available for 32 groups of men and 58 groups of women in 12 publications .
+Plotting of the Cd-Ucr and beta(2)-MG-Ucr data for the groups of women showed that beta(2)-MG-Ucr stayed unchanged when Cd-Ucr was at lower levels , whereas beta(2)-MG-Ucr increased sharply when Cd-Ucr was in excess of 10-20 microg/g cr .
+Regression analysis was made for groups of women with no elevation in beta(2)-MG-Ucr , and those with >400 or >1000 microg beta(2)-MG-U/g cr .
+A threshold Cd-Ucr level in relation to an increase in beta(2)-MG-Ucr was estimated as Cd-Ucr at the point of intercept of the two regression lines , one with no beta(2)-MG-Ucr elevation , and the other with >400 or >1000 microg beta(2)-MG-U/g cr .
+Cd-Ucr at the point of flexion thus calculated was 11-12 microg/g cr .
+Such observation was quantitatively reproduced by the analysis of data for men , giving 10-11 microg Cd-U/g cr at the point of flexion .
+This study suggests that the relationship of beta(2)-MG-Ucr with Cd-Ucr is not linear but in the shape of letter ' J ' , i.e. , beta(2)-MG-Ucr increases sharply when Cd-Ucr is in excess of 10-12 microg/g cr .

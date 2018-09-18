@@ -1,0 +1,9 @@
+BACKGROUND The American Cancer Society study and the Harvard Six Cities study are 2 landmark cohort studies for estimating the chronic effects of fine particulate air pollution ( PM2.5 ) on mortality .
+Using Medicare data , we assessed the association of PM2.5 with mortality for the same locations included in these studies .
+METHODS We estimated the chronic effects of PM2.5 on mortality for the period 2000-2002 using mortality data for cohorts of Medicare participants and average PM2.5 levels from monitors in the same counties included in the 2 studies .
+We estimated mortality risk associated with air pollution adjusting for individual-level ( age and sex ) and area-level covariates ( education , income level , poverty , and employment ) .
+We controlled for potential confounding by cigarette smoking by including standardized mortality ratios for lung cancer and chronic obstructive pulmonary disease .
+RESULTS Using the Medicare data , we estimated that a 10 microg/m increase in the yearly average PM2.5 concentration is associated with 10.9% ( 95% confidence interval = 9.0-12.8 ) and with 20.8% ( 14.8-27.1 ) increases in all-cause mortality for the American Cancer Society and Harvard Six Cities study counties , respectively .
+The estimates are somewhat higher than those reported by the original investigators .
+CONCLUSION Although Medicare data lack information on some potential confounding factors , we estimated risks similar to those in the previously published reports , which incorporated more extensive information on individual-level confounders .
+We propose that the Medicare files can be used to construct on-going cohorts for tracking the risk of air pollution over time .

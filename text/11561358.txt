@@ -1,0 +1,16 @@
+This 1986 to 1992 update and expansion of an earlier historical cohort study examined the 1946 to 1992 mortality experience of 32,110 workers employed for 1 year or more during 1945 to 1978 at any of 10 US fiberglass ( FG ) manufacturing plants .
+Included are ( 1 ) a new historical exposure reconstruction for respirable glass fibers and several co-exposures ( arsenic , asbestos , asphalt , epoxy , formaldehyde , polycyclic aromatic hydrocarbons , phenolics , silica , styrene , and urea ) ; and ( 2 ) a nested , matched case-control study of 631 respiratory system cancer ( RSC ) deaths in male workers during 1970 to 1992 with interview data on tobacco smoking history .
+Our findings to date from external comparisons based on standardized mortality ratios ( SMRs ) in the cohort study provide no evidence of excess mortality risk from all causes combined , all cancers combined , and non-malignant respiratory disease .
+Also , excluding RSC , we observed no evidence of excess mortality risk from any of the other cause-of-death categories considered .
+For RSC among the total cohort , we observed a 6% excess ( P = 0.05 ) based on 874 deaths .
+Among long-term workers ( 5 or more years of employment ) we observed a not statistically significant 3% excess based on 496 deaths .
+Among the total cohort , we observed increases in RSC SMRs with calendar time and time since first employment , but these were less pronounced among long-term workers .
+RSC SMRs were not related to duration of employment among the total cohort or long-term workers .
+In an externally controlled analysis of male workers at risk between 1970 and 1992 , we observed no association between RSC SMRs and increasing exposure to respirable FG .
+Our findings to date from internal comparisons based on rate ratios in the case-control study of RSC were limited to analyses of categorized study variables with and without adjustment for smoking .
+On the basis of these analyses , the duration of exposure and cumulative exposure to respirable FG at the levels encountered at the study plants did not appear to be associated with an increased risk of RSC .
+RSC risk also did not seem to increase with time since first employment .
+There is some evidence of elevated RSC risk associated with non-baseline levels of average intensity of exposure to respirable glass , but when adjusted for smoking this was not statistically significant , and there was no apparent trend with increasing exposure .
+This same pattern of findings was observed for duration of exposure , cumulative exposure , and average intensity of exposure to formaldehyde .
+None of the other individual co-exposures encountered in the study plants appeared to be associated with an increased risk of RSC .
+The primary focus of ongoing analyses is to determine the extent to which our present findings are robust to alternative characterizations of exposure .

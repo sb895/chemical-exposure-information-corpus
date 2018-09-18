@@ -1,0 +1,9 @@
+A brief review of the uses of breath analysis in studies of environmental exposure to volatile organic compounds ( VOCs ) is provided .
+The U.S. Environmental Protection Agency's large-scale Total Exposure Assessment Methodology Studies have measured concentrations of 32 target VOCs in the exhaled breath of about 800 residents of various U.S. cities .
+Since the previous 12-hr integrated personal air exposures to the same chemicals were also measured , the relation between exposure and body burden is illuminated .
+Another major use of the breath measurements has been to detect unmeasured pathways of exposure ; the major impact of active smoking on exposure to benzene and styrene was detected in this way .
+Following the earlier field studies , a series of chamber studies have provided estimates of several important physiological parameters .
+Among these are the fraction , f , of the inhaled chemical that is exhaled under steady-state conditions and the residence times. tau i in several body compartments , which may be associated with the blood ( or liver ) , organs , muscle , and fat .
+Most of the targeted VOCs appear to have similar residence times of a few minutes , 30 min , several hours , and several days in the respective tissue groups .
+Knowledge of these parameters can be helpful in estimating body burden from exposure or vice versa and in planning environmental studies , particularly in setting times to monitor breath in studies of the variation with time of body burden .
+Improvements in breath methods have made it possible to study short-term peak exposure situations such as filling a gas tank or taking a shower in contaminated water .

@@ -1,0 +1,10 @@
+BACKGROUND Blood pressure ( BP ) may be implicated in associations observed between ambient particulate matter and cardiovascular morbidity and mortality .
+This study examined cross-sectional associations between short-term ambient fine particles ( particulate matter <or= 2.5 microm in aerodynamic diameter ; PM(2.5) ) and BP : systolic ( SBP ) , diastolic ( DBP ) , mean arterial ( MAP ) , and pulse pressure ( PP ) .
+METHODS The study sample included 5,112 persons 45-84 years of age , free of cardiovascular disease at the Multi-Ethnic Study of Atherosclerosis baseline examination ( 2000-2002 ) .
+Data from U.S. Environmental Protection Agency monitors were used to estimate ambient PM(2.5) exposures for the preceding 1 , 2 , 7 , 30 , and 60 days .
+Roadway data were used to estimate local exposures to traffic-related particles .
+RESULTS Results from linear regression found PP and SBP positively associated with PM(2.5) .
+For example , a 10-microg/m(3) increase in PM(2.5) 30-day mean was associated with 1.12 mmHg higher pulse pressure [ 95% confidence interval ( CI ) , 0.28-1.97 ] and 0.99 mmHg higher systolic BP ( 95% CI , -0.15 to 2.13 ) , adjusted for age , sex , race/ethnicity , income , education , body mass index , diabetes , cigarette smoking and environmental tobacco smoke , alcohol use , physical activity , medications , atmospheric pressure , and temperature .
+Results were much weaker and not statistically significant for MAP and DBP .
+Although traffic-related variables were not themselves associated with BP , the association between PM(2.5) and BP was stronger in the presence of higher traffic exposure .
+CONCLUSIONS Higher SBP and PP were associated with ambient levels of PM(2.5) and the association was stronger in the presence of roadway traffic , suggesting that impairment of blood pressure regulation may play a role in response to air pollution .

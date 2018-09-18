@@ -1,0 +1,11 @@
+The association between arsenic exposure from drinking water and toenail arsenic concentrations appears to be non-linear at low exposure levels .
+To investigate whether this observation is a result exposure misclassification , a dietary exposure assessment was conducted in a cohort of 47 women concurrently enrolled in a prospective longitudinal biomonitoring study in Pabna , Bangladesh .
+Arsenic intake was evaluated using a duplicate diet study design which collected food and water samples for a total of 6 days .
+Total inorganic arsenic was measured in 24-hour composite food samples ( N=282 ) using inductively coupled plasma-mass spectrometry coupled with a dynamic reaction cell ( ICP-DRC-MS ) .
+Average annual tubewell arsenic concentrations and toenail arsenic concentrations were computed for each participant using biomonitoring data from the prospective study .
+Separate multivariate regression models evaluated the association between drinking water , total dietary intake , and total dietary dose with toenail arsenic , a biomarker of internal dose .
+In these models , dietary intakes were adjusted using the residual method to provide estimate that was independent of water arsenic concentrations .
+Median daily arsenic intake from food and drinking water was 48.3 microg/day and 4.2 microg/day .
+Taking into consideration participant's body weight , the median daily arsenic dose was 1.0 microg/kg-day from food and 0.1 microg/kg-day from drinking water although drinking water exposure was highly skewed and was the dominant exposure route for the upper 25th percentile of the distribution .
+The regression model that used total daily arsenic intake from food ( beta=0.46 ; 95%CI : 0.18-0.73 ) and drinking water ( 95%CI : 0.26-0.38 ) explained the most variability in toenail arsenic concentrations ( R(2)(a)=0.71 ) .
+The effect estimates for food and drinking water are similar suggesting that both sources have a similar contribution to internal dose .

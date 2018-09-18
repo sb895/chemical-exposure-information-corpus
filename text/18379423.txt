@@ -1,0 +1,8 @@
+BACKGROUND Laboratory evidence suggests tap water disinfection by-products ( DBPs ) could have an effect very early in pregnancy , typically before clinical detectability .
+Undetected early losses would be expected to increase the reported number of cycles to clinical pregnancy .
+METHODS We investigated the association between specific DBPs ( trihalomethanes , haloacetic acids , brominated-trihalomethanes , brominated-haloacetic acids , total organic halides , and bromodichloromethane ) and time to pregnancy among women who enrolled in a study of drinking water and reproductive outcomes .
+We quantified exposure to DBPs through concentrations in tap water , quantity ingested through drinking , quantity inhaled or absorbed while showering or bathing , and total integrated exposure .
+The effect of DBPs on time to pregnancy was estimated using a discrete time hazard model .
+RESULTS Overall , we found no evidence of an increased time to pregnancy among women who were exposed to higher levels of DBPs .
+A modestly decreased time to pregnancy ( ie , increased fecundability ) was seen among those exposed to the highest level of ingested DBPs , but not for tap water concentration , the amount absorbed while showering or bathing , or the integrated exposure .
+CONCLUSIONS Our findings extend those of a recently published study suggesting a lack of association between DBPs and pregnancy loss .

@@ -1,0 +1,9 @@
+We measured levels of 10 polybrominated diphenyl ether ( PBDE ) congeners in serum collected during pregnancy and at delivery from 416 pregnant , predominantly immigrant , women living in Monterey County , CA .
+The most frequently detected congeners were BDE-47 , -99 , -100 , and -153 , all components of the penta mixture , detected in >97% of samples .
+We used multivariable regression models to examine factors associated with exposure to individual PBDE congeners as well as their total summed concentration ( ng/g lipid ) .
+Prenatal and delivery total PBDE levels were correlated between sampling times ( n = 21 ; Pearson r = 0.99 , p < 0.001 ) .
+In multivariable models , total PBDE levels increased significantly with time residing in the U.S .
+( p < 0.001 ) and among women with \u22653 pieces of stuffed furniture in their homes ( p < 0.05 ) .
+Women's total PBDE levels increased 4.0% ( 95% CI = 2.8 , 5.3 ) for each additional year residing in the U.S. , after adjustment for prepregnancy BMI , weight gain during pregnancy , and SES .
+Having \u22653 pieces of stuffed furniture in the home was associated with a 26.8% ( 95% CI = 2.0 , 57.5 ) increase in women's serum PBDE levels .
+Findings suggest PBDE indoor contamination in California homes is contributing to human exposures in a population of recent immigrants .

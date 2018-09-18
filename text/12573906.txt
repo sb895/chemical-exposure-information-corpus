@@ -1,0 +1,10 @@
+Inner-city , minority populations are high-risk groups for adverse birth outcomes and also are more likely to be exposed to environmental contaminants , including environmental tobacco smoke ( ETS ) , polycyclic aromatic hydrocarbons ( PAHs ) , and pesticides .
+In a sample of 263 nonsmoking African-American and Dominican women , we evaluated the effects on birth outcomes of prenatal exposure to airborne PAHs monitored during pregnancy by personal air sampling , along with ETS estimated by plasma cotinine , and an organophosphate pesticide ( OP ) estimated by plasma chlorpyrifos ( CPF ) .
+Plasma CPF was used as a covariate because it was the most often detected in plasma and was highly correlated with other pesticides frequently detected in plasma .
+Among African Americans , high prenatal exposure to PAHs was associated with lower birth weight ( p = 0.003 ) and smaller head circumference ( p = 0.01 ) after adjusting for potential confounders .
+CPF was associated with decreased birth weight and birth length overall ( p = 0.01 and p = 0.003 , respectively ) and with lower birth weight among African Americans ( p = 0.04 ) and reduced birth length in Dominicans ( p < 0.001 ) , and was therefore included as a covariate in the model with PAH .
+After controlling for CPF , relationships between PAHs and birth outcomes were essentially unchanged .
+In this analysis , PAHs and CPF appear to be significant independent determinants of birth outcomes .
+Further analyses of pesticides will be carried out .
+Possible explanations of the failure to find a significant effect of PAHs in the Hispanic subsample are discussed .
+This study provides evidence that environmental pollutants at levels currently encountered in New York City adversely affect fetal development .

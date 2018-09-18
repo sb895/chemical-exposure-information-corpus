@@ -1,0 +1,14 @@
+There are at present very few studies of the effects of polybromodiphenyl ethers ( PBDEs ) , used as flame retardants in consumer products , on neurodevelopment or thyroid hormone levels in humans .
+The present study aims to examine the association between pre and postnatal PBDE concentrations and neurodevelopment and thyroid hormone levels in children at age 4years and isolate the effects of PBDEs from those of PCBs , DDT , DDE and HCB .
+A prospective birth cohort in Menorca ( Spain ) enrolled 482 pregnant mothers between 1997 and 1998 .
+At 4years , children were assessed for motor and cognitive function ( McCarthy Scales of Children's Abilities ) , attention-deficit , hyperactivity and impulsivity ( ADHD-DSM-IV ) and social competence ( California Preschool Social Competence Scale ) .
+PBDE concentrations were measured in cord blood ( N=88 ) and in serum of 4years olds ( N=244 ) .
+Among all congeners analyzed only PBDE 47 was quantified in a reasonable number of samples ( LOQ=0.002ng/ml ) .
+Exposure to PBDE 47 was analyzed as a dichotomous variable : concentrations above the LOQ ( exposed ) and concentrations below ( referents ) .
+Scores for cognitive and motor functions were always lower in children pre and postnatally exposed to PBDE47 than in referents , but none of these associations was statistically significant ( \u03b2 coefficient ( 95%CI ) of the total cognition score : -2.7 ( -7.0 , 1.6 ) for postnatal exposure , and -1.4 ( -9.2 , 6.5 ) for prenatal exposure ) .
+Postnatal exposure to PBDE 47 was statistically significantly related to an increased risk of symptoms on the attention deficit subscale of ADHD symptoms ( RR ( 95%CI)=1.8 ( 1.0 , 3.2) ) but not to hyperactivity symptoms .
+A statistically significant higher risk of poor social competence symptoms was observed as a consequence of postnatal PBDE 47 exposure ( RR ( 95%CI)=2.6 ( 1.2 , 5.9) ) .
+Adjustment for other organochlorine compounds did not influence the results .
+Levels of thyroid hormones were not associated to PBDE exposure .
+This study highlights the importance of assessing the effects of PBDE exposure not just prenatally but also during the early years of life .
+In the light of current evidence a precautionary approach towards PBDE exposure of both mothers and children seems warranted .

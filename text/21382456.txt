@@ -1,0 +1,6 @@
+Topoisomerase II\u03b1 ( Topo II\u03b1 ) has been implicated in the benzene-induced hemotoxicity in vitro .
+This study was to examine the effect of in vivo chronic benzene exposure on Topo II\u03b1 in human bone marrow mononuclear cells , and to further explore the mechanism underlying decreased Topo II\u03b1 expression in patients with chronic benzene exposure .
+Topo II\u03b1 activity , expression , and mRNA level assessed by DNA cleavage/relaxation assay , Western blot , and reverse transcriptase-PCR , decreased in patients with benzene exposure .
+These changes were accompanied by reduced histone H4 and H3 acetylation and H3K4 methylation , and increased H3K9 methylation in the Topo II\u03b1 promoter , which were evaluated by chromatin immunoprecipitation ( ChIP ) assay .
+In addition , there were alterations in mRNA levels of Topo II\u03b1 promoter regulatory factors such as SP1 , ATF-2 , SP3 , NF-YA , NF-M , P53 , C-MYB , C-JUN , and ICBP90 .
+Our results demonstrate that Topo II\u03b1 expression was reduced in patients with chronic benzene exposure , which was accompanied by alterations in histone acetylation and methylation and regulatory factor mRNA levels of Topo II\u03b1 promoter .

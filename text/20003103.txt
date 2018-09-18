@@ -1,0 +1,6 @@
+AIM We studied the effect on neurodevelopment of infants who are exposed to thimerosal in tetanus-diphtheria ( Td ) vaccines during pregnancy .
+METHODS We compared Gesell Developmental Schedules ( GDS ) of exclusive breastfed infants at 6 months born to mothers who received Td ( 1 to 3 doses ) against those who were born to mothers who did not take such vaccines .
+RESULTS Compared with the group of infants not exposed to ethylmercury in utero , the infants of exposed mothers showed no significant difference in neurodevelopment delays .
+Although there was a significant correlation between hair-Hg of mothers and hair-Hg of neonates ( Spearman r = 0.353 ; p = 0.0011 ) , there was no significant correlation between the level of in utero exposure to ethylmercury in Td vaccines and neonate's hair-Hg concentrations ( Spearman r = 0.060 ; p = 0.5922 ) .
+However , regression analysis showed that GDS at 6 months was significantly associated with total mercury concentration of neonate's hair but was not sensitive to the number of vaccines taken by the mother .
+CONCLUSION Early neurodevelopment of exclusively breastfed infants is sensitive to in utero exposure to mercury , but maternal thimerosal exposure in tetanus-diphtheria vaccines per se cannot portend clinical neurodevelopment delays measured by GDS at 6 months .

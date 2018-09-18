@@ -1,0 +1,8 @@
+Elevated concentrations of arsenic were detected in surface soils adjacent to a smelting complex in northern Canada .
+We evaluated the cancer risks caused by exposure to arsenic in two communities through combining geostatistical simulation with demographic data and dose-response models in a framework .
+Distribution of arsenic was first estimated using geostatistical circulant-embedding simulation method .
+We then evaluated the exposures from inadvertent ingestion , inhalation and dermal contact .
+Risks of skin cancer and three internal cancers were estimated at both grid scale and census-unit scale using parametric dose-response models .
+Results indicated that local residents could face non-negligible cancer risks ( skin cancer and liver cancer mainly ) .
+Uncertainties of risk estimates were discussed from the aspects of arsenic concentrations , exposed population and dose-response model .
+Reducing uncertainties would require additional soil sampling , epidemic records as well as complementary studies on land use , demographic variation , outdoor activities and bioavailability of arsenic .

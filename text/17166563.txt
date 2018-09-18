@@ -1,0 +1,10 @@
+Polychlorinated biphenyls ( PCBs ) have been used in diverse purposes such as indoor paints .
+Removal of these paints with dust creating techniques , like sandblasting , will result in contamination of building surfaces with PCB-containing dust .
+Objectives of this study was to analyze the PCB concentrations on surfaces after sandblasting with silica using wipe samples and estimate the resulting health risks and further calculate the risk based acceptable PCB surface concentrations that do not cause incremental lifetime cancer risk higher that 10(-5) or does not cause immunosupression effects in residential use or in occupational settings .
+Both deterministic and probabilistic approaches were used .
+The total PCB concentrations on surfaces ranged from 10 to 1100 microg/m(2) .
+Estimated cancer risk was 1.2 x 10(-4) for childhood exposure , 1.3 x 10(-5) for adult residents and 1.5 x 10(-5) for occupational exposure .
+Probabilistic risk assessment revealed that point estimates were quite reasonable and located between 45th and 79th percentiles on probabilistic distribution of risk .
+The noncancer risks were calculated as hazard quotients ( HQ ) which ranged from 3.3 to 35 depending on the exposure scenario .
+Acceptable surface concentrations based on noncancer effects that are protective for 95% of exposed population were 7 microg/m(2) for residential use , 65 microg/m(2) for residential use if only adults will be exposed and 140 microg/m(2) for occupational use .
+Preliminary cleanup experiment revealed that when contaminated dust was carefully removed with industrial vacuum cleaner and further washed with terpene containing liquid the surface concentration dropped below the acceptable levels calculated in this study .

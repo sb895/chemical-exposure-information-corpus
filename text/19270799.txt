@@ -1,0 +1,9 @@
+BACKGROUND Despite the endocrine system activity exhibited by polychlorinated biphenyls ( PCBs ) , recent studies have shown little association between PCB exposure and breast cancer mortality .
+OBJECTIVES To further evaluate the relation between PCB exposure and breast cancer risk , we studied incidence , a more sensitive end point than mortality , in an occupational cohort .
+METHODS We followed 5,752 women employed for at least 1 year in one of three capacitor manufacturing facilities , identifying cases from questionnaires , cancer registries , and death certificates through 1998 .
+We collected lifestyle and reproductive information via questionnaire from participants or next of kin and used semiquantitative job-exposure matrices for inhalation and dermal exposures combined .
+We generated standardized incidence ratios ( SIRs ) and standardized rate ratios and used Cox proportional hazards regression models to evaluate potential confounders and effect modifiers .
+RESULTS Overall , the breast cancer SIR was 0.81 ( 95% confidence interval , 0.72-0.92 ; n = 257 ) , and regression modeling showed little effect of employment duration or cumulative exposure .
+However , for the 362 women of questionnaire-identified races other than white , we observed positive , statistically significant associations with employment duration and cumulative exposure ; only smoking , birth cohort , and self- or proxy questionnaire completion had statistically significant explanatory power when added to models with exposure metrics .
+CONCLUSIONS We found no overall elevation in breast cancer risk after occupational exposure to PCBs .
+However , the exposure-related risk elevations seen among nonwhite workers , although of limited interpretability given the small number of cases , warrant further investigation , because the usual reproductive risk factors accounted for little of the increased risk .

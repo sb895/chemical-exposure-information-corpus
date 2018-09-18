@@ -1,0 +1,10 @@
+BACKGROUND Bisphenol A ( BPA ) is a chemical suspected of causing endocrine and metabolic disruption in animals and humans .
+In rodents , in utero exposure to low-dose BPA is associated with weight gain .
+Detectable levels of BPA are found in most Americans due to its widespread use in the manufacture of food and drink packaging .
+We hypothesized that urinary BPA concentrations would be positively associated with general and central obesity .
+METHODS Cross-sectional analysis of urinary BPA concentrations , body mass index , and waist circumference in 2747 adults ( aged 18-74 ) , using pooled data from the 2003/04 and 2005/06 National Health and Nutrition Examination Surveys .
+RESULTS The creatinine-adjusted geometric mean urinary BPA concentration was 2.05\u03bcg/g creatinine ( 25th percentile : 1.18 , 75% percentile : 3.33 ) .
+Relative to those in the lowest BPA quartile , participants in the upper BPA quartiles were more likely to be classified as obese ( quartile 2 odds ratio ( OR ) : 1.85 , 95% confidence interval ( CI ) : 1.22 , 2.79 ; quartile 3 OR : 1.60 , 95% CI : 1.05-2.44 ; quartile 4 OR : 1.76 , 95% CI : 1.06-2.94 ) .
+Higher BPA concentration was also associated with abdominal obesity ( quartile 2 OR : 1.62 , 95% CI : 1.11 , 2.36 ; quartile 3 OR : 1.39 , 95% CI : 1.02-1.90 ; quartile 4 OR : 1.58 , 95% CI : 1.03-2.42 ) .
+CONCLUSIONS Higher BPA exposure is associated with general and central obesity in the general adult population of the United States .
+Reverse causation is of concern due to the cross-sectional nature of this study ; longitudinal studies are needed to clarify the direction of the association .

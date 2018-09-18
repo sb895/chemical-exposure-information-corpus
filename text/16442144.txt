@@ -1,0 +1,8 @@
+The exposure of humans to PCDD/Fs ( polychlorinated dibenzo-p-dioxins and dibenzofurans ) and dioxin-like PCBs ( dl-PCBs , i.e. polychlorinated non-ortho and mono-ortho biphenyls ) occurs predominantly via the intake of food .
+Young children have a relatively high intake of these substances , due to their high food consumption per kilogram body weight .
+As the exposure of non-breastfed infants to these compounds has not been assessed before in The Netherlands , we studied the dietary intake of 17 PCDD/Fs and 11 dioxin-like PCBs in 188 Dutch non-breastfed infants between 4 and 13 months .
+The food intake of the infants was assessed by a 2-d food record .
+From these data PCDD/F and dioxin-like PCB intake was calculated using PCDD/F and dioxin-like PCB concentrations of food products sampled in 1998/1999 in The Netherlands .
+The long-term PCDD/F and dioxin-like PCB exposure of the infants was calculated using the statistical exposure model ( STEM ) .
+For infants of 5 months the chronic exposure to PCDD/F and dioxin-like PCB was 1.1pg WHO-TEQ ( toxic equivalents ) per kilogram body weight ( bw ) per day ( 95th percentile : 1.7pg WHO-TEQ/kg bwxd ) , which mainly originated from infant formula and vegetables and increased to 2.3pg WHO-TEQ/kg bwxd ( 95th percentile 3.7pg WHO-TEQ/kg bwxd ) for infants just over 1 year old eating the same food as their parents .
+The percentage of formula-fed infants with an exposure exceeding the TDI of 2pg WHO-TEQ/kg bwxd was 5% at 5 months , 49% at 9 months and 64% at 12 months .

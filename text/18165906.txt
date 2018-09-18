@@ -1,0 +1,12 @@
+An investigation of various heavy metals including the arsenic ( As ) poisoning in soils and vegetables in five upazillas under Feni district of Bangladesh was performed by neutron activation technique using the neutron irradiation facilities of TRIGA MARK II research reactor at Bangladesh Atomic Energy Research Establishment ( BAERE ) , Savar , Dhaka .
+A total of 30 samples ( 15 surface soils and 15 foodstuffs ) were studied in five Upazillas namely as , Sonagazi , Dagan Bhuiya , Feni Sadar , Fulgazi and Parsuram of Feni district taking three samples of each kind from each upazilla .
+Samples of each kind together with the standard reference material ( SRM ) were irradiated in the same neutron flux and the gamma-rays of nuclides from the irradiated samples were assessed and screened for As , Br , U , Th , Cr , Sc , Fe , Zn and Co in soils and As , Br , Na , K , Cr , Sc , Fe , Zn and Co in vegetables ( i.e ; eddoe , taro , green papaya , plantain , potato , callaloo , bottle ground and carambola ) .
+The measurement of gamma-rays was carried out by means of a calibrated high resolution HPGe detector .
+The concentration of product nuclides containing in the irradiated samples was determined from the peak count-rates of prominent gamma-lines for the corresponding nuclides .
+Among all contaminants , only As , Zn and Cr for both samples were focused because of their higher values compared with the local as well as the world typical values .
+The present results revealed that the mean levels of As in Parsuram , Feni Sadar and Pulgazi upazillas are higher than the world typical value of 2 mg/kg .
+The mean values of Zn and Cr for all upazillas are higher than the world typical values 32 and 27.9 mg/kg , respectively .
+For the case of vegetables , the mean concentration of As is found only in Eddoe ( 5.33 ppm ) and Taro ( 1.46 ppm ) collected from Sonagazi and Feni Sadar upazilla ; which are higher than the values in Samta ( 0.1 ppm for eddoe and 0.44 ppm for taro ) under Jessore district of Bangladesh .
+The mean concentrations of Zn and Cr in all kinds of vegetables are higher compared with the existing local values as well as the world typical values .
+The mean estimated daily dietary intake of As , Zn and Cr from vegetables are found to be 0.105 , 12.47 and 3.53 mg respectively , which are higher than the recommended values of some countries .
+The consumption of toxic metals in vegetables is a risk for public health in the studied area .

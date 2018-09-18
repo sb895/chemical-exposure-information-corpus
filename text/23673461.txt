@@ -1,0 +1,9 @@
+Airborne particulate matter ( PM ) components from fossil fuel combustion can induce oxidative stress initiated by reactive oxygen species ( ROS ) .
+Reported associations between worsening asthma and PM2.5 mass could be related to PM oxidative potential to induce airway oxidative stress and inflammation ( hallmarks of asthma pathology ) .
+We followed 45 schoolchildren with persistent asthma in their southern California homes daily over 10 days with offline fractional exhaled nitric oxide ( FENO ) , a biomarker of airway inflammation .
+Ambient exposures included daily average PM2.5 , PM2.5 elemental and organic carbon ( EC , OC ) , NO2 , O3 , and endotoxin .
+We assessed PM2.5 oxidative potential using both an abiotic and an in vitro bioassay on aqueous extracts of daily particle filters : ( 1 ) dithiothreitol ( DTT ) assay ( abiotic ) , representing chemically produced ROS ; and ( 2 ) ROS generated intracellularly in a rat alveolar macrophage model using the fluorescent probe 2'7'-dicholorohidroflourescin diacetate .
+We analyzed relations of FENO to air pollutants in mixed linear regression models .
+FENO was significantly positively associated with lag 1-day and 2-day averages of traffic-related markers ( EC , OC , and NO2 ) , DTT and macrophage ROS , but not PM2.5 mass .
+DTT associations were nearly twice as strong as other exposures per interquartile range : median FENO increased 8.7-9.9% per 0.43 nmole/min/m(3) DTT .
+Findings suggest that future research in oxidative stress-related illnesses such as asthma and PM exposure would benefit from assessments of PM oxidative potential and composition .

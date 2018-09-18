@@ -1,0 +1,11 @@
+BACKGROUND Hydroxylated polychlorinated biphenyls ( OH-PCBs ) , unlike PCBs , are in general readily excreted yet are still detected in humans and animals .
+Active transport of OH-PCBs across the placenta and hydroxylation of PCBs by the fetus suggest the potential for greater impact on the fetus compared with the parent PCB compounds , but little is known about their health effects , particularly in humans .
+OBJECTIVES The objective of this study was to evaluate the associations between prenatal OH-PCB exposure and neurodevelopment in children at 16 months of age in eastern Slovakia .
+METHODS A birth cohort ( n = 1,134 ) was enrolled during 2002-2004 .
+We analyzed six OH-PCB metabolites ( 4-OH-CB-107 , 3-OH-CB-153 , 4-OH-CB-146 , 3'-OH-CB-138 , 4-OH-CB-187 , and 4'-OH-CB-172 ) in a subset of the cohort .
+The Bayley Scales of Infant Development were administered to the children at the 16-month follow-up visit .
+We developed multiple linear regression models predicting standardized scores for the Mental Development Index ( MDI ) and Psychomotor Development Index ( PDI ) from maternal ( n = 147 ) and cord ( n = 80 ) serum OH-PCB concentrations , adjusting for sex of child , district , HOME ( Home Observation for Measurement of the Environment ) score , and maternal score on Raven's Progressive Matrices .
+RESULTS Cord 4-OH-CB-107 was significantly associated with lower MDI ( beta = -2.27 ; p = 0.01 ) and PDI ( beta = -4.50 ; p = 0.004 ) .
+Also , maternal 4-OH-CB-107 was significantly associated with lower MDI ( beta = -1.76 ; p = 0.03 ) but not PDI .
+No other OH-PCB metabolites were associated with decreased PDI or MDI .
+CONCLUSIONS Our findings showed a significant association of 4-OH-CB-107 with decreased MDI , which can possibly be mediated by endocrine disruption , altered neurotransmitter functions , or reduced thyroid hormone concentrations in brain .

@@ -1,0 +1,9 @@
+The association between indoor exposure to volatile organic compounds ( VOC ) , prevalence of allergic sensitization and cytokine secretion profile of peripheral T cells was studied in 3 year old children of the LARS study ( Leipzig Allergy Risk Children Study ) to investigate the role of VOC exposure as a risk factor for the development of atopic disease .
+Indoor VOC exposure was measured over a period of 4 weeks in infants ' bedrooms using a passive sampling system .
+Specific IgE antibodies to food , indoor and outdoor allergens were measured by the Pharmacia CAP system and correlated to VOC exposure ( n = 120 ) .
+In addition , cytokine producing peripheral T cells ( interleukin(IL)-4 , interferon(IFN)-gamma ) were measured in a subgroup of 28 children by means of intracellular cytokine staining .
+For the first time we were able to show that exposure to alkanes ( C6 , C9 , C10 ) and aromatic compounds ( toluene , o-xylene , m + p-xylene , 2- , 3- and 4-ethyl-toluene , chlorobenzene ) may contribute to the risk of allergic sensitization to the food allergens milk and egg white ( Odds ratios between 5.7 and 11.2 ) .
+Moreover , significantly reduced numbers of CD3+/CD8+ peripheral T cells were found in children exposed to alkanes ( C9-C13 ) , naphthalene and chlorobenzene .
+Exposure to benzene , ethylbenzene and chlorobenzene was associated with higher percentages of IL-4 producing CD3+ T cells .
+Both an increase in IL-4 producing type 2 T cells and a reduction of IFN-gamma producing type 1 T cells may contribute to a type 2 skewed memory in response to allergens .
+Therefore , we suggest exposure to VOCs in association with allergic sensitization to be mediated by a T cell polarization toward the type 2 phenotype .

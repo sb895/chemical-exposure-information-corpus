@@ -1,0 +1,7 @@
+To assess the effects of environmental exposures to trace metals on the incidence of preeclampsia , concentrations of lead ( Pb ) , antimony ( Sb ) , manganese ( Mn ) , mercury , cadmium , cobalt and zinc in umbilical cord blood ( UCB ) and mother whole blood ( MWB ) were measured in 396 postpartum women without occupational exposure to metals in Tehran , Iran , using inductively coupled plasma mass spectrometry .
+Mother's ages ranged from 15 to 49 ( mean 27 ) years .
+Preeclampsia was diagnosed in 31 subjects ( 7.8% ) .
+Levels of Pb , Sb and Mn in UCB were significantly higher in preeclampsia cases [ mean+/-SD of 4.30+/-2.49 microg/dl , 4.16+/-2.73 and 46.87+/-15.03 microg/l , respectively ] than in controls [ 3.52+/-2.09 microg/dl , 3.17+/-2.68 and 40.32+/-15.19 microg/l , respectively ] ( P<0.05 ) .
+The logistic regression analysis revealed that one unit increase in the common logarithms of UCB concentration of Pb , Sb or Mn led to increase in the risk of preeclampsia several-fold ; unit risks ( 95% CI ) were 12.96 ( 1.57-107.03 ) , 6.11 ( 1.11-33.53 ) and 34.2 ( 1.81-648.04 ) for Pb , Sb and Mn , respectively ( P<0.05 ) .
+These findings suggest that environmental exposure to Pb , Sb and Mn may increase the risk of preeclampsia in women without occupational exposure ; levels of metals in UCB to be sensitive indicators of female reproductive toxicity as compared with those in mother MWB .
+Further studies are necessary to confirm these findings , especially on Sb and Mn .

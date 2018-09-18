@@ -1,0 +1,9 @@
+Print workers are exposed to organic solvents , of which the systemic toxicant toluene is a main component .
+Toluene induces expression of cytochrome P450 2E1 ( CYP2E1 ) , an enzyme involved in its own metabolism and that of other protoxicants , including some procarcinogens .
+Therefore , we investigated the association between toluene exposure and the CYP2E1 response , as assessed by mRNA content in peripheral lymphocytes or the 6-hydroxychlorzoxazone ( 6OH-CHZ)/chlorzoxazone ( CHZ ) quotient ( known as CHZ metabolic ratio ) in plasma , and the role of genotype ( 5 -flanking region RsaI/PstI polymorphic sites ) in 97 male print workers .
+The geometric mean ( GM ) of toluene concentration in the air was 52.80 ppm ( 10-760 ppm ) ; 54% of the study participants were exposed to toluene concentrations that exceeded the maximum permissible exposure level ( MPEL ) .
+The GM of urinary hippuric acid at the end of a work shift ( 0.041 g/g creatinine ) was elevated relative to that before the shift ( 0.027 g/g creatinine ; p < 0.05 ) .
+The GM of the CHZ metabolic ratio was 0.33 ( 0-9.3 ) , with 40% of the subjects having ratios below the GM .
+However , the average CYP2E1 mRNA level in peripheral lymphocytes was 1.07 ( 0.30-3.08 ) , and CYP2E1 mRNA levels within subjects correlated with the toluene exposure ratio ( environmental toluene concentration:urinary hippuric acid concentration ) ( p = 0.014 ) .
+Genotype did not alter the association between the toluene exposure ratio and mRNA content .
+In summary , with further validation , CYP2E1 mRNA content in peripheral lymphocytes could be a sensitive and noninvasive biomarker for the continuous monitoring of toluene effects in exposed persons .

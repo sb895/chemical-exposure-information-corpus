@@ -1,0 +1,12 @@
+We have characterized environmental exposures among 187 women who were pregnant , were at or near the World Trade Center ( WTC ) on or soon after 11 September 2001 , and are enrolled in a prospective cohort study of health effects .
+Exposures were assessed by estimating time spent in five zones around the WTC and by developing an exposure index ( EI ) based on plume reconstruction modeling .
+The daily reconstructed dust levels were correlated with levels of particulate matter < or = 2.5 microm in aerodynamic diameter ( PM2.5 ; r = 0.68 ) or PM10 ( r = 0.73-0.93 ) reported from 26 September through 8 October 2001 at four of six sites near the WTC whose data we examined .
+Biomarkers were measured in a subset .
+Most ( 71% ) of these women were located within eight blocks of the WTC at 0900 hr on 11 September , and 12 women were in one of the two WTC towers .
+Daily EIs were determined to be highest immediately after 11 September and became much lower but remained highly variable over the next 4 weeks .
+The weekly summary EI was associated strongly with women's perception of air quality from week 2 to week 4 after the collapse ( p < 0.0001 ) .
+The highest levels of polycyclic aromatic hydrocarbon-deoxyribonucleic acid ( PAH-DNA ) adducts were seen among women whose blood was collected sooner after 11 September , but levels showed no significant associations with EI or other potential WTC exposure sources .
+Lead and cobalt in urine were weakly correlated with sigmaEI , but not among samples collected closest to 11 September .
+Plasma OC levels were low .
+The median polychlorinated biphenyl level ( sum of congeners 118 , 138 , 153 , 180 ) was 84 ng/g lipid and had a nonsignificant positive association with sigmaEI ( p > 0.05). 1,2,3,4,6,7,8-Heptachlorodibenzodioxin levels ( median , 30 pg/g lipid ) were similar to levels reported in WTC-exposed firefighters but were not associated with EI .
+This report indicates intense bystander exposure after the WTC collapse and provides information about nonoccupational exposures among a vulnerable population of pregnant women .

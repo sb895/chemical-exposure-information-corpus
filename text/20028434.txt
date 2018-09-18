@@ -1,0 +1,12 @@
+UNLABELLED The aim of this study was to evaluate the levels of semi-volatile compounds ( SVOCs ) in residential detached houses in Sapporo , Japan , and whether exposure to these SVOCs was associated with the development of building-related symptoms named ' sick house syndrome ' ( SHS ) .
+The definition of SHS is fundamentally the same as that of the sick building syndrome ( SBS ) .
+The presence of symptoms of SHS was evaluated using a validated self-administered questionnaire .
+Surveys and samplings of air and house dust in 41 dwellings were performed from October 2006 to January 2007 , and 134 occupants responded to questionnaires .
+Samples were analyzed to quantify the concentrations of eight plasticizers , eleven phosphate triester flame retardants , two alkyl phenols used as anti-oxidants , and one organochlorine synergist called s-421 , by gas chromatography-mass spectrometry and gas chromatography-flame photometry .
+The compounds frequently detected were di-n-butylphthalate , di(2-ethylhexyl)phthalate ( DEHP ) , and dibutylhydroxytoluene in air , and DEHP and tris(2-butoxyethyl)phosphate ( TBEP ) in dust .
+Tributylphosphate was strongly and directly associated with mucosal symptoms of SHS ; s-421 was also directly associated with mucosal symptoms of SHS .
+On the contrary , some chemicals such as diethylphthalate and TBEP were inversely associated with SHS .
+In future studies , we plan to assess these associations in a larger population .
+PRACTICAL IMPLICATIONS This study suggests that it may be possible to reduce building-related symptoms by altering exposure to certain SVOCs , such as tributylphosphate commonly found in ceiling and wall coverings and s-421 used as a synergist for pyrethroids .
+The association between SHS and s-421 suggested that use of pyrethroid insecticides could elicit symptoms of SHS .
+However , further studies are necessary to test the associations observed in the present study and to examine whether the SVOCs associated with symptoms are causative agents or simply surrogates for some other factor that is causing the symptoms .

@@ -1,0 +1,13 @@
+OBJECTIVE The detection of fetal exposure to environmental pesticides is important because many of the pesticides are neurotoxicants and fetal exposure to these compounds can adversely affect prenatal and subsequent neurodevelopment .
+The aim of this study was to determine , by the comparative analysis of infant hair , cord blood and meconium , the most sensitive matrix to detect fetal exposure to pesticides .
+PATIENTS AND METHODS Pregnant women were prospectively recruited from an agricultural site in the Philippines where a preliminary survey indicated a substantial use at home and in the farm of the following pesticides : propoxur , cyfluthrin , chlorpyrifos , cypermethrin , pretilachlor , bioallethrin , malathion , diazinon and transfluthrin .
+Infant hair , cord blood and meconium were obtained after birth and were analyzed by gas chromatography/mass spectrometry for the above compounds , including lindane and 1,1,1-trichloro-2,2-bis , p-chlorophenylethane ( DDT ) and some of their known metabolites .
+RESULTS A total of 638 infants were included in the study .
+The highest exposure rate to pesticides was detected in meconium ( 23.8% to propoxur , 1.9% to pretilachlor , 1.9% to cypermethrin , 0.8% to cyfluthrin , 0.6% to DDT and 0.3% to malathion and bioallethrin ) .
+Cord blood was only positive for propoxur ( 1.9% ) whereas infant hair was only positive for chlorpyrifos ( 0.2% ) .
+The highest exposure was to household pesticide ( propoxur ) .
+The frequency and concentration of pesticides were compared in the three matrices and there was a significantly higher frequency and concentration of propoxur , pretilachlor , DDT , cyfluthrin and cypermethrin in meconium compared to cord blood and infant hair .
+Pesticide metabolites were not found in any of the matrices analyzed , except in one meconium sample which was positive for 4,4 ' dichlorodiphenyldichloro ethylene ( DDE ) , a DDT metabolite .
+CONCLUSIONS There is significant exposure of the pregnant woman and her fetus to pesticides , particularly to the home pesticide , propoxur .
+Our study has demonstrated that among cord blood , meconium or infant hair , meconium is the most sensitive matrix to analyze for fetal exposure to pesticides .
+The accumulation of pesticides in meconium , the ease of meconium collection and the large amount of meconium that could be collected are factors that contribute to the increased sensitivity of this matrix .

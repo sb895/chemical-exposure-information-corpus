@@ -1,0 +1,7 @@
+The aim of this study was to investigate whether the use of an inhalable aerosol sampler would improve the correlation between urinary 1-hydroxypyrene and occupational pyrene exposure compared to measurements with a total dust sampler in an electrode paste plant .
+PAHs were collected on a filter and adsorbent by a 37-mm closed-face total aerosol sampler and an open-face sampler for inhalable aerosol from the Institute of Occupational Medicine ( IOM). 1-Hydroxypyrene in pre- and post-shift urine samples was quantitated by high performance liquid chromatography ( HPLC ) .
+In this study , the use of the IOM sampler resulted in approximately four times higher concentrations of particulate PAH and pyrene than the total dust sampler .
+The correlation between pyrene levels measured with the two samplers was good with a correlation coefficient of 0.83 .
+The correlation between workplace air pyrene and 1-hydroxypyrene in post-shift urine was poor ( r = -0.12 ) , but a small non-significant improvement was found with the IOM sampler ( r = 0.11 ) .
+In this factory the use of an inhalable aerosol sampler had only marginal effect on the correlation between 1-hydroxypyrene in urine and breathing zone pyrene .
+These results indicate that skin exposure is an important route of PAH uptake in this plant .

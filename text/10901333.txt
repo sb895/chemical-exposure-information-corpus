@@ -1,0 +1,8 @@
+A study was conducted to evaluate toenail arsenic concentrations as a biologic marker of drinking water arsenic exposure .
+Study subjects were controls in a US population-based case-control study of nonmelanoma skin cancer , randomly selected from drivers ' license records ( those < 65 years of age ) and Medicare enrollment files ( those > or = 65 years of age ) .
+Between 1994 and 1997 , a total of 540 controls were interviewed and toenail samples of sufficient weight were collected from 506 ( 93.7% ) of these .
+Beginning in 1995 , a sample of tap water was taken from the participants ' homes ; a total of 217 ( 98.6% ) water samples were obtained from the 220 subjects interviewed .
+Arsenic determinations were made from toenail samples using neutron activation analysis .
+Water samples were analyzed using hydride-generation magnet sector inductively coupled mass spectrometry .
+Among 208 subjects with both toenail and water measurements , the correlation ( r ) between water and nail arsenic was 0.65 ( p < 0.001 ) among those with water arsenic concentrations of 1 microg/liter or higher and 0.08 ( p = 0.31 ) among those with concentrations below 1 microg/liter ( overall r = 0.46 , p < 0.001 ) .
+Our data suggest that toenail samples provide a useful biologic marker for quantifying low-level arsenic exposure .

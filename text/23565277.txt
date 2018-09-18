@@ -1,0 +1,9 @@
+In Guiyu , an electronic waste recycling site near Shantou , Guangdong province , China , primitive ways of e-waste processing have caused severe cadmium and lead pollution to the local residents .
+However , the possible effects of cadmium or lead pollution to genomic integrity of the local residents have not been investigated .
+We examined the possible relationship between cadmium and lead concentrations in placenta and placental telomere length in Guiyu and compared the data with that of a non-polluted town .
+Graphite furnace atomic absorption spectrometry and real-time PCR were used to determine placental cadmium and lead concentrations , and placental telomere length .
+We found that placental cadmium concentration was negatively correlated with placental telomere length ( r\u200a=\u200a-0.138 , p\u200a=\u200a0.013 ) .
+We also found that placental cadmium concentration of 0.0294 µg/g might be a critical point at which attrition of placental telomere commenced .
+No significant correlation between placental lead concentration and placental telomere length was detected ( r\u200a=\u200a0.027 , p\u200a=\u200a0.639 ) .
+Our data suggest that exposure to cadmium pollution during pregnancy may be a risk factor for shortened placental telomere length that is known to be related to cancer development and aging .
+Furthermore , grave consequence on the offspring from pregnancies in e-waste polluted area is indicated .

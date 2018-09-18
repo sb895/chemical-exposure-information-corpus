@@ -1,0 +1,10 @@
+We have measured non-ortho-substituted ( coplanar ) polychlorinated biphenyl ( PCB ) levels as well as polychlorinated dibenzo-p-dioxin ( PCDD ) and polychlorinated dibenzofuran ( PCDF ) levels in human adipose tissue and serum collected in Atlanta , Georgia .
+The results show that the concentrations of the coplanar PCBs can be more than an order of magnitude higher than the concentrations of 2,3,7,8-tetrachlorodibenzo-p-dioxin .
+Our measurements in pooled serum collected in 1982 , 1988 , and 1989 show a decrease in coplanar PCB levels from 1982 to 1989 .
+We found that the pattern of relative amounts of coplanar PCBs in adipose tissue varied greatly from person to person unlike the PCDD and PCDF patterns , which were more nearly the same .
+Age was significantly correlated with the concentrations of 2,3,7,8-TCDD,3,3'4,4'-PCB , 3,3',4,4',5-PCB , and 3,3'4,4',5,5'-PCB in adipose tissue .
+We also measured levels of the mono- and di-ortho chlorine-substituted PCBs in human serum .
+The levels for some of these PCB congeners were three orders of magnitude higher than the coplanar PCBs , PCDDs , and PCDFs .
+We used the international toxicity equivalency factors ( TEFs ) for PCDDs and PCDFs and the TEFs proposed by Safe for PCBs to calculate the 2,3,7,8-TCDD equivalents .
+Four PCBs ( 3,3',4,4',5- ; 2,3',4,4',5-;2,3,3',4,4'-;2,3,3',4,4',5- ) make a larger contribution than 2,3,7,8-TCDD , while four other PCBs ( 3,3',4,4'5,5'- ; 2,2',3,4,4',5'-;2,2',4,4',5,5'-;2,2',3,4,4',5,5'- ) make nearly the same contribution as 2,3,7,8-TCDD .
+The mono-ortho-chlorine-substituted 2,3',4,4',5-PCB , however , is the major contributor to the total 2,3,7,8-TCDD equivalents in general population samples from the United States , Sweden , and Japan.(ABSTRACT TRUNCATED AT 250 WORDS )

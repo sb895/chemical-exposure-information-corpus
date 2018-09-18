@@ -1,0 +1,10 @@
+Polybrominated diphenyl ethers ( PBDEs ) , widely used as flame retardants in commercial products , have become ubiquitous environmental contaminants .
+Although adult human exposure to PBDEs is well documented , developmental exposure is less well characterized .
+The objectives of this study were to measure maternal and fetal exposure to nine PBDE congeners and to investigate potential associations with birth weight .
+PBDE congeners were quantified in maternal serum at 24-28 weeks of pregnancy , delivery , and umbilical cord serum ( UCS ) by gas chromatography-mass spectrometry ( GC/MS/MS ) .
+Complete blood sample sets were obtained from 97 pregnant women ( mean age 33.1±0.5 years ) .
+PBDE-28 , -47 and -99 were quantified in all samples tested and PBDE-47 was the most abundant congener measured in both maternal ( mid-pregnancy and delivery samples geometric mean=26.9 and 26.9 , respectively ) and UCS ( GM=56.0 ng g(-1) lipid ) .
+The UCS concentration for all congeners with the exception of PBDE-153 was higher vs. maternal delivery samples ( p<0.001 ) .
+Only the UCS concentration of PBDE-17 and -99 were significantly associated ( \u03b2=-49.860 , p=0.032 , and \u03b2=-3.645 , p=0.05 ) with birth weight .
+However , after adjustment for potential confounders only the association between PBDE-99 and birth weight remained significant ( \u03b2=-3.951 and p=0.016 ) .
+We conclude that : the fetus is exposed to PBDEs from at least the second trimester of pregnancy onward ; PBDE congeners are higher in UCS compared to maternal serum samples collected at delivery ; and that developmental PBDE exposure is potentially associated with lower birth weight .

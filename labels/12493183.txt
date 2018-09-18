@@ -1,0 +1,1 @@
+<Biomonitoring--effect marker--biomarker--oxidative stress AND  Biomonitoring--exposure biomarker--blood--<Biomonitoring--exposure biomarker--blood-- AND exposure routes--oral intake--products--< < <exposure routes--oral intake--food--

@@ -1,0 +1,12 @@
+Diisononyl phthalate ( DINP ) is a complex mixture of predominantly nine-carbon branched-chain dialkyl phthalate isomers .
+Similar to di(2-ethylhexyl) phthalate , a widely used phthalate , DINP causes antiandrogenic effects on developing rodent male fetuses .
+Traditionally , assessment of human exposure to DINP has been done using monoisononyl phthalate ( MINP ) , the hydrolytic metabolite of DINP , as a biomarker .
+However , MINP is only a minor urinary metabolite of DINP .
+Oxidative metabolites , including mono(carboxyisooctyl) phthalate ( MCIOP ) , mono(oxoisononyl) phthalate ( MOINP ) , and mono(hydroxyisononyl) phthalate ( MHINP ) are the major urinary metabolites in DINP-dosed rats .
+The urinary concentrations of MINP , MCIOP , MOINP , and MHINP were measured in 129 adult anonymous human volunteers with no known exposure to DINP .
+Although MINP was not present at detectable levels in any of the samples analyzed , MCIOP , MHINP , and MOINP were detected in 97 , 100 , and 87% of the urine samples at geometric mean levels equal to 8.6 , 11.4 , and 1.2 ng/mL , respectively .
+The concentrations of all three oxidative metabolites were highly correlated with each other ( p<0.0001 ) , which confirms a common precursor .
+MCIOP was excreted predominantly as a free species , whereas MOINP was excreted mostly in its glucuronidated form .
+The percentage of MHINP excreted either glucuronidated or in its free form was similar .
+The significantly higher frequency of detection and urinary concentrations of oxidative metabolites than of MINP suggest that these oxidative metabolites are better biomarkers of exposure assessment of DINP than is MINP .
+Therefore , we concluded that the prevalence of human exposure to DINP is underestimated by using MINP as the sole DINP urinary biomarker .

@@ -1,0 +1,10 @@
+To investigate a possible common environmental exposure that may partially explain the observed decrease in human semen quality , we correlated seminal plasma and blood cadmium levels with sperm concentration and sperm motility .
+We studied three separate human populations : group 1 , infertility patients ( Long Island , NY , USA ) ; group 2 , artificial insemination donors ( AID ) ( Rochester , NY , USA ) ; and group 3 , general population volunteers ( Rochester , NY , USA ) .
+Information about confounding factors was collected by questionnaire .
+Seminal plasma cadmium did not correlate with blood cadmium ( Spearman correlation , n = 91 , r = -0.092 , P = 0.386 , NS ) .
+Both blood and seminal plasma cadmium were significantly higher among infertility patients than the other subjects studied ( for example , median seminal plasma cadmium was 0.282 microg/L in infertility patients versus 0.091 microg/L in AID and 0.092 microg/L in general population volunteers ; Kruskal-Wallis test , P < 0.001 ) .
+The percentage of motile sperm and sperm concentration correlated inversely with seminal plasma cadmium among the infertility patients ( r = -0.201 , P < 0.036 and r = -0.189 , P < 0.05 , respectively ) , but not in the other two groups .
+Age ( among infertility patients ) was the only positive confounder correlating with seminal plasma cadmium .
+To validate our human findings in an animal model , we chronically exposed adolescent male Wistar rats to low-moderate cadmium in drinking water .
+Though otherwise healthy , the rats exhibited decreases in epididymal sperm count and sperm motility associated with cadmium dose and time of exposure .
+Our human and rat study results are consistent with the hypothesis that environmental cadmium exposures may contribute significantly to reduced human male sperm concentration and sperm motility .

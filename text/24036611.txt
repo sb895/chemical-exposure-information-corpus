@@ -1,0 +1,12 @@
+BACKGROUND Epidemiologic data regarding the potential neurotoxicity of perfluorinated compounds ( PFCs ) are inconclusive .
+We investigated the associations between in utero exposure to perfluorooctanoic acid ( PFOA ) and perfluorooctyl sulfonate ( PFOS ) and early childhood neurodevelopment .
+METHODS We recruited 239 mother-infant pairs in northern Taiwan from the Taiwan Birth Panel Study , which was established in 2004 .
+We examined the association between PFCs in cord blood and children's neurodevelopment at 2 years of age , using the Comprehensive Developmental Inventory for Infants and Toddlers .
+This tool contains cognitive , language , motor , social , and self-help domains ; test scores were further transformed into developmental quotients according to standardized norms .
+All multivariate regression models were adjusted for infant sex and gestational age , maternal education , family income , cord blood cotinine levels , postnatal environmental tobacco smoke exposure , and breastfeeding .
+RESULTS Prenatal PFOS concentrations in both untransformed and natural log ( Ln)-transformed values were associated with adverse performance on the whole test and the domains related to development .
+A dose-response relationship was observed when PFOS levels were categorized into four groups .
+This association was most obvious in relation to the gross-motor subdomain .
+Across the PFOS interquartile range , the quotients of the gross-motor subdomain decreased by 3.7 points ( 95% confidence interval [ CI ] = -6.0 to -1.5 ) , with an increasing odds ratio of poor performance ( 2.4 ; 95% CI = 1.3 to 4.2 ) .
+In contrast , measures of association between PFOA concentrations and test scores were close to null .
+CONCLUSIONS Prenatal exposure to PFOS , but not PFOA , may affect children's development , especially gross-motor development at 2 years of age .

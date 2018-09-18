@@ -1,0 +1,11 @@
+OBJECTIVES Fish consumption has been associated with reduced risk of cardiovascular diseases ( CVD ) , especially sudden cardiac death ( SCD ) .
+Fish is the major source of long-chain n-3 polyunsaturated fatty acids ( PUFA ) eicosapentaenoic acid and docosahexaenoic acid .
+It is also a major source of methylmercury , which was associated with increased risk of CVD in this study population .
+Impact of interaction between long-chain n-3 PUFA and methylmercury on the SCD risk is unknown .
+METHODS A total of 1857 men from the prospective , population-based Kuopio Ischaemic Heart Disease Risk Factor study , aged 42-60 years and free of CVD at baseline in 1984-1989 , were studied .
+Serum long-chain n-3 PUFA was used as the marker for long-chain n-3 PUFA intake and hair mercury as the marker for mercury exposure .
+RESULTS During the mean follow-up of 20.1 years , 91 SCD events occurred .
+In the multivariate Cox proportional hazards regression models , serum long-chain n-3 PUFA concentration was not associated with the risk of SCD until hair mercury was accounted for ; then the hazard ratio ( HR ) in the highest vs. lowest tertile was 0.54 [ 95% confidence interval ( CI ) 0.32 to 0.91 , p for trend\u200a=\u200a0.046 ] .
+When the analyses were stratified by hair mercury content , among those with lower hair mercury , each 0.5 percentage unit increase in the serum long-chain n-3 PUFA was associated with HR of 0.77 ( 95% CI 0.64 to 0.93 ) , whereas no association was seen among those with higher hair mercury ( p for interaction\u200a=\u200a0.01 ) .
+Among the individual long-chain n-3 PUFA , docosahexaenoic acid was most strongly associated with the risk .
+CONCLUSION High exposure to mercury may reduce the benefits of long-chain n-3 PUFA on SCD .

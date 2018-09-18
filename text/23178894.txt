@@ -1,0 +1,10 @@
+Polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) have been reported as possible carcinogenic hazards to humans .
+However , epidemiological studies on their carcinogenic roles are limited .
+The current study was designed to determine the concentrations and characteristics of PCDD/Fs and evaluate their association with cancer mortality in exposed workers in one automobile foundry factory .
+PCDD/F levels in factory and surrounding environment were analyzed through air and settling dust sampling .
+The cancer mortalities among workers in this foundry factory were calculated using data from a cohort study .
+The results showed that the PCDD/F concentrations of air in workplace ranged 0.36-2.25 pg World Health Organization-Toxic Equivalent ( WHO-TEQ ) Nm(-3) ( average 1.01 pg WHO-TEQ Nm(-3) ) , which were 1.16-7.26 times higher than those outside the factory .
+The PCDD/F concentrations of settling dust in the workplace ranged 3.34-18.64 pg WHO-TEQ g(-1) ( average 8.25 pg WHO-TEQ g(-1) ) , which were lower than those just outside the factory ( average 16.13 pg WHO-TEQ g(-1) ) .
+Furthermore , a cohort study of workers in this factory with average follow-up of 24.52 years showed that cancer was the leading cause of death , with significant elevated mortality ( standardized mortality ratio ( SMR)=1.70 , 95% confidence interval ( CI ) : 1.35-2.13 ) among workers , when compared with Chinese national mortality .
+The cancer mortality among front-line workers was increased significantly ( adjusted relative risk ( RR)=1.73 , 95% CI : 1.14-2.60 ) , particularly among melting and casting workers , when compared with that among assistant workers .
+Our results indicated that there was a dose-response relationship between PCDD/F exposure and cancer mortality among foundry workers .

@@ -1,0 +1,11 @@
+Comparative evaluation was made on alpha(1)-microglobulin ( alpha(1)-MG ) , beta(2)-microglobulin ( beta(2)-MG ) , retinol binding protein ( RBP ) and N-acetyl-beta-D-glucosaminidase ( NAG ) , as a marker of renal tubular dysfunction after environmental exposure to cadmium ( Cd ) , with special references to the effects of aging and correction for creatinine concentration .
+For this purpose , a previously established database of 817 never-smoking Japanese women ( at the ages of 20 to 74 years ) on hematological [ hemoglobin , serum ferritin ( FE ) , etc. ] and urinary parameters [ alpha(1)-MG , beta(2)-MG , creatinine ( cr ) , and a specific gravity ] was revisited .
+For the present analysis , the database was supplemented by the data on RBP and NAG in urine .
+The exposure of the women to Cd was such that the geometric mean Cd in urine was 1.3 microg/g cr .
+Among the four tubular dysfunction markers , NAG showed the closest correlation with Cd , followed by alpha(1)-MG and then beta(2)-MG , and RBP was least so although the correlations were all statistically significant .
+The observed values of the markers gave the best results , whereas correction for a urine specific gravity gave poorer correlation , and it was the worst when correction for creatinine concentration was applied .
+Age was the most influential confounding factor .
+The effect of age appeared to be attributable at least in part to the fact that both creatinine and , to a lesser extent , the specific gravity decreased as a function of age .
+Iron deficiency anemia of sub-clinical degree as observed among the women did not affect any of the four tubular dysfunction markers .
+In conclusion , NAG and alpha(1)-MG , rather beta(2)-MG or RBP , are more sensitive to detect Cd-induced tubular dysfunction in mass screening .
+The use of uncorrected observed values of the markers rather than traditional creatinine-corrected values is recommended when comparison covers people of a wide range of ages .

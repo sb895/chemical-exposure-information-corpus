@@ -1,0 +1,7 @@
+OBJECTIVES We examined the association between arsenic exposure and peripheral neuropathy in Bangladesh , where the population has been chronically exposed to arsenic in drinking water .
+METHODS We conducted a cross-sectional study of 137 subjects derived from a larger cohort .
+Exposure measures included individual water arsenic concentration , cumulative arsenic index , and urinary arsenic concentration taken at two time points ( 2001 and 2003 ) .
+The primary outcome measurement was elevated vibrotactile threshold , as measured by a vibration sensitivity tester ( Vibratron II ) .
+RESULTS Arsenic exposure was associated with elevated toe vibration threshold ( TVT ) .
+Specifically , cumulative arsenic index and urinary arsenic ( 2001 ) were both significantly associated with elevated TVT ( P = 0.02 and P = 0.009 , respectively ) after adjustment for age and gender .
+CONCLUSIONS Increased arsenic exposure , as measured by both cumulative and urinary measures , was associated with evidence of subclinical sensory neuropathy .

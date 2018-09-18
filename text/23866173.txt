@@ -1,0 +1,9 @@
+Persistent organic pollutants ( POPs ) are ubiquitous residual contaminants in the environment and in the food chain .
+Milk is an important matrix for monitoring POP contamination .
+This study determined the concentrations of POPs including polybrominated diphenyl ethers ( PBDEs ) , hexachlorobenzene ( HCB ) , polychlorinated dibenzo-p-dioxins and dibenzofurans ( PCDD/Fs ) , and dioxin-like polychlorinated biphenyls ( DL-PCBs ) in raw bovine milk , and the data was used to estimate dietary intakes in South Korea .
+The average concentrations of PBDEs , HCB , PCDD/Fs , and DL-PCBs in raw milk were 0.29 ng g(-1)fat , 0.50 ng g(-1)fat , 0.27 pg TEQ g(-1)fat , and 0.33 pg TEQ g(-1)fat , respectively .
+No significant relationship was found between the concentrations of analytes and the regions sampled .
+The dietary intakes of PBDEs from the consumption of milk was calculated to be 0.26 , 0.10 , and 0.05ng kg(-1)bwd(-1) for the group of ages 0-6 , 7-12 , and 13-19 , respectively .
+The dietary intakes of HCB was calculated to be 0.44 , 0.16 , and 0.09 ng kg(-1)bwd(-1) for the group of ages 0-6 , 7-12 , and 13-19 , respectively .
+The dietary intakes of PCDD/Fs and DL-PCBs was calculated to be 0.78 , 0.29 , and 0.16pgTEQ kg(-1)bwd(-1) for the group of ages 0-6 , 7-12 , and 13-19 , respectively .
+These results indicated that the residual levels of PBDEs , HCB , PCDD/Fs , and DL-PCBs in raw bovine milk were within safe levels .

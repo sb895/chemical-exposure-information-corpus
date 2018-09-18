@@ -1,0 +1,12 @@
+OBJECTIVE Bisphenol A ( BPA ) is found in plastics and other consumer products ; exposure may lead to insulin resistance and development of type-2 diabetes mellitus ( T2DM ) through over-activation of pancreatic \u03b2-cells .
+Previous studies using data from the National Health and Nutrition Examination Survey ( NHANES ) showed an inconsistent association between prevalence of self-reported T2DM and urinary BPA .
+We used a different diagnosis method of T2DM ( hemoglobin A1c ( HbA1c) ) with a larger subset of NHANES .
+METHODS AND FINDINGS We analyzed data from 4,389 adult participants who were part of a sub-study of environmental phenol measurements in urine from three NHANES cycles from 2003 to 2008 .
+T2DM was defined as having a HbA1c \u2265 6.5% or use of diabetes medication .
+The weighted prevalence of T2DM was 9.2% .
+Analysis of the total sample revealed that a two-fold increase in urinary BPA was associated with an odds ratio ( OR ) of 1.08 of T2DM ( 95% confidence interval ( CI ) , 1.02 to 1.16 ) , after controlling for potential confounders .
+However , when we examined each NHANES cycle individually , we only found a statistically significant association in the 2003/04 cycle ( n = 1,364 , OR = 1.23 ( 95% CI , 1.07 to 1.42 ) for each doubling in urinary BPA ) .
+We found no association in either the NHANES cycle from 2005/06 ( n = 1,363 , OR = 1.05 ( 95% CI , 0.94 to 1.18) ) ; or 2007/08 ( n = 1,662 , OR = 1.06 ( 95% CI , 0.91 to 1.23) ) .
+Similar patterns of associations between BPA and continuous HbA1c were also observed .
+CONCLUSIONS Although higher urinary BPA was associated with elevated HbA1c and T2DM in the pooled analysis , it was driven by data from only one NHANES cycle .
+Additional studies , especially of a longitudinal design with repeated BPA measurements , are needed to further elucidate the association between BPA and T2DM .

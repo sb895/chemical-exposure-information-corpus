@@ -1,0 +1,10 @@
+Normal endocrine function in utero and early in childhood influences later height and weight attainment .
+Polychlorinated biphenyls ( PCBs ) are persistent environmental contaminants with suspected endocrine-disrupting properties .
+PCBs may mimic or inhibit hormone and endocrine processes based in part on their structural configuration , with non-ortho-substituted PCBs having a coplanar orientation and ortho-substituted PCBs becoming increasingly noncoplanar .
+Coplanar and noncoplanar PCBs have known differences in biologic effect .
+Animal studies link prenatal PCB exposure to adverse birth and early-life growth outcomes , but epidemiologic studies are conflicting .
+We examined whether prenatal exposure to PCBs , categorized by their degree of ortho-substitution , affected childhood height and weight attainment in 150 children ( 109 boys and 41 girls ) with African-American mothers born at the Columbia-Presbyterian Hospital from 1959 through 1962 .
+Stratifying by sex , we used regression models for repeated measures to investigate associations between maternal levels of PCBs and height and weight through 17 years of age .
+Maternal levels of ortho-substituted PCBs were associated with reduced weight through 17 years of age among girls but not among boys .
+Tri-ortho-substituted PCBs were marginally associated with increased height in boys .
+Although limited by sample size , our results suggest that prenatal exposure to PCBs may affect growth , especially in girls , and that ortho-substitution is an important determinant of its effect on growth .

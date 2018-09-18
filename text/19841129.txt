@@ -1,0 +1,8 @@
+The skin is an organ that is highly sensitive to chronic arsenic ( As ) exposure .
+Skin lesions such as hyperkeratoses ( HKs ) are common early manifestations of arsenicosis in humans .
+HKs can be precursor lesions of nonmelanoma skin cancers ( NMSCs ) , but the driving forces behind their formation and how they may ultimately progress to NMSCs are unknown .
+The goal of this study was to examine the global gene expression profiles of As-related HKs in an effort to better understand gene expression changes that are potentially associated with early stages of As carcinogenesis .
+HK biopsies were removed from individuals living in an arsenicosis-endemic region in Inner Mongolia who had been exposed to high As levels in their drinking water for >20 years .
+Gene expression profiling was performed on RNA isolated from 7 individuals in this group and from 4 lesion-free skin samples from healthy individuals .
+Consistent with the pathological characteristics of the HK lesions , major functional categories and known canonical pathways represented by altered transcripts include those involved in development , differentiation , apoptosis , proliferation , and stress response .
+The results of this study may help define a signature profile of gene expression changes associated with long-term As exposure in the skin .

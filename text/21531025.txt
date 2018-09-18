@@ -1,0 +1,8 @@
+Sixty breast milk samples were collected in Shenzhen , China from July to November in 2007 .
+The samples were analyzed of the concentrations of polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzofurans ( PCDFs ) and polychlorinated biphenyls ( PCBs ) .
+The range of upper-bound for \u2211TEQ-(PCDD/Fs+PCBs) in the samples was 4.10-35.3 pg TEQ g(-1) lipid ( median : 10.6 pg TEQ g(-1) lipid ; mean : 11.9 pg TEQ g(-1) lipid ) .
+The levels of the measured contaminants in the breast milk had significant correlations with the length of inhabitation period in Shenzhen ( r=0.487 , p<0.05 for PCDD/Fs , r=0.431 , p<0.05 for PCBs and r=0.478 , p<0.05 for \u2211TEQ-(PCDD/Fs+PCBs) ) , and the consumption rate of fish ( r=0.366 , p<0.05 for PCDD/Fs , r=0.486 , p<0.05 for PCBs and r=0.416 , p<0.05 for \u2211TEQ-(PCDD/Fs+PCBs) ) , respectively .
+Moreover , significant positive correlations were also detected between the participant's age ( r=0.305 , p<0.05 for \u2211TEQ-PCBs and r=0.275 , p<0.05 for \u2211TEQ-(PCDD/Fs+PCBs) ) and the body burdens of these contaminants respectively .
+It is estimated that the daily intake ( EDI ) of the sum of PCDD/Fs and DL-PCBs by the breast-fed infants was 5.60-161 pg TEQ kg(-1) bw per day ( mean : 48.2 pg TEQ kg(-1) bw per day ; median : 42.2 pg TEQ kg(-1) bw per day ) .
+The result showed that both the body burdens of PCDD/Fs and PCBs of the recruit population and the calculated EDI of the breast-fed infants were higher than those in the non-exposed areas in mainland China .
+This suggests that continuous surveillance on PCDD/Fs and PCBs levels in human milk is critical to more precisely evaluate the human health risk posed by the negative environmental impact in Shenzhen in the future .

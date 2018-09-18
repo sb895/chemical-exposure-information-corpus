@@ -1,0 +1,7 @@
+The associations among daily counts of intrauterine mortality and pollutant concentrations ( NO2 , SO2 , CO , O3 , and particulate matter ( 3/4)10 microm ) were investigated for the period ranging from January 1991 to December 1992 in the city of São Paulo , Brazil .
+We used Poisson regression techniques , adjusted for season and weather .
+The association between intrauterine mortality and air pollution was strong for NO2 ( coefficient = 0.0013/ microg/m3 ; p<0.01 ) but lesser for SO2 ( coefficient = 0.0005/ microg/m3 ; p<0.10 ) and CO ( coefficient = 0.0223/ppm ; p<0.10 ) .
+A significant association was observed when an index that combined these three pollutants was considered in the models instead of considering each pollutant individually ( p<0.01 ) .
+These associations exhibited a short time lag , not over 5 days .
+In addition , some evidence of fetal exposure to air pollution was obtained by disclosing a significant association between the levels of carboxyhemoglobin of blood sampled from the umbilical cord and ambient CO levels in children delivered by nonsmoking pregnant women in the period from May to July 1995 .
+Our results suggest that air pollution in São Paulo may promote adverse health effects on fetuses .

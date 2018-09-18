@@ -1,0 +1,9 @@
+In 2007 , we published a paper in the Journal of Exposure Science and Environmental Epidemiology describing PCDD/F and dioxin-like PCB serum concentration data collected for the 2001-2002 National Health and Nutrition Examination Survey .
+Since publication of this paper , several of the 1998 World Health Organization Toxic Equivalency Factors ( TEFs ) , which were used to calculate the summary statistics we presented , have been changed .
+In this addendum , we publish new reference statistics using the WHO(2006) TEFs in addition to assessing the effect of these new TEFs on total TEQ concentrations for the general US population .
+We also examined the effect of the limits of detection ( LODs ) on the calculated TEQ summary statistics for the top seven contributing congeners and completed a missing data analysis to determine whether our estimates were biased by excluding individuals without complete congener profiles .
+Similar to our previous results , 2 , 3 , 7 , 8-TCDD ; 1 , 2 , 3 , 7 , 8-PeCDD ; 1 , 2 , 3 , 6 , 7 , 8-HxCDD ; 2 , 3 , 4 , 7 , 8-PeCDF ; and PCB 126 contributed the most to total TEQ .
+However , both PCB 156 and 157 were no longer significant contributors , instead being displaced by 1 , 2 , 3 , 4 , 7 , 8-HxCDF , and PCB 169 .
+In general , the decrease in TEFs for the mono-ortho-substituted PCBs decreased their contribution to total TEQ appreciably , causing TEQ(17-9) to approximately equal TEQ(17-3) .
+The effect of LODs for five of the top seven contributing congeners was negligible ; however , the LODs for 2 , 3 , 7 , 8-TCDD and 1 , 2 , 3 , 7 , 8-PeCDD were noticeably higher and may impact TEQ estimates primarily for individuals aged 20-29 years .
+Results from the missing data analysis provide compelling evidence that the summary statistics we reported previously , as well as those described here , were not greatly influenced due to censoring data .

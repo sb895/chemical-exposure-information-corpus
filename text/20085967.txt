@@ -1,0 +1,9 @@
+BACKGROUND Exposure to arsenic through drinking water has been associated with impaired cognitive function in school-aged children in cross-sectional studies ; however , there are few longitudinal studies and little information on effects of exposure in early life when the brain is generally most vulnerable .
+METHODS A longitudinal cohort study beginning in early pregnancy was conducted in rural Bangladesh , where arsenic concentrations in well water vary considerably .
+We assessed the effects of pre- and postnatal arsenic exposure on development of 2112 children at 18 months of age with Bayley Scales of Infant Development-II ( mental and psychomotor development indices ) , Wolke's Behavior Rating Scale and maternal report of language .
+We related the measures of child development to arsenic concentrations in maternal urine in gestational weeks 9 and 30 and child's urinary arsenic at 18 months of age .
+Details of socio-economic background , home stimulation and anthropometric measurements of mothers and children were also available .
+RESULTS Median maternal urinary arsenic concentration averaged over early and late gestation was 96 µg/l , whereas children's urine contained 35 µg/l of arsenic .
+There was no significant effect of any of the arsenic exposure measures on any of the child development measures after controlling for social and economic confounders , child's age and sex .
+CONCLUSION Contrary to expectations , we found no indications of adverse effects of pre- or postnatal arsenic exposure on child development at 18 months .
+It remains possible that duration of exposure is critical and that effects will become apparent later in childhood .

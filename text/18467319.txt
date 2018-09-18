@@ -1,0 +1,10 @@
+With few exceptions , studies of short-term health effects of air pollution use pollutant concentrations that are averaged citywide as exposure indicators .
+They are thus prone to exposure misclassification and consequently to bias .
+Measurement of the relations between air pollution and health , generally and in specific populations , could be improved by employing more geographically precise exposure estimates .
+The authors investigated short-term relations between ambient air pollution estimated in small geographic areas ( French census blocks ) and asthma attacks in Strasbourg , France , in 2000-2005--in the general population and in populations with contrasting levels of socioeconomic deprivation .
+Emergency health-care networks provided data on 4,683 telephone calls made for asthma attacks .
+Deprivation was estimated using a block-level index constructed from census data .
+Hourly concentrations of particulate matter less than 10 microm in aerodynamic diameter ( PM(10) ) , sulfur dioxide , nitrogen dioxide , and ozone were modeled by block with ADMS-Urban software .
+Adjusted case-crossover analyses showed that asthma calls were positively but not significantly associated with PM(10) ( for a 10-microg x m(-3) increase , odds ratio ( OR ) = 1.035 , 95% confidence interval ( CI ) : 0.997 , 1.075 ) , sulfur dioxide ( OR = 1.056 , 95% CI : 0.979 , 1.139 ) , and nitrogen dioxide ( OR = 1.025 , 95% CI : 0.990 , 1.062 ) .
+No association was observed for ozone ( OR = 0.998 , 95% CI : 0.965 , 1.032 ) .
+Socioeconomic deprivation had no significant influence on these relations .

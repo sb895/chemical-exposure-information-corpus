@@ -1,0 +1,12 @@
+Recent studies have linked increased polycyclic aromatic hydrocarbons ( PAHs ) in air and adverse fetal health outcomes .
+Urinary PAH metabolites are of interest for exposure assessment if they can predict PAHs in air .
+We investigated exposure to PAHs by collecting air and urine samples among pregnant women pre-selected as living in " high " ( downtown and close to steel mills , n=9 ) and " low " ( suburban , n=10 ) exposure areas .
+We analyzed first-morning urine voids from all 3 trimesters of pregnancy for urinary PAH metabolites and compared these to personal air PAH/PM(2.5)/NO(2)/NO(X) samples collected in the 3rd trimester .
+We also evaluated activities and home characteristics , geographic indicators and outdoor central site PM(2.5)/NO(2)/NO(X) ( all trimesters ) .
+Personal air exposures to the lighter molecular weight ( MW ) PAHs were linked to indoor sources ( candles and incense ) , whereas the heavier PAHs were related to outdoor sources .
+Geometric means of all personal air measurements were higher in the " high " exposure group .
+We suggest that centrally monitored heavier MW PAHs could be used to predict personal exposures for heavier PAHs only .
+Urine metabolites were only directly correlated with their parent air PAHs for phenanthrene ( Pearson's r=0.31-0.45 ) and fluorene ( r=0.37-0.58 ) .
+Predictive models suggest that specific metabolites ( 3-hydroyxyfluorene and 3-hydroxyphenanthrene ) may be related to their parent air PAH exposures .
+The metabolite 2-hydroxynaphthalene was linked to smoking and the metabolite 1-hydroxypyrene was linked to dietary exposures .
+For researchers interested in predicting exposure to airborne lighter MW PAHs using urinary PAH metabolites , we propose that hydroxyfluorene and hydroxyphenanthrene metabolites be considered .

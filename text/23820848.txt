@@ -1,0 +1,11 @@
+BACKGROUND Evidence suggests that air pollution is associated with atherosclerosis and that traffic-related particles are a particularly important contributor to the association .
+OBJECTIVES We investigated the association between long-term exposure to black carbon , a correlate of traffic particles , and intima-media thickness of the common carotid artery ( CIMT ) in elderly men residing in the greater Boston , Massachusetts , area .
+METHODS We estimated 1-year average exposures to black carbon at the home addresses of Normative Aging Study participants before their first CIMT measurement .
+The association between estimated black carbon levels and CIMT was estimated using mixed effects models to account for repeated outcome measures .
+In secondary analyses , we examined whether living close to a major road or average daily traffic within 100 m of residence was associated with CIMT .
+RESULTS There were 380 participants ( 97% self-reported white race ) with an initial visit between 2004 and 2008 .
+Two or three follow-up CIMT measurements 1.5 years apart were available for 340 ( 89% ) and 260 ( 68% ) men , respectively .
+At first examination , the average ± SD age was 76 ± 6.4 years and the mean ± SD CIMT was 0.99 ± 0.18 mm .
+A one-interquartile range increase in 1-year average black carbon ( 0.26 µg/m3 ) was associated with a 1.1% higher CIMT ( 95% CI : 0.4 , 1.7% ) based on a fully adjusted model .
+CONCLUSIONS Annual mean black carbon concentration based on spatially resolved exposure estimates was associated with CIMT in a population of elderly men .
+These findings support an association between long-term air pollution exposure and atherosclerosis .

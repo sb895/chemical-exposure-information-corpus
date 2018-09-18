@@ -1,0 +1,12 @@
+In this paper , the cumulative risks of Di(2-ethylhexyl) phthalate ( DEHP ) , Di-n-butyl phthalate ( DBP ) , and Benzyl-butyl phthalate ( BBP ) to 2-year-old children in two countries : one European ( Denmark ) and one Asian ( South Korea ) were compared .
+Denmark does not produce phthalates as a raw material , while Korea produces more than 0.4milliontons of the three above-mentioned phthalates each year .
+First , a comparative review of the existing phthalate regulations in the two countries was performed .
+Next , the level of childhood phthalate exposure from environmental and food sources was estimated using an exposure scenario approach .
+Then , the scenario based exposure level was compared with back-calculated exposure levels based on biomonitored urinary phthalate metabolite concentrations .
+The result verifies the existence of varying territorial human background exposure levels and the gap between exposure estimations based on exposure modeling and biomonitoring data .
+Cumulative childhood risk levels in Denmark were lower than in Korea .
+For both countries , risk levels from back calculation were higher than those from scenario estimation .
+The median cumulative risk levels from scenario estimation and back calculation respectively were 0.24 and up to 0.5 in Denmark while 0.52 and up to 0.95 in Korea .
+Food and indoor dust were the main exposure sources for all three phthalates .
+In order to protect human health from cumulative risks of these phthalates , the exposure scenarios in existing regulations such as the EU REACH need to be strengthened .
+Moreover , based on the contributions from different exposure sources , national specific risk management tools need to be developed and strengthened , applying a systemic approach to promote sustainable material flows .

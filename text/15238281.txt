@@ -1,0 +1,12 @@
+Experimental studies in rodents demonstrate evidence of immunosuppressive effects of dietary exposure to DDT [ 2,2-bis((italic)p(/italic)-chlorophenyl)-1,1,1-trichloroethane ] , but human data pertaining to immunomodulating effects of DDT exposure are limited .
+In this study we examined the association between the persistent organochlorine breakdown product 1,1-dichloro-2,2,bis(p-chlorophenyl)ethylene p,p'-DDE ) and immunologic measures using blood samples in a relatively highly exposed population of farmers in the United States .
+Levels of serum immunoglobulin A ( IgA ) and IgG and the prevalence of antinuclear antibodies in relation to plasma p,p'-DDE levels were evaluated in samples from 137 African-American male farmers ( 30-88 years of age ; median , 64 years ) .
+Participants were recruited through black churches in four rural counties in eastern North Carolina .
+Data collection included a telephone interview pertaining to farming practices and health history , and one blood sample was collected from each participant .
+Linear and logistic regression , adjusting for age , cholesterol , triglycerides , smoking status , and years of any kind of pesticide use , was used to assess the association between immunologic parameters and plasma levels of p,p'-DDE .
+The median plasma p,p'-DDE concentration was 7.7 microg/L ( range , 0.6-77.4 microg/L ) .
+There was no association between p,p'-DDE and IgA in any of the models .
+IgG levels decreased with increasing p,p'-DDE levels , with a statistically significant decrease of approximately 50% in the highest two categories of exposure ( greater than or equal to 6.0 microg/L ) compared with values of < 3.0 microg/L .
+Sixteen ( 12% ) were positive for antinuclear antibodies .
+The prevalence of antinuclear antibodies was somewhat elevated in the highest category of p,p'-DDE exposure ( odds ratio , 1.9 ; 95% confidence interval , 0.32-11.3 ; for > or = 12.0 microg/L compared with < 3.0 microg/L p,p'-DDE ) , but this difference was not statistically significant .
+These analyses provide evidence that p,p'-DDE modulates immune responses in humans .

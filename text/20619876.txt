@@ -1,0 +1,12 @@
+Benzene , toluene , m/p-xylene and o-xylene ( BTX ) are toxic volatile organic compounds and ubiquitous air pollutants .
+Smoking and consumer products are indoor sources of BTX , whereas traffic and industrial activities are primary sources contributing to outdoor levels of BTX .
+The aim of this study was to characterize exposure of children to BTX by personal air sampling using diffusive samplers and by analysis of end-exhaled air .
+For this study , 101 children of 10-11 years of age were recruited from four primary schools in Southern Turkey during the warm season ( May 2008 ) .
+Two schools were situated in a residential area near primary and secondary iron and steel works ( Payas ) and two schools were located in a non-industrialized city ( Iskenderun ) .
+The children and their parents were visited at home for an interview and to identify possible sources of BTX in the residence .
+Median concentrations of benzene determined by diffusive samplers were higher in Payas ( 4.1 microg/m(3) ) than in Iskenderun ( 2.7 microg/m(3) , p<0.001 ) .
+For toluene , no differences were observed , whereas for xylene isomers air concentrations tended to be lower for children living in Payas .
+The median end-exhaled air concentrations were 8.2 , 29 , 3.8 , and 5.7 pmol/L for benzene , toluene , m/p-xylene and o-xylene , respectively ( Payas ) , and 6.9 , 25 , 4.9 , and 6.0 pmol/L , respectively ( Iskenderun ) .
+Concentrations of toluene in end-exhaled air were 50% higher in children living with household members who smoked indoors ( p<0.05 ) and benzene in end-exhaled air was more than 3-fold higher for those children who were exposed to tobacco smoke inside a vehicle ( p<0.001 ) .
+End-exhaled concentrations of benzene were also higher in children living in a residence with an attached garage ( p<0.05 ) .
+These exposure modifying factors were not identified when using the results obtained with diffusive samplers .

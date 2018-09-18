@@ -1,0 +1,8 @@
+Experimental evidence from animals indicates that exposure to polychlorinated biphenyls ( PCBs ) causes deterioration of the outer hair cells ( OHCs ) of the cochlea .
+To test this hypothesis in humans , we measured serum PCB concentrations in 574 12-year-old children residing in three districts in the Slovak Republic using high-resolution gas chromatography with microelectron capture detection .
+As a marker of cochlear status , we measured transient evoked ( TE ) and distortion product ( DP ) otoacoustic emissions ( OAEs ) , and assessed the cross-sectional association between serum PCBs and OAEs .
+Median total PCB concentrations were 352.8 , 150.5 , and 134.9 ng/g lipid in Michalovce , Svidnik , and Bratislava , respectively .
+In multivariate regression models where otoacoustic measures were modeled as a function of log ( base 10 ) PCB concentrations with adjustment for gender , age , and site of examination , dioxin-like PCBs , nondioxin-like PCBs and a PCB grouping targeting upregulation of hepatic uridine 5'-diphospho-glucuronosyltransferase were significantly associated with lower TEOAE powers at 1000 and 1500 Hz .
+At 1500 Hz , we observed a strong association with sum of PCBs and DL-PCBs , in the left ear only .
+The DPOAEs at 1000 Hz were associated with all four PCB groupings .
+The results of this study show that PCBs may affect the OHCs of the cochlea , a result consistent with findings from animal studies published to date .

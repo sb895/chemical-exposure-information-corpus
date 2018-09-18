@@ -1,0 +1,10 @@
+BACKGROUND Urban air pollution can trigger asthma symptoms in children , but there is conflicting evidence on effects of long-term exposure on lung function , onset of airway disease and allergic sensitization .
+METHODS The spatial distribution of nitrogen oxides from traffic ( traffic-NOx ) and inhalable particulate matter from traffic ( traffic-PM10 ) in the study area was assessed with emission databases and dispersion modeling .
+Estimated levels were used to assign first-year exposure levels for children in a prospective birth cohort ( n = 4089 ) , by linking to geocoded home addresses .
+Parents in 4 Swedish municipalities provided questionnaire data on symptoms and exposures when the children were 2 months and 1 , 2 , and 4-year-old .
+At 4 years , 73% of the children underwent clinical examination including peak expiratory flow and specific IgE measurements .
+RESULTS Exposure to air pollution from traffic during the first year of life was associated with an excess risk of persistent wheezing ( odds ratio [ OR ] for 44 microg/m3 [ 5th-95th percentile ] difference in traffic-NOx = 1.60 ; 95% confidence interval [ CI ] = 1.09-2.36 ) .
+Similar results were found for sensitization ( measured as specific IgE ) to inhalant allergens , especially pollen ( OR for traffic-NOx = 1.67 ; 95% CI = 1.10-2.53 ) , at the age of 4 years .
+Traffic-related air pollution exposure during the first year of life was also associated with lower lung function at 4 years of age .
+Results were similar using traffic-NOx and traffic-PM10 as indicators .
+CONCLUSIONS Exposure to moderate levels of locally emitted air pollution from traffic early in life appears to influence the development of airway disease and sensitization in preschool children .

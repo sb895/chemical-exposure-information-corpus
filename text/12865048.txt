@@ -1,0 +1,11 @@
+This preliminary study investigated associations between environmental organochlorine compounds and thyroid function in a sample of 66 sportsmen selected from among participants in the New York State Angler Cohort Study .
+A cross-sectional design was employed with the primary goal of the analysis being the generation of specific testable hypotheses .
+Blood samples were analyzed for compounds based on a priori identified literature-cited evidence of thyroid disruption .
+These included hexachlorobenzene and polychlorinated biphenyl congeners 19 , 28 , 47 , 118 , 153 , 169 , 180 , 183 , and 187 .
+Time of sample collection , serum triglycerides , cholesterol , high- and low-density lipoproteins , age , body mass index , and cigarette smoking were considered for each participant .
+Potential associations between organochlorine compounds and serum total thyroxine , controlling for potential confounders , were examined using multivariable linear regression models .
+The models reported consisted of all variates being entered ( "full " model , R2=0.380 , P=0.136 ) and stepwise selection of variates ( "reduced " models , alpha=0.15 ) using the criterion of maximum partial correlation at each step .
+Several procedures were considered to address contaminant data below the limit of detection in the reduced models with no change in selected predictors .
+Hexachlorobenzene ( beta=-0.113 ) and age ( beta=0.007 ) were selected as predictors of serum T4 in the reduced models ( R2=0.083 , P=0.065 ) .
+Power analysis suggested that by doubling the sample size the existing results would be statistically significant with a type I error of 0.05 and a power of 0.80 .
+These findings are important in the design of a new specific study of thyroid function and environmental contaminants .

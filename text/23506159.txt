@@ -1,0 +1,15 @@
+Limited information exists on exposure to bisphenol A ( BPA ) by children , adults , and pregnant women in China .
+In the present study , we determined BPA concentrations in whole blood collected from 10 children ( 1-5 years ) , 40 women ( 30 pregnant and 10 nonpregnant ) , and 30 fetuses ( i.e. , cord blood ) .
+Further , to evaluate the relationship between urinary and blood BPA concentrations , paired specimens of blood and urine ( n = 50 pairs ) were collected from an adult population .
+BPA was found in 46% of all blood samples analyzed , with a geometric mean ( GM ) concentration of 0.19 ng/mL .
+BPA was found in 84% of urine samples from adults , with a GM concentration of 1.01 ng/mL [ 0.48 \u03bcg/g creatinine ( Cr) ] .
+Gender and age were not good predictors of blood BPA concentrations .
+However , we did find that the creatinine-adjusted urinary BPA concentrations in females were significantly higher ( p < 0.05 ) than the concentrations found in males and that the blood BPA concentrations in children were significantly higher ( p < 0.05 ) than the concentrations found in adults .
+Among all adults , unadjusted urinary BPA concentrations ( i.e. , volume-based ) were inversely ( r = -0.312 , p < 0.05 ) correlated with age when an outlier value ( 8.70 ng/mL ) was excluded from analysis .
+Concentrations of BPA in urine ( creatinine-adjusted ) and blood were significantly correlated ( r = 0.571 , p < 0.01 ) , with concentrations measured in urine approximately an order of magnitude higher than the concentrations found in blood .
+The mean and GM values for ratios of concentration of BPA between blood and urine were 0.109 and 0.057 , respectively .
+The ratio of mean concentrations of BPA between cord blood and maternal blood was 0.108 .
+On the basis of urinary BPA levels , we estimated the total daily intake ( EDI ) of BPA by Chinese adults .
+The mean ( range ) EDIs of BPA by adult males and females in China were 0.041 ( <0.005-0.224 ) and 0.048 ( <0.005-0.151 ) ug/kg bw/day , respectively .
+The pregnant women who underwent intravenous drug administration immediately before delivery had significantly higher concentrations of BPA in their blood than did those who did not receive intravenous drug administration .
+This is the first study to document the occurrence of and human exposure to BPA by pregnant women and fetuses from China .

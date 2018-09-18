@@ -1,0 +1,8 @@
+The objective of this study was to assess whether arsenic exposure is a risk factor for diabetes mellitus as indicated in a few earlier studies .
+Arsenic in drinking water is known to occur in western Bangladesh , and in 1996 , two of the authors conducted a survey of the prevalence of diabetes mellitus among 163 subjects with keratosis taken as exposed to arsenic and 854 unexposed individuals .
+Diabetes mellitus was determined by history of symptoms , previously diagnosed diabetes , glucosuria , and blood sugar level after glucose intake .
+The crude prevalence ratio for diabetes mellitus among keratotic subjects exposed to arsenic was 4.4 ( 95% confidence interval 2.5-7.7 ) and increased to 5.2 ( 95% confidence interval 2.5-10.5 ) after adjustment for age , sex , and body mass index .
+On the basis of a few earlier measurements of arsenic concentrations in drinking water by the authorities in Bangladesh and another 20 new ad hoc analyses , approximate time-weighted exposure levels to arsenic in drinking water could be estimated for each subject .
+Three time-weighted average exposure categories were created , i.e. , less than 0.5 , 0.5-1.0 , and more than 1.0 mg/liter .
+For the unexposed subjects , the corresponding prevalence ratios were 1.0 , 2.6 , 3.9 , and 8.8 , representing a significant trend in risk ( p < 0.001 ) .
+The result corroborates earlier studies and suggests that arsenic exposure is a risk factor for diabetes mellitus .

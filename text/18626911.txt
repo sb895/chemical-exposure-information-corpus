@@ -1,0 +1,10 @@
+BACKGROUND To investigate the effect of exposure to wood dust on the risk of laryngeal cancer .
+METHODS A population-based case-control study on laryngeal cancer was conducted in South-West Germany between 1st of May 1998 to 31st of December 2000 with 257 histologically confirmed cases ( 236 males , 21 females ) , age 37 to 80 years , and 769 population controls ( 702 males , 67 females ) , 1:3 frequency matched by age and sex .
+Occupational exposures and other risk factors were obtained with face-to-face interviews using a detailed standardized questionnaire .
+The complete individual work history was assessed .
+Work conditions were obtained by job-specific questionnaires for selected jobs known to be associated with exposure to potential carcinogens .
+Additionally , a specific substance check-list was used as a method for exposure assessment .
+RESULTS 43 ( 16.7% ) cases ( 41 males , 2 females ) and 107 ( 13.9% ) controls ( 105 males , 2 females ) reported wood dust exposure .
+Numbers were almost identical for two different methods of exposure assessment ; however , the agreement of these methods was around 95% .
+A strong effect on laryngeal cancer risk after adjustment for smoking , alcohol and education was observed for high exposure to hardwood dust ( OR = 2.6 , 95% CI 1.3-5.2 ) and to softwood dust ( OR = 2.2 , 95% CI 1.1-4.2 ) , as assessed by substance list .
+CONCLUSIONS Our findings for higher exposure to hardwood and softwood dust contribute to the evidence that wood dust , in particular from hardwood is an independent risk factor .

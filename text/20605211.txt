@@ -1,0 +1,11 @@
+The use of Polychlorinated biphenyls ( PCBs ) has been severely restricted due to their high toxicity and persistency in the environment .
+However , the presence of PCBs in human tissues nowadays is still been reported worldwide .
+Background exposure predictors of the human PCB body burden require more precise understanding .
+In the present study , PCB congeners 138 , 153 , and 180 were quantified in adult adipose tissue samples ( n=387 ) from Granada Province ( Southern Spain ) and data on potential predictors of PCB concentrations were gathered by questionnaire .
+Chemical analysis of the selected congeners was done by gas chromatography and mass spectrometry , and multivariate analyses were performed stratifying by gender .
+PCB residues were quantified in 92% ( PCB 153 ) , 90% ( PCB 180 ) , and 86% ( PCB 138 ) of the population .
+Geometric mean concentrations were 161.65+/-4.41 ng/g lipid for PCB 153 , 111.62+/-6.27 ng/g lipid for PCB 180 , and 38.41+/-8.61 ng/g lipid for PCB 138 .
+Multivariate models explained 30-36% of the variability in PCB concentrations .
+Age and body mass index ( BMI ) predicted exposure in both males and females and were positively correlated with the concentration of the three PCB congeners .
+Occupation and diet predicted exposure in the males , whereas only dietary predictors were observed in the females .
+Further in-depth studies are required to investigate the influence of dietary habits on the bioaccumulation of PCBs and to evaluate the impact of policies aimed at reducing human exposure .

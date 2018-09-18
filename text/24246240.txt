@@ -1,0 +1,10 @@
+Perfluorinated alkyl acids ( PFAAs ) are emerging environmental contaminants .
+Possible health effects for humans include increased risk for cancer but the knowledge is limited .
+In this study serum concentrations of certain perfluorinated sulfonates ( PFHxS and PFOS ) and carboxylates ( PFOA , PFNA , PFDA , PFUnDA ) were analyzed among 201 cases with prostate cancer and 186 population based control subjects .
+All blood samples were collected during 2007-2011 and no case had been treated with radio- or chemotherapy before enrolment in the study .
+The blood concentrations did not differ statistically significant between cases and controls except for PFDA with higher concentration among the cases ( p=0.03 ) .
+Analyses based on Gleason score and prostate specific antigen ( PSA ) level did not change the results .
+Heredity was a risk factor for prostate cancer yielding odds ratio ( OR)=1.8 , 95% confidence interval ( CI)=1.01-3.1 .
+The analyzed PFAAs yielded statistically significant higher ORs in cases with a first degree relative reporting prostate cancer , e.g. , PFOA gave OR=2.6 , 95% CI=1.2-6.0 and PFOS gave OR=2.7 , 95% CI=1.04-6.8 .
+The results showed a higher risk for prostate cancer in cases with heredity as a risk factor .
+In further studies interaction between gene and environment should be considered .

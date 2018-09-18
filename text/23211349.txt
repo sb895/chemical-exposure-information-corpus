@@ -1,0 +1,8 @@
+BACKGROUND In recent years ( 2000-2007 ) , ambient levels of fine particulate matter ( PM2.5 ) have continued to decline as a result of interventions , but the decline has been at a slower rate than previous years ( 1980-2000 ) .
+Whether these more recent and slower declines of PM2.5 levels continue to improve life expectancy and whether they benefit all populations equally is unknown .
+METHODS We assembled a data set for 545 U.S. counties consisting of yearly county-specific average PM2.5 , yearly county-specific life expectancy , and several potentially confounding variables measuring socioeconomic status , smoking prevalence , and demographic characteristics for the years 2000 and 2007 .
+We used regression models to estimate the association between reductions in PM2.5 and changes in life expectancy for the period from 2000 to 2007 .
+RESULTS A decrease of 10 \u03bcg/m in the concentration of PM2.5 was associated with an increase in mean life expectancy of 0.35 years ( SD = 0.16 years , P = 0.033 ) .
+This association was stronger in more urban and densely populated counties .
+CONCLUSIONS Reductions in PM2.5 were associated with improvements in life expectancy for the period from 2000 to 2007 .
+Air pollution control in the last decade has continued to have a positive impact on public health .

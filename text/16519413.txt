@@ -1,0 +1,12 @@
+Epidemiological studies have established an association between outdoor levels of fine particles ( PM2.5 ) and cardiovascular health .
+However , there is little information on the determinants of PM2.5 exposures among persons with cardiovascular disease , a potentially susceptible population group .
+Daily outdoor , indoor and personal PM2.5 and absorbance ( proxy for elemental carbon ) concentrations were measured among elderly subjects with cardiovascular disease in Amsterdam , the Netherlands , and Helsinki , Finland , during the winter and spring of 1998-1999 within the framework of the ULTRA study .
+There were 37 non-smoking subjects in Amsterdam and 47 in Helsinki .
+In Amsterdam , where there were enough exposure events for analyses , exposure to environmental tobacco smoke ( ETS ) indoors was a major source of between-subject variation in PM2.5 exposures , and a strong determinant of PM2.5 and absorbance exposures .
+When the days with ETS were excluded , within-subject variation accounted for 89% of the total variation in personal PM2.5 and 97% in absorbance in Amsterdam .
+The respective figures were 66% and 61% in Helsinki .
+In both cities , outdoor levels of PM2.5 and absorbance were major determinants of personal and indoor levels .
+Traffic was also an important determinant of absorbance : living near a major street increased exposure by 22% , and every hour spent in a motor vehicle by 13% in Amsterdam .
+The respective increases were 37% and 9% in Helsinki .
+Cooking was associated with increased levels of both absorbance and PM2.5 .
+Our results demonstrate that by using questionnaires in connection with outdoor measurements , exposure estimation of PM2.5 and its combustion originating fraction can be improved among elderly persons with compromised health .

@@ -1,0 +1,10 @@
+BACKGROUND Limited animal , in vitro , and human studies have reported that exposure to phthalates or bisphenol A ( BPA ) may affect thyroid signaling .
+OBJECTIVE We explored the cross-sectional relationship between urinary concentrations of metabolites of di(2-ethylhexyl) phthalate ( DEHP ) , dibutyl phthalate ( DBP ) , and BPA with a panel of serum thyroid measures among a representative sample of U.S. adults and adolescents .
+METHODS We analyzed data on urinary biomarkers of exposure to phthalates and BPA , serum thyroid measures , and important covariates from 1,346 adults ( ages \u2265 20 years ) and 329 adolescents ( ages 12-19 years ) from the National Health and Nutrition Examination Survey ( NHANES ) 2007-2008 using multivariable linear regression .
+RESULTS Among adults , we observed significant inverse relationships between urinary DEHP metabolites and total thyroxine ( T4 ) , free T4 , total triiodothyronine ( T3 ) , and thyroglobulin , and positive relationships with thyroid-stimulating hormone ( TSH ) .
+The strongest and most consistent relationships involved total T4 , where adjusted regression coefficients for quintiles of oxidative DEHP metabolites displayed monotonic dose-dependent decreases in total T4 ( p-value for trend < 0.0001 ) .
+Suggestive inverse relationships between urinary BPA and total T4 and TSH were also observed .
+Conversely , among adolescents , we observed significant positive relationships between DEHP metabolites and total T3 .
+Mono(3-carboxypropyl) phthalate , a secondary metabolite of both DBP and di-n-octyl phthalate , was associated with several thyroid measures in both age groups , whereas other DBP metabolites were not associated with thyroid measures .
+CONCLUSIONS These results support previous reports of associations between phthalates-and possibly BPA--and altered thyroid hormones .
+More detailed studies are needed to determine the temporal relationships and potential clinical and public health implications of these associations .

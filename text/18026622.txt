@@ -1,0 +1,9 @@
+OBJECTIVE Arsenic concentrations in 25% of tube wells in Bangladesh exceed 50 microg/L , a level known to be hazardous .
+Levels in individual wells vary widely .
+We gathered data on arsenic exposure levels and skin lesion prevalence to address the lack of knowledge about risks where the average arsenic concentrations was lower .
+METHODS The nongovernmental organization Gonoshasthaya Kendra did three related studies of keratotic skin lesions since 2004 : ( 1 ) an ecological prevalence survey among 13 705 women aged > 18 in a random sample of 53 villages ; ( 2 ) a case-control study of 176 cases and age- and village-matched referents ; and ( 3 ) a prevalence survey of the entire population of 11,670 in two additional villages .
+We calculated prevalence as a function of average arsenic concentrations as reported in the National Hydrochemical Survey , and measured arsenic concentrations in wells used by subjects in the case-control study .
+FINDINGS The prevalence of skin lesions was 0.37% in people exposed to arsenic concentrations below 5 microg/L , 0.63% at 6-50 microg/L , and 6.84% at 81 microg/L .
+In the case-control analysis , relative risk of skin lesions increased threefold at concentrations above 50 microg/L ( P < 0.05 ) .
+CONCLUSION Little serious skin disease is likely to occur if the arsenic concentration in drinking water is kept below 50 microg/L , but ensuring this water quality will require systematic surveillance and reliable testing of all wells , which may be impractical .
+More research is needed on feasible prevention of toxic effects from arsenic exposure in Bangladesh .

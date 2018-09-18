@@ -1,0 +1,9 @@
+BACKGROUND Trihalomethanes ( THMs ) are byproducts of drinking water chlorination whose effects on semen quality have not been previously studied in humans .
+METHODS We examined the relationship of THMs to semen quality in 157 healthy men from couples without known risk factors for infertility .
+Total THM ( TTHM ) levels were assigned based on water utility measurements taken during the 90 days preceding semen collection .
+We analyzed continuous semen parameters in relation to total and individual THMs , adjusting for potential confounders by using repeated measures analyses .
+RESULTS TTHM level was not associated with decrements in semen quality .
+Percent normal morphology decreased and percent head defects increased at higher levels of an ingestion metric ( TTHM multiplied by cold home tap water consumption ) .
+At the highest level of the ingestion metric ( >160 mug/L x glasses/day , which is equivalent to >2 glasses/day of water containing 80 mug/L ) we observed a difference of -7.1 ( 95% confidence interval = -12.7 to -1.6 ) for percent morphologically normal sperm compared with the lowest level ( </= 40 mug/L x glasses/day ) .
+Of the individual THMs , bromodichloromethane exposure was inversely related to linearity ( a motility parameter ) ; we observed a small decrease ( beta = -0.09 , SE 0.04 ) for every unit increase in bromodichloromethane .
+CONCLUSION Although our study had a limited exposure assessment and a selective sample , our results suggest the need for further study of the effects of THMs on semen quality .

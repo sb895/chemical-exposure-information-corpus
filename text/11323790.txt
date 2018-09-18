@@ -1,0 +1,11 @@
+BACKGROUND Exposure to chemicals in polluted soil was studied during the remediation of four polluted sites .
+They are sawmill areas contaminated with chlorophenols and polychlorinated dibenzo-p-dioxins and furanes ( PCDD/F ) , wood impregnating plants contaminated with polycyclic aromatic hydrocarbons ( PAH ) from creosote oil , old gas works area contaminated with PAH , and a wood impregnation plant contaminated with copper-chromium-arsenic ( CCA ) preservative .
+METHODS The exposure levels were determined by both air and biological monitoring .
+RESULTS Air monitoring showed that the exposure levels were generally well below the current occupational exposure limits .
+The calculations indicated , however , that the lowest acceptable daily intake value recommended for PCDD/F by the U.S. Environmental Protection Agency was exceeded .
+Chlorophenol exposure was generally low .
+Exposure to volatile PAH was 0.038-0.884 mg/m(3) and that to particulate PAH was 0.004-0.183 mg/m(3) .
+The biomonitoring results ( urinary 1-pyrenol ) suggested that some exposure occurs , probably through the contamination of hands or skin absorption .
+At the sites contaminated with CCA salts , no exposure limits were exceeded .
+CONCLUSIONS The results generally suggest that the exposure of cleanup workers is generally below the current occupational exposure limits but that short-term high exposure cannot be excluded .
+There was also some indication of poor skin protection , which should be improved when soil contaminated with PAH and creosote oil is handled .

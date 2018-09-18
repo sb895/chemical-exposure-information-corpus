@@ -1,0 +1,6 @@
+One hundred and twelve soil samples were collected from residential areas surrounding a coal-fired power plant at Huainan City , Anhui Province , China .
+The concentrations of environmentally sensitive elements ( ESEs As , Cd , Cr , Cu , Hg , Mn , Ni , Pb , V and Zn ) in soil samples were determined , and their potential ecological and health risks were assessed .
+Mean concentrations of ESEs in the downwind soils of the power plant are relatively higher than those in the upwind soils , pointing to a potential ESEs input from coal combustion .
+The calculated ecological risk of ESEs in soils indicates a relatively low ecological risk .
+Hazard quotient ( HQ ) of ESEs in downwind soils is 1.5 , suggesting a potential health risk for children .
+However , the carcinogenic risk values of ESEs in soils are within the acceptable non-hazardous range of 1E-06-1E-04 .

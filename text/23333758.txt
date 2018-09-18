@@ -1,0 +1,13 @@
+Human biomonitoring studies measuring phthalate metabolites in urine have shown widespread exposure to phthalates in the general population .
+Diet is thought to be a principle route of exposure to many phthalates .
+Therefore , we studied urinary phthalate metabolite patterns over a period of strict fasting and additionally recorded personal activity patterns with a diary to investigate non-dietary routes of exposure .
+Five individuals ( 3 female , 2 male , 27-47 years of age ) fasted on glass-bottled water only over a 48-h period .
+All urine void events were captured in full , and measured for metabolites of the high molecular weight ( HMW ) di-(2-ethylhexyl) phthalate ( DEHP ) , di-isononyl phthalate ( DINP ) and di-isodecyl phthalate ( DiDP ) , and the low molecular weight ( LMW ) di-n-butyl phthalate ( DnBP ) , di-iso-butyl phthalate ( DiBP ) , butylbenzyl phthalate ( BBzP ) , dimethyl phthalate ( DMP ) , and diethyl phthalate ( DEP ) .
+In all , 21 metabolites were measured in a total of 118 urine events , including events before and after the fasting period .
+At the onset of the study all phthalate metabolite concentrations were consistent with levels found in previous general population studies .
+Metabolites of the HMW phthalates ( DEHP , DiNP and DiDP ) showed a rapid decline to levels 5-10 times lower than initial levels within 24h of the fast and remained low thereafter .
+After food consumption resumed , levels rose again .
+By contrast , metabolites of the LMW phthalates including DMP , DEP , BBzP , DnBP and DiBP showed a cyclical pattern of rising and declining concentrations suggestive of ongoing non-food exposures .
+Furthermore , metabolites of most of the LMW phthalates ( BBzP , DnBP and DiBP ) tracked each other remarkably well , suggesting concurrent exposures .
+Diary entries could not help explain exposure sources for these phthalates , with one exception : rises in MEP concentrations around males ' showers suggest personal care products as a major source of DEP .
+Exposure to HMW phthalates in this cohort appears to be driven by dietary intake , while non-dietary routes such as use of personal care products and ubiquitous sources including dust and indoor air appear to explain exposure to LMW phthalates .

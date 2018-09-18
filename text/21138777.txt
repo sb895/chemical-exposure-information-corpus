@@ -1,0 +1,10 @@
+The association between dietary patterns and blood dioxin levels has not been fully investigated .
+The present study population consisted of 755 men and 901 women ( aged 15-73years ) living in 90 different areas of 30 prefectures of Japan .
+Dietary habits were assessed by inquiring about the consumption frequency of 28 foods , food groups and beverages .
+In addition , the blood levels of 29 polychlorinated dibenzo-p-dioxins ( PCDDs ) , polychlorinated dibenzo-furans ( PCDFs ) , and dioxin-like polychlorinated biphenyl ( DL-PCBs ) congeners were determined by high-resolution gas chromatography/mass spectrometry .
+The median total toxicity equivalent ( TEQ ) in the blood , which was calculated on the basis of the toxicity equivalency factors of WHO ( 2005 ) , was 16 pg TEQg(-1) lipid .
+Principal component analysis identified five dietary patterns : Healthy diet ( high intake of vegetables and fruits ) ; Meat/High fat intake ( high intake of meat , meat products , and eggs ) ; Seafood and Alcohol ( high intake of fish , shellfish , and alcoholic beverages ) ; Miscellaneous ; and Milk products and Alcohol intake ( high intake of milk , Milk products , and alcoholic beverages ) .
+After adjusting for sex , age , body mass index , and smoking habits , the Seafood and Alcohol pattern scores were significantly related to higher blood levels of total TEQ and PCDDs/PCDFs/DL-PCBs , and the Milk products and Alcohol pattern scores were correlated with higher blood levels of DL-PCBs .
+More detailed analysis showed that the intake frequencies for alcoholic beverages and seafood were independently and positively associated with total TEQ and the TEQ of PCDFs and DL-PCBs .
+The association between alcoholic beverage intake and PCDDs was also significant .
+Analysis of dietary patterns may be useful for identifying the dietary characteristics of individuals with a high dioxin body burden .

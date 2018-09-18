@@ -1,0 +1,12 @@
+Because of volatilization and leaching from their application in consumer and personal care products , phthalate esters are ubiquitous contaminants in the indoor environment .
+In this study , we measured concentrations and profiles of 9 phthalate esters in indoor dust samples collected from six cities in China ( n = 75 ) .
+For comparison , we also analyzed samples collected from Albany , New York , USA ( n = 33 ) .
+The results indicated that concentrations , except for dicyclohexyl phthalate ( DCHP ) and bis(2-ethylhexyl) phthalate ( DEHP ) , and profiles of phthalate esters varied significantly between the two countries .
+Concentrations of diethyl phthalate ( DEP ) , di-n-hexyl phthalate ( DNHP ) , and benzyl butyl phthalate ( BzBP ) were 5 to 10 times higher in dust samples collected from Albany than those from the Chinese cities .
+In contrast , concentrations of di-iso-butyl phthalate ( DIBP ) in dust samples from Albany were 5 times lower than those from the Chinese cities .
+We estimated the daily intake ( DI ) of phthalate esters through the routes of dust ingestion and dermal dust absorption .
+The extent of contribution of indoor dust to human exposures varied , depending on the type of phthalate esters .
+The contribution of dust to DEHP exposure was 2-5% and 10-58% of the estimated total DIs in China and the USA , respectively .
+On the basis of the estimates of total DIs of phthalates , extrapolated from urinary metabolite concentrations , the contributions of inhalation , dermal absorption , and dietary intake to total DIs were estimated .
+The results indicated that dietary intake is the main source of exposure to DEHP ( especially in China ) , whereas dermal exposure was a major source for DEP .
+This is the first study to elucidate sources of human exposure to phthalates among the general population in China .

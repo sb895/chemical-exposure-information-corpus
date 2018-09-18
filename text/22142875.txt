@@ -1,0 +1,14 @@
+BACKGROUND Lead exposure has been associated with cardiovascular disease ( CVD ) in animal and human studies .
+However , the mechanisms of action have not been fully elucidated .
+We therefore examined the relationship between lead and multiple biomarkers of CVD .
+METHODS Participants were older men from the Normative Aging Study without preexisting coronary heart disease , diabetes , or active infection at baseline ( n = 426 ) .
+Serum biomarkers included lipid profile [ total cholesterol , high-density lipoprotein ( HDL ) , low-density lipoprotein ( LDL ) , and triglycerides ] and inflammatory markers [ C-reactive protein , intercellular adhesion molecule-1 , interleukin-6 , and tumor necrosis factor receptor-2 ( TNF-R2) ] .
+We measured lead in blood and in bone by K-shell X-ray fluorescence .
+In this sample , 194 men ( 44.3% ) had two or more repeated measures , resulting in 636 observations for analysis .
+We conducted analyses using mixed effects models with random subject intercepts .
+RESULTS Lead levels were associated with several CVD biomarkers , including levels of TNF-R2 and lipid markers .
+Specifically , in multivariable models , a 50% increase in blood lead level was associated with 26% increased odds of high TNF-R2 levels ( > 5.52 ng/mL ; odds ratio = 1.26 ; 95% confidence interval : 1.09 , 1.45 ) .
+There were positive associations of blood lead level with total cholesterol and HDL levels , and these associations were more evident when modeled as continuous outcomes than when categorized using clinically relevant cut points .
+In addition , longitudinal analyses indicated a significant increase in TNF-R2 levels over time to be associated with high blood lead level at the preceding visit .
+CONCLUSIONS Blood lead level may be related with CVD in healthy older men through its association with TNF-R2 levels .
+In addition , the magnitude of the association of blood lead level with TNF-R2 level increased with age in the study population .

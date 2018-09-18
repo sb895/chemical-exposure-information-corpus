@@ -1,0 +1,9 @@
+The threshold level of urinary cadmium ( Cd ) for beta2-microglobulin ( MG)-uria was calculated using a benchmark dose ( BMD ) approach .
+Total number of subjects was 3103 for Cd-polluted areas and 2929 for non-polluted areas .
+Multiple logistic regression analysis was employed to fit the dose-response model taking into consideration an age effect .
+Cut-off values for urinary beta2-MG were defined as those corresponding to the 84th and 97.5th percentile of beta2-MG levels in the controls , and 1000 microg/g creatinine ( cr ) .
+The BMD low ( BMDL ) was calculated using the profile likelihood method .
+When the benchmark response was 5% , the BMD/BMDL of Cd for the 84th percentile of beta2-MG for mean age , 55 , 65 , and 75 years was 3.0/2.7 , 4.6/4.2 , 2.8/2.6 , and 1.8/1.6 microg/g cr in men and 3.4/3.2 , 5.8/5.5 , 3.2/3.1 , and 1.8/1.7 microg/g cr in women , respectively .
+The value for the 97.5th percentile for each age was 4.9/4.5 , 7.6/7.0 , 4.6/4.3 , and 2.6/2.4 microg/g cr in men and 5.9/5.6 , 9.7/9.2 , 5.6/5.3 , and 2.8/2.6 microg/g cr in women .
+Namely it became clear that the margin between the threshold level and average excretion level of urinary Cd was small in the older population in Japan .
+To prevent the adverse health effects caused by exposure to Cd , it is important to establish the threshold level of Cd exposure at each age .

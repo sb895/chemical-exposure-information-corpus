@@ -1,0 +1,12 @@
+Fine particle concentration ( i.e. , particles <2.5 microm in aerodynamic diameter ; PM2.5 ) , but not coarse particle concentration , was associated with increased mortality in six U.S. cities .
+Others criticized this result , arguing that it could result from differences in measurement error between the two size ranges .
+Fine particles are primarily from combustion of fossil fuel , whereras coarse particles ( i.e. , particles between 2.5 and 10 microm in aerodynamic diameter ) are all crustal material , i.e. , dust .
+One way to determine if coarse particles are a risk for mortality is to identify episodes of high concentrations of coarse , but not fine , particles .
+Spokane , Washington , is located in an arid area and is subject to occasional dust storms after crops have been harvested .
+Between 1989 and 1995 , we identified 17 dust storms in Spokane .
+The 24-hr mean PM10 concentration during those storms was 263 microg/m3 .
+Using control dates that were the same day of the year in other years ( but with no dust storm on that day ) and that had a mean PM10 concentration of 42 microg/m3 , we compared the rate of nonaccidental deaths on the episode versus nonepisode days .
+There was little evidence of any risk [ relative risk ( RR ) = 1.00 ; 95% confidence interval ( CI ) , 0.81-1.22 ] on the episode days .
+Defining episode deaths as those occurring on the same or following day as the dust storm produced similar results ( RR = 1.01 ; CI , 0.87-1.17 ) .
+Sensitivity analyses , which tested more extensive seasonal control , produced smaller estimates .
+We conclude that coarse particles from windblown dust are not associated with mortality risk .

@@ -1,0 +1,9 @@
+A few studies have reported concurrent levels of chlorpyrifos ( CPF ) and diazinon ( DZN ) and their environmentally occurring metabolites , 3,5,6-trichloro-2-pyridinol ( TCP ) and 2-isopropyl-6-methyl-4-pyrimidinol ( IMP ) , in food and in environmental media .
+This information raises questions regarding the reliability of using these same metabolites , TCP and IMP , as urinary biomarkers to quantitatively assess the everyday exposures of children to CPF and DZN , respectively .
+In this study , we quantified the distributions of CPF , DZN , TCP , and IMP in several environmental and personal media at the homes and day-care centers of 127 Ohio preschool children and identified the important sources and routes of their exposures .
+The children were exposed to concurrent levels of these four chemicals from several sources and routes at these locations .
+DZN and IMP were both detected above 50% in the air and dust samples .
+CPF and TCP were both detected in greater than 50% of the air , dust ( solid ) , food , and hand wipe samples .
+TCP was detected in 100% of the urine samples .
+Results from our regression models showed that creatinine levels ( <0.001 ) , and dietary ( P<0.001 ) and inhalation ( P<0.10 ) doses of TCP were each significant predictors of urinary TCP , collectively explaining 27% of the urinary TCP variability .
+This information suggests that measurement of urinary TCP did not reliably allow quantitative estimation of the children's everyday environmental exposures to CPF .

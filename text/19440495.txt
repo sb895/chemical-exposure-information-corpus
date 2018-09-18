@@ -1,0 +1,10 @@
+BACKGROUND Environmental exposure to some persistent organic pollutants has been reported to be associated with a metabolic syndrome in the U.S. population .
+OBJECTIVES We evaluated the associations of body burden levels of dioxins and related compounds with the prevalence of metabolic syndrome among the general population in Japan .
+METHODS We conducted a cross-sectional study with 1,374 participants not occupationally exposed to these pollutants , living throughout Japan during 2002-2006 .
+In fasting blood samples , we measured biochemical factors and determined lipid-adjusted concentrations of 10 polychlorinated dibenzo-p-dioxins ( PCDDs ) , 7 polychlorinated dibenzofurans ( PCDFs ) , and 12 dioxin-like poly-chlorinated biphenyls ( DL-PCBs ) all of which have toxic equivalency factors .
+We also performed a questionnaire survey .
+RESULTS The toxic equivalents ( TEQs ) of PCDDs , PCDFs , and DL-PCBs and total TEQs had significant adjusted associations with metabolic syndrome , whether or not we excluded diabetic subjects .
+By analyzing each component of metabolic syndrome separately , the DL-PCB TEQs and total TEQs were associated with all components , and the odds ratios ( ORs ) in the highest quartile of DL-PCB TEQs in four of the five components were higher than those for PCDDs or PCDFs .
+We also found congener-specific associations with metabolic syndrome ; in particular , the highest quartiles of PCB-126 and PCB-105 had adjusted ORs of 9.1 and 7.3 , respectively .
+CONCLUSIONS These results suggest that body burden levels of dioxins and related compounds , particularly those of DL-PCBs , are associated with metabolic syndrome .
+Of the components , high blood pressure , elevated triglycerides , and glucose intolerance were most closely associated with these pollutants .

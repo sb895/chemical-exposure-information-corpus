@@ -1,0 +1,11 @@
+Global phthalate ester production has increased from very low levels at the end of World War II to approximately 3.5 million metric tons/year .
+The aim of the present study was to investigate potential associations between persistent allergic symptoms in children , which have increased markedly in developed countries over the past three decades , and the concentration of phthalates in dust collected from their homes .
+This investigation is a case-control study nested within a cohort of 10,852 children .
+From the cohort , we selected 198 cases with persistent allergic symptoms and 202 controls without allergic symptoms .
+A clinical and a technical team investigated each child and her or his environment .
+We found higher median concentrations of butyl benzyl phthalate ( BBzP ) in dust among cases than among controls ( 0.15 vs. 0.12 mg/g dust ) .
+Analyzing the case group by symptoms showed that BBzP was associated with rhinitis ( p = 0.001 ) and eczema ( p = 0.001 ) , whereas di(2-ethylhexyl) phthalate ( DEHP ) was associated with asthma ( p = 0.022 ) .
+Furthermore , dose-response relationships for these associations are supported by trend analyses .
+This study shows that phthalates , within the range of what is normally found in indoor environments , are associated with allergic symptoms in children .
+We believe that the different associations of symptoms for the three major phthalates-BBzP , DEHP , and di-n-butyl phthalate-can be explained by a combination of chemical physical properties and toxicologic potential .
+Given the phthalate exposures of children worldwide , the results from this study of Swedish children have global implications .

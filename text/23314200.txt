@@ -1,0 +1,13 @@
+BACKGROUND Acute exposure to environmental chemicals can result in loss of consciousness and upon recovery neurological symptoms , but little evidence exists in large epidemiological human studies .
+Hence , it was aimed to determine the relationships between urinary environmental chemicals ( including heavy metals , environmental bisphenols , pesticides , arsenic , and phthalates ) concentrations and vision , hearing , and balance disorders in a national population-based setting .
+METHODS United States National Health and Nutrition Examination Surveys is a national population-based multi-year cross-sectional study .
+Information on demographics and vision , hearing , and balance disorders was obtained by household interview using questionnaires in the 2003-2004 cohort ( aged 50 and above ) .
+Urinary environmental chemicals were detected by mass spectrometry in selected but representative people .
+Analyses involved logistic regression models .
+RESULTS Urinary cadmium , molybdenum , and tungsten concentrations , which are commonly associated with heart disease , were associated with vision disorder .
+Urinary 2,4,5-trichlorophenol and arsenic acid concentrations and circulating mono-n-butyl phthalate , mono-benzyl phthalate , and mono-(3-carboxypropyl) phthalate metabolites were significantly associated with hearing disorder .
+Moreover , urinary barium and 4-tert-octyl-phenol concentrations were associated with balance disorder .
+People who had ears ringing , roaring , or buzzing in the past year tended to have higher urinary barium , 2,4-dichlorophenol , and mono-benzyl phthalate concentrations .
+DISCUSSION Significant correlations were observed in urinary environmental chemicals and neurobehavioural impairment for the first time .
+However , the causation cannot be established due to its cross-sectional study design .
+Future studies with a longitudinal aspect and/or in clinical trials are warranted to clearly understand the biological mechanism along the pathway before drawing a firm conclusion on these relationships .

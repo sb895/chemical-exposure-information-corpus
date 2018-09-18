@@ -1,0 +1,10 @@
+In this study , 10 perfluorochemicals ( PFCs ) were measured in meat , meat products , and eggs , and in indoor dust , collected in China .
+Perfluorooctanoic acid ( PFOA ) and perfluorooctane sulfonate ( PFOS ) were the most frequently detected PFCs in these samples .
+Mean concentrations of PFOS and PFOA in foodstuffs were in the range of 0.05-1.99 ng/g fresh wt and 0.06-12.5 ng/g fresh wt , respectively .
+The mean concentrations of PFOA , perfluoroheptanoic acid ( PFHpA ) , and PFOS in indoor dust were 205 , 14.0 , and 4.86 ng/g , dry wt , respectively .
+The estimated daily intake of PFOS and PFOA from meat , meat products and eggs ( EDI(meat&eggs) ) ranged from 6.00 to 9.64 ng/d and from 254 to 576 ng/d , respectively , when the values below the limit of quantitation ( LOQ ) were assigned as 0 , and from 8.80 to 15.0 ng/d and from 255 to 577 ng/d , respectively , when the values below the LOQ were set at 1/2LOQ .
+The EDI(meat&eggs) of PFOS and PFOA increased with increasing family income .
+The estimated daily intake of PFOS and PFOA through inhalation of dust ( EDI(dust) ) ranged from 0.23 to 0.31 ng/d and from 9.68 to 13.4 ng/d , respectively .
+The daily intakes of PFOS and PFOA from the consumption of meat , meat products , and eggs , and from dust ingestion , as calculated from our samples in this study , were compared with estimated daily intake of PFCs reported from the concentrations in drinking water , fish and seafood from China .
+Our calculations indicate that dietary sources ( EDI(dietary) ) account for the overwhelming proportion of ( >99% for PFOS and 98% for PFOA ) total daily intake ( TDI ) in adults .
+The analyzed foodstuffs ( meat , meat products , and eggs ) were not the major contributors to dietary exposure to PFOS , whereas , meat was the primary contributor to dietary exposure to PFOA .

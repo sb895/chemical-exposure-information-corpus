@@ -1,0 +1,8 @@
+Infants may be particularly sensitive regarding hormonally active compounds such as Bisphenol A ( BPA ) , which is widely distributed and exhibits weak oestrogenic activity .
+Since only free ( unconjugated ) BPA exhibits endocrine activity , both free and total ( after hydrolysis of conjugates ) BPA were determined in urine samples of infants to support valid risk assessments .
+Free BPA was observed above the LOQ in only 3 of 91 ( 3% ) samples from 47 infants .
+As total BPA was observed in only 38 ( 42% ) urine samples , with concentrations between <LOQ and 17.85 \u03bcg/l , the median concentration was below the LOQ of 0.45 \u03bcg/l .
+Based on 0.225 \u03bcg/l ( half of the LOQ ) , a margin of exposure 1400-fold below the tolerable daily intake ( TDI ) of 50 \u03bcg/kg bw was calculated .
+The highest concentration observed ( 17.85 \u03bcg/l ) was 18-fold below the TDI .
+Infants who were fed using baby bottles show approximately 2-fold higher median levels of total BPA .
+Importantly , the higher levels of total BPA compared to free BPA demonstrate that conversion of BPA to biologically inactive conjugates such as glucuronides or sulphates , which is well known to efficiently occur in adults , also occurs in infants .

@@ -1,0 +1,7 @@
+This paper presents the results of analyses of water samples taken from water intakes supplying one of the districts located near the city of Wroc\u0142aw .
+Surprisingly high concentrations of polychlorinated biphenyls and chloroorganic pesticides , classified as persistent organic pollutants ( POPs ) , were detected in the monitored sites .
+Basing on the analytical and toxicological data , the individual health risks related to carcinogenic effects ( excess cancer risk over a lifetime ) in humans were assessed , resulting from direct ingestion of community water .
+Also noncarcinogenic effects resulting from exposure to the examined POPs were determined .
+The conservative approach to risk assessment , taking into account a safety margin for data incompleteness , was adopted .
+The carcinogenic risk was found to slightly exceed the unconditionally acceptable risk of 10(-6) in the case of polychlorinated biphenyls and hexachlorocyclohexane , for all the inhabitant populations .
+The determined values of noncarcinogenic effects expressed by hazard quotient and hazard index indicate that the water pollutants and their concentrations do not cause an increase in noncarcinogenic incidences in the inhabitants using the monitored water sources .

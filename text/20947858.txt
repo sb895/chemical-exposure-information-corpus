@@ -1,0 +1,10 @@
+BACKGROUND AND PURPOSE Mechanistic and human studies suggest a role for arsenic in ischemic stroke ; however , risks from chronic , low-level exposures are uncertain and US studies are lacking .
+The objective was to investigate the association between low-level arsenic exposure in drinking water and ischemic stroke hospital admissions in Michigan .
+METHODS Ischemic stroke hospital admissions among those aged \u2265 45 years were identified ( 1994 to 2006 ) .
+Population-weighted average arsenic concentrations were estimated for each Michigan county ( n = 83 ) and for zip codes in Genesee County ( n=27 ) where there is greater variation in arsenic concentrations .
+US Census data provided age- and sex-specific population counts and other county- and zip code-level variables ( race , income ) , which were adjusted for in multilevel negative binomial regression models of arsenic and stroke admissions .
+Hospital admissions for duodenal ulcer and hernia , not hypothesized to be associated with arsenic , were also evaluated .
+RESULTS Adjusted county-level analyses suggested a relationship between arsenic and ischemic stroke hospital admissions , although similar associations were observed for duodenal ulcer and hernia .
+In zip code-level analysis , arsenic was associated with an increased risk of stroke admission ( relative risk , 1.03 ; 95% CI , 1.01 to 1.05 per \u03bcg/L increase in arsenic ) after adjustment for confounders , and null or negative associations were found between arsenic and nonvascular outcomes .
+CONCLUSIONS Findings from this study suggest that exposure to even low levels of arsenic in drinking water may be associated with a higher risk of incident stroke .
+Given the ecological nature of the analysis , further epidemiological study with individual-level data on arsenic exposure and incident stroke is warranted .

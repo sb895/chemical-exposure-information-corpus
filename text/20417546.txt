@@ -1,0 +1,11 @@
+The aim of this work was to evaluate urinary benzene , toluene , ethylbenzene , m+p-xylene , o-xylene ( BTEX ) , methyl tert-butyl ether ( MTBE ) , ethyl tert-butyl ether ( ETBE ) , and naphthalene ( NAP ) as biomarkers of exposure to environmental pollutants .
+Personal air and urine samples from 108 subjects belonging to the Italian general population were compared .
+Urinary profiles were obtained by headspace gas chromatography-mass spectrometry .
+BTEX , MTBE , ETBE and NAP median airborne exposures during a 5-h sampling were 4.0 , 25.3 , 3.8 , 9.3 , 3.4 , 3.4 , <0.8 , and 3.4 microg/m(3) , respectively .
+Meanwhile , median urinary levels , as geometric means of three determinations were : 122 , 397 , 74 , 127 , 43 , 49 , <15 , and 46 ng/L , respectively .
+Urinary benzene and toluene concentrations were 4.6- and 1.2-fold higher in smokers than in non-smokers .
+For most chemicals , significant positive correlations between airborne exposure ( log-transformed ) and the corresponding biological marker ( log-transformed ) were found , with Pearson's r values for correlation , ranging from 0.228 to 0.396 .
+Multiple linear regression analysis showed that the urinary level of these chemicals was influenced by personal airborne exposure , urinary creatinine , and urinary cotinine , with R(2) 0.733 for benzene .
+Urinary chemicals are useful biomarkers of environmental exposure .
+Given the ease of rapidly obtaining urine samples , they represent a non-invasive alternative to blood chemical analysis .
+The possibility of obtaining urinary exposure profiles makes this method an appealing tool for environmental epidemiology .

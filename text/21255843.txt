@@ -1,0 +1,7 @@
+BACKGROUND Concerns regarding the persistence , bioaccumulation , long-range transport , and adverse health effects of polybrominated dipheyl ethers ( PBDEs ) have recently come to light .
+PBDEs may potentially be of concern to indigenous ( First Nations ) people of Canada who subsist on traditional foods , but there is a paucity of information on this topic .
+OBJECTIVES AND METHODS To investigate whether the traditional diet is a major source of PBDEs in sub-Arctic First Nations populations of the Hudson Bay Lowlands ( James and Hudson Bay),Ontario , Canada , a variety of tissues from wild game and fish were analyzed for PBDE content ( n=147 ) and dietary exposure assessed and compared to the US EPA reference doses ( RfDs ) .
+In addition , to examine the effect of isolation/industrialization on PBDE body burdens , the blood plasma from three First Nations ( Cree Nation of Oujé-Bougoumou , Quebec ; Fort Albany First Nation , Ontario ; and Weenusk First Nation [ Peawanuck ] , Ontario , Canada ) were collected ( n=54 ) and analyzed using a log-linear contingency model .
+RESULTS AND CONCLUSIONS The mean values of PBDEs in wild meats and fish adjusted for standard consumption values and body weight , did not exceed the US EPA RfD .
+Log linear modeling of the human PBDE body burden showed that PBDE body burden increases as access to manufactured goods increases .
+Thus , household dust from material goods containing PBDEs is likely responsible for the human exposure ; the traditional First Nations diet appears to be a minor source of PBDEs .

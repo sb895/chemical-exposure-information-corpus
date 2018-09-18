@@ -1,0 +1,12 @@
+BACKGROUND Prenatal exposure to environmental levels of organochlorines ( OCs ) has been demonstrated to have immunotoxic effects in humans .
+We investigated the relationship between prenatal exposure to OCs and the occurrence of otitis media ( OM ) among Inuit children in Greenland .
+METHODS We estimated the concentration of 14 PCB congeners and 11 pesticides in maternal and cord blood samples and in breast milk in a population-based cohort of 400 mother-child pairs .
+At follow-up , we examined the children's ears and used their medical records to assess the OM occurrence and severity .
+Multivariate regression analyses were used with adjustments for passive smoking , crowding , dietary habits , parent's educational level , breast feeding and the use of child-care .
+RESULTS The children were 4-10 years of age at follow-up and 223 ( 85% ) participated .
+We found no association between prenatal OC exposure and the development of OM .
+Factors associated with the child's hazard of OM during the first 4 years of life were : mother's history of OM ( HR 1.70 , 95% CI 1.11-2.59 , p=0.01 ) ; mother's smoking habits : current ( HR 2.47 , 95% CI 1.45-4.21 , p<0.01 ) and previous ( HR 2.00 , 95% CI 1.19-3.36 , p<0.01 ) ; number of smokers in the home ( HR 1.17 , 95% CI 1.05-1.31 , p<0.01 ) .
+After adjustment mothers ' smoking habits remained significant .
+CONCLUSION We found no relationship between high levels of prenatal exposure of OCs and occurrence of OM .
+Passive smoking was found as the strongest environmental risk factor for the development of OM .
+Interventions to reduce passive smoke in children's environment are needed .

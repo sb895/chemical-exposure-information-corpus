@@ -1,0 +1,7 @@
+OBJECTIVES To estimate a threshold value for the respirable quartz dust concentration and silicosis incidence ( 1/1 , ILO 1980/2000 ) in the German porcelain worker cohort .
+METHODS Forty incident cases occurred among 17,144 workers .
+Estimation of the relationship to cumulative respirable quartz dust exposures by using Cox regression with restricted cubic splines ( 7 knots or less ) and fractional polynomials ( degrees 5 or less ) .
+Threshold estimates were obtained by subtracting candidate values from the time-dependent concentration data ( setting the result to zero if negative ) and recalculating cumulative exposure .
+RESULTS Best threshold estimate was 0.25 mg/m ( 95% confidence interval : 0.15 to 0.30 mg/m ) .
+CONCLUSIONS A concentration threshold for silicosis risk is plausible .
+A threshold Cox model fitted the data significantly better than a nonthreshold model , summarized the cohort information without a loss in extracted information and more simply than restricted cubic splines and fractional polynomials .

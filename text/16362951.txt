@@ -1,0 +1,9 @@
+BACKGROUND Dental laboratory technicians are exposed to dust and/or methyl methacrylate ( MMA ) in the workplace .
+Potential effects of the exposures on lung function merit further clarification .
+METHODS This study measured lung function of 45 dental technicians , before and after shifts , on 3 workdays and monitored workplace concentrations of particulate matter with aerodynamic diameter less than 2.5 mm ( PM2.5 ) and MMA in five dental laboratories in Taiwan .
+Base metals in particles were analyzed by X-ray fluorescence .
+Repeated measurement analysis was applied to estimate potential effects of PM2.5 on pulmonary function .
+RESULTS PM2.5 ranged from 26 microg/m3 to 664 microg/m3 and levels of MMA were low in these laboratories .
+Nickel , cobalt , and chromium were detected in the particles .
+After controlling for important factors , PM2.5 was associated with a small decrease in forced vital capacity and forced expiratory flow in one second .
+CONCLUSION Workplace PM2.5 was associated with a non-significant decrease in lung function of dental technicians .

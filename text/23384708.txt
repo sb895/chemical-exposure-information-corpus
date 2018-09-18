@@ -1,0 +1,10 @@
+BACKGROUND Epidemiological evidence of the effects of long-term exposure to air pollution on the chronic processes of atherogenesis is limited .
+OBJECTIVE We investigated the association of long-term exposure to traffic-related air pollution with subclinical atherosclerosis , measured by carotid intima media thickness ( IMT ) and ankle-brachial index ( ABI ) .
+METHODS We performed a cross-sectional analysis using data collected during the reexamination ( 2007-2010 ) of 2,780 participants in the REGICOR ( Registre Gironí del Cor : the Gerona Heart Register ) study , a population-based prospective cohort in Girona , Spain .
+Long-term exposure across residences was calculated as the last 10 years ' time-weighted average of residential nitrogen dioxide ( NO2 ) estimates ( based on a local-scale land-use regression model ) , traffic intensity in the nearest street , and traffic intensity in a 100 m buffer .
+Associations with IMT and ABI were estimated using linear regression and multinomial logistic regression , respectively , controlling for sex , age , smoking status , education , marital status , and several other potential confounders or intermediates .
+RESULTS Exposure contrasts between the 5th and 95th percentiles for NO2 ( 25 µg/m3 ) , traffic intensity in the nearest street ( 15,000 vehicles/day ) , and traffic load within 100 m ( 7,200,000 vehicle-m/day ) were associated with differences of 0.56% ( 95% CI : -1.5 , 2.6% ) , 2.32% ( 95% CI : 0.48 , 4.17% ) , and 1.91% ( 95% CI : -0.24 , 4.06 ) percent difference in IMT , respectively .
+Exposures were positively associated with an ABI of > 1.3 , but not an ABI of < 0.9 .
+Stronger associations were observed among those with a high level of education and in men \u2265 60 years of age .
+CONCLUSIONS Long-term traffic-related exposures were associated with subclinical markers of atherosclerosis .
+Prospective studies are needed to confirm associations and further examine differences among population subgroups .

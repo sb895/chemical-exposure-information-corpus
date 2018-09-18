@@ -1,0 +1,9 @@
+Some environmental monitoring programs have reported increasing levels of certain polybrominated diphenyl ether ( PBDE ) isomers in aquatic biota and in human breast milk .
+The commercial PBDE products are known as penta- , octa- , and deca-brominated diphenyl ethers ( PeBDE , OBDE and DBDE , respectively ) .
+Aside from the current European Commission's risk assessment initiative and efforts underway in Sweden , Canada and elsewhere to evaluate environmental levels , little is understood about sources of exposure and risks to humans .
+In this study , a multi-pathway human health risk assessment was performed to predict theoretical chronic daily intakes ( CDIs ) of PeBDE , OBDE , and DBDE by five different age groups : 0-2 , 2-6 , 6-12 , 12-18 , and 18-70 years .
+Sources of exposure included air , drinking water , consumption of fish , vegetables , meat and dairy products , and ingestion of breast milk by infants .
+In addition to a deterministic analysis , the risk assessment included a probabilistic analysis to derive the probability density functions describing the range of plausible exposures associated with eight different pathways , as well as aggregate lifetime exposures for each age group .
+The results were compared to CDI point estimates calculated by the European Chemicals Bureau as part of the European Commission's Existing Substances Programme .
+The major sources of uncertainties are discussed , including environmental sources , levels in different environmental compartments , toxicity , and human exposure .
+This paper also discusses the limitations in the current state-of-the-science and provides recommendations for improving the scientific relevance and accuracy of future environmental risk assessments of PBDEs .

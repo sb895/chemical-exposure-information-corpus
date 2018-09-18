@@ -1,0 +1,6 @@
+The US Food and Drug Administration ( USFDA ) and Environmental Protection Agency ( USEPA ) are advising women and young children to avoid eating fish that contain high levels of mercury ( Hg ) .
+However in Taiwan , the annual Black Fin Tuna Festival encourages the public to consume fish .
+The aim of this study was to assess fish intake in relation to the health risks of mercury exposure and calculate the acceptable and safe intake of fish in children and women of childbearing age .
+From the Monte Carlo simulation , based on USEPA's reference dose ( 0.1 microgkg(-1)d(-1) ) , we found that 21.6%-24.3% and 45.6%-57.4% of the daily mercury dose estimates exceeded the reference dose for typical and high-seafood consumers .
+The acceptable ingestion rates are <50 g d(-1) ( children ) and 90.8 +/- 15.7 g d(-1) ( women of childbearing ) .
+Sensitivity analysis suggests that Hg concentration in fish may be a key parameter to aid governments as they offer guidance for risk management .

@@ -1,0 +1,9 @@
+BACKGROUND California children's exposures to polybrominated diphenyl ether flame retardants ( PBDEs ) are among the highest worldwide .
+PBDEs are known endocrine disruptors and neurotoxicants in animals .
+OBJECTIVE Here we investigate the relation of in utero and child PBDE exposure to neurobehavioral development among participants in CHAMACOS ( Center for the Health Assessment of Mothers and Children of Salinas ) , a California birth cohort .
+METHODS We measured PBDEs in maternal prenatal and child serum samples and examined the association of PBDE concentrations with children's attention , motor functioning , and cognition at 5 ( n = 310 ) and 7 years of age ( n = 323 ) .
+RESULTS Maternal prenatal PBDE concentrations were associated with impaired attention as measured by a continuous performance task at 5 years and maternal report at 5 and 7 years of age , with poorer fine motor coordination-particularly in the nondominant-at both age points , and with decrements in Verbal and Full-Scale IQ at 7 years .
+PBDE concentrations in children 7 years of age were significantly or marginally associated with concurrent teacher reports of attention problems and decrements in Processing Speed , Perceptual Reasoning , Verbal Comprehension , and Full-Scale IQ .
+These associations were not altered by adjustment for birth weight , gestational age , or maternal thyroid hormone levels .
+CONCLUSIONS Both prenatal and childhood PBDE exposures were associated with poorer attention , fine motor coordination , and cognition in the CHAMACOS cohort of school-age children .
+This study , the largest to date , contributes to growing evidence suggesting that PBDEs have adverse impacts on child neurobehavioral development .

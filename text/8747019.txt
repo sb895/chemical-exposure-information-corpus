@@ -1,0 +1,13 @@
+Child of agriculture families are likely to be exposed to agricultural chemicals , even if they are not involved in farm activities .
+This study was designed to determine whether such children are exposed to higher levels of pesticides than children whose parents are not involved in agriculture and whose homes are not close to farms .
+Household dust and soil samples were collected in children's play areas from 59 residences in eastern Washington State ( 26 farming , 22 farmworker , and 11 nonfarming families ) .
+The majority of the farm families lived within 200 feet of an operating apple or pear orchard , whereas all reference homes were located at least a quarter of a mile from an orchard .
+Four organophosphorous ( OP ) insecticides commonly used on tree fruit were targeted for analysis : azinphosmethyl , chlorpyrifos , parathion , and phosmet .
+Samples were extracted and analyzed by gas chromatography/mass selective detection .
+Pesticide concentrations in household dust were significantly higher than in soil for all groups .
+OP levels for farmer/farm-worker families ranged from nondetectable to 930 ng/g in soil ( 0.93 ppm ) and from nondetectable to 17,000 ng/g in dust ( 17 ppm ) ; all four OP compounds were found in 62% of household dust samples , and two-thirds of the farm homes contained at least one OP above 1000 ng/g .
+Residues were found less frequently in reference homes and all levels were below 1000 ng/g .
+Household dust concentrations for all four target compounds were significantly lower in reference homes when compared to farmer/farmworker homes ( Mann Whitney , U test ; p < 0.05 ) .
+These results demonstrate that children of agricultural families have a higher potential for exposure to OP pesticides than children of nonfarm families in this region .
+Measurable residues of a toxicity , I compound registered exclusively for agricultural use , azcnphosmettyl were found in household dust samples from all study homes , suggesting that low level exposure to such chemicals occurs throughout the region .
+Children's total and cumulative exposure to this pesticide class from household dust , soil , and other sources warrants further investigation .

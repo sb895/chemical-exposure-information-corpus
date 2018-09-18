@@ -1,0 +1,16 @@
+Arsenic ( As ) pollution in the surroundings of metal mines has been observed , and may induce serious health problems , in particular cancer .
+Health hazard attributed to As in contaminated soil and water in the vicinity of closed or abandoned metal mines may be high .
+Little is known about how environmental exposure to As has affected the health of resident near closed metal mines .
+The objectives of this study were to compare the urinary level of As for those living near closed metal mines ( the exposed group ) with that of non-exposed group ; and to investigate the correlation between As levels in soil ( SoilAs ) and water ( WaterAs ) and the urinary levels ( UrineAs ) of residents in the exposed group .
+Data for SoilAs and WaterAs were obtained from the national environmental survey performed between 2003 and 2005 by the Ministry of Environment in Korea .
+To measure UrineAs , 2674 and 237 subjects were selected from 67 closed metal mines ( exposed areas ) and two rural areas ( non-exposed areas ) , respectively .
+Five milliliters of urine samples were taken , and graphite furnace atomic absorption spectrometry was used to analyze UrineAs .
+Of all the exposed areas , high SoilAs and WaterAs areas that exceed the Korean standards of As in soil ( 6 mg/kg-soil ) and stream or groundwater ( 0.05 mg/l-water ) were classified to evaluate the health risks in high polluted areas .
+Also , high UrineAs group was defined as 20 \u03bcg/g creatinine or more .
+Student's t-test was performed to compare the UrineAs level between the exposed and non-exposed groups .
+The odds ratio ( OR ) was calculated by a logistic analysis to evaluate the risk for high UrineAs level from high SoilAs and WaterAs areas .
+The mean of urinary As were 8.90 ± 8.34 \u03bcg/g-creatinine for the exposed group and 7.68 ± 4.98 \u03bcg/g creatinine for the non-exposed group , respectively ; and the significant difference of urinary As level was observed between both groups ( p<0.05 ) .
+Moreover , the means for urinary As of people in areas with high As level in soil and water were significantly higher than that for the control areas ( p<0.001 ) , and these differences were more pronounced for the As level in water .
+The odds of subjects with high UrineAs were positively and significantly associated with living in the areas with high As level in soil ( OR=1.62 ; 95% C.I.=1.13-2.31 ) .
+These associations were much stronger for the areas with high WaterAs ( OR=3.79 ; 95% C.I.=2.32-6.19 ) .
+These results indicate that the high level of As in environment may increase the risk of having high urinary As level of people in the exposed areas .

@@ -1,0 +1,9 @@
+Cyclists may experience increased exposure to traffic-related air pollution owing to increased minute ventilation and close proximity to vehicle emissions .
+The aims of this study were to characterize personal exposures to air pollution among urban cyclists and to identify potential determinants of exposure including the type of cycling lane ( separated vs on-road ) , traffic counts , and meteorological factors .
+In total , personal air pollution exposure data were collected over 64 cycling routes during morning and evening commutes in Montreal , Canada , over 32 days during the summer of 2011 .
+Measured pollutants included ultrafine particles ( UFPs ) , fine particles ( PM(2.5) ) , black carbon ( BC ) , and carbon monoxide ( CO ) .
+Counts of diesel vehicles were important predictors of personal exposures to BC , with each 10 vehicle/h increase associated with a 15.0% ( 95% confidence interval ( CI ) : 5.7% , 24.0% ) increase in exposure .
+Use of separated cycling lanes had less impact on personal exposures with a 12% ( 95% CI : -43% , 14% ) decrease observed for BC and smaller decreases observed for UFPs ( mean : -1.3% , 95% CI : -20% , 17% ) and CO ( mean : -5.6% , 95% CI : -17% , 4% ) after adjusting for meteorological factors and traffic counts .
+On average , PM(2.5) exposure increased 7.8% ( 95% CI : -17% , 35% ) with separate cycling lane use , but this estimate was imprecise and not statistically significant .
+In general , our findings suggest that diesel vehicle traffic is an important contributor to personal BC exposures and that separate cycling lanes may have a modest impact on personal exposure to some air pollutants .
+Further evaluation is required , however , as the impact of separate cycling lanes and/or traffic counts on personal exposures may vary between regions .

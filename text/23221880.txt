@@ -1,0 +1,11 @@
+BACKGROUND Prenatal and early-life periods may be critical windows for harmful effects of air pollution on infant health .
+OBJECTIVES We studied the association of air pollution exposure during pregnancy and the first year of life with respiratory illnesses , ear infections , and eczema during the first 12-18 months of age in a Spanish birth cohort of 2,199 infants .
+METHODS We obtained parentally reported information on doctor-diagnosed lower respiratory tract infections ( LRTI ) and parental reports of wheezing , eczema , and ear infections .
+We estimated individual exposures to nitrogen dioxide ( NO(2) ) and benzene with temporally adjusted land use regression models .
+We used log-binomial regression models and a combined random-effects meta-analysis to estimate the effects of air pollution exposure on health outcomes across the four study locations .
+RESULTS A 10-µg/m(3) increase in average NO(2) during pregnancy was associated with LRTI [ relative risk ( RR ) = 1.05 ; 95% CI : 0.98 , 1.12 ] and ear infections ( RR = 1.18 ; 95% CI : 0.98 , 1.41 ) .
+The RRs for an interquartile range ( IQR ) increase in NO(2) were 1.08 ( 95% CI : 0.97 , 1.21 ) for LRTI and 1.31 ( 95% CI : 0.97 , 1.76 ) for ear infections .
+Compared with NO(2) , the association for an IQR increase in average benzene exposure was similar for LRTI ( RR = 1.06 ; 95% CI : 0.94 , 1.19 ) and slightly lower for ear infections ( RR = 1.17 ; 95% CI : 0.93 , 1.46 ) .
+Associations were slightly stronger among infants whose mothers spent more time at home during pregnancy .
+Air pollution exposure during the first year was highly correlated with prenatal exposure , so we were unable to discern the relative importance of each exposure period .
+CONCLUSIONS Our findings support the hypothesis that early-life exposure to ambient air pollution may increase the risk of upper and lower respiratory tract infections in infants .

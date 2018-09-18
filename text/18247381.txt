@@ -1,0 +1,7 @@
+BACKGROUND The mortality experience over 22-24 years of 8,899 working coal miners initially medically examined in 1969-1971 at 31 U.S. coal mines was evaluated .
+METHODS A cohort life-table analysis was undertaken on underlying causes of death , and proportional hazards models were fitted to both underlying , and underlying and contributing causes of death .
+RESULTS Elevated mortality from nonviolent causes , nonmalignant respiratory disease ( NMRD ) , and accidents was observed , but lung cancer and stomach cancer mortality were not elevated .
+Smoking , pneumoconiosis , coal rank region , and cumulative coal mine dust exposure were all predictors of mortality from nonviolent causes and NMRD .
+Mortality from nonviolent causes and NMRD was related to dust exposure within the complete cohort and also for the never smoker subgroup .
+Dust exposure relative risks for mortality were similar for pneumoconiosis , NMRD , and chronic airways obstruction .
+CONCLUSIONS The findings confirm and enlarge upon previous results showing that exposure to coal mine dust leads to increased mortality , even in the absence of smoking .

@@ -1,0 +1,11 @@
+BACKGROUND Mercury is a toxic metal that has been used for centuries as a constituent of medicines and other items .
+OBJECTIVE We assessed exposure to inorganic mercury in the adult population of New York City ( NYC ) .
+METHODS We measured mercury concentrations in spot urine specimens from a representative sample of 1,840 adult New Yorkers in the 2004 NYC Health and Nutrition Examination Survey .
+Cases with urine concentrations \u2265 20 µg/L were followed up with a telephone or in-person interview that asked about potential sources of exposure , including ritualistic/cultural practices , skin care products , mercury spills , herbal medicine products , and fish .
+RESULTS Geometric mean urine mercury concentration in NYC was higher for Caribbean-born blacks [ 1.39 µg/L ; 95% confidence interval ( CI ) , 1.14-1.70 ] and Dominicans ( 1.04 µg/L ; 95% CI , 0.82-1.33 ) than for non-Hispanic whites ( 0.67 µg/L ; 95% CI , 0.60-0.75 ) or other racial/ethnic groups .
+It was also higher among those who reported at least 20 fish meals in the past 30 days ( 1.02 µg/L ; 95% CI , 0.83-1.25 ) than among those who reported no fish meals ( 0.50 µg/L ; 95% CI , 0.41-0.61 ) .
+We observed the highest 95th percentile of exposure ( 21.18 µg/L ; 95% CI , 7.25-51.29 ) among Dominican women .
+Mercury-containing skin-lightening creams were a source of exposure among those most highly exposed , and we subsequently identified 12 imported products containing illegal levels of mercury in NYC stores .
+CONCLUSION Population-based biomonitoring identified a previously unrecognized source of exposure to inorganic mercury among NYC residents .
+In response , the NYC Health Department embargoed products and notified store owners and the public that skin-lightening creams and other skin care products that contain mercury are dangerous and illegal .
+Although exposure to inorganic mercury is not a widespread problem in NYC , users of these products may be at risk of health effects from exposure .

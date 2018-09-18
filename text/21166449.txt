@@ -1,0 +1,10 @@
+Passage of environmental chemicals across the placenta has important toxicological consequences , as well as for choosing samples for analysis and for interpreting the results .
+To obtain systematic data , we collected in 2000 maternal and cord blood , cord tissue , placenta , and milk in connection with births in the Faroe Islands , where exposures to marine contaminants is increased .
+In 15 sample sets , we measured a total of 87 environmental chemicals , almost all of which were detected both in maternal and fetal tissues .
+The maternal serum lipid-based concentrations of organohalogen compounds averaged 1.7 times those of cord serum , 2.8 times those of cord tissue and placenta , and 0.7 those of milk .
+For organohalogen compounds detectable in all matrices , a high degree of correlation between concentrations in maternal serum and the other tissues investigated was generally observed ( r(2) > 0.5 ) .
+Greater degree of chlorination resulted in lower transfer from maternal serum into milk .
+Concentrations of pentachlorbenzene , \u03b3-hexachlorocyclohexane , and several polychlorinated biphenyl congeners with low chlorination were higher in fetal samples and showed poor correlation with maternal levels .
+Perfluorinated compounds occurred in lower concentrations in cord serum than in maternal serum .
+Cadmium , lead , mercury , and selenium were all detected in fetal samples , but only mercury showed close correlations among concentrations in different matrices .
+Although the environmental chemicals examined pass through the placenta and are excreted into milk , partitions between maternal and fetal samples are not uniform .

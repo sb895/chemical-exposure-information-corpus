@@ -1,0 +1,10 @@
+Persistent organic pollutants ( POPs ) are suggested to contribute to lower vitamin D levels ; however , studies in humans are scarce and have never focused on pregnancy , a susceptibility period for vitamin D deficiency .
+We investigated whether serum levels of POPs were associated with circulating 25-hydroxyvitamin D3 [ 25(OH)D3 ] concentration in pregnancy .
+Cross-sectional associations of serum concentrations of eight POPs with plasma 25(OH)D3 concentration were analyzed in 2031 pregnant women participating in the Spanish population-based cohort INfancia y Medio Ambiente ( INMA ) Project .
+Serum concentrations of POPs were measured by gas chromatography and plasma 25(OH)D3 concentration was measured by high-performance liquid chromatography in pregnancy ( mean 13.3±1.5weeks of gestation ) .
+Multivariable regression models were performed to assess the relationship between blood concentrations of POPs and 25(OH)D3 .
+An inverse linear relationship was found between serum concentration of PCB180 and circulating 25(OH)D3 .
+Multivariate linear regression models showed higher PCB180 levels to be associated with lower 25(OH)D3 concentration : quartile Q4 vs. quartile Q1 , coefficient=-1.59 , 95% CI -3.27 , 0.08 , p trend=0.060 .
+A non-monotonic inverse relationship was found between the sum of predominant PCB congeners ( PCB 180 , 153 and 138 ) and 25(OH)D3 concentration : coefficient ( 95% CI ) for quartile Q2 vs. Q1 [ -0.50 ( -1.94 , 0.94) ] , quartile Q3 vs. Q1 [ -1.56 ( -3.11 , -0.02) ] and quartile Q4 vs. Q1 [ -1.21 ( -2.80 , 0.38) ] , p trend=0.081 .
+No significant associations were found between circulating 25(OH)D3 and serum levels of p,p'-DDE , p,p'-DDT , HCB , and ß-HCH .
+Our results suggest that the background exposure to PCBs may result in lower 25(OH)D3 concentration in pregnant women .

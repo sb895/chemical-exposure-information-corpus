@@ -1,0 +1,10 @@
+BACKGROUND The etiologies of the male urogenital anomalies--cryptorchidism and hypospadias--are poorly understood .
+Given positive associations between chlordane isomers and testicular germ cell tumors , it is reasonable to assume that chlordanes might also be associated with other testicular dysgenesis syndrome disorders , namely cryptorchidism and hypospadias .
+OBJECTIVE To examine whether exposure to in utero chlordane is related to cryptorchidism and hypospadias , we evaluated levels of chlordane derivatives , trans-nonachlor and oxychlordane , among pregnant women enrolled in the Collaborative Perinatal Project ( CPP ) .
+METHODS From 1959 to 1965 , the CPP enrolled pregnant women at 12 U.S. medical centers .
+We analyzed serum trans-nonachlor and oxychlordane levels measured in third-trimester serum from the mothers of 217 sons with cryptorchidism , 197 sons with hypospadias , and 557 sons with neither condition .
+Adjusted odds ratios ( ORs ) and 95% confidence intervals were calculated using conditional logistic regression .
+RESULTS The quartile-specific ORs for cryptorchidism or hypospadias show no notable associations with trans-nonachlor or oxychlordane .
+Further , there were no significant trends with increasing quartile of maternal trans-nonachlor or oxychlordane level in either cryptorchidism or hypospadias ( p-trend all > 0.45 ) .
+CONCLUSIONS The results do not support an association between chlordane levels and cryptorchidism or hypospadias .
+It is unlikely that current chlordane exposure is related to the development of either anomaly , given that serum chlordane levels at the time of sample collection , the early 1960s , were considerably higher than levels at present .

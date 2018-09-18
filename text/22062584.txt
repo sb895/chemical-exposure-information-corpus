@@ -1,0 +1,13 @@
+BACKGROUND Public health policies such as tobacco control , air pollution reduction , and hazardous waste remediation may have reduced cadmium exposure among U.S. adults .
+However , trends in urine cadmium , a marker of cumulative cadmium exposure , have not been evaluated .
+OBJECTIVES We estimated the trends in urine cadmium concentrations in U.S. adults using data from the National Health and Nutrition Examination Surveys ( NHANES ) from 1988 to 2008 .
+We also evaluated the impact of changes in the distribution of available cadmium determinants ( age , sex , race , education , body mass index , smoking , and occupation ) at the population level to explain cadmium trends .
+METHODS The study population included 19,759 adults \u2265 20 years of age with measures of urine cadmium and cadmium determinants .
+RESULTS Age-adjusted geometric means of urine cadmium concentrations were 0.36 , 0.35 , 0.27 , 0.27 , 0.28 , 0.25 , and 0.26 µg/g creatinine in 1988-1991 , 1991-1994 , 1999-2000 , 2001-2002 , 2003-2004 , 2005-2006 , and 2007-2008 , respectively .
+The age , sex , and race/ethnicity-adjusted percent reduction in urine cadmium geometric means comparing 1999-2002 and 2003-2008 with 1988-1994 were 27.8% ( 95% confidence interval : 22.3% , 32.9% ) and 34.3% ( 29.9% , 38.4% ) , respectively ( p-trend < 0.001 ) , with reductions in all participant subgroups investigated .
+In never smokers , reductions in serum cotinine accounted for 15.6% of the observed reduction .
+In ever smokers , changes in smoking cessation , and cumulative and recent dose accounted for 17.1% of the observed reduction .
+CONCLUSIONS Urine cadmium concentrations decreased markedly between 1988 and 2008 .
+Declining smoking rates and changes in exposure to tobacco smoke may have played an important role in the decline of urine cadmium concentrations , benefiting both smokers and nonsmokers .
+Cadmium has been associated to several health outcomes in NHANES 1999-2008 .
+Consequently , despite the observed decline , further reduction in cadmium exposure is needed .

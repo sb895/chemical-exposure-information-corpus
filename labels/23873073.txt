@@ -1,0 +1,1 @@
+< < < <exposure routes--inhalation--modeled exposure--<  Biomonitoring--effect marker--physiological parameter<biomonitoring--effect marker--biomarker--molecule--other molecule< < <  Biomonitoring--effect marker--physiological parameter< <biomonitoring--effect marker--biomarker--molecule--other molecule< <  Biomonitoring--effect marker--physiological parameter< < 

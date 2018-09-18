@@ -1,0 +1,16 @@
+BACKGROUND Despite indoor home environments being where people spend most time , involving residents in testing those environments has been very limited , especially in marginalized communities .
+We piloted participatory testing and reporting that combined relatively simple tests with actionable reporting to empower residents in Main South/Piedmont neighborhoods of Worcester , Massachusetts .
+We answered : 1 ) How do we design and implement the approach for neighborhood and household environments using participatory methods ? 2 ) What do pilot tests reveal ? 3 ) How does our experience inform testing practice ?
+METHODS The approach was designed and implemented with community partners using community-based participatory research .
+Residents and researchers tested fourteen homes for : lead in dust indoors , soil outdoors , paint indoors and drinking water ; radon in basement air ; PM2.5 in indoor air ; mold spores in indoor/outdoor air ; and drinking water quality .
+Monitoring of neighborhood particulates by residents and researchers used real-time data to stimulate dialogue .
+RESULTS Given the newness of our partnership and unforeseen conflicts , we achieved moderate-high success overall based on process and outcome criteria : methods , test results , reporting , lessons learned .
+The conflict burden we experienced may be attributable less to generic university-community differences in interests/culture , and more to territoriality and interpersonal issues .
+Lead-in-paint touch-swab results were poor proxies for lead-in-dust .
+Of eight units tested in summer , three had very high lead-in-dust ( >1000 microg/ft2 ) , six exceeded at least one USEPA standard for lead-in-dust and/or soil .
+Tap water tests showed no significant exposures .
+Monitoring of neighborhood particulates raised awareness of environmental health risks , especially asthma .
+CONCLUSIONS Timely reporting back home-toxics ' results to residents is ethical but it must be empowering .
+Future work should fund the active participation of a few motivated residents as representatives of the target population .
+Although difficult and demanding in time and effort , the approach can educate residents and inform exposure assessment .
+It should be considered as a core ingredient of comprehensive household toxics ' testing , and has potential to improve participant retention and the overall positive impact of long-term environmental health research efforts .

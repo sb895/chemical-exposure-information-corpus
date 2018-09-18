@@ -1,0 +1,11 @@
+The detection of mutagenic and carcinogenic chlorination by-products in chlorinated drinking water has raised concern in many countries over the potential health effects of long-term exposure to these products .
+The relation between estimated exposure to historical drinking water mutagenicity and cancer was studied in Finland by using a population-based case-control study comprising 732 bladder cancer cases , 703 kidney cancer cases , and 914 controls .
+The cases were obtained from the nationwide Finnish Cancer Registry for the years 1991-1992 .
+The controls , frequency matched by age and sex , were randomly selected from the national population registry .
+Information on past drinking water sources and confounding factors was acquired through a questionnaire .
+Historical exposure to drinking water mutagenicity was estimated by using information on past residence , past water source , and historical data on water quality and treatment .
+Odds ratios were calculated for an increase of 3,000 net revertants per liter ( net rev/liter ) in average exposure from 1950 to 1987 , adjusting for age , sex , socioeconomic status , and smoking in logistic regression models .
+A small , statistically significant , exposure-related excess risk was found for kidney cancer for men ( odds ratio = 1.49 , 95 percent confidence interval ( CI ) 1.05-2.13 ) for 3,000 net rev/liter exposure level .
+For women , the association remained nonsignificant , with a lower odds ratio of 1.08 ( 95% CI 0.69-1.68 ) .
+For bladder cancer , the odds ratio for both men and women was 1.22 ( 95% CI 0.92-1.62 ) for 3,000 net rev/liter exposure .
+However , a higher odds ratio of 2.59 ( 95% CI 1.13-5.94 ) for 3,000 net rev/liter exposure was observed for male nonsmokers .

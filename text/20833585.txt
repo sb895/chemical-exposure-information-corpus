@@ -1,0 +1,11 @@
+Concentrations of volatile organic compounds ( VOCs ) , including formaldehyde , in classrooms , kindergartens , and outdoor playgrounds of three primary schools were measured in spring , winter , and fall terms in \u0130zmir , Turkey .
+A health-risk assessment was conducted for odor detection , sensory irritation , chronic toxic effects , and cancer .
+Active sampling was applied for VOCs and formaldehyde on Tenax TA and DNPH tubes , respectively .
+VOCs were analyzed in a thermal desorption-GC-MS system .
+Formaldehyde analysis was performed using an HPLC instrument .
+Benzene , toluene , and formaldehyde were the most abundant compounds with 95th percentile indoor air concentrations of 29 , 87 , and 106 \u03bcg/m(3) , respectively .
+Naphthalene and xylenes followed them with an order of magnitude lower concentrations .
+Two isomers of dichlorobenzene ( 1,3 and 1,4 ) were the other notable compounds .
+The concentrations were utilized to classify the indoor air pollutants with respect to potential health effects .
+In addition , carcinogenic and chronic toxic risks were estimated using Monte-Carlo simulation .
+Formaldehyde appears to be the most concerning pollutant with high chronic toxic and carcinogenic risk levels according to the health assessment followed by naphthalene , benzene , and toluene due to their chronic effects .

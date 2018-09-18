@@ -1,0 +1,12 @@
+BACKGROUND Many studies have reported associations between ambient particulate matter ( PM ) and adverse health effects , focused on either short-term ( acute ) or long-term ( chronic ) PM exposures .
+For chronic effects , the studied cohorts have rarely been representative of the population .
+We present a novel exposure model combining satellite aerosol optical depth and land-use data to investigate both the long- and short-term effects of PM2.5 exposures on population mortality in Massachusetts , United States , for the years 2000-2008 .
+METHODS All deaths were geocoded .
+We performed two separate analyses : a time-series analysis ( for short-term exposure ) where counts in each geographic grid cell were regressed against cell-specific short-term PM2.5 exposure , temperature , socioeconomic data , lung cancer rates ( as a surrogate for smoking ) , and a spline of time ( to control for season and trends ) .
+In addition , for long-term exposure , we performed a relative incidence analysis using two long-term exposure metrics : regional 10 × 10 km PM2.5 predictions and local deviations from the cell average based on land use within 50 m of the residence .
+We tested whether these predicted the proportion of deaths from PM-related causes ( cardiovascular and respiratory diseases ) .
+RESULTS For short-term exposure , we found that for every 10-µg/m increase in PM 2.5 exposure there was a 2.8% increase in PM-related mortality ( 95% confidence interval [ CI ] = 2.0-3.5 ) .
+For the long-term exposure at the grid cell level , we found an odds ratio ( OR ) for every 10-µg/m increase in long-term PM2.5 exposure of 1.6 ( CI = 1.5-1.8 ) for particle-related diseases .
+Local PM2.5 had an OR of 1.4 ( CI = 1.3-1.5 ) , which was independent of and additive to the grid cell effect .
+CONCLUSIONS We have developed a novel PM2.5 exposure model based on remote sensing data to assess both short- and long-term human exposures .
+Our approach allows us to gain spatial resolution in acute effects and an assessment of long-term effects in the entire population rather than a selective sample from urban locations .

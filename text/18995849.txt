@@ -1,0 +1,9 @@
+Persistent organic pollutants , such as polychlorinated biphenyls ( PCBs ) , hexachlorobenzene ( HCB ) , and p,p'-dichlorophenyldichloroethylene ( DDE ) , have been found to elicit a broad spectrum of biologic , metabolic , and immunologic responses .
+The potential of these pollutants to impair immune responses and trigger autoimmune disease is of growing concern , given their structural similarity to thyroid hormones and their potential to modulate the mechanisms and interfere with the binding of these hormones .
+We examine the relationship of different groupings of PCBs , according to chlorination and structure , and of p,p'-DDE and HCB to anti-thyroid peroxidase antibody , a useful tool in the evaluation of thyroid dysfunction , among 115 young adults of the Akwesasne Mohawk Nation .
+Overall , 18 participants ( 15.4% ) had anti-thyroid peroxidase antibodies ( TPOAb ) levels above the normal laboratory reference range ( 23% of females , 9% of males ) .
+Among participants who were breast fed ( n=47 ) , those with an elevated TPOAb level had significantly higher levels of all PCB groupings , with the exception of levels of non-persistent PCBs which did not differ significantly .
+Levels of p,p'-DDE were also significantly elevated , while HCB and mirex were not higher among those with elevated TPOAb .
+Also , after stratifying by breast-feeding status , participants who were breast fed showed significant , positive relationships between TPOAb levels and all PCB groupings , except groups comprised of non-persistent PCBs , and with p,p'-DDE , HCB , and mirex .
+No effects were evident among non-breast-fed young adults .
+Further studies are necessary to elucidate the site and mechanism of action of these persistent organic pollutants ( POPs ) and to establish thresholds for these effects , especially among populations with background levels of toxicant exposure .

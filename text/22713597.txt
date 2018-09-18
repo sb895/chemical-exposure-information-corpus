@@ -1,0 +1,10 @@
+Prenatal arsenic exposure is associated with increased infant morbidity and reduced thymus size , indicating arsenic-related developmental immunotoxicity .
+We aimed to evaluate effects of prenatal arsenic exposure on thymic function at birth and related mechanisms of action .
+In a Bangladeshi cohort , arsenic was measured in urine ( U-As , gestational week ( GW ) 8 and 30 ) and blood ( B-As , GW14 ) in 130 women .
+Child thymic index was measured by sonography at birth and thymic function by signal-joint T-cell receptor-rearrangement excision circles ( sjTRECs ) in cord blood mononuclear cells ( CBMC ) .
+In a subsample ( n = 44 ) , sjTRECs content in isolated CD4(+) and CD8(+) T cells , expression of oxidative-stress defense and apoptosis-related genes in CBMC , arsenic concentrations ( urine , placenta , and cord blood ) , and oxidative stress markers in placenta and cord blood were measured .
+In multivariable-adjusted regression , ln U-As ( GW8 ) was inversely associated with ln sjTRECs in CBMC ( B = -0.25 ; 95% confidence interval [ CI ] -0.48 to -0.01 ) .
+Using multivariable-adjusted spline regression , ln U-As ( GW30 ) and ln B-As ( GW14 ) were inversely associated with ln sjTRECs in CBMC ( B = -0.53 ; 95% CI -0.93 to -0.13 and B = -1.27 ; 95% CI -1.89 to -0.66 , respectively ) below spline knots at U-As 150 µg/l and B-As 6 µg/kg .
+Similar inverse associations were observed in separated CD4(+) and CD8(+) T cells .
+Arsenic was positively associated with 8-hydroxy-2'-deoxyguanosine in cord blood ( B = 0.097 ; 95% CI 0.05 to 0.13 ) , which was inversely associated with sjTRECs in CD4(+) and CD8(+) T cells .
+In conclusion , prenatal arsenic exposure was associated with reduced thymic function , possibly via induction of oxidative stress and apoptosis , suggesting subsequent immunosuppression in childhood .
