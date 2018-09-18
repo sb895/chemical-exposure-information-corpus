@@ -1,5 +1,4 @@
-# chemical-exposure
-Chemical Exposure Information Corpus for text classification.
+#Chemical Exposure Information Corpus for text classification.
 
 The Chemical Exposure Information (CEI) Corpus consists of 3661 PubMed publication abstracts manually annotated by experts according to a taxonomy. The taxonomy consists of 32 classes in a hierarchy. Zero or more class labels are assigned to each sentence in the corpus.  The labels are found under the "labels" directory, while the tokenized text can be found under "text" directory. The filenames are the corresponding PubMed IDs (PMID).
 
